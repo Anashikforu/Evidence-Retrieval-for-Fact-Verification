@@ -1,0 +1,19 @@
+
+{{taxobox
+|name = Magnoliaceae
+|image = Sweetbay1082.jpg
+|image_caption = ''Magnolia virginiana''
+|regnum = Plantae
+|divisio = Magnoliophyta
+|classis = Magnoliopsida
+|ordo = Magnoliales
+|familia = '''Magnoliaceae'''
+|familia_authority = Antoine Laurent de Jussieu|Juss.}}
+
+The '''Magnoliaceae''', or '''Magnolia Family''', is a flowering plant family in the order Magnoliales. The family has about 225 species in 7 genera. 
+
+
+
+
+
+Category:Magnoliaceae| 

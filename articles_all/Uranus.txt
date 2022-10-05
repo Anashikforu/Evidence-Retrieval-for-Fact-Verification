@@ -1,0 +1,59 @@
+
+
+'''Uranus''' is the seventh planet from the Sun in the Solar System.  It is an ice giant as Neptune. It is the third largest planet in the solar system.
+
+The planet is made of ice, gases and liquid metal. Its atmosphere contains hydrogen (1H), helium (2He) and methane. The temperature on Uranus is .
+
+The planet is axial tilt|tilted on its Axis (mathematics)|axis so much that it is sideways.Its north and south poles, therefore, lie where most other planets have their equators. Smith B.A. 1986. Voyager 2 in the Uranian system: imaging science results. ''Science'' '''233''' (4759): 43–64. 
+The distance between Uranus and the Sun is about 2.8 billion kilometer|km.  Uranus completes its orbit  around the Sun in 84 earth years. It completes a spin around itself in 17 hours and 14 minutes. This means there are about 43,000 Uranian days in one Uranian year.library.thinkquest.org/C005921/Uranus/uranLocOrb.htm
+
+Uranus was discovered in 1781.  This planet can be seen with the naked eye under perfect conditions. John Flamsteed saw it decades earlier but mistook it for a star (34 Tauri).
+
+Uranus is named after Uranos|Uranus, the Greek mythology|Greek name of the Sumerian god Anu, who was a god of the sky.
+
+ History 
+= Discovery =
+Uranus  has been observed many times through a telescope, and even through the naked eye, but was mistaken for a star due to its slow orbit. Sir William Herschel observed Uranus on 13 March 1781 from the garden of his house at 19 New King Street in Bath, Somerset, England (now the Herschel Museum of Astronomy),
+
+Herschel wrote in his journal: "In the quartile near Zeta Tauri|ζ Tauri&nbsp;... either a Nebulous star or perhaps a comet."Royal Astronomical Society MSS W.2/1.2, 23; quoted in #Miner|Miner p. 8. On 17 March he noted: "I looked for the Comet or Nebulous Star and found that it is a Comet, for it has changed its place."RAS MSS Herschel W.2/1.2, 24, quoted in #Miner|Miner p. 8. When he presented his discovery to the Royal Society, he continued to assert that he had found a comet, but also implicitly compared it to a planet:
+
+
+Herschel notified the Astronomer Royal Nevil Maskelyne of his discovery and received this reply from him on 23 April 1781: "I don't know what to call it. It is as likely to be a regular planet moving in an orbit nearly circular to the sun as a Comet moving in a very eccentric ellipsis. I have not yet seen any coma or tail to it."RAS MSS Herschel W1/13.M, 14 quoted in #Miner|Miner p. 8.
+
+Although Herschel continued to describe his new object as a comet, other astronomers had already begun to think otherwise. Finnish-Swedish astronomer Anders Johan Lexell, working in Russia, was the first to calculate the orbit of the new object. Its nearly circular orbit led him to a conclusion that it was a planet rather than a comet. Berlin astronomer Johann Elert Bode described Herschel's discovery as "a moving star that can be deemed a hitherto unknown planet-like object circulating beyond the orbit of Saturn".Johann Elert Bode, Berliner Astronomisches Jahrbuch, p. 210, 1781, quoted in #Miner|Miner, p. 11. Bode concluded that its near-circular orbit was more like a planet's than a comet's.#Miner|Miner, p. 11.
+
+The object was soon universally accepted as a new planet. By 1783, Herschel acknowledged this to Royal Society president Joseph Banks: "By the observation of the most eminent Astronomers in Europe it appears that the new star, which I had the honour of pointing out to them in March 1781, is a Primary Planet of our Solar System." In recognition of his achievement, George III of the United Kingdom|King George III gave Herschel an annual stipend of £200 on condition that he move to Windsor, Berkshire|Windsor so that the Royal Family could look through his telescopes (
+
+ Moons 
+Uranus has 27 known Natural satellite|moons.  They are named for characters from the works of Shakespeare and Alexander Pope.  The five biggest moons are Miranda (moon)|Miranda, Ariel (moon)|Ariel, Umbriel (moon)|Umbriel, Titania (moon)|Titania and Oberon (moon)|Oberon.  Many moons have yet to be discovered.
+
+ Exploring 
+In 1986, NASA's ''Voyager 2'' visited Uranus. This is the only space probe that tried to investigate the planet from a short distance. The spacecraft studied the atmosphere of the planet.Tyler, J.L.; Sweetnam, D.N.; Anderson, J.D.; Campbell, J. K.; Eshleman, V. R.; Hinson, D. P.; Levy, G. S.; Lindal, G. F.; Marouf, E. A.; Simpson, R. A. (1986). "Voyger 2 Radio Science Observations of the Uranian System: Atmosphere, Rings, and Satellites". ''Science''. '''233''' (4759): 79–84.
+
+ Clouds 
+Uranus is covered in blue clouds. The top clouds, made of methane, are difficult to see.. Scientists are studying the clouds to try to understand the storms on the planet.
+
+ Rings 
+The planet '''Uranus''' has a system made of '''13 rings''' which is far fewer than the rings of Saturn but more than those around Rings of Jupiter|Jupiter and Rings of Neptune|Neptune.  The rings of Uranus were discovered in 1977.  The rings are probably mainly composed of frozen water.
+
+The rings of Uranus are thought to be relatively young, not more than 600 million years old. The Uranian ring system probably began from the collisional fragmentation of moons that once existed around the planet. After colliding, the moons probably broke up into many particles, which survived as narrow, optically dense rings only in zones of maximum stability.
+
+= General properties =
+The ring system of Uranus has thirteen distinct rings. In order of increasing distance from the planet they are: 1986U2R/ζ, 6, 5, 4, α, β, η, γ, δ, λ, ε, ν, μ rings. They can be divided into three groups: nine narrow main rings (6, 5, 4, α, β, η, γ, δ, ε), two dusty rings (1986U2R/ζ, λ) and two outer rings (μ, ν). The rings of Uranus   consist mainly of macroscopic particles and  little dust, although dust is known to be present in 1986U2R/ζ, η, δ, λ, ν and μ rings.
+
+In addition to these well-known rings, there may be numerous optically thin dust bands and faint rings between them. These faint rings and dust bands may exist only temporarily. Some of them became visible during a series of ring plane-crossing events in 2007. geometry by ''Voyager 2''.  All rings of Uranus show azimuthal brightness variations.
+
+The rings are made of an extremely dark material. The rings are slightly red in the ultraviolet and visible parts of the spectrum and grey in near-infrared. They show no identifiable spectrum analysis|spectral features. The chemical composition of the ring particles is not known. However, they cannot be made of pure water ice like the rings of Saturn because they are too dark, darker than the moons of Uranus|inner moons of Uranus. This shows that they are probably a mixture of the ice and a dark material.  The nature of this material is not clear, but it may be organic compounds considerably darkened by the charged particle irradiation from the Uranian magnetosphere. The rings' particles may consist of a heavily processed material which was initially similar to that of the inner moons.
+
+As a whole, the ring system of Uranus is unlike either the faint dusty rings of Jupiter or the broad and complex rings of Saturn, some of which are composed of very bright material—water ice. However, there are similarities with some parts of the latter ring system; the Saturnian F ring and the ε ring are both narrow, relatively dark and are shepherded by a pair of moons. The newly discovered outer rings of Uranus are similar to the outer G and E rings of Saturn (planet)|Saturn. Narrow ringlets existing in the broad Saturnian rings also resemble the narrow rings of Uranus. In addition, dust bands observed between the main rings of Uranus may be similar to the rings of Jupiter. In contrast, the Rings of Neptune|Neptunian ring system is quite similar to that of Uranus, although it is less complex, darker and contains more dust. The Neptunian rings are also positioned further from the planet.
+
+ Orbit and rotation 
+
+Uranus revolves around the Sun once every 84 Earth years. Its average distance from the Sun is roughly 3 1,000,000,000 (number)|billion&nbsp;km (about 20 Astronomical Unit|AU). The intensity of sunlight on Uranus is about 1/400 that on Earth.
+
+The rotational period of the interior of Uranus is 17&nbsp;hours, 14&nbsp;minutes, clockwise (retrograde motion|retrograde). As on all giant planets, its upper atmosphere experiences very strong winds in the direction of rotation. At some latitudes, such as about two-thirds of the way from the equator to the south pole, visible features of the atmosphere move much faster, making a full rotation in as little as 14 hours.
+
+Related pages
+ List of planets
+
+Category:Uranus (planet)| 

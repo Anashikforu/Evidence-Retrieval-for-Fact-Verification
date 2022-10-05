@@ -1,0 +1,9 @@
+
+
+Many Biology|biological structures including spider webs and the shells of mollusca|mollusks. In these cases, the reason is the following: Start with any irregularly shaped two-dimensional figure ''F''0. Expand ''F''0 by a certain factor to get ''F''1, and place ''F''1 next to ''F''0, so that two sides touch. Now expand ''F''1 by the same factor to get ''F''2, and place it next to ''F''1 as before. Repeating this will produce an approximate logarithmic spiral whose pitch is determined by the expansion factor and the angle with which the figures were placed next to each other. This is shown for polygonal figures in the accompanying graphic.
+
+Related pages
+Fibonacci sequence
+Spring loaded camming device|Spring Loaded Camming Device
+
+Category:Logorithms

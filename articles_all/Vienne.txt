@@ -1,0 +1,147 @@
+
+
+
+'''Vienne''' is a departments of France|department in southwestern France in the Nouvelle-Aquitaine Regions of France|region. It is named after the Vienne (river)|Vienne river, the most important river in the department.
+
+History
+Vienne is one of the 83 French departments made during the French revolution, on 4 March 1790. It was created from parts of the old provinces of Poitou, Touraine and Berry (province of France)|Berry, until the 15th century part of the Duchy of Aquitaine.
+
+The new department had six districts: Châtellerault, Civray, Loudun, Lusignan, Montmorillon and Poitiers. The Capital city|capital (now Prefectures in France|prefecture) was Poitiers.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the six districts were changed into five ''arrondissements'': Châtellerault, Civray, Loudun, Montmorillon and Poitiers.
+
+On 10 September 1926, the ''arrondissements'' of Civray and Loudun were eliminated.
+
+Geography
+Vienne is part of the Nouvelle-Aquitaine Regions of France|region. It has an area of .
+
+The highest point of the department is ''Signal de Prun'',  high, in the ''commune'' of Adriers, in the Massif Central.
+
+The department is bordered by 6 departments in three regions:
+ Pays de la Loire region
+ Maine-et-Loire
+ Centre-Val de Loire region
+ Indre-et-Loire
+ Indre (department)|Indre
+ Nouvelle-Aquitaine region
+ Haute-Vienne
+ Charente
+Deux-Sèvres
+
+
+
+The main river in the department is the Vienne (river)|Vienne that gives its name to the department; it is one of the main tributary of the Loire River|Loire river. The Vienne river flows through the department from north to south.
+
+=Climate=
+The climate of Poitiers is an oceanic climate with template summers, '''Cfb''' (Marine West Coast Climate) in the Köppen climate classification.
+
+The average amount of precipitation for the year in Poitiers is .
+
+The average temperature for the year in Poitiers is .
+
+Administration
+The department is managed by the ''Departamental Council of the Vienne'' in Poitiers. Vienne is part of the region of Nouvelle-Aquitaine.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 19 Cantons in France|''cantons'' and 274 Communes in France|''communes'' (Municipality|municipalities) in Vienne.
+
+
+
+
+The following is a list of the 19 ''cantons'' of the Vienne department, following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Chasseneuil-du-Poitou|Chasseneuil-du-Poitou (8601)
+# Canton of Châtellerault-1|Châtellerault-1 (8602)
+# Canton of Châtellerault-2|Châtellerault-2 (8603)
+# Canton of Châtellerault-3|Châtellerault-3 (8604)
+# Canton of Chauvigny|Chauvigny (8605)
+# Canton of Civray|Civray (8606)
+# Canton of Jaunay-Clan|Jaunay-Clan (8607)
+# Canton of Loudun|Loudun (8608)
+# Canton of Lusignan|Lusignan (8609)
+# Canton of Lussac-les-Châteaux|Lussac-les-Châteaux (8610)
+# Canton of Migné-Auxances|Migné-Auxances (8611)
+# Canton of Montmorillon|Montmorillon (8612)
+# Canton of Poitiers-1|Poitiers-1 (8613)
+# Canton of Poitiers-2|Poitiers-2 (8614)
+# Canton of Poitiers-3|Poitiers-3 (8615)
+# Canton of Poitiers-4|Poitiers-4 (8616)
+# Canton of Poitiers-5|Poitiers-5 (8617)
+# Canton of Vivonne|Vivonne (8618)
+# Canton of Vouneuil-sur-Vienne|Vouneuil-sur-Vienne (8619)
+
+
+Demographics
+The inhabitants of Vienne are known, in French language|French, as ''Viennois'' (women: ''Viennoises'').
+
+Vienne has a population, in 2014, of 433,203, for a population density of  inhabitants/km2. The ''arrondissement'' of Poitiers, with 246,038 inhabitants, is by far the largest. The other two, Châtellerault and Montmorillon, have respectively 112,313 and 74,852 inhabitants.
+
+
+'''Evolution of the population in Vienne'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:500000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:100000 start:0
+ScaleMinor = gridcolor:lightgrey increment:50000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2008 text:2008
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 319208
+ bar:1975 from:0 till: 331619
+ bar:1982 from:0 till: 340256
+ bar:1990 from:0 till: 357366
+ bar:1999 from:0 till: 371428
+ bar:2008 from:0 till: 424354
+ bar:2014 from:0 till: 433203
+
+PlotData=
+ bar:1968 at: 319208 fontsize:S text: 319,208 shift:(-13,5)
+ bar:1975 at: 331619 fontsize:S text: 331,619 shift:(-18,5)
+ bar:1982 at: 340256 fontsize:S text: 340,256 shift:(-18,5)
+ bar:1990 at: 357366 fontsize:S text: 357,366 shift:(-18,5)
+ bar:1999 at: 371428 fontsize:S text: 371,428 shift:(-18,5)
+ bar:2008 at: 424354 fontsize:S text: 424,354 shift:(-18,5)
+ bar:2014 at: 433203 fontsize:S text: 433,203 shift:(-18,5)
+
+
+
+The 10 main cities in the department are:
+
+
+
+
+Gallery
+
+Poitiers, Église Notre-Dame la Grande-PM 31852.jpg|''Notre-Dame la Grande'' church, Poitiers
+Saint-Martin-l'Ars 86 Abbaye la Réau Vue SW 2012.jpg|Remains of the abbey, Saint-Martin-l'Ars
+Romagne Saint-Laurent 2010.jpg|''Saint-Laurent'' church, Romagne, Vienne|Romagne
+Montmorillon pont.JPG|The old bridge of Montmorillon
+
+
+Related pages
+ Arrondissements of the Vienne department
+ Communes of the Vienne department
+
+Category:Departments in Nouvelle-Aquitaine

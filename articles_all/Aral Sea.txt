@@ -1,0 +1,39 @@
+{{Infobox lake
+|lake_name=Aral Sea
+|image_lake=Aral Sea 1989-2008.jpg
+|caption_lake=The Aral Sea in 1989 (left) and 2008 (right)
+|image_bathymetry =
+|caption_bathymetry =
+|location = Kazakhstan - Uzbekistan,Central Asia
+|coords = 
+|type = endorheic, natural lake, reservoir (North)
+|inflow = North: Syr DaryaSouth: groundwater only(previously the Amu Darya)
+|outflow =
+|catchment = 
+|basin_countries = Afghanistan, Kazakhstan, Tajikistan, Turkmenistan, Uzbekistan
+|length =
+|width =
+|area =   (2005)
+|depth = North: (2005)
+|max-depth = North: (2008) (1989)
+|volume = North:  (2007)
+|residence_time =
+|shore =
+|elevation=North:  (1960)JAXA - |islands =
+|cities = }}
+
+The '''Aral Sea''' () was a lake in Central Asia. It is between Kazakhstan in the north and Karakalpakstan, an autonomous region of Uzbekistan, in the south.
+
+Since the 1960s, the Aral Sea wikt:shrink|shrank. 90% of the sea has gone. The rivers that fed it (the Amu Darya and the Syr Darya) were used by the Soviet Union for irrigation|irrigating cotton production. What is left of the Aral Sea is heavily water pollution|polluted, largely as the result of military testing|weapons testing, industry|industrial projects, and fertilizer|fertilizer runoff before and after the breakup of the Soviet Union.
+There is a project to save at least the northern part of the Aral Sea. For this, a dam was built in the 1990 to stop water running off. Climate improved in the following years, and water levels rose again. However, that dam broke, and was rebuilt in 2005, with international funding.
+
+Another problem was that the Island of Rebirth had been used for the testing of biological warfare|biological weapons until 1993. It is currently contaminated with Anthrax (disease)|anthrax, the plague, and tularemia. Since 2001, it is no longer an island, but a peninsula.
+
+
+Image:Karte aralsee.jpg |2004 photo of the Aral Sea (The black lines are where it was in 1850)
+Image:Modis aral.jpg|Rebirth island (an island in the Aral Sea) joins the mainland (2000/2001)
+Image:AralSea ComparisonApr2005-06.jpg|North Aral Sea, comparison April 2005/2006 (showing the sea has grown)
+Image:Aral Sea.gif|Shrinking of the Aral Sea 1960-2014
+
+
+Category:Lakes of Kazakhstan

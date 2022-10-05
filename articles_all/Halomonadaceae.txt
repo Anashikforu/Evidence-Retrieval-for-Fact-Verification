@@ -1,0 +1,18 @@
+
+ 
+
+The '''Halomonadaceae''' are a family of halophilic proteobacteria. The family was originally created in 1988 to contain the genera ''Halomonas'' and ''Deleya''.Franzmann P.D., Wehmeyer U. and Stackebrandte E. 1988. Halomonadaceae fam. nov., a new family of the class Proteobacteria to accommodate the genera Halomonas and Deleya. ''Syst. Appl. Microbiol.'' '''11''', 16-19. Many of its members were only recently discovered, and research is discovering new facts about them.
+
+ GFAG-1 
+'''GFAJ-1''' is a wikt:strain|strain of rod-shaped extremophile bacteria in the '''Halomonadaceae'''. It was claimed that, when it did not have phosphorus, it took the usually poisonous Chemical element|element arsenic as a substitute. 
+
+Geomicrobiologist Felisa Wolfe-Simon collected lake-bottom sediments in the shallow waters of Mono Lake in California. Wolfe-Simon cultured the organisms from this hyperSalinity|saline (very salty) and highly alkaline environment. They grew in an arsenic-containing medium.
+
+Unfortunately, the conclusions taken from this research have been disproved. A group of researchers analyzed the DNA of GFAJ-1, and could not detect any arsenic.
+
+ Background 
+Life is mostly composed of the Chemical element|elements carbon, hydrogen, nitrogen, oxygen, sulfur, and phosphorus. Although these six elements make up nucleic acids, proteins, and lipids and thus the bulk of living matter, it is possible in theory that some other elements in the periodic table might serve the same functions.
+
+It is believed that all life needs phosphorus as a basic piece of the ‘backbone’ that holds DNA together. Likewise ATP (adenosine triphosphate), a key molecule in the cells' Krebs cycle|energy cycle.
+
+Category:Extremophiles

@@ -1,0 +1,15 @@
+
+
+'''''Zhuyin Fuhao''''', often shortened as '''zhuyin''' and commonly called '''''bopomofo''''', is a type of sound-based writing for the Chinese language. In Chinese language|Chinese, "bo", "po", "mo" and "fo" are the first four of the conventional ordering of available syllables. As a result, the four syllables together have been used to refer to many different phonetics|phonetic systems. For Chinese speakers who were first introduced to the Zhuyin system, "bopomofo" means ''zhuyin fuhao''.
+
+
+
+The zhuyin characters are represented in typographic typeface|fonts as if drawn with an ink brush (as in Regular Script). They are encoded in Unicode in the bopomofo block, in the range U+3105 ... U+312D.
+
+ History 
+After the overthrow of Puyi|China's last emperor during the Xinhai Revolution in 1911, the new government in China created Zhuyin to help the common people read more easily. When the People's Liberation Army defeated the Kuomintang (the founding party of the Republic of China) in 1949 and sent them off to exile in Taiwan, the use of Zhuyin dropped in mainland China because the Communist Party of China|CPC was interested in using the Latin alphabet for writing Chinese phonetically. However, Zhuyin is still widely used in Taiwan as it is used to type Chinese on computer and phone keyboards.
+
+ Features 
+Zhuyin was made to closely represent the sounds of Mandarin Chinese. Symbols are divided into two categories, the initials (the first sounds in a syllable) and the finals (the main vowel, the glide consonants (y/i; IPA:/j/ and w/u; IPA:/w/) that come before the main vowel and all the sound that comes after it). There are 4 tone marks to represent the 5 Mandarin tones.
+
+Category:Chinese language

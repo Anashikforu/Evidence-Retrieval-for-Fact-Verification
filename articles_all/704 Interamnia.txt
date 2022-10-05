@@ -1,0 +1,44 @@
+{{Infobox Planet   | bgcolour=#FFFFC0 |
+ name=704 Interamnia
+ | discoverer=Vincenzo Cerulli
+ | discovered=October 2, 1910
+ | image=704 Interamnia VLT (2021), deconvolved.pdf
+ | caption=
+ | alt_names=1910 KU; 1952 MW
+ | mp_category=Main belt
+ | epoch=October 22, 2004 (Julian day|JD 2453300.5)
+ | semimajor=458.187 Giga|Gmetre|m (3.063 Astronomical unit|AU)
+ | perihelion=389.910 Gm (2.606 AU)
+ | aphelion=526.464 Gm (3.519 AU)
+ | eccentricity=0.149
+ | period=1957.827 day|d (5.36 Julian year (astronomy)|a)
+ | inclination=17.285degree (angle)|°
+ | asc_node=280.422°
+ | arg_peri=95.654°
+ | mean_anomaly=204.093°
+ | avg_speed=16.92 km/second|s
+ | dimensions=350.4×303.7 km  | mass=5.7×1019 kilogram|kg
+ | density=3.6 g/cubic centimetre|cm³
+ | surface_grav=0.186 m/s²
+ | escape_velocity=242.9 m/s
+ | rotation=0.364 d  | spectral_type=F-type asteroid|F
+ | abs_magnitude=5.94
+ | albedo=0.075
+ | single_temperature=~160 kelvin|K}}
+'''704 Interamnia''' is a very big asteroid. Scientists think it is 350 kilometers wide. Its mean distance from the Sun is 3.067 (astronomical unit|AU). It was found on October 2, 1910 by Vincenzo Cerulli. It is named after the Latin name for Teramo, Italy, which is where Cerulli worked. It is the fifth heaviest asteroid after Ceres (dwarf planet)|Ceres, 4 Vesta|Vesta, 2 Pallas|Pallas and 10 Hygiea|Hygiea, and scientists think that it makes up 2.0% of the mass of the whole asteroid belt.
+
+ Characteristics 
+Although the biggest asteroid apart from the "big four", Interamnia is not studied a lot. 
+It is easily the biggest of the F-type asteroids, but there are few details of what the inside is made of or shape and no lightcurve analysis has been done to find out the ecliptic coordinates of Interamnia's poles (and its axial tilt). Its apparently high bulk density (though subject to much error) suggests a very solid body entirely without internal porosity or traces of water. This also strongly suggests that Interamnia is big enough to have withstood all the collisions that have happened in the asteroid belt since the Solar System was made.
+
+Its very dark surface and fairly far distance from the Sun means Interamnia can never be seen with 10x50 binoculars. At most oppositions its apparent magnitude|magnitude is around +11.0, which is less than the ''minimum'' brightness of Vesta, Ceres or Pallas. Even at a near-perihelion opposition its magnitude is only around +9.9, which is over four magnitudes lower than Vesta.
+
+Its orbit is a more eccentric than Hygiea (15% versus 12%) but is different because Hygiea's orbit is much more inclination|inclined and takes less time to complete one orbit. Another difference is that Interamnia's perihelion is at the other side of the perihelia of the "big four", so that Interamnia at perihelion is actually closer to the Sun than Ceres and Pallas are at the same longitude. It is unlikely to collide with Pallas because their nodes are located too far apart. Although its nodes are located on the opposite side from those of Ceres, it is generally far from Ceres when both cross the same orbital plane and a collision is again unlikely.
+
+ Other websites 
+  G. Michalak     
+
+
+
+
+Category:Asteroids

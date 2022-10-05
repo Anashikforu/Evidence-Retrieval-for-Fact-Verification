@@ -1,0 +1,50 @@
+{{taxobox
+| name = Titanosaurs
+| fossil_range = Upper Jurassic – Upper Cretaceous
+| image = Epachthosaurus.jpg
+| image_width = 250px
+| image_caption = ''Epachthosaurus'' skeleton, National Museum, Czech Republic, originally from South America
+| regnum = Animalia
+| classis = Reptile|Reptilia
+| superordo = Dinosauria
+| ordo = Saurischia
+| subordo = Sauropodomorpha
+| infraordo = Sauropoda
+| unranked_familia = †'''Titanosauria'''
+| unranked_familia_authority = Bonaparte & Coria, 1993
+| superfamilia = †'''Titanosauroidea'''
+| superfamilia_authority = Richard Lydekker|Lydekker, 1895}}
+
+
+
+
+'''Titanosaurs''' were a group of large sauropod dinosaurs. Together with the Brachiosauridae|brachiosaurs and relatives they make up the larger clade Titanosauriformes.
+
+They were some of the heaviest creatures ever to walk the earth. Titanosaurs included ''Saltasaurus'', ''Isisaurus'',  ''Argentinosaurus'' and ''Paralititan''. The group includes the largest land animals known to have existed, such as ''Patagotitan''  and the comparably sized ''Argentinosaurus'' and ''Puertasaurus'' from the Patagonia|same region. They were named after the Greek mythology|mythological Titan (mythology)|Titans of Ancient Greece, ''Abdarainurus'' and ''Aegyptosaurus''.
+
+The titanosaurs were the last great group of sauropods before the Cretaceous–Paleogene extinction event. They were the dominant herbivores of their time. The fossil evidence suggests they replaced the other sauropods, like the diplodocids and the brachiosaurids, which died out between the Upper Jurassic and the mid-Cretaceous.
+
+ Skeleton 
+Broadly, their skeleton was similar to earlier sauropods, but with a few key differences. The pelvis (hip area) was slimmer than some sauropods, but the pectoral (chest area) was much wider. This them a uniquely 'wide-gauged' stance: their front legs were wider apart, and usually longer than their hind legs. This can be seen very clearly in the ''Argentinosaurus''. As a result, the fossilised trackways of titanosaurs are broader than other sauropods. Their vertebrae (back bones) were solid (not hollowed-out). Their spinal column was more flexible, so they were probably more agile than their cousins and better at rearing up.
+
+= Variety =
+The group was quite varied.  Some of the smaller types did not have longer forelimbs (''Epachthosaurus''), and one Chinese find (''Xinghesaurus'') had an extremely long neck.  These differences must reflect adaptations to differences in their habitats and life-style, but at present there is little known about this.  Many of these discoveries are quite recent.
+
+ Global distribution 
+Titanosaurs were widespread.  Their fossils have been found in all continents, even Antarctica.  Four well preserved skeletons of a titanosaur species were found in Italy. 
+
+They were especially numerous in the southern continents (then part of the supercontinent of Gondwana). Australia had titanosaurs around 96 million years ago: fossils have been discovered in Queensland of a creature around 25 meters long (82&nbsp;feet).
+
+ World record size 
+Titanosaurs hold the world record for the size of a land animal.  One place in the Argentine had 150 bones from seven titanosaurs.  The largest were from an animal 40 metres (~130 feet) long and 20 metres (35 feet) tall. It would have weighed about 77 tonnes. A local farm worker stumbled on the remains in the desert near La Flecha, about 250km (135 miles) west of Trelew, Patagonia. The BBC flew a team out to record the event.Morgan, James 2014. 'Biggest dinosaur ever' discovered. ''BBC News'' Science & Environment. 
+Read more: 
+ Paleobiology 
+As a group, titanosaurs were high browsers, eating leaves and branches from tall trees. This is in contrast to other herbivores like the Ceratopsia and Ankylosauria, which were low browsers, eating lower vegetation like shrubs. As a general rule, high browsers can eat lower-growing plants, but low browsers cannot eat from tall trees. Like the earlier sauropods (e.g. ''Diplodocus'') titanosaurs had peg-like teeth and no grinders. This means they used gastroliths to grind their food, and had a huge vat-like stomach where bacteria decomposed it. 
+
+= Diet =
+Fossilized dung found with late Cretaceous titanosaurids suggests a broad, unselective plant diet. Besides the plant remains that might have been expected, such as cycads and conifers, there were an unexpectedly wide range of monocotyledons, including Arecaceae|palms and grasses (Poaceae), including ancestors of rice and bamboo.
+= Nesting =
+ 
+A large titanosaurid nesting ground was discovered in Auca Mahuevo, in Patagonia, Argentina and another colony has reportedly been discovered in Spain. Several hundred female Saltasaurus|saltasaurs dug holes with their back feet, laid eggs in clutches averaging around 25 eggs each, and buried the nests under dirt and vegetation. The small egg (biology)|eggs, about 11&ndash;12&nbsp;cm (4&ndash;5&nbsp;in) in diameter, contained fossilised embryos, complete with skin impressions. The impressions showed that titanosaurs were covered in a mosaic armour of small bead-like scale (zoology)|scales.Coria R.A. & Chiappe L.M. 2007. Embryonic skin from late Cretaceous sauropods (Dinosauria) of Auca Mahuevo, Patgonia, Argentina. ''Journal of Paleontology'' '''81''' (6): 1528–1532. The huge number of individuals suggests herd behavior which, with their armour, could have helped give protection against large contemporary predators such as ''Abelisaurus''.
+
+Category:Titanosaurs| 

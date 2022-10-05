@@ -1,0 +1,1 @@
+Renamed the user "User:$1|$1" (who had $3 edits) to "User:$2|$2"

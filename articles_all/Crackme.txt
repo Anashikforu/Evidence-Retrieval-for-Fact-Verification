@@ -1,0 +1,10 @@
+A '''crackme''' is a small program designed to test a programmers reverse engineering skills. It is also known by the terms '''reversemes''' and '''keygenmes'''.
+
+They are created to have a legal way to "crack" software.
+
+Other websites 
+
+
+
+
+Category:Software

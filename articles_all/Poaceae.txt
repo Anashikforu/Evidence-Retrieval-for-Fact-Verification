@@ -1,0 +1,18 @@
+{{Taxobox
+| name    = Poaceae (true grasses)
+| image   = Meadow Foxtail head.jpg
+| image_width = 240px
+| image_caption = Flowering head of Meadow Foxtail (''Alopecurus pratensis''), with stamens exserted at anthesis
+| regnum  = Plantae
+| divisio = Flowering plant|Magnoliophyta
+| classis = Monocots
+| ordo    = Poales
+| familia = '''Poaceae'''}}
+
+'''Poaceae''' or '''Gramineae''' are the "true" grasses. They are a large family (biology)|family of monocot flowering plants. There are about 12,000 species and 780 genera. They are one of most ecologically and economically important of all plant families. Juncaceae|Rushes, and Cyperaceae|sedges fall outside this family, but they are related.
+
+Grasslands are about 20% of the vegetation cover of the Earth. Poaceae also live in many other habitats, including wetlands, forests, and tundra. Bamboos are part of this huge family of plants.
+
+Domestication of poaceous cereal crops such as maize (corn), wheat, millets, and rice are eaten around the world. The Poaceae are the most economically important plant family in modern times, providing forage, building materials (bamboo, thatch) and fuel (ethanol), as well as food.
+
+Category:Poaceae| 

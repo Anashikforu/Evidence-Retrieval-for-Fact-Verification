@@ -1,0 +1,19 @@
+Wikipedia is an encyclopedia where anybody can change anything. So how can you get started as a Wikipedian? It's called contributing, or adding to stuff, and it's really easy to do.
+
+
+
+
+ Adding new information 
+Waajjira Barnoota Aanaa Meettaa
+Image:editingpage.png|thumb|This is what appears when you click "Change this page" at the top.
+Daa'ima Koo Reha Yasin Adem find haatii Mana Koo A'isha Yusuf Ali
+There are already  articles on this Wikipedia, so you might find that an article you wanted to create has already been made. That's okay, because you can add, change, and even take away information in articles that have already been made.
+
+You need to click "Change this page" at the top, and the Wikitext of the page will show. Wikitext is the coding that allows pages to be made. You can change this to add your knowledge to the page.
+
+Remember to follow the WP:guidelines|guidelines and only add Wikipedia:SOURCE|sourced information. Once you've finished, save the page by clicking on '''Save Page'''.
+
+Finally, '''WP:vandalism|vandalism is not allowed!''' Users who vandalize or keep breaking Wikipedia:rules|our rules will be WP:blocks and bans|blocked from changing pages on Wikipedia.
+
+Related pages
+Category:Help

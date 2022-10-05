@@ -1,0 +1,115 @@
+
+'''Children of Bodom''' was a Finland|Finnish melodic death metal band from Espoo in Finland. Their name comes from the Lake Bodom murders. The band members were: Alexi Laiho (lead guitar and vocals), Daniel Freyberg (rhythm guitar), Janne Wirman (keyboards), Henkka Blacksmith (bass), Jaska Raatikainen (drums).
+
+ Band members 
+;Last known lineup
+ Alexi Laiho – lead vocals, lead guitar (1997–2019; died 2020)
+ Henkka Blacksmith – bass, backing vocals (1997–2019)
+ Jaska Raatikainen – drums, backing vocals (1997–2019)
+ Janne Wirman – keyboards, backing vocals (1997–2019)
+ Daniel Freyberg – rhythm guitar, backing vocals (2016–2019)
+
+;Former
+ Alexander Kuoppala – rhythm guitar, backing vocals (1997–2003)
+ Roope Latvala – rhythm guitar, backing vocals (2004–2015)
+
+'''Timeline'''
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:20
+PlotArea = left:110 bottom:80 top:0 right:10
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:01/01/1993 till:12/15/2019
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:4
+ScaleMajor = increment:2 start:1993
+ScaleMinor = increment:1 start:1993
+
+Colors =
+ id:vocals1  value:red               legend:Lead_vocals,_lead_guitar
+ id:vocals2  value:pink              legend:Backing_vocals
+ id:guitar   value:green             legend:Rhythm_guitar
+ id:bass     value:blue              legend:Bass
+ id:drums    value:orange            legend:Drums
+ id:keyboard value:purple            legend:Keyboards
+ id:studio   value:black             legend:Studio_album
+ id:other    value:gray(0.5)         legend:Other_release
+
+LineData =
+ layer:back
+ at:11/01/1997 color:studio
+ at:04/26/1999 color:studio
+ at:10/30/2000 color:studio
+ at:01/01/2003 color:studio
+ at:09/19/2005 color:studio
+ at:04/09/2008 color:studio
+ at:03/08/2011 color:studio
+ at:06/06/2013 color:studio
+ at:10/02/2015 color:studio
+ at:03/08/2019 color:studio
+ 
+ at:08/21/1994 color:other
+ at:07/09/1995 color:other
+ at:02/14/1996 color:other
+ at:10/11/1999 color:other
+ at:08/01/2003 color:other
+ at:10/06/2004 color:other
+ at:10/11/2006 color:other
+ at:10/16/2006 color:other
+ at:06/09/2008 color:other
+ at:09/22/2009 color:other
+ at:05/22/2012 color:other
+ 
+BarData =
+ bar:Alexi     text:"Alexi Laiho"
+ bar:Alexander text:"Alexander Kuoppala"
+ bar:Roope     text:"Roope Latvala"
+ bar:Daniel    text:"Daniel Freyberg"
+ bar:Samuli    text:"Samuli Miettinen"
+ bar:Henkka    text:"Henkka T. Blacksmith"
+ bar:Jaska     text:"Jaska Raatikainen"
+ bar:Jani      text:"Jani Pirisjoki"
+ bar:Janne     text:"Janne Wirman"
+
+PlotData=
+ width:13 textcolor:black align:left anchor:from shift:(11,-4)
+ bar:Alexi     from:01/01/1993 till:12/15/2019        color:vocals1
+ bar:Alexi     from:01/01/1993 till:01/01/1996 color:guitar  width:3
+ bar:Alexi     from:01/01/1995 till:01/01/1996 color:keyboard width:9
+ bar:Alexi     from:01/01/1993 till:01/01/1994 color:bass     width:5
+ bar:Alexi     from:01/01/1995 till:01/01/1996 color:bass     width:5
+ bar:Alexi     from:05/29/2015 till:01/19/2016 color:guitar  width:3
+ bar:Alexander from:01/01/1996 till:07/14/2003 color:guitar
+ bar:Alexander from:01/01/1996 till:07/14/2003 color:vocals2  width:3
+ bar:Roope     from:08/16/2003 till:05/29/2015 color:guitar
+ bar:Roope     from:08/16/2003 till:05/29/2015 color:vocals2  width:3
+ bar:Daniel    from:01/19/2016 till:end        color:guitar
+ bar:Daniel    from:01/19/2016 till:end        color:vocals2  width:3
+ bar:Samuli    from:01/01/1994 till:01/01/1995 color:bass
+ bar:Samuli    from:01/01/1994 till:01/01/1995 color:vocals2  width:3
+ bar:Henkka    from:01/01/1996 till:12/15/2019 color:bass
+ bar:Henkka    from:01/01/1996 till:12/15/2019 color:vocals2  width:3
+ bar:Jaska     from:01/01/1993 till:01/01/1996 color:keyboard width:7
+ bar:Jani      from:01/01/1996 till:01/01/1997 color:keyboard
+ bar:Jani      from:01/01/1996 till:01/01/1997 color:vocals2  width:3
+ bar:Janne     from:01/01/1997 till:12/15/2019 color:keyboard
+ bar:Janne     from:01/01/1997 till:12/15/2019 color:vocals2  width:3
+ bar:Jaska     from:01/01/1993 till:12/15/2019 color:drums
+ bar:Jaska     from:01/01/1993 till:12/15/2019 color:vocals2  width:3}}
+
+
+ Discography 
+= Studio albums =
+ ''Something Wild (album)|Something Wild'' (1997)
+ ''Hatebreeder'' (1999)
+ ''Follow the Reaper'' (2000)
+ ''Hate Crew Deathroll'' (2003)
+ ''Are You Dead Yet?'' (2005)
+ ''Blooddrunk'' (2008)
+ ''Skeletons in the Closet'' (2009)
+ ''Relentless Reckless Forever'' (2011)
+ ''Halo of Blood'' (2013)
+ ''I Worship Chaos'' (2015)
+ ''Hexed'' (2019)
+
+Category:20th-century establishments in Finland

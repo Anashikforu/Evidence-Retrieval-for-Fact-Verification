@@ -1,0 +1,21 @@
+
+{{Taxobox
+| name = Sallow kitten
+| image = Furcula furcula02.jpg
+| image_width = 240px
+| image_caption = Male
+| regnum = Animalia
+| phylum = Arthropoda
+| classis = Insecta
+| ordo = Lepidoptera
+| unranked_familia = Macrolepidoptera
+| familia = Notodontidae
+| genus = ''Furcula (moth)|Furcula''
+| binomial = ''Furcula furcula''}}
+
+The '''sallow kitten''' (''Furcula furcula'') is a moth from the family Notodontidae. They can be found in Europe and the north of Iran. They are attracted to light. The flight period ranges from April to the end of August. The moth has two generations per year.
+
+
+
+
+Category:Moths

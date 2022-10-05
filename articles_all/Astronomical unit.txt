@@ -1,0 +1,11 @@
+The '''astronomical unit''' ('''AU''') is a unit of length derived from the Earth's orbit.  It is the average distance the Earth gets from the Sun ''on the long axis of the ellipse''. Its definition is:  the length of the semi-major axis (mathematics)|axis of the Earth's Ellipse|elliptical orbit around the Sun. "Semi-major" means half the long axis.
+
+The AU is about 150 million kilometers or 93 million miles. Astronomers usually measure distances within the Solar System in astronomical units.  Mars is about 1.4 AU from the Sun, Jupiter lies at roughly 5.2 AU, and Neptune is roughly 30 AU from the Sun.  Light travels an AU in about 8.317 minutes.
+
+ More accuracy 
+From 1976 to 2012 the AU was defined as “the radius of an unperturbed circular Classical mechanics|Newtonian orbit about the Sun of a particle having infinitesimal mass, moving with a mean motion of 0.01720209895 radians per day (known as the Gaussian constant)”. Resolution No. 10 of the 
+In the IERS numerical standards, the speed of light in a vacuum is defined as ''c''0 = .
+
+ It is very roughly the distance from the Earth to the Sun.
+
+Category:Astronomical distances

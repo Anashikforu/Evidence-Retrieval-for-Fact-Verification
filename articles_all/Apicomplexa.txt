@@ -1,0 +1,11 @@
+
+
+Most members have a complex life-cycle, with both Asexual reproduction|asexual and sexual reproduction. A host is infected by an active invasion by the parasites. The parasites divide to produce ''sporozoites'' which enter its cells.  Eventually, the cells burst, releasing ''merozoites'', which infect new cells.  Eventually, gametes are produced, and they fuse to create new cysts.  There are many variations on this basic pattern, however, and many Apicomplexa have more than one host.
+
+The apical complex includes vesicles which open at the front of the cell. They secrete enzymes that allow the parasite to enter other cells. The tip is surrounded by a band of microtubules, called the ''polar ring'', and among the Conoidasida there is also a funnel of tubulin proteins called the ''conoid''.
+
+The presence of alveoli and other traits place the Apicomplexa among a group called the alveolates.  Several related flagellates, such as ''Perkinsus marinus|Perkinsus'' and ''Colpodella'', have structures similar to the polar ring and were formerly included here, but most appear to be closer relatives of the dinoflagellates.  They are probably similar to the common ancestor of the two groups.
+
+Another similarity is that many apicomplexan cells contain a single plastid, called the '''apicoplast''', surrounded by either 3 or four membranes. Its functions are thought to include tasks such as lipid and haem biosynthesis. It appears to be necessary for survival. The plastids are thought to have a common origin with the chloroplasts of dinoflagellates, and evidence points to an origin from red algae rather than green alga|green.
+
+Category:Apicomplexa| 

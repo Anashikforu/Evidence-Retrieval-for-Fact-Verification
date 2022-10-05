@@ -1,0 +1,21 @@
+{{Taxobox | name = Sulphur-crested cockatoo
+| status = LC | status_system = IUCN3.1
+| image = Cacatua galerita Tas 2.jpg
+| image_width = 240px
+| image_caption = ''C. galerita'' in Tasmania, Australia
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Bird|Aves
+| ordo = Psittaciformes
+| familia = Cacatuidae
+| subfamilia = Cacatuinae
+| genus = ''Cacatua''
+| binomial = ''Cacatua galerita''
+| range_map = Bird range sulphur-crested cockatoo.png
+| range_map_width = 240px
+| range_map_caption = Australian sulphur-crested cockatoo range (in red)}}
+
+'''Sulphur-crested cockatoos''' are large white parrots with yellow heads and tails. There are four subspecies of the bird. They live in Australian forests.  Farmers do not like sulphur-crested cockatoos because the cockatoos eat vegetables that the farmers have grown. They are a protected species, but sometimes get shot.
+
+Many people like sulphur-crested cockatoos and keep them as pets. They are very loud and have a natural desire to chew wood and other  materials. They are very long-lived. In captivity they can live to 70 years. One cockatoo called Fred was still alive at 100 years of age in 2014.
+Category:Cockatoos

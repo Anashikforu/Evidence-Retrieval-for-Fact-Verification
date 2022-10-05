@@ -1,0 +1,6 @@
+'''Horsepower''' is a unit of power that is approximately how much work one horse can do. It is equal to 746 watts.  The idea of horsepower was originated by James Watt, who invented the steam engine. Because people used horses to pull carts, it was an amount of energy that could be understood by most people at that time.  A human can only maintain about .
+
+
+
+Category:Imperial units
+Category:Units of power

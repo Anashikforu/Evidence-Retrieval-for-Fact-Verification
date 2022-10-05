@@ -1,0 +1,43 @@
+
+
+| founded = 1995 (first prototype)1997 (second prototype) (final launch)
+
+'''Google LLC''' is an American  multinational corporation from the United States. It is known for creating and running one of the largest search engines on the World Wide Web (WWW). Every day more than a billion people use it. Google's headquarters (known as the "Googleplex") is in Mountain View, California, part of Silicon Valley. The motto of Google is "Do the right thing".
+
+Since 2 September 2015, Google has been owned by a holding company called Alphabet Inc.. That company has taken over some of Google's other projects, such as its driverless cars. It is a public company that Stock trading|trades on the NASDAQ under the ticker symbols GOOG and GOOGL.
+
+Google's search engine can find pictures, videos, news, Usenet newsgroups, and things to Online shopping|buy online. By June 2004, Google had 4.28 billion web pages on its database, 880 million pictures and 845 million Usenet messages — six billion things. Google's American website has an Alexa rank of 1, meaning it is the most widely visited website in the world. It is so widely known that people sometimes use the word "google" as a verb that means "to search for something on Google". Because more than half of people on the web use it, "google" has also been used to mean "to search the web".
+
+ History 
+Larry Page and Sergey Brin, two students at Stanford University, USA, started BackRub in early 1996. They made it into a company, Google Inc., on September 7, 1998 at a friend's garage in Menlo Park, California|Menlo Park, California. In February 1999, the company moved to 165 University Ave., Palo Alto, California, and then moved to another place called the Googleplex.
+
+In September 2001, Google's rating system (PageRank, for saying which information is more helpful) got a U.S. Patent. The patent was to Stanford University, with Lawrence (Larry) Page as the inventor (the person who first had the idea).
+
+Google makes a percentage of its money through America Online and InterActiveCorp. It has a special group known as the Partner Solutions Organization (PSO) which helps make contracts, helps to make accounts better and gives engineering help.
+
+ Advertising 
+Google makes money by advertising. People or companies who want people to buy their product, service, or ideas give Google money, and Google shows an advertisement to people Google thinks will click on the advertisement. Google only gets money when people click on the link, so it tries to know as much about people as possible to only show the advertisement to the "right people". It does this with Google Analytics, which sends data back to Google whenever someone visits a website. From this and other data, Google makes a profile about the person and then uses this profile to figure out which advertisements to show.
+
+ Branding 
+The name "Google" is a misspelling of the word ''googol''.Koller, David. "
+The name for Google's main office, the "Googleplex," is a play on a different, even bigger number, the "googolplex", which is 1 followed by one googol of zeroes 1010100
+
+ Products 
+ Android (operating system)|'''Android'''''' '''is an operating system for mobile devices and was originally made by Google as part of the Open Handset Alliance, which Google leads. It is the chief competitor to Apple Inc.|Apple's iOS and Windows Phone by Microsoft (now discontinued).
+ ''' ''' ''' '''Google Allo''' was software for discussing with other people live.
+ '''Google Assistant''' is a virtual assistant application built into Android devices.
+ ''' ''' ''' '''Google Chrome''' is a web browser that Google made.
+Google Classroom|'''Google Classroom''' is an online system for students. It was popular during COVID-19 pandemic|COVID-19.
+ ''' ''' '''Google Earth''' is the 3D version of Google Maps with a digital globe.
+ '''Google Groups''' is a place for users to discuss topics. Google bought Deja News in 2001 and made it into Google Groups.
+ ''' '''Google Maps''' is a service from Google to provide satellite pictures and road maps for everywhere around the world.
+ ''' ''' ''''''Google Play''' is a sector that has games, and other things.
+ ''' '''Google Search''' is a search utility.
+ ''' '''Google Translate''' is an online translation service. It can translate websites and text into other languages.
+ ''' '''Google Video''' is a video search utility.
+ '''Google+''' was a social networking service that is like Facebook. The service launched on June 28, 2011.
+ '''Google Mail|Gmail''' is an e-mail service that Google started in 2004. It is called '''Google Mail''' in the United Kingdom and Germany. Users get free space to store e-mail.
+ '''Google Talk|Hangouts''' is an instant messenger where one can talk to friends. it will shut down in late 2021  Sidewalk Labs
+'''YouTube''' is a video hosting service which was bought by Google from PayPal for 1.65 billion dollars and now runs as a Google service.
+
+Category:Search engines

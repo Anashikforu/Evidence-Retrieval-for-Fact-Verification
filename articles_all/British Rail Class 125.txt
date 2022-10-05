@@ -1,0 +1,30 @@
+{{Infobox DMU
+|name = British Rail Class 125 
+|image = 
+|imagesize = 240px
+|background = #0033cc
+|caption = 
+|Manufacturer = BR Derby
+|Operator = British Rail
+|Formation = 
+|Built =1958 
+|LinesServed = 
+|InService = 1958-1977
+|CarLength = 64 ft 0 in
+|CarWidth = 9 ft 4 1/2 in 
+|CarHeight = 12 ft 9 1/2 in
+|Weight = 39 tons 10 cwt
+|Capacity = 
+|MaxSpeed = 70 mph (112 km/h)
+|Gauge = 
+|Traction = 
+|Engine =Two Rolls-Royce, 238 bhp
+|SafetySystem=
+ |}}
+The '''Class 125''' was a design of three car Diesel Multiple Unit built for British Rail in 1958. They were high-density units, externally very similar to the British Rail Class 116|Class 116. They were built specifically for the Lea Valley Line, were all withdrawn in 1977, and none survive to this day. Like many first-generation DMU classes, they never carried their 125xxx TOPS set numbers.
+
+
+
+
+
+Category:British Rail diesel multiple units|125

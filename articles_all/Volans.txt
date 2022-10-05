@@ -1,0 +1,36 @@
+
+{{Infobox Constellation|
+name = Volans |
+abbreviation = Vol |
+genitive = Volantis |
+pronounce =  |
+symbolism = the Flying fish|Flying Fish |
+RA = 8 |
+dec= −70 |
+family = Bayer Family|Bayer |
+quadrant = SQ2 |
+areatotal = 141 |
+arearank = 76th |
+numbermainstars = 6 |
+numberbfstars = 12 |
+numberstarsplanets = 1 |
+numberbrightstars = 0 |
+numbernearbystars = 1 |
+brighteststarname = Beta Volantis|β Vol |
+starmagnitude = 3.77 |
+neareststarname = Gliese 293 |
+stardistancely = 19.35 |
+stardistancepc = 5.93 |
+numbermessierobjects = 0 |  
+meteorshowers = 0 |
+bordering = Carina (constellation)|Carina Pictor (constellation)|Pictor Dorado (constellation)|Dorado Mensa (constellation)|Mensa Chamaeleon (constellation)|Chamaeleon |
+latmax = 15th parallel north|15 |
+latmin = South Pole|90 |
+month = March |
+notes=}}
+'' of 1603.
+
+Stars and deep sky objects
+. The magnitudes of the Gamma Volantis stars are fourth and sixth, and of Epsilon Volantis fourth and eighth..
+
+Category:Constellations

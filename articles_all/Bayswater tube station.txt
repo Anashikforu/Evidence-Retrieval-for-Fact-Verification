@@ -1,0 +1,22 @@
+{{Infobox London station
+| name = Bayswater
+| image_name = Bayswater Station Exterior.jpg 
+| manager = London Underground 
+| fare_zone = 1 
+| locale = Queensway (London)|Queensway 
+| borough = City of Westminster|Westminster 
+| platforms=2
+| tubeexits05=8.557 
+| tubeexits07=6.043 }}
+
+'''Bayswater''' is a London Underground station. It is in Travelcard Zone 1. It is on the Circle line (London Underground)|Circle and District Line|District lines.  It is between Notting Hill Gate tube station|Notting Hill Gate and Paddington station|Paddington.
+
+ Gallery 
+
+Image:Bayswater_Interior1.jpg|Bayswater Interior 1
+Image:Bayswater_Interior2.jpg|Bayswater Interior 2
+Image:Bayswater_Interior3.jpg|Bayswater Interior 3
+Image:Bayswater_Interior4.jpg|Bayswater Interior 4
+Image:Bayswater_Interior5.jpg|Bayswater Interior 5
+
+

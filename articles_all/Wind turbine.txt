@@ -1,0 +1,10 @@
+
+A '''wind turbine''' is a rotate|rotating machine that transfers kinetic energy from the wind into mechanical energy. If the mechanical energy is used directly by machinery, such as for pumping water, cutting lumber or grinding stones, the machine is called a windmill. If the mechanical energy is instead converted to electric power|electricity, the machine may be called a '''wind turbine generator (WTG), wind power unit (WPU)''', '''wind energy converter (WEC)''', or '''aerogenerator'''.
+
+ Turning the generator 
+The wind turbine's blades are turned by the wind. This turns a shaft turning slowly, at about 10-20 rpmCleantech 
+ Environmental Impact 
+Although wind turbines are a renewable resource|renewable source of energy and don't pollute the environment as a result of generating power, they have an environmental impact.  Some people think that wind turbines create a lot of noise and look unappealing. However, wind turbines are placed no closer than 300 meters from residential homes.  At that distance, a wind turbine is no louder than an average household air conditioner.GeReports 
+
+
+Category:Electricity distribution

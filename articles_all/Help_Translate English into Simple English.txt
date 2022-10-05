@@ -1,0 +1,40 @@
+This page gives tips on how to translate English language|English into Simple English Wikipedia|Simple English. This is not a complete guide. Please expand and improve as well if you see any mistakes or if you have any other more sensible suggestions.
+
+For more help with translation, visit the wikt:|Simple English Wiktionary, or see Wikipedia:Aids for writing Simple English.
+
+Specific words
+A word in English will be shown and next to it will be the Simple English version. This is in alphabetical order.
+
+''abandon - give up,  leave a person or object behind''
+''arduous - very difficult''
+''continuous - not ending, going on''
+''contradict - to go against''
+''depict - to show''
+''expand - to become large / to make large''
+''individual - person'' (when it means a person: the word ''individual'' has other meanings)
+''justified - lawful, right''
+''luminescent - giving light''
+''obtained - got''
+''odd - strange''
+''originate - come from''
+''performed - did''
+''specific - special''
+''taken aback - surprised and perhaps shocked''
+''transfer'' - ''move to'' or ''change to''
+''translate - to turn one language into another language'' or link to Translation
+''various - many''
+
+= Other =
+''film - movie''
+''American (United States)'' - Should be linked to a more specific term, such as United States or Americans because ''American'' has other meanings. See the disambiguation page American for other meanings. To use the word ''American'' but link to a more specific meaning, use a piped link like this: United States|American
+
+Television
+Most often these changes are because the term can mean different things. It is better to use terms with only one meaning, or the fewest meanings if no term exists with only one. The terms should be linked the first time they are used in an article.
+''Show'' - Television programme or television series. television programme|Program (UK:programme) and television series|series are good but still must be linked the first time used.
+''Air'' - Broadcast
+''TV'' is acceptable but should be linked to television the first time it is used.
+
+ General advice on better writing 
+ :en:User:Tony1/How_to_improve_your_writing|Tony's tips
+ 
+Category:Help

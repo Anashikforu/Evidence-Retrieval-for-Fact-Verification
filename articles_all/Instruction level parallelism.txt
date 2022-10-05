@@ -1,0 +1,22 @@
+'''Instruction-level parallelism''' (ILP) is a measure of how many operations in a computer program can be performed "in-parallel" at the same time (Technical terminology|termed:''"simultaneously"''). Consider the following program:
+
+ 1. e = a + b
+ 2. f = c + d
+ 3. g = e  f
+
+Operation 3 depends on the results of "e" and "f" which are calculated from operations 1 and 2, so "g" cannot be calculated until both of "e" and "f" are Computation|computed.  However, operations 1 and 2 do not depend on any other operation, so they can be Computation|computed simultaneously.  If we assume that each operation can be completed in one unit of time then these three instructions can be completed in a total of two units of time, giving an ILP factor of 3/2; which means 3/2 = 1.5 greater than without ILP.
+
+One of the goals of compilers and central processing unit|processors designers is to use as much ILP as possible. Ordinary programs are written Execution (computing)|execute Instruction (computer science)|instructions in sequence; one after the other, in the order as written by Computer program|programmers. ILP allows the compiler and the processor to overlap the execution of multiple instructions or even to change the order in which instructions are executed.
+
+How much ILP exists in programs depends on the application type, for example, in graphics and scientific applications the amount can be very large while in cryptography the amount much less.
+
+Microarchitecture|Micro-architectural techniques that use ILP include:
+Instruction pipelining where the execution of multiple instructions can be partially overlapped.
+Superscalar execution in which multiple execution units are used to execute multiple instructions in parallel.
+Out-of-order execution where instructions execute in any order but without violating data dependencies (remember in previous example "g" must wait for "e" and "f"). 
+Register renaming which is a technique used to avoid unnecessary serialization of program operations caused by the reuse of registers by those operations, in order to enable out-of-order execution.
+Speculative execution which allow the execution of complete instructions or parts of instructions before being sure whether this execution is required. 
+Branch prediction which is used to avoid delays (Technical terminology|termed:''"stalls"'') cause of Dependence analysis|control dependencies to be resolved. Branch prediction is used with speculative execution.
+
+In recent years, ILP techniques have been used for performance improvements in conditions where the difference between processor operating frequencies and memory access times is large. As of 2008, a CPU cache|cache "miss" costs several hundreds of CPU cycles in a main memory access; with much longer latency compared when the processor finds that the memory location is in the cache. Hence, this technique was proved to be insufficient to save the CPU time from waiting for the off-Integrated circuit|chip data. Instead, the industry is moving towards improving higher levels of parallelism using techniques such as multiprocessing and multithreading.  
+Category:Computer science

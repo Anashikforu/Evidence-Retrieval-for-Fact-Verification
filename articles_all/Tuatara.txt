@@ -1,0 +1,45 @@
+{{Taxobox
+| name = Tuatara
+| status = 
+| image =Sphenodon_punctatus_in_Waikanae,_New_Zealand.jpg
+| image_width = 250px
+| image_caption = Male tuatara
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Reptile|Sauropsida
+| ordo = Sphenodontia
+| familia = Sphenodontidae
+| genus = '''''Sphenodon'''''
+| genus_authority = John Edward Gray|Gray, 1831
+| range_map = World.distribution.rhynchocephalia.1.png
+| range_map_caption = black: range (northern New Zealand)
+| range_map_width = 250px
+| subdivision_ranks = Species
+| subdivision = ''Sphenodon punctatus'' (Gray, 1842)
+''Sphenodon guntheri'' (Walter Buller|Buller, 1877)
+''Sphenodon diversum'' Colenso, 1885 (extinct)
+| synonyms = ''Hatteria punctata'', Gray 1842}}
+
+
+The '''Tuatara''' are reptiles which look like lizards. However, they are the only surviving member of an Order (biology)|order of reptiles which flourished 200 million years ago.
+
+There is now only the genus '''''Sphenodon''''', with two species of Tuatara. Both are wikt:endemic|endemic to (only live in) New Zealand. Lizards and snakes are the closest living relatives of the tuatara.
+
+Tuatara are green-brown, and measure up to 80&nbsp;cm from head to the end of their tail.
+The crest is more pronounced in males. Tuatara are special in many ways. One of these is the pattern of their teeth. They have two rows of teeth in the upper jaw overlap one row on the lower jaw. This is unique among living species.
+
+ Sense organs 
+= Third 'eye' =
+Tuatara are also unusual because they have a Parietal eye|third 'eye'. They have two normal eyes. The third eye is on top of their head, in between their other eyes. It does not see like a normal eye. The parietal eye, as it is called, is only visible in hatchlings. They have a translucent patch at the top centre of the skull. After four to six months this becomes covered with Opacity|opaque scales and pigment.
+
+The function of the parietal eye is unknown, but it may be useful in absorbing ultraviolet rays to manufacture vitamin D. It may also do other things. Of all living tetrapods, the parietal eye is most obvious in this animal. The parietal eye is part of the pineal gland|pineal system. The animal's pineal gland secretes melatonin at night. Some salamanders use their pineal body to perceive polarised light, which helps navigation.Halliday, Tim R. 2002. ''Salamanders and newts: finding breeding ponds.'' In: Halliday, Tim and Adler, Kraig (eds) ''The new encyclopedia of reptiles and amphibians'', Oxford University Press, Oxford. p52.  Unlike lizards they have no eardrums or external male sexual organ.
+
+= Hearing =
+Tuataras do not have ears, but they can hear. They have a number of unique features in their skeleton (bones), some of them shared through common descent with fish.
+
+ Endangered species 
+The tuatara has been classified as an endangered species since 1895.. The second species, ''S. guntheri'', was not discovered until 1989.
+
+Tuatara, like many of New Zealand's native animals, are threatened by habitat loss and the introduced Polynesian Rat ''Rattus exulans''. They were extinct on the mainland, with the remaining populations confined to 32 offshore islands,
+
+Category:Animals of New Zealand

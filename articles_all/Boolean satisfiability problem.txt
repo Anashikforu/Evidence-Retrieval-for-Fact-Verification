@@ -1,0 +1,19 @@
+The '''Boolean satisfiability''' is a kind of problem in math-based .In, a is ''satisfiable'' if the variables it uses can be given values so that it becomes true. If however for a given formula, no values exist so that the formula becomes true and the formula will always be f values its variables have it is called "unsatisfiable".
+
+This problem is also known as ''Boolean or propositional satisfiability''. usually call it '''SA''' believes that the formula should be in a special form, known asconjunctive normal form|rm. A formula that is in this form has clauses. Clauses are joined by a "logical and". Each clause has several literals. They are joined by a "logical or". A literal and its complement cannot appear in the same clause. The problem may also have other names. The names depend on what the logical formula looks like. The names also depend on how many variables are used per clause.
+
+A formula that satisfies 3SAT looks like the following:
+:(''A''1 OR ''B''1 OR ''C''1) AND
+:(''A''2 OR ''B''2 OR ''C''2) AND
+:(''A''3 OR ''B''3 OR ''C''3) AND ...
+
+In this case ''(''A''1 OR ''B''1 OR ''C''1)'' is an example for a clause, and ''B''1 is one of the literals of this clause.
+
+At the began showed that the probl. This is known as
+
+The problem '''3SAT''' uses three variables per clause. It is one of the Karp's 21 NP-complete problems|21. They were defined b in 1972.
+
+Category:Theoretical computer science
+Category:Boolean algebra
+
+

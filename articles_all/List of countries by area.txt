@@ -1,0 +1,62 @@
+
+
+This is a list of country|countries by total area. The total area is the sum of all land and internal waters|Inland water bodies (lakes, reservoirs, rivers). Data is taken from the United Nations Statistics Division.
+
+
+
+
+
+DateFormat=yyyy
+ImageSize= width:750 height:auto barincrement:23
+Period = from:0 till:18000
+TimeAxis = orientation:horizontal
+PlotArea = right:10 left:5 bottom:50 top:5
+
+Colors =
+     id:country    value:rgb(0.5,0.85,0.7)
+     id:territory  value:rgb(0.8,0.8,0.8)
+     id:disputed  value:rgb(0.8,0.5,0.5)
+     id:highlight  value:rgb(0.4,0.75,0.6)
+     id:minorline  value:rgb(0.9,0.9,0.9)
+     id:line       value:rgb(0.5,0.5,0.5)
+
+PlotData=
+  width:15 textcolor:black shift:(5,-5) anchor:from fontsize:s
+
+  bar:C1 from:0 till:17075 color:country text:"Russia"
+  bar:T1 from:0 till:14000 color:territory text:"Antarctica"
+  bar:T2 from:0 till:10180 color:territory text:"Europe"
+  bar:C2 from:0 till:9985 color:country text:"Canada"
+  bar:C3 from:0 till:9597 color:country text:"People's Republic of China"
+  bar:C3 from:9597 till:9640 color:disputed text:"Geography of China#Boundary disputes|Disputed territories"
+  bar:C4 from:0 till:9631 color:country text:"United States"
+  bar:C5 from:0 till:8512 color:country text:"Brazil"
+  bar:C6 from:0 till:7687 color:country text:"Australia"
+  bar:T3 from:0 till:3976 color:territory text:"European Union"
+  bar:C7 from:0 till:3288 color:country text:"India"
+  bar:C9 from:0 till:2767 color:country text:"Argentina"
+  bar:C10 from:0 till:2717 color:country text:"Kazakhstan"
+  bar:C11 from:0 till:2382 color:country text:"Algeria"
+  bar:C12 from:0 till:2345 color:country text:"Democratic Republic of the Congo"
+  bar:T4 from:0 till:2166 color:territory text:"Greenland"
+  bar:C13 from:0 till:2150 color:country text:"Saudi Arabia"
+  bar:C14 from:0 till:1973 color:country text:"Mexico"
+  bar:C15 from:0 till:1919 color:country text:"Indonesia"
+  bar:C16 from:0 till:1886 color:country text:"Sudan"
+  bar:C17 from:0 till:1760 color:country text:"Libya"
+  bar:C18 from:0 till:1648 color:country text:"Iran"
+  bar:C19 from:0 till:1564 color:country text:"Mongolia"
+
+ScaleMajor = gridcolor:line unit:year increment:5000 start:0
+ScaleMinor = gridcolor:minorline unit:year increment:1000 start:0
+
+
+TextData =
+   fontsize:S
+   textcolor:black
+   pos:(250,25) # tabs:(100-left)
+   text:"Total area (in thousands of square kilometers)
+
+
+
+Category:Lists of countries|Area

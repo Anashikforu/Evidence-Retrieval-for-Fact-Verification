@@ -1,0 +1,108 @@
+
+
+On Wikipedia, Wikipedia:Talk Pages|talk pages are archived when they get too long. This is because it takes a lot of time to find new discussions on long talk pages. Only talk pages are archived. Articles are not. There are two ways to archive a talk page. Both ways are talked about below.
+
+Users do not have to archive their user talk page when it gets long. The other option is to erase all the messages on the talk page. But this is not the best thing to do, as then it is hard for other people to find what they said to the user.
+
+Subpage archive method
+Using a Wikipedia:Subpages|subpage is the most popular method for archiving a talk page. There are two methods which can be used to make a subpage: ''Copy and paste'' and ''move''. Users can use any method they prefer, but should not mix the methods in archiving a page, because it confuses the visitors.
+
+Archive pages should be named as follows: take the name of the talk page, and add /Archive to the end. Then add the number of the archive.  
+
+ For example, the first archive from Talk:Example would be named Talk:Example/Archive 1. 
+ The 7th archive of User Talk:Another Example would be named User Talk:Another Example/Archive 7 
+
+Note that the word "Archive" has a '''capital A''', there is a '''space before the number''', and there are '''no leading zeros'''.  
+
+So  would be. 
+
+Remember to use the correct namespace – the part before the colon (:). For articles, it should start with Talk:; when archiving users' own user talk page, it should start with User talk:.
+
+=Copy and paste way=
+
+{{archive box collapsible|box-width=238px|
+/Archive. Old page|Old page
+/Archive 1|Archive 1
+/Archive 2|Archive 2}}
+# Click on '''change''' for the talk page you wish to archive. 
+# In the source code edit box, select all the text you want to archive and then '''copy''' the text. You can do this by right-clicking and then clicking copy.
+# While you are still in the edit window, 
+## Create a link to the archive you plan on making, such as '''Talk/Archive 1'''. You can cut out the discussions you are going to put in the archive.
+## If you're making an archive for a special topic, use the name of that topic, for example '''/Place of birth debate'''.
+## If you're just archiving an old discussion, use the next number; so if the last archive was Archive 3, call it '''/Archive 4'''.
+## If this is the first archive of the page, call it '''/Archive 1'''.
+## When there are a lot of archives, it can be useful to have a "box" of archive links. If the page already has one of these, add your link to it. Otherwise, you may want to add your own box:
+##'''. Multiple archives can be named, linked and labeled in many ways. 
+##See the example archive box higher up to the right. Example code from Talk:Al-Aqsa Intifada:
+##
+##If all the archives are in the format /Archive 1, /Archive 2 etc.  can be used to automatically update the archive box when new archives are made.
+##'''.
+##'''''' may be a good idea for pages with a very large number of archives (such as Talk:Main Page); this uses a separate subpage to list the archives.
+# '''Save''' the page. You should now have a page of recent discussion with a red link to your archive at the top.
+# Click the red link to open the archive subpage. 
+## Click on "start this page" 
+## '''Paste''' the text from step 2 into the edit box.
+## Add '''''' to the top of the page. This adds a notice explaining that the page is an archive, and links back to the main talk page.
+## If this is a numbered archive, and there are already others, you can add a navigation template to make it easier to go through them.
+##''' on Archive 3.
+##'''''' is similar, but does not need a parameter.
+##''', adding navigation features to the standard notice.
+# '''Save'''. You have now made an archive.
+
+Advantages of copy and paste
+Discussions can be archived by topic, rather than a time frame. This may be better on talk pages where some topics have a tendency to come up again and again, and it is convenient to have all past discussion on an issue in one place. Archiving by topic is usually less appropriate for personal user talk pages.
+Unlike the #Permanent link archives method|permanent link archiving method, the archive can be edited for clarity. For example, headers can be renamed to be more helpful, unsigned comments can be noted, off-topic comments can be moved to a more appropriate place, chit-chat can be removed, etc. (However, this kind of editing might be considered a mild form of refactoring.)
+The links used throughout the discussions stay indexed within Wikipedia. This may also be bad, as 'what links here' is often clogged with archives and user talk pages.
+Editors who have the article on their watch list will not have the archived talk page put on their watchlist, which happens when talk pages are archived by moving them.
+Unlike the #Move procedure|move procedure it does not reset the history of the page.
+
+Disadvantages of copy and paste
+Unlike the #Permanent link archives method|permanent link archiving method, new users may accidentally reply to inactive discussions, and the page is open to vandalism.
+This method wikipedia:assume good faith|assumes good faith changes by the person making the archive. When that trust breaks down, without the edit history on the archive page, it can be very complicated to prove that the archive is a genuine copy of the information being archived from the current talk page Unlike the #Move procedure|move procedure archives are not automatically added to the watchlists of the editors already watching the main discussion page.
+
+=Move steps=
+# Subpage archives can also be made by WP:MOVE|moving the talk page to a subpage.
+# Once the move has been made, to wikt:reduce|reduce the likelihood of an accidental edit to the archive, it is smart to add a line to the top and bottom of the archived page saying that it is an archive. The template  is available to save some typing and to give the message a familiar appearance.
+# Alter the redirect link on the now empty talk page into an ordinary link so that the Archive can be found by clicking on the link.
+# Copy discussions that are still active back to the first talk page. 
+
+In moving the page history, this method leaves user contributions displayed as being to the archive rather than the first page, and makes it difficult to search for past edits to the talk page by a certain user.
+
+Permanent link archives method
+With this method, instead of copying discussions to a different page, you simply have a link to an earlier version of the page. Caveat: it is not possible to link to an earlier version of a page with a Wikipedia-style link. You have to supply the full URL. These pages do not show up in search engines, as they are dynamically generated.
+
+=Steps=
+#Go to the talk page you wish to archive and click on '''permanent link''' in the toolbox section of the left sidebar or go to the page history of the talk page and select the revision you want to use.
+#Copy the complete URL from the navigation bar of your web browser.
+#'''Edit''' the talk page and delete the text you want to archive. While you're still in the edit window, make a link to the URL you copied at the top. Keep in mind that syntax for full URL links is different than for Wikilinks. Here is an example: #Save. You have now archived a talk page.
+
+You can make the link shorter, and hence keep the wikitext of the page more readable, by replacing the path to the page with a  link, leaving the "oldid" section at the end. For example, the link given above could be replaced by this:
+: Archive 1
+
+which would display as  Archive 1. If you wish, you can also stop the "Other website" icon from showing up (since this is not a link to another website anyway) by surrounding the link with  tags like this:
+
+: Archive 1
+
+which shows as  Archive 1.
+
+=Advantages of this way=
+It is simpler and does not need as many resources.
+There is some guarantee that the discussions have not been altered mistakenly or by vandals.
+This strategy can be particularly useful for ''summarising'' discussions; you provide a brief overview of the many points of view and a link to the complete, clean discussion.
+Unlike the #Move procedure|move procedure it does not reset the history of the page.
+
+=Disadvantages of this way=
+Searching for past discussions is not possible, as the discussions archived by this method do not show up in search engines or Wikipedia search.
+You cannot organize topics into one place, although you can list links to sections within the page history that are appropriate to a particular topic.
+Archives cannot be easily recombined as with the subpage method. If you later wished to divide up the archives differently, you would need to paste all past archives to the talk page, save, and then re-archive (note that when this is done, the revision history becomes muddied).
+An edit of the archive by mistake (and ignoring the warning) would overwrite the current talk page.
+It is the least common of the two methods  and may cause confusion even for experienced editors who are not familiar with "permanent link" function in the toolbox.
+It does not show up in Special:WhatLinksHere/page_title of the linked pages.
+
+Related pages
+, for archiving non-talk pages
+Wikipedia:Talk pages
+
+
+Category:Help
+Category:Wikipedia archives

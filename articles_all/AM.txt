@@ -1,0 +1,5 @@
+'''AM''' can mean:
+ Ante meridiem, in the 12-hour clock
+ Amplitude modulation, in radio
+
+

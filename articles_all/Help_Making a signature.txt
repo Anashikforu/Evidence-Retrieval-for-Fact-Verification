@@ -1,0 +1,91 @@
+
+Image:stop hand.svg|40px| 
+'''This is a proposed help page for Simple English Wikipedia.'''  This page is not a guide yet, but may be soon.  Look at its :
+
+
+Signatures are how you identify comments made on talk pages as your own.  It is always shown when posting to talk pages with four tildes ~~~~ by default.  This guide is to help you make your own custom signature that looks different than the default signature.  If you would like to have your own custom signature, why not follow this handy guide to help you make one of your very own?
+
+Before making your signature, please read Wikipedia:Signatures|the policy concerning signatures.
+
+Making the Signature
+Making a signature here is pretty simple, but there are a few things that you need to know first:
+:#You need to know how to make a subpage in your user space.
+:#You need to know a bit of coding.
+:#You need to have a bit of patience.
+
+If you know these things, then continue on to the next section.
+
+=Making a Userspace subpage=
+To make a userspace subpage, all you need to do is follow this nifty step-by-step guide:
+
+#First, see the search box at the top of this screen?  Click your mouse in that box until you see a cursor flashing.
+#Next, type in something like this: User:(Insert your username here)/(name of the subpage).
+:'''Example''':''User:Example/subpageone''.
+#After you type that in, click the go button.
+#It will say that this page does not exist, but if you click on either the '''edit this page''' button in the article space, or click on the red link that it shows you, it will take you to the editing screen.  
+
+When people make signatures, they mainly make user subpages with titles like sig1 or siggy or signature, like this: User:Example/sig2.
+
+If you have this section down really well, continue onto the next section.
+
+=Coding=
+To code your own signature, you can follow these helpful tips in this section.  This section will only cover the basic things you can do with your signature, as well as a few harder ones.
+
+You notice how your default signature is just a simple red (if you don't have a userpage created yet) or blue link?  Did you know that you can add color and other cool stuff to your signature to make it nifty looking?  To do this, you need to know a bit of coding.
+
+To add different colors to your signature, first, type in something like this:
+
+User:(insert your username here)|(insert your username again)
+
+This will make your signature appear like this: 
+
+User:(insert your username here)|(insert your username again)
+There are many other different colors you can choose from, like orange, red, green, blue, and also some variants, like gold, silver, grey, magenta, cyan, and so on.  
+
+Another option you could use are hex numbers for colors.  To use these, all you have to do is this:
+
+User:(insert your username here)|(insert your username again)
+
+An example of a hex code is '''000000'''.  
+
+You can also split the coding between the letters of your name, like this:
+
+User:(insert username here)|Ex User talk:(insert username here)|am Special:Contributions/(insert your username here)|ple
+
+This would show up as:
+
+User:(insert username here)|Ex User talk:(insert username here)|am Special:Contributions/(insert your username here)|ple
+
+A nice multi-colored signature is made using coding like this.  You can also substitute in hex color coding wherever it says 
+
+This section is the part that will take the longest to do, so make sure that you have some patience to get your signature the way you want it to look like.
+
+=Signing with new signature=
+Normally, when you sign a talk page with four tildes: ~~~~, you get a blue link, but now that you have made your own signature, you are ready to make it so that when you sign using four tildes, your new signature is used instead.  
+
+To do this, all you have to do is follow these simple steps:
+#First, scroll up to the top of the screen and click the '''My Settings''' tab in the top right hand corner.
+#Second, under the heading '''Nickname''' type in:  
+
+
+
+This will make it so that when you sign talk pages, your new signature is used instead of the one that is set as the default.
+
+=If you need help=
+If you are stuck with your signature and are in need of help to get it set right, or if you are one of those people that aren't very creative, or you just have no idea how to do this, you can ask any of these users for help:
+
+
+
+
+
+
+
+
+
+
+
+Have fun making your own signatures!
+
+Related pages
+Wikipedia:Signatures -The Wikipedia policy concerning signatures here on Wikipedia.
+Category:Help

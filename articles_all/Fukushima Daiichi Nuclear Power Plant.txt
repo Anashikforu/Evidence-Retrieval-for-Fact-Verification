@@ -1,0 +1,46 @@
+
+
+'''Fukushima Daiichi Nuclear Power Plant''' (also called Fukushima I) is a disabled nuclear power plant in the town of Ōkuma, Fukushima|Ōkuma in Fukushima Prefecture, Japan. Fukushima Daiichi was the first nuclear power plant to be built and run only by the Tokyo Electric Power Company (TEPCO).
+
+In March 2011 there were nuclear emergencies at the power plant and some other Japanese nuclear facilities, which raised questions about the future of nuclear power.
+The nuclear reactors
+.  Since September 2010, unit 3 has been fueled by MOX fuel|mixed-oxide (MOX) fuel.
+
+  Units 1–5 had/have a Mark 1 type (light bulb shaped torus) Containment building|containment structure, unit 6 has Mark 2 type (over/under) containment structure.
+
+Unit 1 is a 439&nbsp;MW boiling water reactor (BWR3) constructed in July 1967. It started to commercially make electricity on March 26, 1971, and was planned to shutdown in March, 2011. It was damaged during the 2011 Sendai earthquake and tsunami.  The reactor had high atomic and earthquake safety levels when it was made, but it is now both old and out of date. No one knew such a bad earthquake could happen in Japan. Unit 1 was designed for a earthquake ''peak ground acceleration'' shaking motion of 0.18&nbsp;g-force|g (1.74&nbsp;m/s2) and a seismic ''response spectrum'' based on the 1952 Kern County earthquake.
+
+  All units were inspected after the 1978 Miyagi earthquake when the seismic ''ground acceleration'' was 0.125&nbsp;g (1.22&nbsp;m/s2) for 30&nbsp;seconds, but no damage to the critical parts of the reactor was discovered.
+
+
+
+ 2011 Fukushima nuclear disaster 
+
+In March 2011, soon after the 2011 Sendai earthquake and tsunami|Sendai earthquake and tsunami,
+
+The Nuclear Engineering International group had reported that Units 1, 2 and 3 were Scram|automatically shut down. Units 4, 5 and 6 had already been shut down for maintenance. Back-up  generators were damaged by the tsunami;
+
+Japan’s government said it had and a nuclear emergency when the cooling problems happened as the back-up diesel generators broke down. The cooling is needed to remove decay heat even when a plant has been shut down, due to the long term atomic reactions. Hundreds of Japanese troops were said to be trucking generators and batteries to the site.
+
+=Reactor and generators damage reports (09.53 UTC, 16-3-2011)=
+After the back-up diesel generators pumps broke down, emergency batteries ran low after about eight hours. but work to connect portable generating equipment to power water pumps was still continuing. The diesel generators  would normally be connected by switching gears in a basement area of the power station's buildings, but this had been flooded by the tsunami.David Sanger and Matthew Wald, 
+Data estimated by JAIF (Japan Atomic Industrial Forum).
+
+
+
+Later, unit 4 at the nearby Fukushima II Nuclear Power Station was also shut down by the safety systems. Now, a source of off-site power is available but the damage level at the plant is bad.
+
+Proposed long term safety activity
+=Boron=
+
+
+Officials have thought about putting in or aerial dropping radiation killing boric acid, boronated plastic beads or boron carbide pellets into the spent fuel pools to absorb neutrons. Neutron are absorbed by boric acid, which has been injected into the reactor cores, but is unclear if boron was also included with the hose and fire truck water spraying of SFPs.
+
+=A 'Sarcophagus tomb' and liquid metal=
+On 18 March, the Reuters news agency reported that Hidehiko Nishiyama, a spokesman of Japan's nuclear agency was asked about burying the reactors in a sand and concrete tomb, said: "That solution is in the back of our minds, but we are focused on cooling the reactors down."
+
+After the Chernobyl disaster, the atomic safety workmen used 1,800 metric tonnes of sand and clay cover the plant. This created a problem because they were thermal insulators and trapped heat inside.
+Implications
+The nuclear emergencies at Fukushima Daiichi and other nuclear facilities raised questions about the future of nuclear power. Platts has said that "the crisis at Japan's Fukushima nuclear plants has prompted leading energy-consuming countries to review the safety of their existing reactors and cast doubt on the speed and scale of planned expansions around the world". Following the Fukushima nuclear disaster, the International Energy Agency halved its estimate of additional nuclear generating capacity to be built by 2035.
+
+Category:Fukushima Prefecture

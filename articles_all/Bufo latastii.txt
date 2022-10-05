@@ -1,0 +1,18 @@
+
+{{Taxobox
+| name = ''Bufo latastii''
+| image = Bufo latastii.jpg
+| status =
+| regnum = Animalia
+| phylum = Chordata
+| classis = Amphibia
+| ordo = Anura
+| familia = Bufonidae
+| genus = ''Bufo''
+| species = '''''B. latastii'''''
+| binomial = ''Bufo latastii''
+| binomial_authority = George Albert Boulenger|Boulenger, 1882
+| synonyms = ''Bufo siachinensis'' Khan, 1997}}
+'''''Bufo latastii''''' is a species of toad in the Bufonidae family. It is found in the Republic of India and Pakistan. Its natural habitats are temperate forests, intermittent rivers, freshwater marshes, arable land, and ponds. It is threatened by habitat loss.
+
+Category:Plants and animals of Kashmir

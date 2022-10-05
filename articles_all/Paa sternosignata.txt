@@ -1,0 +1,26 @@
+{{Taxobox
+| name = Paa sternosignata
+| image = Paa sternosignata01.jpg
+| status = LC
+| status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Amphibia
+| ordo = Anura
+| familia = Ranidae
+| genus = ''Paa''
+| species = '''''P. sternosignata'''''
+| binomial = ''Paa sternosignata''
+| binomial_authority = (J. A. Murray (naturalist)|Murray, 1885)
+| synonyms = }}
+'''''Paa sternosignata''''' is a species of frog in the Ranidae family. It is found in Afghanistan, Pakistan and Kashmir and possibly the India. Its natural habitats are rivers, swamps, and freshwater marshes.
+
+
+
+
+
+
+
+Category:Frogs
+Category:Amphibians of Pakistan
+Category:Plants and animals of Kashmir

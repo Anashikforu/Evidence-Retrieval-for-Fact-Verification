@@ -1,0 +1,11 @@
+'''Cell biology''' is the study of how living cells work. This includes the structure and function of the cell organelles, and the carbon-based molecules which cells produce. Cell biology is an interdisciplinary subject, and uses ideas from  genetics, biochemistry, molecular biology, immunology, and other subjects and techniques. 
+
+The most important molecules in cell biology are DNA, RNA and proteins.Gall JG & McIntosh JR eds 2001. ''Landmark papers in cell biology''. Bethesda, MD and Cold Spring Harbor, NY: The American Society for Cell Biology and Cold Spring Harbor Laboratory Press.
+
+The most important structures in the cell are the Cell nucleus|nucleus and the chromosomes, but there are others. The structure of eukaryote|eukaryotic cells is much more complex than prokaryote|prokaryotic cells. This is because endosymbiosis has occurred: some or all of the eukaryote organelles are former prokaryotes. Examples are mitochondria and plastids.Alberts B, Johnson A. Lewis J. Raff M. Roberts K. Walter P. 2008. ''Molecular biology of the cell'', 5th ed. Garland.Lodish H. Berk A. Matsudaira P. Kaiser CA. Krieger M. Scott MP. Zipurksy SL. Darnell J. 2004. ''Molecular cell biology'', 5th ed. WH Freeman: NY.
+
+The most important function of cells is to cell division|divide by mitosis or meiosis. Cells in a multicellular organism also specialise in Differentiation|different functions, and the different types may look quite  to each other.
+
+Cytology is mostly about the appearance and structure of cells.
+
+Category:Cell biology| 

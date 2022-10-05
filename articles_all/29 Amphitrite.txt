@@ -1,0 +1,38 @@
+
+{{Infobox Planet   | bgcolour=#FFFFC0 |
+ name=29 Amphitrite
+ | discoverer=Albert Marth|A. Marth
+ | discovered=March 1, 1854
+ | alt_names=A899 NG
+ | mp_category=Main belt
+ | epoch=June 14, 2006 (Julian day|JD 2453900.5)
+ | semimajor=382.103 Giga|Gmetre|m (2.554 Astronomical unit|AU)
+ | perihelion=354.398 Gm (2.369 AU)
+ | aphelion=409.809 Gm (2.739 AU)
+ | eccentricity=0.073
+ | period=1491.013 day|d (4.08 Julian year (astronomy)|a)
+ | inclination=6.096degree (angle)|°
+ | asc_node=356.501°
+ | arg_peri=63.433°
+ | mean_anomaly=229.662°
+ | avg_speed=18.61 km/second|s
+ | dimensions=212.2 km
+ | mass=1.0 kilogram|kg
+ | density=2.0 g/cubic centimetre|cm³
+ | surface_grav=0.0593 m/s²
+ | escape_velocity=0.1122 km/s
+ | rotation=0.2246 d (5.390 h)  | spectral_type=S-type asteroid|S
+ | magnitude = 8.58  to 11.38
+ | abs_magnitude=5.85
+ | albedo=0.1793&nbsp;(geometric albedo|geometric)&nbsp;
+ | angular_size = 0.21"  to 0.078"
+ | single_temperature=~170 kelvin|K}}
+'''29 Amphitrite''' is one of the biggest S-type asteroids, probably third in diameter after 15 Eunomia|Eunomia and 3 Juno|Juno, although 7 Iris|Iris and 532 Herculina|Herculina are similar in size.
+
+It is probably not a fully solid body, since its density is too low for a solid silicate object and much lower than Eunomia or Juno. Its orbit is less eccentric and inclined than those of its bigger cousins - being indeed the most circular of any asteroid found up to that point - and as a consequence it never becomes as bright as Iris or 6 Hebe|Hebe, especially as it is much farther from the Sun than those asteroids. It can reach magnitudes of around +8.6 at a favorable opposition, but more usually is around the binoculars|binocular limit of +9.5.
+
+Amphitrite was found by Albert Marth on March 1, 1854. It was the only asteroid he found. It is named after Amphitrite, a sea goddess in Greek mythology.
+
+A Satellite (natural)|moon is suspected based on the lightcurve data. 
+
+Category:Asteroids

@@ -1,0 +1,19 @@
+
+{{Taxobox
+| name = Stone Dormouse
+| image = 
+| status = LC | status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| genus = ''Graphiurus''
+| species = '''''G. rupicola'''''
+| binomial = ''Graphiurus rupicola''
+| binomial_authority = (Oldfield Thomas|Thomas & Hinton, 1925)
+| synonyms = }}
+
+The '''stone dormouse''' (''Graphiurus rupicola'') is a species of rodent in the Gliridae family. It is found in Namibia, South Africa, and sometimes in Angola. Its natural habitat is rocky areas. 
+
+Category:Graphiurus

@@ -1,0 +1,11 @@
+
+
+A '''generic top-level domain''' (''gTLD'') is one category of internet domain with (TLDs) maintained by the Internet Assigned Numbers Authority (IANA) for use on the Internet.
+
+Now, IANA differenting next groups of Inttop-level domain: top-level domain#Infrastructure TLD|infrastructure top-level domain (.arpa)
+ country-code top-level domains (ccTLD)
+ sponsored top-level domains (sTLD)
+ '''generic top-level domains (gTLD)'''
+ '''generic-restricted top-level domains'''
+
+Category:Top-level domains

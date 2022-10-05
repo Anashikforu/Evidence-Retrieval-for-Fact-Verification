@@ -1,0 +1,2 @@
+'''OneNote''' is a program that helps people make and share notes using digital notebooks. The first version was sold in 2003 as part of Microsoft Office. People can download OneNote on their computers, cell phones, and tablets, or use OneNote on the Internet.
+

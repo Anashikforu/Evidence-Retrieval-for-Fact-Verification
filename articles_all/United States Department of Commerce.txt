@@ -1,0 +1,26 @@
+{{Infobox Government agency
+|agency_name = United States Department of Commerce
+|logo = Flag of the United States Department of Commerce.svgborder
+|logo_width = 175
+|logo_caption = Flag of the U.S. Department of Commerce
+|seal = Seal of the United States Department of Commerce.svg
+|seal_width = 175
+|seal_caption = Seal of the U.S. Department of Commerce
+|picture = Commerce Building view from Mall 2.jpg
+|picture_caption = The Herbert C. Hoover Building, the headquarters of the U.S. Department of Commerce.
+|formed = 
+|headquarters = Herbert C. Hoover Building1401 Constitution Avenue Northwest, Washington, D.C.|NW, Washington, D.C., U.S.
+|coordinates = 
+|region_code = US-DC
+|employees = 46,608 (2018)
+|budget = US$9.67 billion (2018)US$14.2 billion (est. 2010)US$9.3 billion (est. 2011)US$8.6 billion (2014)
+|chief1_name = Gina Raimondo
+|chief1_position = United States Secretary of Commerce|Secretary
+|chief2_name = Don Graves
+|chief2_position = Deputy Secretary of Commerce|Deputy Secretary
+|website = 
+|footnotes = 
+|jurisdiction=United States of America|chief3_name=|chief3_position=|chief4_name=|chief4_position=|chief5_name=|chief5_position=|chief6_name=|chief6_position=|chief7_name=|chief7_position=|chief8_name=|chief8_position=|chief9_name=|chief9_position=|parent_department=}}
+The '''United States Department of Commerce ''' is the United States Cabinet|Cabinet department of the United States Federal government of the United States|government concerned with promoting economic development. It was originally created as the '''United States Department of Commerce and Labor''' on February 14, 1903. It was subsequently renamed to the Department of Commerce on March 4, 1913, and its bureaus and agencies specializing in Labour (economics)|labor were transferred to the new United States Department of Labor|Department of Labor.
+
+Category:1913 establishments in the United States

@@ -1,0 +1,35 @@
+
+A '''cylinder''' is a three-dimensional geometric shape. '''Cylinder''' may also refer to:
+
+
+
+Science and technology
+ Cylinder (engine), the space in which a piston travels in an engine
+ Gas cylinder, a container for storing compressed gas
+ Diving cylinder, a type of gas cylinder used in scuba-diving
+ Cylinder (firearms), the rotating device that contains the firing chambers of a revolver
+ Cylinder lock, the part that is profiled to accept a specific key
+ Graduated cylinder, glassware for measurement of liquids in laboratories
+ Hydraulic cylinder, using pressurized liquid
+ Pneumatic cylinder, using compressed gas
+ Cylinder (locomotive), in a steam locomotive
+
+=Information storage=
+ Phonograph cylinder, the dominant medium of audio storage from the 1870s until 1904.
+ Cylinder (disk drive), in computer hard drives
+ Cylinder seal, an ancient, often clay, cylinder engraved with a 'picture story'
+ Cuneiform scripts, on cylinders, e.g. ancient documents of Babylonian kings:
+ Cylinder of Nabonidus
+ Cyrus Cylinder
+
+=Mathematics=
+ Cylinder (algebra), the Cartesian product of a set with its superset
+
+Places
+ Cylinder, Iowa, a city in the United States
+
+Related pages
+ Cylinder set, the natural open set of a product topology
+ Cylinder hat, a type of hat popular in 19th and early 20th centuries
+ 
+

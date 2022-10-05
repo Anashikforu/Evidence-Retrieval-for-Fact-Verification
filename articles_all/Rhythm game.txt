@@ -1,0 +1,37 @@
+
+
+
+'''Rhythm game''', or '''rhythm action''', is a type of Music video game|music-themed Action game|action video game. These games mostly focus either on dancing or simulating the playing of musical instruments. Players must press buttons in time with commands from the game, which are in time with the rhythm of a song. Doing so will cause the game's protagonist or avatar to dance or play their instrument correctly, thus achieving a greater Score (gaming)|score. The game can be played with a hand-held controller, though different control devices have been made to play rhythm games, such as guitar- and drum-shaped controllers for musical instrument games, and pressure-sensitive pads (called dance mats) that the player must step on for dancing games. The Kinect for the Xbox 360 allows the player to use their whole body to control the game by tracking their movements. Some games have a multi-player mode, where players can play as members of a band or dance crew, or compete against each other.
+
+The 1996 title ''PaRappa the Rapper'' was the first influential rhythm game. The basic design of the game became a pattern that later rhythm games followed. In 1997, Konami's ''Beatmania'' started popularity for rhythm games in Japan. The company's music division, Bemani, released many music games over the next several years. The most successful of these was dance mat game ''Dance Dance Revolution (1998 video game)|Dance Dance Revolution'', which was also the only one to achieve large-scale success outside of Japan. The game's style was imitated by many other games, until the release of Harmonix's ''Guitar Hero (video game)|Guitar Hero''. The game was inspired by similar, earlier Japanese games, but Harmonix added rock music aimed at a Western audience. The success of the game revived the genre and two hugely successful franchises were born in ''Guitar Hero (video game)|Guitar Hero'' and the later ''Rock Band''. The success of both expanded the console video game market and its demographics. By 2008, rhythm games were considered to be one of the most popular video game genres, behind other action games. However, because there were so many spin-offs from the core titles in 2009, there was a nearly 50% drop in sales for music games, causing them to scale-back plans for further expansion in 2010.
+
+ Definition and game design 
+
+Rhythm game, or rhythm action,(2007-06-30). 
+In some rhythm games, the screen will display an avatar who performs in response to the player's button-presses. However, they are usually in the background, and the avatar is less important to the player than it is to spectators.Gerstmann, Jeff (2003-11-10). 
+ History 
+= Origins and popularity in Japan (1970's - 2000) =
+
+The genre has been traced back to the electronic game Simon (game)|Simon,Graft, Kris (2008-11-16). 
+''Dance Dance Revolution'', released in 1998, was a rhythm game in which players danced on pressure sensitive pads in time with on-screen commands.Ashcraft, p. 52-53 The game was highly successful not only in Japan but globally, unlike games such as ''GuitarFreaks'', ''DrumMania'' and ''Beatmania'' (though ''Beatmania'' had some success in Europe).Ashcraft, p. 57 and pump it up in a similar rhythm game.
+
+Released the same year, Enix's ''Bust a Groove'' revolved around similar dancing themes to ''Dance Dance Revolution'' but employed a more conventional input method. The game featured competitive one-on-one "battles" and also allowed the player more freedom than normally found in rhythm games.Gouskos, Carrie (2006-01-28). 
+''Vib-Ribbon'' was released by NanaOn-Sha (the creator of ''PaRappa the Rapper'') in 1999, and also did not use instrument-shaped controllers. In this game, players had to maneuver the protagonist through an obstacle course by pressing buttons at the correct time. These courses were generated in a way that depended on the background music and players could load their own music to play along. While it was praised for its unique style and timeless artistry, its simple vector graphics proved difficult to market and the game was never released in North America.Calvert, Justin (2006-01-28). 
+=Popularity in the West (2001–2008)=
+Harmonix, a company formed from a computer music group at MIT in 1995, released ''Frequency (video game)|Frequency'' in 2001. The game allowed the player to control multiple instruments and gave a feeling of more creative control.Davis, Ryan (2006-01-28). 
+ 
+''Guitar Hero'', developed by Harmonix, was released in 2005 by then relatively unknown publisher RedOctane. The game was inspired by ''GuitarFreaks'', but while that game had used Japanese pop music, ''Guitar Hero'' featured Western rock music. The game revived the rhythm genre which by this time had begun to get boring, flooded with ''Dance Dance Revolution'' sequels and imitators.Navarro, Alex (2006-01-28). 
+=Saturation and fallout of peripheral-based games (2009–2010)=
+Analysts for the video game market considered 2009 to be critical to further success of the genre.
+
+The weakening market for rhythm video games has created fallout effects impacting both game developers and distributors. Publishers and distributors have recognized that in 2010, most consumers likely have one or more sets of instrument controller hardware at their homes, and that further sales would be primarily driven by software sales and additional content.
+Activision scaled back its 2010 ''Guitar Hero'' release schedule to just two full games, reducing the number of stock-keeping unit|SKUs from 25 in 2009 to 10 in 2010.
+
+The kinds of people buying games was changing and they wanted something different. Rhythm game developers tried to add new features to their games. ''Rock Band 3'' and ''Power Gig: Rise of the SixString'' added new stringed guitar controllers. They also added kinds of game play to help players learn how to hold their fingers as if playing a real guitar.
+
+By the end of 2010, the rhythm market, initially propped by game bundles with instrument controllers, was considered "well past its prime" and has shifted towards downloadable content and potential integration with motion control systems.
+
+=Motion control and dance games (2011-present)=
+With the introduction of motion control to both the Xbox 360 (through Kinect) and the PlayStation 3 (through PlayStation Move) in 2010 and 2011, along with existing Wii motion control, some analysts believed the rhythm market would resurges through a new wave of dance-based video games and band-based ones that use platform-agnostic controllers to replicate real-life actions.
+
+Category:Video game genres

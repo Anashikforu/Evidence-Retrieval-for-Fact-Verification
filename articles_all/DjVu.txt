@@ -1,0 +1,4 @@
+
+
+'''DjVu''' (pronounced like French ''wikt:déjà vu|déjà vu'') is a Open_Format|open computer file format. It is made mostly to store scanned documents. It is especially used for things with a mix of words, line drawings, and photographs inside. DjVu has been sold as an alternative to Portable Document Format|PDF, as it gives smaller files than PDF for most scanned documents.  The DjVu developers reportLéon Bottou, Patrick Haffner, Paul G. Howard, Patrice Simard, Yoshua Bengio and Yann Le Cun: High Quality Document Image Compression with DjVu, Journal of Electronic Imaging, 7(3):410-425, 1998 
+Category:Computer file formats

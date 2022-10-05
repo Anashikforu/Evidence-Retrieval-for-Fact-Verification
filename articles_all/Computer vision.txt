@@ -1,0 +1,15 @@
+'''Computer vision''' is the subfield of Computer Science that studies how a computer processes visual information to have them interpret what they see.  Unlike Computer Graphics which generates images using computers, Computer Vision takes visual information from the real world and uses algorithms to make predictions and explain what is in the image.
+
+Applications
+Computer Vision originally focused on computer systems understanding images well enough to describe what they see, but has grown to systems that give detailed environmental context with more advancements in Machine Learning. Improved Pattern Recognition and Convolutional Neural Networks methods have given way to new methods for processing images that has application in multiple fields.
+
+=Optical Character Recognition=
+
+Google Books used scanned images of pages of books to convert those pages to a text format. This allowed users to search the text in the book without needing to read it page by page.
+
+=Medical Imaging=
+Computer systems use the X-Ray and MRI imaging of hospital patients to make a diagnosis as to whether or not they have cancer. In some instances, the computers have outperformed the doctors who make diagnoses on the same patient.
+=Self Driving Cars=
+Autonomous Cars use a combination of Computer Vision and LiDAR to detect pedestrians and Stop Signs when driving passengers.
+
+Category:Computers

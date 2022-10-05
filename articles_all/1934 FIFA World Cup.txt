@@ -1,0 +1,58 @@
+
+The '''1934 FIFA World Cup''' was a football (soccer) sporting event that was held in Italy in 1934. Italy won the trophy after beating Czechoslovakia in the final.
+
+ Participants 
+= Africa =
+ • Template:Egypt Squad 1934 World Cup|Squad
+
+= Europe =
+ • Template:Austria Squad 1934 World Cup|Squad
+ • Template:Belgium Squad 1934 World Cup|Squad
+ • Template:Czechoslovakia Squad 1934 World Cup|Squad
+ • Template:France Squad 1934 World Cup|Squad
+ • Template:Germany Squad 1934 World Cup|Squad
+ • Template:Hungary Squad 1934 World Cup|Squad
+ • Template:Italy Squad 1934 World Cup|Squad
+ • Template:Netherlands Squad 1934 World Cup|Squad
+ • Template:Romania Squad 1934 World Cup|Squad
+ • Template:Spain Squad 1934 World Cup|Squad
+ • Template:Sweden Squad 1934 World Cup|Squad
+ • Template:Switzerland Squad 1934 World Cup|Squad
+
+= North and Central America =
+ • Template:United States Squad 1934 World Cup|Squad
+
+= South America =
+ • Template:Argentina Squad 1934 World Cup|Squad
+ • Template:Brazil Squad 1934 World Cup|Squad
+
+ Results 
+{{Round16
+
+
+|27 May – Rome|'''|1
+|27 May – Genoa|'''|1
+|27 May – Turin|'''|2
+|27 May – Naples|'''|2
+|27 May – Trieste|'''|1
+|27 May – Milan|'''|3
+|27 May – Florence|'''|2
+|27 May – Bologna|'''|2
+
+|31 May – Florence(replayed 1 June)|'''|1 (0)
+|31 May – Bologna|'''|1
+|31 May – Turin|'''|2
+|31 May – Milan|'''|1
+
+|3 June – Milan|'''|0
+|3 June – Rome|'''|1
+
+|10 June – Rome|'''|1
+
+|7 June – Naples|'''|2
+|RD1=First Round|widescore=true}}
+
+= Final =
+ won the championship.
+
+Category:Football in Italy

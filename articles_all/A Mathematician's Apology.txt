@@ -1,0 +1,10 @@
+'''A Mathematician's Apology''' is a book about mathematics which was written in 1940.
+
+ Overview 
+It was written by a British mathematician called G. H. Hardy (1877—1947).
+
+  He used the essay to try to wikt:justification|justify spending his life working on mathematics.  It is said he wrote it for two reasons:
+#He was getting old and found it more difficult to work on mathematics.  He spent time writing the essay instead because discovering new mathematical ideas was now too hard for him.
+#He believed that mathematics should be wikt:investigation|investigated for interest, instead of for making other things like weapons.
+
+Category:Mathematics literature

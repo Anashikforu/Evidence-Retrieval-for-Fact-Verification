@@ -1,0 +1,44 @@
+{{Infobox Planet   | bgcolour=#FFFFC0
+| name=15 Eunomia
+| image=
+| symbol= 
+| discoverer=Annibale de Gasparis
+| discovered=July 29, 1851
+| alt_names=''none''
+| mp_category=Main belt, (Eunomia family)
+| epoch=June 14, 2006 (Julian day|JD 2453900.5)
+| semimajor=395.429 Giga|Gmetre|m (2.643 Astronomical unit|AU)
+| perihelion=321.429 Gm (2.149 AU)
+| aphelion=469.429 Gm (3.138 AU)
+| eccentricity=0.187
+| period=1569.687 day|d (4.30 Julian year (astronomy)|a)
+| inclination=11.738degree (angle)|°
+| asc_node=293.273°
+| arg_peri=97.909°
+| mean_anomaly=286.102°
+| avg_speed=18.16&nbsp;km/second|s
+| dimensions=330×245×205| mass=3.26±0.12''; Astronomy & Astrophysics manuscript no. aa5760-06
+| density=3.8±0.7&nbsp;g/cubic centimetre|cm³
+| surface_grav=0.08&nbsp;m/s²
+| escape_velocity=0.16&nbsp;km/s
+| rotation=0.2535 d (6.083 hour|h)
+| spectral_type=S-type asteroid
+| magnitude = 7.9 to 11.24
+| abs_magnitude=5.28
+| albedo=0.209&nbsp;(geometric albedo|geometric)
+| angular_size = 0.29"  to 0.085"
+| single_temperature=~166 kelvin|K''max:'' 260&nbsp;K (-13 celsius|°C)}}
+'''15 Eunomia''' is a very big asteroid in the closer part of the asteroid belt|main asteroid belt. It is the biggest of the stony (S-type asteroid|S-type) asteroids, and somewhere between the 8th to 12th biggest Main Belt asteroid overall (unsure diameters make its ranking unsure). It is also the biggest member of the Eunomia family of asteroids.
+
+Eunomia was found by Annibale de Gasparis on July 29, 1851 and named after Eunomia, one of the Horae (Hours), a personification of order and law in Greek mythology.
+
+ Characteristics 
+As the biggest S-type asteroid (with 3 Juno being a very close second), Eunomia has attracted a moderate amount of scientific attention. It has a bit over one percent of the mass of the entire main belt.
+
+Eunomia appears to be a stretched but fairly round body, with what appear to be four sides of differing curvature and noticeably different average compositions. Its stretched shape led to the suggestion that Eunomia may be a binary asteroid|binary object. However, this has been denied. It is a Prograde and retrograde motion|retrograde rotator with its pole pointing towards ecliptic coordinate system|ecliptic coordinates (β, λ) = (-65°, 2°) with a 10° uncertainty. This gives an axial tilt of about 165°.
+
+Like other true members of the family, its surface is made up of silicates and some nickel-iron, and is quite bright. Calcium-rich pyroxenes and olivine, along with nickel-iron metal have been detected on Eunomia's surface. Spectroscopy|Spectroscopic studies suggest that Eunomia has regions made up differently.
+
+Eunomia has been seen occultation|occulting stars three times. It has a mean opposition (astronomy)|opposition apparent magnitude|magnitude of +8.5, about equal to the mean brightness of Titan (moon)#Observation and exploration|Titan and can reach +7.9 at a near perihelion opposition.
+
+Category:Asteroids

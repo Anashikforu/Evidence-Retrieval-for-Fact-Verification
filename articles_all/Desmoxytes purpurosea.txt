@@ -1,0 +1,16 @@
+
+{{Taxobox
+|image=Desmoxytes purpurosea 01.jpg
+|regnum=Animalia
+|phylum=Arthropoda
+|classis=Diplopoda
+|ordo=Polydesmida
+|familia=Paradoxosomatidae
+|genus=''Desmoxytes''
+|binomial='''''Desmoxytes purpurosea'''''}}
+
+The '''shocking pink dragon millipede'''
+The millipede has glands that produce hydrogen cyanide to protect it from predators,
+
+It is one of a thousand new spcies found in the Greater Mekong region in the last ten years.
+Category:Millipedes

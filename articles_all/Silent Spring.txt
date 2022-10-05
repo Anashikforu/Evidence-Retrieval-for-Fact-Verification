@@ -1,0 +1,22 @@
+
+{{Infobox book
+| name = Silent Spring
+| image =
+| image_size = 200px
+| caption = First edition cover art
+| author = Rachel Carson
+| cover_artist =
+| country = United States of America
+| language = English
+| subject = Pesticides, Ecology, Environmentalism
+| genre =
+| publisher = Houghton Mifflin
+| release_date = September 27, 1962
+| media_type = Hardcover/paperback
+| isbn =}}
+
+'''''Silent Spring''''' is the name of a book by Rachel Carson. It was published in 1962. It tells of the damage done to the environment by the use of chemicals to kill pests. The book is widely credited with helping launch the modern American environmentalism|environmental movement.Josie Glausiusz. 2007. Better Planet: can a maligned pesticide save lives? ''Discover Magazine''. p34.
+
+The book documented detrimental effects of pesticides such as DDT on wildlife, particularly birds. Carson accused the chemical industry of spreading disinformation, and public officials of accepting industry claims uncritically.
+
+Category:Biology books

@@ -1,0 +1,35 @@
+{{Geobox|Range
+|name=Blue Ridge Mountains
+|image=Rainy Blue Ridge-27527.jpg
+|image_size=350
+|image_caption=The Blue Ridge Mountains as seen from the Blue Ridge Parkway near Mount Mitchell (North Carolina)|Mount Mitchell
+|country=United States
+|state=Georgia (U.S. state)|Georgia | state1=North Carolina | state2=Tennessee  |state3=Virginia | state4=Maryland | state5=Pennsylvania | |  state6=South Carolina 
+| |  state7=West Virginia 
+| parent=Appalachian Mountains
+|highest=Mount Mitchell (North Carolina)|Mount Mitchell
+|highest_elevation_imperial=6684
+|highest_lat_d=35|highest_lat_m=45|highest_lat_s=53|highest_lat_NS=N
+|highest_long_d=82|highest_long_m=15|highest_long_s=55|highest_long_EW=W
+|geology=granite | geology1=gneiss | geology2=limestone
+|period= | orogeny=Grenville orogeny
+|area_imperial= | length_imperial= | width_imperial=
+|length_orientation= | width_orientation=
+|map=Appalachian map.svg
+|map_caption=Appalachian Mountains}}
+
+The '''Blue Ridge Mountains''' are mountains that go across the eastern United States. They go through Georgia (U.S. state)|Georgia, North Carolina, Tennessee, Virginia, Maryland, Pennsylvania, South Carolina, and West Virginia. Its highest point is Mount Mitchell in North Carolina. The first mountain or best known mountain, is Blue Mountain in Pennsylvania. The Blue Ridge Mountains are a part of the Appalachian Mountains.
+
+The blue haze which covers the mountains is caused by isoprene. It is produced by the trees and other plants.
+
+
+
+
+
+
+
+
+
+Category:Mountains of the United States
+Category:Appalachian Mountains
+Category:Tri-Cities, Tennessee

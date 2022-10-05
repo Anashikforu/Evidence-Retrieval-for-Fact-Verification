@@ -1,0 +1,23 @@
+
+In Mechanics|astrodynamics, '''orbital eccentricity''' shows how much the shape of an object's orbit is different from a circle.
+<!-- comment out really complex information
+
+In astrodynamics, under standard assumptions in astrodynamics|standard assumptions, any orbit must be of conic section shape. The eccentricity (mathematics)|eccentricity of this conic section, the '''orbit's eccentricity''', is an important parameter of the orbit that defines its absolute shape. Eccentricity may be interpreted as a measure of how much this shape deviates from a circle.
+-->
+
+'''Eccentricity''' (e\,\!) is defined for all circle|circular, ellipse|elliptic, parabola|parabolic and hyperbolic trajectory|hyperbolic orbits. It can take the following values:
+for circular orbits: e\,\! is equal to zero,
+for Elliptical orbit|elliptical orbits: e\,\! is more than zero but less than 1,
+for Parabolic trajectory|parabolic trajectories: e\,\! is equal to 1,
+for hyperbolic trajectory|hyperbolic trajectories: e\,\! is more than 1.
+
+Finding eccentricity
+Here is a formula to find eccentricity:
+
+e_{obj}=\frac {r_a-r_p} {r_a+r_p}
+
+Where eobj is the eccentricity, ra is the apoapsis (far point) of the object's orbit, and rp is the periapsis (near point) of the object's orbit. The near and far points are the apsides.
+
+
+
+Category:Orbits

@@ -1,0 +1,61 @@
+{{Infobox Settlement
+|official_name            = City of Beacon
+|settlement_type          = City
+|nickname                 = Tree City 
+|image_skyline            = Beaconpic.jpg
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_map                = Beacon.svg
+|mapsize                  = 250x200px
+|map_caption              = Location in the state of New York (state)|New York
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|subdivision_type         = List of countries|Country
+|subdivision_type1        = Political divisions of the United States|State
+|subdivision_type2        = List of counties in New York|County
+|subdivision_name         = United States
+|subdivision_name1        = New York (state)|New York
+|subdivision_name2        = Dutchess County, New York|Dutchess
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Steve K. Gold
+|established_date         = 
+|area_total_km2           = 12.7
+|area_total_sq_mi         = 4.9
+|area_land_sq_mi          = 4.8
+|area_land_km2            = 12.4
+|area_water_km2           = 0.3
+|area_water_sq_mi         = 0.1
+|elevation_m              = 42
+|elevation_ft             = 138
+|coordinates = 
+|population_as_of         = 2005
+|population_total         = Approx 16,000 Living and 25,000 Working/ Tourism (city limits|city proper)
+|population_density_km2   = 2072
+|population_density_sq_mi = 3333
+|timezone                 = North American Eastern Time Zone|EST
+|utc_offset               = -5
+|timezone_DST             = Eastern Daylight Time|EDT
+|utc_offset_DST           = -4
+|website                  = |postal_code_type         = ZIP code
+|postal_code              = 12508
+|area_code                = Area code 845|845
+|blank_name               = Federal Information Processing Standard|FIPS code
+|blank_info               = 36-05100
+|blank1_name              = Geographic Names Information System|GNIS feature ID
+|blank1_info              = 0977521
+|footnotes                = |}}
+
+'''Beacon''' is a city in Dutchess County, New York, in the United States. The 2000 United States census says that the city is home to 13,808 people. Beacon is part of the Poughkeepsie, New York|Poughkeepsie–Newburgh–Middletown, NY Poughkeepsie-Newburgh-Middletown metropolitan area|Metropolitan Statistical Area. Beacon was named in memory of fires that burned from the summit of the Fishkill Mountains to warn the Continental Army about British troops.
+
+Other websites
+
+
+
+
+
+
+Category:Cities in New York
+Category:Dutchess County, New York

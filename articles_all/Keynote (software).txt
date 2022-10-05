@@ -1,0 +1,26 @@
+
+
+'''Keynote''' is a presentation program|presentation software application made by Apple Inc.|Apple for its Mac OS X operating system.
+
+History
+Keynote was a software program that Steve Jobs, the chief executive officer of Apple Inc.|Apple used for his own presentations only. It was later sold to everyone as Keynote 1.0, competing against other presentation software, especially Microsoft PowerPoint. Unlike PowerPoint, Keynote can use all image types, and the design uses more pictures, making it easier to use. Because Keynote uses Mac OS X's built-in graphics technologies, it can produce slides with many graphics very easily.
+
+Version history
+
+
+Trivia
+Al Gore, a member of the board of directors for Apple Inc.|Apple as of 2006, uses Keynote for a lecture about Global Warming which he claims to have shown over a thousand times. The talk was made into a film, ''An Inconvenient Truth''. During the film he can be seen using Keynote on a Powerbook to design a slide for his presentation.
+
+Related pages
+Microsoft PowerPoint
+OpenOffice.org
+Presentation program
+
+ Other websites 
+ 
+=Discussion Groups=
+  
+Category:IWork
+Category:Apple software
+
+

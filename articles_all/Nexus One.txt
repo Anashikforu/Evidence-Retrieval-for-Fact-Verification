@@ -1,0 +1,10 @@
+
+'''Nexus One''' is a cell phone from Google that uses the Google Android operating system.
+ Technical information 
+The cell phone has a 1 GHz Qualcomm CPU, along with 512 MB RAM and 512 MB ROM. It has a 5.0 megapixel camera, with Bluetooth and GPS. It runs the Google Android 2.1 OS.
+
+Related pages
+ Google Android
+ iPhone
+
+Category:Mobile phones released in 2010

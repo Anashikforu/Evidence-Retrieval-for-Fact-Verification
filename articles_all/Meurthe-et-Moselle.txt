@@ -1,0 +1,139 @@
+
+'''Meurthe-et-Moselle''' is a departments of France|department in the Grand Est regions of France|region of France, named after the Meurthe (river)|Meurthe and Moselle River|Moselle rivers. The Prefectures in France|prefecture (Capital city|capital) of Meurthe-et-Moselle is Nancy, Meurthe et Moselle|Nancy.
+
+History
+Meurthe-et-Moselle was created in 1871 at the end of the Franco-Prussian War from the parts of the former departments of Moselle and Meurthe that were left to France with Nancy as is Capital city|capital. It was divided in 4 Arrondissements of France|''arrondissements'': Briey, Lunéville, Toul and Nancy.
+
+The current boundary between Meurthe-et-Moselle and Moselle was the border between France and Germany from 1871 to 1919 and again between 1940 and 1944.
+
+On 10 September 1926, the ''arrondissements'' of Toul were eliminated but it was made again, in 1943, an ''arrondissement''.
+
+Geography
+The Meurthe-et-Moselle department is in the Grand Est region. It is bordered by 4 departments, all in the same region. To the northwest, the department borders Belgium and Luxembourg.
+ Grand Est region
+ Moselle (department)|Moselle department (north and east)
+ Bas-Rhin (a short distance in the southeast)
+ Vosges (south)
+ Meuse (department)|Meuse (west)
+
+Meurthe-et-Moselle has an area of  wide, forming a panhandle in the north of the department.
+
+Its highest point is in the '''''Roc de Taurupt''''' ( high.
+
+The main rivers in the department are the Meurthe (river)|Meurthe and the Moselle River|Moselle; the department is named after this two rivers. Other rivers are the Chiers (tributary of the Meuse (river)|Meuse) and the Vezouze (a tributary of the Meurthe).
+
+=Climate=
+The area around Nancy, Meurthe et Moselle|Nancy, at an altitude of about , is characterized by climates with few extremes of temperature. The Köppen climate classification type for the climate at Troyes is a "Marine West Coast Climate" and of the subtype "'''Cfb'''".
+
+The average amount of precipitation for the year in Nancy is .
+
+The average temperature for the year in Nancy is 
+
+
+
+
+
+Administration
+Meurthe-et-Moselle is managed by the ''Departmental Council of Meurthe-et-Moselle'' in Nancy, Meurthe et Moselle|Nancy. The department is part of the Grand Est region.
+
+=Administrative divisions=
+There are 4 Arrondissements of France|''arrondissements'' (districts), 23 Cantons in France|''cantons'' and 594 Communes in France|''communes'' (Municipality|municipalities) in Meurthe-et-Moselle.
+
+
+
+
+
+The following is a list of the 23 Cantons of France|cantons of the '''Meurthe-et-Moselle''' department, following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Baccarat|Baccarat
+# Canton of Entre Seille et Meurthe|Entre Seille et Meurthe
+# Canton of Grand Couronné|Grand Couronné
+# Canton of Jarny|Jarny
+# Canton of Jarville-la-Malgrange|Jarville-la-Malgrange
+# Canton of Laxou|Laxou
+# Canton of Longwy|Longwy
+# Canton of Lunéville-1|Lunéville-1
+# Canton of Lunéville-2|Lunéville-2
+# Canton of Meine au Saintois|Meine au Saintois
+# Canton of Mont-Saint-Martin|Mont-Saint-Martin
+# Canton of Nancy-1|Nancy-1
+# Canton of Nancy-2|Nancy-2
+# Canton of Nancy-3|Nancy-3
+# Canton of Neuves-Maisons|Neuves-Maisons
+# Canton of Le Nord-Toulois|Le Nord-Toulois
+# Canton of Pays de Briey|Pays de Briey
+# Canton of Pont-à-Mousson|Pont-à-Mousson
+# Canton of Saint-Max|Saint-Max
+# Canton of Toul|Toul
+# Canton of Val de Lorraine Sud|Val de Lorraine Sud
+# Canton of Vandoeuvre-lès-Nancy|Vandoeuvre-lès-Nancy
+# Canton of Villerupt|Villerupt
+
+
+Demographics
+The inhabitants of the Meurthe-et-Moselle department are known, in French language|French, as ''Meurthois'' or ''Meurthe-et-Mosellans'' (women: ''Meurthoises'' or ''Meurthe-et-Mosellanes''),
+
+Meurthe-et-Moselle had a population, in 2013, of 731,004, for a population density of  inhabitants/km2. The ''arrondissement'' of Nancy, with 417,430 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Meurthe-et-Moselle'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+ImageSize  = width:400 height:373
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:800000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:50000 start:0
+BackgroundColors = canvas:sfondo
+BarData=
+  bar:1968 text:1968
+  bar:1975 text:1975
+  bar:1982 text:1982
+  bar:1990 text:1990
+  bar:1999 text:1999
+  bar:2008 text:2008
+  bar:2013 text:2013
+PlotData=
+  color:barra width:30 align:left
+  bar:1968 from:0 till: 705554
+  bar:1975 from:0 till: 722693
+  bar:1982 from:0 till: 716964
+  bar:1990 from:0 till: 711943
+  bar:1999 from:0 till: 713779
+  bar:2008 from:0 till: 729768
+  bar:2013 from:0 till: 731004
+TextData=
+  fontsize:S pos:(20,20)
+  text:
+
+
+
+The 10 ''Communes of France|communes'' with more inhabitants in the Meurthe-et-Moselle department are:
+
+
+
+
+Economy
+The economy was highly dependent on mining until the 1960s. There are iron, Table salt|salt, and Limestone|lime Mining|mines. The urban area around Nancy, Meurthe et Moselle|Nancy has a very active economy based largely on Service sector|services, research, and higher education.
+
+Gallery
+
+File:Fontaine - Place Stanislas - Nancy - P1300648-P1300665 fused.jpg|Detail of the Place Stanislas in Nancy, France|Nancy, a List of World Heritage Sites in France|UNESCO World Heritage Site
+File:Fossé de la ceinture fortifiée de Toul.jpg|Walls and cathedral of Toul
+File:LaSalle monument Château de Lunéville, Lunéville, France 09.JPG|General Lasalle monument in Lunéville
+File:Musel bei Pont-a-Mousson w.jpg|The Moselle river near Pont-à-Mousson
+
+
+Related pages
+ Arrondissements of the Meurthe-et-Moselle department
+ Communes of the Meurthe-et-Moselle department
+
+Category:Departments in Grand Est

@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Ezo salamander
+| image = Hynobius retardatus.JPG
+| status = LC
+| status_system=IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Amphibia
+| ordo = Caudata
+| familia = Hynobiidae
+| genus = ''Hynobius''
+| species = '''''H. retardatus'''''
+| binomial = ''Hynobius retardatus''
+| binomial_authority = (Dunn, 1923)
+| synonyms = }}
+The '''Ezo salamander''' or '''Hokkaido salamander''' ('''''Hynobius retardatus''''') is a kind of salamander in the Hynobiidae Family (biology)|family of animals.  It can only be found in Japan.  The places where it likes to live are forests, shrubland, marshes, and swamps.
+
+
+
+Category:Hynobius

@@ -1,0 +1,94 @@
+
+{{Infobox programming language
+|title=C#
+|designer=Microsoft
+|developer=Microsoft
+| latest release version = 
+| latest release date = 
+|year=
+|file_ext=.cs
+|logo=File:C Sharp wordmark.svg}}
+
+'''C#''' (pronounced "see sharp") is a computer programming language. It is developed by Microsoft. It was created to use all capacities of .net framework|.NET platform. The first version was released in 2001. The most recent version is C# 8.0, which was released in September 2019. C# is a modern language. C#'s development team is led by Anders Hejlsberg, the creator of Delphi.
+
+ Execution Platform 
+The Microsoft .NET platform;
+Free implementation of C# and .NET like Mono (software)|Mono developed by Novell, or dotGNU developed by the Free Software Foundation.
+
+Today, C# can be run on most platforms (Microsoft Windows|Windows, Linux, MacOs, etc.) without changing the source code. C# can be run on the Xbox 360 platform with a special framework.
+
+ Syntax 
+C# code is similar to C++ and Java (programming language)|Java code.  The '''CLR''' (Common Language Runtime) is needed in order to run a C# program.
+
+= "Hello, World!" example =
+
+/ This is a simple program in C#. 
+  It simply shows "Hello, World!" on the screen.
+ /
+using System;
+namespace HelloWorld
+{
+  class Hello
+  {
+    static void Main()
+    {
+      Console.WriteLine("Hello, World!");
+      
+      // The piece of code below is optional, but is needed to prevent the program from closing immediately.
+      
+      Console.WriteLine("Press any key to exit.");
+      Console.ReadKey();
+    }
+  } 
+}
+
+
+
+= Basic input example =
+
+/ 
+  This program asks for input from the user, i.e. a name. It then prints "Hello name", replacing name with whatever the person typed in.
+ /
+using System;
+namespace HelloWorld
+{
+  class Hello
+  {
+    static void Main()
+    {
+      Console.WriteLine("Hello, please type in your name:");
+      string name = Console.ReadLine();
+      Console.WriteLine("Hello {0}",name);
+      Console.ReadKey();
+    }
+  } 
+}
+
+
+
+ Integrated Development Environments 
+
+C# can be edited in a number of IDEs (Integrated Development Environments), some of which are listed below:
+
+Windows:
+Microsoft Visual Studio
+SharpDevelop
+Visual C#
+Visual C# Express
+Mac OS X:
+MonoDevelop (With limitations)
+Unix/Linux:
+MonoDevelop
+
+ Sources 
+
+
+Related pages
+ Object-oriented programming
+ C (programming language)
+ C++
+ Java (programming language)|Java
+
+ Other websites 
+           
+Category:Programming languages

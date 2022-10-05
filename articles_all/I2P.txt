@@ -1,0 +1,5 @@
+
+'''I2P''' (means '''Invisible Internet Project''',
+The network is a simple layer that applications can use to anonymously and securely send messages to each other. Possible uses include anonymous surfing, chatting, blogging and file transfers.
+
+Category:Messaging

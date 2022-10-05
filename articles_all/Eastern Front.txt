@@ -1,0 +1,6 @@
+'''Eastern Front''' can be one of the following:
+
+ Eastern Front (World War I)
+ Eastern Front (World War II)
+ Eastern Front (Sudan)
+

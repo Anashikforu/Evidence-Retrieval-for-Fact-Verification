@@ -1,0 +1,14 @@
+
+
+
+Color coding for atomic numbers:
+ Elements numbered in blue are liquids at Standard Temperature and Pressure (STP);
+ those in green are gases at Standard Temperature and Pressure|STP;
+ those in black are solid at Standard Temperature and Pressure|STP;
+ those in red are Synthetic element|synthetic (all are solid at Standard Temperature and Pressure|STP).
+ those in gray have not yet been discovered (they also have muted filled colors indicating the likely chemical series they would fall under).
+
+ Related pages 
+ Periodic table
+
+Category:Periodic table

@@ -1,0 +1,10 @@
+'''Camino''' was a Free software|free, open source web browser, that was designed for the Mac OS X operating system.  It was developed by the Camino Project, a community organization. It was based on Mozilla|Mozilla's Gecko rendering engine.
+
+Version history
+
+
+
+
+
+Category:Web browsers
+Category:Mozilla

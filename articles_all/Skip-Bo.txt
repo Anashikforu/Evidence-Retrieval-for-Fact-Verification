@@ -1,0 +1,6 @@
+'''Skip-Bo''' is a children's card game. You try and match numbers, colours, etc. It is similar to the card game Uno (card game)|Uno.
+
+
+
+
+Category:Card games

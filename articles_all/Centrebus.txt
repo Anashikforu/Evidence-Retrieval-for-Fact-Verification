@@ -1,0 +1,24 @@
+{{Infobox Bus transit
+|name            = 
+|logo            = Centrebus.svg
+|logo_size       = 
+|image           = Centrebus ADL Enviro 200 504 YX63 LGG.jpg
+|image_size      =
+|image_caption   = Alexander Dennis Enviro200 in Leicester city centre in June 2018
+|parent          = 
+|company_slogan  = Your local bus service provider
+|founded         = 2001
+|defunct         =
+|headquarters    = Wenlock Way, Leicester
+|locale          = 
+|service_area    = BedfordshireHertfordshireLeicestershireLincolnshireRutland
+|service_type    = Bus services
+|depots            = GranthamLeicesterLutonStevenage
+|stations        = 
+|operator        = 
+|lounge          =
+|followed_by     = Yorkshire Tiger (West Yorkshire)
+|fleet           = 214 (December 2020)
+|ceo             = Julian Peddle
+|website         = '''Centrebus'''
+Category:British transport companies

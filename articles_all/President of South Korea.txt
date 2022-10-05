@@ -1,0 +1,84 @@
+
+
+The '''President of the Republic of Korea''' () is the head of state, leader of the executive of the South Korean government and the commander in chief of the South Korean Armed Forces
+
+The president is directly elected by the people to a five-year term, with no possibility of re-election.Article 70 of the Constitution of the Republic of Korea. While in office, the chief executive lives in Blue House|Cheong Wa Dae (the "Blue House").
+
+Moon Jae-in, former human rights lawyer and chief of staff to then-President Roh Moo-hyun,
+
+If the National Assembly of South Korea|National Assembly votes against a presidential decision, it will be declared void immediately.
+
+Powers and duties of the president
+The president is required to:
+ uphold the Constitution
+ preserve the safety and homeland of South Korea
+ work for the peaceful reunification of Korea, typically act as the Chairperson of the National Unification Advisory Council
+
+List of presidents
+
+
+
+ImageSize  = width:210 height:750
+PlotArea   = left:35 right:50 top:15 bottom:100
+
+DateFormat = yyyy
+Period     = from:1948 till:2022
+TimeAxis   = orientation:vertical order:reverse
+ScaleMajor = unit:year increment:5 start:1950
+ScaleMinor = increment:1 start:1948
+
+# there is no automatic collision detection,
+# so shift texts up or down manually to avoid overlap
+
+Colors=
+  id:con value:rgb(0.87,0.27,0.27)  
+  id:lib value:rgb(0.14,0.37,0.70) 
+  id:act value:pink
+
+Define $dx = 25 # shift text to right side of bar
+
+PlotData=
+
+ bar:Federal_chancellors color:white width:25 mark:(line,white) align:left fontsize:10 shift:($dx,-5)
+
+  from: 1948 till: 1960 color:con text:"Syngman Rhee|Rhee Syng-man"
+  from: 1960 till: 1962 color:lib text:"Yun Posun" 
+  from: 1962 till: 1979 color:con text:"Park Chung-hee" 
+  from: 1979 till: 1980 color:con text:"Choi Kyu-hah"
+  from: 1980 till: 1988 color:con text:"Chun Doo-hwan" 
+  from: 1988 till: 1993 color:con text:"Roh Tae-woo"
+  from: 1993 till: 1998 color:con text:"Kim Young-sam"
+  from: 1998 till: 2003 color:lib text:"Kim Dae-jung"
+  from: 2003 till: 2008 color:lib text:"Roh Moo-hyun"
+  from: 2008 till: 2013 color:con text:"Lee Myung-bak" 
+  from: 2013 till: 2017 color:con text:"Park Geun-hye" 
+  from: 2017 till: 2022 color:lib text:"Moon Jae-in" 
+  from: 2022 till: 2022 color:con text:"Yoon Suk-yeol" 
+
+
+
+
+File:Rhee Syng-Man in 1948.jpg|'''Syngman Rhee|Rhee Syngman1st–3rd term'''(served: 1948–1960)
+File:Yun Bo-seon.jpg|'''Yun Posun4th term'''(served: 1960–1962)
+File:Park_Chung-hee.jpg|'''Park Chung-hee5th–9th term'''(served: 1962–1979)
+File:19700408崔圭夏.jpg|'''Choi Kyu-hah''''''10th term'''(served: 1979–1980)
+File:Chun Doo-hwan 1983 (cropped).JPEG|'''Chun Doo-hwan11th–12th term'''(served: 1980–1988)
+File:Roh Tae-woo presidential portrait.jpg|'''Roh Tae-woo''''''13th term'''(served: 1988–1993)
+File:Kim Young-sam presidential portrait.jpg|'''Kim Young-sam''''''14th term'''(served: 1993–1998)
+File:Kim Dae-jung presidential portrait.jpg|'''Kim Dae-jung 15th term'''(served: 1998–2003)
+File:Roh Moo-hyun presidential portrait.jpg|'''Roh Moo-hyun 16th term'''(served: 2003–2008)
+File:Lee Myung-bak presidential portrait.jpg|'''Lee Myung-bak17th term'''(served: 2008–2013)
+File:Park Geun-hye presidential portrait.png|'''Park Geun-hye18th term'''(served: 2013–2017)
+File:Moon Jae-in presidential portrait.jpg|'''Moon Jae-in19th term'''(2017–present)
+File:윤석열 검찰총장.png|'''Yoon Suk-yeol20th term'''(since 2022)
+
+
+Living former presidents
+As of , two former presidents are alive:
+
+
+The longest-lived President was Yun Posun|Yun Bo-seon, who died on July 18, 1990 (at the age of ).
+
+The most recent President to die was Chun Doo-hwan, who died on November 23, 2021.
+
+Category:Presidents of South Korea|

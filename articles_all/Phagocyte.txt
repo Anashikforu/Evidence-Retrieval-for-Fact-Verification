@@ -1,0 +1,20 @@
+
+
+'''Phagocytes''' are the white blood cells that protect the body by eating (phagocytosing)  bacteria and dead or Apoptosis|dying cells. They are important for fighting infections. They are also important for becoming Immunology|immune.
+
+ History 
+Their name comes from the Greek language|Greek ''phagein'', 'to eat or devour ', and ''kutos'', 'hollow vessel'.
+
+ Professional phagocyte 
+Phagocytes of humans and other animals are called professional or non-professional, depending on how good they are at phagocytosis.Ernst J.D. & Stendahl O. (eds) 2006. ''Phagocytosis of bacteria and bacterial pathogenicity''. New York: Cambridge University Press, p. 10, 186.  The reason they are called professional phagocytes is because they have receptors on their surfaces which can detect harmful objects, such as bacteria. Phagocytes are very important in fighting infections and in getting rid of dead and dying cells.
+
+ What a phagocyte does 
+When there is an infection, phagocytes move to the bacteria by sensing chemicals. These chemicals may come from bacteria or from other phagocytes that are already there. The phagocytes move by a way called chemotaxis. When bacteria touch a phagocyte, they bind to the receptors on the phagocyte and are eaten (phagocytosed).Janeway, Charles; Paul Travers, Mark Walport, and Mark Shlomchik 2001. ''Immunobiology''. 5th ed. New York and London: Garland Science.  Chapter: Induced innate responses to infection. When bacteria enter some phagocytes, the phagocytes use oxidants and nitric oxide to kill the pathogen. Chapter: Antigen presentation to T lymphocytes.
+
+ Phagocyte evasion 
+Many bacteria have ways to not be eaten or killed by phagocytes. They may avoid contact by
+#growing in places phagocytes cannot reach, 
+#putting out chemicals which make it difficult for phagocytes to get to an infection
+#interfering with the immune response which causes phagocytes to respond
+#tricking the immune system into treating them as "self", by coating themselves with a natural substance.Celli Jean & Finlay B. Brett 2002. Bacterial avoidance of phagocytosis. ''Trends Microbiol''. '''10''' (5): 232–37. 
+Category:Immunology

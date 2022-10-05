@@ -1,0 +1,23 @@
+{{Infobox language
+|name=Ulster Scots
+|nativename=''''
+|states= Northern Ireland,Republic of Ireland
+|region= Ulster
+|speakers=?
+|familycolor=Indo-European
+|fam2=Germanic languages|Germanic
+|fam3=West Germanic languages|West Germanic
+|fam4=Anglo-Frisian languages|Anglo-Frisian
+|fam5=English languages|Anglic
+|fam6=Scots language|Scots
+|minority= Northern Ireland
+|agency=The cross-border ''Ulster-Scots Agency|Boord o Ulstèr-Scotch'', established as a result of the Belfast Agreement|Good Friday Agreement, promotes usage.
+|isoexception=dialect
+|glotto=ulst1239
+|glottorefname=Ulster Scots
+|lingua=52-ABA-aa(varieties: 52-ABA-aar to -aat)
+|map=English dialects in Ulster contrast.png
+|mapcaption=Approximate boundaries of the traditional Scots language areas in Ulster, shaded in Turquoise (colour)|turquoise. Based on ''The Scotch-Irish Dialect Boundaries in Ulster'' (1972) by R. J. Gregg.}}
+'''Ulster Scots''', sometimes called Ullans, is a dialect of Scots spoken in some of the northern parts of Ireland, across Ulster. It is closely related to the English language.
+
+Category:West Germanic languages

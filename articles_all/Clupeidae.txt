@@ -1,0 +1,17 @@
+{{Taxobox
+| name = Clupeidae
+| image = Herring2.jpg
+| image_caption = Atlantic herring, ''Clupea harengus''
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Actinopterygii
+| ordo = Clupeiformes
+| familia = '''Clupeidae'''}}
+
+'''Clupeidae''' is a Family (biology)|family of teleost fish. It includes the herrings, shads, sardines, hilsa and menhadens. The family includes some of the most important food fishes in the world.
+
+
+
+
+
+Category:Teleosts

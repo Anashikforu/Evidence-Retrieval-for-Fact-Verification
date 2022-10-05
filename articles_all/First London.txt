@@ -1,0 +1,32 @@
+
+
+{{Infobox Bus transit
+|name = First London
+|logo = 
+|logo_size = 200px
+|image = First London bus DN33509 (LK08 FMA) 2008 Alexander Dennis Enviro400 integral, route 23, 10 June 2011.jpg
+|image_size =
+|image_caption = Alexander Dennis Enviro400 onLondon Buses route 23|route 23 at Oxford Circus
+|company_slogan =
+|parent = FirstGroup
+|founded = 26 March 1997
+|defunct = 27 September 2013
+|headquarters = Paddington
+|locale =
+|service_area = Greater London
+|service_type = Bus operator
+|hubs = 
+|stations =
+|fleet = 1,004 (March 2013)
+|ridership =
+|fuel_type =
+|operator =
+|ceo =
+|website = 
+'''First London''' was a bus company operating services in Greater London. It was part of FirstGroup and operated buses under for Transport for London. It was formed in the late 1990s through the purchase of three London bus operators. First London's garages were sold off between December 2007 and July 2013 with the last closing in September 2013.
+
+Category:London bus operators
+Category:1997 establishments in England
+Category:2013 disestablishments in the United Kingdom
+
+

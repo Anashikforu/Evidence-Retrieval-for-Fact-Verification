@@ -1,0 +1,39 @@
+{{Taxobox
+| name = Ornithischia
+| fossil_range = Upper Triassic&ndash;Upper Cretaceous, 228–66 mya
+| image = Ornithischia.png
+| image_width = 250px
+| image_caption = Ornithischian pelvis|pelvic structure (left side)
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Sauropsida
+| superordo = Dinosauria
+| ordo = '''Ornithischia'''
+| ordo_authority = Harry Govier Seeley|Seeley, 1888}}
+
+
+'''Ornithischia''' is an order of beaked, herbivorous dinosaurs. They are known as the 'bird-hipped' dinosaurs because of their hip structure. However, Origin of birds|birds actually descended from the 'lizard-hipped' dinosaurs, the Saurischia. The name "Ornithischia" means "bird-hipped," and birds also have pelvises in which the pubis points backwards. 
+
+An alternative name for the order is the '''Predentata''', because all of them are beaked herbivorous dinosaurs. The beak is in front of the jaw-bone, the dentary, so it is a 'predentary'. The upper half of the beak is the 'premaxilla' on the end of the upper jaw. The beak is a key adaptation for cropping plants for their food.
+
+Their original (basal) form of locomotion was bipedal. However, from early in their evolutionary history, they were capable of both bipedal and quadrupedal locomotion.Wilson J.A; Marsicano C.A. & Smith R.M.H. 2009. Dynamic locomotor capabilities revealed by early dinosaur trackmakers from southern Africa. ''PLoS'' ONE '''4'''(10) 
+The ornithischia has two sub-orders:
+Thyreophora: the armoured dinosaurs: Ankylosaurs and Stegosaurs.
+Cerapoda: the duck-billed and horned dinosaurs.
+
+ Plants 
+Their vegetarian diet included:
+Seed ferns: Pteridospermatophyta. Upper Triassic, Jurassic. 
+Cycads and other woody seed plants, common during Mesozoic period.
+Gymnosperms (conifers): Jurassic, Cretaceous.
+Angiosperms (flowering plants): Cretaceous
+Algae in the form of seaweed: no direct evidence, but likely.
+
+This group of dinosaurs would not be able to reach the taller conifers. The other main group of vegetarian dinosaurs, the sauropodomorphs, were specialists able to reach vegetation on the tall trees.
+
+ Related pages 
+Saurischia
+Fabrosauridae
+Heterodontosaur
+
+Category:Ornithischia| 

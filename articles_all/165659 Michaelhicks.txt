@@ -1,0 +1,22 @@
+{{Infobox Planet
+| bgcolour = #FFFFC0
+| name = 165659 Michaelhicks
+| discoverer = Near Earth Asteroid Tracking
+| discovered = June 15, 2001
+| mp_name = '''165659 Michaelhicks'''
+| named_after = Michael D. Hicks
+| alt_names =  2001 LZ6
+| mp_category = main belt asteroid 
+| orbit_ref =  
+| aphelion = 
+| perihelion = 
+| semimajor = 
+| eccentricity = 0.3614279
+| period = 1995.0220874&nbsp;days5.46&nbsp;julian year (astronomy)|years
+| mean_anomaly = 204.28888°
+| inclination = 27.80568°
+| abs_magnitude =14.9}}
+
+'''165659 Michaelhicks''' (called 2001 LZ6 before it was given a name) is a main belt asteroid.  It was found by the Near Earth Asteroid Tracking team at Haleakalā on June 15, 2001.  165659 Michaelhicks is named after Michael D. Hicks, a scientist at the Jet Propulsion Laboratory.
+
+Category:Asteroids|Michaelhicks

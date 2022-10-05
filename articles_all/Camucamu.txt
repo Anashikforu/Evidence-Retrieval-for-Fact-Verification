@@ -1,0 +1,22 @@
+{{Taxobox
+| name = Camucamu
+| image = Camu-camu.JPG
+| image_caption =
+| regnum = Plantae
+| divisio = Flowering plant|Magnoliophyta
+| classis = Magnoliopsida
+| ordo = Myrtales
+| familia = Myrtaceae
+| genus = ''Myrciara''
+| species = '''''M. dubia'''''
+| binomial = ''Myrciaria dubia''
+| binomial_authority = (Carl Sigismund Kunth|Kunth) McVaugh}}
+
+'''Camucamu''' (''Myrciaria dubia''), also called '''camu camu''', '''cacari''', and '''camocamo''', is a type of tree that lives in the Amazon Rainforest.  Its fruit is high in Vitamin C.
+
+
+
+
+
+Category:Trees
+Category:Myrtaceae

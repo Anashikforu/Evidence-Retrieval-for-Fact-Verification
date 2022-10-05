@@ -1,0 +1,205 @@
+
+In mathematics, the '''dot product''' is an operation that takes two vectors as input, and that returns a scalar number as output.  The number returned is dependent on the length of both vectors, and on the angle between them. The name is derived from the Interpunct|centered dot "·" that is often used to designate this operation; the alternative name '''scalar product''' emphasizes the scalar (mathematics)|scalar (rather than Euclidean vector|vector) nature of the result.
+
+In three-dimensional space, the dot product contrasts with the cross product, which produces a vector as result.
+
+Definition
+The dot product of two vectors '''a''' = ''a''1, ''a''2, ..., ''a''''n'' and '''b''' = ''b''1, ''b''2, ..., ''b''''n'' is defined as:
+:\mathbf{a}\cdot \mathbf{b} = \sum_{i=1}^n a_ib_i = a_1b_1 + a_2b_2 + \cdots + a_nb_n 
+where Σ denotes Summation|summation notation (the sum of all the terms) and ''n'' is the dimension of the vector space.
+
+In dimension 2, the dot product of vectors a,b and c,d is ac + bd.
+The same way, in a dimension 3, the dot product of vectors a,b,c and d,e,f is ad + be + cf.
+For example, the dot product of two three-dimensional vectors 1, 3, −5 and 4, −2, −1 is
+
+:
+1, 3, -5 \cdot 4, -2, -1 = (1 \times 4) + (3 \times (-2)) + ((-5) \times (-1)) = (4) - (6) + (5) = 3.
+
+
+Geometric interpretation
+
+
+In Euclidean geometry, the dot product, Euclidean norm|length, and angle are related. For a vector '''a''', the dot product '''a''' · '''a''' is the square of the length of '''a''', or
+
+:{\mathbf{a} \cdot \mathbf{a}}=\left\|\mathbf{a}\right\|^2
+
+where ||'''a'''|| denotes the Euclidean norm|length (magnitude) of '''a'''. More generally, if '''b''' is another vector, then
+
+: \mathbf{a} \cdot \mathbf{b}=\left\|\mathbf{a}\right\| \, \left\|\mathbf{b}\right\| \cos \theta \,
+
+where ||'''a'''|| and ||'''b'''|| denote the length of '''a''' and '''b''' and ''θ'' is the angle between them.
+
+This formula can be rearranged to determine the size of the angle between two nonzero vectors:
+
+:\theta=\arccos \left( \frac {\bold{a}\cdot\bold{b}} {\left\|\bold{a}\right\|\left\|\bold{b}\right\|}\right)
+
+One can also first convert the vectors to unit vectors, by dividing by their magnitude:
+:\boldsymbol{\hat{a}} = \frac{\bold{a}}{\left\|\bold{a}\right\|}
+then the angle ''θ'' is given by
+:\theta =  \arccos ( \boldsymbol{\hat a}\cdot\boldsymbol{\hat b})
+
+As the cosine of 90° is zero, the dot product of two orthogonal (perpendicular in 2D and 3D) vectors is always zero. Moreover, two vectors can be considered orthogonal if and only if their dot product is zero, and they both have a nonzero length. This property provides a simple method to test the condition of orthogonality.
+
+Sometimes, these properties are also used for ''defining'' the dot product, especially in 2 and 3 dimensions; this definition is equivalent to the above one. For higher dimensions, the formula can be used to define the concept of angle.
+
+The geometric properties rely on the basis (linear algebra)|basis being orthonormal (composed of pairwise perpendicular vectors with unit length).
+
+=Scalar projection=
+If both '''a''' and '''b''' are unit vectors (vectors of length one), then their dot product simply gives the cosine of the angle between them.
+
+If only '''b''' is a unit vector, then the dot product '''a''' '''·''' '''b''' gives |'''a'''| cos(θ). This corresponds to the magnitude of the projection of '''a''' in the direction of '''b''', with a minus sign if the direction is opposite. This is called the scalar resolute|scalar projection of '''a''' onto '''b''', or vector (geometry)|scalar component of '''a''' in the direction of '''b''' (see figure). This property of the dot product has several useful applications (see Dot product#Rotation|§ Rotation below).
+
+If neither '''a''' nor '''b''' is a unit vector, then the magnitude of the projection of '''a''' in the direction of '''b''' would be '''a''' '''·''' ('''b''' / |'''b'''|), as the unit vector in the direction of '''b''' is '''b''' / |'''b'''|.
+
+=Rotation=
+A rotation (mathematics)|rotation of the orthonormal basis in terms of which vector '''a''' is represented is obtained with a multiplication of '''a''' by a rotation matrix '''R'''. This matrix multiplication is just a compact representation of a sequence of dot products.
+
+For instance, let
+''B''1 = {'''x''', '''y''', '''z'''} and ''B''2 = {'''u''', '''v''', '''w'''} be two different orthonormal basis|orthonormal bases of the same space '''R'''3, with ''B''2 obtained by just rotating ''B''1,
+'''a'''1 = (ax, ay, az) represent vector '''a''' in terms of ''B''1,
+ '''a'''2 = (au, av, aw) represent the same vector in terms of the rotated basis ''B''2,
+'''u'''1, '''v'''1, '''w'''1 be the rotated basis vectors '''u''', '''v''', '''w''' represented in terms of ''B''1.
+Then the rotation from ''B''1 to ''B''2 is performed as follows:
+
+: \bold a_2 = \bold{Ra}_1 = 
+\begin{bmatrix} u_x & u_y & u_z \\ v_x & v_y & v_z \\ w_x & w_y & w_z \end{bmatrix}
+\begin{bmatrix} a_x \\ a_y \\ a_z \end{bmatrix} =
+\begin{bmatrix} \bold u_1\cdot\bold a_1 \\ \bold v_1\cdot\bold a_1 \\ \bold w_1\cdot\bold a_1 \end{bmatrix} = \begin{bmatrix} a_u \\ a_v \\ a_w \end{bmatrix} .
+
+
+Notice that the rotation matrix '''R''' is assembled by using the rotated basis vectors '''u'''1, '''v'''1, '''w'''1 as its rows, and these vectors are unit vectors. By definition, '''Ra'''1 consists of a sequence of dot products between each of the three rows of '''R''' and vector '''a'''1. Each of these dot products determines a scalar component of '''a''' in the direction of a rotated basis vector (see previous section).
+
+If '''a'''1 is a row vector, rather than a column vector, then '''R''' must contain the rotated basis vectors in its columns, and must post-multiply '''a'''1:
+
+: \bold a_2 = \bold a_1 \bold R = 
+\begin{bmatrix} a_x & a_y & a_z \end{bmatrix}
+\begin{bmatrix} u_x & v_x & w_x \\ u_y & v_y & w_y \\ u_z & v_z & w_z \end{bmatrix} =
+\begin{bmatrix} \bold u_1\cdot\bold a_1 & \bold v_1\cdot\bold a_1 & \bold w_1\cdot\bold a_1 \end{bmatrix} = \begin{bmatrix} a_u & a_v & a_w \end{bmatrix} .
+
+
+Physics
+In physics, magnitude is a scalar (physics)|scalar in the physical sense, in that.it is a physical quantity independent of the coordinate system, expressed as the product (mathematics)|product of a number|numerical value and a physical unit, not just a number. The dot product is also a scalar in this sense, given by the formula, independent of the coordinate system. For example:
+ Mechanical work is the dot product of Force (physics)|force and Displacement (vector)|displacement vectors.
+ Magnetic flux is the dot product of the magnetic field and the Area vector|area vectors.
+ Volumetric flow rate is the dot product of the fluid velocity and the Area vector|area vectors.
+
+Properties
+The following properties hold if '''a''', '''b''', and '''c''' are real vector (geometry)|vectors and ''r'' is a scalar (mathematics)|scalar.
+
+The dot product is commutative:
+: \mathbf{a} \cdot \mathbf{b} = \mathbf{b} \cdot \mathbf{a}.
+
+The dot product is distributive over vector addition:
+: \mathbf{a} \cdot (\mathbf{b} + \mathbf{c}) = \mathbf{a} \cdot \mathbf{b} + \mathbf{a} \cdot \mathbf{c}. 
+
+The dot product is bilinear form|bilinear:
+: \mathbf{a} \cdot (r\mathbf{b} +  \mathbf{c})
+    = r(\mathbf{a} \cdot   \mathbf{b}) +(\mathbf{a} \cdot \mathbf{c}).
+
+
+When multiplied by a scalar value, dot product satisfies:
+: (c_1\mathbf{a}) \cdot (c_2\mathbf{b}) = (c_1c_2) (\mathbf{a} \cdot \mathbf{b}) 
+(these last two properties follow from the first two).
+
+Two non-zero vectors '''a''' and '''b''' are perpendicular if and only if '''a''' • '''b''' = 0.
+
+Unlike multiplication of ordinary numbers, where if ''ab'' = ''ac'', then ''b'' always equals ''c'' unless ''a'' is zero, the dot product does not obey the cancellation law:
+: If '''a''' • '''b''' = '''a''' • '''c''' and '''a''' ≠ '''0''', then we can write: '''a''' • ('''b''' − '''c''') = 0 by the distributive law; the result above says this just means that '''a''' is perpendicular to ('''b''' − '''c'''), which still allows ('''b''' − '''c''') ≠ '''0''', and therefore '''b''' ≠ '''c'''.
+
+Provided that the basis is orthonormal, the dot product is invariant under isometric changes of the basis: rotations, reflections, and combinations, keeping the origin fixed. The above mentioned geometric interpretation relies on this property. In other words, for an orthonormal space with any number of dimensions, the dot product is invariant under a coordinate transformation based on an orthogonal matrix. This corresponds to the following two conditions:
+The new basis is again orthonormal (that is, orthonormal expressed in the old one).
+The new base vectors have the same length as the old ones (that is, unit length in terms of the old basis).
+
+If '''a''' and '''b''' are functions, then the derivative of '''a''' • '''b''' is '''a'''' • '''b''' + '''a''' • '''b'.'''
+
+Triple product expansion
+
+
+This is a very useful identity (also known as '''Lagrange's formula''') involving the dot- and  Cross product|cross-products. It is written as
+
+:\mathbf{a} \times (\mathbf{b} \times \mathbf{c}) = \mathbf{b}(\mathbf{a}\cdot\mathbf{c}) - \mathbf{c}(\mathbf{a}\cdot\mathbf{b})
+
+which is mnemonic|easier to remember as "BAC minus CAB", keeping in mind which vectors are dotted together. This formula is commonly used to simplify vector calculations in physics.
+
+Proof of the geometric interpretation
+Consider the element of '''R'''n
+: \mathbf{v} = v_1 \mathbf{\hat{e}}_1 + v_2 \mathbf{\hat{e}}_2 + ... + v_n \mathbf{\hat{e}}_n. \, 
+Repeated application of the Pythagorean theorem yields for its length |'''v'''|
+: |\mathbf{v}|^2 = v_1^2 + v_2^2 + ... + v_n^2. \,
+But this is the same as
+: \mathbf{v} \cdot \mathbf{v} = v_1^2 + v_2^2 + ... + v_n^2, \,
+so we conclude that taking the dot product of a vector '''v''' with itself yields the squared length of the vector.
+; '''Lemma (mathematics)|Lemma 1''': \mathbf{v} \cdot \mathbf{v} = |\mathbf{v}|^2. \, 
+
+Now consider two vectors '''a''' and '''b''' extending from the origin, separated by an angle θ.  A third vector '''c''' may be defined as
+: \mathbf{c} \ \stackrel{\mathrm{def}}{=}\  \mathbf{a} - \mathbf{b}. \,
+creating a triangle with sides '''a''', '''b''', and '''c'''.  According to the law of cosines, we have
+: |\mathbf{c}|^2 = |\mathbf{a}|^2 + |\mathbf{b}|^2 - 2 |\mathbf{a}||\mathbf{b}| \cos \theta. \,
+Substituting dot products for the squared lengths according to Lemma 1, we get
+:
+  \mathbf{c} \cdot \mathbf{c}
+= \mathbf{a} \cdot \mathbf{a}
++ \mathbf{b} \cdot \mathbf{b}
+- 2 |\mathbf{a}||\mathbf{b}| \cos\theta. \,
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ''(1)''
+But as '''c''' ≡ '''a''' − '''b''', we also have
+:
+  \mathbf{c} \cdot \mathbf{c}
+= (\mathbf{a} - \mathbf{b}) \cdot (\mathbf{a} - \mathbf{b}) \,,
+which, according to the distributive law, expands to
+:
+  \mathbf{c} \cdot \mathbf{c}
+= \mathbf{a} \cdot \mathbf{a}
++ \mathbf{b} \cdot \mathbf{b}
+-2(\mathbf{a} \cdot \mathbf{b}). \,
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ''(2)''
+Merging the two '''c''' • '''c''' equations, ''(1)'' and ''(2)'', we obtain
+:
+  \mathbf{a} \cdot \mathbf{a}
++ \mathbf{b} \cdot \mathbf{b}
+-2(\mathbf{a} \cdot \mathbf{b})
+= \mathbf{a} \cdot \mathbf{a}
++ \mathbf{b} \cdot \mathbf{b}
+- 2 |\mathbf{a}||\mathbf{b}| \cos\theta. \,
+
+Subtracting '''a''' • '''a''' + '''b''' • '''b''' from both sides and dividing by −2 leaves
+: \mathbf{a} \cdot \mathbf{b} = |\mathbf{a}||\mathbf{b}| \cos\theta. \, 
+Q.E.D.
+
+Generalization
+
+
+The Inner product space|inner product generalizes the dot product to vector space|abstract vector spaces and is usually denoted by \langle\mathbf{a}\, , \mathbf{b}\rangle. Due to the geometric interpretation of the dot product, the norm (mathematics)|norm ||'''a'''|| of a vector '''a''' in such an inner product space is defined as
+
+:\|\mathbf{a}\| = \sqrt{\langle\mathbf{a}\, , \mathbf{a}\rangle}
+
+such that it generalizes length, and the angle θ between two vectors '''a''' and '''b''' by
+
+: \cos{\theta} = \frac{\langle\mathbf{a}\, , \mathbf{b}\rangle}{\|\mathbf{a}\| \, \|\mathbf{b}\|}. 
+
+In particular, two vectors are considered orthogonal if their inner product is zero
+
+: \langle\mathbf{a}\, , \mathbf{b}\rangle = 0.
+
+For vectors with complex entries, using the given definition of the dot product would lead to quite different geometric properties. For instance, the dot product of a vector with itself can be an arbitrary complex number, and can be zero without the vector being the zero vector; this in turn would have severe consequences for notions like length and angle. Many geometric properties can be salvaged, at the cost of giving up the symmetric and bilinear properties of the scalar product, by alternatively defining
+:\mathbf{a}\cdot \mathbf{b} = \sum{a_i \overline{b_i}} 
+where ''bi'' is the complex conjugate of ''bi''. Then the scalar product of any vector with itself is a non-negative real number, and it is nonzero except for the zero vector. However, this scalar product is not linear in '''b''' (but rather conjugate linear), and the scalar product is not symmetric either, since
+: \mathbf{a} \cdot \mathbf{b} = \overline{\mathbf{b} \cdot \mathbf{a}} .
+This type of scalar product is nevertheless quite useful, and leads to the notions of Hermitian form and of general inner product spaces.
+
+The Frobenius inner product generalizes the dot product to matrices. It is defined as the sum of the products of the corresponding components of two matrices having the same size.
+
+=Generalization to tensors=
+The dot product between a tensor of order n and a tensor of order m is a tensor of order n+m-2. The dot product is worked out by multiplying and summing across a single index in both tensors. If \mathbf{A} and \mathbf{B} are two tensors with element representation A_{ij\dots}^{k\ell\dots} and B_{mn\dots}^{p{\dots}i} the elements of the dot product \mathbf{A} \cdot \mathbf{B} are given by
+:A_{ij\dots}^{k\ell\dots}B_{mn\dots}^{p{\dots}i} = \sum_{i=1}^n A_{ij\dots}^{k\ell\dots}B_{mn\dots}^{p{\dots}i}
+
+This definition naturally reduces to the standard vector dot product when applied to vectors, and matrix multiplication when applied to matrices.
+
+Occasionally, a double dot product is used to represent multiplying and summing across two indices. The double dot product between two 2nd order tensors is a scalar.
+
+Related pages
+ Cauchy–Schwarz inequality
+ Cross product
+ Matrix multiplication
+
+Category:Vectors

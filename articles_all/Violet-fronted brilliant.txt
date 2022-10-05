@@ -1,0 +1,15 @@
+{{Taxobox
+| name = Violet-fronted brilliant
+| image = Heliodoxa leadbeateri 2.jpg
+| image_caption = A male violet-fronted brilliant
+| status = LC | status_system = IUCN3.1
+| regnum = Animalia
+| classis = Aves
+| ordo = Trochiliformes
+| familia = Trochilidae
+| genus = ''Heliodoxa''
+| binomial = ''Heliodoxa leadbeateri''}}
+
+The '''violet-fronted brilliant''' (''Heliodoxa leadbeateri'') is a species of hummingbird. It is found in Bolivia, Colombia, Ecuador, Peru, and Venezuela. Its natural habitat is subtropical or tropical moist montane forests.
+
+Category:Hummingbirds

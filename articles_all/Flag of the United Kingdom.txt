@@ -1,0 +1,53 @@
+{{Infobox flag|
+Name=United Kingdom ofGreat Britain and Northern Ireland
+
+|Image2=Civil Ensign of the United Kingdom.svg
+|Design2=A red flag with the Union Flag in the corner at the top of the flag pole. See Red Ensign.
+|Proportion2=1:2
+|Use2=000100
+|Symbol2=
+
+|Image3=Civil Air Ensign of the United Kingdom.svg
+|Design3=A blue flag with the Union Flag in the corner at the top of the flag pole and a black cross in the centre. See British Civil Air Ensign|Civil Air Ensign.
+|Proportion3=1:2
+|Use3=Civil air ensign
+
+|Image4=Government Ensign of the United Kingdom.svg
+|Design4=A blue flag with the Union Flag in the corner at the top of the flag pole. See Blue Ensign.
+|Proportion4=1:2
+|Use4=000010
+|Symbol4=
+
+|Image5=Naval Ensign of the United Kingdom.svg
+|Design5=A white flag with the Union Flag in the corner at the top of the flag pole and a red cross in the centre. See White Ensign.
+|Proportion5=1:2
+|Use5=000001
+|Symbol5=
+|Name5=Saint George's Ensign
+
+|Image6=Ensign of the Royal Air Force.svg
+|Design6=A blue flag with the Union Flag in the corner at the top of the flag pole and the Royal Air Force roundels|RAF roundel on the opposite side.
+|Proportion6=1:2
+|Name6=Royal Air Force Ensign
+|Use6=Air force ensign
+|Article=the
+|Design=A combination of the crosses of SS Andrew, George, and Patrick
+|Adoption=
+|
+|Proportion=3:5 (on land) 1:2 (at sea)
+|Symbol=|Use=111000
+|Image=Flag of the United Kingdom (3-5).svg
+|Nickname=Union Jack, Union Flag
+|Morenicks=The '''flag of the United Kingdom''' is the '''Union Flag''' or '''Union Jack'''. The Union Flag is the national flag of the United Kingdom. It has had the same design since the Act of Union 1800. The flag is made from the flags of the kingdoms of Kingdom of England|England, Kingdom of Scotland|Scotland, and Kingdom of Ireland|Ireland.
+
+There are different flags for use on land and at sea. The flag's measurements at sea are 1:2 (the flag is twice as long as it is wide). On land, it is normal for the flag's proportions to be 3:5.
+
+The use of the flag started (with a different design) in 1606, after James VI and I became the first king of the whole of Great Britain in 1603. Between 1606 and 1801, the Union Flag's design was different to the present flag. At that time, the Kingdom of Ireland was a separate kingdom. (Between the execution of Charles I and the Restoration of Charles II, there was no personal union between Scotland and England, so the Union Flag was not necessary.) Scotland and England became the United Kingdom of Great Britain in 1707. Anne, Queen of Great Britain, chose the Union Flag as the flag of the new kingdom. The United Kingdom and Ireland joined together in 1801. The use of the present British flag started then.
+
+The first Union Flag from 1603 combined the flag of Scotland with the flag of England. The flag of Scotland is a Saint Andrew's Cross because Saint Andrew is the patron saint of Scotland. The flag of England is Saint George's Cross because Saint George is the patron saint of England. When the present United Kingdom started in 1801, the Saint Patrick's Cross started to be a part of the Union Flag. Saint Patrick's Cross was a flag representative of Ireland because Saint Patrick is the patron saint of Ireland. Saint Patrick's Cross is a red saltire (a diagonal cross) with a white background. The flag of Scotland is blue with a white saltire. The flag of England is white with a red horizontal cross. Together they make the Union Flag.
+
+The flag did not change as result of the independence of the Republic of Ireland. The flag did not change when the United Kingdom's name changed from the "United Kingdom of Great Britain and Ireland" to the "United Kingdom of Great Britain and Northern Ireland". The flag does not contain anything that represents Wales. (In 1603, Wales had long been a part of the kingdom of England.) Some people want a new design because of this. 
+
+ Legacy 
+The Union Jack has a legacy for flags, and some of the former colonies of Britain have this design on their own flags (i.e. Australia, Fiji, Hawaii, some provinces of Canada, etc.).
+

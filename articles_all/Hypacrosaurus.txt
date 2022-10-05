@@ -1,0 +1,21 @@
+
+{{Taxobox
+| name = ''Hypacrosaurus''
+| image = Hypacrosaurus Royal Tyrrell.jpg
+| image_width = 300px
+| image_caption = Reconstructed skeleton
+| fossil_range = Upper Cretaceous 7567 mya
+| regnum = Animalia
+| superclassis = Sauropsida
+| classis = Archosauria
+| superordo = Dinosauria
+| ordo = Ornithischia
+| familia = Hadrosauridae
+| genus = '''''Hypacrosaurus'''''
+| genus_authority = Barnum Brown|Brown, 1913}}
+
+'''''Hypacrosaurus''''' (meaning "almost the largest lizard") was a large, plant-eating, hollow-crested Hadrosaurid|duck-billed dinosaur similar to ''Corythosaurus''. It was about 30 feet (9 m) long, had almost 40 rows of cheek teeth, and a short toothless beak. A row of long spines from its vertebrae formed a high fin along its back. The fossils are dated as 75 to 67 million years ago. 
+
+It is known from the remains of two species  in the Upper Cretaceous of Alberta, Canada, and Montana, United States. It is the latest hollow-crested duckbill known from good remains in North America. It was an obscure genus until the discovery in the 1990s of nests, eggs, and hatchlings belonging to one of the species.
+
+category:Hadrosauridae

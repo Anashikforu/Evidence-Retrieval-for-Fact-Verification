@@ -1,0 +1,28 @@
+'''Miles per hour''' is a unit of measurement. It measures speed. It is the number of miles moved in an hour. 
+
+Miles per hour is the unit used for speed limits on roads in the United Kingdom and the United States. It is normally abbreviation|abbreviated in everyday use to '''mph''' or '''MPH'''. In technical publications it is sometimes abbreviated as '''mi/h'''.
+
+The SI unit for velocity (speed, with a direction of movement) is Metre per second|m·s−1 (metres per second).
+
+
+
+ Conversions 
+1 mph is equal to:
+
+ google:mile/3600|0.44704 metre per second|m·s−1, the SI derived unit
+ google:mile/1000|1.609344 Kilometres per hour|km·h−1
+ 22/15 =google:mile/foot/3600|1.4667 feet per second
+ approx. 0.868976 knot (nautical)|knots
+
+Related pages
+ metre per second
+ Speed
+ Velocity
+
+ Other websites 
+  
+
+
+Category:Physics
+Category:Units of measurement
+Category:Imperial units

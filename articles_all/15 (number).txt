@@ -1,0 +1,10 @@
+
+
+
+'''Fifteen''' is a number. It is between fourteen and sixteen, and is an odd number. It is divisible by 1 (number)|1, Three|3, Five|5, and 15.
+
+In Roman numerals, 15 is written as '''XV'''. 
+
+
+
+Category:Integers

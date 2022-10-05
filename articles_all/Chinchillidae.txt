@@ -1,0 +1,30 @@
+{{Taxobox
+| name = Chinchillidae
+| fossil_range = late Oligocene –  Recent
+| image = Chinchilla.jpg
+| image_caption = ''Chinchilla brevicaudata''
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| subordo = Hystricomorpha
+| infraordo = Hystricognathi
+| parvordo = Caviomorpha
+| superfamilia = Chinchilloidea
+| familia = '''Chinchillidae'''
+| familia_authority = Bennett, 1833}}
+
+The family '''Chinchillidae''' contains the chinchillas, viscachas, and their fossil relatives.  They are restricted to southern and western South America. Often they can be found in the Andes. They are large rodents, weighing from 800&nbsp;grams to 8 kilograms. They have strong hind legs and large ears. All species have thick, soft fur. Their fur is considered valuable in some species.
+
+ Classification 
+There are three extant and three fossil genera currently recognized.
+†''Eoviscaccia'' ''incertae sedis''
+Subfamily Chinchillinae
+''Chinchilla'' –  chinchillas
+''Lagidium'' –  mountain viscachas
+Subfamily Lagostominae
+''Lagostomus'' –  plains viscachas
+†''Pliolagostomus''
+†''Prolagostomus''
+
+Category:Rodents

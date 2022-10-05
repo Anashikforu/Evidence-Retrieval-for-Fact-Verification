@@ -1,0 +1,27 @@
+{{Taxobox
+| name = Indian rhinoceros
+| status = VU
+| status_system = iucn3.1
+| image = Indian_Rhinoceros.jpg
+| image_width = 230px
+| image_caption = Indian rhinoceros (from left to right: infant male, adult female, and juvenile female)
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Perissodactyla
+| familia = Rhinocerotidae
+| genus = ''Rhinoceros (genus)|Rhinoceros''
+| binomial = ''Rhinoceros unicornis''
+| binomial_authority = Carolus Linnaeus|Linnaeus, 1758
+| range_map = Rhinoceros-unicornis-map.jpg
+| range_map_width = 230px
+| range_map_caption = Indian rhinoceros range}}
+
+The '''Indian rhinoceros''' or the '''Asian one-horned rhinoceros''' (''Rhinoceros unicornis'') is a large mammal primarily found in Pakistan, north-eastern India, Nepal and parts of Bhutan. It lives in the tall grasslands and forests in the foothills of the Himalayas. 
+
+Rhinoceros was hunted for sport, and is now poaching|poached because its horn is used for traditional China|Chinese medicine (alternative medicine).
+
+
+
+
+Category:Mammals of Asia
+Category:Rhinoceroses

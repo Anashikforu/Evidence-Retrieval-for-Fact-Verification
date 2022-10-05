@@ -1,0 +1,32 @@
+{{Infobox DMU
+|name = British Rail Class 122 
+|image = 55006 at Bewdley.JPG
+|imagesize = 240px
+|background = #0033cc
+|caption = Class 122, No. 55006, at Bewdley on the Severn Valley Railway on 15 October 2004, whilst taking part in the Railcar 50 event. This unit is painted in original BR Green livery, and is preserved on the Ecclesbourne Valley Railway.
+|Manufacturer =Gloucester RC&W 
+|Family = Bubble Car
+|Operator = British Rail
+|Formation = 1 car per trainset
+|Built = 20 
+|LinesServed = 
+|InService = 1958-
+|CarLength = 64 ft 6 in
+|CarWidth = 9 ft 3 in
+|CarHeight = 12 ft 8 1/8 in
+|Weight = 36 tons 10 cwt
+|Capacity = 
+|MaxSpeed = 70 mph (112 km/h)
+|Gauge = 
+|Traction = 
+|Engine =
+|SafetySystem=
+ |}}
+
+The British Rail '''Class 122''' diesel multiple units were built by Gloucester Railway Carriage and Wagon Company|Gloucester RC&W in 1958.  Twenty single-car driving motor vehicles, called "Bubble Cars", were built, numbered 55000-55019. These were supplemented by ten trailer vehicles, numbered 56290-299 (later renumbered 54290-299).
+
+
+
+
+
+Category:British Rail diesel multiple units|122

@@ -1,0 +1,27 @@
+{{Infobox French commune
+|name               = Les Attaques
+|commune status     = Communes of France|Commune
+|image              = Les Attaques église.jpg
+|caption            = The church of Les Attaques
+|image coat of arms = Blason Les Attaques.svg
+|arrondissement     = Calais
+|canton             = Calais-2
+|INSEE              = 62043
+|postal code        = 62730
+|mayor              = 
+|term               = 
+|intercommunality   = Grand Calais Terres et Mers|CA Grand Calais Terres et Mers
+|coordinates        = 
+|elevation m        = 3
+|elevation min m    = 0
+|elevation max m    = 6
+|area km2           = 20.81
+|population         = 
+|population date    = 
+|population footnotes   = }}
+'''Les Attaques''' is a Communes of France|commune. It is in Nord-Pas-de-Calais in the Pas-de-Calais Departments of France|department in north France.
+
+
+
+
+Category:Communes in Pas-de-Calais

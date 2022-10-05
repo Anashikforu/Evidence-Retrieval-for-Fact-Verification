@@ -1,0 +1,1 @@
+You searched for ''':$1'''.  If you cannot find what you are looking for here, try searching  :en:Special:Search/$1|English Wikipedia, :wikt:Special:Search/$1|Simple English Wiktionary, or :wiktionary:Special:Search/$1|English Wiktionary.

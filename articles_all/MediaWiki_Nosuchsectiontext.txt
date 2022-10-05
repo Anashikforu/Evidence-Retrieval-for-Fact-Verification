@@ -1,0 +1,2 @@
+You tried to change a section that does not exist.
+Since there is no section $1, there is no place to save your edit.

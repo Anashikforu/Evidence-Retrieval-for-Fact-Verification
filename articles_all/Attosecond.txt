@@ -1,0 +1,35 @@
+An '''attosecond''' ('''as''') is a very short period of time.Website of the BIPM (Bureau International des Poids et Mesures) 
+Here is a list of time spans shorter than 1 attosecond:
+ 10&minus;21 seconds = 1 ''zeptosecond''
+ 10&minus;24 seconds = 1 ''yoctosecond''
+ 10&minus;27 seconds = 1 ''xonosecond''
+ 10&minus;30 seconds = 1 ''vecosecond''
+ 10&minus;33 seconds = 1 ''mecosecond''
+ 10&minus;36 seconds = 1 ''duecosecond''
+ 10&minus;39 seconds = 1 ''trecosecond''
+ 10&minus;42 seconds = 1 ''tetrecosecond''
+ 10&minus;45 seconds = 1 ''pentecosecond''
+ 10&minus;48 seconds = 1 ''hexecosecond''
+ 10&minus;51 seconds = 1 ''heptecosecond''
+ 10&minus;54 seconds = 1 ''octecosecond''
+ 10&minus;57 seconds = 1 ''ennecosecond''
+ 10&minus;60 seconds = 1 ''icososecond''
+
+ 1 attosecond: It takes 1 attosecond for light to travel the length of three hydrogen|hydrogen atoms.
+ 1 attosecond: It takes 1 attosecond for an atomic nucleus to react when another particle hits it.
+ 150 attoseconds: It takes 150 attoseconds for an electron to circle the nucleus of an atom.
+ 320 attoseconds: It takes about 300 attoseconds for an electron to jump from one atom to another.
+
+ Related pages 
+ 1 E-25 s|Click this link for times shorter than one attosecond.
+
+ Notes 
+
+
+
+
+
+
+
+Category:Units of time
+Category:Orders of magnitude

@@ -1,0 +1,31 @@
+{{Taxobox
+| name = Barred owl
+| status = LC
+| status_system = iucn3.1
+| image = Strix-varia-005.jpg
+| image_width = 250px
+| image2 = Barred Owl (Strix varia) (W1CDR0000351 BD27).ogg
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Bird|Aves
+| ordo = Owl|Strigiformes
+| familia = Typical owl|Strigidae
+| genus = ''Strix (genus)|Strix''
+| binomial = ''Strix varia''
+| binomial_authority = Benjamin Smith Barton|Barton, 1799}}
+
+The '''barred owl''' is a large owl commonly found in eastern North America.
+
+ Description 
+The barred owl grow 43 to 61 metre|centimeters (17 to 21&nbsp;inch|in) with a wingspan of 102 to 127 centimeters (40 to 50&nbsp;in) at full length. The average male weigh 630 grams (22&nbsp;ounce|oz) and female weigh 800 grams (28&nbsp;oz). It has a round head with dark brown eyes while most owls in the eastern United States have yellow eyes. The barred owl lives about 10 to 12 years in the wild.
+
+ Habitat 
+The barred owl lives in the woods across the eastern United States, southern Canada and Alaska. They sometimes migration|migrate to Central America in the winter. The great horned owl is the only predator of the barred owl.
+
+ Reproduction 
+The barred owl makes nests on tree limbs and are usually near ponds or lakes. They may use nests that have been left by other animals. They can lay 1 to 5 eggs. Eggs hatch in 28 days and the young begin to fly 42 days later. 
+
+ Diet 
+The barred owl eats rabbits, squirrels, bats, snakes, and small insects. They are able to find food from a far distance from its great hearing sense. They can also hunt fish.
+
+Category:Strigiformes

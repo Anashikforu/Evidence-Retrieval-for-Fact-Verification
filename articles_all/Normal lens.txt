@@ -1,0 +1,17 @@
+In photography, the phrase '''normal lens'''  is used for camera lenses that have a focal length which is roughly the diagonal of the image projected inside the camera.  Camera lenses with a shorter focal length are called ''wide-angle lenses'', those with a longer one ''telephoto lenses''. 
+
+This gives a ''natural perspective''.
+
+
+
+In Digital photography the situation is more complex. The sensor type diameter is not the sensor diameter:
+: () refers to tv-tube diameters that were standards in the 50's. The normal lens focal length is roughly 2/3 of the TV tube diameter.
+: () this is a mathematical calculation because most of the cameras have zoom lenses.
+
+
+
+In cinematography a focal length roughly equivalent to twice the diagonal of the image projected within the camera is considered normal.
+
+
+
+Category:Camera lenses

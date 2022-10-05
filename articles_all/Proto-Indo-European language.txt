@@ -1,0 +1,64 @@
+
+
+The '''Proto-Indo-European language''' ('''PIE''') is the ancestor of the Indo-European languages.Mallory J.P. & Adams D.Q. 2006. ''The Oxford introduction to Proto-Indo-European and the Proto-Indo-European world''. Oxford: Oxford University Press. 
+
+It is the best-understood of all proto-languages.Ivanov, Vyacheslav V.& Gamkrelidze, Thomas 1990. The early history of Indo-­European languages. ''Scientific American'' '''262''', March. It was put together by the methods of historical linguistics.Beekes Robert 1995. ''Comparative Indo-European linguistics: an introduction''. Amsterdam: John Benjamins.  (US)
+
+ Discovery and reconstruction 
+There are different hypotheses|ideas about when and where PIE was spoken. PIE may have been spoken as a single language. Then it began to separate, around 3700 BC. The exact date is not known. The most popular hypothesis for where it came from and how it spread is called the Kurgan hypothesis. In this theory, its origin is in the Pontic-Caspian steppe of Eastern Europe.
+
+= Method =
+There is no direct evidence of PIE because it was never written language|written. All PIE sounds and words are reconstructed from later Indo-European languages. The asterisk symbol is used to mark reconstructed PIE words, for example: '''' 'three (masculine)'. Many words in modern Indo-European languages seem to have come from such "proto-words" by regular sound changes, such as Grimm's law.
+
+ Phonology 
+
+
+The following phonemes are generally accepted:
+ '''Short vowels''' 
+ '''Long vowels''' ; usually the macron is used to mark long vowels (''a:, e:, o:''). Sometimes, a Colon (punctuation)|colon ''(:)'' is also used to say that the vowel is long.
+ '''Diphthongs''' 
+ vowel Allophone|allophones of consonantal phonemes: .
+
+= Accent =
+PIE had a ''free pitch accent.'' That means that the stress of a word could happen on any syllable and could change even for related words. Different meanings of a word could be marked only with high or low pitch.
+
+ Morphology 
+PIE was an inflected language: it had root (linguistics)|roots with suffixes. That basic root shape is often altered by the ''ablaut'', a system of regular vowel changes. An example of ablaut in English is the strong verb ''sing'', ''sang'', ''sung'' and the related noun ''song''.
+
+= Synthetic =
+Most Indo-European languages are Synthesis (linguistics)|synthetic. That means they have many Morpheme|morphemes per word. Morphemes may be combined to make complex words, as in German language|German Root words may be put on "bound morphemes" to show their function, which are morphemes that appear only as part of a larger word.
+German example: ''Aufsichtsratsmitgliederversammlung'' => "Supervision + council + member + assembly"
+Spanish example: escribiéndomelo => "writing it to me"
+
+Those methods were probably used often in PIE. Languages like English, which don't have a lot of combinations like that, come from from earlier, more typical Indo-European languages. English comes from from Old English|Anglo-Saxon, a Western Germanic language. The fact that English once was synthetic like German is shown by cranberry morphemes, which are so called because the "cran-" is a fossil of a word that no longer exists. Also, ''mulberry'' and ''raspberry'', where also the first syllable is a bound morpheme.
+
+ Sample texts 
+Because PIE was spoken a very long time ago, there are no texts anymore. Scientists have tried many times to make example texts for to show what it could be like. These are just educated guesses. People have tried for 150 years to make a single sentence in PIE, but this has not happened yet. Even so, such texts are still useful because they show what PIE might have looked like.
+
+People have rewritten a text by Schleicher multiple times as an example text:
+
+= Schleicher (1868) =
+''Avis akvāsas ka''
+
+:Avis, jasmin varnā na ā ast, dadarka akvams, tam, vāgham garum vaghantam, tam, bhāram magham, tam, manum āku bharantam. Avis akvabhjams ā vavakat: kard aghnutai mai vidanti manum akvams agantam. Akvāsas ā vavakant: krudhi avai, kard aghnutai vividvant-svas: manus patis varnām avisāms karnauti svabhjam gharmam vastram avibhjams ka varnā na asti. Tat kukruvants avis agram ā bhugat.
+
+Schleicher's reconstruction says that that the o/e vocalism was secondary. His version of PIE is more like Sanskrit than modern reconstructions are.
+
+= Hirt (1939) =
+''Owis ek’wōses-kʷe''
+
+:Owis, jesmin wьlənā ne ēst, dedork’e ek’wons, tom, woghom gʷьrum weghontm̥, tom, bhorom megam, tom, gh’ьmonm̥ ōk’u bherontm̥. Owis ek’womos ewьwekʷet: k’ērd aghnutai moi widontei gh’ьmonm̥ ek’wons ag’ontm̥. Ek’wōses ewьwekʷont: kl’udhi, owei!, k’ērd aghnutai vidontmos: gh’ьmo, potis, wьlənām owjôm kʷr̥neuti sebhoi ghʷermom westrom; owimos-kʷe wьlənā ne esti. Tod k’ek’ruwos owis ag’rom ebhuget.
+
+Hirt introduced the o/e vocalist and some rather different consonants.
+
+= English translation =
+''The Sheep and the Horses''
+
+:On a hill, a sheep that had no wool saw horses, one of them pulling a heavy wagon, one carrying a big load, and one carrying a man quickly. The sheep said to the horses: "My heart pains me, seeing a man driving horses." The horses said: "Listen, sheep, our hearts pain us when we see this: a man, the master, makes the wool of the sheep into a warm garment for himself. And the sheep has no wool." Having heard this, the sheep fled into the plain.
+
+Some of the differences between the texts are just different spelling conventions: w and u̯, for example, are only different ways to indicate the same sound, a consonantal u. However, many other differences happen because there are different ideas on the sounds and the structure of PIE.
+
+ Related pages 
+List of Indo-European languages
+
+Category:Indo-European languages

@@ -1,0 +1,10 @@
+'''Alex Fraser''' (1923–2002) was an Australian computer scientist. He helped wikt:develop|develop the modelling of population genetics on computers.  His work made an wikt:impact|impact on how we view evolutionary systems today.
+
+
+Category:1923 births
+Category:2002 deaths
+Category:Australian scientists
+Category:Scientists from London
+Category:Computer scientists
+
+

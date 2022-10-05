@@ -1,0 +1,23 @@
+The '''curie''' (symbol '''Ci''') is a unit of measurement. It measures  Radioactive decay|radioactivity. It is defined as
+
+: 1&nbsp;Ci = 3.7×1010 radioactive decay|decays per second.
+
+This is roughly the activity of 1 gram of the radium isotope 226Ra. Radium was studied by the pioneers of radiology, Marie Curie|Marie and Pierre Curie so the unit is named after them. The curie has since been replaced by an International_System_of_Units#Derived_units_with_special_names|SI derived unit, the becquerel (Bq), which is decay per second. Therefore:
+
+: 1&nbsp;Ci = 3.7×1010 Bq or 37 Gigabecquerel (Gbq)
+
+and
+
+: 1&nbsp;Bq = 2.70×10−11&nbsp;Ci
+
+In 1962, the International Commission on Radiological Units suggested the usage of this unit named after Marie Curie.
+
+Category:Old units of measurement
+
+<!--
+Category:Units of radioactivity
+Category:Radioactivity
+Category:Non-SI metric units
+-->
+
+

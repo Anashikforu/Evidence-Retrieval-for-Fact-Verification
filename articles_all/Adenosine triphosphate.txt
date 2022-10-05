@@ -1,0 +1,29 @@
+
+
+
+'''Adenosine triphosphate''' ('''ATP''') is a Chemical substance|chemical. All living things make ATP to store energy and to move it to the cells that need it. An ATP molecule is like an oil barrel that stores and transports fuel. Cells get all of their energy from ATP. They break ATP molecules apart to use the stored energy. The harder a cell works, the more ATP it needs.
+
+ Chemical form 
+A molecule of ATP has three parts. A chemical base called adenine is joined to a ribose. This makes adenosine. The adenosine is joined to a line of three phosphate groups, called a triphosphate. It takes a lot of energy to hold the phosphates together. When a cell needs energy, a chemical process frees one of the phosphates from the ATP molecule. It's like taking the lid off the oil barrel. The energy that was holding the phosphate is freed at the same time.
+
+After this, the molecule only has two phosphate groups, so it is called adenosine diphosphate (ADP). ADP molecules and free phosphates are used again to make more ATP. Plants get the components of ATP from sunlight, water, and soil. They make ATP using the process of photosynthesis. Animals get the components of ATP mostly from food. They make ATP using the process of cellular respiration.
+
+Creation and Use
+All cell processes that support life use the energy carried by ATP molecules. For example, in plants, ATP is made by photosynthesis. However, it also supplies the energy for photosynthesis. In animals, ATP is needed for muscle movement, nerve signals, brain processes, and making new cells.
+
+ATP is made and used and made again, in a wiktionary:cycle|cycle. First, ADP joins with a phosphate to make ATP. Energy is used to hold the new molecule together. In other words, when a bond is made, energy is stored. This is an endothermic reaction. Then, when the bond is broken, the energy is freed. This is an exothermic reaction. The cycle of making and breaking ATP only stops when a cell dies.
+
+Cell Functions
+ATP is used in other ways for many cellular processes. Here are some examples.
+
+ It is used to make complex molecules such as DNA replication|DNA and Transcription (genetics)|RNA.
+ It is used to make Translation (genetics)|proteins.
+ It is used to move large molecules into cells (:en:Endocytosis|endocytosis) and out of cells (:en:Exocytosis|exocytosis).
+
+History
+ ATP was discovered in 1929 by Karl Lohmann and Jendrassik, and at the same time, by Cyrus Fiske and Yellapragada Subba Rao at Harvard Medical School. 
+ In 1941, Fritz Albert Lipmann suggested ATP was the connection between reactions that take energy, and reactions that give energy, in cells.
+ ATP was first made in a laboratory by Alexander Todd in 1948.
+ The Nobel Prize in Chemistry 1997 was given to two groups who researched ATP. Half of the prize was given to Paul D. Boyer and John E. Walker for explaining how the enzyme ATP synthase makes ATP. The other half of the prize was given to Jens C. Skou for finding a very important cell enzyme that uses ATP, Na+/K+-ATPase.
+
+Category:Cellular respiration

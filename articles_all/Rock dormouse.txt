@@ -1,0 +1,18 @@
+
+{{Taxobox
+| name = Rock Dormouse
+| image = 
+| status = LC | status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| genus = ''Graphiurus''
+| species = '''''G. platyops'''''
+| binomial = ''Graphiurus platyops''
+| binomial_authority = Oldfield Thomas|Thomas, 1897
+| synonyms = }}
+The '''rock dormouse''' (''Graphiurus platyops'') is a species of rodent in the Gliridae family. It is found in Angola, Botswana, Mozambique, South Africa, Eswatini, Zambia, and Zimbabwe. 
+
+Category:Graphiurus

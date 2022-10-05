@@ -1,0 +1,9 @@
+In biology, a '''cline''',Greek: ''κλίνω'' = to possess or exhibit gradient, to lean or 'ecocline', describes a series of connected populations in a species. These populations show a continuous gradient of Trait (biology)|traits and genetics.For definition and an etymology, see 
+Introduction
+Clines consist of forms of a species that show gradual Phenotype|phenotypic and/or genetic differences over a geographical area. 
+
+The reason for these differences is that the environment is somewhat different in different parts of the range. Populations become adapted to the situation in their areas, but this adaptation is limited by gene flow between neighbouring sub-species.
+ 
+Genetically, clines result from the change of Allele frequency|allele frequencies within the gene pool of the species in question.Microsoft Encarta Premium 2009: "cline"King, Stansfield, Mulligan 2006. ''A dictionary of genetics''. 7th ed, Oxford University Press:"cline"Begon, Townsend, Harper 2006. ''Ecology: From individuals to ecosystems'', Blackwell, 4th ed. p10 
+
+Category:Classical genetics

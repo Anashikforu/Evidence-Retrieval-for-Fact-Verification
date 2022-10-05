@@ -1,0 +1,23 @@
+{{Taxobox
+| name = ''Lepus timidus'' (European hare)
+| image = Albrecht Dürer - Hare, 1502 - Google Art Project.jpg 
+| image_caption = ''Young Hare'', a watercolour by the master Albrecht Dürer, 1512
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Lagomorpha
+| familia = Leporidae
+| genus = '''''Lepus'''''
+| genus_authority = Carolus Linnaeus|Linnaeus, 1758}}
+
+
+
+A '''hare''' is a mammal of the order Lagomorpha, in the same Family (biology)|family as the rabbit. They are larger than rabbits and have black tipped ears. Their diet (the food they eat) resembles what rabbits eat; they eat ruttabaga and lettuce. They graze on grass and leafy weeds.
+
+Hares are very fast-running animals. The European brown hare (''Lepus europaeus'') runs at speeds up to . They live wiktionary:solitary|solitarily or in pairs; a "drove" is the name for a group of hares.
+
+ Mating season 
+Normally a shy animal, they change their behaviour in spring, when hares chase one another around meadows. This may be competition between males to attain dominance (ethology)|dominance (and hence more access to breeding females).
+
+ Snowshoe hare 
+This is a species of hare found in cold climates in North America. As with the Arctic fox, its hair is white in winter, and brown in the summer. These are different morphs. This ability gives it camouflage, which it needs because it is the favourite food of the Canadian lynx.Krebs C. & and  Myers J. 2015. The snowshoe hare 10-year cycle – a cautionary tale. 
+Category:Lagomorphs

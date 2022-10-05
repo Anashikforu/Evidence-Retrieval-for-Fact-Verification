@@ -1,0 +1,141 @@
+
+The '''Var''' is a Departments of France|department in the Provence-Alpes-Côte d'Azur Regions of France|region in Provence in southeastern France. It takes its name from the river Var (river)|Var, which used to flow along its eastern border, but the border was moved in 1860.
+
+Its Prefectures in France|prefecture is the city of Toulon.
+
+History
+Var is one of the original 83 departments created during the French Revolution on 4 March 1790 with Toulon as is Capital city|capital. It was formed with part of the former province of Provence.
+
+It was divided in nine districts: Toulon, Grasse, Hyères, Draguignan, Brignoles, Saint-Maximin, Fréjus, Saint-Paul-lès-Vence and Barjols.
+
+The capital was moved, in 1793, from Toulon to Grasse and, in 1795, from Grasse to Brignoles. In 1797, the capital was moved again, to Draguignan.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the nine districts were changed into four ''arrondissements'': Brignoles, Draguignan, Grasse and Toulon.
+
+After the Battle of Waterloo (18 June 1815), the department was occupied by the Austrian army from June 1815 to November 1818.
+
+On 15 June 1860, the ''arrondissement'' of Grasse passed to the new department of Alpes-Maritimes. With this change, the Var (river)|Var river does not flow any longer through the department named after it.
+
+On 10 September 1926, the ''arrondissement'' of Brignoles was eliminated but in 1974 Brignoles was made again an ''arrondissement'' and the capital was moved from Draguignan to Toulon. The Var is the only French department that has had four different capitals: Toulon, Grasse, Brignoles and Draguignan; now Toulon is the Prefectures in France|prefecture (capital) and Brignoles and Draguignan are Prefectures in France|subprefectures. Grasse is now a subprefecture of the Alpes-Maritimes department.
+
+During World War II, the department was occupied by the Fascism|fascist Italy, from November 1942 to December 1943. In 1944, the Germany|German army occupied the territory of the Var department.
+
+Geography
+Var is part of the Provence-Alpes-Côte d'Azur Regions of France|region. It has an area of .
+
+The department borders with 3 other departments, all in the Provence-Alpes-Côte d'Azur Regions of France|region:
+ Alpes-Maritimes (east)
+ Alpes-de-Haute-Provence (north)
+ Bouches-du-Rhône (west)
+
+It also borders the Vaucluse department, to the nortwest, but only for a very short distance.
+
+
+
+Administration
+Var is managed by the ''Departmental Council of Ardennes'' in Toulon. The department is part of the Provence-Alpes-Côte d'Azur region.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 23 Cantons in France|''cantons'' and 153 Communes in France|''communes'' (Municipality|municipalities) in Var.
+
+
+
+
+
+The following is a list of the 23 Cantons of France|cantons of the '''Var''' department, following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Brignoles|Brignoles (8301)
+# Canton of La Crau|La Crau (8302)
+# Canton of Draguignan|Draguignan (8303)
+# Canton of Flayosc|Flayosc (8304)
+# Canton of Fréjus|Fréjus (8305)
+# Canton of La Garde|La Garde (8306)
+# Canton of Garéoult|Garéoult (8307)
+# Canton of Hyères|Hyères (8308)
+# Canton of Le Luc|Le Luc (8309)
+# Canton of Ollioules|Ollioules (8310)
+# Canton of Roquebrune-sur-Argens|Roquebrune-sur-Argens (8311)
+# Canton of Saint-Cyr-sur-Mer|Saint-Cyr-sur-Mer (8312)
+# Canton of Sainte-Maxime|Sainte-Maxime (8313)
+# Canton of Saint-Maximin-la-Sainte-Baume|Saint-Maximin-la-Sainte-Baume (8314)
+# Canton of Saint-Raphaël|Saint-Raphaël (8315)
+# Canton of La Seyne-sur-Mer-1|La Seyne-sur-Mer-1 (8316)
+# Canton of La Seyne-sur-Mer-2|La Seyne-sur-Mer-2 (8317)
+# Canton of Solliès-Pont|Solliès-Pont (8318)
+# Canton of Toulon-1|Toulon-1 (8319)
+# Canton of Toulon-2|Toulon-2 (8320)
+# Canton of Toulon-3|Toulon-3 (8321)
+# Canton of Toulon-4|Toulon-4 (8322)
+# Canton of Vidauban|Vidauban (8323)
+
+
+Demographics
+The inhabitants of the Var department are known, in French language|French, as ''Varois'' (women: ''Varoises''),
+
+Var had a population, in 2014, of 1,038,212, for a population density of  inhabitants/km2. The ''arrondissement'' of Toulon, with 565,669 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Var'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+ImageSize  = width:400 height:373
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:1200000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:200000 start:0
+ScaleMinor = gridcolor:lightgrey increment:100000 start:0
+BackgroundColors = canvas:sfondo
+BarData=
+  bar:1968 text:1968
+  bar:1975 text:1975
+  bar:1982 text:1982
+  bar:1990 text:1990
+  bar:1999 text:1999
+  bar:2008 text:2008
+  bar:2014 text:2014
+PlotData=
+  color:barra width:30 align:left
+  bar:1968 from:0 till: 555926
+  bar:1975 from:0 till: 626093
+  bar:1982 from:0 till: 708331
+  bar:1990 from:0 till: 815714
+  bar:1999 from:0 till: 898441
+  bar:2008 from:0 till: 1001408
+  bar:2014 from:0 till: 1038212
+
+PlotData=
+ bar:1968 at: 555926 fontsize:S text: 555,926 shift:(-12,10)
+ bar:1975 at: 626093 fontsize:S text: 626,093 shift:(-15,5)
+ bar:1982 at: 708331 fontsize:S text: 708,331 shift:(-15,5)
+ bar:1990 at: 815714 fontsize:S text: 815,714 shift:(-15,5)
+ bar:1999 at: 898441 fontsize:S text: 898,441 shift:(-15,5)
+ bar:2008 at: 1001408 fontsize:S text: 1,001,408 shift:(-25,5)
+ bar:2014 at: 1038212 fontsize:S text: 1,038,212 shift:(-25,5)
+
+
+
+The ''Communes of France|communes'' with more inhabitants in the department are:
+
+
+
+
+Gallery
+
+File:Bormes 029.jpg|Bormes-les-Mimosas
+File:Saint Tropez Ville.jpg|the Vieux Port of Saint-Tropez
+File:Plage-de-la-courtade.jpg|The beach of la Courtade in the Iles d'Hyeres.
+File:01-De la Maline.jpg|The Verdon Gorge
+
+
+Related pages
+ Arrondissements of the Var department
+ Communes of the Var department
+
+Category:Departments in Provence-Alpes-Côte d'Azur

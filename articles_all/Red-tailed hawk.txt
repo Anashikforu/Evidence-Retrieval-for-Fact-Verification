@@ -1,0 +1,23 @@
+{{Taxobox
+| name = Red-tailed hawk
+| status = LC
+| status_system = IUCN3.1
+| image =Red-tailed Hawk Buteo jamaicensis Full Body 1880px.jpg
+| image_width = 250px
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Accipitriformes
+| familia = Accipitridae
+| genus = ''Buteo''
+| binomial = ''Buteo jamaicensis''}}
+
+The '''red-tailed hawk''' (''Buteo jamaicensis'') is a buzzard. Sometimes it is called a '''chickenhawk''',  though it does not normally eat chickens. It is a bird of prey. It breeds throughout most of North America, from western Alaska and northern Canada and as far south as Panama and the West Indies. It weighs from .
+
+The red-tailed hawk is a carnivore and eats shrews and mice. They have keen eyesight to see even the smallest mouse scamper across a field. It can swoop down at least 80mph per hour. It will pick up its prey, dig its talons into its body and kill it and eat. It can swoop down so fast that it can pick up its prey in less than 5 seconds.
+
+Because they are so common and easily trained, most hawks got for falconry in the United States are red-tails. Falconers may take only 'passage hawks' (which have left the nest, are on their own, but are less than a year old). This is so not to affect the breeding population. Adults, which may be breeding or rearing chicks, may not be taken for falconry purposes and it is illegal to do so. 
+
+Passage red-tailed hawks are also preferred by falconers because these younger birds have not yet developed adult behaviors, which would make training much more difficult.
+
+
+Category:Accipitriformes

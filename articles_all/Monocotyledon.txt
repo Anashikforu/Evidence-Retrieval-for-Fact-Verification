@@ -1,0 +1,50 @@
+
+
+
+'''Monocotyledons''' are a class (biology)|class of flowering plants (angiosperms), whose embryo (seed) store only one cotyledon.
+The APG II|APG II system recognises a clade called "monocots" but does not assign it to a taxonomic rank. 
+
+You can recognize a monocot by its leaves: they have long parallel veins running down the leaf. In contrast, dicot plant leaves have a complex netted vein pattern on their leaves.
+
+Monocots usually have a fibrous root system.
+
+ Clade diagram 
+{{Clade 
+| style= font-size:100%; line-height:100%
+| label1= '''Flowering plant|Angiosperms'''
+| 1= {{clade
+  | label1= '''monocots'''
+  | 1= {{clade
+    | 1= 
+Piperales, Acorales, Alismatales, Asparagales, Dioscoreales, Liliales, Pandanales
+    | 2= '''commelinids'''
+    }}
+  | label2= '''eudicots'''
+  | 2= {{clade
+    | 1= rest of clades...
+    | label2= core eudicots
+    | 2= {{clade
+      | 1= rest of clades...
+      | label2= rosids
+      | 2= {{clade
+        | 1= eurosids I
+        | 2= eurosids II
+        }}
+      | label3= asterids 
+      | 3= {{clade
+        | 1= euasterids I
+        | 2= euasterids II
+        }}
+      }}
+    }}
+  | 3= unassigned Taxon|taxa...
+  }}}}
+
+ Other websites 
+  
+
+
+
+
+
+Category:Monocots| 

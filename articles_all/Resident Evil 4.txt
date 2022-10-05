@@ -1,0 +1,24 @@
+ 
+|genre = Survival horrorThird person shooter
+|modes=Single-player
+|ratings=
+|platforms=Nintendo GameCube|GameCube, PlayStation 2, Microsoft Windows, Wii, iPhone OS, Mobile phones, Zeebo
+|media=Nintendo optical disc|GameCube Game Disc, Nintendo optical disc|Wii Optical Disc, DVD, Digital distribution|Download
+|requirements=Supported OS: Windows 2000 or better
+ Microprocessor|Processor: 1 GHz Pentium III or AMD Athlon (or better)
+ RAM: 256 MB (512 MB recommended)
+ Video Card: 128 MB DirectX 9.0c-compliant AGP or PCI Express graphics card (256 or higher for high graphics detail support)
+ Sound Card: DirectX 9.0c compliant
+ DirectX version: DirectX 9.0c or higher
+ DVD-ROM: 4x or faster DVD drive
+ Hard drive space: 1.2 GB minimum
+ Peripherals supported: gamepad
+ Supported video cards at time of release
+ NVIDIA GeForce FX/6/7 families
+ ATI Technologies|ATI Radeon 9200-9800/X families.
+|input=Gamepad, Wii Remote, Keyboard (computing)|Keyboard, Multi-touch
+}}
+
+
+'''''Resident Evil 4''''', known in Japan as , is a survival horror third-person shooter video game developed by Capcom|Production Studio 4 and published by multiple publishers, including Capcom, Ubisoft and Nintendo|Nintendo of Australia. It is the sixth game in the ''Resident Evil'' series. 
+Category:Video game sequels

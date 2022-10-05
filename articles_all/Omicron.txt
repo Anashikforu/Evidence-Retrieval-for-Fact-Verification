@@ -1,0 +1,9 @@
+
+
+'''Omicron''' (uppercase/lowercase '''Ο ο''') is a letter of the Greek alphabet. It is used to represent the "o" sound in Ancient Greek|Ancient and Modern Greek language|Modern Greek. In the system of Greek numerals, it has a value of 70. Letters that came from it include the Roman O and Cyrillic О.
+
+In mathematics and computer science, the uppercase Ο is used in Big O notation|big-O notation, while the lowercase ο is used in little-o notation (a variant of big-O notation).
+
+ Related pages 
+ O|O (letter)
+

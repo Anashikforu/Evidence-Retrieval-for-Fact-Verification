@@ -1,0 +1,11 @@
+Image:Rover SD1 2300 engine bay.jpg|thumb|right|Longitudinal Straight-six engine|inline 6 in a Rover 2300
+
+A '''longitudinal engine''' is an engine mounted in a vehicle so that the engine's crankshaft is Parallel (geometry)|parallel with the vehicle, front to back. The majority of rear wheel drive vehicles use a longitudinal engine design. where the engine's crankshaft axis is Parallel (geometry)|parallel to the vehicle. Many modern front wheel drive vehicles use a transverse engine mounting design. 
+
+ Placement of longitudinal engines 
+Engines may be placed in three main positions within the car:
+ front engine mounted - the engine is mounted under the hood, over the front axle
+ rear engine mounted - the engine is mounted where the trunk would normally be, over the rear axle
+ mid engine mounted - the engine is mounted between the front and rear axles, where the rear seats would be located
+
+Category:Automotive technologies

@@ -1,0 +1,7 @@
+A '''default gateway''' is the IP address used to get out of your network.
+
+
+
+
+Category:Networks
+Category:Computer networking

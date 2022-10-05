@@ -1,0 +1,51 @@
+
+
+
+The '''hominids''' are members of the Family (biology)|biological family '''Hominidae''' (the '''great apes'''). This family includes humans, chimpanzees, gorillas and orangutans.Groves C. 2005. Wilson D.E.; Reeder D.M. eds. ''Mammal species of the world''. 3rd ed, Baltimore: Johns Hopkins University Press. pp. 181. 
+Hominids range in weight from 48&nbsp;kg to 270&nbsp;kg. Males are larger than females. Hominids are Primate|primates with no Tail|tails, strong bodies, and well-developed Forearm|forearms. Their Finger|thumbs (and big toes, except in humans) oppose the fingers, and form a grip. All digits have flattened Nail (anatomy)|nails.
+
+At present, the family Hominidae includes four Genus|genera and five species. However, if fossil hominids were included, all of the Australopithecines and the genus ''Homo'' would be members of the Hominidae family. Today, nonhuman great apes live only in the Rainforest|rainforests of Equator|equatorial Africa, Sumatra and Borneo.
+
+The first hominid fossils are from the Miocene period. Archaeologists found these in AsiaHill, Andrew & Steven Ward 1988. Origin of the Hominidae: the record of African large hominoid evolution between 14 My and 4 My. ''Yearbook of Physical Anthropology'' '''31''' (59): 49–83.
+Classification
+Scholars do not agree on exactly Biological classification|how to classify the family Hominidae.
+
+=Past versions=
+In the past, the family Hominidae have been classified this way:
+Family '''Hominidae''': Great apes
+ Subfamily Ponginae
+ Genus ''Orangutan|Pongo''  orangutans
+ Subfamily Homininae
+ Genus ''Gorilla'' – gorillas
+ Genus ''chimpanzee|Pan'' – chimpanzees
+ ''Australopithecus''† and other extinct relatives
+ Genus ''Homo (genus)|Homo'' – humans
+
+=Modern version=
+A more recent classification shows humans and the Australopithecines as 
+Superfamily Hominoidea
+:Family Hylobatidae
+:::Genus ''Hylobates''
+:Family '''Hominidae'''
+::Subfamily Ponginae
+:::Genus ''Pongo''
+::Subfamily Gorillinae
+:::Genus ''Gorilla''
+::Subfamily Homininae
+:::Tribe Panini
+::::Genus ''Pan (genus)|Pan''
+:::Tribe Hominini
+::::Subtribe Australopithecina/Hominina
+:::::Genus ''Ardipithecus''
+:::::Genus ''Australopithecus''
+:::::Genus ''Kenyanthropus''
+:::::Genus ''Sahelanthropus''
+:::::Genus ''Orrorin''
+:::::Genus ''Paranthropus''
+:::::Genus ''Homo''
+
+Related pages
+ Template:Human timeline|Human timeline
+ Human evolution
+
+Category:Hominids

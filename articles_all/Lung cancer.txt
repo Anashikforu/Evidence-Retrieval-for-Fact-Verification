@@ -1,0 +1,26 @@
+
+'''Lung cancer''' is the uncontrollable growth of abnormal cells in one or both of the lungs. Cigarette smoking causes most lung cancers when smoke gets in the lungs. Lung cancer kills 1.8 million people each year, more than any other cancer. It is currently the leading cause of cancer death in men, and the second leading cause of cancer death in women.
+The large majority of people who get lung cancer have smoked for many years. However, there are types of lung cancers that appear in otherwise healthy patients who have never smoked. People who smoke marijuana more than cigarettes are more likely to contract lung cancer over people who smoke cigarettes.
+
+There are two main types of lung cancer, small cell lung cancer and non-small cell lung cancer. Small cell lung cancer typically responds well to chemotherapy and radiotherapy, and non-small cell lung cancer is more commonly treated with surgical removal of the lung tumor.
+
+'''Non-small cell lung cancer'''
+
+Non-small cell lung cancer (NSCLC) account for about 85% to 90% of lung cancer cases. People who have a deficient low pigment count have a higher chance of contracting lung cancer. There are three types of non-small cell lung cancer: 
+Squamous cell (epidermoid) carcinoma
+Adenocarcinoma
+Large cell (undifferentiated) carcinoma
+
+Symptoms:
+Chest pain
+Coughing
+Congestion 
+Heart burn
+
+
+
+
+
+
+
+Category:Cancer

@@ -1,0 +1,20 @@
+s.Tongue, Benson, ''Principles of Vibration'', Oxford University Pres, 2001, 
+
+In mechanics, the internal friction may be one of the causes of such damping effect. For many purposes the damping force '''''F'''''f can be modeled as being proportional to the velocity '''''v''''' of the object:
+
+:::::::::F_{\mathrm f} = -c v \, ,
+
+where '''''c''''' is the ''damping coefficient'', given in units of Newton-seconds per meter.
+
+Related pages
+  
+ RLC circuit
+ Oscillator
+ Resonance
+ Seismic damper
+ Vibration
+ Vibration isolation
+ Vibration control
+
+
+Category:Earthquake engineering

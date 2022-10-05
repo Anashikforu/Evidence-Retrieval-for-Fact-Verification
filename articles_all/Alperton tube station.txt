@@ -1,0 +1,18 @@
+{{Infobox London station
+| name = Alperton 
+| image_name = Alperton tube station.jpg
+| caption    = Platforms at Alperton tube station
+| manager = London Underground 
+| fare_zone = 4 
+| locale = Alperton 
+| borough = London Borough of Brent 
+| years1 =19031932
+| events1 =Opened (MDR) Service changes from District Line to Piccadilly Line 
+| platforms= 2 
+| tubeexits05= 2.405 
+| tubeexits07=3.006 }}
+'''Alperton''' is a London Underground station on the Uxbridge tube station|Uxbridge branch of the Piccadilly Line.  The station is between Sudbury Town tube station|Sudbury Town and Park Royal tube station|Park Royal. It is on Ealing Road (A4089 road) a short distance from the junction with Bridgewater Road (A4005 road|A4005) and is close to Alperton Bus Garage and the Paddington branch of the Grand Union Canal. The station is in Travelcard Zone 4.
+
+Services
+The typical off-peak service is a train in each direction every ten minutes. Half of northbound trains terminate at Rayners Lane tube station|Rayners Lane and the other half continue to the terminus of the line at Uxbridge.
+

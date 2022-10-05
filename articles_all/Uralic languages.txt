@@ -1,0 +1,56 @@
+{{Infobox language family
+  |name=Uralic
+  |region=Eastern Europe|Eastern and Northern Europe, North Asia, Siberia
+  |familycolor=Uralic
+  |family=One of the world's major language family|language families (possibly Uralo-Siberian family)
+  |protoname=Proto-Uralic language|Proto-Uralic
+  |child1=Finnic languages|Finnic
+  |child2=Hungarian language|Hungarian
+  |child3=Khanty language|Khanty
+  |child4=Mansi language|Mansi
+  |child5=Mari language|Mari
+  |child6=Mordvinic languages|Mordvinic
+  |child7=Permic languages|Permic
+  |child8=Sami languages|Sami
+  |child9=Samoyedic languages|Samoyedic
+  |iso5=urj
+  |map=Uralic languages.svg
+  |mapcaption=
+
+
+
+
+
+
+The '''Uralic languages''' are a language family. They were originally spoken in Eastern Europe and Asia but originated somewhere in eastern Siberia near Lake Baikal.
+
+There are two modern main kinds: the Samoyedic languages and the Finno-Ugric languages.
+
+ Origin 
+The proto-Uralic languages and the early Uralic people originated somewhere in eastern Siberia or possibly East Asia|Northeast Asia. They were closely related to other Siberian and East Asian but also Inuit people. They migrated into central Siberia and then about 3,000 years ago started to migrate to the Baltic states|Baltic region in northeastern Europe. They assimilated many Paleo-European tribes.
+
+ External relations 
+
+Several linguists and geneticists suggest that the Uralic languages are related to various Siberian languages and possibly also some languages of northern Native Americans. A proposed family is named Uralo-Siberian. It includes Uralic, Yukaghir, Eskimo–Aleut (Inuit), possibly Nivkh and Chukotko-Kamchatkan.
+
+List of Uralic languages
+Finno-Ugric languages
+Hungarian language|Hungarian
+Khanty language|Khanty
+Mansi language|Mansi
+Estonian language|Estonian
+Finnish language|Finnish
+Karelian language|Karelian
+Livonian language|Livonian
+Votic language|Votic
+Ingrian language|Ingrian
+Saami languages|Saami
+Erzya language|Erzya
+Moksha language|Moksha
+Mari language|Mari
+Udmurt language|Udmurt
+Komi language|Komi
+Samoyedic languages
+Nenets language|Nenets
+
+Category:Uralic languages| 

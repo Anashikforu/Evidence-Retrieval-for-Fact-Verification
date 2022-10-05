@@ -1,0 +1,21 @@
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at Template:Infobox Planet.
+-->
+{{Infobox Planet
+| name = S/2000 J 11
+| bgcolour = #ffc0c0
+
+| discoverer = Scott S. Sheppard ''et al.''
+| discovered = 2000
+| satellite_of = Jupiter (planet)|Jupiter
+
+| mean_radius = ~2 km
+| inclination = 28°
+| eccentricity = 0.248
+| mean_orbit_radius = 12.555 million km}}
+
+'''Dia''' (S/2000 J 11) ls the second-outermost Prograde and retrograde motion|prograde non-Sphere|spherical moon of Jupiter (planet)|Jupiter. It was found by a team of astronomers from the University of Hawaii led by Scott S. Sheppard in 2000.
+Dia is about 4 kilometres in diameter, and orbits Jupiter at an average distance of 12,555,000&nbsp;km in 287 days, at an inclination of 28° (to Jupiter's equator), and with an orbital eccentricity of 0.248.Sheppard, S. S.; Jewitt, D. C.; Carolyn Porco|Porco, C.; 
+The moon is included in the Himalia group.Scott S. Sheppard|Sheppard, S. S.; David C. Jewitt|Jewitt, D. C.; 
+Category:Jupiter's moons

@@ -1,0 +1,11 @@
+
+|direction_b=East
+|terminus_b= in Slidell
+|parishes=East Baton Rouge Parish, Louisiana|East Baton Rouge, Livingston Parish, Louisiana|Livingston, Tangipahoa Parish, Louisiana|Tangipahoa, St. Tammany Parish, Louisiana|St. Tammany
+|previous_type=US
+|previous_route=11
+|next_type=LA
+|next_route=12
+}}
+'''Interstate 12''' is a  long Interstate Highway in Louisiana, connecting Interstate 10 at each end. It goes from Baton Rouge, Louisiana|Baton Rouge to Slidell, Louisiana|Slidell.
+

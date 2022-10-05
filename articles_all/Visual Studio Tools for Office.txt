@@ -1,0 +1,6 @@
+'''Visual Studio Tools for Office''' (Sometime written as ''VSTO'') is an add-on product for Microsoft Visual Studio|Microsoft's Visual Studio product that enables developers to create computer program|applications using Microsoft Office. 
+
+ Other websites 
+
+Category:Microsoft Visual Studio
+

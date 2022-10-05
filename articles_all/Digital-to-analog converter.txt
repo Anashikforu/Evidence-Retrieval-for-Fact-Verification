@@ -1,0 +1,7 @@
+In electronics, a '''digital-to-analog converter''' (Abbreviation|abbreviated '''DAC''' or '''D-to-A''') is a device for converting a digital (usually Binary numeral system|binary) code to an analog signal (current (electricity)|current, voltage or electric charge).
+
+An analog-to-digital converter (ADC) performs the reverse operation.
+
+
+
+category:Electronic circuits

@@ -1,0 +1,21 @@
+
+A '''chosen-ciphertext attack (CCA)''' is an attack model for cryptanalysis in which the cryptanalyst gathers information, at least in part, by choosing a ciphertext and obtaining its decryption under an unknown key.  
+
+When a cryptosystem is susceptible to chosen-ciphertext attack, implementers must be careful to avoid situations in which an attackers might be able to decrypt chosen ciphertexts (i.e., avoid providing a decryption scheme).  This can be more difficult than it appears, as even partially chosen ciphertexts can permit subtle attacks.  Additionally, some cryptosystems (such as RSA) use the same mechanism to sign messages and to decrypt them.  This permits attacks when cryptographic hash function|hashing is not used on the message to be signed.  A better approach is to use a cryptosystem which is provable security|provably secure under chosen-ciphertext attack, including (among others) Optimal Asymmetric Encryption Padding|RSA-OAEP, Cramer-Shoup system|Cramer-Shoup and many forms of Authentication|authenticated Symmetric-key algorithm|symmetric encryption.
+
+Varieties of chosen-ciphertext attacks
+Chosen-ciphertext attacks, like other attacks, may be adaptive or non-adaptive.  In a non-adaptive attack, the attacker chooses the ciphertext or ciphertexts to decrypt in advance, and does not use the resulting plaintexts to inform their choice for more ciphertexts.  In an adaptive chosen-ciphertext attack, the attacker makes their ciphertext choices adaptively, that is, depending on the result of prior decryptions.
+
+=Lunchtime attacks=
+A specially noted variant of the chosen-ciphertext attack is the "lunchtime" or "midnight" attack, in which an attacker may make adaptive chosen-ciphertext queries but only up until a certain point, after which the attacker must demonstrate some improved ability to attack the system.Ronald Cramer and Victor Shoup, "
+Many chosen-ciphertext attacks of practical importance are lunchtime attacks, including, for instance, when Daniel Bleichenbacher of Bell Laboratories demonstrated a practical attack against systems using the PKCS#1; invented and published by RSA Security.D. Bleichenbacher. 
+=Adaptive chosen-ciphertext attack=
+A (full) adaptive chosen-ciphertext attack is an attack in which ciphertexts may be chosen adaptively before and after a challenge ciphertext is given to the attacker, with ONE condition that the challenge ciphertext may not itself be queried.  This is a stronger attack notion than the lunchtime attack, and is commonly referred to as a CCA2 attack, as compared to a CCA1 (lunchtime) attack.  Few practical attacks are of this form.  Rather, this model is important for its use in proofs of security against chosen-ciphertext attacks.  A proof that attacks in this model are impossible implies that any practical chosen-ciphertext attack cannot be performed.  
+
+Cryptosystems proven secure against adaptive chosen-ciphertext attacks include the Cramer-Shoup system and RSA-OAEP.Mihir Bellare|M. Bellare, Phillip Rogaway|P. Rogaway. ''Optimal Asymmetric Encryption -- How to encrypt with RSA''.  Extended abstract in Advances in Cryptology - Eurocrypt '94 Proceedings, Lecture Notes in Computer Science Vol. 950, A. De Santis ed, Springer-Verlag, 1995.  
+Related pages
+ Ciphertext-only attack
+ Chosen-plaintext attack
+ Known-plaintext attack
+
+Category:Cryptography

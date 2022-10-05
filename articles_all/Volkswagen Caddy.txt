@@ -1,0 +1,47 @@
+The '''Volkswagen Caddy''' is a van produced by Volkswagen in four generations since 1979.
+
+First generation
+
+The first generation Caddy were produced from 1979 until 1996. It was based on the Volkswagen Golf Mk1.
+=Engines=
+ ''1.5'' 51 kW
+ ''1.6'' 55 kW
+ ''1.8'' 70 kW
+ ''1.6 Diesel'' 40 kW
+
+Second generation
+
+
+The second generation was produced from 1995 until 2004. Two versions were available: a van based on the Volkswagen Polo Mk3, and a pickup truck based on the Škoda Felicia.
+=Engines=
+ ''1.4'' 44 kW
+ ''1.4 16V'' 55 kW
+ ''1.6'' 55 kW
+ ''1.7 SDI'' 42 kW
+ ''1.9 Diesel'' 47 kW
+ ''1.9 SDI'' 47 kW
+ ''1.9 TDI'' 66 kW
+
+Third generation
+
+The third generation was produced from 2003 to 2020. It is based on the Volkswagen Golf Mk5.
+=Engines=
+ ''1.4 16V'' 55 kW and 59 kW
+ ''1.6'' 75 kW
+ ''2.0 EcoFuel'' 80 kW
+ ''1.9 TDI'' 55 kW and 77 kW
+ ''2.0 SDI'' 51 kW
+ ''2.0 TDI'' 103 kW
+
+Fourth generation
+
+The fourth generation was launched in 2020. It is based on the Volkswagen Golf Mk8.
+=Engines=
+ ''1.6 TDI'' 55 kW and 75 kW
+ ''2.0 TDI'' 81 kW and 103 kW
+
+
+
+
+
+Category:Vans

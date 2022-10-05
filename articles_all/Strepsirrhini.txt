@@ -1,0 +1,38 @@
+{{Taxobox
+| name = Strepsirrhini
+| fossil_range = Early Eocene - Recent 
+| image = Propithecus_verreauxi.JPG
+| image_width = 209px
+| image_caption = Coquerel's Sifaka (''Propithecus verreauxi'')
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Mammalia
+| ordo = Primates
+| subordo = '''Strepsirrhini'''
+| subordo_authority = Étienne Geoffroy Saint-Hilaire|E. Geoffroy, 1812
+| subdivision_ranks = Order (biology)|Infraorders}}
+
+The '''Strepsirrhini''' clade is one of the two suborders of primates, with 114 species. They are defined by their wet noses, although the Greek name means having a curved or bent nose. Madagascar's only primates (apart from humans) are strepsirrhines, although others can be found in southeast Asia.
+Their eyes have a reflective layer to improve their night vision, and their eye sockets have a ring of bone around the eye. Strepsirrhine primates produce their own vitamin C, whereas haplorhine primates (and ourselves) must get it from their diets.
+
+The suborder contains the lemurs and lorises. The modern types probably evolved from the Adapiforms, an extinct group.
+
+The origin of the earliest primates, from which both the strepsirrhines and haplorhines (simians and tarsiers) evolved, is a mystery.  Both their place of origin and the group from which they evolved are uncertain.
+
+Although the Fossil|fossil record of their initial adaptive radiation|radiation across the Northern Hemisphere is very detailed,Rose K.D. 2006. ''The beginning of the age of mammals''. Johns Hopkins University Press, 168/9.  the fossil record from the tropics—where primates most likely evolved—is very poor, particularly around the time that primates and other eutherian mammals were first appearing.
+
+So, Genetics|geneticists and primatologists have used sequence analysis|genetic analyses to determine the relatedness between primate lines and when they diverged. Using this molecular clock, it seems that primates evolved more than 80–90&nbsp;mya, nearly 40&nbsp;million years before the first primates appear in the fossil record.Hartwig, W.C. (ed) 2002. ''The primate fossil record''. Cambridge University Press, pages 13–20 
+ Classification 
+ '''Suborder Strepsirrhini''': non-tarsier prosimians
+ Infraorder Lemuriformes
+ Superfamily Lemuroidea
+ Family Cheirogaleidae: Dwarf lemur|dwarf and mouse lemurs (32 species)
+ Family Daubentoniidae: Aye-aye (1 species)
+ Family Lemuridae: lemurs (22 species)
+ Family Lepilemuridae: sportive lemurs (26 species)
+ Family Indriidae: woolly lemurs and allies (19 species)
+ Superfamily Lorisoidea
+ Family Lorisidae: lorises, pottos and allies (9 species)
+ Family Galagidae: galagos (19 species)
+
+Category:Primates

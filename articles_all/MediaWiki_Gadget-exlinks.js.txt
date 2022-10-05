@@ -1,0 +1,15 @@
+// 
+//                  WARNING GLOBAL GADGET FILE                 
+//              changes to this file affect many users.              
+//            please discuss on the talk page before editing         
+//                                                                   
+// 
+$(function() {
+    var alinks = document.getElementById('content').getElementsByTagName('a');
+    var tablink, sitename;
+    for (var i = 0, leng = alinks.length; i < leng; i++) {
+        tablink = alinksi;
+        if (tablink.className.indexOf("external") != -1 && tablink.href.indexOf(mw.config.get('wgServer')) != 0)
+            tablink.target = "_blank";
+    }
+});

@@ -1,0 +1,40 @@
+{{Infobox Planet   | bgcolour=#FFFFC0 |
+ name=2101 Adonis
+ | discoverer=Eugene Delporte
+ | discovered=February 12, 1936
+ | alt_names=1936 CA
+ | mp_category=Apollo asteroid|Apollo, mars-crosser asteroid|Mars crosser
+ | epoch=October 22, 2004 (Julian day|JD 2453300.5)
+ | semimajor=280.289 Giga|Gm (1.874 Astronomical unit|AU)
+ | perihelion=65.906 Gm (0.441 AU)
+ | aphelion=494.673 Gm (3.307 AU)
+ | eccentricity=0.765
+ | period=936.742 day|d (2.56 Julian year (astronomy)|a)
+ | inclination=1.349degree (angle)|°
+ | asc_node=350.580°
+ | arg_peri=42.438°
+ | mean_anomaly=307.406°
+ | avg_speed=18.10 km/second|s
+ | dimensions=0.5—1.2 km  | mass=0.13—1.8×1012 kilogram|kg
+ | density=2.0? g/cubic centimetre|cm³
+ | surface_grav=0.0001—0.0003 m/s²
+ | escape_velocity=0.0003—0.0006 km/s
+ | rotation=? d
+ | spectral_type=?
+ | abs_magnitude=18.7
+ | albedo=0.20—0.04  | single_temperature=197—207 kelvin|K}}
+'''2101 Adonis''' was one of the first near-Earth asteroids to be found.  It was found by Eugene Delporte in 1936 and named after Adonis, the beautiful youth with whom the goddess Venus (mythology)|Venus fell in love. Adonis is thought to measure about 1&nbsp;km in diameter.
+
+In the close approach that led to the first time it was found, not enough sightings could be made to find out it's orbit, and Adonis was lost until 1977 when it was found once again by Charles T. Kowal.
+
+Adonis was the second Apollo asteroid to be found (after 1862 Apollo itself). It may be a dead comet, and may be the source of some meteor showers. 
+It comes within 30&nbsp;Gm of the Earth six times in the 21st century, the nearest being 5.3&nbsp;Gm in 2036.
+
+ Other websites 
+ 
+
+
+
+
+
+Category:Asteroids|Adonis

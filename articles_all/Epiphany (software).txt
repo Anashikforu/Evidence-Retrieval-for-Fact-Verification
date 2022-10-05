@@ -1,0 +1,9 @@
+
+
+
+'''Epiphany''' is a Web browser for GNOME. It is also available for Mac OS X and was made from Galeon.
+
+It uses the Gecko (layout engine)|Gecko layout engine from the Mozilla project to show web pages; however, the Epiphany Programmer|developers have a new but less stable version of Epiphany 2.21.4 using the WebKit engine instead of Gecko.
+Epiphany was made from Galeon by Marco Pesenti Gritti (also the creator of Galeon) with the aim of making a web browser with a very simple user experience. Because of that, Epiphany does not have its own themes, instead, it uses GNOME’s settings that are set in the GNOME Control Center.
+
+Category:GNOME

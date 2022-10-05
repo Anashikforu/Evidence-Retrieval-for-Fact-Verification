@@ -1,0 +1,30 @@
+
+
+Image:DEB file format icon on ubuntu.png|100px|thumb
+Image:Gdebi.png|250px|thumb|Gdebi
+'''deb''' is the filename extension|extension of the Debian software package format and the most often used name for such binary file|binary packages.
+
+Debian packages are also used in operating systems based on Debian.
+
+Debian packages are standard Unix ar (Unix)|ar archives that include two gzipped or Bzip2|bzipped tar (file format)|tar archives: one that holds the control information and another that contains the data.
+
+The canonical program for handling these packages is dpkg, most commonly via Advanced Packaging Tool|apt/aptitude.
+
+deb packages can be converted into other packages and vice versa using Alien (computing)|Alien.
+
+Related pages
+List of archive formats
+Debian
+Getdeb
+SuperDeb
+Debminer
+RPM Package Manager
+Debian Package Maker
+Deb Creator
+
+ Other websites 
+
+
+
+
+Category:Debian

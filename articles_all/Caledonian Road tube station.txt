@@ -1,0 +1,9 @@
+{{Infobox London station| name = Caledonian Road  | image_name=Caledonian Road stn building.JPG | manager = London Underground | fare_zone = 2 | locale = Holloway, London|Holloway | borough = London Borough of Islington|Islington | events1 =Opened | years1=1906 | platforms= 2
+
+| tubeexits07 =  5.333 
+| tubeexits08 =  4.930 
+| tubeexits09 =  5.083
+| access = yes | access_note = 
+'''Caledonian Road''' is a station on the Piccadilly Line of the London Underground, between King's Cross St. Pancras tube station|King's Cross St. Pancras and Holloway Road tube station|Holloway Road, and in Travelcard Zone 2. It was opened on 15 December 1906 by the Great Northern, Piccadilly and Brompton Railway.
+
+Category:Railway stations opened in 1906

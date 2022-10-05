@@ -1,0 +1,15 @@
+{{Infobox Company 
+| company_name = JB Hi-Fi Pty Ltd 
+| company_type = Public 
+| foundation = Melbourne, Victoria (Australia)|Victoria, Australia 1974
+| location = Melbourne, Australia
+| key_people = Terry Smart, Chief Executive Officer|CEO
+| industry = Retail 
+| locations = 131+:Count of stores on websites @ July 15th 2010
+| products = CDs, DVDs, Blu-ray discs, video games and consumer electronics 
+| revenue = 2.731 billion AUD ''(2009–10)'' | homepage =  intl=yes|
+ }}
+
+'''JB Hi-Fi''' is an Australian Compact Disc|CD, DVD, Blu-ray disc,  video game and consumer electronics chain store.
+
+Category:1974 establishments in Australia

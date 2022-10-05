@@ -1,0 +1,16 @@
+'''Cheating''' in video games is when a player creates an wikt:advantage|advantage for themself beyond what normal gameplay would allow. In general, cheating is breaking the rules to get an Fairness|unfair advantage. it actually works with a bit of code structure. In other world, it is included in an existing video game as if it is from that video game and continues to work in this way. If we look at it structuarry, it comes up with a very diffrent work.
+
+These kind of advantages can often be activated by entering codes. A set of '''cheat codes''' may have been written into the game's programming by the game's Video game developer|developers. When entered, a code activates a corresponding advantage. Cheat codes can also be created by added software, called a Trainer (games)|game trainer. Players can also cheat by taking advantage of software bugs in the game.
+
+Cheat codes makes the system do things that are not normal. For example, pressing a certain sequence of buttons may increase a character's hit points in an role-playing game, or make a car drive faster in a racing game.
+
+Another way of video hacks is using applications called ''exploits.'' It usually involves injecting Dynamic-link library|DLLs and its working Kernel (computer science)|kernel mode in the game application for access to advantages. 
+
+The number of users using competitive Video game|video games cheat continues to decrease with the development of anti-cheat systems. We can examine this thesis based on the League of Legends|League of legends.
+
+The reason why the rate of banned players is higher than the rate of cheating is that past activities can be detected. 
+
+Other websites
+  Category:Video game design
+
+

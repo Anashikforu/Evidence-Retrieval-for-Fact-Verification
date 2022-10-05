@@ -1,0 +1,19 @@
+
+
+A '''cuboid''' is a 3D shape. Cuboids have six faces, which form a convex polyhedron. Broadly, the faces of the cuboid can be any quadrilateral. More narrowly, rectangular cuboids are made from 6 rectangles, which are placed at right angles. A cuboid that uses all Square (geometry)|square faces is a cube.
+Properties of a Cuboid are:
+ It has 12 edges
+ It has 8 corners or vertices
+ It has 6 faces.
+The basic difference between a rectangle and a cuboid is that one is a 2D shape and the other is a 3D shape.
+
+The basic difference between a cube and cuboid is that a cube has equal length, height and breadth whereas in cuboids these three may or may not be the same.
+The cuboid can also be called a right rectangular prism.
+
+Where l= length, b= breadth, h= height:
+ Total Surface Area of Cuboid = 2(l×b+b×h+h×l) 
+ Volume of Cuboid = L×B×H
+
+{Math-stub}
+
+Category:Polyhedra

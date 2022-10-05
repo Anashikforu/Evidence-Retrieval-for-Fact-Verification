@@ -1,0 +1,19 @@
+
+{{taxobox
+| name = ''Rafflesia''
+| image = Rafflesia sumatra.jpg
+| image_width = 250px
+| image_caption = ''Rafflesia arnoldii'' flower and bud
+| regnum = Plantae
+| divisio = Magnoliophyta
+| classis = Magnoliopsida
+| ordo = Malpighiales
+| familia = Rafflesiaceae
+| genus = '''''Rafflesia'''''
+| subdivision_ranks = Species}}
+
+'''''Rafflesia''''' is a genus of flowering plants.  They are found in southeastern Asia, on the Malay Peninsula, Borneo, Sumatra, Thailand and the Philippines.
+The flowers smell like a dead animal, which attracts flies. The flies, which normally lay their eggs on rotten flesh, pollinate the ''Rafflesia'' when they get inside.
+
+''Rafflesia'' is a parasite, and does not use chlorophyll. The plant has no Plant stem|stem, leaves or true roots. It lives inside vines of the genus ''Tetrastigma'' (Vitaceae). It spreads its wikt:absorb|absorptive organ, the haustorium, inside the tissue of the vine. The only part of the plant that can be seen outside the host vine is the flower.
+

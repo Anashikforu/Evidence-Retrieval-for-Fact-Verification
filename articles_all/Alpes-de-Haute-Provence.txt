@@ -1,0 +1,139 @@
+
+'''Alpes-de-Haute-Provence''' () is a Departments of France|department in the south of France, in the Provence-Alpes-Côte d'Azur Regions of France|region. Its Prefectures in France|prefecture is Digne-les-Bains.
+
+Until 1970, the department was named as ''Basses-Alpes''.
+
+History
+
+The department of the Alpes-de-Haute-Provence, with the name of ''Nord-de-Provence'' was one of the 83 original departments created during the French Revolution on 4 March 1790 but soon its name was changed to ''Haute-Provence'' and then to  ''Basses-Alpes''.
+
+It was divided in five districts: Barcelonnette, Castellane, Digne, Forcalquier and Sisteron. with Digne as its Capital (city)|capital.
+
+On 12 August 1793, the department of Vaucluse was created from parts of the departments of Bouches-du-Rhône, Drôme, and Basses-Alpes. Basses-Alpes lost the canton of Sault of Vaucluse. Seventeen years later, in 1810, the canton of Barcillonnette was transferred over to Hautes-Alpes.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the five districts were changed into five ''arrondissements'': Barcelonnette, Castellane, Digne, Forcalquier and Sisteron.
+
+On 10 September 1926, the ''arrondissements'' of Castellane and Sisteron were eliminated and in 1942 Castellane was made again an arrondissement of the department.
+
+During World War II, the department was occupied by the Fascism|fascist Italy.
+ 
+The name of the capital, Digne, was changed to Digne-les-Bains in 1988 and on 13 April 1970 the department of Basses-Alpes was renamed Alpes-de-Haute-Provence.
+
+Geography
+Alpes-de-Haute-Provence is part of the Provence-Alpes-Côte d'Azur Regions of France|region. It has an area of .
+
+The department is surrounded by Italy and five departments in two regions:
+ Provence-Alpes-Côte d'Azur region
+ Hautes-Alpes (north)
+ Alpes-Maritimes (east)
+ Var (department)|Var (south)
+ Vaucluse (west)
+ Auvergne-Rhône-Alpes region
+ Drôme (northwest)
+
+
+
+Administration
+Alpes-de-Haute-Provence is managed by the ''Departamental Council of Alpes-de-Haute-Provence'' in Digne-les-Bains. The department is part of the Provence-Alpes-Côte d'Azur region.
+
+=Administrative divisions=
+There are 4 Arrondissements of France|''arrondissements'' (districts), 15 Cantons in France|''cantons'' and 198 Communes in France|''communes'' (Municipality|municipalities) in Alpes-de-Haute-Provence.
+
+
+
+
+
+The following is a list of the 15 Cantons of France|cantons of the '''Alpes-de-Haute-Provence''' department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Barcelonnette|Barcelonnette (0401)
+# Canton of Castellane|Castellane (0402)
+# Canton of Château-Arnoux-Saint-Auban|Château-Arnoux-Saint-Auban (0403)
+# Canton of Digne-les-Bains-1|Digne-les-Bains-1 (0404)
+# Canton of Digne-les-Bains-2|Digne-les-Bains-2 (0405)
+# Canton of Forcalquier|Forcalquier (0406)
+# Canton of Manosque-1|Manosque-1 (0407)
+# Canton of Manosque-2|Manosque-2 (0408)
+# Canton of Manosque-3|Manosque-3 (0409)
+# Canton of Oraison|Oraison (0410)
+# Canton of Reillanne|Reillanne (0411)
+# Canton of Riez|Riez (0412)
+# Canton of Seyne|Seyne (0413)
+# Canton of Sisteron|Sisteron (0414)
+# Canton of Valensole|Valensole (0415)
+
+
+Demographics
+The inhabitants of Alpes-de-Haute-Provence are known, in French language|French, as ''Bas-Alpins'' (women: ''Bas-Alpines''), referring to the department of ''Basses-Alpes'' which was the former name of the department until 13 April 1970.
+
+Alpes-de-Haute-Provence had a population, in 2014, of 161,588, for a population density of  inhabitants/km2. The ''arrondissement'' of Forcalquier, with 88,333 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Alpes-de-Haute-Provence'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:180000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:20000 start:0
+ScaleMinor = gridcolor:lightgrey increment:10000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2006 text:2006
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 104813
+ bar:1975 from:0 till: 112178
+ bar:1982 from:0 till: 119068
+ bar:1990 from:0 till: 130883
+ bar:1999 from:0 till: 139561
+ bar:2006 from:0 till: 154501
+ bar:2014 from:0 till: 161588
+
+PlotData=
+ bar:1968 at: 104813 fontsize:S text: 104,813 shift:(-12,5)
+ bar:1975 at: 112178 fontsize:S text: 112,178 shift:(-18,5)
+ bar:1982 at: 119068 fontsize:S text: 119,068 shift:(-18,5)
+ bar:1990 at: 130883 fontsize:S text: 130,883 shift:(-18,5)
+ bar:1999 at: 139561 fontsize:S text: 139,561 shift:(-18,5)
+ bar:2006 at: 154501 fontsize:S text: 154,501 shift:(-18,10)
+ bar:2014 at: 161588 fontsize:S text: 161,588 shift:(-18,5)
+
+
+
+The 10 ''Communes of France|communes'' in the department with more inhabitants are:
+
+
+
+
+Gallery
+
+File:Digne Gassendi et cathédrale Saint-Jérôme.jpg|Digne-les-Bains
+File:Vue forcalquier 2402.JPG|Forcalquier
+File:Sisteron (2452199561).jpg|Sisteron
+File:Gorges du Verdon 2010.jpg|Verdon river Canyon|gorge
+File:Chambeyron-lac du marinet.jpg|The Aiguille de Chambeyron
+
+
+Related pages
+ Arrondissements of the Alpes-de-Haute-Provence department
+ Communes of the Alpes-de-Haute-Provence department
+
+Category:Departments in Provence-Alpes-Côte d'Azur

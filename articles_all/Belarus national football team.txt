@@ -1,0 +1,40 @@
+{{Infobox national football team
+| Name               = Belarus
+| Badge              = 
+| FIFA Trigramme     = BLR
+| Nickname           = White Wings (, ''Belyya kryly'')
+| Association        = Football Federation of Belarus
+| Confederation      = UEFA (Europe)
+| Coach              = Igor Kriushenko
+| Captain            = Alyaksandr Martynovich
+| Most caps          = Alyaksandr Kulchy (102)
+| Top scorer         = Maksim Romaschenko (20)
+| Home Stadium       = Dinamo Stadium (Minsk)|Dinamo Stadium, Minsk
+| FIFA Rank          = 
+| FIFA max           = 36
+| FIFA max date      = February 2011
+| FIFA min           = 142
+| FIFA min date      = March 1994
+| Elo Rank           = 
+| Elo max            = 47
+| Elo max date       = 17 November 2010
+| Elo min            = 122
+| Elo min date       = 1997–1998
+| pattern_la1=_blr18h|pattern_b1=_blr18h|pattern_ra1=_blr18h
+| pattern_sh1=_blr18h|pattern_so1=_blr18h
+| leftarm1=FFFFFF|body1=FFFFFF|rightarm1=FFFFFF|shorts1=FFFFFF|socks1=FFFFFF
+| pattern_la2=_blr18a|pattern_b2=_blr18a|pattern_ra2=_blr18a
+| pattern_sh2=_blr18a|pattern_so2=_blr18a
+| leftarm2=FF0000|body2=FF0000|rightarm2=FF0000|shorts2=FF0000|socks2=FF0000
+| First game         = Unofficial:(Minsk, Belarus; 28 October 1992)
+| Largest win        = (Minsk, Belarus; 8 September 2018)
+| Largest loss       = 
+'''Belarus national football team''' is the national football (soccer)|football team of Belarus.
+
+Most appearances
+
+
+Top scorers
+
+
+Category:Sport in Belarus

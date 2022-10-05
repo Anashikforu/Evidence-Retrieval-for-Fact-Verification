@@ -1,0 +1,37 @@
+
+{{Infobox
+| abovestyle = background:inherit
+| labelstyle = background:inherit;
+| belowstyle = background:inherit; text-align:right;
+| above   = England
+| image   = 
+| caption = 
+| label2  = First Test match
+| data2   = v  Australia national cricket team|Australia at Melbourne Cricket Ground, Melbourne, 15–19 March 1877
+| label3  = Test captain
+| data3   = Joe Root
+| label4  = ODI and Twenty20 captain
+| data4   = Eoin Morgan
+| label5  = Coach
+| data5   = Chris Silverwood
+| label6  = Current ICC ICC Test Championship|Test, ICC ODI Championship|ODI and ICC T20I Championship|T20I ranking
+| data6   = 4th (Test) 1st (ODI) 1st (T20I)
+| label7  = All-time best ICC ICC Test Championship|Test, ICC ODI Championship|ODI and ICC T20I Championship|T20I ranking
+| data7   = 1st (Test)  1st (ODI) 1st (T20I)
+| label8  = Test matches &nbsp;– This year
+| data8   = 1,030  44
+| label9  = Last Test match
+| data9   = vs  at Galle International Cricket Stadium, Galle, 22-25 January 2021
+| label10  = Wins/losses  &nbsp;– This year
+| data10   = 376/305  3/1
+| below   = As of 25 January 2021}}
+
+The '''England cricket team''' is the team that represents England and Wales in international cricket.Until 1992 it also represented Scotland Since 1 January 1997 it has been governed by the England and Wales Cricket Board (ECB), having been previously governed by Marylebone Cricket Club (MCC) from 1903 until the end of 1996.
+
+England and Australia national cricket team|Australia were the first teams to play a Test cricket|Test match (between 15 and 19 March 1877). These two countries plus South Africa national cricket team|South Africa formed the Imperial Cricket Conference (predecessor to today's International Cricket Council) on 15 June 1909. England and Australia also played the first One Day International (ODI) on 5 January 1971. England's first Twenty20 International (T20I) was played on 13 June 2005, once more against Australia.
+
+As of 25 January 2021, England has played 1,030 Test matches, winning 376 and losing 305 (with 349 draws). The team has won The Ashes on 32 occasions, the same number as their opponents Australia. They won the ICC World Twenty20 in 2010, and were runners-up in 2016.
+
+England are currently ranked fourth in Tests, first in ODIs and first in T20Is by the ICC.
+
+Category:1877 establishments in the United Kingdom

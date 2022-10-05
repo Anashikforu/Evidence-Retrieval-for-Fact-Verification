@@ -1,0 +1,36 @@
+{{Infobox UK place 
+ | official_name=         Melbourne
+ | country=               England
+ | static_image = Melbourne Church.jpg
+ | static_image_caption = The church was built in 1120
+ | region=                East Midlands
+ | population = 6,500
+ | population_ref = +          
+ | os_grid_reference=     SK385255
+ | latitude=              52.823
+ | longitude=             -1.429 
+ | post_town=             DERBY
+ | postcode_area=         DE
+ | postcode_district=     DE73
+ | dial_code=             01332
+ | constituency_westminster=  South Derbyshire
+ | civil_parish=         
+ | shire_district=South Derbyshire
+ | shire_county=Derbyshire
+ | hide_services= yes 
+ }}
+
+'''Melbourne''' is a town in south Derbyshire, England. 6,500 people live in Melbourne. It is eight miles south of Derby and two miles from the River Trent.
+Melbourne|Melbourne in Australia is named after the Prime Minister, William Lamb, 2nd Viscount Melbourne|Viscount Melbourne. His family home was in Melbourne.
+
+History
+Melbourne belonged to William the Conqueror|King William in 1086. William I owned a few places like Melbourne and Weston-on-Trent. The church was built in 1120.
+A castle was built in Melbourne in 1311. The Duke of Bourbon was a prisoner at the castle after the Battle of Agincourt in 1416.
+People born here
+ Thomas Cook, Travel Agent.
+ William Lamb, 2nd Viscount Melbourne|Viscount Melbourne British Prime Minister.
+
+Today
+The Town Band play at Melbourne's events. These events are the carnival and carols at Christmas.
+
+Category:Market towns in England

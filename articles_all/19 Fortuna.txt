@@ -1,0 +1,40 @@
+
+{{Infobox Planet   | bgcolour=#FFFFC0 | name=19 Fortuna
+ | discoverer=John Russell Hind
+ | discovered=August 22, 1852
+ | alt_names=A902 UG
+ | mp_category=Main belt
+ | epoch=October 22, 2004 (Julian day|JD 2453300.5)
+ | semimajor=365.235 Giga|Gmetre|m (2.441 Astronomical unit|AU)
+ | perihelion=307.028 Gm (2.052 AU)
+ | aphelion=423.443 Gm (2.831 AU)
+ | eccentricity=0.159
+ | period=1393.378 day|d (3.81 Julian year (astronomy)|a)
+ | inclination=1.573degree (angle)|°
+ | asc_node=211.379°
+ | arg_peri=182.091°
+ | mean_anomaly=268.398°
+ | avg_speed=18.94 km/second|s
+ | dimensions=225.0 km
+ | mass=~1.2 kilogram|kg
+ | density=2.0? g/cubic centimetre|cm³
+ | surface_grav=~0.0629 m/s²
+ | escape_velocity=~0.1190 km/s
+ | rotation=0.3101 d (7.445 hour|h)
+ | spectral_type=G-type asteroid|G
+ | magnitude = 8.88  to 12.95
+ | abs_magnitude=7.13
+ | albedo=0.037
+ | angular_size = 0.25"  to 0.072"
+ | single_temperature=~180 kelvin|K}}
+'''19 Fortuna''' is one of the biggest Asteroid belt|main belt asteroids. It is made up of stuff similar to 1 Ceres: a darkly colored surface that is heavily space weathering|space weathered and made up of primitive organic compounds, including tholins.
+
+Fortuna is 225&nbsp;km in diameter and has one of the darkest known geometric Albedo#Astronomical albedo|albedos for an asteroid over 150&nbsp;km in diameter. Its albedo has been measured at 0.028 and 0.037.
+
+The Hubble Space Telescope saw Fortuna in 1993. It was resolved with an apparent diameter of 0.20 arcseconds (4.5 pixels in the Planetary Camera) and its shape was found to be nearly spherical. Satellite (natural)|Moons were searched for but none were detected.
+
+Star|Stellar occultations by Fortuna have been seen several times.
+
+It was found by John Russell Hind|J. R. Hind on August 22, 1852 and named after Fortuna (luck)|Fortuna, the Roman mythology|Roman goddess of luck.
+
+Category:Asteroids

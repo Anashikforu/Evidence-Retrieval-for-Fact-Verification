@@ -1,0 +1,30 @@
+
+{{Taxobox
+| name = ''Sauroposeidon''
+| fossil_range = Lower Cretaceous
+| image = Sauroposeidon dinosaur.svg
+| image_width = 200px
+| regnum = Animalia
+| classis = Sauropsida
+| superordo = Dinosauria
+| ordo = Saurischia
+| subordo = Sauropodomorpha
+| infraordo = Sauropoda
+| familia = Brachiosauridae
+| genus = '''''Sauroposeidon'''''
+| genus_authority = Wedel ''et al.'', 2000}}
+
+'''''Sauroposeidon''''' is a genus of sauropod dinosaur found in Oklahoma. It is one of the biggest dinosaur yet found.
+
+ Habit and diet 
+Sauroposeidon lived in what was then a river delta flowing into the Bay of Mexico. It was a plant-eater that probably ate Leaf|leaves from the tops of trees, perhaps conifers and early flowering trees like magnolia (tree)|magnolias, Arecaceae|palms, and sycamores.
+
+ Estimations 
+Estimates of ''Sauroposeidon'''s size are based on a comparison between the four ''Sauroposeidon'' vertebrae and the vertebrae of the HM SII specimen of ''Giraffatitan'' in the Humboldt Museum in Berlin. The HM SII is the most complete brachiosaur known. Comparisons to the other relatives of ''Sauroposeidon'' are difficult due to limited remains. Wedel, Mathew J; Cifelli R.L. and Sanders R..K. 2000. Osteology, paleobiology, and relationships of the sauropod dinosaur Sauroposeidon. ''Acta Palaeontologica Polonica'' '''45''': 343–3888.
+
+The neck length of ''Sauroposeidon'' is estimated at  for the HM SII ''Giraffatitan''. This is based on the assumption that the rest of the neck has the same proportions as ''Giraffatitan'', which is a reasonably good conjecture.
+
+''Sauroposeidon'' was probably able to raise its head  into the air.
+
+''Sauroposeidon's'' shoulder height has been estimated at .Wedel, Mathew J & Cifelli, Richard L. 2005. Sauroposeidon: Oklahoma's Native Giant. ''Oklahoma Geology Notes'' '''65''' (2): 40–57. 
+Category:Brachiosaurs

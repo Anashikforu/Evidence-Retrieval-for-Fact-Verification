@@ -1,0 +1,27 @@
+{{Taxobox
+| name = Black-headed Grosbeak
+| status = LC | status_system = IUCN3.1
+| image = Black-headed Grosbeak Juvenile.jpg
+| image_caption =
+| image2 = Pheucticus melanocephalus vocalizations - pone.0027052.s007.oga
+| regnum = Animalia
+| classis = bird|Aves
+| ordo = Passeriformes
+| familia = Cardinalidae
+| genus = ''Pheucticus''
+| binomial = ''Pheucticus melanocephalus''
+| binomial_authority = (William John Swainson|Swainson, 1827)
+| range_map = BlackHeadedGrosBeakMap2.JPG}}
+
+The '''black-headed grosbeak''' (''Pheucticus melanocephalus'') is a species of bird. It wikt:belong|belongs in the Family (biology)|family Cardinalidae. It is a medium-sized, seed-eating bird. It is 18–19&nbsp;cm long. It weights 35-49&nbsp;g.
+
+The black-headed grosbeak is a migration|migratory bird. It has bird nest|nesting grounds from southwestern British Columbia, through the western half of the United States, into central Mexico. It occurs as an introduced species further south in Central America.
+
+Other websites
+
+
+ 
+
+
+
+Category:Passeriformes

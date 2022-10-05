@@ -1,0 +1,47 @@
+
+
+
+'''Linux''' is an operating system kernel (computer science)|kernel used by a group of Unix-like operating systems.  These are known as Linux operating systems.
+
+The '''Linux kernel''' is released with the GNU General Public License version 2 (GPLv2) and developed by programmers worldwide.
+
+ History 
+In April 1991, Linus Torvalds, then 21 years old, started working on some simple ideas for an operating system. Then, on 25 August 1991, Torvalds posted to ''comp.os.minix'':
+
+
+{{cquote|I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones. This has been brewing since April, and is starting to get ready. I'd like any feedback on things people like/dislike in minix, as my OS resembles it somewhat (same physical layout of the file-system (due to practical reasons) among other things).
+
+
+After the post, many people contributed code to the project. By September 1991, Linux version 0.01 was released. It had 10,239 lines of code. In October 1991, Linux version 0.02 was released.
+
+A newsgroup ''alt.os.linux'' was started, and on January 19, 1992, the first post to alt.os.linux was made.
+
+The Delete link|X Window System was soon moved to Linux.  In March 1992, Linux version 0.95 was the first to be capable of running X. This large version number jump (from 0.1x to 0.9x) was because of a feeling that a version 1.0 with no major missing parts would be released soon.
+
+On March 14, 1994, Linux 1.0.0 was released, with 176,250 lines of code. In March 1995, Linux 1.2.0 was released (310,950 lines of code).
+
+Linus decided, on May 9, 1996, to adopt Tux the penguin as mascot for Linux.
+
+Version 2 of Linux, released on June 9, 1996, was a landmark.  Strong development continued:
+ January 25, 1999 - Linux 2.2.0 was released (1,800,847 lines of code).
+ December 18, 1999 - IBM mainframe patches for 2.2.13 were published, allowing Linux to be used on enterprise-class machines.
+ January 4, 2001 - Linux 2.4.0 was released (3,377,902 lines of code).
+ December 17, 2003 - Linux 2.6.0 was released (5,929,913 lines of code).
+ April 16, 2008 - Linux 2.6.25 was released (9,232,484 lines of code)." May 31, 2019 - Linux 5.1.6 was released.
+
+Currently a new kernel version is released in every 2 3/4 months.
+ Legal aspects 
+= Licensing terms =
+In the start, Torvalds released Linux under a license which did not allow anyone to sell it. This was soon changed to the GNU General Public License (GPL), during version 0.12. This license allows distribution and sale of modified and unmodified versions of Linux but requires that all those copies be released under the same license and be accompanied by the complete corresponding source code.
+
+Torvalds has said licensing Linux under the GPL as the "best thing I ever did."
+
+Related pages
+ menuconfig
+ Git (software)
+ Modprobe
+ System.map
+ User space
+ Userspace header
+
+Category:Linux

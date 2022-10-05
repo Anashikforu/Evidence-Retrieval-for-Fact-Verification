@@ -1,0 +1,24 @@
+'''Exponentiating by squaring''' is an algorithm. It is used for quickly working out large integer powers of a number. It is also known as the '''square-and-multiply''' algorithm or '''binary exponentiation'''. It uses the binary numeral system|binary expansion of the exponent. It is of quite general use, for example in modular arithmetic. 
+
+The algorithm is believed to have first been documented in the Sanskrit book ''Chandah-sûtra'', about 200 BC.
+
+Squaring algorithm
+
+The following recursion|recursive algorithm computes ''x''''n'' for a positive number|positive integer ''n'' where n > 0:
+
+:
+\mbox{Power}(x,\,n)=
+  \begin{cases} x, & \mbox{if }n\mbox{ = 1} \\ 
+                \mbox{Power}(x^2,\,n/2), & \mbox{if }n\mbox{ is even} \\
+                x\times\mbox{Power}(x^2,\,(n-1)/2), & \mbox{if }n >\mbox{2 is odd}
+\end{cases}
+
+
+
+
+This algorithm is much faster than the ordinary method to compute such a value. Multiplying x by itself, n operations are needed to calculate ''x n''. With the method shown above, only logarithm|log2(n) operations are needed. 
+
+
+
+
+Category:Algorithms

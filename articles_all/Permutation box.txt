@@ -1,0 +1,9 @@
+In cryptography, a '''permutation box''' (or '''P-box''') is a wiktionary:Method|method of bit-shuffling used to permute or transpose bits (rearrange or swap the order of bits) across Substitution box|S-boxes inputs, maintaining Confusion and diffusion|diffusion while Transpose|transposing.
+
+
+In block ciphers, the S-boxes and P-Boxes are used to make the relation between the plaintext and the ciphertext difficult to understand (see Shannon's Confusion and diffusion|property of diffusion).
+
+Related pages
+ Substitution box|S-box
+ Substitution cipher
+

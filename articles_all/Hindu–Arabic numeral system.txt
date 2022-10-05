@@ -1,0 +1,6 @@
+
+The '''Hindu–Arabic numeral system''', sometimes known as '''Hindu–Arabic numbers''', is the system of numbers used by almost all the world today.Flegg, Graham 2002. ''Numbers: their history and meaning''. Courier Dover.  It is a positional notation system. This system has ten basic symbols, they are 0 (number)|0, 1 (number)|1, 2 (number)|2, 3 (number)|3, 4 (number)|4, 5 (number)|5, 6 (number)|6, 7 (number)|7, 8 (number)|8 and 9 (number)|9. It represent numbers in the decimal number system. The Hindu–Arabic numeral system was first developed by the Hindus. Later, It was introduced to the western world by the Arabs. The Hindu–Arabic numeral system is one of the few numeral systems that use a place value system. This system is now commonly used all over the world.
+
+They originated in India in the 6th or 7th century and were introduced to Europe through the writings of Middle Eastern mathematicians, especially al-Khwarizmi and al-Kindi, about the 12th century.  They are very different from previous methods of counting, such as the abacus, and paved the way for the development of algebra.  In the past many other systems were used.Menninger, Karl 1969. ''Number words and number symbols: a cultural history of numbers''. Cambridge MA: MIT Press.  Fibonacci popularized the Hindu–Arabic numeral system to the Western World.
+
+Category:Numerals

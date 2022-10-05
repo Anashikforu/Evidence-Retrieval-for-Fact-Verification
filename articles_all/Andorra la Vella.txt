@@ -1,0 +1,74 @@
+
+'''Andorra la Vella''' is the capital city of the principality of Andorra and is one of the seven Parishes of Andorra|parishes of Andorra. It is in the southwestern part of the country.
+
+Geography
+The Andorra la Vella parish is in the southwestern part of the country at the confluence of two mountain streams, the ''Valira del Nord'' (Northern Valira) and the ''Valira de l'Orient'' (Eastern Valira), which join to form the Gran Valira that flows through the capital city.
+
+The parish borders with the La Massana parish to the north, with the Escaldes-Engordany parish to the east, with the Sant Julià de Lòria parish to the south and with Spain to the west.
+
+
+
+The highest mountain in the parish is ''Pic d'Os'' ( above sea level; it is on the border with the Sant Julià de Lòria parish and Spain.
+
+At 1023 m (3,356 ft) above sea level, it is the highest capital in Europe.
+
+Population
+The parish had a population, in 2015,  of 22,886 inhabitants, for a population density of  persons/km².
+
+
+'''Evolution of the population in Andorra la Vella'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+ImageSize  = width:400 height:373
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:28000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:4000 start:0
+ScaleMinor = gridcolor:lightgrey increment:2000 start:0
+BackgroundColors = canvas:sfondo
+BarData=
+  bar:1981 text:1981
+  bar:1986 text:1986
+  bar:1991 text:1991
+  bar:1996 text:1996
+  bar:2001 text:2001
+  bar:2006 text:2006
+  bar:2011 text:2011
+  bar:2015 text:2015
+PlotData=
+  color:barra width:20 align:left
+  bar:1981 from:0 till: 14783 	
+  bar:1986 from:0 till: 18463
+  bar:1991 from:0 till: 22205
+  bar:1996 from:0 till: 21721
+  bar:2001 from:0 till: 20787
+  bar:2006 from:0 till: 24211
+  bar:2011 from:0 till: 22256
+  bar:2015 from:0 till: 22886
+PlotData=
+ bar:1981 at: 14783 fontsize:S text: 14,783 shift:(-10,5)
+ bar:1986 at: 18463 fontsize:S text: 18,463 shift:(-16,5)
+ bar:1991 at: 22205 fontsize:S text: 22,205 shift:(-16,5)
+ bar:1996 at: 21721 fontsize:S text: 21,721 shift:(-16,5)
+ bar:2001 at: 20787 fontsize:S text: 20,787 shift:(-16,5)
+ bar:2006 at: 24211 fontsize:S text: 24,211 shift:(-16,5)
+ bar:2011 at: 22256 fontsize:S text: 22,256 shift:(-16,5)
+ bar:2015 at: 22886 fontsize:S text: 22,886 shift:(-16,5)
+
+
+
+Villages
+The urban areas in the parish are:
+
+
+
+Economy
+Andorra la Vella is the country's commercial centre. The city is also the centre for many banks and businesses. The state is not a member of the European Union, but has a customs arrangement with the EU, and uses the euro.
+
+Category:Parishes of Andorra

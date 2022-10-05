@@ -1,0 +1,52 @@
+
+
+
+The '''''Orthomyxoviridae''''' (''orthos'', Greek language|Greek for "straight"; ''myxa'', Greek for "mucus")
+The three genera of Influenzavirus can be told apart by the structure of their proteins. They infect vertebrates, as follows:
+ Influenzavirus A cause of all flu pandemics and infect humans, other mammals and birds
+ Influenzavirus B infect humans and pinniped|seals
+ Influenzavirus C infect humans and pigs
+
+ Types 
+
+There are three genera of influenza virus: Influenzavirus A, Influenzavirus B and Influenzavirus C. Each genus includes only one species, or type: Influenza A virus, Influenza B virus, and Influenza C virus, respectively. Influenza A and C infect multiple species, while influenza B almost exclusively infects humans.
+
+= Influenza A =
+
+
+
+Influenza A viruses are further classified, based on the viral surface proteins hemagglutinin (HA or H) and neuraminidase (NA or N). Eighteen H subtypes (or serotypes) and eleven N subtypes of influenza A virus have been identified.
+
+
+
+Further variation exists; thus, specific influenza strain isolates are identified by a standard nomenclature specifying virus type, geographical location where first isolated, sequential number of isolation, year of isolation, and HA and NA subtype.
+
+Examples of the nomenclature are: 
+# A/Moscow/10/99 (H3N2)
+# B/Hong Kong/330/2001
+
+The type A viruses are the most virulent human pathogens among the three influenza types and causes the most severe disease. The serotypes that have been confirmed in humans, ordered by the number of known human pandemic deaths, are:
+
+ H1N1 caused "Spanish Flu".
+ H2N2 caused "Asian Flu".
+ H3N2 caused "Hong Kong Flu".
+ H5N1 is a pandemic threat in 2006-7 flu season.
+ H7N7 has unusual zoonotic potential.
+ H1N2 is endemic in humans and pigs.
+ H9N2, H7N2, H7N3, H10N7.
+
+
+
+= Influenza B =
+
+
+
+Influenza B virus is almost exclusively a human pathogen, and is less common than influenza A. The only other animal known to be susceptible to influenza B infection is the seal.
+
+= Influenza C =
+
+
+
+The influenza C virus infects humans and pigs, and can cause severe illness and local epidemics.
+
+Category:Viruses

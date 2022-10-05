@@ -1,0 +1,1 @@
+#frbanner, #frbanner2 { display: none !important; }

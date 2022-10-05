@@ -1,0 +1,21 @@
+{{Taxobox
+| name = Hynobius amjiensis
+| image = 
+| status = CR
+| status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Amphibia
+| ordo = Caudata
+| familia = Hynobiidae
+| genus = ''Hynobius''
+| species = '''''H. amjiensis'''''
+| binomial = ''Hynobius amjiensis''
+| binomial_authority = Gu, 1992
+| synonyms = }}
+'''''Hynobius amjiensis''''' is a kind of salamander in the Hynobiidae Family (biology)|family of animals.  It can only be found in China.  It lives in swamps and freshwater marshes.  It is very endangered and it could become extinct because of habitat loss. 
+
+
+
+
+Category:Hynobius

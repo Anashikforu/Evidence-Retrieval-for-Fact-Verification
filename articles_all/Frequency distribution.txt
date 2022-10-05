@@ -1,0 +1,18 @@
+
+
+
+In statistics, a '''frequency distribution''' is a list of the values that a variable takes in a Sampling (statistics)|sample. It is usually a list, ordered by quantity. It will show the number of times each value appears. For example, if 100 people rate a five-point Likert scale assessing their agreement with a statement on a scale on which 1 denotes strong agreement and 5 strong disagreement, the frequency distribution of their responses might look like:
+
+
+
+ Applications 
+Managing and operating on frequency tabulated data is much simpler than operation on raw data. There are simple algorithms to calculate median, mean (statistics), standard deviation etc. from these tables.
+
+Statistical hypothesis testing is based on the assessment of differences and similarities between frequency distributions. This assessment involves measures of Measures of central tendency|central tendency or averages, such as the mean (statistics)|mean and median, and measures of variability or statistical dispersion, such as the standard deviation or variance.
+
+A frequency distribution is said to be Skewness|skewed when its mean and median are different. The kurtosis of a frequency distribution is the concentration of scores at the mean, or how peaked the distribution appears if depicted graphically—for example, in a histogram. If the distribution is more peaked than the normal distribution it is said to be leptokurtic; if less peaked it is said to be platykurtic.
+
+Frequency distributions are also used in frequency analysis (cryptanalysis)|frequency analysis to crack codes and refer to the relative frequency of letters in different languages.
+
+
+Category:Statistics

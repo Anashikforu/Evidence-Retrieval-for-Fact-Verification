@@ -1,0 +1,12 @@
+{{Infobox London station| name = Oakwood  | image_name =oakwood tube station better.jpg | manager = London Underground | fare_zone = 5 | locale = Oakwood, London|Oakwood | borough = London Borough of Enfield|Enfield | years1=1933 | events1=Opened (Piccadilly Line) | platforms= 2 
+
+| tubeexits07 =  2.612 
+| tubeexits08 =  2.840
+| tubeexits09 =  2.915
+| access = yes | access_note = 
+'''Oakwood''' is a London Underground station on the Piccadilly Line. It is the second most northerly station on the line, between Southgate tube station|Southgate and Cockfosters tube station|Cockfosters stations, and is in Travelcard Zone 5.  The station is on the edge of the Oakwood, London|Oakwood area of London Borough of Enfield|Enfield (postcode|N14) and is at the junction of Bramley Road (A110 road (England)|A110) and Chase Road (the other end of Chase Road is close to Southgate tube station).
+
+Related pages
+List of London Underground stations
+
+Category:Charles Holden buildings

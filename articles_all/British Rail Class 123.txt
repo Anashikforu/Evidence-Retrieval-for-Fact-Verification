@@ -1,0 +1,30 @@
+{{Infobox DMU
+|name = British Rail Class 123 
+|image = 
+|imagesize = 300px
+|background = #0033cc
+|caption = 
+|Manufacturer = Swindon Works|BR Swindon Works
+|Operator = British Rail
+|Formation = unknown 
+|Built =1963 
+|LinesServed = 
+|InService = 1963-
+|CarLength = 64 ft 11 1/4 in
+|CarWidth = 9 ft 3 in 
+|CarHeight = 12 ft 9 1/2 in
+|Weight = 41 tons 14 cwt
+|Capacity = 
+|MaxSpeed = 70 mph (112 km/h) 
+|Gauge = 
+|Traction = 
+|Engine =
+|SafetySystem=
+ |}}
+The '''Class 123''' was a design of Diesel Multiple Unit built for British Rail in 1963. They were built by British Rail at Swindon Works, and designed like all Swindon units as inter-city sets. Ten of the four-car sets were built and introduced in 1963. The units bear a visible similarity to the British Rail Class 309, however there is no 'relation' here as the two types were built by different manufacturers for different markets.
+
+
+
+
+
+Category:British Rail diesel multiple units|123

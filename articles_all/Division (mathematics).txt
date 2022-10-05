@@ -1,0 +1,61 @@
+
+In mathematics, the word "'''division'''" means the Operation (mathematics)|operation which is the opposite of multiplication. The symbols for division are the slash (/) and the Fraction (mathematics)|fraction line, as in:
+
+: 6/3  or  \frac 63
+
+where each of the three expressions means "6 divided by 3", with 2 as the answer. The first number is the '''dividend''' (6), and the second number is the '''divisor''' (3). The result (or answer) of a division is the quotient, where any left-over amount as Integer|whole numbers is called the "remainder". For example, 14/4 gives quotient 3 with remainder 2, all expressed as the mixed number 3\frac12 or 3.5).
+
+The numbers involved in division can be very big, such as the case with two hundred: 200/5=40, or with 7 billion: 7,000,000,000/1000 = 7,000,000 (where the quotient is equal to 7 million).
+
+ With multiplication 
+If c times b equals a, written as:
+
+: c \cdot b = a
+
+where ''b'' is not zero, then a divided by ''b'' equals ''c'', written as:
+
+: \frac ab = c
+
+For instance,
+
+: \frac 63 = 2
+
+since
+
+: 2 \cdot 3 = 6.
+
+In the above expression, ''a'' is called the '''dividend''', ''b'' the '''divisor''' and ''c'' the '''quotient'''.
+
+Division by zero, as in
+
+: \frac x0
+
+is not defined.
+
+ Notation 
+Division is most often shown by placing the ''dividend'' over the ''divisor'' with a horizontal line, also called a Vinculum (symbol)|vinculum, between them. For example, a divided by b is written as
+
+: \frac ab
+
+This can be read as "a divided by b", or "a over b". A way to express division all on one line is to write the ''dividend'', then a Slash (punctuation)|slash, then the ''divisor'', like this:
+
+: a/b
+
+This is the usual way to specify division in most computer Programming language|programming languages, since it can easily be typed as a simple sequence of characters.
+
+A typographical variation which is halfway between these two forms uses a slash, but elevates the dividend and lowers the divisor:
+
+: ''a''⁄''b''
+
+Any of these forms can be used to display a Fraction (mathematics)|fraction. A fraction is a division expression where both dividend and divisor are Integer|integers (in which case, the two numbers are typically referred to as ''numerator'' and ''denominator''). A fraction is an accepted way of writing numbers. It is not always expected that the result of the division is written in decimals.
+
+In some non-English language|English-speaking cultures, "''a'' divided by ''b''" is written as a:b. However, in English-speaking countries the Colon (punctuation)|colon is restricted to expressing the related concept of Ratio|ratios (where a:b reads "''a'' is to ''b''").
+
+Related pages
+
+ Divisor, another meaning as a number which evenly divides an amount
+ Division by two
+ Long division
+ Modular arithmetic
+ Remainder
+

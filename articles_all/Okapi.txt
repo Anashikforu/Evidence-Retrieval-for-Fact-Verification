@@ -1,0 +1,42 @@
+{{Taxobox
+| name = Okapi
+| image = Okapi2.jpg
+| image_width = 250px
+| image_caption = An okapi at Walt Disney World|Disney's Disney's Animal Kingdom|Animal Kingdom
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Mammalia
+| ordo = Artiodactyla
+| familia = Giraffidae
+| genus = '''''Okapia'''''
+| range_map=Okapi_distribution.PNG
+| range_map_caption=Range map
+| genus_authority = Ray Lankester|Lankester, 1901
+| binomial = ''Okapia johnstoni''
+| binomial_authority = (P.L. Sclater, 1901)}}
+
+The '''okapi''' (''Okapia johnstoni'') is an even-toed ungulate mammal from central Africa. With the giraffe they form the family (biology)|family Giraffidae.
+
+ Appearance 
+The okapi has a reddish brown body, a whitish gray face, and white and black stripes on its legs. The okapi has a few features that show its link to giraffes. Its height is not as large as giraffes.
+
+ Life 
+Okapis live in the rainforests of central Africa, in the Democratic Republic of the Congo.
+
+They are mostly active during the day. Okapis eat mostly leaf|leaves and buds from trees, but also grass, ferns, fruit, and fungus|fungi.
+
+Okapis usually live alone. After 420 to 450 days of pregnancy the mother gives birth to one baby okapi, which drinks milk for up to 6 months. Okapis become mature when they are 4-5 years old. In captivity, okapis can live for 30 years or so.
+
+ Other information 
+The okapi was unknown and a mystery to western researchers for a long time. In the past, scientists thought that the okapi was a mix between the giraffe and the zebra.
+
+The ''International Society for Cryptozoology'' uses the okapi as its symbol, because the okapi was unknown for a long time. 
+
+ Other websites 
+ 
+
+
+
+
+Category:Even-toed ungulates
+Category:Mammals of Africa

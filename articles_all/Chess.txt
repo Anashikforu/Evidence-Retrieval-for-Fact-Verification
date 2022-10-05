@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+'''Chess''' is a board game for two players.Abate, Frank R. (ed) 1997. ''The Oxford desk dictionary and thesaurus''. 
+
+During the game, the two opponents take turns to move one of their pieces to a different square of the board. One player ('White') has pieces of a light color; the other player ('Black') has pieces of a dark color. There are rules about how pieces move, and about taking the opponent's pieces off the board. The player with white pieces always makes the first move. Because of this, White has a First-move advantage|small advantage, and wins more often than Black in tournament games.Chessgames 
+
+Chess is popular and is often played in competitions called chess tournaments. It is enjoyed in many countries, and is a national hobby in Russia.
+ History 
+
+
+
+Most historians agree that the game of chess was first played in northern India during the Gupta Empire in the 6th century AD.Hooper D. and Whyld K. 1992. ''The Oxford companion to chess''. 2nd ed, Oxford University Press. This early type of chess was known as ''Chaturanga'', a Sanskrit word for the military. The Gupta chess pieces were divided, like their military, into the infantry, cavalry, elephants, and chariots. Over time, these pieces became the pawn, knight, bishop, and rook. The English words ''chess'' and ''check'' both come from the Persian language|Persian word ''shāh'' meaning king.
+
+The earliest written evidence of chess is found in three Epic poetry|romances (epic stories) written in Sassanid Persia around 600AD. The game was known as ''chatrang'' or ''shatranj''. When Persia was taken over by Muslims (633–644) the game spread to all parts of the Muslim world. Muslim traders carried the game to Russia and Western Europe. By the year 1000, it had spread all across Europe. In the 13th century, a Spanish (language)|Spanish manuscript called ''Libro de los Juegos'' described the games of ''shatranj'' (chess), backgammon, and dice.Audubert, Pierre 1978. ''Das spanische Schachbuch des Königs Alfons des Weisen vom Jahr 1283''. Idion, Munchen.
+
+The game changed greatly between about 1470 to 1495. The rules of the older game were changed in the West so that some pieces (queen, bishop) had more scope, piece development was faster, and the game was more exciting. The new game formed the basis of modern international chess. Chess historians consider this to be the most important change since the game's invention.Eales, Richard. 1983. ''Chess: the history of a game''. Batsford, London.
+
+ Rules 
+The rules of chess are governed by the FIDE|World Chess Federation, which is known by the initials FIDE, meaning ''Fédération Internationale des Échecs''. The rules are in the section ''Laws of Chess'' of the ''FIDE Handbook''. FIDE also give rules and guidelines for chess tournaments.Reuben, Stewart 2005. ''The chess organiser's handbook''. 3rd ed, incorporating the FIDE Laws of Chess. Harding Simpole, Devon.
+
+= Setup =
+Chess is played on a square (geometry)|square board divided into eight rows of squares called List of chess terms#R|ranks and eight columns called List of chess terms#F|files, with a dark square in each player's lower left corner. There are 64 squares on a chess board. The colors of the squares are laid out in a checker (chequer) pattern with light and dark squares. To make speaking and writing about chess easy, each square has a name. Rank are numbered from 1 to 8, and each file is lettered from ''a'' to ''h''. The letter assigned to a file comes before the number assigned to a rank in chess notation. Every square on the board has its own label, such as g1 or f5. The pieces are in white and black sets. The players are called White and Black, and at the start of a game each player has 16 pieces. The 16 pieces are one king, one queen, two rooks, two bishops, two knights and eight pawns.
+
+= Movement =
+
+Definitions: vertical lines are ''files''; horizontal lines are ''ranks''; lines at 45° are ''diagonals''.
+Each piece has its own way of moving around the board. The ''X'' marks the squares where the piece can move.
+ The knight is the only piece that can jump over another piece.
+ No piece may move to a square occupied by a piece of the same color.
+ All pieces capture the same way they move, except pawns.
+
+
+
+Here is an example from the borderline between opening and middlegame. In the diagram to the left, White will mainly play on the queenside, while Black will play on the kingside.
+
+If White to play, he may wish to stop Black's threat of playing 10...Nf4. He can do this by playing 10.g3, or by playing 10.Re1 so that if 10...Nf4 11.Bf1 will preserve the bishop (in this position it is an important defensive piece). However, White may try to plough ahead with 10.c5, the key move on the queenside.
+
+ChessBase shows that the number of tournament games with these choices were:
+
+:10.Re1: 2198
+:10.g3: 419
+:10.c5: 416
+
+The database also shows that the overall results were significantly better for 10.Re1. During a middlegame, the player should note the features of the position on the board, and formulate a game plan. The opponent will try to interfere with the plan or gain counterplay.
+
+= Endgame =
+The endgame is the part of the game when there are few pieces left on the board. There are three main strategy|strategic differences between earlier parts of the game and the endgame:
+
+ ''Pawns'': during the endgame, pawns become decisive in the result of a game. In the endgame, both players try to wikt:promote|promote their pawns by advancing them to the first or last ranks, depending on which side is advancing. When a pawn reaches the end of the board, it can promote to a queen; this action is called queening. It can also promote to a rook, knight, or bishop, called underpromotion, which may be favorable under certain circumstances.
+ ''Kings'': becomes a strong piece in the endgame. The king can be brought towards the center of the board. There, it can support its own pawns, attack the opponent's pawns, and oppose the opponent's king.
+ ''Draws'': in the endgame, a game may be drawn because there are too few pieces on the board to allow a player to win.
+
+Endgame positions are easier to analyze than middlegames, as there are less piece on the board. Many endgame positions can be won by force. A drawn endgame is one that is legally drawn (checkmate is impossible), or drawn by chess experience (drawn with best play by both sides). All endgames in master chess revolve around the borderline between winning and drawing. Generally, once a 'textbook' drawn position is reached, the players will agree a draw.
+
+Endgames can be Study Skills|studied according to the types of pieces that remain on the board. For example, king and pawn endgames have only kings and pawns on one or both sides, and the task of the stronger side is to promote one of the pawns. Other endings are studied according to the pieces on board other than kings, e.g. rook and pawn versus rook endgame.
+
+ Basic checkmates 
+Basic checkmates are positions in which one side has only a king and the other side has one or two pieces, enough to checkmate the opponent's king. They are usually learned at the beginner stage. Examples are mate with K+Q v K; K+R v K; K+2B v K; K+B&N v K (this one is quite difficult).
+
+ Chess and computers 
+
+There are two types of chess programs. One is to play against you; the other is to help you become a better player by learning more. The two types can be made to work together, though they have different functions.
+
+= Chess engines =
+Chess engines are computer systems that can play chess games against human opponents. Quite a number have been devised; they can play at master level, though their processes are quite different from a human being.p87
+
+Every year brings new advances, which if listed here would soon be out of date. Best advice is to go to English Wikipedia, which keeps an up-to-date chart of the leading software: 
+= Chess databases =
+Chess databases give access to the recorded history of master chess games. There are two components: software, which lets one search and organise the database material, and the actual database. There are usually over a million games in a given database.
+
+In practice, databases are used for two purposes. First, for a player to train his/her ability at specific openings. Second, to look up specific opponents to see what they play, and prepare against them beforehand.
+
+The existence of chess databases is one of the reasons players can achieve mastery at an young age.
+
+ ChessBase 
+ChessBase is the biggest database, and widely used by masters. Although it can be used online, most users download the software and data onto their computer. If that computer happens to be a laptop, then they might take the laptop to tournaments to help prepare for games. Players cannot use computers or any other aid during games, so much of the preparation goes on before a game. ChessBase has to be purchased, and it is not cheap.
+
+ New in Chess 
+This is a Dutch magazine for advanced players, which runs an online database called NicBase as part of its services. NicBase is free, and has over a million games.NicBase 
+
+ Chessgames 
+Chessgames.com runs an online database of games. It is mostly free; full access to all its facilities costs a subscription. It has over half a million games on its database.
+
+= Online playing sites =
+There are websites which a player can join (for a fee) and play on line. In this case, the subscriber will play against other subscribers, not a computer. All standards of players are amongst the members, and various events are on offer at different rates of play. Online chess websites include:
+
+ Lichess
+ Chess.com
+ Internet Chess Club 
+ Playchess 
+
+Further reading
+ Burgess, Graham and John Nunn 1998. ''The mammoth book of the world's greatest chess games''. Carroll & Graf. 
+ Chandler, Murray 1998. ''How to beat your dad at chess''. Gambit, London.  (Improvers)
+ Chandler, Murray 2004. ''Chess for children''. Gambit, London.  (Beginners)
+ Max Euwe|Euwe, Max and Kramer H. 1994.  ''The middlegame'', books I and II. Hays.  This goes further than improvers need, but might be used by chess teachers as a source of classic positions.
+ King, Daniel 2000. ''Chess: from first moves to checkmate''. Kingfisher, London. Illustrated, 64 pages. (Beginners, children).
+ Polgar, Laszlo 2006. ''Chess: 5334 problems, combinations and games''. Illustr. ed, Black Dog & Leventhal. 
+ Pritchard, David Brine 2008. ''The right way to play chess''. 8th ed, Right Way.  (Beginners > impovers)
+ Silman, Jeremy 1997. ''How to reassess your chess''. 3rd ed expanded, Siles. 
+ 
+ Ward, Chris 1994. ''Opening play (think like a chess master)''. Batsford, London. 
+ Wolff, Patrick 2005. ''The complete idiot’s guide to chess''. 3rd ed, Alpha, New York. (Beginners > improvers)
+ Znosko-Borovsky, Eugene 1980. ''The middle game in chess''. Dover.  (Improvers > intermediate)
+
+= Endgames =
+These are endgames for improvers, based on reviews by John Watson.John Watson's reviews 
+ Flear, Glenn 2000. ''Improve your endgame play''. Everyman, London. 
+ Seirawan, Yasser 2003. ''Winning chess endings''. Everyman, London. 
+ Silman, Jeremy 2007. ''Silman's complete endgame course: from beginner to master''. Siles. 
+ Snape, Ian 2003. ''Chess endings made simple''. Gambit, London. 
+
+ Related pages 
+
+ List of World Chess Champions
+ List of chess terms
+ Chess Olympiad
+ History of chess
+ Middlegame
+ Shogi
+
+Category:Chess| 

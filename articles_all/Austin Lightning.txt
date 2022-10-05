@@ -1,0 +1,43 @@
+{{Infobox football club
+| clubname = Austin Lightning
+| fullname = Austin Lightning
+| nickname = The Lightning
+| founded  = 2002
+| dissolved = 2007
+| ground   = Tony Burger Center
+| capacity = 15,000
+| chairman = Pam Mimbela
+| manager  = Jaime Mimbela
+| league   = USL Premier Development League
+| season   = 2007 PDL Season|2007
+| position = 7th, Mid South Division
+| pattern_la1=
+| pattern_b1=
+| pattern_ra1=
+| leftarm1=ffffff
+| body1=ffffff
+| rightarm1=ffffff
+| shorts1=DD0000
+| socks1=ffffff
+| pattern_la2=
+| pattern_b2=_whitethinlines
+| pattern_ra2=
+| leftarm2=DD0000
+| body2=DD0000
+| rightarm2=DD0000
+| shorts2=DD0000
+| socks2=ffffff
+| }}
+The '''Austin Lightning''' is an amateur soccer team in Austin, Texas. It is in the Mid South division of the South Conference of the Premier Development League of the United Soccer Leagues.
+
+The club was founded in 2003, when it was moved from Lafayette, Louisiana. The team finished last in the division in the 2007 season, due in part to scheduling difficulties caused by record amounts of rain in Austin, which cause fields to be closed on match days. The Austin Lightning are coached by Jaime Mimbela. Their colors are red and white.
+
+Other websites
+  
+
+
+
+Category:Sports in Texas
+Category:2002 establishments in the United States
+Category:2007 disestablishments in the United States
+Category:Defunct American soccer teams

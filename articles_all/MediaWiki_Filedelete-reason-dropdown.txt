@@ -1,0 +1,4 @@
+Common delete reasons
+ Wikipedia:Copyrights|Copyright violation
+ Duplicate file
+ WP:QD#F1|QD F1: Wikipedia:Image use policy|No image uploads. Please use commons:|Wikimedia Commons instead.

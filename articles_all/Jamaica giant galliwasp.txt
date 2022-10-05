@@ -1,0 +1,18 @@
+{{Taxobox
+| name = Jamaica giant galliwasp
+| image = Celestus occiduus museum specimen.jpeg
+| status = EX
+| regnum = Animalia
+| classis = Reptilia
+| ordo = Squamata
+| familia = Anguidae
+| genus = ''Celestus''
+| binomial = ''Celestus occiduus''
+| binomial_authority = (George Shaw|Shaw, 1802)}}
+
+The '''Jamaica giant galliwasp''' ('''''Celestus occiduus''''') was a kind of lizard of the Anguidae family. It was only found in Jamaica, and it is now extinct.
+
+
+
+
+Category:Anguids

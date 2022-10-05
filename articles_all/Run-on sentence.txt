@@ -1,0 +1,13 @@
+A '''run-on sentence''' is a sentence in which two or more independent clauses (i.e complete sentences) are joined without an appropriate conjunction or mark of punctuation. For example: 
+:''It is nearly half past five we cannot reach town before dark.''
+This can be fixed in a number of different ways. Here are four of them:
+# ''It is nearly half past five. We cannot reach town before dark.'' (writing the run-on as two separate sentences)
+# ''It is nearly half past five; we cannot reach town before dark.'' (adding a semicolon between the two clauses)
+# ''It is nearly half past five, so we cannot reach town before dark.'' (using a comma with a conjunction) 
+# ''Since it is nearly half past five, we cannot reach town before dark.'' (turning one of the clauses into a dependent clause)
+
+A run-on sentence can be as short as 4 words, as long as it has 2 subjects and actions, making it an independent clause. For example: ''I drive she walks.'' One way to fix this is like this: ''I drive, but she walks.''
+
+
+Category:Punctuation
+Category:Sentences

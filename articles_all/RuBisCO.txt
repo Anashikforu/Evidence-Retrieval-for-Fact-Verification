@@ -1,0 +1,17 @@
+
+
+'''Ribulose-1,5-bisphosphate carboxylase oxygenase''', better known as '''RuBisCO''',{{#tag:ref|The term "Rubisco" was  coined humorously in 1979 by David Eisenberg at a seminar.  The abbreviation came from the full name ('''R'''ib'''u'''lose-1,5-'''bis'''phosphate '''c'''arboxylase/'''o'''xygenase). is an enzyme that catalyzes the first major step of carbon fixation in the Calvin cycle. Carbon fixation is a process by which the atoms of atmospheric carbon dioxide are made available to organisms in the form of fuel|energy-rich molecules such as glucose. RuBisCO splits 6-C molecules into two equal parts.
+
+RuBisCO is very important in biology and ecology because it catalyzes the primary chemical reaction by which Inorganic chemistry|inorganic carbon permanently enters the biosphere.
+
+RuBisCO is also the most abundant protein in leaf|leaves and the most abundant protein on Earth. It accounts for 50% of soluble leaf protein (20-30% of total leaf nitrogen) and 30% of soluble leaf protein in plants (5-9% of total leaf nitrogen).
+
+Given its important role in the biosphere, there are currently efforts to Genetic engineering|genetically engineer crop plants to contain more efficient RuBisCO.Ellis, R. John 2010. Biochemistry: tackling unintelligent design. ''Nature'' '''463''', 164-165 doi:10.1038/463164a  
+ Notes and references 
+;Notes
+
+;References
+
+
+Category:Biochemistry
+Category:Enzymes

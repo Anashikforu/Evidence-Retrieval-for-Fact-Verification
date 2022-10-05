@@ -1,0 +1,68 @@
+
+
+
+
+
+'''Neptune''' is the eighth and last planet from the Sun in the Solar System. It is an ice giant. It is the fourth largest planet and third weight|heaviest. Neptune has five rings which are hard to see from the Earth.
+
+Neptune has 17 times more mass than Earth, and has a little bit more mass than Uranus. Neptune is denser and physically smaller than Uranus. Its greater mass causes more gravitational compression of its atmosphere.
+
+It was named after the Roman mythology|Roman god of the sea, Neptune (mythology)|Neptune. Neptune's astronomical symbol is ♆, the trident of the god Neptune.
+
+Neptune's atmosphere is mostly made up of hydrogen and helium. It also contains small amounts of methane which makes the planet appear blue. Neptune's blue color is much darker than the color of Uranus (planet)|Uranus. Neptune also has the strongest winds of any planet in the Solar System, as high as 2,100&nbsp;km/h or 1,300&nbsp;mph.
+
+Astronomers Urbain Le Verrier and John Couch Adams discovered Neptune. It was the first planet to be discovered by mathematical calculations instead of a telescope. In 1821, it was found that Uranus' orbit had some differences from its expected orbit, which meant another planet was nearby. The reason for this was discovered to be Neptune.
+
+The planet has been visited by only one spacecraft, ''Voyager 2'' on 25 August 1989. Neptune once had a huge storm known as the "Great Dark Spot". The storm was discovered in 1989 by Voyager 2. The dark spot was not seen in 1994, and new spots were found since then. It is not known why the dark spot disappeared.  Visits by other space probes have been planned.
+
+ History 
+
+
+
+= Discovery =
+Galileo Galilei was the first person who saw Neptune. He saw it on 28 December 1612 and 27 January 1613. His drawings showed points near Jupiter where Neptune is placed.
+
+In 1821, Alexis Bouvard published the astronomical tables of the orbit of Uranus.A. Bouvard (1821), ''
+Heinrich d'Arrest, a student at the Berlin Observatory, suggested that a newly drawn map of the sky in the region of Le Verrier's predicted area could be compared with the current sky. This map was needed to look for the change of position of a planet, compared to a fixed star. Neptune was  discovered the same night on 23 September 1846. It was found 1° from where Le Verrier had thought it would be. It was about 10° from Adams' prediction. Challis later found out that he had seen the planet twice in August. He did not recognize it at the time because of his careless work approach. Neptune became the first planet to be discovered by mathematical calculations instead of a telescope.
+
+= Crediting and naming =
+When Neptune was discovered, there was also a lot of arguing between the French and the British. They could not agree who was going to receive credit for the discovery. Later, an international agreement decided that both Le Verrier and Adams together deserved credit. However, historians reviewed the topic after the rediscovery in 1998 of the "Neptune papers" (historical documents from the Royal Greenwich Observatory). It had seemingly been stolen and kept by astronomer Olin Eggen for nearly three decades and was only rediscovered (in his ownership) shortly after his death. After reviewing the documents, some historians now think that Adams does not deserve equal credit with Le Verrier.William Sheehan, Nicholas Kollerstrom, Craig B. Waff (December 2004). 
+Shortly after its discovery, Neptune was temporarily called "the planet exterior to Uranus" or "Le Verrier's planet". The first suggestion for a name came from Galle. He proposed the name ''Janus''. In England, Challis suggested the name ''Oceanus''. In France, François Jean Dominique Arago|Arago suggested that the new planet be called ''Leverrier'', a suggestion which was met with a lot of opposition outside France. French almanacs quickly reintroduced the name ''Herschel'' for ''Uranus'' and ''Leverrier'' for the new planet.
+
+Meanwhile, Adams suggested changing the name ''Georgian'' to ''Uranus'', while Leverrier (through the Board of Longitude) suggested ''Neptune'' for the new planet. Friedrich Georg Wilhelm von Struve|Struve gave support of that name on 29 December 1846, to the Saint Petersburg Academy of Sciences.
+
+ Structure 
+= Mass and composition =
+At 102.413kilogram|kg, It is given their smaller size and big differences in composition compared to Jupiter and Saturn (planet)|Saturn. In the search for extrasolar planets, Neptune has been used as a reference to determine the size and structure of the discovered planet. Some discovered planets that have similar masses like Neptune are often called "Neptunes." 
+
+The atmosphere of Neptune is made up mostly of hydrogen, with a smaller amount of helium. A tiny amount of methane was also detected in the atmosphere. The methane gives Neptune its blue color.
+
+Because of Neptune's far distance from the Sun, it gets very little heat. The average temperature on Neptune is about -201°Celsius|C (−331 °Fahrenheit|F; 72 Kelvin|K).., ''AAS/Division for Planetary Sciences Meeting Abstracts'', p. 53.07, September 1999McHugh, J. P., and Friedson, A. J., Neptune's Energy Crisis: Gravity Wave Heating of the Stratosphere of Neptune, ''Bulletin of the American Astronomical Society'', p.1078, September 1996
+
+The structure inside Neptune is thought to be similar to the structure inside Uranus.Hubbard, W.B. 1997. Neptune's deep chemistry. ''Science''. '''275''' (5304): 1279–80. There is likely to be a planetary core|core, thought to be about 15 Earth masses. This mixture is referred to as icy. It is called a water-ammonia ocean.Atreya, S.; Egeler, P.; Baines, K. (2006). "
+At a depth of 7,000&nbsp;km of Neptune, the conditions may be such that methane decomposes into diamond crystals. These diamond crystals look like hailstones.Kerr, Richard A. 1999. Neptune may crush methane into diamonds". ''Science''. '''286''' (5437): 25a–25.
+
+
+
+ Observation 
+Neptune can not be seen by just looking at the sky with the naked eye. To see it, a telescope or binoculars is needed. This is because Neptune has a normal brightness between Apparent magnitude|magnitudes +7.7 and +8.0. It can be out-shined by Jupiter (planet)|Jupiter's Galilean moons, the dwarf planet Ceres (dwarf planet)|Ceres, and the asteroids 4 Vesta, 2 Pallas, 7 Iris, 3 Juno and 6 Hebe.See the respective articles for magnitude data. A telescope or strong binoculars will show Neptune as a small blue dot that looks similar to Uranus. The blue color comes from the methane in its atmosphere.
+
+The average distance between Neptune and the Sun is about 4.5 billion km.
+
+ Exploration 
+
+
+
+Currently, only one spacecraft has visited Neptune. NASA's ''Voyager 2'' probe made a quick flyby of the planet with its closest encounter on 25 August 1989.
+
+One of ''Voyager 2'''s important discoveries was its very close fly-by of Triton (moon)|Triton, where it took pictures of several parts of the moon. It was later guessed to be a hole in the visible cloud deck."
+The pictures sent back to Earth from ''Voyager 2'' in 1989 became the basis of a PBS all-night program called ''Neptune All Night''.
+
+= Proposed missions =
+ Interstellar Express — A pair of probes by China National Space Administration|CNSA that would explore the heliosphere. The second would fly by Neptune in 2038 at a distance of 1,000&nbsp;km.Jones, Andrew (November 19, 2019).  ODINUS —  A mission idea based on a twin spacecraft mission to investigate the Neptunian and Uranus|Uranian systems. Launch date would be 2034.
+ OSS mission — A proposed joint flyby mission by European Space Agency|ESA and NASA. Its main focus would be to map the gravitational fields in deep space, including the Outer Solar System (up to 50 astronomical unit|AU).
+Triton Hopper — A NIAC study of a mission to Neptune with the goal of landing, and flying from site to site, on Neptune's moon Triton (moon)|Triton.
+Trident — A finalist in the Discovery program, would perform a single flyby of Neptune in 2038 and closely study its largest moon Triton.
+ Neptune Odyssey — an idea for a mission by NASA to observe Neptune's atmosphere and the weather on Neptune, as well as its moon Triton. It would launch in 2033 and arrive at Neptune in 2049.
+
+Category:Solar System planets

@@ -1,0 +1,11 @@
+
+|direction_b=East
+|terminus_b= in North Little Rock, Arkansas|North Little Rock, AR
+|states=Texas, Arkansas
+|counties= '''TX:''' Parker County, Texas|Parker, Tarrant County, Texas|Tarrant, Dallas County, Texas|Dallas, Rockwall County, Texas|Rockwall, Hunt County, Texas|Hunt, Hopkins County, Texas|Hopkins, Franklin County, Texas|Franklin, Titus County, Texas|Titus, Morris County, Texas|Morris, Bowie County, Texas|Bowie'''AR:''' Miller County, Arkansas|Miller, Hempstead County, Arkansas|Hempstead, Nevada County, Arkansas|Nevada, Clark County, Arkansas|Clark, Hot Spring County, Arkansas|Hot Spring, Saline County, Arkansas|Saline, Pulaski County, Arkansas|Pulaski
+|browse=
+
+}}
+'''Interstate 30''' is an Interstate Highway in the United States. It goes from the Fort Worth, Texas area east to Little Rock, Arkansas. The route is  long.
+
+Category:Interstate Highways|30

@@ -1,0 +1,32 @@
+{{Infobox Government agency
+|agency_name     = Commonwealth Scientific and Industrial Research Organisation
+|nativename      =
+|logo            = CSIRO Darwin.jpg
+|logo_width      = 136px
+|logo_caption    =
+|seal            =
+|seal_width      =
+|seal_caption    =
+|headquarters    = Canberra, Australian Capital Territory, Australia
+|formed          = 1926
+|preceding       =
+|dissolved       =
+|superseding     =
+|jurisdiction    = Commonwealth of Australia
+|employees       = 6600+
+|budget          =
+|minister1_name  =
+|minister1_pfo   =
+|chief1_name     = Megan Clark
+|chief1_position =
+|parent_agency   =
+|child1_agency   =
+|child2_agency   =
+|website         = |footnotes       = }}
+The '''Commonwealth Scientific and Industrial Research Organisation''' ('''CSIRO''') is the national government body for scientific research in Australia.  It was founded  in 1926 originally as the Advisory Council of Science and Industry.
+
+
+
+category:Government agencies of Australia
+Category:1926 establishments
+Category:1920s establishments in Australia

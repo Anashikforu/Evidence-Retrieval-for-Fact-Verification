@@ -1,0 +1,23 @@
+This page shows a list of all 118 chemical elements that have been identified.
+
+Legend
+
+'''Categories and subcategories in the metal&ndash;nonmetal range'''
+
+
+List
+
+
+Notes
+ The element does not have any stable nuclides, and a value in brackets, e.g. 209, indicates the mass number of the longest-lived isotope of the element. However, three elements, Thorium, Protactinium, and Uranium, have a characteristic terrestrial isotopic composition, and thus their atomic mass given.
+ The isotopic composition of this element varies in some geological specimens, and the variation may exceed the uncertainty stated in the table.
+ The isotopic composition of the element can vary in commercial materials, which can cause the atomic weight to deviate significantly from the given value.
+ The isotopic composition varies in terrestrial material such that a more precise atomic weight can not be given.
+ The atomic weight of commercial Lithium can vary between 6.939 and 6.996–analysis of the specific material is necessary to find a more accurate value.
+ This element does not solidify at a pressure of one atmosphere. The value listed above, 0.95 K, is the temperature at which helium does solidify at a pressure of 25 atmospheres.
+ This element sublimes at one atmosphere of pressure
+ The Transuranium element|transuranic elements 99 and above do not occur naturally, but some of them can be produced artificially.
+ The value listed is the conventional value suitable for trade and commerce. The actual value may differ depending on the isotopic composition of the sample. Analysis of the specific material is necessary to find a more accurate value.
+ Electronegativity on the Pauling scale. Standard symbol: χ
+
+Category:Chemistry lists|Elements

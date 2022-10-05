@@ -1,0 +1,98 @@
+{{Infobox Settlement
+
+
+
+|official_name          = City of Daly City
+|nickname               = Gateway to the Peninsula
+|settlement_type        = City
+|motto                  =
+
+
+|image_skyline          = Daly City.jpg
+|imagesize              = 250px
+|image_caption          = Part of Daly City with San Bruno Mountain and the San Francisco neighborhood  of Crocker Amazon in the background.
+|image_map              = San_Mateo_County_California_Incorporated_and_Unincorporated_areas_Daly_City_Highlighted.svg
+|mapsize                = 250x200px
+|map_caption            = Location in San Mateo County, California|San Mateo County and the state of California
+
+
+|subdivision_type       = Country
+|subdivision_name       = United States
+|subdivision_type1      = U.S. state|State
+|subdivision_name1      = California
+|subdivision_type2      = List of counties in California|County
+|subdivision_name2      = San Mateo County, California|San Mateo
+
+
+|government_footnotes   = 
+|government_type        = City
+|leader_title           = Mayor
+|leader_name            = Sal Torres|Gonzalo "Sal" Torres
+|leader_title1          = City council
+|leader_name1           = {{Collapsible list
+  |title = Council Members
+  |frame_style = border:none; padding: 0;
+  |list_style  = text-align:left;display:none;
+  |1  = Mike Guingona|Michael P. Guingona
+  |2  = Maggie A. Gomez
+  |3  = Carol L. Klatt
+  |4  = Carol L. Klatt
+  |5  = David J. Canepa
+  }}
+|leader_title2          = California State Assembly|State Assembly
+|leader_name2           = Fiona Ma (Democratic Party (United States)|D)Gene Mullin (Democratic Party (United States)|D)
+|leader_title3          = California State Senate|State Senate
+|leader_name3           = Leland Yee (Democratic Party (United States)|D)
+|leader_title4          = United States House of Representatives|U.S. House
+|leader_name4           = Jackie Speier (Democratic Party (United States)|D)
+|established_title      = Municipal corporation|IncorporatedGillespie, p.32 
+|established_date       = March 18, 1911
+|founder 	        = 
+|named_for              = John Donald Daly|John Daly
+
+
+|area_magnitude         = 
+|unit_pref              = Imperial
+|area_footnotes         = 
+|area_total_sq_mi       = 7.56
+|area_land_sq_mi        = 7.56
+|area_water_sq_mi       = 0.00
+|area_water_percent     = 0
+
+
+|elevation_footnotes    = 
+
+|elevation_m            = 57
+|elevation_ft           = 187
+
+
+|population_as_of       = 2000
+|population_footnotes   = 
+|population_note        = US Census Bureau
+|population_total       = 103621
+|population_est         = 98230
+|pop_est_as_of          = 2007
+|population_density_sq_mi = 13703.8
+
+
+|timezone1              = Pacific Time Zone|PST
+|utc_offset1            = -8
+|timezone1_DST          = PDT
+|utc_offset1_DST        = -7
+|coordinates = 
+
+
+|postal_code_type       = ZIP code
+|postal_code            = 94103-94107
+|area_code_type         = Telephone numbering plan|Area codes
+|area_code              = Area code 415|415, Area code 650|650
+|blank_name             = Federal Information Processing Standard|FIPS code
+|blank_info             = 06-17918
+|blank1_name            = Geographic Names Information System|GNIS feature ID
+|blank1_info            = 2410291
+|website                = |footnotes              = }}
+
+
+'''Daly City''' is a city in the U.S. State of California. It is a suburb of San Francisco. Many Filipinos|Filipino people live there.  The Bay Area Rapid Transit train stops there.
+
+Category:1910s establishments in California

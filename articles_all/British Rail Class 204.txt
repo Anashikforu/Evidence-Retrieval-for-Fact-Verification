@@ -1,0 +1,30 @@
+{{Infobox DMU
+|name = British Rail Class 204 
+|image = class_204_DEMU.jpg
+|imagesize = 300px
+|background = #0033cc
+|caption = 204004 pictured on arrival at Eastleigh on 28 August 1986
+|Manufacturer =
+|Operator = British Rail
+|Formation = unknown 
+|Built =
+|LinesServed = 
+|InService = 1957–
+|CarLength = 
+|CarWidth = 
+|CarHeight = 
+|Weight = 
+|Capacity = 
+|MaxSpeed = unknown 
+|Gauge = 
+|Traction = 
+|Engine = English Electric 4-cylinder type 4SRKT Mark II of  at 850 rpm 
+|SafetySystem=
+ |}}
+The British Rail '''Class 204''' diesel multiple units were two-car versions of the British Rail Class 205|Class 205 '3H' units. They were classified as 2H under the old system. Their unit numbers were in the range 1119-1122.
+
+
+
+
+
+Category:British Rail diesel multiple units|204

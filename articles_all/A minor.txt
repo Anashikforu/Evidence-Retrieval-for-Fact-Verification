@@ -1,0 +1,27 @@
+
+'''A minor''' (usually shortened to '''Am''') is a minor scale based on A major|A, which is made up of the pitches A, B, C, D, E, F, G, and A.  The harmonics (music)|harmonic minor scale raises the G to G♯ (musical note)|G. Its key signature has no sharp (music)|sharps or flat (music)|flats (''see below:'' #Scales and keys|Scales and keys).
+
+Its Relative key|relative major is C major, and its parallel major is A major. A scale (music)|scale in both A minor and C major can be played on a piano or other keyboard instrument using only the white keys.
+
+Changes needed for the melody|melodic and harmonic versions of the scale are written in with key signature|accidentals when needed.
+
+Most of the time key signatures were cancelled whenever the new key signature had fewer sharps or flats than the old key signature, in modern popular music, this is only done when C major or A minor replace another key.Matthew Nicholl & Richard Grudzinski, ''Music Notation: Preparing Scores and Parts'', ed. Jonathan Feist. Boston: Berklee Press (2007): 56. "In popular and commercial music, the old key signature is cancelled only if the new key is C major or A minor."
+
+ Well-known classical music in this key 
+
+''Violin Concerto in A minor (Bach)|Violin Concerto in A minor BWV1041'' - Bach|Johann Sebastian Bach
+''Piano Sonata No. 8 (Mozart)|Piano Sonata in A minor, K. 310'' - Mozart|Wolfgang Amadeus Mozart
+''Für Elise|Bagatelle in A minor "Für Elise"'' - Beethoven|Ludwig van Beethoven
+''Violin Sonata No. 4 (Beethoven)|Violin Sonata No. 4 Op.23'' - Beethoven|Ludwig van Beethoven
+''String Quartet No. 15 (Beethoven)|String Quartet No. 15 Op.132 '' - Beethoven|Ludwig van Beethoven
+Caprice No. 24 (Paganini) - Niccolo Paganini
+''Preludes (Chopin)|Prelude #2 in A minor, Op. 28 #2'' - Frédéric Chopin
+Piano Concerto (Schumann)|Piano Concerto in A Minor, Op. 54 - Robert Schumann
+Paganini Variations (Brahms)|Variations on a Theme by Paganini, Op. 35 - Johannes Brahms
+Piano Concerto (Grieg)|Piano Concerto in A Minor, Op. 16 - Edvard Grieg
+Oboe Concerto (Vaughan Williams)|Oboe Concerto in A Minor - Ralph Vaughan Williams
+Symphony No. 6 (Mahler)|Symphony No. 6 - Gustav Mahler
+Symphony No. 4 (Sibelius)|Symphony No. 4 - Jean Sibelius
+Rhapsody on a Theme by Paganini - Sergei Rachmaninoff
+
+Category:Minor scales

@@ -1,0 +1,157 @@
+
+
+'''Gironde''' () is a departments of France|department in the southwest of France. It is named after the Gironde estuary.
+
+The department is in the region of Nouvelle-Aquitaine. Its Prefectures in France|prefecture is Bordeaux.
+
+History
+Gironde was formed during the French Revolution on 4 March 1790 with parts of the old provinces of Guyenne and Gascony.
+
+From July 1793 to April 1795, the department's name was changed to '''Bec-d'Ambès''' to avoid the association with the Girondists, a France|French revolutionary Political faction|group.
+
+The department was divided into seven districts: Bordeaux, Libourne, La Réole, Bazas, Cadillac, Blaye and Lesparre. Its Capital (city)|capital was the city of Bordeaux.
+
+Geography
+Gironde is part of the Nouvelle-Aquitaine region, southwestern France, and is the largest department of Metropolitan France with an area of .
+
+There four main zones in the Gironde; they are:
+# the '''coastal zone''', including part of the ''Côte d'Argent'' ("Silver coast");
+# the '''forest''' that covers the western half of the department;
+# the '''''Bordelais''''', region around Bordeaux and where the different kinds of Bordeaux wines are produced; and
+# the '''''Bazadais''''', the region around the town of Bazas, in the soutwest of the department and where farming is very important.
+
+The department is bordered by the departments: Charente-Maritime, Dordogne, Lot-et-Garonne and Landes. The Atlantic Ocean (''Gulf of Biscay'') is to the west of the department.
+
+
+
+The main rivers in the department are the Dordogne (river)|Dordogne and the Garonne river|Garonne rivers; the two rivers form, after their confluence, the Gironde estuary, the largest estuary of France.
+
+= Climate =
+The climate in Bordeaux is Oceanic climate|Marine West Coast Climate (Köppen climate classification '''''Cfb'''''), with mild winters and warm summers.
+
+The average temperature for the year in Bordeaux is .
+
+The average amount of precipitation for the year in Bordeaux is .
+
+Administration
+Gironde is part of the region of Nouvelle-Aquitaine and is managed by the ''Departmental Council of Gironde'' in Bordeaux.
+
+=Administrative divisions=
+There are 6 Arrondissements of France|''arrondissements'' (districts), 33 Cantons in France|''cantons'' and 538 Communes in France|''communes'' (Municipality|municipalities) in Gironde.
+
+
+
+
+
+The following is a list of the 33 Cantons of France|cantons of the '''Gironde''' Departments of France|department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+# Canton of Andernos-les-Bains|Andernos-les-Bains (3301)
+# Canton of Bordeaux-1|Bordeaux-1 (3302)
+# Canton of Bordeaux-2|Bordeaux-2 (3303)
+# Canton of Bordeaux-3|Bordeaux-3 (3304)
+# Canton of Bordeaux-4|Bordeaux-4 (3305)
+# Canton of Bordeaux-5|Bordeaux-5 (3306)
+# Canton of Le Bouscat|Le Bouscat (3307)
+# Canton of La Brède|La Brède (3308)
+# Canton of Cenon|Cenon (3309)
+# Canton of Les Coteaux de Dordogne|Les Coteaux de Dordogne (3310)
+# Canton of Créon|Créon (3311)
+# Canton of L'Entre-Deux-Mers|L'Entre-Deux-Mers (3312)
+# Canton of L'Estuaire|L'Estuaire (3313)
+# Canton of Gujan-Mestras|Gujan-Mestras (3314)
+# Canton of Les Landes des Graves|Les Landes des Graves (3315)
+# Canton of Le Libournais-Fronsadais|Le Libournais-Fronsadais (3316)
+# Canton of Lormont|Lormont (3317)
+# Canton of Mérignac-1|Mérignac-1 (3318)
+# Canton of Mérignac-2|Mérignac-2 (3319)
+# Canton of Le Nord-Gironde|Le Nord-Gironde (3320)
+# Canton of Le Nord-Libournais|Le Nord-Libournais (3321)
+# Canton of Le Nord-Médoc|Le Nord-Médoc (3322)
+# Canton of Pessac-1|Pessac-1 (3323)
+# Canton of Pessac-2|Pessac-2 (3324)
+# Canton of Les Portes du Médoc|Les Portes du Médoc (3325)
+# Canton of La Presqu'île|La Presqu'île (3326)
+# Canton of Le Réolais et Les Bastides|Le Réolais et Les Bastides (3327)
+# Canton of Saint-Médard-en-Jalles|Saint-Médard-en-Jalles (3328)
+# Canton of Le Sud-Gironde|Le Sud-Gironde (3329)
+# Canton of Le Sud-Médoc|Le Sud-Médoc (3330)
+# Canton of Talence|Talence (3331)
+# Canton of La Teste-de-Buch|La Teste-de-Buch (3332)
+# Canton of Villenave-d'Ornon|Villenave-d'Ornon (3333)
+
+
+Demographics
+The inhabitants of Gironde are known, in French language|French, as ''Girondins'' (women: ''Girondines'').
+
+The department of Gironde has a population, in 2014, of 1,526,016, for a population density of  inhabitants/km2. The ''arrondissement'' of Bordeaux, with 921,668 inhabitants, is by far the largest. The ''arrondissements'' of Blaye and Lesparre-Médoc are those with less people, with 88,115 and 86,560 inhabitants.
+
+
+'''Evolution of the population in Gironde'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:1600000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:400000 start:0
+ScaleMinor = gridcolor:lightgrey increment:100000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2008 text:2008
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 1009390
+ bar:1975 from:0 till: 1061480
+ bar:1982 from:0 till: 1127546
+ bar:1990 from:0 till: 1213499
+ bar:1999 from:0 till: 1287334
+ bar:2008 from:0 till: 1421276
+ bar:2014 from:0 till: 1526016
+
+PlotData=
+ bar:1968 at: 1009390 fontsize:S text: 1,009,390 shift:(-13,5)
+ bar:1975 at: 1061480 fontsize:S text: 1,061,480 shift:(-22,5)
+ bar:1982 at: 1127546 fontsize:S text: 1,127,546 shift:(-22,5)
+ bar:1990 at: 1213499 fontsize:S text: 1,213,499 shift:(-22,5)
+ bar:1999 at: 1287334 fontsize:S text: 1,287,334 shift:(-22,5)
+ bar:2008 at: 1421276 fontsize:S text: 1,421,276 shift:(-22,5)
+ bar:2014 at: 1526016 fontsize:S text: 1,526,016 shift:(-22,5)
+
+
+
+The main cities in the department are:
+
+
+
+
+Gallery
+
+Place-Bourse Bordeaux-boosted-colours.jpg|Bordeaux
+Cave Blanc Château de Rochemorin.JPG|Bordeaux wine
+Dune du pyla 2009.JPG|The Great Dune of Pyla
+Arcachon tchanquée.JPG|Arcachon Bay
+Bourg-sur-Gironde2.jpg|Bourg-sur-Gironde
+Château de La Brède en Gironde.jpg|''Château de la Brède'', birthplace of Montesquieu
+
+
+Related pages
+ Arrondissements of the Gironde department
+ Communes of the Gironde department
+
+Category:Departments in Nouvelle-Aquitaine

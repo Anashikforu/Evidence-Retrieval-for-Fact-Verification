@@ -1,0 +1,19 @@
+
+{{Taxobox
+| name = Hornbills 
+| image = Malabar grey hornbill.jpg
+| image_width = 250px
+| image_caption = Malabar grey hornbill''Ocyceros griseus''
+| regnum = Animalia
+| phylum = Chordata
+| classis = Aves
+| ordo = Coraciiformes 
+| familia = '''Bucerotidae'''
+| familia_authority = Constantine Samuel Rafinesque|Rafinesque, 1815}}
+
+
+The '''hornbills''' (Bucerotidae) are a family (biology)|family of bird found in tropical and subtropical Africa, Asia and Melanesia. They have a long, down-curved bill which is often brightly colored and sometimes has a box-like thing on the upper mandible. Many states of India like Kerala are fond of the hornbills. It is also the state bird of Kerala.
+
+The female hornbill lays her eggs in a hole in a tree. Then, helped by her mate, she seals herself in, covering the entrance with droppings and mud. Only a small slit is left, through which the male gives her food. This keeps the nest safe from snakes until the chicks are grown enough to leave the nest, and learn how to fly. 
+
+Category:Coraciiformes

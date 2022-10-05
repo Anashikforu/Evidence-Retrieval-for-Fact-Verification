@@ -1,0 +1,12 @@
+
+
+'''Deb Creator''' is a program to compile programs from source code to create .deb|.deb packages.
+
+Related pages
+.deb
+Debian Package Maker
+
+
+
+
+Category:Debian

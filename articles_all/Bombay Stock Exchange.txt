@@ -1,0 +1,35 @@
+{{Infobox exchange
+|name        = Bombay Stock Exchange
+|alt_name    = BSE
+|logo        = 
+|image       = 
+|type        = Stock exchange
+|city        = Mumbai
+|country     = India
+|coor        = 
+|foundation  = 9 July 1875
+|founder     =
+|key_people  =  Premchand Roychand  (Organizational founder|Founder)   Shri Sethuram Ravi  (Chairman) 
+ Ashishkumar Chauhan (Chief executive officer|MD & CEO)
+|currency    = Indian rupee ()
+|listings    = 5,749
+|mcap        =  94.65 Lakh Crore (Mar. 2016)
+|volume      =  5,59,674 Crore (June 2014)
+|indexes     = BSE SENSEXS&P BSE SmallCapS&P BSE MidCapS&P BSE LargeCapBSE 500
+|homepage    = 
+|footnotes   =
+|Segments Active = Equity}}
+The '''Bombay Stock Exchange''' is a stock exchange in Mumbai, India.
+
+History
+The Bombay Stock Exchange is the oldest stock exchange in Asia.Gurusamy, S. (2009). 
+The BSE failure to modernize resulted in the creation of an electronic platform in the National Stock Exchange.Michie, Ranald. (2007).  
+=Timeline=
+ '''1850s''':  Trading under a banyan tree opposite Bombay's Town HallKhanna, Tarun. (2007).  '''1875''': "Native Share and stockbrokers Association" was formed
+ '''1956''': Government of India recognizes BSE as the nation's first stock exchange
+ 2014 ; trading is done from drawing room
+ 
+Related pages 
+ National Stock Exchange of India
+
+Category:1870s establishments in India

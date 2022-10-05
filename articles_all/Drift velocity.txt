@@ -1,0 +1,7 @@
+
+'''Drift velocity''' is the average velocity with which free particles, for example electrons, are pulled towards an electric field.
+
+
+
+
+Category:Velocity

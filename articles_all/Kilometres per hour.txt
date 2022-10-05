@@ -1,0 +1,19 @@
+
+'''Kilometres per hour''' is a unit of measurement, which measures speed or velocity. The unit symbol is '''km/h''' or '''km·h−1'''. By definition, an object travelling at a speed of 1 km/h in a straight line for 1 hour moves 1 kilometre. The unit is the most commonly used unit of speed worldwide, more common than the SI unit of speed, metres per second.
+
+
+
+Conversions
+ 3.6&nbsp;km/h ≡ 1&nbsp;m/s, the SI unit of speed, metre per second
+ 1&nbsp;km/h ≈ 0.277 78&nbsp;m/s
+ 1&nbsp;km/h ≈ 0.621 37&nbsp;miles per hour|mph ≈ 0.911 34&nbsp;feet per second
+ 1&nbsp;knot (speed)|knot ≡ 1.852&nbsp;km/h (exactly)
+ 1 mile = 1.609344 km (~1.61 km)
+ ''n'' km/h ≈ ( 1.61  ''n'' ) mph (where ''n'' is a quantity of speed in km/h)
+ 1 mph = ~1.6 km/h
+
+Other websites
+
+
+
+Category:Units of measurement

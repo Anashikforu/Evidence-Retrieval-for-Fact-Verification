@@ -1,0 +1,13 @@
+
+'''OpenZaurus''' is a Debian-based embedded Linux distribution for the Sharp Corporation|Sharp Zaurus personal mobile tool Personal Digital Assistant|PDA.
+
+ Status 
+On April 26, 2007, it was announced that the OpenZaurus project was over.  Future development efforts are to focus on the Ångström distribution for embedded systems.
+
+Related pages
+ Familiar Linux
+ Palm OS
+ Pocket PC
+ Windows Mobile
+
+Category:Debian-based Linux distributions

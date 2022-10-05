@@ -1,0 +1,104 @@
+{{Infobox former country
+|native_name = 
+|conventional_long_name = Roman Empire
+|common_name = Western Roman Empire
+|national_motto =
+|life_span = 395–476/480
+|image_coat = Julius Nepos Tremissis.jpg
+|coa_size = 140px
+|symbol_type = Tremissis depicting Julius Nepos (),the ''de jure'' last emperor of the Western Court
+|p1 = Roman Empire
+|image_p1 = 
+|border_p1 = no
+|s1 = Eastern Roman Empire
+|flag_s1 = JustinianusI.jpg |border_s1 = no
+|s2 = Odoacer#King of ItalyKingdom of Italy
+|flag_s2 = Odovacar Ravenna 477.jpg |border_s2 = no
+|s3 = Kingdom of the Visigoths
+|flag_s3 = Leovigild CNG 97-722237 (obverse).jpg |border_s3 = no
+|s4 = Kingdom of the Vandals
+|flag_s4=Münze 50 Denari - Gelimer - König der Vandalen (cropped).jpg |border_s4 = no
+|s5 = Kingdom of the Franks
+|flag_s5 = Münze Gold Solidus Theudebert I um 534 (obverse).jpg |border_s5 = no
+|s6 = Kingdom of the Suebi
+|flag_s6 = Sueben.jpg |border_s6 = no
+|s7 = Kingdom of the Burgundians
+|flag_s7 = Triens de l’empereur Anastase cropped.png |border_s7 = no
+|s8 = Kingdom of SoissonsKingdom of the Romans
+|flag_s8 = Julius Nepos Tremissis.jpg |border_s8 = no
+|s9 = Mauro-Roman KingdomKingdom of the Moors and Romans
+|flag_s9 = Roman coins excavated in Essaouira 3rd century and late Roman Empire cropped no background.png |border_s9 = no
+|s10 = Alamannia
+|flag_s10 = Reiterscheibe von Pliezhausen v2 no background.png |border_s10 = no
+|s11 = Armorica
+|flag_s11 = Triens de Judicaël frappé à Redonis.jpg |border_s11 = no
+|s12 = Sub-Roman Britain
+|flag_s12 = Aldfrith sceat 685 76001849 cropped.png |border_s12 = no
+|era = Late antiquity
+|status = Empire
+|empire = Roman Empire
+|status_text = Western division of the Roman Empire
+|government_type = Autocracy
+|year_start =  395
+|year_end =  476
+|event_start = Death of Emperor Theodosius I
+|event_end = Deposition of Emperor Romulus Augustulus
+|date_start= 17 January
+|date_end= 4 September
+|event_post= Murder of Emperor Julius Nepos
+|date_post= 25 April 480
+|image_map = Western Roman Empire 395 Tribes.png
+|image_map_caption = The territory controlled by the Western Roman Imperial court following the nominal division of the Roman Empire after the death of Emperor Theodosius I in AD 395.
+|capital = Mediolanum(395–402)Ravenna(402–455, 473–476)Rome(475–480)
+|capital_exile = Spalatum(475–480)
+|common_languages = Latin language|Latin (official)Languages of the Roman Empire|Regionallocal languages
+|religion = Religion in ancient Rome|Polytheistic Roman Religion until 4th centuryNicene Christianity (State church of the Roman Empire|state church) after 380
+|currency = Roman currency
+|title_leader = Roman Emperor|Notable emperors
+|legislature = Senate of the Roman Empire|Roman Senate
+|stat_year1 = 395
+|stat_area1 = 2000000
+|leader1=Flavius Augustus Honorius|Honorius
+|leader2=Majorian
+|leader3=Julius Nepos
+|leader4=Romulus Augustulus
+|year_leader1=395–423
+|year_leader2=457–461
+|year_leader3=474–480
+|year_leader4=475–476
+|footnote_a = 
+|footnote_b=
+|footnote_c=
+|footnote_d=
+The '''Western Roman Empire''' was the western half of the Roman Empire, from its division by Diocletian in 286 AD. The other half of the Roman Empire became known as the Eastern Roman Empire, later known as the Byzantine Empire.
+
+The whole Roman Empire had been in difficulties since 190 AD when large Gothic tribes began moving into areas under Roman control. The leadership of Rome was weak and there was instability. Various power groups in the Roman armies kept trying to install their own Emperors, and murdering Emperors who belonged to other groups. This meant the invasions by the Germanic tribes were not successfully stopped.
+
+The Emperor Diocletian tried to bring stability back into government by dividing the Empire into sections. These became the Western Empire which included Iberia, France, Southern Britain, Italy, North Africa and parts of Germany, and the Eastern Empire which included the Balkans, Turkey, the Levant and Egypt.
+
+Rome ceased to be the capital from the time of the division.  In 286, the capital of the Western Roman Empire became Mediolanum (modern Milan).  In 402, the capital was again moved, this time to Ravenna.
+
+ The Fall of the Empire
+ and 530 AD
+
+
+
+|alt=Animated map of the Roman Republic and Empire
+
+This division did not help the Western Empire which came under increasing invasions from the north from the Ostrogoths, Huns, Franks, Visigoths, and Burgundy|Burgundians. The armies were brought back towards Rome, abandoning England and France. The economy could not cope: the increased need for military spending caused inflation. The citizens were unhappy with rising taxes and rising prices.
+
+In AD 398, Alaric and his Visigoths began making attacks closer and closer to the capital. By 410 he had sacked the city of Rome. In 455, the Vandals captured Rome. In 476 the Goths captured the capital.
+
+The fall of the Western Roman Empire took place in 476 AD when the leader of the Goths, Odoacer, removed Romulus Augustus|Emperor Romulus. He became King of Italy, and Roman control over the Empire in the west ended. By this time the Western Empire existed in name only, the Emperor no longer could use military, financial or political power.
+
+Related pages
+The Decline and Fall of the Roman Empire
+Byzantine Empire
+Holy Roman Empire
+
+Other websites
+
+
+
+Category:Places of Ancient Rome
+Category:Roman Empire

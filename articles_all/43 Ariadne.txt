@@ -1,0 +1,40 @@
+
+{{Infobox Planet   | bgcolour=#FFFFC0 |
+name=43 Ariadne
+| discoverer=Norman Robert Pogson|N. R. Pogson
+| discovered=April 15, 1857
+| alt_names=''none''
+| mp_category=Asteroid belt|Main belt (Flora family)
+| epoch=November 26, 2005 (Julian day|JD 2453700.5)
+| semimajor=329.646 Giga|Gmetre|m (2.204 Astronomical unit|AU)
+| perihelion=274.339 Gm (1.834 AU)
+| aphelion=384.954 Gm (2.573 AU)
+| eccentricity=0.168
+| period=1194.766 day|d (3.27 Julian year (astronomy)|a)
+| inclination=3.464degree (angle)|°
+| asc_node=264.937°
+| arg_peri=15.948°
+| mean_anomaly=101.582°
+| avg_speed=19.92 km/second|s
+| dimensions=95×60×50 km| mass=~4.0×1017 kilogram|kg ''(estimate)''
+| density=~2.7 g/cubic centimetre|cm³ ''(estimate)''
+| surface_grav=~0.012 m/s² ''(estimate)''
+| escape_velocity=~0.034 km/s ''(estimate)''
+| rotation=0.2401 d 
+| spectral_type=S-type asteroid
+| magnitude = 8.78  to 13.29
+| abs_magnitude=7.93
+| albedo=0.274 (geometric albedo|geometric)
+| angular_size = 0.11"  to 0.025"
+| single_temperature=~178 kelvin|K''max:'' 275K (+2° celsius|C)}}
+
+'''43 Ariadne''' is a fairly big and bright Asteroid belt|main belt asteroid. It is the second-biggest member of the Flora family|Flora asteroid family. It was found by Norman Robert Pogson|N. R. Pogson on April 15, 1857 and named after the Greek mythology|Greek heroine Ariadne.
+
+ Characteristics 
+Ariadne is very stretched out (almost twice as long as its smallest shape). It is a Prograde and retrograde motion|retrograde rotator, although its pole points almost parallel to the ecliptic towards ecliptic coordinate system|ecliptic coordinates (β, λ) = (-15°, 235°) with a 10° uncertainty#Kaasalainen02|2. This gives an axial tilt of about 105°.
+
+ Trivia 
+ For reasons unknown, "Asteroid 43 Ariadne" was included in a list of names of supporters of the NASA spacecraft Stardust (spacecraft)|Stardust that was stored on a microchip within the spacecraft.
+ The maximum apparent size of Ariadne is equal to the maximum apparent size of Pluto.
+
+Category:Asteroids

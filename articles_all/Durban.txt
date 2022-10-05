@@ -1,0 +1,91 @@
+
+| image_flag              = Flag of Durban, South Africa.svg
+| image_shield            = DurbanCoatOfArms.jpg
+| pushpin_map             = South Africa KwaZulu-Natal#South Africa
+| coordinates             = 
+| subdivision_type        = Country
+| subdivision_name        = South Africa
+| subdivision_type1       = Province
+| subdivision_name1       = KwaZulu-Natal
+| subdivision_type2       = District
+| subdivision_type3       = Municipality
+| subdivision_name3       = eThekwini Metropolitan Municipality|eThekwini
+| subdivision_type4       = Main Place
+| established_title       = Established
+| established_date        = 1880
+| named_for               = Benjamin D'Urban
+| government_type         = Metropolitan municipality (South Africa)|Metropolitan municipality
+| leader_party            = ANC
+| leader_title            = Mayor
+| leader_name             = Mxolisi Kaunda
+| area_footnotes          = 
+| area_total_km2          = 225.91
+| area_metro_km2          = 2292
+| population_footnotes    = 
+| population_total        = 595061
+| population_as_of        = 2011
+| population_density_km2  = auto
+| population_metro        = 3442361
+| population_density_metro_km2 = auto
+| population_metro_footnotes = 
+| population_demonym      = Durbanite 
+
+| demographics_type1      = Racial makeup (2011)
+| demographics1_footnotes = 
+| demographics1_title1    = Bantu peoples of South Africa|Black African
+| demographics1_info1     = 51.1%
+| demographics1_title2    = Coloureds|Coloured
+| demographics1_info2     = 8.6%
+| demographics1_title3    = Indian South African|Indian/Asian South African|Asian
+| demographics1_info3     = 24.0%
+| demographics1_title4    = White South African|White
+| demographics1_info4     = 15.3%
+| demographics1_title5    = Other
+| demographics1_info5     = 0.9%
+
+| demographics_type2      = First languages (2011)
+| demographics2_footnotes = 
+| demographics2_title1    = South African English|English
+| demographics2_info1     = 49.8%
+| demographics2_title2    = Zulu language|Zulu
+| demographics2_info2     = 33.1%
+| demographics2_title3    = Xhosa language|Xhosa
+| demographics2_info3     = 5.9%
+| demographics2_title4    = Afrikaans
+| demographics2_info4     = 3.6%
+| demographics2_title5    = Other
+| demographics2_info5     = 7.6%
+
+| blank_name_sec2         = GDP
+| blank_info_sec2         = American dollar|US$ 63.9&nbsp;billion 
+| blank1_name_sec2        = GDP per capita
+| blank1_info_sec2        = American dollar|US$ 15,575
+
+| timezone1               = South African Standard Time|SAST
+| utc_offset1             = +2
+| postal_code_type        = List of postal codes in South Africa|Postal code (street)
+| postal_code             = 4001
+| postal2_code_type       = Post-office box|PO box
+| postal2_code            = 4000
+| area_code_type          = Telephone numbers in South Africa|Area code
+| area_code               = 031 (South Africa Calling Code)|031
+| website                 = 
+}}
+'''Durban''' (Zulu language|Zulu: ''eThekwini''; International Phonetic Alphabet|IPA: ) has the third largest population of a city in South Africa. It is part of the province KwaZulu-Natal.
+
+ History 
+It is thought that the first known inhabitants of the Durban area arrived from the north around 100,000 BC, according to carbon dating of rock art found in caves in the Drakensberg. These people lived in the central plains of KwaZulu-Natal until the expansion of Bantu people from the north during the last millennium.
+
+ Sister cities 
+Durban's Town twinning|sister cities are:
+  Alexandria, Egypt
+  Chicago, Illinois, United States
+  Eilat, Israel
+  City of Leeds|Leeds, England (United Kingdom)
+  Rio de Janeiro, Brazil
+  Guangzhou, China
+
+ Partner cities 
+ Rotterdam, The Netherlands
+
+Category:1880s establishments in South Africa

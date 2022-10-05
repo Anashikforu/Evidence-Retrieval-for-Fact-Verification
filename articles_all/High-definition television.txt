@@ -1,0 +1,21 @@
+
+'''High-definition television (HDTV)''' is a new television broadcasting system which uses a higher wikt:resolution|resolution than a normal television. With HDTV, people can watch television in higher quality than old television, giving a more vivid and clear screen.
+
+Most HDTV systems use digital signals with a 16:9 aspect ratio (width to height). This is different to SDTV (standard-definition television) which uses analog signals and a 4:3 aspect ratio.
+
+HDTV picture resolution is at least twice that of SDTV, so it can present a more vivid screen than analog television or DVD. HDTV can control resolution efficiently.
+
+Some videos on the website YouTube, a free video sharing website that lets people upload and view videos, are in HD.
+
+There are different standards. Common ones are:
+2560×1440, progressive scan, requiring about 3,68 Megapixels per frame. This is known as '''1440p''' or ''WQHD''. It is a new standard, which is slowly replacing many 1080p-computer-monitors in the household (everyday use).
+1920×1080, progressive scan, requiring about 2,07 MPixels per frame. This is known as '''1080p''' or ''FullHD''. It has been used very frequently for different types of screens in the past few years. 
+1920×1080, Interlaced video|interlaced, 1.04 MPixel per field. This is known as '''1080i'''.
+1280×720, progressive, 0.92 MPixel per frame. This is known as '''720p'''.
+
+As a comparison, PAL plus is at 1024x576 pixels, and NTSC at 853x480 pixels.
+
+ Other websites 
+   
+
+Category:Television technology

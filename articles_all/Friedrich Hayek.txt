@@ -1,0 +1,37 @@
+
+{{Infobox Philosopher
+| color = firebrick
+|region = Western philosophy
+|era = 20th-century philosophy
+| image = Friedrich_Hayek_portrait.jpg
+| image_size = 200px
+|name = Friedrich August von Hayek
+|birth = Vienna, Austria-Hungary
+|death = Freiburg, Germany
+|school_tradition = British Whig Party|Old Whig, Classical liberalism and Austrian School
+|main_interests = Economics, social philosophy, political philosophy, philosophy of mind
+|influences = Bernard Mandeville, David Hume, Adam Ferguson, John Locke, Edmund Burke, Alexis de Tocqueville, John Dalberg-Acton, 1st Baron Acton|Lord Acton, Carl Menger, Eugen von Böhm-Bawerk, Friedrich von Wieser, Ludwig von Mises, Karl Popper
+|influenced = Karl Popper, Konrad Lorenz, Robert Nozick, Israel Kirzner, Murray Rothbard, John Hicks, George Stigler, Ben Reid, Milton Friedman, Michael Novak, Barry Goldwater, Ronald Reagan, Thomas Sowell, Sir Keith Joseph Margaret Thatcher, Bruno Leoni, Giovanni Sartori, Atilla Yayla, Bruce Caldwell, John Gray (LSE)|John Gray, Jimmy Wales, Ludwig Erhard, Ron Paul, Alan Greenspan
+|notable_ideas = Economic calculation problem, Catallactics|Catallaxy, Extended order, Dispersed knowledge, Spontaneous order|}}
+
+'''Friedrich August von Hayek''', Order of the Companions of Honour|CH (8 May 1899 – 23 March 1992) was an Austrian-United Kingdom|British economist and politics|political Philosophy|philosopher. He became known because he strongly defended liberalism and free market|free-market capitalism. He was against too much central control of the economy and society. He thought that forms of government like socialism were not good for the economy, and damaged freedom of the individual. Hayek's signature work, ''The Road to Serfdom'', refers to the consequences of socialism.
+
+He was one of the most important economists and political philosophers of the 20th century.Edward Feser (ed) 2007. ''The Cambridge Companion to Hayek''. Cambridge University Press. p13  He was one of the most important members of the Austrian School of economics. He also had many ideas in the fields of jurisprudence and cognitive science. He shared the 1974 Nobel Prize in Economics with his rival Gunnar Myrdal. The award was for their work in the Monetary policy|theory of money and Business cycle|economic fluctuations; also for their analysis of the inter-dependence of economic, society|social and institutional phenomena. He is thought to be one of the major causes of change from the Keynesian economics|Keynesian policies of the first part of the 20th century. Instead of governments handling the details of the economy, they went back towards classical liberalism in the 1980s and later. This happened most clearly in the 1980s in the U.S.A. (under Ronald Reagan) and the U.K. (under Margaret Thatcher).
+
+ Main books 
+ ''Profits, interest and investment: and other essays on the theory of industrial fluctuations'', 1939.
+ ''The road to serfdom'', 1944. 
+ ''Individualism and economic order'', 1948. 
+ ''The counter-revolution of science: studies on the abuse of reason'', 1952. 
+
+ ''Law, legislation and liberty'' (3 volumes)
+::Volume I. ''Rules and order'', 1973.
+::Volume II. ''The mirage of social justice'', 1976.
+::Volume III. ''The political order of a free people'', 1979.
+ ''The fatal conceit: the errors of socialism'', 1988. 
+
+ Related pages
+ Constitutional economics
+ Political economy
+
+Category:Austrian philosophers

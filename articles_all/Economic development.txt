@@ -1,0 +1,111 @@
+'''Economic''' '''development''' it is the growth of standard of living of nations from a poor economy  to a ''high-income economy.Hla Myint and Anne O. Krueger (2009) "Economic development," ''Encyclopædia Britannica''. When the local ''quality of life'' is improved, there is more economic  development.Blair, John and conor Carroll. ''Local Economic Development: Analysis, Practices, and Globalization''. Sage Publications, 2009
+
+When social science|social scientists study economic development, they look at a lot of things.  They want to know about the way  economic development is discussed by historians.  They also want to know how development is happening today.  They may  want to know why people ''investment|invest'' more money in some places than in others.  They also want to know why people are better at making things to sell in some countries rather than others.Lewis F. Abbott, ''Theories Of Industrial Modernization & Enterprise Development: A Review'', ISR/Google Books, revised 2nd edition 2003, pages 1–2. .
+ Measuring Economic Development 
+Image:UN Human Development Report 2009.PNG|thumb|right|400px|World map showing the Human Development Index (based on 2007 data, published on October 5, 2009)
+
+''':Image:UN Human Development Report 2007 (2) CBC.svg|Same map''' for people with color blindness.
+
+One way to measure economic development is ''human development.
+''Human development'' is very important, and includes the health of the people and their education.  This usually goes together with ''economic growth.'' As people in a country become healthier and get better education, they also usually get richer, because healthy, educated workers are more ''productive'' (better at making things), and richer workers can afford health and education.Hanushek, Eric A., and Ludger Woessmann. 2008. "The role of cognitive skills in economic development." ''Journal of Economic Literature'', 46, no. 3 (September): 607-668.
+The Human Development Index looks at life expectancy|how long people live, literacy|how well people read, how many people go to school, and how much money people make.
+
+
+Economists also look at the ''rate of growth'', which is how fast a country gets richer.
+Image:Gdp real growth rate 2007 CIA Factbook.PNG|thumb|right|350px|World map showing Gross domestic product#growth rates|GDP real growth rates for 2008.
+
+<!--
+
+The ''University of Iowa's Center for International Finance and Development'' states that:
+
+
+'Economic development' is a term that economists, politicians, and others have used frequently in the 20th century. The concept, however, has been in existence in the West for centuries. Modernization, Westernization, and especially Industrialization are other terms people have used when discussing economic development. Although no one is sure when the concept originated, most people agree that development is closely bound up with the evolution of capitalism and the demise of feudalism.R. Conteras, "How the Concept of Development Got Started" University of Iowa Center for International Finance and Development E-Book 
+
+Mansell and Wehn state that development has been understood since the second World War to involve economic growth, increases in per capita income, and attainment of a standard of living equivalent to that of industrialized countries.
+Intensive versus extensive growth
+
+A closely related idea is the difference between extensive and intensive economic growth. Extensive growth refers to the increase of overall wealth, while intensive growth refers to the increase of per capita wealth. Unlike extensive growth, intensive growth is mainly driven by productivity growth and technological progress. While economies in the pre-industrialization period grew extensively, intensive growth is a relatively recent phenomenon that came with modern economic growth.
+
+Does growth create development?
+
+Dependency theorists argue that poor countries have sometimes experienced economic growth with little or no economic development; for instance, in cases where they have functioned mainly as resource-providers to wealthy industrialised countries. There is an opposing argument, however, that growth causes development because some of the increase in income gets spent on human development such as education and health. 
+ 
+According to Ranis et al. (2000),Ranis, G., Stewart, F. & Ramirez, A., 2000. Economic Growth and Human Development. World Development, 28(2), 197-219. we view economic growth to human development as a two-way relationship. Moreover, Ranis suggested that the first chain consist of economic growth benefiting human development with GNP. Namely, GNP increases human development by expenditure from families, government and organizations such as NGOs. With the increase in economic growth, families and individuals will likely increase expenditures with the increased in incomes, which leads to increase in human development. Further, with the increased in expenditures, health, education tend to increases in the country and later will contribute to economic growth.
+
+In addition to increasing private incomes, economic growth also generate additional resources that can be used to improve social services (such as healthcare, safe drinking water etc...). By generating additional resources for social services, unequal income distribution will be limited as such social services are distributed equally across each community; benefiting each individual. Thus, increasing living standards for the public.Anand, S. & Sen, A., 2000. Human Development and Economic Sustainability. World Development, 28(12), 2029-2049.
+
+To summarize, as noted in Anand’s article (1993),Anand, S. & Ravallion, M., 1993. Human Development in Poor Countries: On the Role of Private Incomes and Public Services. The Journal of Economic Perspectives, 7(1), 133-150. we can view the relationship between human development and economic development in three different explanations. First, increase in average income leading to improvement in health and nutrition (known as Capability Expansion through Economic Growth). Second, it is believed that social outcomes can only be improved by reducing income poverty (known as Capability Expansion through Poverty Reduction). Thirdly, (known as Capability Expansion through Social Services), defines the improvement of social outcomes with essential services such as education, health care, and clean drinking water.
+
+=Exogenous growth model=
+The exogenous growth model (or neoclassical growth model) of Robert Solow and others places emphasis on the role of technological change. Unlike the Harrod-Domar model, the saving rate will only determine the level of income but not the rate of growth. The sources-of-growth measurement obtained from this model highlights the relative importance of capital accumulation (as in the Harrod–Domar model) and technological change (as in the Neoclassical model) in economic growth. The original Solow (1957) study showed that technological change accounted for almost 90 percent of U.S. economic growth in the late 19th and early 20th centuries. Empirical studies on developing countries have shown different results (see Chen, E.K.Y.1979 Hyper-growth in Asian Economies).
+
+Also see, Krugman (1994), who maintained that economic growth in East Asia was based on perspiration (use of more inputs) and not on inspiration (innovations) (Krugman, P., 1994 The Myth of Asia’s Miracle, Foreign Affairs, 73).
+
+Even so, in our postindustrial economy, economic development, including in emerging country|emerging countries is now more and more based on innovation and knowledge. Creating business clusters is one of the strategies used. One well known example is Bangalore in India, where the software industry has been encouraged by government support including Software Technology Parks.
+
+However, when looking at the growth rate put forward from the neoclassical growth model, it seems to suggest that countries with same characteristics and technology will eventually converge to the same rate of growth. However, one should know that the knowledge presented in countries that promotes technological advancement is not stationary. Meaning that knowledge are linked to individual and not to the country.
+
+According to Lucas Jr (1988)Lucas, R.E., 1988. On the mechanics of economic development. Journal of Monetary Economics, 22(1), 3-42. to compensate the movement of knowledge, we should implement factors such as labour factor to predict immigration flow. With labour movement coming into factor, we can then predict the flow of knowledge which can then successfully lead to increase in technology
+
+= Endogenous growth model =
+A complete explanation of economic development requires a self-starting and self-sustaining model of economic growth that is not provided by neoclassical and Keynesian growth models. The dynamic-strategy model, which is based on an endogenous demand-side theory, provides these characteristics. This model was developed by G.D. Snooks in ''Longrun Dynamics'' (1998) and ''Global Transition'' (1999).
+
+=Information-led development=
+Information-led development (ILD) most commonly refers to a development strategy whereby a developing country makes as a primary economic policy focus the creation and development of a national information technology (IT) sector with the express aim of relying on this sector as an engine of growth. Notable examples of such countries are India and the Philippines.
+
+More recently, a new formulation of ILD has emerged. With origins in community economic development in the United States, the new ILD model describes the use of data to generate actionable information or information solutions to development challenges. Examples of this include the inclusion of non-financial payment obligations in consumer credit files, also known as alternative data, and the use of this information in underwriting, as a means to reduce financial exclusion in the United States, where an estimated 54 million Americans are shut out of mainstream credit access as there is insufficient information about them in their credit files to be scored by a credit scoring model. This variant of ILD was pioneered by Political and Economic Research Council|PERC, a non-profit policy research organization and development intermediary headquartered in Chapel Hill, North Carolina. employ variants of ILD, but none has applied this internationally except for PERC.
+
+This development model is gaining traction in emerging markets such as Colombia and South Africa, where the data is being used to reduce financial exclusion and facilitate credit access as a means to build wealth and form assets. It is also attracting increasing attention from development agencies, including USAID, the International Finance Corporation, the World Bank Group, and the Consultative Group to Assist the Poor.
+
+Measuring economic development
+
+Image:Gdp real growth rate 2007 CIA Factbook.PNG|thumb|right|350px|World map showing List of countries by GDP (real) growth rate|GDP real growth rates for 2008.
+North America, even though one of the slowest growing continents, has stable growth. Most of the faster growing economies are in the Caribbean.
+
+South America has a Boom and Bust growth with high followed by recession growth, most notable in Brazil, however growth has been stabilizing and the whole continent is growing.
+
+Africa has seen the fastest growing but also the slowest growing/declining. From the oil fields which made Angola the 3rd fastest growing country in the world, to Zimbabwe the slowest growing and declining country in the world. Oil in Africa has created 'wealth spots' were a few countries have exceeded their neighbors in wealth. Out of the 10 fastest growing countries in the world, 3 were African. Some countries have in the past been the fastest growing in the world. Equatorial Guinea reached 75% growth in 2004 because of oil reserves.
+
+Europe has one of the most stable growth rates. After the fall of the Soviet Union, there was a period of economic decline in Eastern Europe over the 1990s, followed by recovery in the 2000s. The region is now experiencing growth, particularly in those countries that have recently joined the European Union. If the Caucasus were included, Europe would be one of the fastest growing continents in the world. Most countries are growing at a medium speed; however, many smaller countries exceed 7% and grow exceptionally faster than their neighbors. Out of the 10 fastest growing countries in the world, only 1 is in Europe.
+
+Overall in the 20th century Asia was seen as the area with most growth; however, in the 21st century, most of this has been dominated by China. Some spots of growth are starting to appear in East and even South Asia. Most nations with high populations have seen high growth especially. Out of the 10 fastest growing countries 3 were directly in Asia, and 3 indirectly or partially.
+
+Meanwhile Oceania has seen moderate growth. The only exceptional growth in Oceania has been on Vanuatu.
+
+Some countries have negative growth, most often due to ongoing wars or hyperinflation. These countries include Palestinian National Authority|Palestinean territories, Zimbabwe, Fiji and Chad.
+
+Other sources of information can also be used to demonstrate economic development. These include GVA, Unemployment and Business Data.
+
+Regional policy
+In its broadest sense, policies of economic development encompass three major areas:
+ Governments undertaking to meet broad economic objectives such as price stability, high employment, and sustainable growth. Such efforts include monetary and fiscal policies, regulation of financial institutions, trade, and tax policies.
+ Programs that provide infrastructure and services such as highways, parks, affordable housing, crime prevention, and K–12 education.
+ Job creation and retention through specific efforts in business finance, marketing, neighborhood development, workforce development, small business development, business retention and expansion, technology transfer, and real estate development. This third category is a primary focus of economic development professionals.
+
+=Economic developers=
+Economic development, which is thus essentially economics on a social level, has evolved into a professional industry of highly specialized practitioners. The practitioners have two key roles: one is to provide leadership in policy-making, and the other is to administer policy, programs, and projects. Economic development practitioners generally work in public offices on the state, regional, or municipal level, or in public-private partnerships organizations that may be partially funded by local, regional, state, or federal tax money. These economic development organizations (EDO's) function as individual entities and in some cases as departments of local governments. Their role is to seek out new economic opportunities and retain their existing business wealth.
+
+There are numerous other organizations whose primary function is not economic development work in partnership with economic developers. They include the news media, foundations, utilities, schools, health care providers, faith-based organizations, and colleges, universities, and other education or research institutions.
+
+With more than 20,000 professional economic developers employed world wide in this highly specialized industry, the International Economic Development Council IEDC 
+There are issues with economic development professionals' attitudes towards both themselves and their careers. Many believe that progress made in economic development is caused by chance and that they had little to do with it. This is widespread across the U.S.Herbert J. Rubin, "Shoot anything that Flies; Claim anything that falls: Conversations with Economic Development Practicioners", 1988
+
+There is intense competition between communities, states, and nations for new economic development projects in today's globalized world, and the struggle to attract and retain business is further intensified by the use of many variations of economic incentives to the potential business such as; tax incentives, help with investment capital, donated land and many others. IEDC places significant attention on the various activities undertaken by economic development organizations to help them compete and sustain vibrant communities.
+
+Additionally, the use of community profiling tools and database templates to measure community assets versus other communities is also an important aspect of economic development. Job creation, economic output, and increase in taxable basis are the most common measurement tools. When considering measurement, too much emphasis has been placed on economic developers for "not creating jobs." However, the reality is that economic developers do not typically create jobs, but facilitate the process for existing businesses and start-ups to do so. Therefore, the economic developer must make sure that there are sufficient economic development programs in place to assist the businesses achieve their goals. Those types of programs are usually policy-created and can be local, regional, statewide and national in nature.
+
+-->
+Related pages
+ Developed country
+ Developing country
+ Development economics
+ Economic sector
+ Human Development Index
+ Newly industrialized country
+ Least developed country
+ OECD
+ BRICS
+ Next Eleven
+ Four Asian Tigers
+
+Category:Economics

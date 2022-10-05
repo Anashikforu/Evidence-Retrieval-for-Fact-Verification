@@ -1,0 +1,32 @@
+{{Infobox DMU
+|name = British Rail Derby Lightweight
+|image = Derby Lightweight 79018 at Bewdley.JPG
+|imagesize = 300px
+|background = #0033cc
+|caption = Derby Lightweight power car no. 79018 on display at Bewdley on the Severn Valley Railway on 15th October 2004, as part of the Railcar 50 event. This vehicle has been restored to its original condition using a grant from the lottery heritage fund, and is preserved at the Midland Railway Centre.
+|Manufacturer = BR's Derby Works 
+|Operator = British Rail
+|Formation =  1, 2 & 4 Car Formations 
+|Built =219 vehicles
+|LinesServed = 
+|InService = 1954-1969
+|CarLength = 
+|CarWidth = 
+|CarHeight = 
+|Weight = 
+|Capacity = 
+|MaxSpeed = 62 mph 
+|Gauge = 
+|Traction = 
+|Engine =Two BUT (Leyland) 125 bhp
+|SafetySystem=
+ |}}
+Image:Derby_Lightweight_975008_at_Bewdley.JPG|thumb|250px|right|Derby Lightweight trailer no. 975008 (79612) on display at Bewdley on the Severn Valley Railway on 15th October 2004, as part of the ''Railcar 50'' event. This vehicle has yet to be restored to original condition, and is preserved at the Midland Railway Centre.
+
+The British Rail '''Derby Lightweight''' diesel multiple units, were the first such trains to be built en-masse for British Railways. The units were built at BR's Derby Carriage and Wagon Works|Derby Works from 1954 to 1955. The units were built in various formations, including two single car units, 12 power-twin 2-car units, 84 power-trailer 2-car units, and four 4-car units. Contemporaneous with these units was the unique British Rail BEMU|Battery Electric Multiple Unit.
+
+
+
+
+
+Category:British Rail diesel multiple units|Derby Lightweight

@@ -1,0 +1,23 @@
+
+{{Taxobox
+| name = ''Dilophosaurus''
+| fossil_range = Lower Jurassic
+| image =Dilophosaurus skull.jpg
+| image_width = 250px
+| image_caption = Reconstruction of a ''Dilophosaurus'' skull
+| regnum = Animalia
+| classis = Sauropsida
+| superordo = Dinosauria
+| ordo = Saurischia
+| subordo = Theropoda
+| familia = '''Dilophosauridae'''
+| genus = '''''Dilophosaurus'''''}}
+
+
+'''''Dilophosaurus''''' (meaning 'double-crested lizard') was a medium-large dinosaur from 190 million years ago.
+
+''Dilophosaurus'' has been examined several times over the years and has been put into no less than nine different theropod groups. It may be related to the smaller ''Coelophysis''. Specific details of its life-style are few. Some of its fossils were found in terrain which was a low-lying slow-moving river system at the time.Harshbarger J.W; Repenning C.A. & Irwin J.H. 1957. ''Stratigraphy of the uppermost Triassic and the Jurassic rocks of the Navajo country''. Professional Paper 291. Washington, D.C.: U.S. Geological Survey. The animal was obviously a carnivore.
+
+''Dilophosaurus'' was shown in the movie ''When Dinosaurs Roamed America'' scaring off a pack of ''Megapnosaurus'' and eating an ''Anchisaurus''.
+
+Category:Theropods

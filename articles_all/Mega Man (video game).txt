@@ -1,0 +1,18 @@
+
+|genre=Action game|Action, platform game|platform
+|modes=Single-player video game|Single-player
+|ratings=
+|platforms=Nintendo Entertainment System, PlayStation (console)|PlayStation, mobile phones, Virtual Console, PlayStation Store, Android (operating system)|Android, PlayStation Portable
+|media=1-megabit ROM cartridge, CD-ROM, download, Universal Media Disc|UMD
+|input=Gamepad
+}}
+
+'''''Mega Man''''' is also known as  in Japan. It is a video game video game developer|developed and video game publisher|published by Capcom for the Nintendo Entertainment System (NES). It is the first game in the original ''Mega Man'' series. It was released in Japan on December 17, 1987. It was released in North America on December 1987 and Europe on May 1990.
+
+Plot
+Two scientists, Dr. Light and Dr. Wily, create humanoid robots; Wily goes rogue and reprograms most of the robots for world domination. It's up to Mega Man, a robot created by Dr. Light, to stop Dr. Wily and his army of ''Robot Masters''.
+
+Gameplay
+The game opens with a boss select screen, giving you the option to choose which of the ''Robot Masters'' you wish to take down first. Once you have selected a Robot Master you are teleported by Dr. Light to an approximation of the Robot Master's location. From there you must find your way to the Robot Master, along the way overcoming many traps, pitfalls and other obstacles. Once you defeat a Robot Master you gain its power, which can be used on other Robot Masters and follows a Rock, paper, scissors type effectiveness, where a rock attack would work better on a robot with scissors than one made of paper.
+
+Category:Capcom games

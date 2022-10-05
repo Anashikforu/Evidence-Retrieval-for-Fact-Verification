@@ -1,0 +1,9 @@
+The '''calorie''' is a pre-SI unit of energy, most common in heat.
+
+It is the amount of energy required to increase the temperature of one gram of water by one Kelvin.
+
+When on a food label, the term "calorie" refers to kilocalories, or 1000 calories.
+
+For a layman, calories are the parameters of energy consumption. Think of them like the gasoline in the car. But unlike the car, the body stores the excess gas for long. The reaction to the calorie depends on which macronutrient did that calorie came from.
+
+Category:Energy

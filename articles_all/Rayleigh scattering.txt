@@ -1,0 +1,3 @@
+'''Rayleigh scattering''' is the way that light Mie scattering|scatters when it hits a very small object.  This theory is valid if the wavelength of the light is much bigger than the object. It is named after Lord Rayleigh but was also the work of C. V. Raman|Raman and Kariamanickam Srinivasa Krishnan|Krishnan as it is part of the Raman scattering theory. 
+
+Category:Physics

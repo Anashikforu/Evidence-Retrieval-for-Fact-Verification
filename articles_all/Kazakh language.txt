@@ -1,0 +1,35 @@
+
+| agency = Kazakh language agency
+| iso1 = kk
+| iso2 = kaz
+| iso3 = kaz
+| lingua = 44-AAB-cc
+| map = File:Idioma kazajo.png
+| mapcaption = The Kazakh-speaking world: 
+| notice = IPA
+| glotto = kaza1248
+| glottorefname = Kazakh
+}}
+
+'''Kazakh''' is a Turkic language that is spoken in Kazakhstan, a country in central Asia. It, along with Russian language|Russian, is one of Kazakhstan's official languages.
+
+History
+The Kazakh language had been written in the Cyrillic alphabet since the Russian Empire started to occupy that country in the 19th century. In 1917, people began to use the Arabic alphabet, but the Russians were not able to make them use Cyrillic.
+
+After World War I, the Turkic countries started to use the Latin alphabet, led by Kemal Atatürk of Turkey. Because of this, from 1927 to 1939, Kazakhstan, then part of the Soviet Union, changed from the Arabic to the Latin alphabet.
+
+Following the dissolution of the Soviet Union in 1991, the newly-independent Republic of Kazakhstan allowed the old Latin alphabet to be used, but continued to use Cyrillic as the main alphabet. In 2006, president Nursultan Nazarbayev started a project to introduce a standard form of the Latin alphabet as the official script of his country. A version of the new Latin alphabet, which used apostrophes for certain sounds, was created in April 2017,
+
+ Kazakh letters 
+
+The proposed Kazakh Latin alphabet has 38 letters:
+
+
+
+ Sources 
+
+
+Other websites
+
+
+Category:Languages of Asia

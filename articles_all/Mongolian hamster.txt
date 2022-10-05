@@ -1,0 +1,18 @@
+
+{{Taxobox
+| name = Mongolian hamster
+| status = LC 
+| status_system = IUCN3.1
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Cricetidae
+| genus = ''Allocricetulus''
+| binomial = ''Allocricetulus curtatus''}}
+
+The '''Mongolian hamster''' (''Allocricetulus curtatus'') is a species of rodent in the Cricetidae family. It is found in China and Mongolia.
+
+
+
+
+Category:Hamsters

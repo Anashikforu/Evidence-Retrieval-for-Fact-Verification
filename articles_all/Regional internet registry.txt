@@ -1,0 +1,6 @@
+A '''regional Internet registry''' ('''RIR''') is an organization which is responsible for registering IP address|Internet numbers in a special part of the world.
+
+There are 5 active RIRs in the world:
+
+ American Registry for Internet Numbers (ARIN)  RIPE NCC|RIPE Network Coordination Centre (RIPE NCC)  Asia-Pacific Network Information Centre (APNIC)  LACNIC|Latin American and Caribbean Internet Address Registry (LACNIC)  AfriNIC|African Network Information Centre (AfriNIC) 
+Category:Internet

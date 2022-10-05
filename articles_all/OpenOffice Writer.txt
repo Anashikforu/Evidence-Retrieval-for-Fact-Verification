@@ -1,0 +1,24 @@
+
+
+'''OpenOffice Writer''' is the word processor part of the OpenOffice software package. Writer is a word processor that is like Microsoft Word and Corel's WordPerfect.
+
+Just like all of the OpenOffice suite, Writer can be used on many Operating Systems, including Mac OS X, Microsoft Windows, Linux, FreeBSD and Solaris Operating System|Solaris. Released under the terms of the Apache License, Writer is free software.
+ Abilities 
+Writer can open and save documents in a lot of formats, including the OASIS OpenDocument|Open Document Format 1.1, Microsoft Word's DOC, Rich Text Format|RTF and XHTML.
+Writer has a number of abilities that are not in Word, including the ability to export to the PDF format natively.
+
+Abilities include:
+ Auto Correct
+ Auto Complete
+ Styles and Formatting
+ Text Frames and Linking
+ Tables of Contents
+ Indexing
+ Bibliographical References
+ Illustrations
+ Tables
+
+ Criticism 
+Though OpenOffice.org Writer has a spell checker, it does not have an included grammar checker though this is available as an extension. Writer's mail merge functions, rewritten in 2.0, is still less flexible than in other word processors. the open office was made by Dr.Fabiha Karnam Leo.
+
+Category:OpenOffice

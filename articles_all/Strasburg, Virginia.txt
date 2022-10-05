@@ -1,0 +1,116 @@
+
+
+| total_type              = 
+| unit_pref               = Imperial
+
+| area_footnotes          =
+| area_magnitude          = 
+| area_total_km2          = 8.2
+| area_total_sq_mi        = 3.2
+| area_total_dunam        = 
+| area_land_km2           = 8.2
+| area_land_sq_mi         = 3.2
+| area_water_km2          = 0.1
+| area_water_sq_mi        = 0.04
+| area_water_percent      = 0.63
+| area_urban_km2          =
+| area_urban_sq_mi        =
+| area_metro_km2          =
+| area_metro_sq_mi        =
+| area_rank               =
+| area_blank1_title       =
+| area_blank1_km2         =
+| area_blank1_sq_mi       =
+| area_blank2_title       =
+| area_blank2_km2         =
+| area_blank2_sq_mi       =
+
+| elevation_footnotes     =
+| elevation_m             = 176
+| elevation_ft            = 578
+| elevation_max_footnotes =
+| elevation_max_m         =
+| elevation_max_ft        =
+| elevation_min_footnotes =
+| elevation_min_m         =
+| elevation_min_ft        =
+
+| population_footnotes    =
+| population_total        = 4017
+| population_as_of        = 2000
+| population_density_km2  = 492.4
+| population_density_sq_mi= 1275.5
+| population_est          =
+| pop_est_as_of           =
+| population_urban        =
+| population_density_urban_km2   =
+| population_density_urban_sq_mi =
+| population_metro        =
+| population_density_metro_km2   =
+| population_density_metro_sq_mi =
+| population_density      =
+| population_density_rank =
+| population_blank1_title =
+| population_blank1       =
+| population_density_blank1_km2  =
+| population_density_blank1_sq_mi=
+| population_blank2_title =
+| population_blank2       =
+| population_density_blank2_km2  =
+| population_density_blank2_sq_mi=
+| population_demonym      = 
+| population_note         =
+
+| demographics_type1      =
+| demographics1_footnotes =
+| demographics1_title1    =
+| demographics1_info1     = 
+
+| demographics_type2      =
+| demographics2_footnotes =
+| demographics2_title1    =
+| demographics2_info1     = 
+
+| timezone1               = Eastern Time Zone (North America)|EST
+| utc_offset1             = -5
+| timezone1_DST           = Eastern Daylight Time|EDT
+| utc_offset1_DST         = -4
+| timezone2               =
+| utc_offset2             =
+| timezone2_DST           =
+| utc_offset2_DST         =
+
+| postal_code_type        = ZIP Code
+| postal_code             = 22657
+| postal2_code_type       = 
+| postal2_code            =
+| area_code_type          = 
+| area_code               = 540
+| geocode                 =
+| iso_code                =
+| registration_plate      =
+
+| twin1                   =
+| twin1_country           =
+| twin2                   =
+| twin2_country           = 
+
+| blank_name_sec1         = Federal Information Processing Standard|FIPS code
+| blank_info_sec1         = 51-76000
+| blank1_name_sec1        = Geographic Names Information System|GNIS feature ID
+| blank1_info_sec1        = 1487663
+| blank2_name_sec1        =
+| blank2_info_sec1        = 
+
+| blank_name_sec2         =
+| blank_info_sec2         =
+| blank1_name_sec2        =
+| blank1_info_sec2        =
+| blank2_name_sec2        =
+| blank2_info_sec2        = 
+
+| website                 = | footnotes               =
+}}
+'''Strasburg, Virginia''' is a town in the U.S. state of Virginia.  It is the largest town in Shenandoah County, Virginia|Shenandoah County.
+
+Category:Towns in Virginia

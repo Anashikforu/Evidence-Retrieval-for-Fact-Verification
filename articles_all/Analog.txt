@@ -1,0 +1,7 @@
+'''Analog''' or '''analogue''' may refer to:
+
+ Analog signal, a variable signal that is continuous in time and amplitude, as opposed to a digital or discrete signal:
+ Analog, an object, concept or situation which in some way resembles a different situation:
+ Analogy, in language, a comparison between concepts
+ ''Analog Science Fiction and Fact'', a magazine originally named ''Astounding Stories''
+

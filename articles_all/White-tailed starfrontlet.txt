@@ -1,0 +1,16 @@
+{{Taxobox
+| name = White-tailed starfrontlet
+| image = Coeligena phalerata, male (12711468004).jpg
+| status = LC | status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Bird|Aves
+| ordo = Trochiliformes
+| familia = Trochilidae
+| genus = ''Coeligena''
+| species = '''''C. phalerata'''''
+| binomial = ''Coeligena phalerata''
+| binomial_authority = Outram Bangs|Bangs, 1898
+| synonyms = }}
+The w'''hite-tailed starfrontlet''' (''Coeligena phalerata'') is a species of hummingbird. It is found only in Colombia. Its habitat is subtropical or tropical moist montane forests.
+

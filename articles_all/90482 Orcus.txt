@@ -1,0 +1,35 @@
+
+| epoch=November 30, 2008 (Julian day|JD 2&nbsp;454&nbsp;800)
+| semimajor=5&nbsp;862.44 Giga|Gm (39.188 Astronomical unit|AU)
+| perihelion=4&nbsp;535.80 Gm (30.32 AU)
+| aphelion=7&nbsp;188.17 Gm (48.05 AU)
+| eccentricity=0.226&nbsp;18
+| period=89&nbsp;606 day|d (245.33 Julian year (astronomy)|yr)
+| inclination=20.593degree (angle)|°
+| asc_node=268.722°
+| arg_peri=72.474°
+| mean_anomaly=164.68°
+| avg_speed=4.68&nbsp;km/second|s
+| satellites=1 (92-432&nbsp;km)
+| dimensions=946.3  km (diameter)
+| mass=~7.5×1020 kilogram|kg
+| density=~1.5&nbsp;g/cubic centimetre|cm³ (assumed)
+| surface_grav=~0.2&nbsp;m/s²
+| escape_velocity=~0.44&nbsp;km/s
+| rotation=13.19h
+| spectral_type=B-V=0.68; V-R=0.37 
+| magnitude = 19.1 (Opposition (astronomy and astrology)|opposition)
+| abs_magnitude=2.3
+| albedo=19.75  %
+| single_temperature=~45 kelvin|K}}
+
+'''90482 Orcus''' (symbol  but it stays on the opposite side of the Sun from Pluto.
+
+ Moon 
+
+A moon of Orcus was found on  22 February 2007.
+
+The satellite was found at 0.25 arcsecond|arcsec from Orcus with absolute magnitude|magnitude difference of 2.7.
+ Other websites 
+        
+Category:Kuiper belt objects

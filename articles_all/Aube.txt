@@ -1,0 +1,127 @@
+
+
+'''Aube''' is a departments of France|department in northeast France named after the Aube (river)|Aube river. The Prefectures in France|prefecture (Capital city|capital) of Aube is Troyes.
+
+History
+Aube is one of the original 83 departments created during the French Revolution on 4 March 1790 with Troyes as its Capital city|capital. It was divided in six districts: Nogent-sur-Seine, Arcis-sur-Aube, Bar-sur-Aube, Bar-sur-Seine, Ervy, and Troyes.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the six districts were changed into five ''arrondissements'': Arcis-sur-Aube, Bar-sur-Aube, Bar-sur-Seine, Nogent-sur-Seine and Troyes.
+
+After the Battle of Waterloo (18 June 1815), the department was occupied by the Russian army from June 1815 to November 1818.
+
+On 10 September 1926, the ''arrondissements'' of Arcis-sur-Aube et Bar-sur-Seine were eliminated.
+
+Geography
+The Aube department is in the southwest of the Grand Est region. It is surrounded by 5 departments in 3 regions:
+ Grand Est region
+ Marne (north)
+ Haute-Marne (east)
+ Bourgogne-Franche-Comté region
+ Côte-d'Or (south)
+ Yonne (west)
+ Île-de-France region
+ Seine-et-Marne (northwest)
+
+
+
+Administration
+Aube is managed by the ''Departmental Council of Aube'' in Troyes. The department is part of the Grand Est region.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 17 Cantons in France|''cantons'' and 431 Communes in France|''communes'' (Municipality|municipalities) in Aube.
+
+
+
+
+
+This is a list of the 17 Cantons of France|cantons of the Aube department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+
+# canton of Aix-en-Othe|Aix-en-Othe (1001)
+# canton of Arcis-sur-Aube|Arcis-sur-Aube (1002)
+# canton of Bar-sur-Aube|Bar-sur-Aube (1003)
+# canton of Bar-sur-Seine|Bar-sur-Seine (1004)
+# canton of Brienne-le-Château|Brienne-le-Château (1005)
+# canton of Creney-près-Troyes|Creney-près-Troyes (1006)
+# canton of Nogent-sur-Seine|Nogent-sur-Seine (1007)
+# canton of Les Riceys|Les Riceys (1008)
+# Canton of Romilly-sur-Seine|Romilly-sur-Seine (1009)
+# canton of Saint-André-les-Vergers|Saint-André-les-Vergers (1010)
+# canton of Saint-Lyé|Saint-Lyé (1011)
+# canton of Troyes-1|Troyes-1 (1012)
+# canton of Troyes-2|Troyes-2 (1013)
+# canton of Troyes-3|Troyes-3 (1014)
+# canton of Troyes-4|Troyes-4 (1015)
+# canton of Troyes-5|Troyes-5 (1016)
+# canton of Vendeuvre-sur-Barse|Vendeuvre-sur-Barse (1017)
+
+
+Demographics
+People who live in Aube are called ''Aubois'' (women: ''Auboises'').
+
+Aube had a population, in 2014, of 308,094, for a population density of  inhabitants/km2. The ''arrondissement'' of Troyes, with 225,184 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Aube'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+ImageSize  = width:400 height:373
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:350000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+BarData=
+  bar:1968 text:1968
+  bar:1975 text:1975
+  bar:1982 text:1982
+  bar:1990 text:1990
+  bar:1999 text:1999
+  bar:2008 text:2008
+  bar:2014 text:2014
+PlotData=
+  color:barra width:30 align:left
+  bar:1968 from:0 till: 270325
+  bar:1975 from:0 till: 284823
+  bar:1982 from:0 till: 289300
+  bar:1990 from:0 till: 289207
+  bar:1999 from:0 till: 292131
+  bar:2008 from:0 till: 301327
+  bar:2014 from:0 till: 308094
+PlotData=
+ bar:1968 at: 270325 fontsize:S text: 270,325 shift:(-12,5)
+ bar:1975 at: 284823 fontsize:S text: 284,823 shift:(-18,5)
+ bar:1982 at: 289300 fontsize:S text: 289,300 shift:(-18,9)
+ bar:1990 at: 289207 fontsize:S text: 289,207 shift:(-18,9)
+ bar:1999 at: 292131 fontsize:S text: 292,131 shift:(-18,9)
+ bar:2008 at: 301327 fontsize:S text: 301,327 shift:(-18,5)
+ bar:2014 at: 308094 fontsize:S text: 308,094 shift:(-18,8)
+
+
+
+The ''Communes of France|communes'' with more inhabitants in the Aube department are:
+
+
+
+
+Gallery
+
+File:Grande Place in Troyes, France.jpg|Troyes.
+File:Aix en Othe Baltard.jpg|Aix-en-Othe.
+File:Kloster von Clairvaux, heute Strafanstalt.jpg|Clairvaux Abbey.
+File:Bar-sur-Aube Marcasselles.jpg|Bar-sur-Aube.
+File:La Chapelle-Saint-Luc (12).jpg|La Chapelle-Saint-Luc.
+
+
+Related pages
+ Arrondissements of the Aube department
+ Communes of the Aube department
+
+Category:Departments in Grand Est

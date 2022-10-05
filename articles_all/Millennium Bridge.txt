@@ -1,0 +1,29 @@
+
+
+Image:Millennium Bridge 01.jpg|right|thumb|305px|The bridge from St Paul's Cathedral
+
+The '''Millennium Bridge''', also known as the '''London Millennium Footbridge''', is a footbridge across the River Thames in London. It is a steel suspension bridge which links Bankside with the City of London|City. Its position is between Southwark Bridge (downstream) and Blackfriars Railway Bridge (upstream). The bridge opened on 10 June 2000. It is the newest bridge across the Thames. 
+
+Londoners nicknamed the bridge the '''Wobbly Bridge''' after people on a charity walk felt an uncomfortable swaying motion. The bridge was closed later that day. After two days of limited access the bridge was closed for almost two years. Expensive and complicated changes were made to eliminate the wobble. It was reopened in 2002.
+
+The southern end of the bridge is near Shakespeare's Globe|Globe Theatre, the Bankside Gallery and Tate Modern, the north end next to the City of London School below St Paul's Cathedral. The bridge alignment is such that a clear view of St Paul's south facade is presented from across the river, framed by the bridge supports.
+
+Design
+The design of the bridge was the subject of a competition organized in 1996 by London Borough of Southwark|Southwark council. The winning entry was by Arup, Foster and Partners and Sir Anthony Caro. The eight suspension cables are tensioned to pull with a force of 2,000&nbsp;tons against the piers set into each bank&nbsp;— enough to support a working load of up to 5,000&nbsp;people on the bridge at one time.
+
+The closure of the bridge only three days after opening attracted consideerable public criticism, as another high-profile British 3rd millennium|millennium project suffered an embarrassing setback, akin to how many saw the Millennium Dome. There was some astonishment that engineers had not foreseen the problem, as computer modelling is such a standard technique today. However, modifications to the bridge did eliminate the wobble, which has not recurred since the bridge reopened in February 2002.
+
+Resonance
+Image:Bridge vert mode shock.jpg|right|thumb|250px|Fluid dampers
+The bridge's movements were caused by a 'positive feedback' phenomenon. The natural sway motion of people walking caused small sideways oscillations in the bridge. In turn, this caused people on the bridge to sway in step, increasing the amplitude of the bridge oscillations and reinforced the effect.Strogatz, Steven ''et al.'' (2005). 
+The  bridge opened on an exceptionally fine day, and it was included on the route of a major charity walk. On the day of opening the bridge was crossed by 90,000 people, with up to 2,000 on the bridge at any one time.
+
+The lateral vibration problems of the Millennium Bridge are very unusual, but not entirely unique.Julavitz, Robert.  Birmingham NEC Link bridge, with a lateral frequency of 0.7 Hz
+ Groves Suspension Bridge, Chester, in 1977 during the Jubilee River Regatta
+ Auckland Harbour Road Bridge, with a lateral frequency of 0.67 Hz, during a 1975 demonstrationDallard, P. ''et al.'' 
+After extensive analysis by the engineers,
+
+Related pages 
+ List of crossings of the River Thames
+
+Category:Suspension bridges

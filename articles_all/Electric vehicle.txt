@@ -1,0 +1,49 @@
+
+An '''electric vehicle''' is a vehicle that uses electricity to move. Its wheels are driven by Electric motor|electric motors.
+
+Electric vehicles were one of the first kinds that did not use horse or human power. Electric trains and Car|cars were built in the 1830's, and in the early 1900's there were more electric cars than gasoline-powered cars. But cars powered by gasoline or diesel fuel become the most common kind of car for most of the last 100 years.
+
+Electric vehicles have long been used in some special cases, such as forklifts used inside a building, Golf cart|golf carts, trolleybus|trolley bus or certain vehicles used around airplanes at an airport. Early in the 21st century people are using more electric and hybrid vehicles again as a way to reduce pollution and use less gasoline.
+
+ History 
+ made important changes to the electric motor.
+
+Great Britain and France were early leaders in making better electric cars. Interest in the electric car in the United States grew after 1891 when A. L. Ryker built a three-wheeled electric car, and William Morrison built a six-passenger wagon.
+
+The years 1899 and 1900 were the best years for electric cars in America, as they outsold all other types of cars (steam, gasoline and diesel). One example was the 1902 Phaeton built by the Woods Motor Vehicle Company of Chicago, which had a range of 18 miles, a top speed of 14&nbsp;mph and cost $2,000. (At that time, there were few good roads between towns, so most driving was for short distances). Electric cars could go as far as steam-powered cars and did not take 30 to 40 minutes to get started.  Gasoline engines were smelly and noisy.
+
+
+But then the internal combustion engine (that used  gasoline and diesel) were greatly improved, and cars that used those engines could go much farther and faster than other cars.
+
+Some people would make electric cars in their garages by taking out the engine and putting in an electric motor and batteries, but for a long time, no big car company made an electric car.  Only in the late 1990's did big car companies start making electric cars again. The most famous was the General Motors|GM's EV-1.  Now interest in alternative fuel vehicles is growing.
+
+ Kinds of electric vehicles 
+
+= Pure electric cars =
+
+ A fuel cell makes electricity from hydrogen. Hydrogen is very common, but hard to store. It can be made from water, but is usually made from natural gas. These cars are very rare, because there are not many places where one can fill up with hydrogen, and so not many are made. One of the few companies who makes fuel cell cars is Toyota, which has the Toyota Mirai|Mirai.
+ A solar cell stores energy from the sun as electricity to make the car go. But the sunlight that lands on a solar car is not enough to make a full sized car move very fast, and cannot work at night unless it stores energy somewhere. There is a competition every year to see who can make a car that goes the farthest on only solar power.
+ A battery-electric vehicle (BEV) stores electrical energy in a big battery inside the car. The batteries get their energy from an electric supply outside the car, usually a electrical outlet like those in a house. It is the most common kind of electric car seen today. Many Government|governments around the world are encouraging public places to install Charging station|charging stations, which have a plug that can charge most types of plug-in cars. Companies that make BEVs include Nissan Motor Company|Nissan, which has the Nissan Leaf|Leaf, and Mitsubishi Motors, which makes the Mitsubishi I-miEV|i-miEV. An American company called Tesla Motors|Tesla is famous for making BEVs that charge very quickly, such as the Tesla Roadster|Roadster (a sports car) and more recently the Tesla Model S|Model S.
+
+= Hybrid cars =
+A hybrid is a combination of two things. In this case, it is an electric motor, and another type of power, such as an engine. Because of this, hybrid vehicles are not true electric vehicles.
+ A hybrid electric vehicle (HEV) has both an internal combustion engine and an electric motor which drives the wheels. Usually, the electric motor is used when moving at low Speed|speeds and power from the internal combustion engine is used as the car goes faster. The engine get its power from gasoline, diesel, or any other kind of fuel, and can generate electricity which is stored in batteries to be used later with the electric motor. The battery is much smaller than that of a pure electric vehicle and even though the vehicle can go without starting the gas engine, it cannot go very far before the battery runs out of energy and the gas engine has to be started. The Toyota Prius is the best-selling HEV of all time, but many other companies around the world like Honda (with the Honda Clarity|Clarity), BMW (with the BMW i3|i3), and Ford Motor Company|Ford (with the Ford Focus|Focus) also make hybrid cars, some of which, such as the Honda Civic and Toyota Camry, come in both gas-only and hybrid versions. The hybrid version is usually more expensive because it has more parts. 
+ A plug-in hybrid|plug-in hybrid electric vehicle (PHEV) is like an ordinary hybrid electric vehicle in that it has both an internal combustion engine and an electric motor. The difference is that a PHEV has a bigger battery that can be charged using a plug from an outlet, just like a battery-electric vehicle. This allows the car to go farther on electric power alone than a HEV before the gas engine has to be used. However, the battery is still quite small, meaning a PHEV most often does not go as far as a BEV on electric power alone. The Chevrolet Volt from General Motors and the Hyundai Sonata|Sonata by Hyundai Motor Company|Hyundai are just two examples of plug-in hybrids, and Toyota also makes a plug-in version of its Prius, as does Honda with its Honda Clarity|Clarity.
+ A human electric hybrid vehicle (HEHV), in its simplest form, is a battery and motor put on a bicycle. The Twike is a covered vehicle that can hold two people. It can be Bicycle pedal|pedaled, run from the battery, or both.
+
+= Other vehicles =
+
+There are many other types of electric vehicles. A trolleybus|trolley bus (also called a Railway track|trackless trolley) uses Overhead lines|overhead electric lines to power it. Many trains use a railway electrification system to supply power. A few high-speed rail lines use powered magnets in the track to move the train, in a system called 'maglev train|mag-lev' (magnetic levitation).  There are electric bicycles and Motorcycle|motorcycles and some Tricycle|tricycles (trikes) like the Corbin Motors Sparrow, which was also seen in the Austin Powers movie Austin Powers in Goldmember|Goldmember.
+
+Most freight trains are diesel-electric. The locomotive has a diesel engine which provides electricity, and an electric motor which makes the wheels turn. In recent years, however, there are buses and trains that store their power in a battery or use some other source like fuel cells. These kinds of vehicles do not need wires.
+
+ Advantages and disadvantages 
+'''Advantages:''' 
+
+These vehicles use an electric motor, so they are very quiet, no smell and no pollution from exhaust gases that is why UK is considering stop sale of diesel, petrol and hybrid vehicles by 2035. They can even be used indoors, in tunnels and mines. Oil for gasoline and diesel is a Non-renewable resource|limited resource - it will not last forever and is becoming more expensive. If the electricity for a battery-electric vehicle comes from a renewable energy source, like a windmill, solar cells, geothermal energy|geothermal or hydroelectric, then it will not produce as many greenhouse gas|global warming gases.
+
+'''Disadvantages:''' 
+
+Batteries do not store a lot of energy, and they are large and heavy, so the vehicles usually cannot go very far. It takes a long time to recharge a battery, sometimes many hours. Good batteries can be very expensive, and all batteries need to be replaced after a while. Most electricity in the United States comes from coal or natural gas, so an electric vehicle that is powered by electricity from one of these plants will still add to global warming gases.
+
+Category:Electric vehicles| 

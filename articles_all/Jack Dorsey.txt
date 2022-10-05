@@ -1,0 +1,16 @@
+
+'''Jack Patrick Dorsey''' (born November 19, 1976)
+
+He worked as a model.
+Early life
+Dorsey was born '''Jack Patrick Dorsey''' in St. Louis, Missouri,
+He was raised Catholic Church|Catholic, and his uncle is a Catholic priest in Cincinnati. He attended the Catholic Bishop DuBourg High School. In his younger days, Dorsey worked occasionally as a fashion model.
+
+By age fourteen, Dorsey had become interested in Dispatch (logistics)|dispatch routing. Some of the Open-source model|open-source software he created in the area of dispatch logistics is still used by taxicab companies. Dorsey attended the Missouri University of Science and Technology|University of Missouri–Rolla for two-plus years (1995–97)
+
+ Career 
+While working on dispatching as a programmer, Dorsey moved to California. His other projects and ideas at this time included networks of medical devices and a "frictionless service market". In July 2000, building on dispatching and inspired in part by LiveJournal and by AIM (software)|AOL Instant Messenger, he had the idea for a Web-based realtime status/short message communication service.
+
+When he first saw implementations of instant messaging, Dorsey wondered whether the software's user status output could be shared easily among friends. He approached Odeo, which at the time happened to be interested in text messaging. Dorsey and Biz Stone decided that SMS text suited the status-message idea, and built a prototype of Twitter in about two weeks. The idea attracted many users at Odeo and investment from Evan Williams (Internet entrepreneur)|Evan Williams, a co-founder of that firm in 2005 who had left Google after selling Pyra Labs and Blogger (service)|Blogger.
+
+Category:American bloggers

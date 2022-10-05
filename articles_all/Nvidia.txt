@@ -1,0 +1,41 @@
+
+
+
+'''Nvidia Corporation''') is an American multinational corporation. They make graphical processing technologies for computers and small mobile devices (for example: smartphones). The company, based in Santa Clara, California, supplies electronic chips for motherboard chipsets, smart phones' graphic controller, GPU|graphics processing units (GPUs), and game consoles. Nvidia product lines include: GeForce, Nvidia Quadro|Quadro, and nForce (chipsets).
+
+ Name 
+"Nvidia", is a combination of two parts: n (usually used as a mathematical variable) and video (Latin: to "see"). 
+
+ History 
+Nvidia was established in 1993 by Jen-Hsun Huang, Curtis Priem, and Chris Malachowsky. In 2000 Nvidia took Intellectual property|intellectual possession of 3dfx, one of the biggest GPU producers in 1990s.
+
+On December 14, 2005, Nvidia purchased Acer Laboratories Incorporated|ULI. At that time ULI supplied 30% Southbridge (computing)|Southbridge parts for chipsets to ATI Technologies|ATI), Nvidia's Competition|competitor. In March 2006, Nvidia bought the company Hybrid Graphics.The Register Hardware news: 
+In December 2006, Nvidia, along with its main rival in the graphics industry Advanced Micro Devices (AMD), received subpoenas from the Justice Department. This was regarding possible United States antitrust law|antitrust violations in the graphics-card industry.
+
+Forbes magazine called Nvidia "Company of the Year for 2007" for accomplishing company goals in last 5 years.
+
+ Products 
+
+= Graphics chipsets =
+ NV1 – Nvidia's first product, based on quadratic surfaces
+ RIVA 128|RIVA 128 and RIVA 128ZX – DirectX 5 support, OpenGL 1 support, Nvidia's first DirectX-compliant hardware
+ RIVA TNT, RIVA TNT2 – DirectX 6 support, OpenGL 1 support; the series that made Nvidia a market-leader
+ GeForce|Nvidia GeForce - Desktop-graphics acceleration-solutions
+ Nvidia Quadro – High-quality workstation solutions
+ Nvidia Tesla - Dedicated GPGPU processing for High Performance Computing systems
+ GoForce|Nvidia GoForce – Media processors for PDAs, Smartphones, and mobile phones featuring nPower technology
+ GPU for game consoles
+ Xbox GeForce 3 - class GPU (on an Intel Pentium III/Celeron platform)
+ PlayStation 3 - RSX 'Reality Synthesizer'
+
+= Personal-computer platforms and chipsets =
+ nForce|Nvidia nForce
+ nForce|nForce IGP (AMD Athlon/Duron K7 line)
+ nForce2 (AMD Athlon/Duron K7 line, SPP (system platform processor) or IGP (Integrated Graphics Platform) and Media Communications Processor|MCP (Media and Communications Processor), also features SoundStorm)
+ nForce3 (AMD Athlon 64/Athlon 64 FX/Opteron, MCP only)
+ nForce4 (AMD Athlon 64/Athlon 64 X2/Athlon 64 FX/Opteron, MCP only;Intel Pentium 4/Pentium D, SSP + MCP)
+ nForce 500 (AMD Athlon 64 FX/Athlon 64 X2/Athlon 64/Sempron or Intel Core 2 Extreme/Core 2 Duo/Pentium 4/Celeron D/Pentium D)
+ nForce 600 (AMD Quad FX or Intel Core 2 Quad/Core 2 Extreme/Core 2 Duo/Pentium 4/Celeron D/Pentium D)
+ nForce 700 (Intel Core 2 and AMD Phenom (processor)|Phenom)
+Footnotes
+=Category:Santa Clara, California

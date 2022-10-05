@@ -1,0 +1,26 @@
+{{Infobox Bus transit
+|name            = 
+|logo            = London General logo.png
+|logo_size       = 160
+|image           = London General bus E73 (LX57 CKA) 2007 Alexander Dennis Enviro400 integral, Trafalgar Square, route 24, 13 June 2011 (1).jpg
+|image_size      = 
+|image_caption   = Alexander Dennis Enviro400 on London Buses route 24|route 24 at Trafalgar Square in June 2011
+|company_slogan  = 
+|parent          = Go-Ahead Group
+|founded         = December 1988
+|headquarters    = London Borough of Merton|Merton
+|locale          = 
+|service_area    = Greater London
+|service_type    = Bus services
+|hubs            = 
+|stations        =
+|lounge          = 
+|fleet           =Alexander Dennis Enviro200DartAlexander Dennis Enviro400VDL SB120|DAF SB120Dennis Dart SLFDennis Trident 2Mercedes-Benz O530 CitaroNew Bus for LondonScania OmniTownVolvo B5LVolvo B7TLVolvo B9TLVolvo OlympianWright Gemini 2 DLWright StreetLite
+|ridership       = 
+|fuel_type       = 
+|operator        = Go-Ahead London
+|ceo             = 
+|website         = 
+'''London General''' is a bus company operating services in Greater London. It is a part of the Go-Ahead Group and operates buses under for Transport for London. The company was named in honour of the London General Omnibus Company, the principal operator of buses in London between 1855 and 1933.
+
+Category:London bus operators

@@ -1,0 +1,49 @@
+{{Infobox Weapon
+|name=IMI Uzi (MP-2)
+|image=Uzi of the israeli armed forces.jpg
+|caption=
+|origin=Israel
+|type=Submachine gun
+
+|is_ranged=yes
+
+|service=1954–present
+|used_by=See ''Uzi#Users|Users''
+|wars=Suez CrisisSix-Day WarVietnam WarYom Kippur WarColombian armed conflict (1964-present)|Colombian internal conflictSri Lankan Civil WarPortuguese Colonial WarFalklands WarInvasion of Grenada1982 Lebanon warSouth African Border WarRhodesian Bush WarSomali Civil WarMexican Drug WarSyrian Civil WarGriselda_Blanco#Miami_drug_war|Miami Drug Wars
+
+|designer=Uziel Gal
+|design_date=1948
+|manufacturer=Israel Military IndustriesIsrael Weapon IndustriesFN HerstalNorincoLyttleton Engineering Works (under Vektor Arms)RH-ALANGroup Industries
+|production_date=1950–present
+|number= 10,000,000+
+|variants= See ''Uzi#Military variants|Variants''
+
+|weight=
+|length=
+  stockless
+  folding stock collapsed
+  folding stock extended
+|part_length=
+|crew=
+
+|cartridge=9×19mm Parabellum.22 LR.45 ACP.41 Action Express|.41 AE
+|caliber=
+|action=Blowback (arms)|Blowback, open bolt
+|rate=600 rounds/min
+|velocity=400 Metre per second|m/s (9mm)
+|range= 200 m
+|max_range=
+|feed=10 (.22 and .41 AE)16 (.45 ACP)20, 25, 32, 40, 50 (9 mm) magazine (firearm)|magazines
+|sights=Iron sights}}
+
+The '''Uzi''' is a type of submachine gun (SMG). It is famous for being very small and easy to carry, much more easily than any SMG made in World War II. It does this by loading Magazine (firearms)|magazines inside the grip, much like a pistol. It was not the first submachine gun to do this, but the Uzi was the first used on a large scale.  
+
+There are different kinds of Uzis: Mini Uzi, which is a smaller version of the Uzi; Micro Uzi, which is only slightly larger than a standard pistol; Para Micro Uzi, which was made for Counter Terrorist Units; and the Uzi Pistol, which is semi-automatic (it fires one bullet every time you pull the trigger).  All of these kinds of Uzis are still in use by the special forces today. It is slowly being replaced by the MP-5.
+
+ History 
+
+Uzis were invented by an Israeli army officer, Uziel Gal. This gun was first used in 1956. Uzis were used in the 1967 Six Day War by Israel. They are made by Israel Military Industries and also by the Belgium|Belgian weapon company, FN.
+
+Even though Uziel Gal told his manufacturers not to name the weapon after him, they ignored his request and did so anyway.
+
+Category:Military of Israel

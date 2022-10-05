@@ -1,0 +1,21 @@
+{{Taxobox
+| name = Barn swallow
+| status_system = iucn3.1
+| image = Landsvale.jpg
+| image_width = 250px
+| image_caption = European subspecies, ''H. r. rustica'' in Denmark
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Passerine|Passeriformes
+| familia = Swallow|Hirundinidae
+| genus = ''Hirundo''
+| binomial = ''Hirundo rustica''
+| binomial_authority = Carolus Linnaeus|Linnaeus, 1758
+| range_map = Hirundo rustica.png
+| range_map_width = 250px
+| range_map_caption =}}
+
+
+The '''barn swallow''' (''Hirundo rustica'') is the most widespread species of swallow that can be found worldwide. A distinctive passerine bird with blue upperparts, a long, deeply forked tail and curved, pointed wings, it is found in Europe, Asia, Africa and the Americas. The barn swallow is the national bird of Estonia.
+According to The Atlas of Southern African Birds, this species is undergoing a decrease in significant part of Europe;
+Category:Passeriformes

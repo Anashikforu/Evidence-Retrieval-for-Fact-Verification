@@ -1,0 +1,14 @@
+{{Taxobox
+| name = Chinese striped hamster
+| image = Chinese Hamster.jpg
+| status = LR/lc 
+| status_system = iucn2.3
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Cricetidae
+| genus = ''Cricetulus''
+| binomial = ''Cricetulus barabensis''}}
+
+The '''Chinese striped hamster''' (''Cricetulus barabensis''), also known as the '''striped dwarf hamster''', is a species of hamster. It is distributed across northern Asia, from southern Siberia through Mongolia and northeastern China to northern North Korea.

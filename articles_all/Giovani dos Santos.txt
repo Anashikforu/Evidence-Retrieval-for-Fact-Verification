@@ -1,0 +1,118 @@
+{{Football player infobox
+|playername=Giovani dos Santos
+|image=2017 Confederation Cup - MEXNZL - Giovani dos Santos.jpg
+|image_size=150px
+|fullname=Giovani dos Santos Ramírez
+|birth_date=
+|birth_place=Monterrey, Mexico
+|death_date=
+|height=
+|position=Midfielder
+| currentclub         = LA Galaxy
+| clubnumber          = 10
+| youthyears1         = 2002–2006
+| youthclubs1         = F.C. Barcelona|Barcelona
+| years1              = 2006–2007
+| clubs1              = F.C. Barcelona B|Barcelona B
+| caps1               = 27
+| goals1              = 6
+| years2              = 2007–2008
+| clubs2              = F.C. Barcelona|Barcelona
+| caps2               = 28
+| goals2              = 4
+| years3              = 2008–2012
+| clubs3              = Tottenham Hotspur F.C.|Tottenham Hotspur
+| caps3               = 15
+| goals3              = 0
+| years4              = 2009
+| clubs4              = → Ipswich Town F.C.|Ipswich Town (loan)
+| caps4               = 8
+| goals4              = 4
+| years5              = 2010
+| clubs5              = → Galatasaray S.K.|Galatasaray (loan)
+| caps5               = 14
+| goals5              = 0
+| years6              = 2011
+| clubs6              = → Racing de Santander|Racing Santander (loan)
+| caps6               = 16
+| goals6              = 5
+| years7              = 2012–2013
+| clubs7              = R.C.D. Mallorca|Mallorca           
+| caps7               = 29
+| goals7              = 6
+| years8              = 2013–2015
+| clubs8              = Villarreal C.F.|Villarreal        
+| caps8               = 58
+| goals8              = 12
+| nationalyears1      = 2005
+| nationalteam1       = Mexico national under-17 football team|Mexico U17
+| nationalcaps1       = 8
+| nationalgoals1      = 2
+| nationalyears2      = 2007
+| nationalteam2       = Mexico national under-20 football team|Mexico U20
+| nationalcaps2       = 6
+| nationalgoals2      = 5
+| nationalyears3      = 2012
+| nationalteam3       = Mexico national under-23 football team|Mexico U23
+| nationalcaps3       = 9
+| nationalgoals3      = 3
+| nationalyears4      = 2007–
+| nationalteam4       = Mexico national football team|Mexico
+| nationalcaps4       = 93
+| nationalgoals4      = 18
+|years9=2015-present|clubs9=LA Galaxy|caption=Dos Santos playing with Mexico at the 2017 FIFA Confederations Cup}}
+'''Giovani dos Santos''' (born 11 May 1989) is a Mexico|Mexican Association football|football player. He plays for the American Major League Soccer|MLS club Los Angeles Galaxy|LA Galaxy and the Mexico national football team|Mexico national team.
+
+ Career 
+Dos Santos began his career with FC Barcelona B until he was 18 when he moved to the first team, F.C. Barcelona|FC Barcelona. He then moved to Tottenham Hotspur F.C.|Tottenham Hotspur in summer 2008. He was then sent on loan to Ipswich Town F.C. in 2009, then to Galatasaray S.K. in 2010, Racing Santander in 2011, R.C.D. Mallorca in 2012, Villarreal C.F.|Villarreal in 2014, and LA Galaxy in 2015.
+
+ Club career statistics 
+
+
+
+|-
+|2007/08||F.C. Barcelona|Barcelona||La Liga||28||3||4||0||0||0||5||1||37||4
+
+|-
+|2008/09||Tottenham Hotspur F.C.|Tottenham Hotspur||English Premier League|Premier League||6||0||1||0||1||0||4||1||12||1
+|-
+|2008/09||Ipswich Town F.C.|Ipswich Town||Football League Championship|League Championship||8||4||0||0||0||0||colspan="2"|-||8||4
+|-
+|2009/10||Tottenham Hotspur F.C.|Tottenham Hotspur||English Premier League|Premier League||1||0||0||0||2||0||colspan="2"|-||3||0
+|-
+
+|2009/10||Galatasaray S.K.|Galatasaray||Süper Lig||||||||||||||||||||
+28||3||4||0||0||0||5||1||37||4
+15||4||1||0||3||0||4||1||23||5
+0||0||0||0||0||0||0||0||0||0
+43||7||5||0||3||0||9||1||60||9
+|}
+
+ International career statistics 
+''As of 16 November 2016''
+
+|-
+|2007||4||0
+|-
+|2008||6||0
+|-
+|2009||12||5
+|-
+|2010||12||1
+|-
+|2011||19||5
+|-
+|2012||6||3
+|-
+|2013||14||0
+|-
+|2014||10||1
+|-
+|2015||9||2
+|-
+|2016||3||1
+|-
+!Total||93||18
+|}
+
+Category:People from Monterrey

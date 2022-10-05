@@ -1,0 +1,23 @@
+
+
+'''Amazon Kindle''' is a machine for reading electronic books (e-books). The Kindle is designed by Lab126, a part of the Amazon.com company. The first Kindles were sold in the United States on November 19, 2007. Six Computer hardware|hardware devices, known as "Kindle", "Kindle 2", "Kindle 3", "Kindle 4", "Kindle Touch", and "Kindle Fire" support this platform. There are also software versions of Kindle than can be used on smartphones and computers.
+
+The hardware Kindles (except for the Kindle Fire) use an electronic paper display and download books and websites over Amazon Whispernet using the Sprint Nextel EVDO network. A Wireless network can also be used. Kindles can be used without a computer, and Whispernet is accessible without any fee.
+ Original Kindle 
+
+Upon the initial launch of the Kindle, Amazon's Kindle Store had more than 88,000 digital books available for download, with the number of books increasing.
+The Kindle retailed for $399; Amazon subsequently lowered the price to $359.  Amazon does not sell the Kindle outside the United States as Whispernet only works in the U.S. Plans for a launch in the UK and other European countries are being delayed by problems with signing up suitable Wi-Fi operators.
+
+The internal memory of the Amazon Kindle
+
+A reviewer from CNET expressed concern with the presentation of the device despite its comfortable design. The picture to the left displays a distinctly beige colored device. In point of fact, both Kindle versions are a matte bright white with all button labels and text colored gray. The Kindle 1 is exactly the same color as the Kindle 2 pictured in the upper right-hand corner of this page.
+
+ Kindle 2 
+On February 9, 2009, Amazon announced the Kindle 2, which became available for purchase on February 23, 2009 for the price of $359, and lowered on July 8, 2009 for $299. The new Kindle features improved battery life, 20 percent faster page-refreshing, a text-to-speech option to read the text out loud,
+
+According to an early review by website iFixIt, the new Kindle 2 features a 532&nbsp;MHz 90&nbsp;nm processor, 2GB main memory, and 1530 mAh lithium polymer battery.
+
+Kindle 3
+The Kindle 3 comes in 2 models. A wi-fi and a 3G. The Wi-Fi can only download books over wireless internet. However the 3G Kindle can download books over Wi-Fi and 3g.
+
+Category:Amazon (company)

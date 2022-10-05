@@ -1,0 +1,22 @@
+
+{{Taxobox
+| name = ''Dimetrodon''
+| fossil_range = early Permian 295–272 mya
+| image = Dimetrodon.jpg
+| image_width = 200px
+| image_caption = ''Dimetrodon grandis'' skeleton at the  National Museum of Natural History
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Synapsida
+| ordo = Pelycosauria
+| familia = †Sphenacodontidae
+| genus = †'''''Dimetrodon'''''
+| genus_authority = Edward Drinker Cope|Cope, 1878}}
+
+
+'''''Dimetrodon''''' was a pelycosaur (early Synapsida) from the first part of the Permian period (about 295–272 million years ago). 
+
+''Dimetrodon'' walked on four legs and had a tall, curved skull with large teeth of different sizes set along the jaws. Most fossils have been found in the southwestern United States, from red beds in Texas and Oklahoma. The largest known species of ''Dimetrodon'' is ''D.&nbsp;angelensis'' at . 
+''Dimetrodon'' was a carnivore, probably the top predator in its environment. Its main feature is the large sail on its back formed by elongated spines extending upwards from the vertebrae. The spines would be joined by epidermis|skin. The general opinion of palaeontologists is that it was a homoiotherm|temperature-regulating device.Florides G.A. ''et al'' 2001. Natural environment and thermal behaviour of Dimetrodon limbatus. ''Journal of Thermal Biology'' '''26''' (1): 15–20. 
+In evolutionary terms, ''Dimetrodon'' was a synapsid, a line of land animals which eventually gave rise to the mammals. It was not on the direct line of descent,Benson R.J. 2012. Interrelationships of basal synapsids: cranial and postcranial morphological partitions suggest different topologies. ''Journal of Systematic Paleontology'' '''10''' (2). 
+Category:Pelycosaurs

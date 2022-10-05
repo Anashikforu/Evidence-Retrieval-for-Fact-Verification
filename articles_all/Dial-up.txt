@@ -1,0 +1,10 @@
+
+
+'''Dial-up internet access''', usually just called '''Dial-up''', is a slow way of connecting to the Internet by using a telephone line. A modem is connected between a computer and a telephone line and then the modem is instructed to dial the phone number of an Internet service provider (ISP) to connect to the Internet. The ISP must be a dial-up service provider with several dial-up modems waiting to accept dial-up calls. This kind of internet is slower than Digital subscriber line|DSL.   
+
+In most parts of the world, dial-up service was the most common way of connecting to the internet in the late 20th century.  Since the middle of the 2000s it has become uncommon, being largely replaced by DSL and cable modem where those are not too expensive. 
+
+
+
+Category:Internet
+Category:Telecommunications

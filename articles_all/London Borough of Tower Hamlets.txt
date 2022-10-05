@@ -1,0 +1,26 @@
+{{ Infobox London Borough | 
+   name               = London Borough of Tower Hamlets |
+   short_name         = Tower Hamlets |
+   imagename          = Image:LondonTowerHamlets.png |
+   status             = London Boroughs|London borough | 
+   area_rank          = 348th |
+   area_km2           = 19.77 |
+   ons_code           = 00BG | 
+   adminhq           = Clove Crescent, Blackwall | 
+   ethnicity          = 51.4% White(42.9% White British, 1.9% Irish people|Irish,6.6% white other)36.6% British Asian|South Asian6.5% Black British2.6% Mixed race 1.8% British Chinese|Chinese 0.1% Arab  0.1% Jewish |
+   url                =    leadership         = Leader & Cabinet |
+   mayor              = Shafiqul Haque |
+   mps                = Jim Fitzpatrick (politician)|Jim FitzpatrickRushanara Ali |
+   gla_constituency   = City and East London |
+   gla_member         = John Biggs}}
+
+The '''London Borough of Tower Hamlets''' is a London Borough a bit east of the City of London and north of the River Thames.
+
+Victoria Park is one of the most important parks. It has a canal running through it and lots people like to walk their dogs.
+
+
+
+
+
+
+Category:London Borough of Tower Hamlets| 

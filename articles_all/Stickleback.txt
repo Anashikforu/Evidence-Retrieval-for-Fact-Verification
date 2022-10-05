@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Sticklebacks
+| image = Gasterosteus aculeatus.jpg
+| image_width = 250px
+| image_caption = Three-spined stickleback, ''Gasterosteus aculeatus''
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Actinopterygii
+| ordo = Gasterosteiformes
+| familia = '''Gasterosteidae'''
+| }}
+Image:Faroe_stamp_248_stickleback_(gasterosteus_aculeatus).gif|right|thumb|250px|Fish in the Faroe Islands:Stickleback (''Gasterosteus aculeatus'')Faroese stamp issued: 7 Feb 1994Artist: Astrid Andreasen
+
+'''Sticklebacks''' are fish of the '''Gasterosteidae''' family (biology)|family. FishBase currently recognises sixteen species in the family, grouped in five genera. Several of the species have a number of recognised subspecies, and the taxonomy of the family is thought to be in need of revision. 
+
+An unusual features of sticklebacks is that they have no Scale (zoology)|scales, although some species have bony armour plates. They are related to pipefish and seahorses. Stickleback species are found in fresh water environments in Europe, Asia and North America. They feed on small crustaceans and fish larvae.
+
+Sticklebacks have strong separated spines in the dorsal fin. All species show similar mating behaviour, with co-operation between the sexes, and protection of the ovum|eggs. The males construct a nest from vegetation held together by secretions from their kidneys. The males then attract females to the nest. The females lay their eggs inside, where the males fertilise them. The males then guards the eggs until they hatch.
+
+Category:Teleosts

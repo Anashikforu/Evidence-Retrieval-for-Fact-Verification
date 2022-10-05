@@ -1,0 +1,22 @@
+{{Taxobox
+| name = Copepod
+| image = copepodkils.jpg
+| image_width = 250px
+| regnum = Animalia
+| phylum = Arthropoda
+| subphylum = Crustacean|Crustacea
+| classis = Maxillopoda
+| subclassis = '''Copepoda'''
+| subclassis_authority = Henri Milne-Edwards|H. Milne-Edwards, 1840}}
+
+'''Copepod'''s (meaning "oar feet") are small, shrimp-like crustaceans that swim in seas, lakes, and ponds. Copepods are very important in the Food chain|food web, and many animals eat them.
+
+There are 10 Order (biology)|orders of copepods and over 4500 species; a few orders are free-swimming, but many are parasites (of fish). The free-swimming copepods move through the water in jerky motions by moving their swimming legs. 
+
+
+
+
+
+
+
+Category:Crustaceans

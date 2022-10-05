@@ -1,0 +1,58 @@
+ At standard temperature and pressure, this hydrogen gas (H2) has no colour, smell or taste. It is not toxic. It is a nonmetal and burns very easily.
+
+= Combustion =
+Molecular hydrogen is flammable and reacts with oxygen:
+
+2 H2(g) + O2(g) → 2 H2O(l) + 572 kJ (286 kJ/mol)
+
+At temperatures above 500 degrees Celsius, hydrogen spontaneously ignites in air.
+
+= Compounds =
+While hydrogen gas in its pure form is not reactive, it does form compounds with many elements, particularly halogens, which are very electronegative. Hydrogen also forms vast arrays with carbon atoms, forming hydrocarbons. The study of the properties of hydrocarbons are known as organic chemistry. 
+
+The H- anion (negatively charged atom) is called a hydride, although the term is not widely used. An example of a hydride is lithium hydride (LiH), which is used as a "spark plug" in nuclear weapons.
+
+= Acids =
+Acids dissolved in water typically contain high levels of hydrogen ions, in other words, free protons. The level of them is usually used to determine its pH, which basically means the content of hydrogen ions in a particular volume. For example, hydrochloric acid, found in people's stomachs, can dissociate into a chloride anion and a free proton, and the property of the free proton is how it can digest food by corroding it.
+
+Although rare on Earth, the H3+ cation is one of the most common ions in the universe.
+
+= Isotopes =
+:''Main article: isotopes of hydrogen''
+Hydrogen has 7 known isotopes, two of which are stable (1H and 2H), which are commonly referred to protium and deuterium. The isotope 3H is known as tritium and has a half life of 12.33 years, and is produced in small amounts by cosmic rays. The remaining 4 isotopes have half lives on the scale of yoctoseconds.
+
+ Hydrogen in nature 
+In its pure form on Earth, hydrogen is usually a gas. Hydrogen is also one of the parts that make up a water molecule. Hydrogen is important because it is the fuel that powers the Sun and other stars.
+Hydrogen makes up about 74% of the entire universe. Hydrogen's symbol on the Periodic Table of Elements is H.
+
+Pure hydrogen is normally made of two hydrogen atoms connected together. Scientists call these diatomic molecules. Hydrogen will have a chemical reaction when mixed with most other elements. It has no color or Odor|smell.
+
+Pure hydrogen is very uncommon in the Earth's atmosphere, because nearly all primordial hydrogen would have escaped into space due to its weight. In nature, it is usually in water.  Hydrogen is also in all living things, as a part of the organic compounds that living things are made of.  In addition, hydrogen atoms can combine with carbon atoms to form hydrocarbons.  Petroleum and other fossil fuels are made of these hydrocarbons and commonly used to create energy for human use.
+
+Some other facts about hydrogen:
+ It is a gas at room temperature
+ It acts like a metal when it is solid.
+ It is the lightest element in the Universe.
+ It is the most common element in the Universe. It burns or explosion|explodes above 1000°F / 528°C, such as in fire.
+ glows purple when it is in Plasma (physics)|plasma state of matter|state.
+
+ History of Hydrogen 
+Hydrogen was first separated in 1671 by Robert Boyle.Boyle, R. (1672). "Tracts written by the Honourable Robert Boyle containing new experiments, touching the relation betwixt flame and air..." London. In 1776, Henry Cavendish identified it as its own Elementary particle|element and called it "inflammable air". He realized in 1781 that burning it made water.Boyle, R. (1672). "Tracts written by the Honourable Robert Boyle containing new experiments, touching the relation betwixt flame and air..." London.
+
+Antoine Lavoisier gave Hydrogen its name, from the Greek language|Greek word for water, 'υδορ (pronounced /HEEW-dor/) and gennen meaning to "generate"
+
+ Uses of Hydrogen 
+The main uses are in the petroleum industry and in making ammonia by the Haber process. Some is used elsewhere in the chemical industry. A little of it is used as fuel, for example in rockets for spacecraft. Most of the hydrogen that people use comes from a chemical reaction between natural gas and steam.
+
+= Nuclear fusion =
+
+Nuclear fusion is a very powerful source of energy. It relies on forcing atoms together to make helium and energy, exactly as happens in a star like the Sun, or in a hydrogen bomb. This needs a large amount of energy to get started, and is not easy to do yet. A big advantage over nuclear fission, which is used in today's nuclear power stations, is that it makes less nuclear waste and does not use a toxic and rare fuel like uranium.  More than 600 million tons of hydrogen undergo fusion every second on the Sun.
+
+= Using hydrogen =
+Hydrogen is mostly used in the petroleum industry, to change heavy petroleum fractions into lighter, more useful ones. It is also used to make ammonia. Smaller amounts are burned as fuel. Most hydrogen is made by a reaction between natural gas and steam.
+
+The electrolysis of water breaks water into hydrogen and oxygen, using electricity. Burning hydrogen combines with oxygen molecules to make steam (pure water vapor). A fuel cell combines hydrogen with an oxygen molecule, releasing an electron as electricity. For these reasons, many people believe hydrogen power will eventually replace other synthetic fuels.
+
+Hydrogen can also be burned to make heat for steam turbines or internal combustion engines. Like other synthetic fuels, hydrogen can be created from natural fuels such as coal or natural gas, or from electricity, and therefore represents a valuable addition to the power grid; in the same role as natural gas. Such a grid and infrastructure with :en:Fuel cell vehicle|fuel cell vehicles is now planned by a number of countries including Japan, Korea and many European countries. This allows these countries to buy less petroleum, which is an economic advantage. The other advantage is that used in a fuel cell or burned in a combustion engine as in a hydrogen car, the motor does not make pollution. Only water, and a small amount of  nitrogen oxides, forms.
+
+Category:Hydrogen| 

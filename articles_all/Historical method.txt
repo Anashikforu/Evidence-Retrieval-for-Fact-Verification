@@ -1,0 +1,14 @@
+The '''historical method''' are the :wikt:technique|techniques and guidelines by which historians use primary sources and other evidence to research and then to historiography|write history.
+
+ Guidelines 
+
+Following Garraghan (in: ''A Guide to Historical Method'', 168) puts six questions that should be answered as minimal standard for a sound historical method:
+
+# ''When'' was the source, written or unwritten, produced (date)?
+# ''Where'' was it produced (localization)?
+# ''By whom'' was it produced (authorship)?
+# ''From what pre-existing material'' was it produced (analysis)?
+#''In what original form'' was it produced (integrity)?
+# ''What is the evidential value'' of its contents (credibility)?
+
+Category:History|

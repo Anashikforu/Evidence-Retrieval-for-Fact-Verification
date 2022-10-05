@@ -1,0 +1,25 @@
+{{Taxobox
+| name = Paa vicina
+| image = Nanorana vicina from Sclater 1892.jpg
+| status = LC
+| status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Amphibia
+| ordo = Anura
+| familia = Ranidae
+| genus = ''Paa''
+| species = '''''P. vicina'''''
+| binomial = ''Paa vicina''
+| binomial_authority = (Stoliczka, 1872)
+| synonyms = }}
+
+'''''Paa vicina''''' is a species of frog in the Ranidae family. It is found in the India|Republic of India and Pakistan. Its natural habitats are subtropical or tropical moist montanes, subtropical or tropical high-altitude grassland, rivers, and freshwater springs. It is threatened by habitat loss.
+
+
+
+
+
+
+Category:Frogs
+Category:Amphibians of Pakistan

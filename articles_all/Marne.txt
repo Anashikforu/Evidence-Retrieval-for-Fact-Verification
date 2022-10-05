@@ -1,0 +1,155 @@
+
+'''Marne''' is a Departments of France|department in northeastern France named after the river Marne (river)|Marne which flows through the department.  The Prefectures in France|prefecture (Capital city|capital) of Marne is Châlons-en-Champagne (formerly known as Châlons-sur-Marne).
+
+The Champagne (wine)|Champagne vineyards producing the world-famous sparkling wine are located within Marne.
+
+History
+Marne is one of the original 83 departments created during the French Revolution on 4 March 1790 with Châlons-sur-Marne as is Capital city|capital. It was formed with part of the former province of Champagne (province)|Champagne.
+
+It was divided in six districts: Châlons-sur-Marne, Reims, Épernay, Sézanne, Sainte-Menehould and Vitry-le-François.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the six districts were changed into five ''arrondissements'': Châlons-sur-Marne, Épernay, Reims, Sainte-Menehould and Vitry-le-François.
+
+After the Battle of Waterloo (18 June 1815), the department was occupied by the Austrian army from June 1815 to November 1818.
+
+On 10 September 1926, the ''arrondissement'' of Sainte-Menehould was eliminated but in 1940 Sainte-Menehould was made again an ''arrondissement''.
+
+In 1995, the name of Châlons-sur-Marne was changed to Châlons-en-Champagne but it was rejected in 1997. But, finally, this change was accepted in 1998.
+
+Geography
+The Marne department is in the Grand Est region after being part of the Champagne-Ardenne region till 2016. It is surrounded by 6 departments in 3 regions:
+ Grand Est region
+ Ardennes (department)|Ardennes department (north)
+ Meuse (department)|Meuse department (east)
+ Haute-Marne department (southeast)
+ Aube department (south)
+ Île-de-France region
+ Seine-et-Marne department (southwest)
+ Hauts-de-France region
+ Aisne department (west)
+
+
+
+Marne has an area of  wide from Cormicy to Clesles.
+
+
+There are three Geography|geographic regions in the department:
+# The ''Champagne crayeuse'' in the centre of the department; it is a plain where cereals are grown.
+# A region with low hills in the eastern part of the department.
+# Champagne (wine)|Champagne vineyards, in the western part of the deparment. Here is the ''Montagne de Reims'' ("Mountain of Reims") where are the highest points of the department in the forests of the Verzey ''commune''; several hills are ).
+
+The Marne (river)|Marne river flows through the department from the southeast to the west.
+
+=Climate=
+This area is characterized by climates with few extremes of temperature. The Köppen climate classification type for the climate at Châlons-en-Champagne is a "Marine West Coast Climate" and of the subtype "Cfb".
+
+The average amount of precipitation for the year in Châlons-en-Champagne is .
+
+The average temperature for the year in Châlons-en-Champagne is 
+
+Administration
+Marne is managed by the ''Departmental Council of Marne'' in Châlons-en-Champagne. The department is part of the Grand Est region.
+
+=Administrative divisions=
+There are 5 Arrondissements of France|''arrondissements'' (districts), 23 Cantons in France|''cantons'' and 616 Communes in France|''communes'' (Municipality|municipalities) in Marne.
+
+
+
+
+
+The following is a list of the 23 Cantons of France|cantons of the '''Marne''' department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Argonne Suippe et Vesle|Argonne Suippe et Vesle (5101)
+# Canton of Bourgogne|Bourgogne (5102)
+# Canton of Châlons-en-Champagne-1|Châlons-en-Champagne-1 (5103)
+# Canton of Châlons-en-Champagne-2|Châlons-en-Champagne-2 (5104)
+# Canton of Châlons-en-Champagne-3|Châlons-en-Champagne-3 (5105)
+# Canton of Dormans-Paysages de Champagne|Dormans-Paysages de Champagne (5106)
+# Canton of Épernay-1|Épernay-1 (5107)
+# Canton of Épernay-2|Épernay-2 (5108)
+# Canton of Fismes-Montagne de Reims|Fismes-Montagne de Reims (5109)
+# Canton of Mourmelon-Vesle et Monts de Champagne|Mourmelon-Vesle et Monts de Champagne (5110)
+# Canton of Reims-1|Reims-1 (5111)
+# Canton of Reims-2|Reims-2 (5112)
+# Canton of Reims-3|Reims-3 (5113)
+# Canton of Reims-4|Reims-4 (5114)
+# Canton of Reims-5|Reims-5 (5115)
+# Canton of Reims-6|Reims-6 (5116)
+# Canton of Reims-7|Reims-7 (5117)
+# Canton of Reims-8|Reims-8 (5118)
+# Canton of Reims-9|Reims-9 (5119)
+# Canton of Sermaize-les-Bains|Sermaize-les-Bains (5120)
+# Canton of Sézanne-Brie et Champagne|Sézanne-Brie et Champagne (5121)
+# Canton of Vertus-Plaine Champenoise|Vertus-Plaine Champenoise (5122)
+# Canton of Vitry-le-François-Champagne et Der|Vitry-le-François-Champagne et Der (5123)
+
+
+Demographics
+The inhabitants of the Marne department are known, in French language|French, as ''Marnais'' (women: ''Marnaises''),
+
+Marne had a population, in 2014, of 570,817, for a population density of  inhabitants/km2. The ''arrondissement'' of Reims, with 296,374 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Marne'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+ImageSize  = width:400 height:373
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:600000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:100000 start:0
+ScaleMinor = gridcolor:lightgrey increment:50000 start:0
+BackgroundColors = canvas:sfondo
+BarData=
+  bar:1968 text:1968
+  bar:1975 text:1975
+  bar:1982 text:1982
+  bar:1990 text:1990
+  bar:1999 text:1999
+  bar:2008 text:2008
+  bar:2014 text:2014
+PlotData=
+  color:barra width:30 align:left
+  bar:1968 from:0 till: 485388
+  bar:1975 from:0 till: 530399
+  bar:1982 from:0 till: 543627
+  bar:1990 from:0 till: 558217
+  bar:1999 from:0 till: 565153
+  bar:2008 from:0 till: 566010
+  bar:2014 from:0 till: 570817
+PlotData=
+ bar:1968 at: 485388 fontsize:S text: 485,388 shift:(-13,7)
+ bar:1975 at: 530399 fontsize:S text: 530,399 shift:(-18,5)
+ bar:1982 at: 543627 fontsize:S text: 543,627 shift:(-18,5)
+ bar:1990 at: 558217 fontsize:S text: 558,217 shift:(-18,5)
+ bar:1999 at: 565153 fontsize:S text: 565,153 shift:(-18,5)
+ bar:2008 at: 566010 fontsize:S text: 566,010 shift:(-18,5)
+ bar:2014 at: 570817 fontsize:S text: 570,817 shift:(-18,5)
+
+
+
+The 10 ''Communes of France|communes'' with more inhabitants in the Marne department are:
+
+
+
+
+Gallery
+
+File:The Porte Mars, an ancient Roman triumphal arch in Reims dating from the 3rd century AD and the widest arch in the Roman world, Durocortorum (Reims, France) (9292412785).jpg|The ''Porte Mars'' in Reims.
+File:La Cathédrale de Reims .jpg|Cathedral of Reims
+File:View of Épernay from Mont Bernon.jpg|Vineyards near Epernay
+File:Notredamedevaux-chevet.jpg|Notre-Dame-en-Vaux church in Châlons-en-Champagne
+
+
+Related pages
+ Arrondissements of the Marne department
+ Communes of the Marne department
+
+Category:Departments in Grand Est

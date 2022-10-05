@@ -1,0 +1,39 @@
+
+
+| unit_pref                = Imperial
+
+| area_footnotes           = 
+| area_total_km2           = 1.89
+| area_total_sq_mi         = 0.73
+| area_land_km2            = 1.88
+| area_land_sq_mi          = 0.73
+| area_water_km2           = 0.01
+| area_water_sq_mi         = 0.00
+| elevation_footnotes      = 
+| elevation_m              = 
+| elevation_ft             = 4865
+
+| population_footnotes     = 
+| population_total         = 152
+| population_as_of         = 2010 United States Census|2010
+| pop_est_footnotes        = 
+| population_est           = 152
+| pop_est_as_of            = 2016
+| population_density_km2   = 80.73
+| population_density_sq_mi = 209.08
+| timezone                 = Mountain Time Zone|Mountain (MST)
+| utc_offset               = -7
+| timezone_DST             = Mountain Time Zone|MDT
+| utc_offset_DST           = -6
+| postal_code_type         = ZIP code
+| postal_code              = 83615
+| area_code                = Area code 208|208
+| blank_name               = Federal Information Processing Standard|FIPS code
+| blank_info               = 16-22330
+| blank1_name              = Geographic Names Information System|GNIS feature ID
+| blank1_info              = 0396410
+| website                  = 
+}}
+'''Donnelly''' is a town of Idaho in the United States. It is in Valley County, Idaho|Valley County. In 2010, there were 152 people living in the town.
+
+Category:Cities in Idaho

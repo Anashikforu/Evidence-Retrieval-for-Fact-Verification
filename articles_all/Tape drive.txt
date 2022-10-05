@@ -1,0 +1,5 @@
+Image:Dds tape drive 01.jpg|thumb|300px|DDS tape drive. Above, from left to right: Digital Data Storage|DDS-4 tape (20 GB), 112m Data8 tape (2.5 GB), Quarter Inch Cartridge|QIC DC-6250 tape (250 MB), and a 3.5" floppy disk (1.44 MB).
+A '''tape drive''' or '''streamer''' is a component that is often attached to a computer. It is used to write Information|data to magnetic tape or to read data from it. Usually people use it to do backups. Tape drives are different from hard drives in that the access to the data is sequential (in order). This means to read a certain part of data, all the data before it needs to be read as well. Also tape drives are slow, compared to hard drives. Current capacities range from tens of gigabytes to almost a terabyte, per Cartridge (electronics)|cartridge.
+
+
+Category:Storage devices

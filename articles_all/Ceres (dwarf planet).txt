@@ -1,0 +1,47 @@
+ 
+| aphelion = 447,838,164&nbsp;km2.987&nbsp;Astronomical unit|AU
+| perihelion = 381,419,582&nbsp;km2.544&nbsp;AU
+| semimajor = 414,703,838&nbsp;km2.765&nbsp;956&nbsp;424&nbsp;AU—The listed values were rounded at the magnitude of uncertainty (1-sigma).
+| eccentricity = 0.07976017
+| period = 1679.819&nbsp;days4.599&nbsp;julian year (astronomy)|years
+| avg_speed = 17.882&nbsp;km/s
+| mean_anomaly = 108.509°
+| inclination = 10.586712°
+| asc_node = 80.40696°
+| arg_peri = 73.15073°
+
+| mean_radius = 
+| flattening = 0.067&nbsp;±&nbsp;0.005 
+| mass=9.46 ± 0.04&nbsp;kgD. T. Britt | display-authors = etal ''Asteroid density, porosity, and structure'', pp. 488 in | density=2.08&nbsp;g/cm3
+| surface_grav = 0.27 Acceleration|m/s²0.028 g-force|g
+| escape_velocity=0.51&nbsp;km/s
+| sidereal_day = 0.3781&nbsp;d9.074&nbsp;h
+| albedo=0.113&nbsp;(geometric albedo|geometric)
+
+| temp_name1 = Kelvin
+| min_temp_1 =
+| mean_temp_1 = ~167&nbsp;K
+| max_temp_1 = 239&nbsp;K
+| spectral_type=G-type asteroid|G
+| magnitude = 6.7 to 9.32
+| abs_magnitude =3.34
+| angular_size = 0.84"Ceres Angular Size @ Feb 2009 Opposition: 974km dia / (1.58319AU  149 597 870km)  206265 = 0.84" to 0.33"
+}}
+
+'''Ceres''', also known as 1 Ceres (symbol: .
+
+It was discovered on 1 January 1801, by Giuseppe Piazzi, and is named after the Roman mythology|Roman goddess Ceres (mythology)|Ceres, as the goddess of growing plants, the harvest, and of motherly love. After about 200 years from its discovery, the International Astronomical Union decided to upgrade Ceres from an asteroid (or minor planet) to dwarf planetary status in 2006.
+
+With a diameter of about 950&nbsp;km, Ceres is by far the largest and most massive object in the asteroid belt, and has about a third of the belt's total mass. It was once thought to be smaller than 4 Vesta|Vesta, which is brighter.  The asteroid is spherical, unlike the irregular shapes of smaller bodies with lower gravity. At its brightest it is still too dim to be seen with the naked eye.
+On September 27, 2007, NASA launched the Dawn (spacecraft)|Dawn space probe to explore Ceres and 4 Vesta|Vesta. In 2015, Dawn became the first spacecraft to visit a dwarf planet, arriving at Ceres a few months before NASA's New Horizons spacecraft visited Pluto, another dwarf planet.
+
+Ceres has an unusual crater, Occator which contains bright salts.
+
+ Images 
+
+
+ Related pages 
+ Ceres
+ List of planets
+
+Category:Dwarf planets|Ceres

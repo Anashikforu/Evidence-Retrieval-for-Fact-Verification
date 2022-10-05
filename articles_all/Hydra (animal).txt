@@ -1,0 +1,19 @@
+{{Taxobox
+| name = ''Hydra (animal)''
+| image =Hydra biology.jpg
+| image_width = 250px
+| image_caption = ''Hydra viridis''
+| regnum = Animalia
+| phylum = Cnidaria
+| classis = Hydrozoa
+| ordo = Hydroida
+| familia = Hydridae
+| genus = '''''Hydra'''''
+| genus_authority = Carolus Linnaeus|Linnaeus, 1758}}
+
+'''''Hydra (animal)''''' are simple invertebrates, with two layers of body cells. They live in fresh water. Their body is radially symmetry|symmetric. They have a central cavity through which they take in food and expel waste. 
+
+As Cnidaria they have cnida|stinging cells on their tentacles. They are hydrozoa, and belong to the same order as other polyps. Most ''Hydra'' are microscope|microscopic in size. Hydras can be found in almost any unpolluted body of water. Hydras reproduce by budding. In budding, the offspring forms as a lump on the parent and eventually becomes big enough to break off and live by itself. They can move if they need to by a kind of slow somersaulting motion. 
+
+Recent research has found they produce an antimicrobe|microbial protein ''hydramacin'', which protects their outer layer from bacterial infection.Jung S. ''et al'' 2009. Hydramacin-1, structure and antibacterial activity of a protein from the basal metazoan ''Hydra''. ''Journal of Biological Chemistry'' '''284''' (3): 1896–1905.
+Category:Cnidarians

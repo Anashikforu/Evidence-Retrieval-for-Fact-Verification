@@ -1,0 +1,61 @@
+{{Infobox National football team
+| Name              = Tanzania
+| Badge             = 
+| Badge_size        = 200px
+| Nickname          = ''Taifa Stars''
+| Association       = Tanzania Football Federation
+| Sub-confederation = Council for East and Central Africa Football Associations|CECAFA (East & Central Africa)
+| Confederation     = Confederation of African Football|CAF (Africa)
+| Coach             = Etienne Ndayiragije
+| Most caps         = Mrisho Ngasa (100)
+| Top scorer        = Mrisho Ngasa (25)
+| Home Stadium      = National Stadium (Tanzania)|National Stadium
+| FIFA Trigramme    = TAN
+| FIFA Rank         = 
+| FIFA max          = 65
+| FIFA max date     = February 1995
+| FIFA min          = 175
+| FIFA min date     = October–November 2005
+| Elo Rank          = 
+| Elo max           = 75
+| Elo max date      = 11 November 1979
+| Elo min           = 168
+| Elo min date      = 19 December 2004
+
+| pattern_la1 =_TZA1922h
+| pattern_b1  =_TZA1922h
+| pattern_ra1 =_TZA1922h
+| pattern_sh1 =_TZA1922h
+| leftarm1    =0032C8
+| body1       =0032C8
+| rightarm1   =0032C8
+| shorts1     =000000
+| socks1      =0032C8
+| pattern_la2 =_TZA1922a
+| pattern_b2  =_TZA1922a
+| pattern_ra2 =_TZA1922a
+| pattern_sh2 =_TZA1922a
+| leftarm2    =FFFFFF
+| body2       =FFFFFF
+| rightarm2   =FFFFFF
+| shorts2     =141414
+| socks2      =FFFFFF
+| pattern_la3 =TZA1922tr
+| pattern_b3  =_TZA1922tr
+| pattern_ra3 =_TZA1922tr
+| leftarm3    =128209
+| body3       =14A00A
+| rightarm3   =128209
+| shorts3     =14A00A
+| socks3      =14A00A
+
+| First game         =   (Uganda; 1945)
+| Largest win        =   (Kampala, Uganda; December 1, 2012)
+| Largest loss       = '''  (Tanganyika; 1956)
+| Regional name      = Africa Cup of Nations
+| Regional cup apps  = 2
+| Regional cup first = 1980 African Cup of Nations|1980
+| Regional cup best  = Group stage (1980 African Cup of Nations|1980 and 2019 Africa Cup of Nations|2019)
+|Captain=Mbwana Samatta}}
+'''Tanzania national football team''' is the national football (soccer)|football team of Tanzania.
+

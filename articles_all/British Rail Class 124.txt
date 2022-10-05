@@ -1,0 +1,30 @@
+{{Infobox DMU
+|name = British Rail Class 124
+|image = 
+|imagesize = 240px
+|background = #0033cc
+|caption = 
+|Manufacturer = BR Swindon Works
+|Operator = British Rail
+|Formation =  
+|Built =1960
+|LinesServed = 
+|InService = 1960-
+|CarLength = 64 ft 6 in
+|CarWidth = 9 ft 3 in 
+|CarHeight = 12 ft 9 1/2 in
+|Weight = 41 tons
+|Capacity = 
+|MaxSpeed =  70 mph (112 km/h) 
+|Gauge = 
+|Traction = 
+|Engine =Leyland Albion 230 hp
+|SafetySystem=
+ |}}
+The British Rail '''Class 124''' was a class of initially six-car Diesel Multiple Units used and built specifically for the trans-pennine route. They were progressively shortened during their lifetime, finally finishing as three-car sets. They were all withdrawn by the late 1980s. There was a movement to preserve a set of this class, however it was unsuccessful and eventually all were lost.
+
+
+
+
+
+Category:British Rail diesel multiple units|124

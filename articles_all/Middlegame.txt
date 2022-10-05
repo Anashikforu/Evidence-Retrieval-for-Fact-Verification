@@ -1,0 +1,60 @@
+The '''middlegame''' is the part of a game of chess after the List of chess openings|opening.
+
+The middlegame begins when most of the pieces have been developed. It is where most games are won and lost. Many games will end in resignation even before an endgame takes place.Hooper D. and Whyld K. 1992. ''The Oxford companion to chess''. 2nd ed, Oxford University Press.
+
+The simplest way to learn the middlegame is to select an opening and learn it well (see examples in English opening and French defence).
+
+ Elements of structure 
+A middlegame position has a structure, caused by the opening.Max Euwe|Euwe, Max and Kramer H. 1994. ''The middlegame'', books I and II. Hays.  These are some things to look for when looking at a middlegame position:
+
+'''•''' '''Material''': changes in the balance of material are critical. To lose a piece for nothing is enough to lose a game. If the players are evenly matched, then a rough material balance of pieces is normal. Material balance is often quite static: it doesn't change for many moves. On the other hand, material may be List of chess terms#Sacrifice|sacrificed, usually for a direct attack on the opposing king.
+
+'''•''' '''Development''': the opening may have left one player with a lead in development. That player has the initiative, and may attack before the opponent can get his pieces out. It is a temporary asset: if a lead in development is not used effectively, it will disappear.
+
+'''•''' '''The centre''': in the centre pieces have their greatest effect, and some (such as the knight) attack more squares in the centre than at the sides. The player who controls the centre will almost always have the advantage.
+
+'''•''' '''Mobility''': a position is mobile if the pieces can get where they need to. Almost all middle game positions have some limitations to mobility. Look for open files for the rooks, and open diagonals for the bishops. Outposts are what knights need, places where they can't easily be dislodged.
+
+'''•''' '''King safety''': where is the king? Ideally, a king should be castled, and kept behind a screen of pawns. Many other things may happen in practice. If a king is weak, it may be put under direct attack. If the kings castle on opposite wings, and queens are on the board, both players may try to assault the enemy king.
+
+'''•''' '''Pawns''' provide the skeleton of a position. They move slowly, and may become blocked for many moves. Everything takes place round the pawns. Different openings produce different pawn structures. In this way openings influence the whole game. Notice these things when they occur:
+:• isolated pawns: they have weak squares in front of them. A weak square is one which cannot be attacked by a pawn.
+:• doubled pawns, that is two pawns on the same file (that is, on the same vertical line): another weakness.
+:• pawns side by side: flexible, mobile, a positive feature.
+:• chains of pawns: notice the base is weaker than the apex.
+:• passed pawns, which cannot be stopped by any other pawn. They have the potential to burst through and disrupt the opponent's position.
+:• blocked pawn chains: pieces are forced to go one side or the other.
+
+What the player does is note the features on the board, and formulate a plan which takes the features into account. Then the player works out a sequence of moves. Of course, in practice, the opponent is interfering with the plan at every step!
+
+ Middlegame types 
+= Central struggles =
+ Isolated Queen's pawn 
+
+Safety of the king is probably the most common theme in the later middlegame. This example is a classic. Two pawns up, White could win the endgame by exchanging queens. However, he thought he saw something better.
+:1.Rc7
+This is a List of chess terms#S|skewer, because if the black queen moves aside, then Rxg7+ gives mate.
+:1... Rc5!!
+This brilliant reply puts its finger on White's weak point: the back rank.
+
+:if 2.Rxd7, then 2... Rc1:en:Chess_annotation_symbols|#
+:if 2.dxc5 then 2... Qd1#
+:if 2.Rxc5, then 2...Qxb7!, winning
+
+ Value of the pieces 
+Traditionally the value of the Pieces has been as follows:
+Pawn = 1 Pawn
+Knight = 3 Pawns
+Bishop = 3 Pawns
+Rook = 5 Pawns
+Queen = 9 or 10 Pawns
+
+Kasparov's version:
+Pawn = 1 Pawn
+Knight = 3 Pawns
+Bishop not in pair = 3 Pawns
+Bishop as part of Pair = 3.25 Pawns
+Rook = 5 Pawns 
+Queen = 9 Pawns
+
+Category:Chess

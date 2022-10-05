@@ -1,0 +1,26 @@
+
+
+'''Blocking users''' is an action that Help:Sysops and permissions|sysops can perform upon users or IP addresses to stop them from changing the wiki.
+
+Blocking
+Blocking users is fairly straightforward, visit Special:BlockIP and follow these steps:
+
+# '''IP Address or username''': Enter in the username, IP address, or Help:Range blocks|IP range to block in the "User" field. If blocking a username, make sure to check the spelling since nonexistent users can be blocked as well. Instead of typing this information in manually, it is also possible to click on a "block" link in recent changes, contributions pages, or history pages, which will automatically fill in this field with the appropriate username or IP address. A "Block this user" link is also present in the toolbox when viewing User and User talk pages.
+# '''Expiration''': Select when the block should expire from the drop-down, or manually type in an expiration time of the block. When manually typing in a time, follow the # '''Reason (optional)''': The reason selected from the drop-down combined with the other/additional reason specified will be used as the message displayed to the blocked user when they try to change a page. The default reasons in the drop-down may be changed at MediaWiki:Ipbreason-dropdown.
+# '''Select additional block options (optional)''': Depending on if a username or IP is being blocked and other options that may have been enabled, some or all of these options will be displayed on the form.
+# ''Block anonymous users only'': This option is only available when blocking an IP address. When chosen, registered users who try to change using a blocked IP address will still be able to change pages. Otherwise, they will be unable to change pages as well.
+# ''Prevent account creation'': Selecting this option will prevent the blocked username or IP address from making new accounts.
+# ''Automatically block the last IP address used by this user, and any subsequent IPs they try to change from'': This option is only available when blocking a username. When selected, the user's IP will become "autoblocked" (these show up as numbers such as #17 on Special:IPBlockList|the active block list) for a short period of time and any other IP addresses that the blocked user tries to change pages from will be blocked as well.
+# ''Prevent user from sending e-mail'': This option is only available when blocking a username. When this option is chosen, the user will not be able to use the Special:EmailUser interface.
+# ''Hide username from the block log, active block list and user list'': When selected, the blocked username or IP address will not be added to the Special:Log/block|block log, the Special:IPBlockList|active block list, or the Special:ListUsers|user list. Other users with the ability to view these hidden entries will still be able to see and unblock the username or IP address. This option is not enabled in a default installation of MediaWiki; the person putting the block in place must have the ''hideuser'' permission.  See .
+# ''Watch this user's user and talk pages'': When selected, this adds the blocked user's user page and user talk page to your watchlist.
+# Double-check everything you entered and click on '''Block this user'''. A message should appear saying if the block was successful or unsuccessful.
+
+Unblocking
+To unblock a username or IP address, go to the Special:IPBlockList|active block list and click on the (unblock) link next to the user or IP you wish to unblock. Then, enter in an optional reason and click on the unblock button. A message should appear saying if the unblock was successful or unsuccessful.
+
+What it means to be blocked
+Blocked users are not able to Help:Editing pages|change pages, Help:Managing files|upload files, Help:Moving a page|move pages, and perform other actions that additional  would grant. Effectively, this makes the wiki read only for those users. Sysops or others with access to the blocking and unblocking interface may still block and unblock others (also themselves) while blocked.
+
+
+Category:Help|Blocking users

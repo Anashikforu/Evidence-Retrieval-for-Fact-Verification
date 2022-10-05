@@ -1,0 +1,29 @@
+{{Infobox DMU
+|name = British Rail Class 488
+|image =  8313 at London Victoria.jpg
+|imagesize = 300px 
+|background = #0033cc
+|caption = 488313 at London Victoria on 18th March 2003. This was one of the last six sets in service with Gatwick Express until its withdrawal in 2004. It has since been preserved.
+|Manufacturer = BREL Derby
+|Operator = Gatwick Express 
+|Formation = 
+|Built = 
+|LinesServed = 
+|InService = 1973-2005
+|CarLength = 66ft 0 1/2in (20.12m)
+|CarWidth = 9ft 3in (2.82m)
+|CarHeight = 12ft 9 1/4in (3.89m)
+|Weight = 105 tonnes
+|Capacity = 
+|MaxSpeed = 90mph (145km/h)
+|Gauge = 
+|Traction = 
+|Engine =
+ |}}
+The British Rail '''Class 488''' are unpowered trailer sets, converted from British Rail Mark 2|Mark 2F coaches for the Gatwick Express service from London|London Victoria to Gatwick Airport.
+
+
+
+
+
+Category:British Rail electric multiple units|488

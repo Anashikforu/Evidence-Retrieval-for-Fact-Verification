@@ -1,0 +1,76 @@
+
+'''Diabetes mellitus type 1''', also called '''type 1 diabetes''', is an autoimmune disease that results in high blood sugar. This is because the body cannot create enough of the hormone insulin. People with this condition are insulin dependent - they require insulin injections without which they may die. People with type 1 diabetes are at increased risk of stroke, heart disease or gangrene. About 15% of people with diabetes have type 1.
+
+ Cause 
+Type 1 diabetes is a condition caused by a lack of insulin in the body. Insulin is a hormone produced by cells in the pancreas. Insulin is responsible for moving sugars out of the blood and into cells to be used for energy. If insulin is not made, the body will search for other ways to get the sugars needed to feed the body's cells, including breaking down muscle and fat, leading to a loss of weight.Type 1 Diabetes, NHS Choices, 
+Insulin is not being produced in the pancreas due to an autoimmune condition attacking its cells. The body's Immune System|immune system mistakenly attacks the cells responsible for producing insulin in the pancreas, the beta cell, damaging the cells in a way the prevents them from producing more insulin. As more and more cells are damaged, less insulin is produced in the body. This means that more sugar remains in the bloodstream rather than being moved into cells. This high blood sugar causes the symptoms seen in type 1 diabetes.Daneman D (2006). Type 1 diabetes. ''The Lancet'' 367(9513): 847-858
+
+
+
+The disease is thought to be strongly linked to genetic factors, but the trigger that starts the autoimmune disease is not currently known.
+
+ Epidemiology 
+In the past, type 1 diabetes was generally thought to be a disorder in children and teenagers. However, it's now been found that adults can be diagnosed with the disease.Atkinson MA et al. Type 1 Diabetes. The Lancet 2014; 383(9911): 69-82
+
+Although type 1 diabetes can now be diagnosed at any age, it is one of the most common chronic conditions in children and young adults. Being diagnosed at ages 5–7 or at the start of puberty is particularly common.Harjutsalo V, Sjoberg L, Tuomilehto J. Time trends in the incidence of type 1 diabetes in Finnish children: a cohort study. Lancet 2008 ;371: 1777–82 Type 1 diabetes is also slightly more common in boys.
+
+Cases of type 1 diabetes have been increasing across the world for several decades. Approximately 1 in 300 people are diagnosed with type 1 diabetes by the age of 18 in the United States.Maahs DM et al. Chapter 1: Epidemiology of Type 1 Diabetes. Endocrinol Metab Clin North Am 2010; 39(3): 481-497 If this rate continues, the number of cases of type 1 diabetes could double in the next decade.
+
+ Symptoms 
+In type 1 diabetes, symptoms generally develop over a few days or weeks, though may take longer in adults. The main symptoms are:Type 1 Diabetes - Symptoms, NHS Choices, 
+- Polydipsia|Feeling very thirsty
+- Urinating more Polyuria|often then normal, especially at Nocturia|night
+- Exhaustion
+- Loss of weight
+- Itchiness around the Genitals|genital area
+- Blurring of sight
+- Slow healing of wounds and grazes
+
+Nausea, vomiting and heavy breathing are more serious symptoms. They occur at a later stage in the disease, and if they're seen a sufferer should be taken to hospital immediately.
+
+ Complications 
+Sufferers of type 1 diabetes may have to deal with both short-term and long-term complications, particularly if the disease is not well managed.
+
+= Short term complications =
+
+ Hypoglycaemia 
+Hypoglycaemia is when blood sugar levels decrease to below normal. This is most commonly due to overuse of medications for diabetes type 1 like insulin or from poor diet control. The risk of suffering from low blood sugar is increased by drinking alcohol.Hypoglycemia. ''National Institute of Diabetes and Digestive and Kidney Diseases''. October 2008. 
+ Diabetic ketoacidosis 
+Diabetic ketoacidosis (DKA) is a very serious complication of type 1 diabetes. It is always a medical emergency and requires rapid medical attention to prevent further damage to a patient, if left untreated it can potentially lead to death. DKA occurs when there is not enough insulin in the body to supply sugars to the body's cells. In order to give its cells enough energy to survive, the body begins to produce acidic ketone bodies which are then used to feed energy to the cells.Diabetes Complications - Diabetic Ketoacidosis, Diabetes UK, 
+If too many ketone bodies build up the blood becomes acidic, damaging the body and leading to the symptoms:
+
+- Vomiting
+- Dehydration
+- Difficult breathing
+- Fast heartbeat
+- Confusion
+- Coma
+
+= Long term complications =
+
+If diabetes is not treated, even mildly raised blood sugar levels can damage nerves, organs and blood vessels in the body .
+
+ Small blood vessel complicationsDiabetes Type 1 - Complications, NHS Choices,  Diabetic retinopathy, damage to the blood vessels prevent enough blood from reaching the eye. This can lead the eye's retina being damaged, resulting in loss of vision or blindness.
+ Diabetic neuropathy, damage to blood vessels near nerves can result in reduced blood flow. This can damage the nerves, leading to a loss in the sense of touch, normally starting from the hands or feet, before spreading up the body.
+ Diabetic nephropathy, blood vessels in the kidney become damaged, making the kidney work less effectively. In sever cases. this can result in kidney failure.
+ Sexual dysfunction
+
+ Large blood vessel complicationsFowler MJ. Microvascular and Macrovascular Complications of Diabetes. Clinical Diabetes 2008; 26(2): 77-82 
+ Increased risk of heart disease and stroke
+ Narrowing of blood vessels (Peripheral artery disease|peripheral arterial disease).
+ Diabetic foot, narrowing of blood vessels reduces sensitivity and slows wound healing in the foot. If not managed appropriately, can lead to ulceration and gangrene in the foot. In very severe cases, amputation may be required.
+
+ Management 
+Currently, there is no known cure for diabetes. Instead, treatment is designed to help keep blood sugar levels normal in order to reduce the chances of complications developing as the disease progresses. There are two main method that are combined to manage diabetes type 1:
+
+= LifestyleDiabetes Type 1 - Living With, NHS Choices,  Healthy eating: eating a diet focused on fruit and vegetables, whilst limiting fats, salt and sugar helps keep blood sugar levels in check. 
+ Exercise: regular physical activity helps to lower your blood sugar level. A good goal to aim for is 150 minutes of exercise a week.
+ Stopping smoking: smoking further increases the risk of heart disease, peripheral arterial disease and stroke. Stopping or reducing smoking will reduce the risk of these complications.
+ Reducing alcohol: alcohol can either raise or lower blood sugar, and makes it difficult to monitor your own blood sugar levels. Drinking alcohol in moderation can reduce these risks.
+
+= Insulin injections =
+Type 1 diabetes occurs due to the bodies inability to produce its own insulin. To counter this, insulin can be injected into the blood manually. When diabetes is first diagnosed, a plan should be made for insulin treatment in order to not under or overdose, which can lead to serious complications. A sufferer should monitor their own blood sugar levels continuously to know whether they need a dose of insulin to lower their blood sugar.Diabetes Type 1 - Treatment, NhS Choices, 
+There are different kinds of insulin that can be taken:Patient Information: Diabetes mellitus type 1: Insulin treatment (Beyond the Basics), UpToDate,  Rapid-acting insulin and short-acting insulin get insulin into the bloodstream very quickly. They are typically taken before a meal to prepare for the rise in blood sugar that follows eating food.
+ Long acting insulin provides insulin in the system for up to 24 hours. It is generally taken once a day
+
+Category:Autoimmune diseases

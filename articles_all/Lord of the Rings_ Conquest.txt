@@ -1,0 +1,23 @@
+'''''Lord of the Rings: Conquest''''' is a video game based off the award-winning science-fiction movie ''The Lord of the Rings (movies)|The Lord of the Rings''. It is a real-time strategy game. The game was produced by Pandemic Studios and published by EA Games. This game is used on Personal computer|PC and PlayStation3.
+
+Gameplay
+=Playable classes=
+Warrior: A melee fighting unit. The warrior has three different attacks. Another attack is the ranged attack, is a throwing axe. There are also some special attacks, like the fire sword, and the "crowd-breaker" which is used when the character is blocking.
+Scout: The scout also has three levels of attack. His long-ranged attack he throws a bomb, and he has two Knife|knives instead of a sword. He has invisibility and can back-stab people, which can kill them in one attack. The scout is good at killing trolls.
+Archery|Archer: The archer cannot block attacks, instead he zooms in making it easier to aim. He has four attacks. One is that he has a poison arrow, which slowly decreases their health over time. The effect can be canceled if the character is healed. There is also the fire arrow, which does an enormous amount of damage by exploding upon impact.
+Mage: They use magic to defeat their enemies. Their spells consist of lightning bolt, firewall, shield and healing. Lightning is a range attack that can take out single enemies, it can also be charged up and have it bounce from person to person. Fire wall is a spell that creates a circle of flame that damages the enemies if they go near it. The shield blocks certain kinds of attacks. The mage also has an attack where he can damage enemies with an earthquake.
+
+=Game modes=
+The player can choose between Single-player video game|single player and Multiplayer video game|multiplayer. The tutorial of the game is where the player will get trained in the moves of every unit class. It is set in the Battle of the Last Alliance, where Elf|elves and men have to fight against Sauron and his forces.
+
+The game's "campaign" mode has 16 levels, 8 wikt:good|good and 8 evil, but the player must finish the good campaign before being able to unlock the evil one. The campaign's plot follows the movies closely. The campaign can be played in either single player or in multiplayer. It can also be set to 4 different wikt:difficult|difficulty modes: easy, normal, difficult or heroic.
+
+"Instant action" is another playable mode. It allows the player about 16 different scenarios, plus 2 more downloadable ones. There are several different game types that can be played:
+Team death match: makes the player have to kill as many enemies as possible.
+Capture the ring: is where the player must take the ring of power to the enemy's base.
+Conquest: the objective is to keep as many bases as possible for as long as possible.
+Hero team death match: a variation of death match where the player exclusively uses heroes.
+
+Instant action can also be played Online game|online with anybody else, whenever anybody is online. The campaign mode, however has to be played with a friend, someone that the player knows and has consciously added. This way, if the friend with the game is not online, then the campaign cannot be played.
+
+Category:Video games based on movies

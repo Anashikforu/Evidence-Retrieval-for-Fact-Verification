@@ -1,0 +1,7 @@
+
+The '''Modern defence''' is a List of chess openings|chess opening. It is almost the only defence which can be played against any opening move; and it may be played as an opening move itself. It consists in the immediate List of chess terms|fianchetto of the king's bishop (KB). The first moves might be:
+:1.e4 g6
+:2.d4 Bg7
+The opening is hypermodern. Black does not occupy the centre, he counter-attacks the centre built up by his opponent. He will probably play ...d6 next, then develop his K-side, then perhaps counter-attack the white centre with ...c5. The system is extremely flexible, and there are many List of chess terms|transpositions.Transpositions arrive at the same position from different move orders. There are players, including a few Grandmaster (chess)|grandmasters, who play almost nothing but the Modern with white and black.Keene R. & Botterill G. 2003. ''The modern defence''. Harding Simpole.Speelman J. and McDonald N. 2000. ''Modern defence''. EverymanNorwood D. 1994. ''Winning with the Modern''. Batsford. 
+
+Category:Chess openings

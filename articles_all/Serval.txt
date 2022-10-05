@@ -1,0 +1,38 @@
+{{Taxobox
+ | name = Serval 
+ | status = LC
+ | trend = down
+ | status_system = iucn3.1
+ | status_ref =  Database entry includes justification for why this species is of least concern
+ | image = Leptailurus serval -Serengeti National Park, Tanzania-8.jpg
+ | image_width = 250px
+ | image_caption= In the Serengeti National Park, Tanzania
+ |regnum = Animalia
+ |phylum = Chordate|Chordata
+ |classis = Mammalia
+ |ordo = Carnivora
+ |familia = Felidae
+ |genus = '''''Leptailurus'''''
+ |species = '''''Leptailurus serval'''''}}
+
+The '''serval''' (''Leptailurus serval'') is a medium-sized wild cat which lives in sub-Saharan Africa. It is the only species in its genus.
+
+ Description 
+The serval has the longest legs of all cats, relative to its size.
+Its length as an adult is about 32 inches (body) and 16 inches (tail). It weighs about four pounds.Sayer, Angela & Findlay, Michael 1979. ''The encyclopedia of the cat''. London: Chancellor, p30/31.  There are a number of subspecies, and its geographical range is from the Cape of South Africa to Algeria, wherever the circumstances are right for it.
+
+It is lightly built, with very large ears and long legs. The back of the ears is black with a big white spot, and the tip of the tail is black. These signs serve as signals to other servals, including kittens.
+
+= Habitat =
+The serval needs access to water, and dense grassland. Reed (plant)|Reed beds, scrub or high grass are typical habitats. It is territorial.
+
+ Hunting and diet 
+
+
+
+The serval is nocturnal, and hunts mostly at night. The serval is  an opportunistic predator whose diet includes rodents, hares, hyraxes, birds, reptiles, insects, fish, and frogs.
+As part of its adaptations for hunting in the savannas, the serval's long legs help it achieve a top speed of 80 kilometres per hour (50&nbsp;mph), and has large ears with acute hearing. Its long legs and neck allow the serval to see over tall grasses, while its ears are used to detect prey, even those burrowing underground. Servals have been known to dig into burrows in search of underground prey, and to leap 2 to 3 metres (7 to 10&nbsp;ft) into the air to grab birds in flight.Sunquist, Mel & Sunquist, Fiona 2002. ''Wild cats of the World''. Chicago: University of Chicago Press. pp. 142–151.  Using its spectacular jumping ability, the serval leaps into the air and bats the bird with its front paws. When the bird is on the ground, it bites its neck, killing it.
+
+Like most cats, the serval is a solitary animal. It travels as much as , and marks its territory by spraying urine onto bushes.
+
+Category:Mammals of Africa

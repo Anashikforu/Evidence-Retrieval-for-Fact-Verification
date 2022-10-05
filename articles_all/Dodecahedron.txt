@@ -1,0 +1,13 @@
+
+A '''dodecahedron''' is a solid shape that has 12 surfaces. Each face is a  pentagon (has five edges). In total there are 20 corners (also called vertex|vertices) and 30 edges altogether.  A dodecahedron which looks exactly the same from all faces is also a platonic solid.
+
+Surface area and volume
+
+If ''a'' is the length of one of its edges, the surface area and volume of a regular dodecahedron are:
+
+:A = 3\sqrt{25+10\sqrt{5}} a^2
+:V = \frac{15+7\sqrt{5}}{4} a^3
+
+
+
+Category:Platonic solids

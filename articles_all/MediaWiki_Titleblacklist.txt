@@ -1,0 +1,499 @@
+ # This is a title blacklist; titles that match regex here are forbidden, and cannot be created.
+ # Options exist to stop editing, account creation, and moves as well.  See mw:Extension:Title Blacklist for documentation
+ # See the |talk page for more information.
+ # This list affects only the Simple English Wikipedia; refer also to the global blacklist at
+ # :m:Title blacklist
+
+ # Please comment any additions made to the blacklist.
+ # Note: Internally, the pattern delimiter is '/', so be sure to escape all '/'s.
+ # UTF-8 mode is enabled. Do not use literal non-breaking spaces in regexes as some browsers cannot handle them.
+
+ # OBSCURE ASCII CHARACTER LOOKALIKES
+ .ℂ℃℄ɕƌʥℇ℈℉ℊℋℌℍℎℏℐ‼ℑℒℕ℗℘ℙℚℛℜℝ℞℟℣ℤℨ℩ℬℭ℮ℯℰℱℲℳℴℹ℺⅁⅂⅃⅄ⅅⅆⅇⅈⅉⅎ.  # Select Unicode Letterlike Symbols (excluding Kelvin, Angstrom and Ohm signs, see talk)
+ .\x{249C}-\x{24E9}.  # Circled and parenthesized Latin letters
+ .\x{FF21}-\x{FF3A}\x{FF41}-\x{FF5A}.  # Fullwidth Latin letters
+ .？ʖ؟ʔ.  # Question mark lookalikes, used for page move vandalism
+ (?!(User|Wikipedia)( talk)?:|Talk:).\x{1D00}-\x{1DBF}.  # Phonetic extensions, almost never used in valid titles
+ .\x{0250}-\x{02AF}.  # IPA extensions, somewhat more common, so blocking only moves for now
+ .∀-∑∟-∳⊂-⋕⋲-⋿.  # Select mathematical operators (excluding "−", "∞" and some other common ones)
+ .\x{27C0}-\x{27ef}\x{2980}-\x{29ff}\x{2a00}-\x{2aff}.  # Misc./supplemental mathematical symbols
+ .ⱧȢƪƪҤҺԊѓԍҥҩԌЃϓғҒЊӷⱤɌɍᵲᶉɼᵃᵍᴱᵣᔮᓂᑫᓈᒦ٨٣ץױוזשלﬨטּפּבּڠɆɇᶒⱸȺⱥᶏ١.  # Letter lookalikes; none of these are currently used in any mainspace title
+
+ # OTHER UNDESIRABLE CHARACTERS
+ .\x{00A0}\x{1680}\x{180E}\x{2000}-\x{200B}\x{2028}\x{2029}\x{202F}\x{205F}\x{3000}.  # Non-breaking and other unusual spaces, with MediaWiki:titleblacklist-custom-nbsp|custom error message
+ .\x{202A}-\x{202E}.  # BiDi overrides
+ .^\P{So}¦§©®°¶№™☀-⚲✁-➾`.  # "Other punctuation", with some exceptions (may need more, this is a huge character class); note that single-character titles are permitted by the MediaWiki:Titlewhitelist|title whitelist
+ .\p{Cc}.  # Control characters
+ .\x{FEFF}.  # Byte order mark
+ .卍卐࿕࿖࿗࿘☭☠🖕.  # Swastikas, hammer-and-sickle, skull-and-crossbones, middle finger
+ .\x{00AD}.  # Soft-hyphen
+ .^\0-\x{FFFF}.  # Very few characters outside the Basic Multilingual Plane are useful in titles
+ .\x{2400}-\x{2426}.  # Graphic pictures for control codes
+
+ # EXCESSIVE PUNCTUATION OR REPETITION
+ .!?‽¿{3}(?<!!!!).
+ .!?‽¿{2}(?
+ .!?‽¿\s+!?‽¿.
+ .‽‽.  
+ .¿¿. 
+ .\p{Z}{2}. # Disallows two adjacent "separator" characters (mostly funky spaces)
+ .^\p{L}\d {6}. # Disallows six consecutive characters that are not letters (in any script), numbers, or spaces
+ .(^0)\1{4}.  # Disallows four or more of the same character from page moves
+ .\p{Lu}(\P{L}\p{Lu}){9}.   # Disallows moves with more than nine consecutive capital letters
+ (.^0-9')?'{2,}.|.'{2,}(^'\-.)?  # Multiple consecutive apostrophes get interpreted as wiki markup, so shouldn't be used in page titles
+
+ # INVERTED QUESTION MARK WITH NON-LATIN TEXT
+ .¿.^\p{Latin}\P{L}.
+ .^\p{Latin}\P{L}.¿.
+
+ # ATTACK TITLES AND/OR PAGE MOVE VANDALISM TARGETS
+ .bajotz.
+ .chaos.{0,7}apper.
+ .chaos.{0,7}usic.
+ .chaos.{0,7}ntert.
+ .chaos.{0,5}ashington.
+ .chaos.{0,5}iscography.
+ .chao\$.
+ .customer support (phone|number).
+ .tech support (phone|number).
+ .Huff Da(l|ll)and.
+ .Meepsheep.
+ .JEWS DID . 
+ .OÓÒÔÖÕǑŌŎǪŐŒØƏΌΟΩῸὈὉὌὊὍὋОӨӦӪ0N₦ŃÑŅŇṆΝ ?WŴẀẂẄẆẈ₩HΉĤĦȞʰʱḢḤḦḨḪНҢӇӉΗἨἩἪἫἬἭἮἯῊᾘЋΗⱧԋњһhÉÈËEĘĚĔĖẺẸẾỀỄễỂểȨȩḜḝĒḖḗȄȅȆȇỆệḘḙḚḛ3عڠeēėèéëẽĕęəẻếềẹÉÈËEĘĚĔĖẺẸẾỀỄễỂểȨȩḜḝĒḖḗȄȅȆȇỆệḘḙḚḛ3عڠeēėèéëẽĕęəẻếềẹ+L₤ĹĽḶŁĿΛЛЉ7S$ŚŜŞŠṢΣЅz5.  # Disallows moves with "on wheels" with 2 or more Es
+ .on wh33ls.
+ .on whiels.
+ .on wiels.
+ .on hueels.
+ .onhueels.
+ .BU Rob13. 
+ .\bwith wh?iels\b. 
+ .on rails. 
+ .on treads. 
+ .BITCH. 
+ .COCK. 
+ .cċĉ¢сćĉçčóòôöõǒōŏǫőøόδοσоʘǿọơờởỡớợồổỗốộcċĉ¢сćĉçčkķкќқҝҡҟӄ.
+ .ċĉ¢сćĉçčoóòôöõǒōŏǫőøόδοσоʘǿọơờởỡớợồổỗốộcċĉ¢сćĉçčkķкќқҝҡҟӄ.
+ .cċĉ¢сćĉçčoóòôöõǒōŏǫőøόδοσоʘǿọơờởỡớợồổỗốộċĉ¢сćĉçčkķкќқҝҡҟӄ.
+ .cċĉ¢сćĉçčoóòôöõǒōŏǫőøόδοσоʘǿọơờởỡớợồổỗốộcċĉ¢сćĉçčķкќқҝҡҟӄ.
+ .CUM. 
+ .DICK. 
+ .giiant.
+ .giant penis.
+ .huge penis.
+ .licking my penisz.
+ .creamy semen.
+ .smaller.than.average. 
+ .have sex. 
+ .(?:suck|his|your|my) penis. 
+ .(?: .\b((is\s+an?)|are)\s+(?:dick|cunt|fag|bitch|shit|fuck|loser|ass|gay|ghey|moron|retard|stupid|slut|pa?edo). 
+ .\b((is\s+an?)|are)\s+(?:dick|cunt|fag|bitch|shit|fuck|loser|ass|gay|ghey|moron|retard|stupid|slut|pa?edo). 
+ .LlOoLl.WwUuTt.
+ .\bnimp\.org.
+ .JIHAD, BITCHES. 
+ .Vandalism is Terrorism.
+ .WANT TO HA. 
+ .waant to h. 
+ .Brian.Peppers.
+ .suck my. 
+ .GE ORGAS. 
+ .ge orrg. 
+ .RM, STICKY. 
+ .rm sticky. 
+ .TAIN OUT OF. 
+ .nig{2,}er. # nigger
+ .N!gger. 
+ .loves the. 
+ .cking fail.
+ .Epic fail.
+ .L₤ĹĽḶŁĿΛЛЉóòôöõǒōŏǫőøόδοσоʘoọL₤ĹĽḶŁĿΛЛЉ,;:.. 
+ .WHUT. 
+ .What what. 
+ .Gróòôöõǒōŏǫőøόδοσоʘǿọp. 
+ .ԍGGĜĢĞĠƓǤǦǴḠԌეอÇ&ΓϜr\w\swp.
+ .Rap(e|es|ing) (babies|children|kids).
+ .r\w\spl\w\sc\w\sng. 
+ .h GĜĢĞĠƓǤǦǴḠԌეอÇ&ΓϜs. 
+ .^\p{L}GĜĢĞĠƓǤǦǴḠԌეอÇ&ΓϜٯgGĜĢĞĠƓǤǦǴḠԌეอÇ&ΓϜٯ. 
+ .ǃ^!?ǃ. 
+ .Ɩ\P{L}Ɩ. 
+ .has.been.moved. 
+ .was movėd. 
+ .NEGRO. 
+ .COON SPIC. 
+ .BΒБВ฿RŔŖŘȐȒƦʳʴʵʶṘṚṜṞЯ®ΡΡ₧ÞþΡρРрƤṔṖǷґЃrمŕŗřṛṝгΓIl1!ÌÍÎÏĨļǏĪĬİḷŀΙЇɨ!łľıĮįT₮ŢŤṬΤТЋҬtţťṭτтŧ(ph|f)AΑĄĂÃÀĀΆẠẬẢẤẦẨẮẰẴẲẪẶḀǞǠȀᾼᾺᾈἉᾉἌᾌἊᾊἎᾎἍᾍἋᾋἏᾏÁÂÄÆÅǺ٩4GĜĞĠĢƓǤǦǴḠ69&Γ. #Britfag/phag
+ .\b(moral)?fag\b. 
+ .\bNWiki\b.
+ .\bL₤ĹĻĽĮḶḸŁĿ(o|aăw+|waă)l\b. 
+ .\bHΉĤĦȞʰʱḢḤḦḨḪНҢӇӉΗἨἩἪἫἬἭἮἯῊᾘЋΗ−ŧⱧԋњһ\+łƗ!ÌÍÎÏĨļǏĪĬİḷŀΙЇɨ!łľıĮįḹtţťṭτтŧĵٲٱ\W+AΑĄĂÃÀĀΆẠẬẢẤẦẨẮẰẴẲẪẶḀǞǠȀᾼᾺᾈἉᾉἌᾌἊᾊἎᾎἍᾍἋᾋἏᾏÁÂÄÆÅǺ٩4\W+GĜĢĞĠƓǤǦǴḠԌეอÇ&ΓϜ. 
+ .\bHΉĤĦȞʰʱḢḤḦḨḪНҢӇӉΗἨἩἪἫἬἭἮἯῊᾘЋ\+Η−ŧſⱧԋњһłƗ!ÌÍÎÏĨļǏĪĬİḷŀΙЇɨ!łľıĮįḹtţťṭτтŧĵſٲٱ\WAΑĄĂÃÀĀΆẠẬẢẤẦẨẮẰẴẲẪẶḀǞǠȀᾼᾺᾈἉᾉἌᾌἊᾊἎᾎἍᾍἋᾋἏᾏÁÂÄÆÅǺ٩4\WGĜĢĞĠƓǤǦǴḠԌეอÇ&ΓϜg. 
+ .ĜĢĞĠƓǤǦǴḠԌეอÇ&ΓϜٯģğġĝҩ\sĜĢĞĠƓǤǦǴḠԌეอÇ&ΓϜٯģğġĝҩ. 
+ .ĜĢĞĠƓǤǦǴḠԌეอÇ&ΓϜٯģğġĝҩ{2,5}. 
+ .Wikipedo.
+ .An hero. 
+ .\.\.\.H. 
+ .\.\.\.\.H. 
+ .\bfapped. 
+ .Krimpet. 
+ .,,+. 
+ .;;+. 
+ .(\pP{2,}\PP){4}.  #Antigrawp, works by blocking titles with overused punctuation (eg H..A..G..G..E..R)
+ .ÂĄĂÃÀĀΆẠẬẢẤẦẨẮẰẴẲẪẶḀǞǠȀᾼᾺᾈἉᾉἌᾌἊᾊἎᾎἍᾍἋᾋἏᾏÁÂÄÆÅǺ٩69{2,5}. #nonstandard A66
+ .Faggot. 
+ .Deletionis. 
+ .'H'. 
+ .\h. 
+ .H'A. 
+ .piece of shiîţt. 
+ .moved by. 
+  .GĜĞĠĢƓǤǦǴḠ69&Γ\sZŹŽŻ\sFҒ₣\sFҒ₣\sDĐĎḌÐΔ₫₯\sQɊʠ. 
+ .GĜĞĠĢƓǤǦǴḠ69&Γ\sDĐĎḌÐΔ₫₯\sQɊʠ\sĹĻĽḶŁĿ₤ΛLŀ\sXҲΧ. 
+ .RŔŖŘȐȒƦʳʴʵʶṘṚṜṞЯ®ΡΡ₧ÞþΡρРрƤṔṖǷґЃŕŗřṛṝгґѓΓяeēėèéëẽĕęəẻếềẹểPƤṔṖǷ₧ÞþΡρРрL₤ĹĽḶŁĿΛЛЉAΑÂĄĂÃÀĀΆẠẬẢẤẦẨẮẰẴẲẪẶḀǞǠȀᾼᾺᾈἉᾉἌᾌἊᾊἎᾎἍᾍἋᾋἏᾏÁÂÄÆÅǺ٩4aáàâäãǎāăảąæåάαᾳᾴὰᾲᾶᾷἀᾀἁᾁἄᾄἂᾂἆᾆἅᾅἃᾃἇᾇаӑӓӕạậceēėèéëẽĕęəẻếềẹể.eēėèéëẽĕęəẻếềẹểAΑÂĄĂÃÀĀΆẠẬẢẤẦẨẮẰẴẲẪẶḀǞǠȀᾼᾺᾈἉᾉἌᾌἊᾊἎᾎἍᾍἋᾋἏᾏÁÂÄÆÅǺ٩4aáàâäãǎāăảąæåάαᾳᾴὰᾲᾶᾷἀᾀἁᾁἄᾄἂᾂἆᾆἅᾅἃᾃἇᾇаӑӓӕạậcċĉ¢сćĉçčHНΉĤĦȞʰʱḢḤḦḨḪНҢӇӉΗἨἩἪἫἬἭἮἯῊЋΗ. 
+ .ÌÍÎÏĨļǏĪĬİḷ’'`dďḍÐ.HΉĤĦȞʰʱḢḤḦḨḪНҢӇӉΗἨἩἪἫἬἭἮἯῊЋΗſⱧԋhÌÍÎÏĨļǏĪĬİḷt.ÌÍÎÏĨļǏĪĬİḷtţťṭτтŧ. 
+ .\?\s\(.{55,200}\).  # long Hagger parentheticals
+ .fuċking.
+ .cuntmonkey.
+ .\(QɊʠIl1!ÌÍÎÏĨļǏĪĬİḷŀΙЇɨ!łľıĮį.{95,200}. 
+ .W₩ŴΨШЩ{1,3}ǼAÀÁÂÃÄÅĀĂĄǍǞǠǺȀȂȦȺḀẠẢẤẦẨẪẬẮẰẲẴẶÆǢ4@Α{1,3}N₦ŃÑŅŇṆΝ{1,3}tţťṭτтŧ{1,3}.tţťṭτтŧ{1,3}OÓÒÔÖÕǑŌŎǪŐŒØƏΌΟΩῸὈὉὌὊὍὋОӨӦӪǿọ{1,3}.{50,200}. 
+ .T₮ŢŤṬΤТЋҬtţťṭτтŧOÓÒÔÖÕǑŌŎǪŐŒØƏΌΟΩῸὈὉὌὊὍὋОӨӦӪọóòôöõǒōŏǫőøόδοσоʘǿọ.Ccċĉ¢сćĉçčUÚÙÛÜŨŮǓŪǖǘǚǜŬŲŰ.{50,200}. 
+ .pawns.wiki. 
+ .nimp.org.
+ .Tewapack. 
+ .Colonel.Sanders. 
+ .kzm\.pas.  #used to create malicious user talk subpages
+ .zilog\shead.  # Prolific sock GEORGIEGIBBONS
+ .on\swheels.edition. 
+ .shakur green. #Recreation under different titles; see Wikipedia:Articles for deletion/Shakur Green
+ . shitt?ing in .'?s? mouth #A specific page which needs to be SALTed and redacted
+ . fucking bastard. #A specific page which needs to be SALTed and redacted
+ . first male to female transsexuall #A specific page which needs to be SALTed and redacted
+ .Wimbo Jales . #Probably will never be used except to insult Jimbo Wales
+ .Ñ!gG3r. #A specific page which needs to be SALTed and redacted
+ . is gay
+ .inside ?(his|her|its|their) ?anus.
+ .exchanges? bodily fluids.
+ .\b(eat(s|ing)?|ate)\b.\bshit\b.
+ .f(ú|u)cked up piece of shit. #A specific page which needs to be SALTed and redacted
+ .get cocks shoved up (his|her|its|their) ass.
+ .Flint Diao. #Serial spamming
+ .\bMental.problem. #Repeated creation of vandalism pages, e.g. "so and so has mental problems"
+ .Mega Mmom. #Blatant hoax
+ .MLBP. #Blatant hoax
+ .Maisani.  #Continued sockpuppet vandalism
+ .Bikini Beach. #Persistent disruption
+ .(Lucas|Luke) Ullrich. #Persistent disruption
+ Eolgi.  #Persistent disruption
+ .eolgi.highway.system  #Persistent disruption
+ .Junior5a. #pages created with outing information
+ .wo(o)?mo(o)?.  #attack pages created by LTA
+ .mo(o)?wo(o)?.  # same as above
+ .should have died.
+ .HoIocaust. #Trying to outsmart our automated detection using an uppercase I in stead of a lowercase l in the word "Holocaust"
+
+ # DISALLOW CREATION OF USER OR USER TALK PAGES FOR A SPECIFIC IP RANGE BY NON-AUTOCONFIRMED USERS
+ User( talk)?:71\.107\.(1(289|3-9\d)|2(0-4\d|50-5))\.(01?\d\d?|2(50-5|0-4\d)) 
+ User( talk)?:75\.47\.(1(289|3-9\d)|2(0-4\d|50-5))\.(01?\d\d?|2(50-5|0-4\d)) 
+
+ # PAGE MOVE TARGETS
+  Wikipedia( talk)?:(^\/(?-i:^\x20-\xFF).|(.\W)?H+(\W|\W.\W)?((AÀÁÂÃÄÅÆ4@(\W|\W.\W)?)+(G69(\W|\W.\W)?)+(AÀÁÂÃÄÅÆ4@EÈÉÊË3(\W|\W.\W)?)+R®+|(EÈÉÊËÆ3(\W|\W.\W)?)+(R®(\W|\W.\W)?)+(MW(\W|\W.\W)?)+Y+)(\W.)?)  # No haggery in project space, please. (Only ASCII/Latin1 characters needed in this regexp.)
+ (Help|Portal)( talk)?:(.(?-i:^\x20-\xFF).|(.\W)?H+(\W|\W.\W)?((AÀÁÂÃÄÅÆ4@(\W|\W.\W)?)+(G69(\W|\W.\W)?)+(AÀÁÂÃÄÅÆ4@EÈÉÊË3(\W|\W.\W)?)+R®+|(EÈÉÊËÆ3(\W|\W.\W)?)+(R®(\W|\W.\W)?)+(MW(\W|\W.\W)?)+Y+)(\W.)?)  # ..nor in help or portal spaces either. (Only ASCII/Latin1 characters needed in this regexp.)
+ 
+
+ # POTENTIALLY CONFUSING MIXED-SCRIPT TITLES
+ # Cyrillic/Greek + Latin intentionally skipped due to false positives
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{Latin}A-Z^\P{Latin}A-Z.\p{Cyrillic}. # Cyrillic + Non-ASCII Latin
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{Cyrillic}\p{Cyrillic}.^\P{Latin}A-Z. # Cyrillic + Non-ASCII Latin
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{Latin}A-Z^\P{Latin}A-Z.\p{Greek}. # Greek + Non-ASCII Latin
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{Greek}\p{Greek}.^\P{Latin}A-Z. # Greek + Non-ASCII Latin
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{Cyrillic}\p{Cyrillic}.\p{Greek}. # Cyrillic + Greek
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{Greek}\p{Greek}.\p{Cyrillic}. # Cyrillic + Greek
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Armenian}.^\p{Armenian}\P{L}. # Armenian + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Armenian}\P{L}.\p{Armenian}. # Armenian + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Bengali}.^\p{Bengali}\P{L}. # Bengali + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Bengali}\P{L}.\p{Bengali}. # Bengali + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Cherokee}.^\p{Cherokee}\P{L}. # Cherokee + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Cherokee}\P{L}.\p{Cherokee}. # Cherokee + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Ethiopic}.^\p{Ethiopic}\P{L}. # Ethiopic + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Ethiopic}\P{L}.\p{Ethiopic}. # Ethiopic + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Georgian}.^\p{Georgian}\P{L}. # Georgian + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Georgian}\P{L}.\p{Georgian}. # Georgian + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Gujarati}.^\p{Gujarati}\P{L}. # Gujarati + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Gujarati}\P{L}.\p{Gujarati}. # Gujarati + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Gurmukhi}.^\p{Gurmukhi}\P{L}. # Gurmukhi + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Gurmukhi}\P{L}.\p{Gurmukhi}. # Gurmukhi + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Kannada}.^\p{Kannada}\P{L}. # Kannada + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Kannada}\P{L}.\p{Kannada}. # Kannada + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Khmer}.^\p{Khmer}\P{L}. # Khmer + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Khmer}\P{L}.\p{Khmer}. # Khmer + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Lao}.^\p{Lao}\P{L}. # Lao + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Lao}\P{L}.\p{Lao}. # Lao + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Malayalam}.^\p{Malayalam}\P{L}. # Malayalam + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Malayalam}\P{L}.\p{Malayalam}. # Malayalam + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Myanmar}.^\p{Myanmar}\P{L}. # Myanmar + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Myanmar}\P{L}.\p{Myanmar}. # Myanmar + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Oriya}.^\p{Oriya}\P{L}. # Oriya + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Oriya}\P{L}.\p{Oriya}. # Oriya + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Runic}.^\p{Runic}\P{L}. # Runic + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Runic}\P{L}.\p{Runic}. # Runic + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Sinhala}.^\p{Sinhala}\P{L}. # Sinhala + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Sinhala}\P{L}.\p{Sinhala}. # Sinhala + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Syriac}.^\p{Syriac}\P{L}. # Syriac + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Syriac}\P{L}.\p{Syriac}. # Syriac + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Tamil}.^\p{Tamil}\P{L}. # Tamil + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Tamil}\P{L}.\p{Tamil}. # Tamil + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Telugu}.^\p{Telugu}\P{L}. # Telugu + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Telugu}\P{L}.\p{Telugu}. # Telugu + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Thaana}.^\p{Thaana}\P{L}. # Thaana + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Thaana}\P{L}.\p{Thaana}. # Thaana + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Thai}.^\p{Thai}\P{L}. # Thai + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Thai}\P{L}.\p{Thai}. # Thai + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}\p{Tibetan}.^\p{Tibetan}\P{L}. # Tibetan + anything else
+ (?!(User|Wikipedia|File)( talk)?:|Talk:)\P{L}^\p{Tibetan}\P{L}.\p{Tibetan}. # Tibetan + anything else
+
+ # DISALLOW PAGE MOVES TO MIXED-SCRIPT TITLES
+ # Okinas are allowed in Latin + non-Latin rules per Special:PermaLink/882837938#ʻOkina again
+ # Intentionally move-only due to false positives
+ (?!(User|Wikipedia)( talk)?:|Talk:)\P{L}\p{Latin}.^\p{Latin}\P{L}ʻ.  # Latin + non-Latin
+ (?!(User|Wikipedia)( talk)?:|Talk:)\P{L}^\p{Latin}\P{L}ʻ.\p{Latin}.  # Latin + non-Latin
+ (?!(User|Wikipedia)( talk)?:|Talk:)\P{L}\p{Greek}.^\p{Greek}\P{L}.  # Greek + non-Greek
+ (?!(User|Wikipedia)( talk)?:|Talk:)\P{L}^\p{Greek}\P{L}.\p{Greek}.  # Greek + non-Greek
+ (?!(User|Wikipedia)( talk)?:|Talk:)\P{L}\p{Cyrillic}.^\p{Cyrillic}\P{L}.  # Cyrillic + non-Cyrillic
+ (?!(User|Wikipedia)( talk)?:|Talk:)\P{L}^\p{Cyrillic}\P{L}.\p{Cyrillic}.  # Cyrillic + non-Cyrillic
+ # Slightly different regexp for user/project/talk pages, to allow e.g. Latin subpages of Cyrillic usernames:
+ ((User|Wikipedia)( talk)?:|Talk:)(.\/)?\P{L}\p{Latin}^\/^\p{Latin}\P{L}ʻ.  # Latin + non-Latin 
+ ((User|Wikipedia)( talk)?:|Talk:)(.\/)?\P{L}^\p{Latin}\P{L}ʻ^\/\p{Latin}.  # Latin + non-Latin
+ ((User|Wikipedia)( talk)?:|Talk:)(.\/)?\P{L}\p{Greek}^\/^\p{Greek}\P{L}.  # Greek + non-Greek
+ ((User|Wikipedia)( talk)?:|Talk:)(.\/)?\P{L}^\p{Greek}\P{L}^\/\p{Greek}.  # Greek + non-Greek
+ ((User|Wikipedia)( talk)?:|Talk:)(.\/)?\P{L}\p{Cyrillic}^\/^\p{Cyrillic}\P{L}.  # Cyrillic + non-Cyrillic
+ ((User|Wikipedia)( talk)?:|Talk:)(.\/)?\P{L}^\p{Cyrillic}\P{L}^\/\p{Cyrillic}.  # Cyrillic + non-Cyrillic
+ .(^\P{Lu}\p{Latin}\P{L}){4}.  # Non-Latin all caps
+
+ # GENERIC IMAGE FILE NAMES (with MediaWiki:titleblacklist-custom-imagename|custom error message)
+ # at most three letters of potentially meaningful text:
+ File:\P{L}((Ima?ge?|Pict?(ure)?|Media|Photo)\P{L}+)?(\p{L}\P{L}){0,3}((orig|copy|thumb|small)\P{L})?\.^.+  
+ # no more than two contiguous letters (raising to three would be tempting, but needs more testing):
+ File:\P{L}((Ima?ge?|Pict?(ure)?|Media|Photo)^\p{L}\p{M}\P{L})?((\p{L}\p{M}){1,2}^\p{L}\p{M}\P{L})((orig|copy|thumb|small)\P{L}|(\p{L}\p{M}){1,2})?\.^.+  
+ # month name followed by no more than two contiguous letters, JPEG suffix (be careful if you edit this, easy to trigger false positives):
+ File:\P{L}(January|Jan|February|Febr?|March|Mar|April|Apr|May|June?|July?|August|Aug|September|Sept?|October|Oct|November|Nov|December|Dec)(\P{L}+\p{L}{1,2})\P{L}\.JPE?G  
+ # Common digital cameral file names, based on list at  # See also MediaWiki:Filename-prefix-blacklist, used to generate a warning on the upload form
+ File:DCP\d+\.JPG    # Kodak
+ File:DSC.\d+\.JPG    # Design rule for Camera File system (Nikon, Fuji, Polaroid)
+ File:MVC-?\d+\.JPG    # Sony Mavica
+ File:P\dA-F\d+\.JPG    # Olympus, Kodak
+ File:I?MGP_\s-?\d+\.JPG    # Canon, Pentax
+ File:1\d+-\d+(_IMG)?\.JPG    # Canon
+ File:(IM|EX)\d+\.JPG    # HP Photosmart
+ File:DC\d+SML\.JPG    # Kodak
+ File:PIiCcT_\s-?\d+\.JPG    # Minolta
+ File:PANA\d+\.JPG    # Panasonic
+ File:DUW\d+\.JPG    # some mobile phones
+ File:CIMG\d+\.JPG    # Casio
+ File:JD\d+\.JPG    # Jenoptik
+ # Other common patterns
+ File:\d{9}A-Z{6}_A-Z{2}\P{L}\.\w+    # some image hosting site?
+ File:\d+_\da-f+(_a-z)?\P{L}\.\w+    # Flickr; see  # File:(\d{9,10}A-Z)+A-Z?\.\w+    # yet another image hosting site? (redundant to "no more than two contiguous letters")
+ File:(\dA-F{8}-)?\dA-F{4}-\dA-F{4}-\dA-F{4}-?\dA-F{12}.    # UUID (with some variations included)
+ File:(SML|\d+)_\dA-F{10,}(-\d+-|_?(\w\w?|full))?\.^.+    # L_9173c67eae58edc35ba7f2df08a7d5c6.jpg, 1_bf38bcd9c5512a5ab99ca2219a4b1e2f_full.gif, etc.
+ File:\P{L}No\P{L}name\P{L}\.^.+    # Noname2.jpg
+ File:ATAEIMQUYcgkosw048AAAA-D-_A-Za-z0-9+\.jpg    # see commons:Commons:Village pump/Archive/2009/01#File ATgAAA...
+ #Pict or Picture followed by numbers
+ File:Pict(ure)?\s_-?\d\.. 
+ # Only numbers in the filename
+ File:\d+\.\w+ 
+
+ # POORLY-MADE ARCHIVES
+ .\\Aarchive. 
+
+ # COLBERT
+ .corn- ?hole
+
+ # Editnotice pseudospace
+ Template:Editnotices\/. 
+
+ #Taxonomy templates
+ Template:Taxonomy\/. 
+
+ # Protection for future and archived TFA blurbs and names
+ Wikipedia:Today's _featured _article\/a-zA-Z+ _0-9+, _0-9{4}. 
+ Template:TFA title\/\w+ \d\d?, \d\d\d\d 
+
+ # Attempts to verify with google analytics
+ .GgoogleA-Za-z0-9\.html
+
+ # /Print versions of templates. ("Templates" can be created in any namespace, so blocking in all namespaces.)
+ (?!(?:Talk:|(?:User|Wikipedia|File|MediaWiki|Template|Help|Category|Portal|Draft|TimedText|Module) talk:)).\/Print 
+
+ #Child taxa lists with glitchy names, usually caused by either a glitch in a bot's code or a permanently logged glitchy name on its list
+ Template:Child taxa\/^×A-Z. 
+
+ # Prevent users from creating pages with bad names after searching
+ .+ prefix:. 
+
+ # SPI subpage mistakes
+ Wikipedia( talk)?:Sockpuppet investigations\/User:. 
+
+ # Deprecated type of location map definitions
+ Template:Location map . 
+
+ # Spam titles
+ .HIGH19\.COM. # Dsdgfgsa and socks
+ .Paul\. ?A-Za-z\.\(\)\"\' {0,20}\. Easter.  # SEFPRODUCTIONS
+ .\+ 91 -0-9.  # Indian phone number advertising
+ .vashikaran.  # Indian astrology/magic advertising
+ .\bv-a@a@?-s-h-i-k-a-r-a@-n\b. # same spammer as two phone numbers above (Pirbaba7886)
+ .lo\x{043E}vi\x{0456}fm\x{043C}.  # Wikipedia:Sockpuppet investigations/Alex9777777,  .ale(x|kseijy|xeiy).?bugatti.  # as above
+ .bugatti.?ale(x|kseijy|xeiy).  # as above
+ .ale(x|kseijy|xeiy).?pech?k?urouv.  # as above
+ .pech?k?urouv.?ale(x|kseijy|xeiy).  # as above
+ .p\x{0420}\x{0440}e\x{0435}c\x{0441}h\x{043D}k\x{043A}?ur\x{0433}o\x{043E}uvw.  # as above
+ .977\.?by. # as above
+ .977.?(news|blog|website|site|belarus). # as above
+ .((sachin.?tomar)|(tomar.?sachin)). # Wikipedia:Sockpuppet investigations/Iamsachintomar
+ .\bdom.?\bnatt?i\b. # Wikipedia:Sockpuppet investigations/JellyfishFilms
+ .alex(ander)?.?sasiedu. # Special:Permanentlink/732858640#Blacklist_addition_request
+ .Decoded\s?Sexe?s. # Wikipedia:Sockpuppet investigations/Awais Azad
+ .Jjohn.Ggalea. # Wikipedia:Sockpuppet_investigations/Johngalea24
+ .mohamm?ed.?mafaz. # Self-promotion, accounts = Actor Mafaz, MohamedMafaz, Mafaz729, MafazOfficials, EngineeringMafaz, etc.
+ .mafaz.?(galle|official). # as above (Mafaz Galle)
+ .(galle|official).?mafaz. # as above 
+ .andrew.?almaánza. # Wikipedia:Sockpuppet investigations/Andrewalmanza
+ .((davide?.?anselmi)|(anselmi.?davide?)). # Wikipedia:Sockpuppet investigations/Anselmidavide9981
+ .modishian. # Wikipedia:Sockpuppet investigations/Lindokuhle Modi
+ .vaga.Official. # as above
+ .eyeden\s. # Wikipedia:Sockpuppet investigations/Shingling334
+ .jonah.bryson. # Wikipedia:Articles for deletion/The Fight for Bala and friends
+ .fight.for.bala. # as above
+ .sweet.spot.in.time. # as above
+ .Pa(w|v)an ?Kumar. # Wikipedia:Sockpuppet investigations/N R Pavan Kumar
+ .kobi ?arad. # Wikipedia:Miscellany for deletion/Draft:Kobi Arad
+ .shiwvam.(kumar|shriwvastawva). # Wikipedia:Sockpuppet investigations/Shiwam Kumar Sriwastaw
+ .alisha.panwar.
+ .overthetop. # Special:Permanentlink/811414963#On_the_nature_of_paid_editing
+ .over.+the.+top.+(?:digital|agency|marketing|SEO|organiszation|search|company|business). # as above
+ .integrated.technology.group. # Wikipedia:Sockpuppet investigations/Rana majali, search Special:Undelete for Integrated Technology Group and Draft:Integrated Technology Group
+ .knovos. # Wikipedia:Sockpuppet investigations/A23101990
+ .ar(shi|ish)fa.  # Wikipedia:Sockpuppet investigations/Arshifakhan61
+ .neha.khan.     # Wikipedia:Sockpuppet investigations/Arshifakhan61
+ .ahdat.ahimi.   # Wikipedia:Sockpuppet investigations/Abdullah Zubayer
+ .adio.aryad.    # Wikipedia:Sockpuppet investigations/Abdullah Zubayer
+ .hahmeer.mir.   # Wikipedia:Sockpuppet investigations/Beds16
+ .novotech.       # repeatedly created at (at least) Novotech Clinical Research, Novotech, Novotech (Australia) Pty Limited, and Novotech Australia Pty Limited
+ .prem.khan.     # Repeatedly created at Prem Khan, Prem Khan (actor) Prem Khan (Film actor), etc. Wikipedia:Sockpuppet investigations/Washim Rahman/Archive
+ .washim.rahman. # Preventative measure related to Prem Khan above. Prem Khan is the stage name of Washim Rahman. See Wikipedia:Sockpuppet investigations/Washim Rahman/Archive
+ .amal.ishra.     # Wikipedia:Sockpuppet investigations/Jorjman
+ .index\.php.     # spambots
+ .altogen.        # Wikipedia:Sockpuppet investigations/Altowiki
+ .janhvi.kapoor. # Repeated recreation for promotional purposes. Article is salted, but salting tends to inspire work-around articles.
+ .zhu\sming.     # Wikipedia:Sockpuppet investigations/Wirterss
+ .zhu\szhe\s.    # as above
+ .amsu(d|dd)in.atel  # Wikipedia:Sockpuppet investigations/Shamsuddin Patel
+ .counos.         # Cryptocurrency spam: Draft:Counos, Draft:Counos Cash, Counos, Draft:Counos digital currencies. Sanction under WP:GS/Crypto.
+ .conous.         # as above: User:Conous
+ .((C\.R\..?enkatesh|enkatesh.?C\.R\.)).     # Wikipedia:Sockpuppet investigations/Chinanike101
+ .Jjim.eiss.       # Wikipedia:Sockpuppet investigations/Chinanike101
+ .aillou.ettis.  # Wikipedia:Sockpuppet investigations/FilmLover2016
+ .frica.olic.inst. # Africa Policy Institute, repeatedly recreated by sockpuppets under multiple names
+ .esse.augh.     # Jesse Waugh, repeatedly recreated by subject and/or paid editors
+ .snatch\s?bot.   #  .fatpipe.networks. #  .kamakshi.hospital. # Confirmed UPE: Special:Contributions/Pavithra12
+ .geden?gbe.       # Wikipedia:Sockpuppet investigations/Vwegba4real
+ .kwt.today.      # Wikipedia:Sockpuppet investigations/Wikibaji
+ .know.what.trending.
+ .alexa.curtis.   #  .((.ilesh)|(.rabhat)).(.aurya).    #Wikipedia:Sockpuppet investigations/Rajiv Hu Main
+ .((.ilesh)|(.rabhat)).(.ricket)   #Wikipedia:Sockpuppet investigations/Rajiv Hu Main
+ .(Jay Silver).((Music)|(music)|(Artist)). #Wikipedia:Articles for deletion/Jay Silver (artist) and  Jay Silver (Musical Artist) and other variations
+ .Joel.Muhindo.   # Wikipedia:Articles for deletion/Jay Silver (artist) - Joel Muhindo, Joel M. Muhindo, others
+ .dab(li|il)z.     # Multiple socks creating many articles, see  .stuzz.           # as per above entry
+ .hazw.H|hind.  # Wikipedia:Sockpuppet investigations/Chintu6, repeatedly recreated under multiple titles
+ Category:Mo0+Wwo0+\d # Wikipedia:Sockpuppet investigations/The Suix
+ Category:Wo0+Mmo0+\d # Same as above
+ .(ali\b|sarhan|shamran|albu\b).(sarhan|shamran|albu\b).   # Unusually prolific self-promotion, initially by User:Ali778812
+ .thula.(victor|makhubu). # Wikipedia:Sockpuppet investigations/Nokuthula27
+ .battle.for.dream.island. # Wikipedia:Miscellany for deletion/Draft:Battle for Dream Island, Wikipedia:Miscellany for deletion/Draft:Battle For Dream Island (BFDI),  .amuel.omerville  # Wikipedia:Sockpuppet investigations/Sebi wj
+ .Zaleb.Brown # Wikipedia:Sockpuppet investigations/FAHADChughtai123
+ .Nima.Owji. # User:Niocs, self-promoting sock puppeteer
+ .nortreus. # WP:Sockpuppet investigations/WikiCreators20, WP:Sockpuppet investigations/NORTREUS-WERLEY; see quarry:query/54537 for current and deleted hits
+ .Yash.Gawli. # Wikipedia:Sockpuppet investigations/Yash gawli
+ .Bmcabana.    # Wikipedia:Sockpuppet investigations/Thabo Daniels
+
+ # Wikipedia:Sockpuppet investigations/OfficialPankajPatidar, Wikipedia:Sockpuppet investigations/New baba
+ .anna.schwartz. 
+ .hernaendo.vaergara.
+ .tomoaki.sato. 
+ .we.bros.media.
+ .sahbabi.
+ .samsung.di(gital|splay).solution.
+ .impressions.business.professional.
+ .untold.news.
+ .design\sok.
+ .brian.distance.
+ .film.invasion.l.a.
+ # Do not unsalt the next entry at the request of new editors, socks have a history of Social engineering (security)|social engineering (see e.g. Wikipedia:Administrators' noticeboard/Archive296#Ryan Hampton (Author)) -- MER-C
+ .((ryan.?hampton|hampton.?ryan)). 
+
+ # Protected user (sub-)spaces
+ User( talk)?:Bonadea(phone)?\/.  # Wikipedia:Sockpuppet investigations/Nsmutte Special:PermaLink/724686602
+
+ # Gadget namespace not active until phab:T31272 is closed and deployed
+ Gadget( definition)? talk:.
+
+ # Prevent accidental creation of pages with some double namespace prefixes
+ User( talk)?:User( talk)?:. 
+ User( talk)?:Template( talk)?:. 
+ User( talk)?:Draft( talk)?:. 
+ Wikipedia( talk)?:User( talk)?:. 
+ Wikipedia( talk)?:Wikipedia( talk)?:. 
+ Wikipedia( talk)?:Help( talk)?:. 
+ Wikipedia( talk)?:Draft( talk)?:. 
+ Template( talk)?:Template( talk)?:. 
+ Template( talk)?:Portal( talk)?:. 
+ Category( talk)?:Category( talk)?:. 
+ Portal( talk)?:Portal( talk)?. 
+ Draft( talk)?:User( talk)?:. 
+ Draft( talk)?:Category( talk)?:. 
+ Draft( talk)?:Draft( talk)?:. 
+
+ # Prevent accidental creation of files with double extensions or unconventional spacing
+ File:.(\,|\.)(png|gif|jpe?g|tiff?|xcf|pdf|mid|ogg|ogv|svg|djvu|oga|flac|opus|wav|webm)(\ |\,)?\.(png|gif|jpe?g|tiff?|xcf|pdf|mid|ogg|ogv|svg|djvu|oga|flac|opus|wav|webm) 
+ File:.(\ |\,)\.(png|gif|jpe?g|tiff?|xcf|pdf|mid|ogg|ogv|svg|djvu|oga|flac|opus|wav|webm) 
+
+ # Prevent creation of persona categories for users
+ Category:User:. 
+
+ # multiple article re-creation under various titles by sockpuppet accounts
+ .Ggoogle Bboys.
+
+ # Prevent creation of articles beginning with foreign language equivalents of User: as they aren't recognized on the Simple English Wikipedia. (User: works on every wiki)
+ (Agar-aramat|Amseqdac|Användare|Atuisoq|Aжыглакчы|Benoutszer|Bikarhêner|Bru(?:ge|ka|ke)r|Brëkòwnik|Brúkari|Brūcend|Choyoołʼįįhí|Cleachdaiche|Dalībnieks|Defnyddiwr|Devnydhyer|Druvadur|Dulooi|Foydalanuvchi|Geavaheaddji|Geban|Gebr(?:oe|u|ui)ker|Gumagamit|Gumaramit|Implijer|Itilizatè|Iōng-chiá|Jeno|Jëfandikukat|Ka notcitatc|Karber|Kasutaja|Kisadi|Korisnik|Kullanıcı|Kävutai|Käyttäi|Käyttäjä|Lankide|Lītuotuojs|Masyin|Mea hoʻohana|Meidogger|Metmaacher|Middawaida|Mošomi|Mpikambana|Mtumiaji|Muna'sesetbi|Naudotojas|Nauduotuos|Notandi|Nutza|Odwumanyɛni|Oníṣe|Outelizador\(a\)|Pamakai|Pamaké|Panganggo|Pangguno|Paragamit|Paydalanıwshı|Pengguna|Pruukja|Puruhára|Përdoruesi|Qullanıcı|Redaktor|Ruraq|Suradnik|Szerkesztő|Ta ohu'uwo|Tagagamit|Thành viên|Tlatequitiltilīlli|Uiser|Ulanyjy|Uporabnik|Ureuëng Ngui|Usadtor|Usor|Usuariou?|Usuàriu|Usuário\(a\)|Utentei?|Utilisa(?:de|teu|to)r|Utilizaire|Utilizator|Uza-na'in|Uzanto|Uzeu|Używacz|Wikipediysta|Wužiwar|Wužywaŕ|Ymmydeyr|Yusa|Yuuser|pilno|sadasya|Úsáideoir|İstifadəçi|Χρήστες|Алахәыла|Архайæг|Викиавтор|Гьуртту хьума|Декъашхо|Демнч|Доакъашхо|Колдонуучу|Корбар|Корисник|Користувач|Кулланучы|Къошулуучу|Кыттааччы|Пайдаланыше|Польꙃєватєл҄ь|Потребител|Пырысь|Сирӹшӹ|Теиця|Тиись|Удзельнік|Уртах|Участник|Χρήστης|Хоснователь|Хутшăнакан|Хэрэглэг(?:ч|шэ)|ЦӀыхухэт|Қатысушы|Ҡатнашыусы|Մասնակից|באַניצער|משתמש|ئىشلەتكۈچى|ایشلدن|بەکارھێنەر|رُکُن|صارف|مستخدم|واپرائيندڙ|ورتنوالا|کاربر|کارن|کارور|کارگير|کاریار|ܡܦܠܚܢܐ|މެމްބަރު|अवयव|छ्येलेमि|प्रयोगकर्ता|वापरपी|सदस्य|सदस्यः|আতাকুরা|ব্যবহারকারী|সদস্য|ਵਰਤੋਂਕਾਰ|સભ્ય|ବ୍ୟବହାରକାରୀ|பயனர்|వాడుకరి|ಬಳಕೆದಾರೆ|ಸದಸ್ಯ|ഉപയോക്താവ്|පරිශීලක|ผู้ใช้|ຜູ້ໃຊ້|ၽူႈၸႂ်ႉတိုဝ်း|მომხმარებელი|አባል|អ្នកប្រើប្រាស់|ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ|Ọbanife|利用者|用戶|用户|사용자|𐌽𐌹𐌿𐍄𐌰𐌽𐌳𐍃):. 
+
+ # Creation of Articles for creation submissions in the wrong place
+ Wikipedia talk:Articles for creation\/. 
+
+ # The Education Program namespace is uninstalled
+ Education Program( talk)?:. 
+
+ # The Book namespace is deprecated
+ Book( talk)?:. 
+
+ # Stop spoofing of Sysop names
+ .Chenzw. 
+ .Eptalon. 
+ .Pe3terdownunder. 
+ .DdJjSsAaSsSsOo0. 
+ .SsAaSsSsOo0. 
+ .AaUuNnTtOo0Ff6. 
+ .EeNnFfCcEeRr. 
+ .VvEeRrMmOo0NnTt. 
+
+ # Block creation of pages in the Draft namespace
+ Draft:. 
+
+ # Block creation of pages in the Portal namespace
+ Portal:. 
+
+ # Pakistan POV pusher
+ .(Indian|Pakistan)( |-)(occupied|held). 
+
+ # Daniel Bryer page creations
+ .(?i)Dan.Bry.
+
+ # Engjell Berisha page creations
+ .(?i)Engjell.Berisha.

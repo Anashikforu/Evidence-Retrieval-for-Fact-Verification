@@ -1,0 +1,25 @@
+{{infobox UK place|
+|country =    England
+|map_type =   Greater London
+|region= London
+|population=
+|official_name=Archway
+|Place=             Archway
+|latitude=          51.566 
+|longitude=                -0.1338
+|os_grid_reference=     TQ285875
+|london_borough=           Islington
+|post_town=          LONDON
+|postcode_area = N
+|postcode_district = N19
+|dial_code=      020     
+|constituency_westminster=      Islington North (UK Parliament constituency)|Islington North|GLA=                 North East London}}
+
+'''Archway''' is an area of north London in the London Borough of Islington. 
+
+
+
+
+
+Category:London Borough of Islington
+Category:Areas of London

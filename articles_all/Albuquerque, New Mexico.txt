@@ -1,0 +1,43 @@
+
+| unit_pref                       = Imperial
+| area_total_km2                  = 489.17
+| area_total_sq_mi                = 188.87
+| area_land_km2                   = 484.81
+| area_land_sq_mi                 = 187.19
+| area_water_km2                  = 4.36
+| area_water_sq_mi                = 1.68
+| elevation_m                     = 1619.1
+| elevation_ft                    = 5312
+| population_total                = 564559
+| population_as_of                = 2020 United States census|2020
+| population_footnotes            = 
+| population_rank                 = List of United States cities by population|32nd in the United StatesList of municipalities in New Mexico|1st in New Mexico
+| population_density_sq_mi        = 3015.97
+| population_density_km2          = 1164.50
+| population_metro_footnotes      = 
+| population_metro                = 916528 (List of metropolitan statistical areas|61st)
+| population_demonyms             = Albuquerquean,Burqueño (disambiguation)|Burqueño
+| postal_code_type                = ZIP Codes
+| postal_code                     = 87101–87125, 87131,87151, 87153, 87154,87158, 87174, 87176,87181, 87184, 87185,87187, 87190–87199
+| area_codes                      = 505, 575
+| website                         = 
+| footnotes                       = 
+| leader_title2                   = New Mexico House of Representatives|State House
+| leader_name2                    = 
+'''Albuquerque''' (also known by locals as '''Duke City''' or '''ABQ''') is the largest city in the state of New Mexico and is the County seat|seat of Bernalillo County, New Mexico|Bernalillo County. It has a population of 559,277 as of 2016, making it the 32nd largest city proper in the United States.
+
+The city was founded as '''Alburquerque''' in 1706, and is notable for its mix of European, Hispanic, and Native American populations and cultures. Albuquerque is located on the Rio Grande|Río Grande.
+
+Interstate 40 and Interstate 25 meet at an interchange known as the Big I, and U.S. Route 66 used to run through Albuquerque along Central Avenue.
+
+Events held in Albuquerque include:
+
+Gathering of Nations, the largest pow-wow in North America
+Albuquerque International Balloon Fiesta, the largest hot air balloon festival in the world
+
+The popular TV show ''Breaking Bad'' was set in Albuquerque between 2008 and 2010.
+
+Climate
+Albuquerque's climate is semi-arid. During the summer temperatures average highs in the 80s to 100s in degrees Fahrenheit (30s and 40s in degrees Celsius) and lows in the 60s and 70s ºF (10s and 20s ºC). During the winter temperatures average highs in the 40s and 50s ºF (0s and 10s ºC) and lows in the 20s and 30s ºF (-0s and 0s ºC).
+
+Category:County seats in New Mexico

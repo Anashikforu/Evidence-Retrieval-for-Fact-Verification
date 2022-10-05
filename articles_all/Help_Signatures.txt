@@ -1,0 +1,13 @@
+
+Users can easily '''sign''' their posts at the end of a comment. The common format to type a signature – two hyphens (or a dash) followed by four tildes (-- '''~~~~'''). This comes from the computer network Usenet, where two hyphens mark a signature block. The tildes automatically change to the actual username (linked to the right user page etc.) and timestamp (time/date), when you save a signed edit. This helps other users to follow the timing order of discussions, and to find the author of a particular comment. Signing is normally done on Help:Talk pages|talk pages only, not on written articles. Signatures do not work in edit summaries (they do not change from ~~~~ to your username).
+
+If you edit without logging in, your IP address will take the place of your username.
+
+ Normal signature options 
+
+There are three options. Four tildes are standard (full signature). Typing three tildes results in a username-only signature (without timestamp). Typing five tildes results in a pure timestamp (without username).
+
+
+
+ 
+Category:Help|Signatures

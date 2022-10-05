@@ -1,0 +1,18 @@
+In group theory, an '''abelian group''' is a group (mathematics)|group with operation that is commutative. Because of that, an abelian group is sometimes called a ‘commutative group’.
+
+A group in which the group operation is not commutative is called a ‘non-abelian group’ or ‘non-commutative group’.
+
+ Definition 
+
+An abelian group is a set (mathematics)|set, ''A'', together with an Binary operation|operation "•". It combines any two element (mathematics)|elements ''a'' and ''b'' to form another element denoted  must follow some requirements. These are known as the ''abelian group axioms'':
+
+;Closure: For all ''a'', ''b'' in ''A'', the result of the operation ''a'' • ''b'' is also in ''A''.
+;Associativity: For all ''a'', ''b'' and ''c'' in ''A'', the equation (''a'' • ''b'') • ''c'' = ''a'' • (''b'' • ''c'') is true.
+;Identity element: There exists an element ''e'' in ''A'', such that for all elements ''a'' in ''A'', the equation  holds.
+;Inverse element: For each ''a'' in ''A'', there exists an element ''b'' in ''A'' such that ''a'' • ''b'' = ''b'' • ''a'' = ''e'', where ''e'' is the identity element.
+;Commutativity: For all ''a'', ''b'' in ''A'', ''a'' • ''b'' = ''b'' • ''a''.
+
+
+
+
+Category:Algebra

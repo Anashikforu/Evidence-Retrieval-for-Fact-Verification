@@ -1,0 +1,11 @@
+
+Image:Hypercube.svg|250px|thumb|The tesseract is the best known polychoron, containing eight cube|cubic Cell (geometry)|cells, three around each edge.It is viewed here as a Schlegel diagram projection into 3-space, distorting the regularity, but keeping its topological continuity. The eighth cell projects into the volume of space exterior to the boundary.
+
+In geometry, a '''polychoron''' (plural: '''polychora''') is a figure in four dimensions. The word comes from Greek language|Greek ''poly'', which means ''many'' and ''choros'' which means ''room'', or ''space''. Sometimes the figure is called '''4-polytope''' or '''polyhedroid'''. The analogue figure in two dimensions is a polygon, and the one in three dimensions is a polyhedron. 
+
+
+Other websites
+
+
+
+Category:Shapes

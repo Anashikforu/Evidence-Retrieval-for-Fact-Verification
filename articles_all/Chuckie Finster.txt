@@ -1,0 +1,4 @@
+#REDIRECTRugrats
+
+en:Chuckie Finster
+fr:Charles-Édouard Fifrelin

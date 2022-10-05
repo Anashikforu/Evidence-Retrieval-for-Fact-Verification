@@ -1,0 +1,25 @@
+
+A '''hadron''', in particle physics, is any subatomic (smaller than the atom) particle or antiparticle which is made of quarks. 
+
+Quarks are fundamental particles which among other properties have an electrical charge and a name (e.g. 'up', 'down', 'strange'). The electrical charge of a single quark is always a fraction (e.g. 2/3). they exist in groups and are held together by the strong force|strong nuclear force. The word to describe the different types of quarks is ''flavours.'' According to the current Standard Model|standard model there are 6 flavours of quarks. There are two known ways quarks can combine, to give the two categories of hadrons:
+ baryons, which are made of three quarks.
+ mesons, which are made of one quark and one anti-quark.
+Hadrons are also characterized by being affected by the Strong interaction|strong nuclear force, which holds them tightly together over a short distance. At the center of an atom is a Nucleus (physics)|nucleus (a cluster of protons and neutrons). 
+
+ List of hadrons 
+= Known to exist =
+ Baryons 
+ Proton, with quark structure ''uud ( up down', referring to the three quarks making up the proton.)''
+ Neutron, with quark structure ''udd ('up down down')''
+
+ Mesons 
+ Pion
+ Kaon
+These are the most commonly discussed hadrons. There are many more: :en:List_of_baryons|complete list of baryons, :en:List_of_mesons|complete list of mesons.
+
+= Not yet known to exist =
+ Tetraquark
+ Pentaquark
+These are predictions for different ways quarks may be put together. There is not any solid evidence for them existing yet.
+
+Category:Subatomic particles

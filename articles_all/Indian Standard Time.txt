@@ -1,0 +1,5 @@
+
+
+'''Indian Standard Time''' (IST) is the time zone for India and Sri Lanka. It is 5 hours and 30 minutes forward to Coordinated Universal Time (UTC+5:30). It does not use Daylight Saving Time (DST).
+
+Category:Time zones

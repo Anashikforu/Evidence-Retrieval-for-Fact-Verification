@@ -1,0 +1,76 @@
+'''Namespaces''' are the types of pages that you can find on Wikipedia. These help separate the guidelines from the help documents, for example.
+
+ Namespaces 
+= Main namespace =
+The most common namespace on Wikipedia is the ''main namespace''. All pages that do not have any prefixes before their name will be part of this namespace.
+
+Most of these pages are Wikipedia:What is an article?|articles, but some of them are wikipedia:Disambiguation|disambiguation pages or Help:Redirect|redirects.
+
+Examples of pages in this namespace are the Main Page and Music.
+
+= Talk namespace =
+The ''Talk Namespace'' is used for discussion about a page. A talk page is made for every page that is made.
+
+They are always prefixed with '''''Talk:'''''.
+
+Examples of pages in this namespace are Talk:Main Page and Talk:Music.
+
+= Wikipedia namespace =
+The ''Wikipedia namespace'' contains pages that are related to Wikipedia. These are often guidelines, project pages or community pages.
+
+They are always prefixed with '''''Wikipedia:'''''.
+
+Examples of pages in this namespace are the Wikipedia:Community Portal and Wikipedia:Vandalism.
+
+= Wikipedia talk namespace =
+The ''Wikipedia talk namespace'' contains pages for discussing pages in the ''Wikipedia namespace''.
+
+They are always prefixed with '''''Wikipedia talk:'''''
+
+Examples of pages in this namespace are Wikipedia talk:Twinkle and Wikipedia talk:Bots.
+
+= User namespace =
+The ''User namespace'' contains pages for each :wikt:user|user on Wikipedia. It is usually bad to change a user's page if that user isn't you. You can change your user page to say anything you want.
+
+They are always prefixed with '''''User:'''''.
+
+Examples of pages in this namespace are User:Jordanhatch and User:Archer7.
+
+= User talk namespace =
+The ''User talk namespace'' contains talk pages for each :wikt:user|user.
+
+They are always prefixed with '''''User talk:'''''.
+
+Examples of pages in this namespace are User talk:Jordanhatch and User talk:Archer7.
+
+= Help namespace =
+The ''Help namespace'' contains help pages for members of Wikipedia.
+
+They are always prefixed with '''''Help:'''''. A list of all help pages can be found at Help:Contents.
+
+Examples of pages in this namespace are Help:Small change and Help:How to change pages.
+
+= Special namespace =
+The ''Special namespace'' contains scripts and non-changeable pages of the encyclopedia.
+
+They are always prefixed with '''''Special:'''''.
+
+The most common page in this namespace is Special:Userlogin.
+
+/Sandbox
+
+= Gadgets =
+Pages with the prefixes '''''Gadget:''''', '''''Gadget talk:''''', '''''Gadget definition:''''', and '''''Gadget definition talk:''''' are known as gadgets. Gadgets are currently unused and there are no pages in any of the given namespaces. You also cannot create pages in the '''''Gadget:''''' or the '''''Gadget definition:''''' namespace.
+
+= MediaWiki namespace =
+The ''MediaWiki namespace''  contains interface texts, such as the links and messages that appear on automatically generated pages and JavaScript gadgets. Pages in this namespace are permanently full-protected and may only be edited by WP:Administrators|administrators. For a list of these messages, see Special:AllMessages.
+
+
+ Programming 
+The 18 namespaces in Wikipedia are numbered for programming purposes:
+
+
+
+Related pages
+ Help:How to change pages
+Category:Help

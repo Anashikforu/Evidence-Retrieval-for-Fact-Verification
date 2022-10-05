@@ -1,0 +1,8 @@
+'''73''' ('''seventy-three''') is a number. It comes after seventy-two, but before seventy-four. 73 is the 21st prime number. Its mirror, 37, is the 12th, and its mirror, 21, is the product of multiplying seven and three and in binary, 73 is a palindrome, 1001001, which backwards is 1001001.
+
+
+
+
+
+Category:Integers
+Category:Prime numbers

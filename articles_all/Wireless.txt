@@ -1,0 +1,9 @@
+
+The word '''wireless''' is used to refer to any type of electricity|electrical or electronics|electronic operation which is done without a "hard wired" connection. '''Wireless communication''' is the transfer of information over a distance without the use of wires. The distances involved may be short (when using a television remote control) or very long (thousands or even millions of kilometers for radio communications).
+
+Uses
+One of the most popular wireless technology is the mobile phone, with more than 6.8 billion subscriptions worldwide as of 2013. The term '''wireless technology''' is generally used for mobile information technology (IT) equipment. Examples include mobile phones, Personal Digital Assistant|personal digital assistants (PDAs), Global Positioning System (GPS) units, garage door openers, wireless Computer mouse|computer mice and Keyboard (computer)|keyboards, satellite television and cordless telephones.
+History
+The world's first wireless telephone conversation happened in 1880, when Alexander Graham Bell and Charles Sumner Tainter invented photophone, a telephone that made conversations wirelessly using light beams.
+
+de:Funkverkehr

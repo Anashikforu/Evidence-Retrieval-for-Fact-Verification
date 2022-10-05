@@ -1,0 +1,74 @@
+{{Football player infobox
+|playername=Ledley King
+|image=Ledley King.jpg
+|image_size=200px
+|fullname=Ledley Brenton King
+|birth_date=
+|birth_place=London, England
+|death_date=
+|height=
+|position=Defender (football)|Defender
+|currentclub=Tottenham Hotspur F.C.|Tottenham Hotspur
+|clubnumber=26
+|youthyears1=
+|youthclubs1=
+|years1=1998-
+|clubs1=Tottenham Hotspur F.C.|Tottenham Hotspur
+|nationalyears1=2002-2007
+|nationalteam1=England national football team|England
+|manageryears1=
+|managerclubs1=}}
+
+'''Ledley King''' (born 12 October 1980) is an England|English Association football|football player. He played for Tottenham Hotspur F.C.|Tottenham Hotspur.
+
+Club career statistics
+
+
+|-
+|1998/99||rowspan="12"|Tottenham Hotspur F.C.|Tottenham Hotspur||rowspan="12"|English Premier League|Premier League||1||0||0||0||0||0||0||0||1||0
+|-
+|1999/00||3||0||0||0||0||0||0||0||3||0
+|-
+|2000/01||18||1||5||1||0||0||0||0||23||2
+|-
+|2001/02||32||0||3||0||7||1||0||0||42||1
+|-
+|2002/03||25||0||1||0||0||0||0||0||26||0
+|-
+|2003/04||29||1||3||1||3||0||0||0||35||2
+|-
+|2004/05||38||2||5||1||4||0||0||0||47||3
+|-
+|2005/06||26||3||0||0||1||0||0||0||27||3
+|-
+|2006/07||21||0||0||0||0||0||6||0||27||0
+|-
+|2007/08||4||0||1||0||3||0||2||0||10||0
+|-
+|2008/09||24||1||0||0||2||0||3||0||29||1
+|-
+|2009/10||||||||||||||||||||
+221||8||18||3||20||1||11||0||271||12
+221||8||18||3||20||1||11||0||271||12
+|}
+
+International career statistics
+
+
+|-
+|2002||1||0
+|-
+|2003||1||0
+|-
+|2004||9||1
+|-
+|2005||4||0
+|-
+|2006||2||0
+|-
+|2007||2||0
+|-
+!Total||19||1
+|}
+
+Category:Premier League players

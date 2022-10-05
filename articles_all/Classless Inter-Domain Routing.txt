@@ -1,0 +1,7 @@
+'''Classless Inter-Domain Routing''' ('''CIDR''') is a way of wikt:allocate|allocating IP addresses and routing Internet Protocol packets.
+
+
+
+Category:Internet
+
+it:Supernetting#CIDR

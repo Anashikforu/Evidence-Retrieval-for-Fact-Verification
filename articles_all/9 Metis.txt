@@ -1,0 +1,48 @@
+:''For the moon of Jupiter (planet)|Jupiter, see Metis (moon).''
+
+
+{{Infobox Planet   | bgcolour=#FFFFC0 |
+name=9 Metis
+| symbol=
+| discoverer=Andrew Graham (astronomer)|A. Graham
+| discovered=April 25, 1848
+| alt_names=
+| mp_category=Main belt
+| epoch=July 14, 2004 (Julian day|JD 2453200.5)
+| semimajor=357.052 Giga|Gmetre|m (2.387 Astronomical unit|AU)
+| perihelion=313.556 Gm (2.096 AU)
+| aphelion=400.548 Gm (2.678 AU)
+| eccentricity=0.122
+| period=1346.815 day|d (3.69 Julian year (astronomy)|a)
+| inclination=5.576degree (angle)|°
+| asc_node=68.982°
+| arg_peri=5.489°
+| mean_anomaly=274.183°
+| avg_speed=19.21 km/second|s
+| image=
+| dimensions=235×195×140 kmJ. Torppa et al., | mass=~9 kilogram|kg
+| density=~2.7 g/cubic centimetre|cm³G. A. Krasinsky et al., ''Hidden Mass in the Asteroid Belt'', Icarus, Vol. 158, p. 98 (2002).
+| surface_grav=~0.070 m/s²
+| escape_velocity=~0.11 km/s
+| rotation=0.2116 d (5.078 h)
+| spectral_type=S-type asteroid|S-type| magnitude = 8.1 to 11.83
+| abs_magnitude=6.28
+| albedo=0.243&nbsp;(geometric albedo|geometric)
+| angular_size = 0.23"  to 0.071"
+| single_temperature=~173 kelvin|K''max:'' 282 K (+9° Celsius|C)L. F. Lim et al., ''Thermal infrared (8 – 13 µm) spectra of 29 asteroids: the Cornell Mid-Infrared Asteroid Spectroscopy (MIDAS) Survey'', Icarus Vol. 173, p. 385 (2005).}}
+'''9 Metis''' is one of the biggest Asteroid belt|main belt asteroids. It is made of silicates and metallic nickel-iron, and may be the core remnant of a big asteroid that was destroyed by an ancient collision.M. S. Kelley and M. J. Gaffey, ''9 Metis and 113 Amalthea: A Genetic Asteroid Pair'', Icarus Vol. 144, p. 27 (2000).
+
+ Discovery and naming 
+
+Metis was found by Andrew Graham (astronomer)|Andrew Graham on April 25, 1848; it was his only asteroid discovery.Graham, A.; 
+ Characteristics 
+Metis' direction of rotation is unknown at present.
+
+Hubble space telescope images and lightcurve analyses are in agreement that Metis has a non-spherical stretched shape with one pointed and one broad end. Radar observations suggest the presence of a significant flat area,D. L. Mitchell et al., ''Radar Observations of Asteroids 7 Iris, 9 Metis, 12 Victoria, 216 Kleopatra, and 654 Zelinda'', Icarus Vol. 118, p. 105 (1995). in agreement with the shape model from lightcurves.
+
+What the surface is made of has been estimated as 30-40% metal-bearing olivine and 60-70% Nickel|Ni-Iron|Fe metal.
+
+Light curve data on Metis led to an assumption that it could have a moon. However, subsequent observations failed to confirm this.
+ Occultations 
+Metis has been seen to occultation|occult stars no less than 5 times.W. M. Kissling et al., 
+Category:Asteroids

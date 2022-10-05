@@ -1,0 +1,9 @@
+'''Wired Equivalent Privacy''' (also known as '''WEP''') is a standard to use encryption in Wireless LANs. It was introduced in 1999. 
+
+In 2001, mathematicians showed that WEP is not very strong. A WEP connection could be Cryptanalysis|decoded, with software that can be easily found, within minutes. 
+
+Even though it only offers low security, WEP is still widely in use.
+
+People sometimes call it ''Wireless Encryption Protocol'', which is wrong.
+
+Category:Computer networking

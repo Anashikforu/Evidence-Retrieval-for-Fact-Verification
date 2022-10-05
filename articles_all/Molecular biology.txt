@@ -1,0 +1,26 @@
+'''Molecular biology''' is the study of biology at a Molecule|molecular level. The field overlaps with other areas of biology and chemistry, particularly cell biology, genetics, biophysics and biochemistry.Alberts B. Johnson A. Lewis J. Raff M. Roberts K. Walter P. 2008. ''Molecular biology of the cell'', 5th ed. Garland. Lodish H. Berk A. Matsudaira P. Kaiser C.A. Krieger M. Scott M.P. Zipurksy S.L. Darnell J. 2004. ''Molecular cell biology'', 5th ed. Freeman, NY.
+
+Molecular biology chiefly concerns itself with understanding the interactions between the various systems of a cell, including the interrelationship of DNA, RNA and protein biosynthesis and learning how these interactions are regulated.
+
+ Relationship to other specialities 
+Image:Schematic relationship between biochemistry, genetics and molecular biology.svg|thumb|250px|right|''Schematic relationship between biochemistry, genetics and molecular biology''
+
+Researchers in molecular biology use specific techniques that are typical for molecular biology, but they combine these with techniques and ideas from genetics and biochemistry. The following figure is a schematic that shows one possible view of the relationship between the fields:
+
+''Biochemistry'' is the study of the chemical substances and vital processes occurring in living organisms.
+''Genetics'' is the study of inheritance: the effect of genetic differences on organisms.
+''Molecular biology'' includes the study of the structure and function of all carbon-based macromolecules. This includes the chain of events from gene to protein: DNA replication|replication, transcription (genetics)|transcription and translation (genetics)|translation. Much of the work in molecular biology is quantitative, and recently much work has been done at the interface of molecular biology and computer science in bioinformatics and computational biology. As of the early 2000s, the study of the genome has been amongst the most prominent sub-field of molecular biology.
+''Cytology'', which includes the appearance of cells and cell structures, microscope|microscopy, and the use of stains and tags to help distinguish organelles and processes.
+
+ Related pages 
+DNA and chromosome structure 
+Genome
+Cell
+Cell biology
+Cytology
+Sequence analysis
+Transcription (genetics)
+Transformation (genetics)
+Translation (genetics)
+
+Category:Molecular biology| 

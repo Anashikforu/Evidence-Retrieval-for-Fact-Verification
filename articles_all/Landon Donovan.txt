@@ -1,0 +1,103 @@
+{{Football player infobox
+|playername=Landon Donovan
+|image=LandonDonovan 20060410.jpg
+|image_size=150px
+|fullname=Landon Timothy Donovan
+|birth_date=
+|birth_place=Ontario, California, United States
+|death_date=
+|height=
+|youthyears1=1998-1999
+|youthclubs1=IMG Academy
+|years1=2000-2005
+|clubs1=San Jose Earthquakes
+|nationalyears1=2000-2014
+|nationalteam1=United States national soccer team|United States
+|manageryears1=
+|managerclubs1=
+|clubs2=→Bayer 04 Leverkusen|Bayer Leverkusen (loan)|clubs3=Los Angeles Galaxy|LA Galaxy|clubs4=→F.C. Bayern Munich|Bayern Munich (loan)|clubs5=→Everton F.C.|Everton (loan)|clubs6=Los Angeles Galaxy|LA Galaxy|clubs7=Club León|León|nationalcaps1=157|nationalgoals1=57|position=Forward|years2=2001-2004|years3=2005-2014|years4=2009|years5=2010|years6=2016|years7=2018}}
+'''Landon Donovan''' (born 4 March 1982) is a former Americans|American Association football|soccer player. He played for the Los Angeles Galaxy and United States national soccer team|United States national team, and was the captain for both of them. 
+He is the former captain of The Los Angeles Galaxy and USMNT.
+
+Donovan is the leader of assists for the US national team, and also the second place for most appearances (caps).
+
+ Club career statistics 
+
+
+
+|-
+|2001||rowspan="4"|San Jose Earthquakes||rowspan="4"|Major League Soccer||22||7
+|-
+|2002||20||7
+|-
+|2003||22||12
+|-
+|2004||23||6
+
+|-
+|2004/05||Bayer 04 Leverkusen|Bayer Leverkusen||German Bundesliga|Bundesliga||7||0
+
+|-
+|2005||rowspan="4"|Los Angeles Galaxy||rowspan="4"|Major League Soccer||22||12
+|-
+|2006||24||13
+|-
+|2007||25||8
+|-
+|2008||25||20
+
+|-
+|2008/09||F.C. Bayern Munich|Bayern Munich||German Bundesliga|Bundesliga||6||0
+
+|-
+|2009||Los Angeles Galaxy||Major League Soccer||25||12
+
+|-
+|2009/10||Everton F.C.|Everton||English Premier League|Premier League||10||2
+
+|-
+|2010||Los Angeles Galaxy||Major League Soccer||||
+208||96
+13||0
+10||2
+231||98
+|}
+
+ International career statistics 
+
+
+|-
+|2000||1||1
+|-
+|2001||8||0
+|-
+|2002||20||6
+|-
+|2003||15||7
+|-
+|2004||14||5
+|-
+|2005||15||6
+|-
+|2006||11||0
+|-
+|2007||12||9
+|-
+|2008||9||3
+|-
+|2009||15||5
+|-
+|2010||8||3
+|-
+|2011||10||1
+|-
+|2012||6||3
+|-
+|2013||10||8
+|-
+|2014||3||0
+|-
+!Total||157||57
+|}
+
+Category:Sportspeople from Los Angeles

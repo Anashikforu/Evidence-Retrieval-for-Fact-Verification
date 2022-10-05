@@ -1,0 +1,286 @@
+In mathematics, an '''operation''' is a Function (mathematics)|function which takes one or more inputs (called Operand|operands) and produces an output. Some of the most common operations include addition, subtraction, multiplication and Division (mathematics)|division, which take only one input and produce an output. 
+
+There are more operations than these, including raising numbers to Exponentiation|exponents, taking the Nth root|root and applying the logarithm.
+
+Below is a list of the most used operations.
+
+ List of mathematical operations 
+
+= Addition =
+Addition is the first arithmetic operation and hyperoperation. It is the inverse operation of subtraction. The terms in an addition are called ''addends'', and the result of an addition is called a ''sum''.
+
+The symbol for addition is '''+'''
+
+
+Examples of additions:
+
+2+3
+
+7+1
+
+1+4+6
+
+8+1+5
+
+2+5+9
+
+
+Any number plus zero is the same number (a+0=a). This is called the Identity Property|''additive identity''.
+
+For example: 4+0=4
+
+Changing the order of the addends in an addition does not change its sum. This is called the ''commutative property of addition''.
+
+For example: 31+27\iff 27+31
+
+Changing how addends are grouped in an addition does not change its sum either. This is called the ''Associativity|associative property of addition''.
+
+For example: (14+15)+92\iff 14+(15+92)
+
+ Additive inverses (opposites) 
+The Opposite number|opposite of a number n is -n. A number n plus its opposite -n is always equal to 0: n +- n = 0
+
+For example, the opposite of 5 is -5, because -5+5 = 0
+
+The absolute value of two opposite numbers is always the same.
+
+= Subtraction =
+Subtraction is the second arithmetic operation and the inverse operation of addition. The number that is being subtracted is the ''subtrahend'' and the number it is subtracted from is the ''minuend''. The result of a subtraction is called a ''difference''.
+
+The symbol for subtraction is '''−'''
+
+
+Examples of subtractions:
+
+2-4-5
+
+6-1
+
+1-8
+
+3-3
+
+0-9-8 
+
+7-8
+
+
+Because of the ''Identity Property|additive identity'', any number minus zero is the same number (n-0=n).
+
+In a subtraction of two terms, switching the minuend and the subtrahend changes the sign of the answer, meaning subtraction is Anticommutative property|anticommutative.
+
+For example: 15-4=11 and 4-15=-11
+
+= Multiplication =
+Multiplication is the third arithmetic operation and the second hyperoperation. It is the inverse operation of division. The terms in a multiplication are called ''factors'', and the result of a multiplication is called a ''product''.
+
+Multiplication is repeated addition.
+
+The symbol for multiplication is '''×''' (• in algebra)
+
+
+Examples of multiplications:
+
+6\times7
+
+4\times4
+
+9\times0
+
+1\times2\times3
+
+8\times5
+
+
+Any number times one is the same number (x\cdot1=x). This is called the Identity Property|''multiplicative identity''.
+
+For example: 6\times1=6
+
+Changing the order of the factors in a multiplication does not change its product. This is called the ''commutative property of multiplication''.
+
+For example: 4\times5\iff 5\times4
+
+Changing how factors are grouped in a multiplication does not change its product either. This is called the ''Associativity|associative property of multiplication''.
+
+For example: (3\times4)\times5\iff 3\times(4\times5)
+
+ Multiplicative inverses (reciprocals) 
+The reciprocal of a number x is \frac1x. A number x times its reciprocal \frac1x is always equal to 1: x\cdot\frac1x=1
+
+For example, the reciprocal of 3 is 1/3, because 3\times\frac13 = 1
+
+To get the reciprocal of a fraction, switch the numerator and the denominator: the reciprocal of \frac27 is \frac72
+
+= Division =
+Division (mathematics)|Division is the fourth arithmetic operation and the inverse operation of multiplication. The number that is being divided is the ''dividend'' and the number it is divided by is the ''divisor''. The number on top of a fraction is called the ''numerator'' and the number at the bottom is called the ''denominator''. The result of a division is called a ''quotient''.
+
+Division is repeated subtraction.
+
+The symbol for division is '''/''' or a fraction.
+
+
+Examples of divisions:
+
+3/7
+
+2/3
+
+\frac34
+
+\frac06
+
+\frac{\frac59}{\frac18}
+
+
+Because of the ''Identity Property|multiplicative identity'', any number divided by one is the same number (y/1=y).
+
+Division by zero is undefined (d/0=\textrm{undefined}).
+
+In a fraction, switching the numerator and the denominator gives the reciprocal of the fraction.
+
+For example: \frac24 = \frac{1}{\frac42}
+
+= Exponentiation =
+Exponentiation is the fifth arithmetic operation and the third hyperoperation. It is one of the inverse operations of roots and logarithms. The number that is being multiplied is the ''base'' and the number of times it is multiplied is the ''exponent''. The result of an exponentiation is called a ''power''.
+
+Exponentiation is repeated multiplication or division.
+
+The symbol for exponentiation is the superscript (xy) or the caret ('''^''').
+
+
+Examples of exponentiations:
+
+11^{1}=1\times11=11
+
+3^2=1\times3\times3=9
+
+2^3=1\times2\times2\times2=8
+
+5^0=1
+
+7^{-1}=1/7=0.\overline{142857}
+
+13^{-2}=1/13^2\approx0.006
+
+
+Because of the ''Identity Property|multiplicative identity'', the first power of any number is the same number, and the zeroth power of any number is one (b^1=b and b^0=1).
+
+= Roots =
+Nth root|Roots are the sixth arithmetic operation and one of the inverse operations of exponentiation and logarithms. The first term is called the ''index'', and the second term is called the ''radicand''. The result of a root is called a ''base''. When there is no index, this means it is a square (2) root.
+
+The symbol for roots is the radical (\sqrt{\,\,\,\,}).
+
+
+
+Examples of roots:
+
+\sqrt{4}=2
+
+\sqrt{121}=11
+
+\sqrt3{343}=7
+
+\sqrt4{81}=3
+
+\sqrt3{-125}=-5
+
+
+The first root of any number is the same number (\sqrt1{k} = k).
+
+= Logarithms =
+Logarithm|Logarithms are the seventh arithmetic operation and one of the inverse operations of exponentiation and roots. The first term is called the ''base'', and the second term is called the ''power''. The result of a logarithm is called an ''exponent''. When there is no base, this means it is a base 10 logarithm.
+
+The symbol for logarithm is '''log'''b(a)
+
+
+Examples of logarithms:
+
+\log({100})=2
+
+\log_{2}({1024})=10
+
+\log_{3}({27})=3
+
+\log_{2}({128})=7
+
+\log_{3}({729})=6
+
+
+The logarithm of 1 (\log_{b}({1})) is 0 in every base. This is because m^0=1
+
+The logarithm base E (mathematical constant)|e, or Logarithm#Natural logarithms|natural logarithm, is written as \ln({x}).
+
+= Modulation =
+Modulo operation|Modulation is the eighth arithmetic operation. It gives the remainder of a division. The first term is called the ''modulend'' and the second term is called the ''modulator''. The result of a modulation is called a ''modulus''.
+
+The symbol for modulation is '''\'''
+
+
+Examples of modulations:
+
+5\2=1
+
+20\7=6
+
+0\3=0
+
+9\8=1
+
+22\4=2
+
+
+0\x is always equal to zero, because zero can be divided by any number (0/x=0).
+
+= Factorial =
+Factorial is a function which gives the number of ways to arrange n objects. The term is called the ''index''. The result of a factorial is also called a factorial.
+
+The symbol for factorial is '''!'''
+
+
+
+The first factorials are:
+
+0! = 1
+
+1! = 1
+
+2! = 2
+
+3! = 6
+
+4! = 24
+
+5! = 120
+
+
+0! is equal to one because there is exactly one way of arranging 0 objects. Factorials are undefined for negative numbers. Factorials of fractional numbers can be calculated using the Gamma function.
+
+= Absolute value =
+Absolute value is a function which gives the distance from zero (or magnitude) of a number.
+
+The symbol for absolute value is \left\vert x \right\vert
+
+
+Examples of absolute values:
+
+\left\vert 147 \right\vert = 147
+
+\left\vert -321 \right\vert = 321
+
+\left\vert 96 \right\vert = 96
+
+\left\vert -358 \right\vert = 358
+
+\left\vert 0 \right\vert = 0
+
+
+The absolute value of a-b is the same as the absolute value of b-a (\left\vert a-b \right\vert = \left\vert b-a \right\vert). This is because subtraction is Anticommutative property|anticommutative.
+
+ Related pages 
+
+ Arithmetic
+Operand
+Operator
+ Order of operations
+Hyperoperation|Hyperoperations
+

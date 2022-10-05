@@ -1,0 +1,8 @@
+'''Kinetic theory''' or ''kinetic theory of gases'' attempts to explain macroscopic|overall properties of gases, such as pressure, temperature, or volume, by considering their molecule|molecular composition (natural science)|composition and motion (physics)|motion. The theory basically states that pressure is not caused by molecules repulsion|pushing each other away, like earlier scientists thought. Instead, pressure is caused by the molecules colliding with each other and their container. Kinetic theory is also known as ''kinetic-molecular theory'' or ''collision theory''.
+
+There are three main components to kinetic theory:
+ No energy is gained or lost when molecules collide
+ The molecules in a gas take up a negligible (able to be ignored) amount of space in relation to the container they occupy
+ The molecules are in constant, linear motion.
+
+Category:Thermodynamics

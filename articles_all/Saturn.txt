@@ -1,0 +1,101 @@
+
+
+'''Ices''':
+ ammonia ()
+ water ()
+ ammonium hydrosulfide ()
+}}
+'''Saturn''' is the sixth planet from the Sun located in the Solar System. It is the second largest planet in the Solar System, after Jupiter. Saturn is one of the four gas giant planets, along with Jupiter, Uranus, and Neptune.
+
+Saturn is the English transliteration from the Latin word ''Saturnus'', in Roman religion, the god of sowing or seed. The Romans equated him with the Greek agricultural deity Kronos. Saturn was named after the Roman mythology|Roman god Saturn (mythology)|Saturnus (called Kronos in Greek mythology).
+
+Inside Saturn is probably a planetary core|core of iron, nickel, silicon and oxygen compounds, surrounded by a deep layer of metallic hydrogen, then a layer of liquid hydrogen and liquid helium and finally, an outer gaseous layer.
+
+Saturn has 82 known Satellite (natural)|moons orbiting the planet. 53 are officially named and 29 are waiting to be named. The largest moon is Titan (moon)|Titan, which is larger in volume than the planet Mercury (planet)|Mercury. Titan is the second-largest moon in the Solar System. The largest moon is Jupiter's moon, Ganymede. There is also a very large system of planetary ring|rings around Saturn. These rings are made of ice with smaller amounts of minerals|rocks and dust. Some people believe that the rings were caused by a moon impact or other event. Saturn is about 1,433,000,000 kilometer|km (870,000,000 mile|mi) on average from the Sun. Saturn takes 29.6 Julian year (astronomy)|Earth years to revolve around the Sun.
+
+
+ Physical features 
+
+
+
+Saturn is an oblate spheroid, meaning that it is flattened at the Geographical pole|poles, and it swells out around its equator. The planet's equatorial diameter is ; a 9% difference. Saturn has a flattened shape due to its very fast rotation, once every 10.8 hours.
+
+Saturn is the only planet in the Solar System that is less density|dense than water. Even though the planet's planetary core|core is very dense, it has a gaseous atmosphere, so the average relative density|specific density of the planet is 0.69&nbsp;g/cm3. This means if Saturn could be placed in a large pool of water, it would float.
+
+= Atmosphere =
+The outer part of Saturn's atmosphere is made up of about 96% hydrogen, 3% helium, 0.4% methane and 0.01% ammonia. There are also very small amounts of acetylene, ethane and phosphine.
+
+
+Saturn's clouds show a banded pattern, like the cloud bands seen on Jupiter. Saturn's clouds are much fainter and the bands are wider at the equator. Saturn's lowest cloud layer is made up of water ice, and is about  above the water cloud tops. Auroras are also known to form in Saturn in the mesosphere. The temperature at Saturn's cloud tops is extremely low, at 98 K (-283&nbsp;°F, -175&nbsp;°C). The temperatures in the inner layers are much higher than the outside layers because of the heat produced by Saturn's interior.
+Saturn's winds are some of the fastest in the Solar System, reaching 1,800 kilometres per hour|km/h (1,118 miles per hour|mph),
+
+ Storms and spots 
+Saturn's atmosphere is also known to form oval shaped clouds, similar to the clearer spots seen in Jupiter. These oval spots are cyclonic storms, the same as cyclones seen on Earth. In 1990, the Hubble Space Telescope found a very large white cloud near Saturn's equator. Storms like the one in 1990 were known as ''Great White Spots''. These unique storms only exist for a short time and only happen about every 30 Earth years, at the time of the summer solstice in the Northern Hemisphere.
+Great White Spots were also found in 1876, 1903, 1933, and 1960. If this cycle continues, another storm will form in about 2020.
+
+The Voyager 1 spacecraft found a hexagonal cloud pattern near Saturn's north pole at about longitude|78°N. The Cassini−Huygens probe later confirmed it in 2006. Unlike the north pole, the south pole does not show any hexagonal cloud feature. The probe also discovered a hurricane-like storm locked to the south pole that clearly showed an eye (cyclone)|eyewall. Until this discovery, eyewalls had only been seen on Earth.
+
+= Interior =
+Saturn's interior is similar to Jupiter's interior. It has a small rocky core about the size of the Earth at its center.
+
+= Magnetic field =
+Saturn has a natural magnetic field that is weaker than Jupiter's. Like the Earth's, Saturn's field is a magnetic dipole. Saturn's field is unique in that it is perfectly symmetrical, unlike any other known planet. This means the field is exactly in line with the planet's axis of rotation|axis.
+
+ Rotation and orbit 
+Saturn's average distance from the Sun is over 1,400,000,000&nbsp;km (869,000,000&nbsp;mi), about nine times the distance from the Earth to the Sun. It takes 10,759 days, or about 29.8 years, for Saturn to orbit around the Sun. This is known as Saturn's ''orbital period''.
+
+Voyager 1 measured Saturn's rotation as being 10 hours 14 minutes at the equator, 10 hours 40 minutes closer to the poles, and 10 hours 39 minutes 24 seconds for the planet's interior. This is known as its ''rotational period''.
+
+Cassini measured the rotation of Saturn as being 10 hours 45 minutes 45 seconds ± 36 seconds. That is about six minutes, or one percent, longer than the radio rotational period measured by the Voyager 1 and Voyager 2 spacecraft, which flew by Saturn in 1980 and 1981.
+
+Saturn's rotational period is calculated by the rotation speed of radio waves released by the planet. The Cassini−Huygens spacecraft discovered that the radio waves slowed down, suggesting that the rotational period increased. Since the scientists do not think Saturn's rotation is actually slowing down, the explanation may lie in the magnetic field that causes the radio waves.
+
+ Planetary rings 
+
+Saturn is best known for its planetary rings which are easy to see with a telescope. There are seven named rings; A, B, C, D, E, F, and G rings.
+
+Scientists believe that the rings are material left after a moon broke apart.
+
+= History =
+The rings were first discovered by Galileo Galilei in 1610, using his telescope. They did not look like rings to Galileo, so he called them "handles". He thought that Saturn was three separate planets that almost touched one another. In 1612, when the rings were facing edge on with the Earth, the rings disappeared, then reappeared again in 1613, further confusing Galileo.
+
+= Physical features =
+The rings range from  Some scientists believe that the wave is caused by Saturn's moons.
+
+The largest gaps in the rings are the Cassini Division and the Rings of Saturn|Encke Division, both visible from the Earth. The Cassini Division is the largest, measuring  wide. However, when the Voyager spacecrafts visited Saturn in 1980, they discovered that the rings are a complex structure, made out of thousands of thin gaps and ringlets. Scientists believe this is caused by the gravity|gravitational force of some of Saturn's moons. The tiny moon Pan (moon)|Pan orbits inside Saturn's rings, creating a gap within the rings. Other ringlets keep their structure due to the gravitational force of shepherd satellites, such as Prometheus (moon)|Prometheus and Pandora (moon)|Pandora. Other gaps form due to the gravitational force of a large moon farther away. The moon Mimas (moon)|Mimas is responsible for clearing away the Cassini gap.
+
+Recent data from the Cassini spacecraft has shown that the rings have their own atmosphere, free from the planet's atmosphere. The rings' atmosphere is made of oxygen gas, and it is produced when the Sun's ultraviolet light breaks up the water ice in the rings. Chemical reaction also occurs between the ultraviolet light and the water molecules, creating hydrogen gas. The oxygen and hydrogen atmospheres around the rings are very widely spaced.
+
+= Spokes =
+
+
+The Voyager space probe discovered features shaped like rays, called ''spokes''.
+They rotate at the same time with the planet's magnetosphere, therefore, it is believed that they have a connection with electromagnetism. However, what causes the spokes to form is still unknown. They appear to be seasonal, disappearing during solstice and appearing again during equinox.
+
+ Moons 
+
+Saturn has List of Saturn's moons|53 named moons, and another 29 which are still being studied. in diameter.
+
+In December 2004 and January 2005 a man-made satellite called the Cassini−Huygens probe took lots of close photos of Titan. One part of this satellite, known as the Huygens probe, then landed on Titan. Named after the Dutch astronomer Christiaan Huygens, it was the first spacecraft to land in the outer Solar System. The probe was designed to float in case it landed in liquid.
+Enceladus, the sixth largest moon, is about  in diameter. It is one of the few outer solar system objects that shows volcano|volcanic activity.
+
+ Exploration 
+
+Saturn was first explored by the Pioneer 11 spacecraft in September 1979. It flew as close as  above the planet's cloud tops. It took photographs of the planet and a few of its moons, but were low in wikt:resolution|resolution. It discovered a new, thin ring called the F ring. It also discovered that the dark ring gaps appear bright when viewed towards the Sun, which shows the gaps are not empty of material. The spacecraft measured the temperature of the moon Titan. Mission Descriptions. Retrieved July 5, 2007.
+
+In November 1980, Voyager 1 visited Saturn and took higher resolution photographs of the planet, rings, and moons. These photos were able to show the surface features of the moons. Voyager 1 went close to Titan and gained much information about its atmosphere. In August 1981, Voyager 2 continued to study the planet. Photos taken by the space probe showed that changes were happening to the rings and atmosphere. The Voyager spacecraft discovered a number of moons orbiting close to Saturn's rings, as well as discovering new ring gaps.
+
+
+
+On July 1, 2004, the Cassini−Huygens probe entered into orbit around Saturn. Before then, it flew close to Phoebe (moon)|Phoebe, taking very high-resolution photos of its surface and collecting data. On December 25, 2004, the Huygens probe separated from the Cassini probe before moving down towards Titan's surface and landed there on January 14, 2005. It landed on a dry surface, but it found that large bodies of liquid exist on the moon. The Cassini probe continued to collect data from Titan and a number of the icy moons. It found evidence that the moon Enceladus had water erupting from its geysers.
+
+Cassini observed lightning occurring in Saturn since early 2005. The power of the lightning was measured to be 1,000 times more powerful than lightning on Earth. Astronomers believe that the lightning observed in Saturn is the strongest ever seen.
+
+ Notes 
+Refers to the level of one bar atmospheric pressure
+Orbital information is based on the barycentre of the Saturn system, the centre of mass, not the geometry|geometric centre. Barycentre measurements are used because they are not changed by the daily movement of the moons.
+
+ Related pages 
+ List of planets
+
+Category:Saturn| 

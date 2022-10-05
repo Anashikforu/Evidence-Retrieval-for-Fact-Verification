@@ -1,0 +1,14 @@
+Image:Flagellum-beating.png|thumb|240px|Difference of beating pattern of flagellum and cilia. Flagellum is the one on the left, cilia are on the right.
+A '''flagellum''' (plural: ''flagella'') is a long, whip-like structure that helps some single celled organisms move. It is composed of microtubules. They help propulsion|propel cells and organisms in a whip-like motion. The flagellum of eukaryotes usually moves with an “S” motion, and is surrounded by cell membrane.
+
+Flagella are structurally almost identical with the much smaller Cilia. So much so that it has been proposed protists bearing either should be unified in the Phylum ''Undulipodia''.Margulis L & Dolan M.F. 2002. ''Early life: evolution on the Precambrian Earth''. 2nd ed, Jones & Bartlett, Boston. p89 Previously, Margulis had proposed that the Ciliates alone should be placed in a Phylum ''Ciliophora''.Margulis L. Schwartz K.V. & Dolan M. 1999. ''Diversity of life: the illustrated guide to the five kingdoms''. Jones & Bartlett, Boston, p94. In this work the authors propose 19 phyla for the Protista, and call this 'Kingdom' the 'Protoctista', a term which is unfortunately almost unpronounceable. Admittedly, the Protista is a collection of disparate single-celled forms, but while a more sophisticated taxonomy is in flux (changing), Protista is still a useful term.
+
+Cilia and flagella are cell organelles, specialised units which carry out well-defined functions, like mitochondria and plastids. It is fairly clear now that all or most of these organelles have their origin in once-independent prokaryotes (bacteria or archaea), and that the eukaryote cell is a 'community of micro-organisms' working together in 'a marriage of convenience'.Margulis L. and McMenamin 1990. Marriage of convenience. ''The Sciences'' '''30''', 31-36.
+
+ Types 
+Three types of flagella have so far been distinguished; bacterial, archaeal and eukaryotic. The main differences among these three types are summarized below:
+
+ Bacterium|Bacterial flagella are helical filaments that rotation|rotate like screws.
+ Archaeal flagella are superficially similar to bacterial flagella, but are different in many details and considered non-Homology (biology)|homologous.
+ Eukaryote|Eukaryotic flagella – those of animal, plant, and protist cells – are complex cellular projections that lash back and forth.  Eukaryotic flagella are classed along with eukaryotic Cilium#Motile cilia|''motile'' cilia as ''undulipodia''
+Category:Organelles

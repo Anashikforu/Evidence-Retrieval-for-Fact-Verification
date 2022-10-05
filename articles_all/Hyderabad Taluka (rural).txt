@@ -1,0 +1,35 @@
+{{Infobox settlement
+|settlement_type = Tehsil
+|image_map= Pakistan - Sindh - Hyderabad.svg
+|image_caption = Location of Hyderabad within Sindh.
+|name= Hyderabad Taluka (rural)
+|image_flag= Flag_of_Sindh.svg
+|subdivision_type = Country
+|subdivision_name = 
+|subdivision_type1 = Subdivisions of Pakistan|Province
+|subdivision_name1= Sindh
+|subdivision_type2 = Districts of Pakistan|District
+|subdivision_name2= Hyderabad District
+|area_total_km2= 
+|population_as_of= 1998
+|pop_est_as_of= 
+|population_total= 
+|population_est=
+|population_density_km2=
+|timezone1 = Pakistan Standard Time|PST (UTC+5)
+|blank_name_sec1 = No. of Union Councils
+|blank_info_sec1= 11
+|leader_title = Nazim
+|leader_name= Khawan Bux G.Muhammad
+|leader_title1 = Naib Nazim
+|leader_name1 = Mir Ghulam Hussain (Muhammad Ashraf)
+|footnotes= 
+|coordinates = 
+'''Hyderabad Taluka (rural)''' is an administrative subdivision (tehsil|taluka) of Hyderabad District in the Sindh province of Pakistan. Hyderabad district is subdivided into 4 talukas, the Urban area around the capital Hyderabad, Sindh|Hyderabad is part of Hyderabad City Taluka.
+
+Administration
+The rural tehsil|Taluka of Hyderabad  is administratively subdivided into 11 Union Councils of Pakistan|Union Councils, these are:
+
+
+
+Category:Hyderabad District

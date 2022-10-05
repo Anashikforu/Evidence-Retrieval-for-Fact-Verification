@@ -1,0 +1,30 @@
+{{Infobox Swiss town
+ | subject_name		= Wängi
+ | municipality_name	= Wängi
+ | municipality_type	= municipality
+ | imagepath_coa	= Wappen Waengi.svg|pixel_coa=
+ | map			= 
+ | languages		= German
+ | canton		= Thurgau
+ | iso-code-region 	= CH-TG
+ | district		= Münchwilen (district)|Münchwilen
+ | lat_d=47|lat_m=30|lat_NS=N|long_d=8|long_m=57|long_EW=E
+ | postal_code		= 9545
+ | municipality_code	= 4781
+ | area			= 16.4
+ | elevation		= 470|elevation_description= 
+ | population		= 4074|populationof = December 2005 | popofyear = 2005
+ | website		= www.waengi.ch
+ | mayor		= |mayor_asof=|mayor_party=
+ | mayor_title	= |list_of_mayors	= 
+ | places		= 
+ | demonym		= 
+ | neighboring_municipalities= Aadorf, Bettwiesen, Bichelsee-Balterswil, Eschlikon, Lommis, Matzingen, Münchwilen, Thurgau|Münchwilen, Stettfurt
+ | twintowns		= 
+||image_photo=File:Waengi reformita preghejo kaj tombeja kapelo 076.JPG}}
+
+'''Wängi''' is a municipality of the district of Münchwilen (district)|Münchwilen in the Cantons of Switzerland|canton of Thurgau in Switzerland.
+
+
+
+Category:Municipalities of Thurgau

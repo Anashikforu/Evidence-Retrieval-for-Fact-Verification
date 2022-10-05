@@ -1,0 +1,48 @@
+
+
+'''Damn Small Linux''' or '''DSL''' is a Free software|free operating system for the x86 architecture|x86 family of personal computers. It was designed to run Graphical user interface|graphical applications on older PC Computer hardware|hardware—for example, machines with Intel 80486|486/early Pentium Microprocessor|processors and very little Random access memory|memory. DSL is a '''Live CD''' with a size of 50 Megabyte|MB. What originally started as an experiment to see how much software could fit in 50 MB eventually became a full-fledged Linux distribution. It can be installed on storage media with small capacities, like bootable business cards, USB flash drives, various memory cards, and Zip drives.
+
+ History 
+DSL was originally conceived and maintained by John Andrews. The community now includes Robert Shingledecker, who created the MyDSL system, DSL Control Panel, and other features.
+
+DSL was originally based on Model-K, a 22 MB stripped-down version of Knoppix, but soon after was based on Knoppix proper, allowing much easier Remaster (software)|remastering and improvements.
+
+ System requirements 
+DSL supports only x86 architecture|x86 PCs. The minimum system requirements are a Intel 80486|486 processor and 8 MB of RAM. DSL has been demonstrated browsing the web with Dillo, running simple games and playing music on systems with a Intel 80486|486 processor and 16 MB of RAM. The system requirements are higher for running Mozilla Firefox and optional add-ons such as the OpenOffice.org office suite.
+
+ Features 
+
+The current version of DSL is 4.4.5, released September 3, 2008. DSL currently includes the following software:
+Text editors: Beaver, Nano (text editor)|Nano, Vim (text editor)|Vim
+File managers: DFM, emelFM
+Graphics: MtPaint, xzgv (image viewer)
+Multimedia: gphone, XMMS with MPEG-1 and Video CD|VCD support
+Office: SIAG (spreadsheet program), Ted (word processor) with spell checker, Xpdf (viewer for Portable Document Format|PDF documents)
+Internet:
+Web browsers: Dillo, Mozilla Firefox|Firefox, Netrik
+Sylpheed (E-mail client)
+Naim (chat program)|naim (AOL Instant Messenger|AIM, ICQ, and IRC client)
+AxyFTP (File Transfer Protocol|FTP client), BetaFTPD (FTP server)
+Monkey (web server)
+Server Message Block|SMB client
+Rdesktop (Remote Desktop Protocol|RDP client), Virtual Network Computing|VNC viewer
+Others: Dynamic Host Configuration Protocol|DHCP client, Secure Shell|SSH/Secure copy|SCP client and server; Point-to-Point Protocol|PPP, Point-to-Point Protocol over Ethernet|PPPoE, Asymmetric Digital Subscriber Line|ADSL support; FUSE (Linux)|FUSE, Network File System (protocol)|NFS, SSHFS support; UnionFS; generic/Ghostscript printing support; PC card, Universal Serial Bus|USB, Wi-Fi support; calculator, games, system monitor; many Command line interface|command-line tools
+
+DSL has built-in scripts to download and install Advanced Packaging Tool (APT). Once APT is enabled, the user can install packages from Debian's 'Woody' Software repository|repository. Additionally, DSL hosts software ranging from large applications like OpenOffice.org and GNU Compiler Collection|GCC, to smaller ones such as aMSN, by means of the "MyDSL" system, which allows convenient one-click download and installation of software. Files hosted on MyDSL are called "extensions". As of June 2008, the MyDSL servers were hosting over 900 applications, plugins, and other extensions.
+
+ The MyDSL system 
+MyDSL is handled and maintained mostly by Robert Shingledecker and hosted by many organizations, such as ibiblio and Belgium's BELNET. There are 2 areas of MyDSL - regular and "testing". The regular area contains extensions that have been proven stable enough for everyday use and is broken down into different areas such as "apps", "net", "system", and "uci" ("Universal Compressed ISO" - Extensions in .uci format are Mount (computing)|mounted as a separate File system|filesystem to minimize RAM usage). The "testing" area is for newly submitted extensions that theoretically work 'as advertised', but may have any number of Software bug|bugs.
+
+ Versions and ports 
+
+
+The standard flavour of DSL is the Live CD. There are also other versions available.
+
+ Live USB 
+A Live USB of Damn Small Linux can be created manually or with UNetbootin.
+Related pages
+Mini Linux
+Feather Linux
+Puppy Linux
+
+Category:Live CD

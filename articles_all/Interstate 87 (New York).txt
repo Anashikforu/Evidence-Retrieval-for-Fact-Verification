@@ -1,0 +1,12 @@
+
+|direction_b=North
+|terminus_b= at the Canada–United States border|Canadian border in Champlain, New York|Champlain
+|counties=The Bronx|Bronx, Westchester County, New York|Westchester, Rockland County, New York|Rockland, Orange County, New York|Orange, Ulster County, New York|Ulster, Greene County, New York|Greene, Albany County, New York|Albany, Saratoga County, New York|Saratoga, Warren County, New York|Warren, Essex County, New York|Essex, Clinton County, New York|Clinton
+|previous_type=NY 1948
+|previous_route=86A
+|next_type=NY
+|next_route=87
+|browse=
+}}
+'''Interstate 87''' is an Interstate Highway in the state of New York in the United States. It goes from New York City north to Champlain, New York|Champlain at the Canada border where it connects to Autoroute 15. The route is  long.
+Category:Interstate Highways|87

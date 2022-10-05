@@ -1,0 +1,33 @@
+{{Taxobox
+| name = Sika deer
+| status = LC
+| status_system = iucn3.1
+| status_ref = Database entry includes a brief justification of why this species is of least concern.
+| image = SikaDeerM1.jpg
+| image_width = 250px
+| image_caption=Male (Deer#Terminology|stag)
+| image2=Sikahjort.jpg
+| image2_width=150px
+| image2_caption=Females (Deer#Terminology|hinds)
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Artiodactyla
+| familia = Cervidae
+| subfamilia = '''Cervinae'''
+| genus = ''Cervus''
+| binomial = ''Cervus nippon''}}
+
+The '''sika deer''' (''Cervus nippon'') is a member of the deer family '''Cervidae'''. It lives in East Asia. It is found in mixed deciduous forests to the north, and mixed subtropical deciduous and evergreen forests to the south.
+
+ Distribution 
+Sika deer are native to Taiwan to Japan, but they have been introduced to many parks in Europe. In the United Kingdom|UK, there are large populations in Ireland and Scotland and there are patchy populations scattered across England.
+
+Sources
+
+
+
+
+
+
+
+Category:Mammals of Asia

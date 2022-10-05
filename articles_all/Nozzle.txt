@@ -1,0 +1,6 @@
+A '''nozzle''' is a device that takes incoming fluid (such as gas or liquid) and increases the speed. This is done by changing the size of the pipe (or tube) that the fluid is flowing through.
+
+ Origine of American vectoring-nozzle 
+''':ru:Р79В-300|Soyuz R-79V-300''' - Origine of the :en:Pratt & Whitney F135|F135.
+
+Category:Fluid mechanics

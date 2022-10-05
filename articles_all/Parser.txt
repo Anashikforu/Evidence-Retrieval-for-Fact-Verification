@@ -1,0 +1,6 @@
+In computer science, a '''parser''' is a program that checks to see if the grammar is valid.
+
+
+
+
+Category:Computer programming

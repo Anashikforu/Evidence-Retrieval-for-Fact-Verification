@@ -1,0 +1,14 @@
+Can anybody solve this problem?
+A cylindrical tank filled with molten salt now considering the case half of the tank(top) is at temperature of 873K and bottom half is at 573K.
+The dimensions of tank is given as (D = 3 m & H = 6 m). Let's assume there is no fluid flow or mixing hence heat transfer only by conduction.
+How the temperature varies within the body w.r.t. time?
+Assume density= 1803.8 kg/m3 , Cp = 1520.4 J/kgK and K = 0.45 W/m-K
+
+ Other websites 
+
+
+
+
+Category:Websites
+Category:2003 establishments
+Category:2015 disestablishments

@@ -1,0 +1,55 @@
+
+'''Henry Agard Wallace''' (October 7, 1888 – November 18, 1965) was the 33rd vice president of the United States (1941–45). He was also the eleventh United States Secretary of Agriculture|Secretary of Agriculture (1933–40). In addition, he was the tenth United States Secretary of Commerce|Secretary of Commerce (1945–46). In 1948 United States presidential election|1948, he ran for President of the United States|president as a member of the Progressive Party.
+
+
+{{succession box
+| before= Arthur M. Hyde
+|title= United States Secretary of AgricultureServed under: Franklin D. Roosevelt  
+|years=March 4, 1933–September 4, 1940
+|after=Claude R. Wickard}}
+{{succession box
+| before= John Nance Garner
+|title= Vice President of the United StatesServed under: Franklin D. Roosevelt    
+|years=January 20, 1941–January 20, 1945
+|after=Harry S. Truman}}
+{{succession box
+| before= Jesse Holman Jones
+|title= United States Secretary of CommerceServed under: Franklin D. Roosevelt, Harry S. Truman    
+|years=March 2, 1945–September 20, 1946
+|after=W. Averell Harriman}}
+
+{{succession box
+| before= John Nance Garner
+|title= US Democratic Party|Democratic Party Vice President of the United States|Vice Presidential List of United States Democratic Party presidential tickets|nominee     
+|years=United States presidential election, 1940|1940 (won)
+|after=Harry S. Truman}}
+{{succession box
+| before= N/A
+|title= Progressive Party (United States, 1948)|Progressive Party President of the United States|Presidential nominee    
+|years=United States presidential election, 1948|1948 (4th)
+|after=Vincent Hallinan}}
+{{succession box
+| before= Franklin D. Roosevelt
+|title= American Labor Party Presidential nominee    
+|years=United States presidential election, 1948|1948 (4th)
+|after=Vincent Hallinan}}
+
+
+
+
+
+
+
+
+
+
+
+Category:1888 births
+Category:1936 deaths
+Category:Deaths from motor neurone disease
+Category:Vice Presidents of the United States
+Category:United States Secretaries of Agriculture
+Category:Politicians from Iowa
+Category:US Democratic Party politicians
+Category:United States Secretaries of Commerce
+Category:20th-century American politicians

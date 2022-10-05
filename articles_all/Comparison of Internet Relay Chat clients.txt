@@ -1,0 +1,88 @@
+The following tables compare general and technical information between a number of Internet Relay Chat#Clients|IRC client programs. Please see the individual products pages for more information. This page is does not include everything and may not be current.
+
+General
+Basic general information about the clients: creator/company, license/price etc. Clients listed on a light purple background are no longer in active development.
+
+
+ Can be installed as part of a web browser
+ Distributed as a Universal Binary
+ Web browser component
+ Separate client and daemon
+ Not complete, proof of concept
+ In development
+
+Release history
+A brief overview of the release history.
+
+
+
+Operating system support
+The operating systems on which the clients can run natively (without emulation).
+
+
+
+ Requires CygwinSee "INSTALL" included with BitchX 
+ Requires EMX (programming environment)|EMX
+ Requires Mac OS X v10.4 or later
+ In development
+ Requires Internet Explorer 5.0 or later for Windows 95, 98, 98SE, ME, NT4, and 2000
+ Requires Windows API|comctl32.dll version 5.80 or later for Windows 98 and NT 4.0
+ Requires Windows NT 4.0 SP6|Service Pack 6 and Internet Explorer 4.0 or later for Windows NT 4.0
+ Requires RubyCocoa 1.0.0 or later
+ Requires Mac OS X v10.4.3 or later
+ Requires Windows XP Service Pack 2 or later
+ Does not support Windows 95 or Windows 98
+
+Unix and Unix-like operating systems:
+:Unix (BSD): 386BSD, BSD/OS, FreeBSD, NetBSD, OpenBSD, SunOS, ULTRIX
+:Unix (System V): AIX, A/UX, HP-UX, IRIX, SCO UNIX, Solaris (operating system)|Solaris, UnixWare
+:Unix-like: Linux, NeXTSTEP, OpenVMS, OSF/1, QNX, Tru64 UNIX
+
+
+
+ BitchX is known to work on BSDI 2.0, 2.1, 3.1, 4.0; FreeBSD 2.x, 3.x, 4.0; NetBSD 3.x, 4.x; SunOS 4.1.4; Ultrix; AIX; HP-UX 9.x, 10.x; IRIX 5.x, 6.x; Solaris 5.x and later; Linux; OSF/1 (DEC Alpha); QNX
+ WeeChat tested on FreeBSD 4.11, 5.4, 6.0; NetBSD 2.0, 2.1; OpenBSD 3.6, 3.7, 3.8; Solaris 5.10; QNX 6.3
+ In development
+ XChat tested on HP-UX 10.20 and 11
+
+mIRC will run on NIX systems under WINE - Confirmed
+
+Protocol support
+What IRC related protocols and standards are supported by each client.
+
+
+
+ Planned for a later version
+ Marked as completed, but not included yet
+ Supported via a plugin
+ Supported via an external tunnel program
+ Can not send files, can only receive files up to 2MB
+ DCC is not always successful at this stage
+ Wrapper library available
+ Requires the OpenSSL library
+ Partial OpenSSL support
+
+=Direct Client-to-Client (DCC) support=
+
+
+ Planned for a later version
+ Supports the DCC Resume protocol
+ Supported via a script
+ Marked as completed, but not included yet
+ Supported via scripts and plugins
+
+Features
+Information on what features each of the clients support.
+
+
+
+ When compiled with ncursesw (ncurses with wide-character support)
+ Automatically updates via the Sparkle (software)|Sparkle framework
+ Planned for a later version
+ Supported as of version 20050921
+ Uses the Windows Active Scripting technology and supports any scripting language with the appropriate interface
+ Any language which supports DCOP may be used for Konversation scripting. Virtually any language can be made to support Konversation scripting by executing the command line "dcop" program.
+ Not complete, proof of concept
+ Supported via a plugin
+
+Category:IRC clients|Clients, Internet Relay Chat, Comparison of

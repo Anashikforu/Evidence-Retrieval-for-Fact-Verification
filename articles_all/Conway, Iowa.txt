@@ -1,0 +1,7 @@
+
+'''Conway''' is a city in Iowa in the United States.
+
+Population
+{{Historical populations|1880|27=2010|21=1980|22=93|23=1990|24=57|25=2000|26=63|28=41|19=1970|29=2019|30=40|title=Historical populations|type=USA|align=left|source=U.S. Decennial Census
+
+Category:Cities in Iowa

@@ -1,0 +1,13 @@
+
+
+The '''axon''' is the part of a neuron that sends the signal to the synapse. Axons are long, thin and tendril-like.
+
+Axons are much like a highly developed dendrite.
+
+The axon carries an electrical signal from the cell body (soma) to the synapse. There the signal passes to other neurons or to muscle fibers. An axon can be over a meter long in humans. Or even longer in longer animals like elephants and whales.
+
+The electrical signal of an axon is made by ions that flow in and out of the cell producing an electric impulse called an action potential. The speed at which the signal travels depends on how thick the axon is, and how much insulation it has. Insulation is provided by specialized cells called myelin that wrap around the axon. This insulation is called the myelin sheath. 
+
+The axon was discovered by Otto Deiters.
+
+Category:Anatomy of the nervous system

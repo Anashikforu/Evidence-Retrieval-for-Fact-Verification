@@ -1,0 +1,36 @@
+
+
+
+|status   =  Active
+|sites    =  Cape Canaveral Air Force Station|Cape Canaveral Cape Canaveral Air Force Station Space Launch Complex 41|SLC-41Vandenberg Air Force Base|Vandenberg Vandenberg AFB Space Launch Complex 3|SLC-3E
+|launches =  79('''401:''' 38, '''411:''' 5, '''421:''' 7, '''431:''' 3)('''501:''' 6, '''521:''' 2, '''531:''' 3, '''541:''' 6, '''551:''' 9)
+|success  =  78('''401:''' 37, '''411:''' 5, '''421:''' 7, '''431:''' 3)('''501:''' 6, '''521:''' 2, '''531:''' 3, '''541:''' 6, '''551:''' 9)
+|fail     =  
+|partial  =  1 ('''401''' – low orbit, customer declared success)|other_outcome =  
+|first    = 21 August 2002 (Hot Bird 6)
+|last     = 17 October 2018 (AEHF-4)
+|only     =  
+|payloads = 
+
+|stagedata    =  
+  
+'''Atlas V''' is an orbital launch vehicle used by the United Launch Alliance (made of two companies, Boeing and Lockheed Martin) to place satellite (artificial)|satellites into orbit. It is a  rocket  wide. It has flown 79 times, since its first flight on August 21, 2002. It was developed from the Atlas (missile). Unlike the Space Shuttle, Atlas V is only used once, with a new rocket being built for each flight.
+
+
+The rocket is made of the first stage, a Common Core Booster with an RD-180 engine from Russia. Every Atlas V has this as the first stage. The second stage is called Centaur, and has one/two RL-10 engines from Aerojet Rocketdyne. On top is a  wide fairing covering the spacecraft during launch.
+
+ Flights 
+As of the end of 2018, the Atlas V has made 79 flights.  The most famous ones carried the New Horizons, Mars Science Laboratory (which had the Curiosity rover in it), Juno (spacecraft)|Juno, the Mars Reconnaissance Orbiter, the Lunar Reconnaissance Orbiter/Lunar Crater Observation and Sensing Satellite|LCROSS, the Boeing X-37B, the Mars 2020 mission which carried the Perseverance (rover)|Perseverance rover and the Ingenuity (helicopter)|Mars Helicopter Ingenuity, and in the future, the launch vehicle for Boeing's CST-100 Starliner used for crewed flights to the International Space Station.
+
+ Variants 
+
+The Atlas V has a special way of naming the different kinds. The Atlas V nomenclature for numbering the variants goes like this: The first number says how wide the fairing is. A 400 series Atlas V has a 4-meter wide fairing. A 500 series Atlas V has a 5-meter wide fairing. An Atlas V N22 have no fairing since it will be the launch configuration for the Boeing's CST-100 Starliner. second number says how many strap-on solid rocket boosters the rocket has. An Atlas V 501 has no strap-on boosters, an Atlas V 441 has 4 strap-on boosters, while the Atlas V N22 has two strap-on boosters, which will be the Boeing Starliner launch configuration. The last number says how many engines the Centaur second stage has. All of the Atlas V rockets flown have had only 1 engine on the Centaur, but in the future other Atlas V rockets will have 2 engines on the Centaur upper stage, such as the Atlas V N22 that I frequently mentioned in this article. There is also the HLV which has two of the first stage (Common Core Booster) strapped on like strap-on boosters, but it has never flown.
+
+ Related pages 
+ Juno (spacecraft)|Juno
+ Mars Reconnaissance Orbiter
+ Mars Science Laboratory
+ NASA
+ New Horizons
+
+Category:Rockets

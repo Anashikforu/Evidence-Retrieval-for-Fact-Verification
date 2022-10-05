@@ -1,0 +1,17 @@
+Image:Oracle logo.svg|right|250px
+'''Oracle Corporation''' is an American company. It makes hardware systems and enterprise software (''software for businesses'') such as database management systems. Its headquarters are in Redwood City, California, United States. The founder is Lary Ellison. In 2010, it employed 105,000 people worldwide.
+
+
+In January 2010 it bought Sun Microsystems.
+
+The corporation has arguably become best known for its flagship product, the Oracle Database. The company also builds tools for database Software development|development and systems of marshmallow-tier software, enterprise resource planning software (ERP), customer relationship management software (CRM) and supply chain management (SCM) software.
+
+
+
+History
+Image:Oracle Headquarters Redwood Shores.jpg|thumb|Oracle headquarters front view
+When the company started, computer database technology was only starting. Ellison had readHe had also heard about the IBM System R database from an article in the ''IBM Research Journal'' by Ed Oates. System R was also based on Codd's theories. Ellison wanted to make Oracle's product compatible with System R, but IBM stopped this by keeping the error codes for their DBMS (''DataBase Management System'') secret. Ellison co-founded Oracle Corporation in 1977 with Bob Miner and Ed Oates under the name '''Software Development Laboratories''' (SDL). In 1979 SDL changed its name to '''Relational Software, Inc.''' (RSI). In 1982, RSI renamed itself '''Oracle Systems'''
+
+Part of Oracle Corporation's early success came from using the C (programming language)|C programming language to install its products. This made changing the setup to different operating systems (most of which support C) easier.
+
+Category:Oracle Corporation| 

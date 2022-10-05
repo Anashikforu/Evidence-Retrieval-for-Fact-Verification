@@ -1,0 +1,57 @@
+
+
+
+The '''International Standard Book Number''', '''ISBN''', is a :wikt:unique|uniqueOccasionally publishers will use an ISBN for more than one title (e.g. the first edition of "The Ultimate Alphabet" and "The Ultimate Alphabet Workbook" have the same ISBN, 0-8050-0076-3). On the other hand, books can be published with more than one ISBN: A German-as-a-second-language edition of ''Emil und die Detektive'' has the ISBNs 87-23-90157-8 (Denmark), 0-8219-1069-8 (United States), 91-21-15628-X (Sweden), 0-85048-548-7 (England) and 3-12-675495-3 (Germany). commerce|commercial book identifier barcode. The ISBN system was created in the United Kingdom, in 1966, by the booksellers and stationers W.H. Smith.
+
+Originally, it was the 9-digit Standard Book Numbering (SBN) code and still was used in 1974; it was adopted as the international standard International Organization for Standardization|ISO 2108 in 1970. A similar, numeric wikt:identification|identification, the International Standard Serial Number (ISSN), identifies periodical publications such as magazines. Since January 1, 2007, ISBNs are of 13 digits, like in Bookland European Article Number|EAN-13.See 
+ Overview 
+An ISBN is given to each edition and variation (except reprintings) of a book. The ISBN is 13 digits long if assigned after January 1, 2007, and 10 digits long if assigned before 2007. An International Standard Book Number consists of 4 or 5 parts:
+
+# for a 13 digit ISBN, a ''GS1 prefix'': 978 or 979
+# the ''group identifier code'', (group of countries sharing a language) Some books have several codes in the first block, e.g. A.M. Yaglom's ''Correlation Theory...'', published by Springer Verlag, has the ISBNs 0-387-96331-6 and 3-540-96331-6. Though Springer's 387 and 540 codes are different for English (0) and German (3); the same item number 96331 produces the same check digit: 6. Springer uses 431 as their publisher code for Japanese (4) and 4-431-96331-? would also have check digit ? = 6. Other Springer books in English have publisher code 817, and 0-817-96331-? would also get check digit ? = 6. This suggests special considerations were made for assigning Springer's publisher codes, as random assignments of different publisher codes would ''not'' lead the same item number to get the same check digit every time. Finding publisher codes for English and German, say, with this effect amounts to solving a linear equation in modular arithmetic. 
+
+# the ''publisher code'',
+# the ''item number'', and
+# a ''checksum'' character or check digit.
+
+The ISBN parts may be of different lengths, and usually are separated with hyphens or spaces.the international ISBN agency's "ISBN User's Manual" says: "The ten-digit number is divided into four parts of variable length, which must be separated clearly, by hyphens or spaces" although permitting their omission for internal data processing, as the prefix code ensures that no two codes begin the same way. If present, hyphens must be correctly placed; See 
+The group identifier code (GIC) number is 0 or 1 for English language|English-speaking countries; 2 for French language|French-speaking countries; 3 for German language|German-speaking countries; 4 for Japanese language|Japanese; 5 for Russian language|Russian, et cetera. The original standard book number (SBN) had no group identifier, but affixing a zero (0) as prefix to a 9-digit SBN creates a valid 10-digit ISBN. The group identifier may be up to 5 digits long; e.g. 99936 is a group identifier for the country Bhutan.See 
+The national ISBN agency assigns the publisher number (cf. the category: ISBN agencies); the publisher selects the item number. Generally, a book publisher is not required to assign an ISBN, nor for a book to display its number (except in China; see below), however, most book stores only handle ISBN bearing merchandise.
+
+A listing of all the 628,000 assigned publisher codes is published, and can be ordered in book form,See 
+Related pages
+
+ Amazon Standard Identification Number (ASIN)
+ CODEN (serial publication identifier currently used by libraries; replaced by the ISSN for new works)
+ Digital Object Identifier (DOI)
+ European Article Number (EAN)
+ International Standard Audiovisual Number (ISAN)
+ International Standard Music Number (ISMN)
+ International Standard Recording Code (ISRC)
+ International Standard Serial Number (ISSN)
+ International Standard Musical Work Code (ISWC)
+ Library of Congress Control Number
+ PMID (PubMed ID)
+ Serial Item and Contribution Identifier (SICI)
+
+ Footnotes 
+
+
+ Other websites 
+
+
+
+
+
+
+     
+;National and international agencies
+    
+;Online tools
+ Special:Booksources, Wikipedia's ISBN search page.
+ :Can also use it to verify ISBNs to see if they are valid. Assures compliance with the full ISBN spec, not just the check digit.
+     RFC 3187  Using International Standard Book Numbers as Uniform resource names (URN)
+  
+Category:Publishing
+Category:Book terminology
+Category:ISO standards

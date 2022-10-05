@@ -1,0 +1,25 @@
+{{Infobox Language
+|name=Avar
+|nativename=''
+|familycolor=Caucasian
+|states=Russia, Azerbaijan, Kazakhstan and Turkey
+|region=Republic of Dagestan 
+|speakers=~600,000
+|fam1=North Caucasian languages|North Caucasian ''(disputed)''
+|fam2=Northeast Caucasian languages|Northeast Caucasian
+|fam3=Avar-Andic languages|Avar-Andic
+|iso1=av|iso2=ava|iso3=ava}}
+
+The '''Avar language''' (self-designation ''' "Avar language") belongs to the Avar-Andi-Tsez subgroup of the Alarodian Northeast-Caucasian (or Nakh-Dagestani) language family. It is spoken most in the eastern and southern parts of the Russian Caucasus republic of Dagestan, and the Balaken, Zakatala north-west area of Azerbaijan.
+
+
+
+
+
+
+
+Category:Caucasian languages
+Category:Languages of Russia
+Category:Languages of Azerbaijan
+Category:Languages of Asia
+Category:Languages of Europe

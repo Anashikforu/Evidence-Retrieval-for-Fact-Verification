@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Barbary falcon
+| status = LC
+| status_system = IUCN3.1
+| image = Wüstenfalke.jpg
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Falconiformes
+| familia = Falconidae
+| genus = ''Falcon|Falco''
+| binomial = ''Falco pelegrinoides''}}
+
+The '''Barbary falcon''' (''Falco pelegrinoides'') is a species of bird. It is a medium-sized falcon about the size of a crow. This bird of prey breeds in the Canary Islands and on the coasts of North Africa. It is mainly resident. It is thought to be related to the peregrine falcon.
+
+
+Category:Birds of Pakistan
+Category:Birds of Turkey
+Category:Falconiformes
+
+

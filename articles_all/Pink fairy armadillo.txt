@@ -1,0 +1,23 @@
+{{Taxobox
+| name = Pink fairy armadillo
+| status = DD
+| status_system = iucn3.1
+| status_ref = 
+| image = File:Pink Fairy Armadillo (Chlamyphorus truncatus) (cropped).jpg
+| image_width = 250px
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| superordo = Xenarthra
+| ordo = Cingulata
+| familia = Dasypodidae
+| subfamilia = Euphractinae
+| genus = '''''Chlamyphorus'''''
+| binomial = ''Chlamyphorus truncatus''
+| range_map = Lesser Fairy Armadillo area.png
+| range_map_caption = Pink fairy armadillo range}}
+
+The '''pink fairy armadillo''' (''Chlamyphorus truncatus'') or '''pichiciego''' is the smallest species of armadillo. It is found in central Argentina where it lives in dry grasslands and sandy plains. 
+
+The armadillo's body is 84–117 mm long and its tail is 27-35 mm long. They usually weigh 85 grams. Their armor is a pale pink, and their legs are covered with little white hairs. There is not enough information to say whether it is an endangered species.
+

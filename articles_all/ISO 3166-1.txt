@@ -1,0 +1,41 @@
+ 
+'''ISO 3166-1''', is part of the ISO 3166 standardization|standard. It gives a code for the names of country|countries and dependent territory|dependent territories, and is published by the International Organization for Standardization (ISO). The official name of the standard is ''Codes for the representation of names of countries and their subdivisions – Part 1: Country codes''. There are three sets of country codes: ISO 3166-1 alpha-2, a two-letter system, used in many applications, for example internet country code top-level domains (ccTLDs).
+ ISO 3166-1 alpha-3, uses three letters, and makes it easier to work out the country name and code.
+ ISO 3166-1 numeric, uses three digits. Using numbers is useful in countries that do not use the Latin alphabet. This is identical to codes defined by the United Nations Statistics Division.
+
+ISO 3166-1 is not the only standard for country codes. Many international organizations use their own country codes, where some of them closely correspond to the ISO 3166-1 codes. For examples, see ''Country code#Other country codes|country codes''.
+
+ Rules for inclusion 
+Currently, 244 countries and territories have official ISO 3166-1 codes. The only way to enter a new country name into ISO 3166-1 is to have it registered in one of the following two sources: United Nations Terminology Bulletin Country Names, or
+ 
+To be listed in the bulletin ''Country Names'', a country or territory must be any of the following:
+ a Members of the United Nations|member country of the United Nations,
+ a member of one of its United Nations#Special agencies|specialized agencies, or
+ a party to the ''Statute of the International Court of Justice''.
+
+Once a country name or territory name appears in either of these two sources, it will be added to ISO 3166-1 by default.
+
+ Officially assigned code elements 
+The following is a complete ISO 3166-1 encoding code list in alphabetical order by the English short country names officially used by the ISO 3166 Maintenance Agency (ISO 3166/MA), which uses country names from United Nations sources.
+The table includes officially assigned codes only.
+
+
+
+ Reserved and user-assigned code elements 
+Besides the officially assigned codes, code elements may be expanded by using either reserved codes or user-assigned codes.
+
+Reserved code elements are codes which, while not ISO 3166-1 codes, are in use for some applications in conjunction with the ISO 3166 codes. They are reserved to add flexibility to the coding system. Usually, obsolete codes may be kept as reserved, while some overseas territories, international organizations, and special nationality status have reserved codes of their own. See the corresponding sections in ''ISO 3166-1 alpha-2#Reserved code elements|ISO 3166-1 alpha-2'' and ''ISO 3166-1 alpha-3#Reserved code elements|ISO 3166-1 alpha-3'' for their respective reserved codes (ISO 3166-1 numeric does not have reserved codes).
+
+User-assigned code elements are codes at the disposal of users who need to add further names of countries, territories or other geographical entities to their in-house application of ISO 3166-1, and the ISO 3166/MA will never use them in the updating process of the standard. See the corresponding sections in ''ISO 3166-1 alpha-2#User-assigned code elements|ISO 3166-1 alpha-2'', ''ISO 3166-1 alpha-3#User-assigned code elements|ISO 3166-1 alpha-3'' and ''ISO 3166-1 numeric#User-assigned code elements|ISO 3166-1 numeric'' for their respective user-assigned codes.
+
+ Changes 
+A country or territory may get new codes if it changes its name or its territorial boundaries. A country generally gets new alphabetical codes if its name changes, whereas a new numeric code is associated with a change of boundaries. Changes to ISO 3166-1 are announced in periodic newsletters, of which 12 have been released since the first edition of ISO 3166-1 was published in 1997:
+# # # # # # # # # # # # The second edition of ISO 3166-1 was published in 2007, which comprises a consolidation of all changes to the lists as published in the newsletters above.
+Related pages
+ ISO 3166-2
+ List of IOC country codes, slightly different codes from ISO 3166-1 alpha-3 codes, used by the International Olympic Committee
+ List of FIFA country codes, slightly different codes from ISO 3166-1 alpha-3 codes, used by FIFA
+ Comparison of IOC, FIFA, and ISO 3166 country codes
+ Federal Information Processing Standard
+
+Category:Country codes

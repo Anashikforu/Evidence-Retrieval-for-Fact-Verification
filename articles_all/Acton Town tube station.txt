@@ -1,0 +1,30 @@
+{{Infobox London station
+| name = Acton Town 
+| image_name = ActonTown1.jpg
+| caption    = Acton Town underground station entrance
+| manager = London Underground 
+| fare_zone = 3 
+| locale = Acton, London|Acton 
+| borough = London Borough of Ealing 
+| years1           = 1 July 1879
+| years2           = 1 March 1910
+| years3           = 4 July 1932
+| events1          = Opened as ''Mill Hill Park'' on the line to Ealing Broadway
+| events2          = Renamed ''Acton Town''
+| events3          = Piccadilly line services commenced
+| platforms= 4 
+| tubeexits05=5.41 
+| tubeexits07=5.774 }}
+
+'''Acton Town''' is a London Underground station in Acton, London|Acton, west London, served by the Piccadilly line|Piccadilly and District line|District lines. The station is at the junction of Gunnersbury Lane (A4000 road|A4000) and Bollo Lane and is in Travelcard Zone 3.
+
+Gallery
+
+Image:ActonTown2.jpg|Acton Town station platforms, westbound Piccadilly line train arrives ''(September 2006)''
+Image:Acton Town stn roundel.JPG|London Underground#Image|Roundel on eastbound platforms
+
+
+Related pages
+List of London Underground stations
+
+Category:London Travelcard zone 3

@@ -1,0 +1,13 @@
+{{Taxobox
+| name = Esmeraldas woodstar
+| image = Esmeraldas woodstar.jpg
+| regnum = Animalia
+| classis = Aves
+| ordo = Trochiliformes
+| familia = Trochilidae
+| genus = ''Chaetocercus''
+| binomial = ''Chaetocercus berlepschi''}}
+
+The '''Esmeraldas woodstar''' (''Chaetocercus berlepschi'') is a species of hummingbird. It is found only in Ecuador. Its habitat is subtropical or tropical moist lowland forests. It is threatened by habitat loss.
+
+Category:Hummingbirds

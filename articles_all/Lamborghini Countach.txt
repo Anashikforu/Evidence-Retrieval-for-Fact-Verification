@@ -1,0 +1,84 @@
+
+The '''Lamborghini Countach''' is a sports car. Lamborghini built it from from 1974 to 1990. The Countach came after the Lamborghini Miura|Miura. Gruppo Bertone designed the Countach. The car used several different V12 engines by the time Lamborghini stopped making it in 1990.
+
+History
+Lamborghini first showed the Countach to the public at the 1971 Geneva Motor Show. The car was known as the Lamborghini LP500 back then. The Countach was put into wikt:production|production in 1974. The first Countach model was called the Countach LP400.
+
+=Production models=
+
+
+Lamborghini made several different Countach models between 1974 and 1990. 
+LP400
+The first Countach model was the LP400. Lamborghini started making the LP400 in 1974. The car used a . By the end of 1977, Lamborghini had made 158 Countach LP400s.
+LP400 S
+Lamborghini started making the Countach LP400 S in 1978. This model replaced the Countach LP400. The LP400 S’s engine was a little less powerful than the LP400’s. The LP400 S made . There were some changes made to the wikt:exterior|exterior. These included fender flares and a rear wing. These changes stayed until Lamborghini stopped making the Countach in 1990.
+
+LP500 S and LP5000 QV
+Lamborghini made the Countach LP500 S in 1982. The LP500 S had a larger () V12 engine than the Countach LP400 and LP400 S. Lamborghini built 321 Countach LP500 S cars.
+
+Lamborghini made the Countach LP5000 QV in 1985. The engine was bigger in the 5000 QV. It had a size of  of torque at 5,200 rpm. Lamborghini made 610 Countach LP5000 QVs. 66 of them had the fuel injection system.
+
+U.S. version
+
+Lamborghini made a version of the Countach for the United States.
+
+
+25th Anniversary model
+
+
+Lamborghini made the Countach 25th Anniversary in 1988. The car got its name from the fact that Lamborghini was wikt:founded|founded in 1963. Horacio Pagani (auto executive)|Horacio Pagani designed the Countach 25th Anniversary. The car had a different style from the other Countach models (see picture). The Countach 25th Anniversary was made until 1990.
+
+The Countach 25th Anniversary was the fastest version of the Countach. It was able to wikt:accelerate|accelerate from .
+
+Engine and transmission
+The table below shows what engines the different Countach models had. All Countach models had a five-speed manual transmission paired to the engine. The engine was mid-mounted in the Countach.
+
+
+=Performance=
+The table below shows the performance of the various Countach models.
+{| class="wikitable" style="text-align:center;"
+ |-
+ ! Model || Top speed|| Acceleration 0–100&nbsp;km/h (0-62&nbsp;mph)|| Dry weight
+ |-
+ | '''LP500''' prototype
+ | 
+ | 
+ | 
+ |-
+ | '''LP400'''
+ | Auto, Motor und Sport 9/1978 p.54
+ | 5.4 s
+  | 
+ |-
+ | '''LP400 S'''
+ | 
+ | 5.9 s
+ | 
+ |-
+ | '''LP500 S'''
+ | Auto, Motor und Sport 22/1984 p.108
+ | 5.2 s
+ | 
+ |-
+ | '''5000 QV'''
+ | Auto, Motor und Sport 12/1987 p.11
+ | 4.8 s
+ | 
+ |-
+ | '''25th Anniversary'''
+ | 
+ |  4.5 s
+ | 
+ |-
+ | '''Evoluzione''' prototype
+ | 
+ | 4.5 s
+ | 
+ |-
+ | '''LP500 Turbo S''' prototype
+ | 
+ | 
+ | 
+ |}
+
+Category:1990s automobiles

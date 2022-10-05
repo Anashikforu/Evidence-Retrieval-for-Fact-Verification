@@ -1,0 +1,24 @@
+/ Any JavaScript here will be loaded for users using the MonoBook skin /
+
+/
+  Topbar content fix with sitenotice and CentralNotice
+ 
+  Description: This fixes the location of topbar content (e.g., featured
+               content star) when the sitenotice or CentralNotice is active.
+  Maintainers: User:TheDJ, User:MZMcBride
+ /
+// Not in IE6, only when editing/previewing a page
+if ( ( navigator.userAgent.indexOf( 'MSIE 6' )  -1 ) && (mw.config.get( 'wgAction' )  'submit' || mw.config.get( 'wgAction' )  'view' ) ) {
+jQuery( function( $ ) {
+
+	var $cNote = $( '#centralNotice' );
+	// If there is no dismissible sitenotice and no expanded centralnotice:
+	if ( !$( '#mw-dismissible-notice' ).length && !( $cNote.length && $cNote.hasClass('expanded') ) ) {
+		return;
+	}
+	// Otherwise:
+	mw.util.addCSS( '#bodyContent { position: relative; } .topicon { position: absolute; top: -2em !important; } ' +
+		'#coordinates { position: absolute; top: 1px !important; }' );
+
+} );
+}

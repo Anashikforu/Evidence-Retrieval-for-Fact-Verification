@@ -1,0 +1,22 @@
+{{Infobox
+|name=Infobox/doc
+|title='''Shangri-La'''
+|image=Image:Titan globe.jpg|250px
+|caption=Shangri-La is the large, dark region at the center of this image of Titan
+|header1=Feature on Titan (moon)|Titan
+|label2=Type     ||data2=Dark albedo feature
+|label3=Latitude ||data3=10S
+|label4=Longitude||data4=165W
+|label5=Eponym   ||data5=Shangri-La
+|below= }}
+
+'''Shangri-La''' is a large, dark area on Saturn (planet)|Saturn's moon Titan (moon)|Titan. It is at . The place is named after Shangri-La, the imaginary valley in Tibet. Some people think it is a very wide plain of dark material. These broad, dark areas of Titan may have been seas, but now they are dry.
+
+Shangri-La has several areas of higher ground it. These are brighter and are called "islands". Regions of high ground surround Shangri-La:  Xanadu (Titan)|Xanadu is to the east, Adiri (Titan)|Adiri to the west, and Dilmun (Titan)|Dilmun to the north.
+
+The Huygens probe landed on a western part of Shangri-La, close to Adiri.
+
+Other websites
+ 
+
+Category:Saturn's moons

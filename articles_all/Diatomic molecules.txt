@@ -1,0 +1,5 @@
+'''Diatomic molecules''' are molecules made only of two atoms, of either the same or different chemical elements.
+Two atoms are Chemical bond|bonded together to form a unit known as a diatomic molecule.
+
+Examples are hydrogen (H2), nitrogen (N2) and oxygen (O2), and carbon monoxide (CO). 
+

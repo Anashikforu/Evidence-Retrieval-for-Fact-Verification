@@ -1,0 +1,38 @@
+:''This article is only about the chemistry of the alcohols''. 
+:''The alcohol used in drinks is ethanol; more information can be found at alcoholic drink'' and ''alcoholism''.
+
+In chemistry, '''alcohol''' is a general term which refers to many organic compounds used in industry and science as reagents, solvents, and fuels. Alcohols are carbohydrates which are  made of an alkyl function groups|group with one or more hydroxyl (-''Oxygen|OHydrogen|H'') groups bound to its carbon atoms. Alcohol is colorless, and also transparent.    
+
+ Names for alcohol 
+There are two ways of naming alcohols: Common names, and IUPAC names. 
+
+ Common names often are made by taking the name of the alkyl group, and adding the word "alcohol". For example, "methyl alcohol" or "ethyl alcohol".
+ IUPAC names are made by taking the name of the alkane chain, removing the last "e", and adding "ol". Examples of this are "methanol" and "ethanol".
+
+ Properties 
+The hydroxyl (OH) group makes alcohols polarity (chemistry)|polar. Alcohols are very weakly acidic. Most alcohols are highly flammable.
+
+ Common alcohols 
+The simplest two alcohols are methanol (or methyl alcohol) and ethanol (or ethyl alcohol), which have the following structures:
+
+
+File:Methanol Lewis.svg|Methanol
+File:Ethanol-2D-flat.png|Ethanol
+
+
+IUPAC nomenclature is used when describing more complex alcohols.
+
+In common usage, "alcohol" often means ethanol or "grain alcohol". (See also: alcoholic proof).
+
+Other commonly used alcohols include:
+ Isopropyl alcohol (''sec''-propyl alcohol, propan-2-ol, 2-propanol) H3C-CH(OH)-CH3, or "rubbing alcohol"
+ ethylene glycol (ethane-1,2-diol) HO-CH2-CH2-OH, which is the main substance in antifreeze (coolant)|antifreeze
+ glycerin (or glycerol, propane-1,2,3-triol) HO-CH2-CH(OH)-CH2-OH bound in natural fats and oils, which are triglycerides (triacylglycerols)
+ phenol, an alcohol where the hydroxyl group is bound to a benzene ring.
+
+
+
+
+Category:Alcohols| 
+Category:Carbohydrates
+Category:Functional groups

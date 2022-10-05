@@ -1,0 +1,26 @@
+
+{{Taxobox
+| name = Roach's mouse-tailed dormouse
+| image = 
+| status = VU
+| status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| genus = ''Myomimus''
+| binomial = ''Myomimus roachi''
+| binomial_authority = (Charles Spence Bate|Bate, 1937)
+| synonyms = }}
+
+'''Roach's mouse-tailed dormouse''' (''Myomimus roachi''), also known as the '''ground dormouse''' or '''mouse-tailed dormouse''', is a species of dormouse in the Gliridae family. It is found in Bulgaria, Greece, and Turkey. 
+
+ Source 
+ Amori G. 1996.  
+
+
+
+
+
+Category:Myomimus

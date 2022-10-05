@@ -1,0 +1,25 @@
+
+'''Doctorate|Dr. Maleeha Lodhi''', HI, is a journalist, academic, and diplomat from Pakistan. Till recently, she was the high commissioner of Pakistan to the United Kingdom.  She was ambassador from Pakistan to the United States from 1994-1997 and 1999-2002.
+
+At present she is a Fellow at the Institute of Politics, Kennedy School, Harvard University. She has also been a member of the United Nations Secretary-General’s Advisory Board on Disarmament.
+
+
+
+{{succession box |title=Pakistan Ambassador to the United States|
+years=January 1994 - January 1997|
+before=Abida Hussain|Syeda Abida Hussain| 
+after=Riaz Khokhar}}
+
+{{succession box |title=2nd term|
+years=December 1999 - August 2002|
+before=Tariq Fatemi|
+after=Ashraf Qazi}}
+
+{{succession box |title=Pakistan High Commissioner to the United Kingdom|
+years=April 2003 - June 2008|
+before=Abdul Kader Jaffer|
+after=Wajid Shamsul Hasan}}
+
+
+
+Category:Pakistani people

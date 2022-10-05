@@ -1,0 +1,9 @@
+'''Ballistics''' is a science about the motion of projectiles (flying objects), mainly about bullets which are fired from guns.  This science shows us the wikt:path|path and behavior of projectiles.  Gun ballistics may be divided into the following  four categories.
+ 
+
+ ''Internal ballistics'' is about the motion of projectile inside Barrel (weapons)|barrel ( tube part of gun).  This motion depends on the pressure of gas, which come into being by burning gunpowder.  Pressure depends on (is connected) amount of gunpowder in bullet, type of gunpowder, size of pieces of gunpowder, free space behind a bullet and outside temperature.  This motion also depends on size and weight of bullet.  The most important number from internal ballistics for performance is a muzzle velocity (Projectile speed from the front edge of barrel).
+ ''Transition ballistics'' is a science about behavior and changes in the nearest distance from the barrel. It study effect of gases going from a barrel behind a bullet, which are faster than bullet. These gases can negatively (badly) effect ballistic path.
+ ''External ballistics'' studies the trajectory (path) of a bullet outside the barrel. This trajectory depends on three ballistic conditions. It is a beginning speed, angle of fire and ballistic Physical coefficient|coefficient ( number, which characterize influence of air). Trajectory of a projectile is also influenced by (depends on) resistance of air, rotation of bullet, density and pressure of air and size and orientation of wind. For long-distanced missiles are also important changes in magnetic field of the Earth.
+ ''Terminal ballistics'' is about what happens when the bullet hits something.
+
+Category:Ballistics| 

@@ -1,0 +1,19 @@
+
+'''Sophoreae''' (from ''Sophora'') is a tribe of Fabaceae.Antonio Salatino and Otto R. Gottlieb 2002. Quinolizidine alkaloids as systematic markers of the papilionoideae Biochemical Systematics and Ecology, 8,133-147  This tribe, that have relatively simple flowers and unspecialized pinnate leaves and quinolizilidine alkaloids, appears as polyphyletic Käss E. and M. Wink 1995. Molecular phylogeny of Papilionoideae (Family Leguminosae): RbcL gene sequences versus chemical taxonomy. Bot. Acta 108: 149-162
+{{Clade | style=font-size:100%;line-height:100%
+
+ 
+     | 1=Cladrastis,
+     | 2={{Clade
+        | 1=Sophoreae I  Styphnolobium
+        | 2={{Clade
+           | 1= Sophoreae II Sophora davidii 
+           | 2= Genisteae}} }} }}
+Genera
+
+ ''Acosmium''&nbsp;- ''Airyantha''&nbsp;- ''Alexa (genus)|Alexa''&nbsp;- ''Ammodendron''&nbsp;- ''Amphimas''&nbsp;- ''Angylocalyx''&nbsp;- ''Baphia''&nbsp;- ''Bolusanthus''&nbsp;- ''Bowdichia''&nbsp;- ''Cadia''&nbsp;- ''Calia''&nbsp;- ''Camoensia''&nbsp;- ''Castanospermum''&nbsp;- ''Cladrastis''&nbsp;- ''Clathrotropis''&nbsp;- ''Dalhousiea''&nbsp;- ''Dicraeopetalum''&nbsp;- ''Diplotropis''&nbsp;-  ''Dussia''&nbsp;- ''Etaballia''&nbsp;- ''Haplormosia''&nbsp;- ''Inocarpus''&nbsp;- ''Leucomphalos''&nbsp;- ''Luetzelburgia''&nbsp;- ''Maackia''&nbsp;- ''Monopteryx''&nbsp;- ''Myrocarpus''&nbsp;- ''Myrospermum''&nbsp;- ''Myroxylon''&nbsp;- ''Neoharmsia''&nbsp;- ''Ormosia''&nbsp;- ''Panurea''&nbsp;- ''Pericopsis''&nbsp;- ''Petaladenium''&nbsp;- ''Platycelyphium''&nbsp;- ''Riedeliella''&nbsp;- ''Sakoanala''&nbsp;- ''Salweenia''&nbsp;- ''Sophora''&nbsp;- ''Spirotropis''&nbsp;- ''Styphnolobium''&nbsp;- ''Sweetia''&nbsp;- ''Uleanthus''&nbsp;- ''Uribea''&nbsp;- ''Xanthocercis''
+
+
+Other websites
+ Martin F. Wojciechowski, Matt Lavin and Michael J. Sanderson A phylogeny of legumes (Leguminosae) based on analysis of the plastid matK gene resolves many well-supported subclades within the family 
+Category:Faboideae

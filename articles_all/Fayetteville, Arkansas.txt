@@ -1,0 +1,47 @@
+
+|established_title        = Founded
+|established_date         = 1828
+|established_title2       = Municipal corporation|Incorporated
+|established_date2        = November 3, 1836
+|established_title3       = Rechartered
+|established_date3        = 1867
+|named_for                = originally George Washington, renamed after Fayetteville, Tennessee
+|area_total_sq_mi         = 55.2
+|area_total_km2           = 
+|area_land_sq_mi          = 53.8
+|area_land_km2            = 
+|area_water_sq_mi         = 1.4
+|area_water_km2           = 
+|population_as_of         = 2010 United States Census|2010
+|population_est           = 80621
+|pop_est_as_of            = 2014
+|pop_est_footnotes        = 
+|population_footnotes     = 
+|population_total         = 73580
+|population_urban         = 295083 (US: List of United States urban areas|129th)
+|population_metro         = 491966 (US: List of Metropolitan Statistical Areas|106th)
+|population_density_km2   = 
+|population_density_sq_mi = 1366.3
+|timezone                 = North American Central Time Zone|Central
+|utc_offset               = -6
+|timezone_DST             = Central
+|utc_offset_DST           = -5
+|coordinates_display      = inline,title
+|coordinates_type         = region:US_type:city
+|latd= 36 |latm= 4 |lats= 35 |latNS=N
+|longd= 94 |longm= 9 |longs= 39 |longEW=W
+|elevation_m              = 427
+|elevation_ft             = 1400
+|postal_code_type         = ZIP codes
+|postal_code              = 72701–72704
+|area_code                = Area code 479|479
+|blank_name               = Federal Information Processing Standard|FIPS code
+|blank_info               = 05-23290
+|blank1_name              = Geographic Names Information System|GNIS feature ID
+|blank1_info              = 0076914
+|website                  = |footnotes                = 
+}}
+'''Fayetteville''' is a city and county seat of Washington County, Arkansas|Washington County in the state of Arkansas in the United States|United States of America.
+
+It is also home to the University of Arkansas, which is the state's largest university.
+Category:County seats in Arkansas

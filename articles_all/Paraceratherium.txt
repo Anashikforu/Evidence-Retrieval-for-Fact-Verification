@@ -1,0 +1,31 @@
+
+{{Taxobox
+| name = ''Paraceratherium''
+| image =Indricotherium_skelton.jpg
+| image_width = 250px
+| image_caption= Skeleton cast of ''P. transouralicum'', National Museum of Nature and Science, Tokyo
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Perissodactyla
+| familia = †Hyracodontidae
+| subfamilia = †Indricotheriinae
+| subfamilia_authority = Borissiak, 1923
+| genus = '''''Paraceratherium'''''
+| genus_authority = Borissiak, 1915}}
+
+
+
+'''''Paraceratherium''''' previously called '''''Indricotherium''''' or '''''Baluchitherium''''' or just '''''Indricothere''''' is an extinct genus of mammal, a large hornless rhinoceros. It lived in Eurasia during the late Oligocene Epoch (geology)|epoch of the Tertiary Period (geology)|period, (34&ndash;23 million years ago).
+
+''Paraceratherium'' was one of the largest land mammals. Palmer D. ed 1999. ''The Marshall Illustrated Encyclopedia of Dinosaurs and Prehistoric Animals''. London: Marshall Editions, p262–263. ISBN 1-84028-152-9 Its exact size  is unclear because of the incompleteness of the fossils. The size of adults was about  in length. Estimates of its weight have varied greatly.
+
+ Lifestyle 
+It was a herbivore that stripped leaves from trees. It had a long, low, hornless skull and long frontal and nasal bones. Its front teeth had a single pair of incisors in either jaw. They were round, pointed, and so large that they looked like small tusks. The upper incisors pointed straight downwards, while the lower ones jutted outwards. The upper lip was evidently extremely mobile. The neck was very long, the body big and strong, and the limbs long and thick, column-like.Prothero D. 2013. ''Rhinoceros giants: the palaeobiology of Indricotheres''. Indiana: Indiana University Press. 
+
+ Size 
+Its exact size  is unclear because of the incompleteness of the fossils. Estimates have been based on skull, teeth, and limb bone measurements. However, the known bone elements are from individuals of different sizes. All skeletal reconstructions are composite extrapolations. This resulted in weight estimates from 11 to 20 tonnes. from front to back. As explained, such figure are only approximations. These figures are for the largest of the three species in the genus.
+
+ Ecology 
+They lived in a huge rainforest floodplain in the area which is now Kazakhstan, India, and southwest China. They lived further inland throughout northern and central Asia as well. This area was a rainforest floodplain before the Himalayan uplift changed the climate.
+
+Category:Fossils

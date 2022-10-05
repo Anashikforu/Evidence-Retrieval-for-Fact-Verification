@@ -1,0 +1,12 @@
+
+
+The '''lancelets''', or '''Cephalochordata''', are a group of primitive chordates which were formerly called ''Amphioxus''. It includes ''Pikaia''.
+
+Lancelets are the modern survivors of an ancient chordate lineage, with a fossil record dating back to the Cambrian period. The lancelets are usually said to be the sister group of the craniata|craniates. They are a small group of about 30 species in two genera.
+
+Lancelets are usually found buried in sand in shallow parts of temperate or tropics|tropical seas. In Asia, they are harvested commercially as food for humans and Domestication|domesticated animals. They are an important object of study in zoology as they give indications about the origin of vertebrates.Gee, Henry 2008. Evolutionary biology: The amphioxus unleashed. ''Nature'' '''453''': 999-1000.
+
+ Relationships 
+Lancelets serve as an intriguing comparison point for tracing how vertebrates have evolved and adapted. Although lancelets split from vertebrates more than 520 million years ago, their genomes hold clues about evolution, particularly how vertebrates have employed old genes for new functions.
+The genome of the Florida lancelet (''Branchiostoma floridae'') has been sequenced.Putnam N.H. ''et al'' 2008. The amphioxus genome and the evolution of the chordate karyotype. ''Nature'' '''453''': 1064–1071. 
+Category:Chordates

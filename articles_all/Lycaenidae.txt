@@ -1,0 +1,18 @@
+{{Taxobox
+| name = Lycaenidae
+| image = Peablue October 2007 Osaka Japan.jpg
+| image_width = 220px
+| image_caption = Peablue''Lampides boeticus''
+| regnum = Animalia
+| phylum = Arthropoda
+| subphylum = Hexapoda
+| classis = Insecta
+| ordo = Lepidoptera
+| unranked_familia = Rhopalocera
+| superfamilia = Papilionoidea
+| familia = '''Lycaenidae'''}}
+
+The '''Lycaenidae'''  are the second-largest family (biology)|family of butterfly|butterflies, with about 6000 species worldwide.Fiedler, K. 1996. Host-plant relationships of lycaenid butterflies: large-scale patterns, interactions with plant chemistry, and mutualism with ants. Entomologia Experimentalis et Applicata 80(1):259-267 doi:10.1007/BF00194770 
+The family includes many beautiful species. Some, like the Palos Verdes blue, are critically endangered. The Lycaenids were favourites of the Russians|Russian novelist and lepidopterist Vladimir Nabokov.
+
+Category:Lycaenidae|

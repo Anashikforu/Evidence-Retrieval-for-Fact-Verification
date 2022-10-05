@@ -1,0 +1,16 @@
+
+
+'''Fluid mechanics''' is the study of how fluids move and the Force (physics)|forces on them.Munson, B. R., Okiishi, T. H., Huebsch, W. W., & Rothmayer, A. P. (2013). Fluid mechanics (p. 147). Singapore: Wiley.Fay, J. A. (1994). Introduction to fluid mechanics. MIT press.Elger, D. F., Roberson, J. A., Williams, B. C., & Crowe, C. T. (2016). Engineering fluid mechanics (Vol. 7). Hoboken (NJ): Wiley.Vennard, J. K. (2011). Elementary fluid mechanics. Read Books Ltd. (Fluids include liquids and gases.)
+
+Fluid mechanics can be divided into fluid statics, the study of fluids at rest, and fluid dynamics,Batchelor, C. K., & Batchelor, G. K. (2000). An introduction to fluid dynamics. Cambridge University Press. the study of fluids in motion. It is a branch of continuum mechanics, a subject which models matter without using the information that it is made out of atoms.Spencer, A. J. M. (2004). Continuum mechanics. Courier Corporation.Lai, W. M., Rubin, D. H., Krempl, E., & Rubin, D. (2009). Introduction to continuum mechanics. Butterworth-Heinemann.Gurtin, M. E. (1982). An introduction to continuum mechanics. Academic Press.Mase, G. T., Smelser, R. E., & Rossmann, J. S. (2020). Continuum mechanics for engineers. CRC Press.Liu, I. S. (2013). Continuum mechanics. Springer Science & Business Media.
+
+The study of fluid mechanics goes back at least to the days of ancient Greece, when Archimedes made a beginning on fluid statics. However, fluid mechanics, especially fluid dynamics, is an active field of research with many unsolved or partly solved problems. Fluid mechanics can be mathematically complex. Sometimes it can best be solved by numerical analysis, typically using computers. A modern discipline, called ''Computational Fluid Dynamics'' (CFD), is devoted to this approach to solving fluid mechanics problems.Anderson, J. D., & Wendt, J. (1995). Computational fluid dynamics (Vol. 206). New York: McGraw-Hill.Chung, T. J. (2010). Computational fluid dynamics. Cambridge University Press.Blazek, J. (2015). Computational fluid dynamics: principles and applications. Butterworth-Heinemann.Wesseling, P. (2009). Principles of computational fluid dynamics (Vol. 29). Springer Science & Business Media.Anderson, D., Tannehill, J. C., & Pletcher, R. H. (2016). Computational fluid mechanics and heat transfer. Taylor & Francis.
+
+ Relationship to continuum mechanics 
+Fluid mechanics is a subdiscipline of continuum mechanics, as illustrated in the following table.
+
+
+Related pages
+ Applied mechanics
+Hydraulics
+Category:Fluid mechanics| 

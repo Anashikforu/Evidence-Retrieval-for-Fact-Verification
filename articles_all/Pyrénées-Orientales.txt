@@ -1,0 +1,144 @@
+
+'''Pyrénées-Orientales''' (English: ''Eastern Pyrenees''; ) is a departments of France|department in the Regions of France|region of Occitanie in southern France; it is next to the northern Spain|Spanish border and the Mediterranean Sea.
+
+The department is formed by the History|historically Catalan language|Catalan-speaking area of '''Rosillon''' (with its different parts: Roussillon (modern), Haute Cerdagne (or simply Cerdagne), Conflent, Vallespir and Capcir) and Fenouillèdes, an History|historically Occitan language|Occitan-speaking area.
+
+History
+Before 1659, most of the present department was part of the former Principality of Catalonia, within the Kingdom of Spain, so historically most of it has been Catalan language|Catalan-speaking, and it is still sometimes referred to as Northern Catalonia.
+
+Pyrénées-Orientales was created in 1790 during the French Revolution, when the whole of France was divided into departments, replacing the old provinces. Pyrénées-Orientales was formed by the province of Roussillon and Fenouillèdes (), a small piece of territory which had formerly been on the southern edge of Languedoc.
+
+Geography
+Pyrénées-Orientales has an area of . It has the department of Aude to the north, the Mediterranean Sea to the east, Spain to the south, and Andorra and the department of Ariège (department)|Ariège to the west.
+
+
+
+Administration
+The département is managed by the ''Departamental Council of the Pyrénées-Orientales'' in Perpignan. The Pyrénées-Orientales is part of the region of Occitanie.
+
+=Administrative divisions=
+The area is traditionally divided into comarca|comarques, of which five (French Cerdagne, Capcir, Conflent, Roussillon and Vallespir) are historically Catalan-speaking and one (Fenouillèdes) is historically Occitan-speaking.
+
+There are 3 Arrondissements of France|''arrondissements'' (districts), 17 Cantons in France|''cantons'' and 226 Communes in France|''communes'' (Municipality|municipalities) in the Pyrénées-Orientales.
+
+
+
+
+
+The following is a list of the 17 Cantons of France|cantons of the '''Pyrénées-Orientales''' Departments of France|department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+# Canton of Les Aspres|Les Aspres (6601)
+# Canton of Le Canigou|Le Canigou (6602)
+# Canton of La Côte Sableuse|La Côte Sableuse (6603)
+# Canton of La Côte Salanquaise|La Côte Salanquaise (6604)
+# Canton of La Côte Vermeille|La Côte Vermeille (6605)
+# Canton of Perpignan-1|Perpignan-1 (6606)
+# Canton of Perpignan-2|Perpignan-2 (6607)
+# Canton of Perpignan-3|Perpignan-3 (6608)
+# Canton of Perpignan-4|Perpignan-4 (6609)
+# Canton of Perpignan-5|Perpignan-5 (6610)
+# Canton of Perpignan-6|Perpignan-6 (6611)
+# Canton of La Plaine d'Illibéris|La Plaine d'Illibéris (6612)
+# Canton of Les Pyrénées catalanes|Les Pyrénées catalanes (6613)
+# Canton of Le Ribéral|Le Ribéral (6614)
+# Canton of La Vallée de la Têt|La Vallée de la Têt (6615)
+# Canton of La Vallée de l'Agly|La Vallée de l'Agly (6616)
+# Canton of Vallespir-Albères|Vallespir-Albères (6617)
+
+
+Image:Carte cantons 2015 Pyrénées-Orientales.svg|thumb|750px|center|''Cantons'' of the Pyrénées-Orientales
+'''1'''- Les Aspres, '''2'''- Le Canigou, '''3'''- La Côte sableuse, '''4'''- La Côte salanquaise, '''5'''- La Côte Vermeille, '''6'''- Perpignan-1, '''7'''- Perpignan-2, '''8'''- Perpignan-3, '''9'''- Perpignan-4, '''10'''- Perpignan-5, '''11'''- Perpignan-6, '''12'''- La Plaine d'Illibéris, '''13'''- Les Pyrénées catalanes, '''14'''- Le Ribéral, '''15'''- La Vallée de l'Agly, '''16'''- La Vallée de la Têt, '''17'''- Vallespir-Albères
+
+ Demographics 
+Pyrénées-Orientales has a population, in 2014, of 466,327, for a population density of  inhabitants/km2. The ''arrondissement'' of Perpignan, with 349,959 inhabitants, is by far the largest. The other two, Ceret and Prades, have respectively 73,192 and 43,176 inhabitants.
+
+The only important city is Perpignan with 120,605 people living there in 2012. The subprefectures Céret and Prades have 7,663 and 5,927, respectively.
+
+
+'''Evolution of the population in Pyrénées-Orientales'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:500000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2008 text:2008
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 281976
+ bar:1975 from:0 till: 299506
+ bar:1982 from:0 till: 334557
+ bar:1990 from:0 till: 363796
+ bar:1999 from:0 till: 392803
+ bar:2008 from:0 till: 441387
+ bar:2014 from:0 till: 466327
+
+PlotData=
+ bar:1968 at: 281976 fontsize:S text: 281,976 shift:(-12,5)
+ bar:1975 at: 299506 fontsize:S text: 299,506 shift:(-18,5)
+ bar:1982 at: 334557 fontsize:S text: 334,557 shift:(-18,5)
+ bar:1990 at: 363796 fontsize:S text: 363,796 shift:(-18,5)
+ bar:1999 at: 392803 fontsize:S text: 392,803 shift:(-18,5)
+ bar:2008 at: 441387 fontsize:S text: 441,387 shift:(-18,5)
+ bar:2014 at: 466327 fontsize:S text: 466,327 shift:(-18,5)
+
+
+
+The cities with more than 6,000 inhabitants in the department are:
+
+
+
+The inhabitants of Pyrénées-Orientales are known, in French language|French, as ''Pyrénaliens'' (women: ''Pyrénaliennes'') or ''Catalans'' (women: ''Catalanes'').
+
+French is spoken by almost all the population. Minority languages in the region are Catalan language|Catalan and Occitan language|Occitan, which between them are estimated to be spoken by rather more than a quarter of the population and understood by more than 40%.
+
+On 10 December 2007, the ''Departamental Council of the Pyrénées-Orientales'' recognized Catalan as a regional language of the department, though French is still the only official language in France, according to the Constitution.See Article 1 of the 
+Economy
+Pyrénées-Orientales is a wine-growing area and a tourist destination.
+
+The area is famous for its wine with the predominately red grape varieties grown all over the department.
+
+Places of interest
+Some places of interest are:
+Prades (Pyrénées-Orientales)|Prades () - site of the Catalan Summer University (''Universitat Catalana d'Estiu'').
+Banyuls-sur-Mer (Catalan ''Banyuls de la Marenda'') famous for its wines.
+Prats de Mollo|Prats de Molló - important defensive castle of the 17th century facing south to the Pyrenees.
+Salses - important defensive castle of the 16th century, on the ancient frontier with Spain.
+
+Gallery
+
+File:090 Perpignan Le Castillet -La Porte Notre-Dame-.JPG|Perpignan
+File:Château royal de Collioure 09.jpg|Château Royal de Collioure
+File:Salses.JPG|Fort de Salses
+File:Saint-Michel de Cuxa.JPG|Saint-Michel-de-Cuxa abbey
+File:Thémis.jpg|The THEMIS Solar Power tower
+File:Canet 1.jpg|Beach in Canet-en-Roussillon
+File:Saint Martin du Canigou.jpg|Martin-du-Canigou abbey
+
+
+Related pages
+ Northern Catalonia
+ Arrondissements of the Pyrénées-Orientales department
+ Communes of the Pyrénées-Orientales department
+
+Category:Pyrénées-Orientales| 

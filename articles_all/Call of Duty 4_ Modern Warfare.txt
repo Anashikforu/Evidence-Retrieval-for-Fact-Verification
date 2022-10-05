@@ -1,0 +1,119 @@
+
+'''Call of Duty 4: Modern Warfare''' is a first person shooter videogame released in 2007. It is part of the Call of Duty series. It is available on Xbox 360, PC and Playstation 3. There is also a version on the Nintendo DS called ''Call of Duty: DS'' and another one for the Wii that was released on November 2009 called "Reflex Edition".
+The sequel, ''Call of Duty: Modern Warfare 2'', was released in 2009.
+
+It has been awarded with the "Best game of the year", "Best action game" and "Best online game" prices on 2007. It was the most sold game around the world on 2007, with more than 7.000.000 sold games on 2008 and 13.000.000 on 2009.
+
+ Single player mode 
+=Playable characters=
+
+During the single player's campaign, the player controls the following characters.
+
+  '''Sargent ''Soap'' MacTavish'''. Member of the 22nd Regiment Special Air Service (SAS)|SAS. Is the most playable character.
+
+  '''Sargent Paul Jackson'''. Belongs to the 1st Division Recon Force of USMC|Marines of the United States moved to Middle East. Is the second more playable character, whose role is controlled in five missions in the Act I. He dies in a nuclear explosion.
+
+  '''Captain John Price'''. Player takes the control of Price when he was Lieutenant of the 22th Regiment  Special Air Service (SAS)|SAS, in a retrospective mission 15 years ago on Chernobyl, under orders of Captain McMillan.
+
+= Story =
+
+Sargent John "Soap" MacTavish is a new soldier of the British army sent to the SAS, on the 22th regiment, who needs training. When he passes weapons training and the obstacle course, he must choose the difficulty level. When it is finished, the Prologue mission will start.
+
+= Weapons =
+
+'''Pistols''':
+
+ Heckler & Koch USP|HK USP .45
+ Beretta 92|M9
+ M1911|M1911 .45
+ Desert Eagle
+
+'''Short machineguns''':
+
+ Heckler & Koch MP5|MP5
+ Heckler & Koch MP5
+ FN P90|P90
+ P90SD
+ Uzi|Mini-Uzi
+ Skorpion vz. 61|Skorpion
+
+'''Assault Rifles''':
+
+ Heckler & Koch G36|G36C
+ M4 Carbine|M4A1
+ M4A1 SOPMOD
+ M4A1 with Grenadelauncher M203
+ Assault rifle M16|M16A4
+ M16A4 with Grenadelauncher M203
+ Heckler & Koch G3|G3
+ AK-47
+ AK-47 with Grenade Launcher GP30
+ AK-74|AK-74U
+ Rifle M14|M14
+
+'''Machine guns''':
+
+ M249 SAW
+ M60|M60 E4
+ RPD
+
+'''Sniper rifles''':
+
+ M24 SWS|M40A3
+ M21 SWS|M21
+ Dragunov
+ Remington 700|R700
+ Barrett M82|Barrett .50
+
+'''Shotguns''':
+
+ Benelli M4|M1014
+ Winchester 1200|W1200
+
+'''Rocket launchers''':
+
+:Non guided:
+ RPG-7
+ AT-4
+
+:Guided:
+ FGM-148 Javelin
+ FIM-92 Stinger
+
+'''Explosives'''
+ Grenades
+ C-4
+ Antipersonal mine M18A1 Claymore|Claymore.
+
+'''Flashes'''
+ Flash grenades
+ Smoke grenades
+
+ Multiplayer Mode 
+
+Multiplayer mode of Call Of Duty 4: Modern Warfare includes a class system. Five of them by default: Assault, 
+Special Operations, Machine Gunner, Demolitions and Sniper, which have got weapons and 3 default upgrades; another five custom classes, whose weapons and upgrades can be modified when player gets rank number 5.
+
+= Game modes =
+ '''Team Deathmatch''' TDM
+:Two teams fight each other as many times as they can before the time limit
+ '''Domination''' DOM
+:Two teams fight for the control of 3 flags put strategically on the map. Possession of them increases some points to the team who have the flags.
+ '''Sabotage''' SAB
+:Two teams fight for the possession of a bomb, which is moved by the players and have to be activated on the enemy objective. The other team can defuse that bomb in a limited time.
+ '''Search and Destroy''' S&D
+:One of the two teams get the bomb, and have to go to the enemy objective and activate the bomb. The other team have to kill all the enemy members to win, but if the bomb explodes, or all team members die, they lose.
+ '''Deatchmatch''' DM
+:The player is fighting alone, there are no teams. To win, you have to get the most of the kills.
+
+ Sources 
+
+
+
+
+Category:2007 video games
+Category:Call of Duty series
+Category:MacOS games
+Category:Windows games
+Category:PlayStation 3 games
+Category:Xbox 360 games

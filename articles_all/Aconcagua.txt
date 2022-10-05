@@ -1,0 +1,26 @@
+{{Infobox mountain
+| name = Aconcagua
+| photo = Aconcagua2016.jpg
+| photo_caption = Aconcagua from the south
+| map = Argentina | map_caption = Argentina
+| location = Mendoza, Argentina
+| label_position = right
+| coordinates   = 
+| elevation_m = 6960.8
+| elevation_ref =
+| prominence_m  = 6960.8
+| prominence_ref=List of peaks by prominence|Ranked 2nd
+| listing = Seven SummitsList of countries by highest point|Country high pointUltra prominent peak|Ultra
+| pronunciation = 
+| range = Andes
+| range_coordinates = 
+| coordinates_ref = 
+| first_ascent = 1897 byMatthias Zurbriggen (first recorded ascent)
+| easiest_route = Scrambling|Scramble (North)
+| map_size = 175}}
+
+'''Aconcagua''' is the highest mountain in the Americas, and the highest outside Asia. The altitude is 6,962 meters, or 22,841 feet. It is one of the Seven Summits.
+
+ Location 
+It is the Andes, in the Argentina|Argentine province of Mendoza Province|Mendoza.
+

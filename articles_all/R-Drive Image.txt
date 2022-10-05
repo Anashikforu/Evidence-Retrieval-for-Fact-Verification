@@ -1,0 +1,10 @@
+
+
+'''R-Drive Image''' is disk cloning computer program that can create copies of computer hard drives. This program is developed by 
+File format
+R-Drive Image uses a closed format|closed file format, with the .arc extension (unrelated to the ARC (file format)|data compression format also with the .arc extension).
+Related pages
+Disk cloning
+List of disk cloning software
+
+Category:Live CD

@@ -1,0 +1,23 @@
+{{Taxobox
+| name = Tiger quoll
+| status_system = iucn2.3
+| image = SpottedQuoll_2005_SeanMcClean.jpg
+| image_width = 220px
+| regnum = Animalia
+| classis = Mammalia
+| infraclassis = Marsupialia
+| ordo = Dasyuromorphia
+| familia = Dasyuridae
+| genus = ''Dasyurus''
+| binomial = ''Dasyurus maculatus''
+| range_map = Spotted Quoll Range.png
+| range_map_width = 220px
+| range_map_caption = ''Tiger Quoll Distribution:''D.m. gracilis ''dan'' D.m. maculatus.}}
+
+The '''tiger quoll''' (''Dasyurus maculatus'') is a carnivorous marsupial of the order of Dasyuromorphia. It is also known as the '''spotted-tail quoll''' or the '''spotted quoll'''. It is mainland Australia's largest, and the world's longest carnivorous marsupial. 
+
+
+
+
+category:Mammals of Australia
+Category:Dasyuromorphia

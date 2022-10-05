@@ -1,0 +1,49 @@
+{{Infobox City
+|official_name      = Sofia
+|native_name        = София
+|image_skyline      = 1-Sofia-parliament-square-ifb.JPG
+|imagesize          = 270px
+|image_caption      = National Assembly of Bulgaria|National Assembly Square in central Sofia Orlov Most|Eagles' Bridge detail
+|image_flag         = BG Sofia flag.svg
+|image_shield       = BG Sofia coa.svg
+|pushpin_map        = Bulgaria
+|mapsize            = 320 px
+|map_caption        = Position of Sofia in Bulgaria
+|coordinates_region = BG
+|subdivision_type   = List of sovereign states|Country
+|subdivision_type1  = Provinces of Bulgaria|Province
+|subdivision_name   = 
+|subdivision_name1  = Sofia-Capital
+|leader_title       = List of mayors of Sofia|Mayor of Sofia
+|leader_name        = Yordanka Fandakova (Citizens for European Development of Bulgaria|GERB)
+|established_title  = Settled&nbsp;by&nbsp;Thracians
+|established_date   = 7th century BC
+|area_magnitude     =
+|area_total_km2     = 1.349
+|area_land_km2      =
+|area_water_km2     =
+|area_metro_km2     = 
+|population_as_of   = Census 2011 (City and Urban),Forecast for 2012 (Metro)|population footnotes =
+|population_note    =
+|population_total   = 1,270,284
+|population_density_km2 = 944
+|population_urban   = 1,359,520
+|population_metro   = 1,380,000 (Metro area)1,495,000 (Metro region)
+|timezone           = Eastern European Time|EET
+|utc_offset         = +2
+|timezone_DST       = Eastern European Summer Time|EEST
+|utc_offset_DST     = +3
+|latd=42 |latm=42 |latNS=N
+|longd=23 |longm=20 |longEW=E|coordinates_display=d
+|elevation_m        = 550
+|postal_code_type   = Postal code
+|postal_code        = 1000
+|area_code          = (+359) 02
+|website            = |footnotes          =
+|motto              = Расте, но не старее(Grows but Does not Age)
+'''Sofia''' is the capital city|capital and the largest city of Republic of Bulgaria. It has 1.3 million people. It is the 15th largest city of the European Union. Sofia is in the west of Bulgaria. It has a humid continental climate (''Dfb'' in the Köppen climate classification).
+
+Sofia is one of the oldest capital cities in Europe; the history of Sofia dates back to the 8th century BC. 
+
+Many of the major universities, cultural institutions, and businesses of Bulgaria are concentrated in Sofia.
+

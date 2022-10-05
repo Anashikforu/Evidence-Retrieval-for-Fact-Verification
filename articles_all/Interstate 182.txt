@@ -1,0 +1,11 @@
+
+|direction_b=East
+|terminus_b= in Pasco
+|counties=Benton County, Washington|Benton, Franklin County, Washington|Franklin
+|previous_type=SR
+|previous_route=181
+|next_type=SR
+|next_route=193
+}}
+'''Interstate 182''' (sometimes called '''I-182''') is a 15.19-mile longInterstate Highway in the state of Washington, going into the Tri-Cities, Washington|Tri-Cities. The road goes from Interstate 82 west of Richland, Washington|Richland to U.S. Route 12 in Pasco, Washington|Pasco. It runs along U.S. Route 12 from Interstate 82 to U.S. Route 12, Washington State Route 240 through Richland, and U.S. Route 395 in Pasco.
+

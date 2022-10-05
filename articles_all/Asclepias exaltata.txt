@@ -1,0 +1,20 @@
+
+{{taxobox
+|name = Poke milkweed
+|image = Asclepias exaltata (2985661678).jpg
+|regnum = Plantae
+|unranked_divisio = Angiosperms
+|unranked_classis = Eudicots
+|unranked_ordo = Asterids
+|ordo = Gentianales
+|familia = Apocynaceae
+|subfamilia = Asclepiadoideae
+|genus = ''Asclepias''
+|binomial = ''Asclepias exaltata''
+|binomial_authority = L.}}
+
+'''''Asclepias exaltata''''' (also known as the '''poke milkweed''' or '''tall milkweed''') is a species of milkweed plant. It is in the subfamily Asclepiadoideae.
+
+The plant is found in eastern North America. It blooms from late spring to early summer. The flowers are green and white. Poke milkweed is found in moist woodland habitats. It grows well in moist soil and sunny or partly shaded places. It grows from 0.6 to 1.5 meters tall (2–5&nbsp;feet).William Cullina (2000). ''Wildflowers: a guide to growing and propagating native flowers of North America.'' The New England Wildflower Society. 
+
+Category:Asclepias|e

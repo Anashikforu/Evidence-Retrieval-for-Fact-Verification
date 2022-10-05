@@ -1,0 +1,11 @@
+
+'''Celestia''' is a free software|free 3D astronomy program for Microsoft Windows|Windows, Mac OS X, and Linux.  It was created by Chris Laurel and is licensed under the General Public License|GPL.
+
+The program is based on the Hipparcos Catalogue (120,000 Stars) and allows users to display objects from satellite (artificial)|artificial satellites to entire galaxy|galaxies in three dimensions in OpenGL.  Different from other planetarium software, the user is free to travel in the universe.
+
+NASA and European Space Agency|ESA have used Celestia, but it is not to be confused with Celestia 2000, ESA's own program.
+
+ Related pages 
+ Astronomy
+
+Category:Astronomy

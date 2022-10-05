@@ -1,0 +1,41 @@
+{{Infobox Constellation|
+name = Norma |
+abbreviation = Nor |
+genitive = Normae |
+pronounce =  |
+symbolism = the T-Square|Normal |
+RA = 16.05 |
+dec= −52.01 |
+family = La Caille Family|La Caille |
+quadrant = SQ3 |
+areatotal = 165 |
+arearank = 74th |
+numbermainstars = 2 |
+numberbfstars = 13 |
+numberstarsplanets = 4 |
+numberbrightstars = 0 |
+numbernearbystars = 0 |
+brighteststarname = Gamma2 Normae|γ2 Nor |
+starmagnitude = 4.01 |
+neareststarname = HD 145417 |
+stardistancely = 44.83 |
+stardistancepc = 13.75 |
+numbermessierobjects = 0 |
+meteorshowers = Gamma Normids |
+bordering = Scorpius (constellation)|ScorpiusLupus (constellation)|LupusCircinus (constellation)|CircinusTriangulum Australe (constellation)|Triangulum AustraleAra (constellation)|Ara |
+latmax = 30th parallel north|30 |
+latmin = South Pole|90 |
+month = July |
+notes=}}
+The constellation '''Norma''' is a small group of stars in the southern hemisphere between Scorpius (constellation)|Scorpius and Centaurus (constellation)|Centaurus. Its name is Latin for normal and can mean a right angle. The constellation may be pictured as a ruler, a carpenter's square, a set square, or a spirit level|level.
+
+Notable features
+=Stars=
+The Milky Way passes through Norma.
+
+=Deep-sky objects=
+Because it is on the Milky Way, this constellation contains many deep sky objects. Galaxy NGC 6087 is a highly visible one.
+
+Shapley 1 is a planetary nebula about 1,000 lightyears away from Earth.
+
+Category:Constellations

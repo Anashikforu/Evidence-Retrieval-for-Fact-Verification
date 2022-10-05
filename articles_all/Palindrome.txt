@@ -1,0 +1,31 @@
+A '''palindrome''' is a word, sentence, or number that reads the same from left to right as from right to left.
+
+
+You can read it horizontally, backwards, even vertically!
+
+ Examples of Palindromes 
+= Words =
+ Mum
+ Dad
+ Deed
+ Level
+ Radar
+ Kayak
+ Eye
+
+= Sentences =
+ Was it a cat I saw?
+ Do geese see God?
+ Rats live on no evil star.
+ Never odd or even.
+ Madam, I'm Adam.
+ Go Hang a salami I'm a lasagna hog
+ Top spot
+ Nurses run
+
+= Numbers =
+ 1881
+ 1991
+ 2002
+
+Category:Linguistics

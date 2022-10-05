@@ -1,0 +1,8 @@
+'''Logical negation''' (also known as '''not''') is a logic operation. For a proposition P, its negation is written as \neg P.
+
+ Related pages 
+
+ First order logic
+ Propositional logic
+
+Category:Logic

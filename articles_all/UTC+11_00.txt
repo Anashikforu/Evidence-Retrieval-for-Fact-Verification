@@ -1,0 +1,32 @@
+
+'''UTC+11:00''' means a time zone that is 11 hours ahead of Coordinated Universal Time or UTC. UTC is the standard time zone of the world. Time zones are often named by how many hours they are different from UTC time. For example, UTC -5 (United States east coast) is 5 hours behind UTC. 
+
+In Australia, Australian Eastern Standard Time (AEST) is normally UTC+10, but with Daylight saving time it becomes UTC+11.
+
+'''UTC+11''' is the time zone for the following places:
+
+
+ As standard time (all year round) 
+ Federated States of Micronesia
+ Kosrae, Pohnpei, and surrounding area
+ New Caledonia
+ Solomon Islands
+ Vanuatu
+ 
+ Primorsky Krai   (including Vladivostok)
+ Sakhalin Island 
+ Khabarovsk Krai 
+ Sakha Republic  (central portion)
+
+ Southern Hemisphere - as daylight saving time 
+  (Australian Eastern Daylight Time)
+ Australian Capital Territory
+ New South Wales (except Broken Hill, New South Wales|Broken Hill; but including Lord Howe Island, which is UTC+10:30 in winter)
+ Tasmania
+ Victoria (Australia)|Victoria
+
+ Other websites 
+ 
+Category:UTC offsets
+
+es:Huso horario#UTC+11:00, L

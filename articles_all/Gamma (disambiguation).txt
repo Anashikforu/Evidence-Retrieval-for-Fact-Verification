@@ -1,0 +1,49 @@
+Gamma (letter)|Gamma is a Greek letter. Used as a symbol or name it may refer to:
+
+Language
+ Latin gamma, used as an IPA symbol for voiced velar fricative, and in the alphabets of African languages.
+
+Science and Mathematics
+The Greek letter gamma is used in both science and mathematics very often.
+
+=Unspecified=
+ Gamma wave, a type of brain wave
+ Lapse rate, the temperature change with height in an atmosphere
+ linewidth, relating to uncertainty of mass energy in short-lived particles
+ Gamma is an old non-SI name for either a gram|microgram or for a nanotesla, SI units
+ Socionics#Quadras|Gamma quadra, in Socionics
+
+=Lower case, γ=
+ Gamma correction, a property of images and video displays
+ Gamma ray, also Gamma radiation, an electromagnetic ray
+ Adiabatic index, also known as the Heat capacity ratio, the ratio of the heat capacity at constant pressure to that at constant volume.
+ Bayer designation, the third brightest star
+ Euler-Mascheroni constant, a mathematical constant
+ photon, seen as an elementary particle in physics
+ Lorentz factor in relativity theory and astronomy
+ propagation constant of an electromagnetic wave
+ voiced velar fricative in phonetics
+
+=Upper case, Γ=
+ Gamma distribution, a probability distribution function
+ Gamma function, a mathematical function
+ Christoffel symbol in General Relativity
+ reflection coefficient in electrical engineering
+ mathematical finance, where it is a risk measure, or ''Greeks (finance)|Greek''
+ center of the Brillouin zone
+ The Large_countable_ordinal#The Feferman-Schütte ordinal and beyond |Feferman-Schütte_ordinal Γ0
+
+Technology
+ Development stage#Release candidate|Gamma software, in computer software and video game development
+ GM Gamma platform - a subcompact automobile platform by General Motors
+ Gamma correction, in video, graphics, color spaces, and photographic imaging
+ Elias gamma coding, in computer science, encoding, compression
+
+Things and places
+ Tropical Storm Gamma, an Atlantic tropical storm
+
+Popular culture
+ Brave New World, where it is the third caste
+ E-102 Gamma, a video game character
+ Gamma (band), a rock band
+

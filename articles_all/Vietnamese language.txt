@@ -1,0 +1,52 @@
+
+'''Vietnamese''' (''Tiếng Việt'') is the official language of Vietnam. Like many other languages in Asia, Vietnamese is a tonal language
+
+Influences
+Vietnamese has been strongly influenced by China|Chinese languages. It has a shared history with other languages such as Khmer language|Khmer. It now uses a Latin script|Latin alphabet that is based on the French language|French alphabet but was written based on Chinese characters, called Chu Nom|Chữ Nôm. Few people know Chữ Nôm today.
+
+Most Chinese speakers who live in Vietnam now use regular Chinese script for calligraphy, but some traditional calligraphy artists can still be found. For example, Ho Chi Minh City|Hồ Chí Minh City (sometimes still called Sài Gòn) has a district that is famous for its popular Chinatown.
+
+Vietnamese adds new words when they are needed, especially in the Profession|professions of engineering, science, and academics. Also there has been an increase in media use. Some social words from the media are now accepted as common.
+
+Spoken language
+The spoken language of Vietnam changes in each Provincial city (Vietnam)|province. The greater the distance between provinces, the stronger the difference. There some diffference between the Hanoian and the Mekong is called a dialect|dialects. The national education for all of Vietnam now usesthe Hanoian dialect, but each ethnic tribe may still use a different dialect, language, or vocabulary.
+=Computers=
+There are speaking programs that use Vietnamese. A computer Mozilla Add-ons|add-on for the Firefox web browser, Vietnamese TTS (Text to Speech), can read text with the '#Vietnamization|Vietnamization needs
+
+Audio libraries are available to reproduce Vietnamese. 
+Written language
+
+=Alphabet=
+The Vietnamese alphabet (In Vietnamese: "Chữ Quốc Ngữ", means "The National Scripts").
+
+Diphthong
+The combination of two vowels makes a diphthong. The Diphthong|dipthongs used in the Vietnamese language have some rules when used. For example, one rule states that the singular tone for both letters must be placed.
+
+Triphthongs 
+There are more triphthongs in Vietnamese than English, such as 'uye'.
+
+Vietnamese syllables
+The syllables refers to the Chinese language|Chinese use of two characters as syllables. Vietnamese also uses one syllable as a word.Like in English, people can say just 'go'. For more emphasis, it could be said twice in Vietnamese. That is common in Asia. n languages. Some Australian Aboriginal languages do the same thing. So, 'go - go' () means "go now" but with emphasis. However, 'go' is also common in Vietnamese.
+
+Many single syllables are used in Vietnamese. They can form sentences without pairing with other syllables as they do in Chinese. Readers (and speakers) still notice that many syllables, in most sentences, are paired.
+
+=Vietnamization=
+Many words from around the world were needed in Vietnamese. Sushi is a common word used by most languages. When a word is vietnamized, it is changed to sound Vietnamese. China uses the same idea: Ao-da-li-ya in Pinyin means Australia.
+
+The first rule for vietnamization is that Vietnamese word or syllables are not normally broken by a consonant: (An example of how to break a foreign word into two syllables is 
+When introducing a common foreign word, people vietnamize the word in at least one spoken demonstration for Vietnamese listeners.
+
+The rule should explain a problem with the foreign use of the family name ''Nguyễn''. It is not ''New Yen'' since ''y'' is not a consonant in Vietnamese. The ''y'' is pronounced as a vowel as in English ''many'' and ''penny''.
+
+The second (softer) rule for vietnamization is that the sound of each syllable must be made a little closer to Vietnamese sounds. Tone language|Tone marks for vowel letters are added: 
+Exceptions
+Any word can be an exception to vietnamization. Names like Barack Obama or Bill Clinton might be attempted by Vietnamese-speakers. In writing, the foreign names mostly stay together. Names like David are easy for the Vietnamese to say and so have become very popular in writing in English.
+
+Grammar
+=Exclamations=
+Exclamations are very popular in Vietnamese. People can use exclamations as an introduction to things said. People can also comment with a quick exclamation after they say something. The exclamation may express a feeling or just an expression.
+
+=Conjunctions=
+Conjunctions are used in Vietnamese.
+
+Category:Tonal languages

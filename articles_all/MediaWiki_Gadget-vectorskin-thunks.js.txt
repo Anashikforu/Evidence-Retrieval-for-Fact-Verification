@@ -1,0 +1,21 @@
+if ( mw.config.get( 'skin' )  'vector' ) {  (function() {
+      var GET = document.getElementById;
+      document.getElementById = function(id) {
+          var g = GET.call(document, id);
+          if (g) {
+              return g;
+          } else {
+              return GET.call(document, {
+                  'p-cactions': 'actions',
+                  'p-personal': 'personal',
+                  'p-search': 'p-navigation', // redirected to this for positioning, or to #search?
+                  'p-logo': 'logo',
+                  'column-one': 'panel',
+                  'column-content': 'content', // since #content exists, is this ok?
+                  'globalWrapper': 'content', // what should this be?
+                  'lastmod': 'foot-info-lastmod'
+              }id);
+          }
+      };
+  })();
+}

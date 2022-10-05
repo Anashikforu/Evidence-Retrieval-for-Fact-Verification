@@ -1,0 +1,32 @@
+
+
+'''Lactose intolerance''' is when a person cannot digestion|digest milk or milk products (such as cheese or yogurt). All mammals start off on mother's milk, and almost all change to a non-milk diet, a process we call ''weaning''.
+
+Lactose is a disaccharide sugar (double sugar molecule). To be digested it must be split (digested) into two simple sugars (monosaccharides), glucose and galactose. 
+
+An enzyme called lactase is needed to break it down. People with lactose intolerance do not have this enzyme or make only small quantities. Because of this they are unable to digest lactose.Ségurel L. & Bon C. 2017. On the evolution of lactase persistence in humans. ''Annual Review of Genomics and Human Genetics''. '''18''' (1): 297–319. 
+Up to 75% of people worldwide begin to lose the ability to digest lactose as they grow into adults. There is no cure for lactose intolerance. Those people need to change their diet to eat and drink substances with very little lactose. There are many milk substitutes. 
+
+Milk is not a fermentation|fermented product. If is not digested, then it may ferment in the small intestine which can cause a problem called pseudoallergy. Amino acids are changed to other substances, which may act in much the same way as histamine in a true allergy.
+
+Lactose intolerance is not the same as milk allergy, which is an Immune system|immune reaction to some of the proteins in milk.
+
+ Lactase evolution in humans 
+Normally infant mammals drink their mother's milk. Then the gene which causes the body to make lactase is switched off, and the young move on to adult food. They can no longer digest milk.
+
+Humans are somewhat different from other mammals. Some humans continue to produce lactase, and some do not. It is a type of genetic polymorphism.
+
+The ability to digest lactose into adulthood ('lactase persistence') was useful to humans after the invention of animal husbandry. People kept animals which could provide milk.Itan, Yuval ''et al.'' 2010. A worldwide correlation of lactase persistence phenotype and genotypes. ''BMC Evolutionary Biology''. '''10'''(1). p36. 
+
+Hunter-gatherer people before the Neolithic revolution were mostly lactose intolerant.Swaminathan, N. 2007. 
+= Genetics =
+A mutation on chromosome 2 stops the shutdown in lactase production. This makes it possible for those with the mutation to continue drinking fresh milk (and eating other dairy products) throughout their lives.
+
+This appears to be a recent adaptation to dairy products. It occurred in both northern Europe and east Africa in people with a historically pastoral lifestyle. Lactase persistence, allowing lactose digestion to continue into adulthood, is a dominant allele, making lactose intolerance a recessive trait. 
+
+Genetic studies suggest that the oldest mutations associated with lactase persistence have only become common in human populations in the last 10,000 years.Coelho M. ''et al.'' 2002. Microsatellite variation and evolution of human lactase persistence. ''Human Genetics'' '''117'''(4): 329–339.Bersaglieri T. ''et al.'' 2004. Genetic signatures of strong recent positive selection at the lactase gene. ''American Journal of Human Genetics'' '''74'''(6): 1111–20. Because of this, lactase persistence is often given as an example of Human evolution#Recent and current human evolution|recent human evolution.Wade N. 2006. 
+ Related pages 
+Lactase
+Lactic acid bacteria
+
+Category:Evolutionary biology

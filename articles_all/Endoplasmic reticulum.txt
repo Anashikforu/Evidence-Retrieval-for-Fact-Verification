@@ -1,0 +1,23 @@
+Image:Clara cell lung - TEM.jpg|thumb|300px|Electron microscope|Electron micrograph of rough endoplasmic reticulum network around the Cell nucleus|nucleus (shown in lower right-hand side of the picture). Dark small circles in the network are mitochondria.
+Image:nucleus ER golgi.svg|thumb|250px|'''1'''&nbsp;Cell nucleus|Nucleus
+'''2'''&nbsp;Nuclear pore
+'''3'''&nbsp;Rough endoplasmic reticulum (RER)
+'''4'''&nbsp;Smooth endoplasmic reticulum (SER)
+'''5'''&nbsp;Ribosome on the rough ER
+'''6'''&nbsp;Proteins that are transported
+'''7'''&nbsp;Transport Vesicle (biology)|vesicle
+'''8'''&nbsp;Golgi apparatus
+'''9'''&nbsp;Cis face of the Golgi apparatus
+'''10'''&nbsp;Trans face of the Golgi apparatus
+'''11'''&nbsp;Cisternae of the Golgi apparatus
+
+'''Endoplasmic reticulum''' ('''ER''') is a cellular organelle. It is the transport network for molecules going to specific places, as compared to molecules that float freely in the cytoplasm. The endoplasmic reticulum is in cells that have a nucleus: in eukaryote cells but not in prokaryote cells. It takes these forms:
+
+'''Rough endoplasmic reticulum''' ('''RER'''), so called because it is studded with ribosomes, and secretes proteins into the cytoplasm. 
+'''Smooth endoplasmic reticulum''' ('''SER'''). Among its functions is the production of proteins and steroids, the maintenance of Membrane#Plasma Membranes|plasma membranes, and a pathway for molecules to move along.
+
+Similar to the ER is the '''sarcoplasmic reticulum''' ('''SR''') found only in muscle cells. The SR stores and pumps calcium ions. The SR contains large stores of calcium, which it releases when the muscle cell is stimulated. Another type of cytoplasmic network is the plate-like Golgi apparatus.
+
+The lacey membranes of the endoplasmic reticulum were first seen in 1945 by scientists using an electron microscope.
+
+Category:Organelles

@@ -1,0 +1,24 @@
+{{Taxobox
+| name = ''Beipiaosaurus''
+| fossil_range = Lower Cretaceous
+| image = Beipiao1mmartyniuk.png
+| image_width = 250px
+| image_caption = Restoration of ''Beipiaosaurus sp.''
+| regnum = Animalia
+| classis = Sauropsida
+| superordo = Dinosauria
+| ordo = Saurischia
+| subordo = Theropoda
+| superfamilia = Therizinosauroidea
+| genus = ''Beipiaosaurus''
+| genus_authority = Xu Xing|Xu, Tang & Wang, 1999}}
+
+'''''Beipiaosaurus''''' is a therizinosaur theropod dinosaur. It lived in the Lower Cretaceous, about 125 million years ago. Its fossil was found in the Yixian Formation near Beipiao, Liaoning Province of China. The theroziosaurs were a group of theropods which became herbivorous. ''Beipiaosaurus'' had a toothless beak, cheek teeth, and protofeathers. 
+
+
+
+
+
+category:Cretaceous dinosaurs
+category:Coelurosaurs
+Category:Feathered dinosaurs

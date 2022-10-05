@@ -1,0 +1,16 @@
+
+
+| density = 0.42 ± 0.15 g/cm³
+| surface_grav = 0.0001–0.0018 Acceleration|m/s2
+| escape_velocity = ~0.006 km/s
+| rotation = synchronous rotation|synchronous
+| axial_tilt = zero
+| albedo = 0.5
+| single_temperature = ~78 K
+}}
+
+
+'''Pan''' is a Satellite (natural)|moon of Saturn (planet)|Saturn. It is the closest moon to the planet, orbiting 133,600 kilometre|km above Saturn's cloud tops. It was discovered in 1990 by Mark Showalter. He discovered Pan when he was analysing the photos taken by Voyager 2.
+Pan was named after the Greek god Pan (mythology)|Pan on 16 September 1991.
+Its mass is in the range 4.95 \pm 0.75 \times 10^{15} kg.
+Category:Saturn's moons

@@ -1,0 +1,28 @@
+{{Infobox Swiss town
+ | subject_name		= Frick
+ | municipality_name	= Frick
+ | municipality_type	= municipality
+ | imagepath_coa	= Wappen Frick AG.svg|pixel_coa=
+ | map			= Karte Gemeinde Frick.png
+ | languages		= German
+ | canton		= Aargau
+ | iso-code-region 	= CH-AG
+ | district		= Laufenburg (district)|Laufenburg
+ | lat_d=47|lat_m=31|lat_NS=N|long_d=8|long_m=1|long_EW=E
+ | postal_code		= 5070
+ | municipality_code	= 4163
+ | area			= 9.96
+ | elevation		= 350|elevation_description= 
+ | population		= 4459|populationof = December 2005 | popofyear = 2005
+ | website		= www.frick.ch
+ | mayor		= |mayor_asof=|mayor_party=
+ | mayor_title	= |list_of_mayors	= 
+ | places		= 
+ | demonym		= 
+ | neighboring_municipalities= Eiken, Switzerland|Eiken, Gipf-Oberfrick, Hornussen, Aargau|Hornussen, Ittenthal, Kaisten, Switzerland|Kaisten, Oeschgen, Schupfart, Ueken
+ | twintowns		= Frickingen (Germany)
+||image_photo=Frick-Preghejo 707.jpg|image_caption=Church of Frick}}
+
+'''Frick''' is a municipality of the district Laufenburg (district)|Laufenburg in the Cantons of Switzerland|canton of Aargau in the country of Switzerland.
+
+Category:Municipalities of Aargau

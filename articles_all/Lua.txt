@@ -1,0 +1,19 @@
+
+'''Lua''' is an open source programming language. Lua is used for many different things, especially in video games such as World of Warcraft, SimCity 4 and Transformice. In June 2010, Apple Inc. changed the terms of use for the software development kit of its iOS operating system to allow the use of Lua. This led to Lua being used to make iPhone Application software|applications such as Angry Birds. In June 2011, Lua was ranked the tenth most Popularity|popular programming language by the TIOBE Index.
+
+ Examples 
+An example Hello World program in Lua:
+
+
+-- !/usr/bin/lua
+print("Hello World!")
+
+
+An example of setting a value, then printing it:
+
+--!/usr/bin/lua
+a = "Hello World!"
+print(a)
+
+
+Category:Programming languages|Lua

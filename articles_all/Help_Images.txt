@@ -1,0 +1,99 @@
+:''This article is about how to use images when making a Wikipedia page. To add images to Wikipedia, see Wikipedia:Image use policy.''
+
+On Wikipedia, Image|images (pictures) can be used on a page by using the Image tag. This tag uses the name of the image as well as some keywords to know where an image should be shown on a page.
+
+ Image tag 
+To insert an image, insert the following image tag. Replace "Image.jpg" with the file name. Replace {options} with the keywords which you want to use.
+
+
+
+ Keywords 
+There are some words (keywords) that are understood by the image tag. These words tell it what to do with the image. Any words it does not know are used as the caption for the image. These words are case-sensitive. They must be typed in all lower case letters. The words can be in any order, but they must be separated by a pipe: |
+
+ '''Alignment:''' left, center, right, none — Controls the alignment (position) of the image on the page.
+ '''Frame type:''' frame, frameless, thumb — Controls how the image is formatted.
+'''Size:''' A number followed by ''px'' (e.g., 200px) — Resizes the image to the given width in pixels.
+'''Vertical alignment''': baseline, sub, super, top, text-top, middle, bottom, text-bottom — Controls the vertical alignment of the image on the page.
+'''Link:''' link={destination} — Allows linking to an arbitrary title, Uniform Resource Locator|URL or just nowhere. (mw:Special:Code/MediaWiki/41727|1.14+)
+ '''Alt text:''' alt={alternative text} — For changing the alternative text (alt="") of an image. Alt text can only be seen when the image is not shown. (mw:Special:Code/MediaWiki/41837|1.14+)
+ '''Caption:''' any words that are not keywords are used as the caption. Caption text can contain wiki links or other formatting.
+
+ Examples 
+
+
+ Details 
+
+= Alignment =
+
+ Usable words: ''left'', ''center'', ''right''
+ If no alignment is given, the image will be put on the right side of the page.
+
+When using ''left'' or ''right'', the words on the page will wrap around the image. If the center tag is used, the words will be under the image. The center alignment should not be used on most articles.
+
+
+=Frame type =
+Usable words: ''frame'', ''thumb''
+If no Frame type is chosen, no frame is used.
+If a Frame type is chosen, the caption is shown under the image.
+
+
+
+=Size=
+The size of an image can be changed by adding a size in pixels to the image tag. This is done by adding a number followed by the letters ''px''. For example, ''150px''. 200 pixels (200px) is the normal size used for most images on Wikipedia. 
+
+Framed images will not be changed by having a size: they are always shown at full size.
+Thumbnailed pictures will be shown as 200px or the full size of the image (whichever is smaller) unless a size is used.
+Images with no frame type used will be shown at the full size of the image unless a size is used.
+ 
+
+
+=Caption=
+Anything that is not a keyword is used as the caption of the image. Captions are only shown on images which have a Frame type used. The caption is also shown when the user's computer mouse|mouse is over the image, with or without a frame type being used. Because keywords are case-sensitive, ''right'' is not the same as ''Right''. ''right'' is a keyword, ''Right'' is used as a caption.
+
+ Gallery of images 
+It's easy to make a gallery of '''thumbnails only''', not other images, with the  tag. The syntax is:
+
+
+Image:{filename}|{caption}
+Image:{filename}|{caption}
+{...}
+
+
+Note that the image code is not enclosed in brackets when enclosed in gallery tags. 
+Captions are optional, and may contain wiki links or other formatting.
+
+For example:
+
+
+Image:Example.jpg|Item 1
+Image:Example.jpg|a link to Help:Contents
+Image:Example.jpg
+Image:Example.jpg
+Image:Example.jpg|''italic caption''
+Image:Example.jpg|on page ""
+
+
+is formatted as:
+
+Image:Example.jpg|Item 1
+Image:Example.jpg|a link to Help:Contents
+Image:Example.jpg
+Image:Example.jpg
+Image:Example.jpg|''italic caption''
+Image:Example.jpg|on page ""
+
+
+=Parameters=
+The gallery tag itself takes several additional parameters:
+ {images} 
+ caption={caption}: sets a caption on the gallery.
+ widths={width}px: sets the widths of the images.
+ heights={heights}px: sets the (max) heights of the images.
+ perrow={integer}: sets the number of images per row.
+
+Related pages
+Wikipedia:Manual of Style#Images|Manual of Style: Images
+Wikipedia:Copyright
+Help:How to edit
+
+Category:Help|Images

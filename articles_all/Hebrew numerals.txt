@@ -1,0 +1,16 @@
+
+The system of '''Hebrew numerals''' is a quasi-decimal alphabetic numeral system using the letters of the Hebrew alphabet.
+
+In this system, 0 (number)|zero does not have a place, and the number values for each letter are added together.  Each unit (1, 2, ..., 9) is assigned a separate letter, each tens (10, 20, ..., 90) a separate letter, and each hundreds (100, 200, ..., 900) a separate letter.
+
+Main table
+Hebrew has wikt:masculine|masculine and wikt:feminine|feminine ways of saying the words.  For just counting, feminine is used.  Otherwise, the gender is used (ex. two boys, two girls).
+
+
+The number is first, then the noun (ex. shlosha yeladim), except for number one where it is reversed (ex. yelad echad).
+The number two is special. Shnayim (m.) and shtayim (f.) become shney (m.), and shtey (f.) when describing the number of some noun.
+Mixed groups are always addressed as male, which is the case with all Hebrew.
+Objects are either male or female (ex. a book (''sefer'') is male).
+
+Category:Numerals
+Category:Hebrew language

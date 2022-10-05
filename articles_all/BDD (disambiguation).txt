@@ -1,0 +1,8 @@
+'''BDD''' is an abbreviation. It may mean:
+ Binary decision diagram, a data structure in computer science
+ Body dysmorphic disorder, a mental disorder
+ Behavior driven development, a software design method
+ Business-driven development, a software development method focusing on business requirements
+ BostonDirtDogs.com, a blog-style website focusing on the Boston Red Sox
+ Business Desktop Deployment, a free set of tools by Microsoft to manage desktop deployment projects
+

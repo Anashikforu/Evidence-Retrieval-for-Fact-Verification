@@ -1,0 +1,95 @@
+
+
+
+
+
+The '''App Store''' is an online market used on Apple's iOS, managed by Apple Inc. The App Store lets users view and download applications that were made with the iOS Software Development Kit. Apps can be downloaded onto an iOS device directly, or onto a computer using iTunes (also managed by Apple).
+
+Apps in the App Store are made mainly for iOS devices, such as iPhones and iPads. Some apps can be downloaded for free while others have a cost. Some have "in-app purchases", which are purchases made within the app. These are sometimes done to remove ads or to add features to an app. 30% of all profit made through apps goes to Apple, while 70% goes to whoever made the app.
+Apple iOS 11 App Store is the current eleventh major release of the iOS mobile operating system developed by Apple Inc. It was announced and the first beta version released to developers at the company's Worldwide Developers Conference on June 5, 2017.
+
+History
+
+In July 2008, the App Store opened with a change to iTunes. Apple could now control app quality and add extra pricing to the already set cost of an app. A day later, the iPhone 3G was launched and it came with iOS 2.0.1. This version had App Store support, and was soon made available for older iPhones and the iPod Touch., there are over one million apps on the App Store.
+
+As of January, 2011, the App Store had nearly 10 billion app downloads, which the company said using the "10 Billion App Countdown".ABC
+Average profit per app is about US$8,700, but Apple does not let the public view this data.
+
+The success of the App Store led other companies to release their own "app stores", and now any similar service for mobiles are sometimes called app stores.
+
+
+The word ''app'' is now a popular word; in early 2011, ''app'' was given 2010s "Word of the Year" by the American Dialect Society.
+
+In February 2011, Apple announced a new subscription-based service, which will allow developers to set the length and price of subscriptions. Previously, new magazine or news releases were sold as its own release. The new feature allowed publishers to sell content directly through their apps, allowing users to receive new content over specified periods of time.
+
+During Apple's 2012 Worldwide Developer's Conference, Apple CEO Tim Cook said that the App Store has 400 million accounts with registered credit cards, 650,000 available apps to download and "an astounding 30 billion apps" downloaded from the app store.Indvik, Lauren. June 11, 2012. "App Store Stats: 400 Million Accounts, 650,000 Apps." 
+When the iPhone 5 was launched, Apple changed the look of the App Store, as well as the iTunes Store and iBookstore, as part of iOS 6.
+
+On January 7, 2013, Apple announced that there have been over 40 billion apps downloaded from their iOS App Store, with about half of those coming in 2012.Lomas, Natasha. January 7, 2013. "Apple App Store: 40B Downloads And Counting; 2B+ In December, ~20B In 2012." 
+On February 1, 2013, Apple told developers that they could begin using appstore.com for links to their apps.
+In September 2013, Apple announced at its Worldwide Developers Conference the addition of a Kids category to the App Store with the launch of iOS 7. The category is split by age range and apps made for children under 13 must follow the Children's Online Privacy Protection Act (COPPA).
+
+As of the end of 2013, App Store users spent over US$10 billion in 2013, and users downloaded almost three billion apps in December 2013. This was the most successful month in App Store history, and developers have earned over $15 billion since the making of the App Store.
+
+Number of launched applications
+On July 10, 2008, Apple CEO Steve Jobs told ''USA Today'' that the App Store contained 500 non-Apple applications for the iPhone and the iPod Touch, and of these 25&nbsp;percent were free.
+
+On January 16, 2009, Apple said on its website that 500&nbsp;million applications had been downloaded.
+
+Unlike the apps that come standard on the iPhone, apps downloaded from the App Store can be removed by the user at any time.
+
+
+
+
+
+=iPad applications=
+The iPad was launched in April 2010 with over 3000 applications made for it. About eight months after the release of the iPad, over 50,000 apps were available for it.
+
+As of July 2011, 16 months after the iPad launched, there were over 100,000 apps available at the App Store made for the device.
+
+By the end of November 2011, Apple advertised in a holiday newsletter of the online Apple Store there are more than 140,000 iPad apps available.
+
+As of January 7, 2013, there were more than 300,000 native iPad apps available for users.
+
+As of October 22, 2013, there were more than 475,000 native iPad apps available for users.
+
+=Most popular apps=
+As of July 2021, these are the most installed App Store apps of all time
+
+
+=History of the #1 Most Installed App=
+
+
+Application ratings
+Apple rates apps worldwide based on their content, and gives the app an age group for which is appropriate. The following are the ratings that Apple has detailed:
+
+
+
+App approval process
+
+Apple must review all applications before they can enter the App Store for users to download.
+
+, Apple used a method of reviewing apps which had flaws, and this meant that some bad apps could get past the review process.
+
+According to Apple statistics 62% of common app rejections occur due to the regular non-compliance with the main Apple guidelines.
+
+Controversial apps
+Many times, Apple has removed apps because they did not follow the Apple policies for apps.
+
+In November 2012, Boyfriend Maker, a dating sim game, was removed due to "reports of references to violent sexual acts and paedophilia"
+
+On March 11, 2013, HiddenApps was approved and appeared in the App Store. This app allowed access to special developer-only menus, could allow built-in apps to be hidden, and an option to turn off iAds, Apple's ad system.
+
+National limitations
+
+While Apple wants the App Store to be available worldwide, their market is restricted to country borders. Different countries have slightly different app stores. Some apps may only be available on the app stores of a few countries, while others can be available in many countries. Trying to use an app store of one country while in another may be a problem: Apple warns that "one of the risks of creating a German account while you are in Greece is, our system may able to detect it and it may put restrictions on your account (German) that will prevent you from using the iTunes Store".
+
+Similar services for other devices
+
+Other mobile devices have other app stores available for them. Some of these are made by the company that made the device, but not all are that way. Amazon.com has the Amazon Appstore for all Android users. The Google Play store (was known as Android Market) is the official store for Google's Android devices. In 2010, Microsoft created the Windows Phone Store, an online market for their Windows Phone devices. In October 2012, the Windows Store was made for Windows 8 and Windows RT computers.
+
+Nokia also has the Ovi Store, BlackBerry 10 users do not have to use BlackBerry World, they are allowed to use other app stores as well.
+
+Game consoles, such as the Nintendo DSi, also have their own online stores. The DSi has the "DSi Shop", while the Sony PSP (PlayStation Portable) and the PlayStation Vita have the PlayStation Store.
+
+Category:Apple software

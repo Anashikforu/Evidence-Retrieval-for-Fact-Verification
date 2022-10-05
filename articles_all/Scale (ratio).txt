@@ -1,0 +1,16 @@
+
+
+The scale (map)|scale of a map shows the ratio between the distances on the map and the corresponding distances in reality. For example, a map of scale 1:50,000 shows a distance of 50,000 centimetre|cm (or 500 metre|m) as 1&nbsp;cm on a map. A 1:25 scale model of a building with a height of 30 m has a model height of 1.20 m.
+
+When a drawing or scale model|model or photography|photograph of an object is larger or smaller than the original, the '''scale''' represents how much the object has been "grown" or "shrunk".
+
+
+ Scale bars 
+'''Scale bars''' for microscopic or unusual objects are necessary. They help readers  to understand the diagram.
+
+Related pages
+ Proportionality
+ Scale (map)
+
+
+Category:Measurement

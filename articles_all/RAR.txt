@@ -1,0 +1,28 @@
+
+
+
+In computing, '''RAR''' is a archival file format that allows data compression, error recovery, and file spanning.  It was created by Eugene Roshal (that is why it is named RAR: '''R'''oshal '''AR'''chive) and is now license|licensed to ''Win.RAR GmbH''.
+ RAR File Archiver Software 
+The following is an example of file archiver software by Platform (computing)|platforms. For a comprehensive list see Comparison of file archivers.
+
+= Windows =
+ Read/Write: WinRAR
+ Read-only: 7-Zip, BitZipper, IZArc, PeaZip, RarZilla, Zipeg, free unrar, non-free unrar
+
+= Linux =
+ Read/Write: WinRAR|RAR
+ Read-only: free unrar, non-free unrar, PeaZip, p7zip's rar29.so
+
+= Mac OS X =
+ Read/Write: WinRAR|RAR (command line), SimplyRAR
+ Read-only: RAR Expander, Stuffit Expander, UnRarX, Zipeg, free unrar, non-free unrar
+
+= DOS =
+ WinRAR|RAR, non-free unrar
+= OS/2 =
+ WinRAR|RAR, non-free unrar
+= FreeBSD =
+ Read/Write: WinRAR|rar, Ark (computing)|Ark (as frontend to rar)
+ Read Only: 7-Zip, free unrar, non-free unrar
+
+=Category:Computer file formats

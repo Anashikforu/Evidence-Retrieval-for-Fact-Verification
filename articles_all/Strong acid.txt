@@ -1,0 +1,18 @@
+
+In chemistry, a '''strong acid''' is an acid which ionizes (splits) completely in a solution of water. It always loses a proton (A H+) when put in water. A weak acid does not always lose a proton, though; It can lose its proton, but not all the time. They also have a very low pH, usually between 1 and 3. Many strong acids have a negative pKa value, which means they are very strong.
+
+The six common strong acids are: (Acronym:CBSPIN)
+# Hydrochloric acid|Hydro'''C'''hloric acid H'''C'''l
+# Hydrobromic acid|Hydro'''B'''romic acid H'''B'''r
+# Sulphuric acid|'''S'''ulfuric acid H₂'''S'''O₄
+# Perchloric acid|'''P'''erchloric acid HClO4
+# Hydroiodic acid|Hydro'''I'''odic acid H'''I'''
+# Nitric acid|'''N'''itric acid HNO3
+
+Almost strong acids include:
+# Chloric acid HClO3
+
+
+
+
+Category:Acids

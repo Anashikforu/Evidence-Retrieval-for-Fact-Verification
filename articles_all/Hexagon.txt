@@ -1,0 +1,27 @@
+A '''hexagon''' is a polygon with 6 sides and 6 corners (vertices). Like regular triangles and square (geometry)|squares, hexagons fit together without gaps, which are known as tesselations. They therefore are often used for tiling floors. They are also quite common in nature. The honeycombs in beehives are hexagons, for example.
+
+ Hexagons: in nature and by humankind 
+
+
+Image:Honey_comb.jpg|A beehive honeycomb
+Image:Carapax.svg|The scutes of a turtle's carapace
+Image:Saturn hexagonal north pole feature.jpg|North polar hexagonal cloud feature on Saturn (planet)|Saturn, discovered by Voyager 1 and confirmed in 2006 by Cassini-Huygens|Cassini Image:Snowflake 300um LTSEM, 13368.jpg|Micrograph of a snowflake
+Image:Hexagonal tessellation.JPG|Hexagonal floor tesselations (in Rome)
+image:Hexagon.svg|A regular hexagon, with all sides the same length and all vertices the same angle.
+Image:Giants causeway closeup.jpg|Naturally formed basalt columns from Giant's Causeway in Ireland; large masses must cool slowly to form a polygonal fracture pattern
+Image:Fort-Jefferson Dry-Tortugas.jpg|An aerial view of Fort Jefferson in Dry Tortugas National Park
+
+
+Related pages
+ Polygon
+ Triangle
+ Square
+ Pentagon
+ Heptagon
+ Octagon
+
+ Other websites 
+     
+
+
+Category:Polygons|6

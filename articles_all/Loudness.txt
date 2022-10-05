@@ -1,0 +1,4 @@
+
+'''Volume''' can mean loudness, for example, in the volume control on computers and televisions which lets you tell the unit how loud you want its sound to be.  Loudness is measured in Decibel|Decibels (Db) and can be measured using a "Decibel Meter" or "sound level meter".
+
+Category:Sound

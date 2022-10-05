@@ -1,0 +1,14 @@
+{{Taxobox
+| image = Spyrogyra-bgiu.jpg
+| image_caption= Spirogyra green algae
+| name = Zygnematophyceae
+| regnum = Plantae
+| divisio = Charophyta
+| classis = '''Zygnematophyceae'''
+| subdivision_ranks = Orders
+| subdivision = 
+Zygnematales  
+Desmidiales  }}
+'''Zygnematophyceae''' is a class of green algae. It has two orders: Zygnematales and Desmidiales.
+
+Category:Algae

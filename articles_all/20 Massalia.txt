@@ -1,0 +1,44 @@
+{{Infobox Planet   | bgcolour=#FFFFC0
+| name=20 Massalia
+| discoverer=Annibale de Gasparis
+| discovered=September 19, 1852
+| alt_names=''none''
+| mp_category=Main belt (Massalia family)
+| epoch=October 22, 2004 (Julian day|JD 2453300.5)
+| semimajor=360.305 Giga|Gmetre|m (2.408 Astronomical unit|AU)
+| perihelion=308.699 Gm (2.064 AU)
+| aphelion=411.911 Gm (2.753 AU)
+| eccentricity=0.143
+| period=1365.261 day|d (3.74 Julian year (astronomy)|a)
+| inclination=0.707degree (angle)|°
+| asc_node=206.530°
+| arg_peri=255.578°
+| mean_anomaly=161.641°
+| avg_speed=19.09&nbsp;km/second|s
+| dimensions=160×145×130&nbsp;km 
+| mass=5.2 kilogram|kg 
+| density=3.2&nbsp;g/cubic centimetre|cm³
+| surface_grav=0.054&nbsp;m/s²
+| escape_velocity=0.093&nbsp;km/s
+| rotation=0.3374 d (8.098 Hour|h) 
+| spectral_type=S-type asteroid|S 
+| magnitude= 8.3 to 12.0
+| abs_magnitude=6.50
+| albedo=0.210&nbsp;(geometric albedo|geometric)
+| angular_size = 0.186"  to 0.058"
+| single_temperature=~174 kelvin|K''max:'' 265&nbsp;K (-8°celsius|C)}}
+'''20 Massalia''' is a big and fairly bright Asteroid belt|Main belt asteroid. It is also the biggest member of the Massalia family of asteroids.
+
+ Characteristics 
+Massalia is an S-type asteroid. It orbits at very low inclination in the intermediate main belt, and is by far the biggest asteroid in the Massalia family. The remaining family members are pieces blown off by a cratering event on Massalia 
+
+Massalia has an above-average density for S-type asteroids, similar to the density of silicate rocks. As such, it appears to be a solid un-fractured body, which is rare among asteroids of its size. Apart from the few biggest bodies over 400&nbsp;km in diameter, such as 1 Ceres and 4 Vesta, most asteroids appear to have been fractured a lot.
+
+Lightcurve analysis indicates that Massalia's pole points towards either ecliptic coordinate system|ecliptic coordinates (β, λ) = (45°, 10°) or (β, λ) = (45°, 190°) with a 10° uncertainty. This gives an axial tilt of 45°in both cases. The shape reconstruction from lightcurves has been described as quite spherical with large planar, nonconvex parts of the surface.
+
+ Discovery 
+Massalia was found by Annibale de Gasparis|A. de Gasparis on September 19, 1852, and also found independently the next night by Jean Chacornac|J. Chacornac. It was Chacornac's discovery that was announced first.
+
+''Massalia'' is the Greek language|Greek name for Marseille, where Chacornac made his discovery (de Gasparis was observing from Naples).
+
+Category:Asteroids

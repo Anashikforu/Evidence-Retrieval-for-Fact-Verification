@@ -1,0 +1,39 @@
+{{Infobox Constellation
+| name = Cassiopeia
+| abbreviation = Cas
+| genitive = Cassiopeiae
+| pronounce =  
+| symbolism = the Seated queen regnant|Queen
+| RA = 1
+| dec= +60
+| family = Perseus Family|Perseus
+| quadrant = NQ1
+| areatotal = 598
+| arearank = 25th
+| numbermainstars = 5
+| numberbfstars = 53
+| numberstarsplanets = 5
+| numberbrightstars = 4
+| numbernearbystars = 7
+| brighteststarname = Alpha Cassiopeiae|α Cas (Schedar)
+| starmagnitude = 2.15
+| neareststarname = Eta Cassiopeiae|η Cas (Achird)
+| stardistancely = 19.42
+| stardistancepc = 5.95
+| numbermessierobjects = 2
+| meteorshowers = Perseids
+| bordering = CamelopardalisCepheus (constellation)|Cepheus Lacerta Andromeda (constellation)|Andromeda Perseus (constellation)|Perseus
+| latmax = North Pole|90
+| latmin = 20th parallel south|20
+| month = November
+| notes=}}
+
+'''Cassiopeia''' is a constellation in the northern sky. It was named after a queen in Greek mythology called Cassiopeia (mythology)|Cassiopeia. It looks like a letter '''W''' or '''M''', with five bright stars that make the '''W''' or the '''M''' shape. It has two very bright stars called Rho Cassiopeiae|ρ Cas and V509 Cassiopeiae|V509 Cas.
+
+In 1572, a supernova called Tycho's Star, or SN 1572, was seen in Cassiopeia by many people.
+
+
+
+
+Category:Constellations
+Category:Constellations listed by Ptolemy

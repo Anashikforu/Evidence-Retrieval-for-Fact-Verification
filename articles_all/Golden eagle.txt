@@ -1,0 +1,36 @@
+{{Taxobox
+| name = Golden eagle
+| status = LC
+| status_system = IUCN3.1
+| image =Steinadler Aquila chrysaetos closeup1 Richard Bartz.jpg
+| image_width = 250px
+| image2 = Golden Eagle (Aquila chrysaetos) (W1CDR0001387 BD6).ogg
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Accipitriformes
+| familia = Accipitridae
+| genus = ''Aquila (genus)|Aquila''
+| binomial = ''Aquila chrysaetos''
+| binomial_authority = Carolus Linnaeus|Linnaeus, 1758
+| range_map = Aquila chrysaetos distribution map.png
+| range_map_width = 300px
+| range_map_caption = Light green  = Breeding only Blue = Wintering only  Dark green = All-year}}
+
+The '''golden eagle''' (''Aquila chrysaetos'') is one of the best-known birds of prey in the northern hemisphere. It is the most widely distributed species of eagle. Golden eagles use their agility and speed combined with powerful feet and massive, sharp talons to snatch up prey. They eat hares, rabbits, marmots and other ground squirrels.
+
+Once common across the Holarctic, it has gone from many areas heavily populated by humans. The species is still widespread. It lives in Eurasia, North America, and parts of North Africa.
+
+Like all eagles, it belongs to the family Accipitridae. It is one of the largest birds of prey in North America; only the  California condor gets larger. Golden eagles also live in the Scottish Highlands.
+
+ Related pages 
+ goof eagle 
+golden eagle 
+ Eagle
+ Northern goshawk
+
+
+
+
+
+
+Category:Accipitriformes

@@ -1,0 +1,6 @@
+Image:Charon browser.png|thumb|250px|Charon
+'''Charon''' is a web browser for the Inferno (operating system)|Inferno operating system.
+
+
+
+Category:Web browsers

@@ -1,0 +1,16 @@
+
+
+'''Fluxbuntu''' 
+
+Image:Fluxbuntu-7.10-BootLoader.png|Fluxbuntu Login Window
+Image:Fluxbuntu-7.10 using Abiword.png|Fluxbuntu using Abiword
+
+
+Related pages
+ Ubuntu
+ LiveDistro
+
+ Other websites 
+
+Category:Linux distributions
+Category:Live CD

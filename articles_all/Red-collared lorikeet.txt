@@ -1,0 +1,34 @@
+{{Taxobox
+| name = Rainbow lorikeet
+| status = LC | status_system = IUCN3.1
+| status_ref =  Database entry includes justification for why this species is of least concern
+| image = Trichoglossus haematodus rubritorquis -aviary-8a.jpg
+| image_width = 220px
+| image_caption = Red-collared lorikeets of the olive mutation, which is overall far duller than the "natural" form
+| regnum = Animalia
+| classis = Aves
+| ordo = Psittaciformes
+| familia = true parrots|Psittacidae
+| subfamilia = Lories and lorikeets|Loriinae
+| genus = ''Trichoglossus''
+| binomial = ''Trichoglossus rubritorquis''
+| binomial_authority = (Carolus Linnaeus|Linnaeus, 1771)}}
+
+
+The '''red-collared lorikeet''' (''Trichoglossus rubritorquis'') is a species of Lories and lorikeets|lorikeet. It was a subspecies of the rainbow lorikeet, but now they are regarded as separate species. The bird is found living in northern Australia.
+
+ Habitat 
+The red-collared lorikeet is found in Northern Australia, as far west as Broome, Western Australia, right through the Kimberley region, across the top of the Northern Territory to the bottom of the Cape York Peninsula.
+
+ Description 
+It is about  long with brightly colored feathers. It is the largest of the Australian lorikeets. The head and the face are blue, and it has an orange to red chest which narrows to a thin colored band around the neck, like a collar. Its wings and tail are green, with some yellow tips on the feathers. The feathers on its abdomen are dark blue to black. It has a red beak, and grey to brown legs and feet. The female is the same as the male but smaller. They can live up to 15 years.
+
+How they live
+The bird is nomadic and moves about in large flocks. They feed on eucalyptus flowers, as well as nectar from other flowering plants such as grevilleas, and seeds from grass trees. It is described as being a restless and noisy bird, making a shrill shrieking noise when flying. 
+
+Breeding
+It builds nests in hollows in eucalyptus trees, usually near a creek. They lay two dull white eggs in the breeding season from August and January or March to June or May to December.
+
+Other websites
+ 
+Category:Lorikeets

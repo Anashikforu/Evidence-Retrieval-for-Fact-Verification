@@ -1,0 +1,34 @@
+'''Material''' is what everything that you can touch is made of. Even material that is too small to touch, is called material. We use materials to make things. We can also call material "physical substances."
+
+''Raw'' material is materials such as ores which we can clean and mix with other materials to make another material like steel, for example. Cotton is a raw material used to make textiles, which are materials to make clothes.
+
+Some important materials
+
+ Metals
+ Steel
+ Aluminum
+ Copper
+ Gold
+ Polymers
+ Rubber
+ Plastic
+ Ceramics
+ Glass
+ Cement
+ Stone
+ Textiles
+ Cotton fabric
+ Wool fabric
+ organic materials
+ Leather
+ Bone
+ Paper
+ Lumber/wood
+ Glue
+ Composites
+ Fiberglass
+ Concrete
+
+
+
+Category:Materials| 

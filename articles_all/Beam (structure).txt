@@ -1,0 +1,13 @@
+
+
+
+A '''beam''' is a structural  :wikt:element|element that carries structural load.  
+
+Beams generally carry wikt:vertical|vertical Force (physics)|forces, but can also be used to carry horizontal loads (Those loads can result from wind or an earthquake).  The loads that a beam carries are led to columns or walls, which lead the force to the next element.
+
+Beams are characterized by their wikt:profile|profile (their shape), their length, and their material.  In constructions of today beams are mostly made of steel, reinforced concrete, or wood.
+
+
+
+
+Category:Architectural elements

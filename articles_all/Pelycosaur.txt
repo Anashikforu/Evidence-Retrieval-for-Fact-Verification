@@ -1,0 +1,46 @@
+{{Taxobox
+| name = Pelycosaurs
+| fossil_range = Pennsylvanian|Upper Carboniferous – Upper Permian
+| image = Dimetrodon.jpg
+| image_width = 250px
+| image_caption = ''Dimetrodon grandis'' skeleton at the  National Museum of Natural History
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| superclassis = Tetrapoda
+| classis = Synapsida
+| ordo = '''Pelycosauria''' Paraphyletic|
+| ordo_authority = Edward Drinker Cope|Cope, 1878
+| subdivision_ranks = Order (biology)|Suborders
+| subdivision = 
+Caseasauria
+Eupelycosauria}}
+
+'''Pelycosaurs''' (meaning "basin lizards") were the earliest synapsids. They were not dinosaurs or reptiles. They are an informal group, meaning all synapsids except the therapsids and their descendants.
+
+These tetrapods appeared during the Pennsylvanian and went extinct at the end of the Permian period. They were the dominant land animals for some 40 million years, and were almost wiped out by the P/Tr extinction event. A few survived until the lower Triassic to form the therapsids, a group which led to the mammals. Because the term does not include their descendants, it is not used much now. Botha-Brink J. and Modesto S.P. 2007. A mixed-age classed ‘pelycosaur’ aggregation from South Africa: earliest evidence of parental care in amniotes? ''Proceedings of the Royal Society B'', '''274'''(1627): 2829–2834. 
+ Characteristics 
+Pelycosaur fossils have been found mainly in Europe and North America, although some small, late-surviving forms are known from Russia and South Africa.
+
+At least two pelycosaur clades independently evolved a tall sail, consisting of elongated vertebral spines: the Edaphosauridae|edaphosaurids and the Sphenacodontidae|sphenacodontids. In life, this would have been covered by skin, and possibly functioned as a thermoregulation|thermoregulatory device and/or a mating display. 
+
+Unlike lepidosaurian reptiles, pelycosaurs lacked epidermal Scale (zoology)|scales. Fossil evidence from some ophiacodonts shows that parts of the skin was naked, but that the belly was covered in dermal scutes. These scutes looked like the scutes present in reptile groups, but they are of a different type of structure.Carroll R.L. 1969. Problems of the origin of reptiles. ''Biological Reviews'', '''44''': 393-432. 
+
+In 1940 the group was reviewed in detail and every species known at the time described (and many illustrated) in an important monograph.Romer A.S. & Price L.I 1940. Review of the Pelycosauria. ''Geol. Soc. Amer. Spec. Papers'' '''28''': 1-538.
+
+Well-known pelycosaurs include the Genus|genera ''Dimetrodon'', ''Sphenacodon'', ''Edaphosaurus'', and ''Ophiacodon''.
+
+ Taxonomy 
+ '''Order †Pelycosauria'''Paraphyletic|
+ '''Suborder †Caseasauria'''
+ Family †Caseidae
+ Family †Eothyrididae
+ '''Suborder †Eupelycosauria'''
+ Family †Edaphosauridae
+ Family †HaplodontidaeParaphyletic|
+ Family †Lupeosauridae
+ Family †Ophiacodontidae
+ Family †Sphenacodontidae
+ Family †Varanopseidae
+ '''Order †TherapsidaParaphyletic|'''
+
+Category:Fossils

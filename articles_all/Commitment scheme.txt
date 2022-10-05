@@ -1,0 +1,3 @@
+In cryptography, a '''commitment scheme''' is a way for a someone to tell something to someone without letting other people know.Oded Goldreich (2001). Foundations of Cryptography: Volume 1, Basic Tools, (draft available from author's site). Cambridge University Press. . (see also 
+This is done by using a one-way function to change a String (computer science)|string into a Hash function|hash. This is called the ''commit phase''. Later, if someone needs to prove that they were the one who made the commitment, then they can tell people the original string they used. This is called the ''reveal phase''.
+

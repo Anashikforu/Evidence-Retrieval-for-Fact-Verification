@@ -1,0 +1,18 @@
+{{Taxobox
+| name = Tibetan dwarf hamster
+| status = LR/lc 
+| status_system = iucn2.3
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Cricetidae
+| genus = ''Cricetulus''
+| binomial = ''Cricetulus alticola''}}
+
+The '''Tibetan dwarf hamster''' (''Cricetulus alticola'') is a species of rodent in the Cricetidae family. It is found in China, India, and Nepal.
+
+
+
+
+
+category:Hamsters

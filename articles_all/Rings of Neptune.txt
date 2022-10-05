@@ -1,0 +1,53 @@
+
+
+
+The '''Neptune (planet)|planet Neptune''' has a dim '''planetary ring system''' which is made up of several separate rings and some "ring arcs". The "rings arcs" are part of the outer ring called the Adams ring and are not to be seen anywhere else. The ring ''particles'' (small parts) are unusually dark colored, and have large amounts of microscopic dust. Neptune has thirteen known moons. Four of them orbit the planet inside the outermost rings.
+
+ Discovery and observations 
+The rings around Neptune could not be seen from Earth with strong telescopes. The evidence that they were there was first seen when scientists were watching the planet as it passed between the Earth and a star. (When this happens, the light of the star is blocked. This is called "stellar occulation".) Scientists watched this happen 50 times, and on five of those times in the early 1980s they saw the star give a little "blink" just before or after the planet covered it. This meant that rings around the planet were blocking the light, but the rings were not complete.
+
+In 1989 the unmanned spacecraft ''Voyager 2'' flew by Neptune. ''Voyager 2'' sent back pictures that gave most of the information that scientists now have about the rings of Neptune. The pictures also help scientists to know why the rings looked incomplete. Not only did the pictures give a closer view, but they also showed the rings in a way that cannot ever be seen from earth. From earth the rings are always seen with the light of the sun shining ''towards'' them. When the spacecraft went past the planet, it took pictures with the sun shining ''behind'' the rings, as well. Big ''particles'' in the rings looked dark against the sunlight, but all tiny dust ''particles'' (microscopic dust) shone brightly when the sun was behind it. This allowed the scientists to work out what the rings were made of, and how all the particles were arranged.
+
+As better types of telescopes have been developed, scientists can now see some of the rings from earth. The brightness of Neptune makes it hard to see the rings, which are much dimmer and the faintest rings still cannot be seen, even with vey powerful telescopes.
+
+ Adams ring and the Ring Arcs 
+
+
+The most famous of Neptune's rings is the thin outer '''Adams ring''', although by comparison with the rings of the planets Saturn (planet)|Saturn or Uranus (planet)|Uranus, it is very hard to see. It was originally named as ''1989 N1R''. The reason that the Adams ring is famous is that it has a feature that has not been seen on any other planetary rings. These are three long narrow ''"arcs"'' which are much brighter and look more solid than the rest of the ring system. Each one spans from 4-10° of the whole ring. All the arcs are close to each other, spanning under 40° of longitude, only about 1/8th of the edge of the ring. It has been a puzzle to understand why the stuff in these arcs does not spread out evenly through the whole ring.
+
+The three arcs have been named with French names ''Liberté'', ''Égalité'', and ''Fraternité''. These names came from the famous saying of the French Revolution, which translates into English as "Liberty, Equality and Brotherhood!".  These names were suggested by the scientists who discovered them during ''stellar occultations'' in 1984 and 1985.
+
+Four of Neptune's 13 moons are inside the ring system. The one that is nearest to the Adam's ring is called Galatea (moon)|Galatea. It is a lumpy mass of rock that orbits around the planet at about the same speed as the planet is rotating. It is about 1000 kilometers inside the ring.
+
+Many scientists now think that it is the effect of the moon Galatea that is causing the three arcs in the Adam's ring.
+
+The best photos that came back from Voyager 2 showed that there are clumps of particles in the rings, but no-one can tell whether they are made of fine dust, or if there may be bigger particles in the clumps as well. All of Neptune's rings have a lot of ''microscopic dust'' but particularly the arcs of the Adam's ring. Scientists know this because they looked very bright in the photos that Voyager 2 took with the sun shining behind them.
+ There is much more dust in the rings of Neptune than there is in the rings of Saturn.
+
+The Adams ring is very red. The background particles that make up the ring look twice as bright near the three arcs as they do on the side of the ring that is opposite the arcs.
+
+= Arc dynamics =
+With the arrival of the Hubble Space Telescope and adaptive optics ground-based telescopes the ring arcs have been re-examined several times, starting in July 1998.
+
+
+  This has showed that they are amazingly active, changing a lot over only a few years: Fraternité and Égalité have been exchanging material and changing their lengths noticeably. Even more dramatically, Liberté appears to be fading away, being only 30% of its original 1989 brightness in 2003, and hardly visible in Hubble Space Telescope images from June 2005. In the meantime, it seems to have gotten a split two-humped profile, and wandered several degrees closer to the more stable Égalité. Courage, a very small and dim arc during the Voyager flyby, was seen to flare in brightness in 1998, while more recently it was back to its usual dimness but had advanced by an additional 8° ahead of the other arcs. That is, it appears to have jumped over to the next stable corotation resonance position. There were also some suggestions that the ring arcs may have been normally fading away.  However, visible light observations show that the total amount of material in the arcs has remained approximately steady, but they are dimmer in the infra-red where previous observations were taken.  This activity of the ring arcs is not currently understood.
+
+ Inner rings 
+In addition to the outer Adams Ring, the other ring arrangements in the direction of Neptune (planet)|Neptune's surface are:
+
+ An ''unnamed'', unclear, clumpy ring of dust in the orbit of Galatea.
+ The large '''Lassell Ring''' (1989 N4R), is a thin sheet extending for 4000&nbsp;km inwards of about 59,200&nbsp;km radius. It is dusty but less than some of the other rings, being comparable in this situation to the continuous piece of the Adams ring. There is a brightness enhencement on its outer edge which has been called the '''Arago Ring''' (1989 N5R), and the Lassell Ring's inner edge abuts the LeVerrier Ring. The narrow '''LeVerrier ring''' (1989 N2R) is the second most famous of Neptune's rings, and lies just outside the orbit of the moon Despina (moon)|Despina by about 700&nbsp;km. It is very dusty, and very similar to the ring arcs.
+ The innermost '''Galle Ring''' (1989 N3R) is very small and not well known. It lies deep inside the orbit of the innermost of Neptune's moons, Naiad (moon)|Naiad. The Galle Ring is very dusty similarly to the ring arcs.
+
+Voyager pictures appear to also suggest a wide disc of scattered material extending inside of the 50,000&nbsp;km radius which surrounds the Galle ring, but is difficult to tell apart from Neptune's brightness, and for this reason its existence is uncertain.
+
+ List of rings 
+
+
+
+
+The rings are named after astronomers who made important discoveries to the study of Neptune.
+
+Four of Neptune's moons: Naiad (moon)|Naiad, Thalassa (moon)|Thalassa, Despina (moon)|Despina, and Galatea (moon)|Galatea orbit inside the ring system.
+
+nl:Neptunus (planeet)#Manen en ringen rondom Neptunus

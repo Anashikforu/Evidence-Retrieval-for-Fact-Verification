@@ -1,0 +1,21 @@
+
+{{Taxobox
+| name = Bottletree
+| image = Brachychiton 10.jpg
+| image_caption = branch with flower and fruits
+| regnum = Plantae
+| divisio = Magnoliophyta
+| classis = Magnoliopsida
+| ordo = Malvales
+| familia = Sterculiaceae
+| genus = '''''Brachychiton'''''}}
+
+'''''Brachychiton''''' (also known as the '''bottletree''' or '''kurrajong''') is a genus of 31 species of trees and large shrubs. They grow naturally in Australia and New Guinea. Fossils from New South Wales and New Zealand are believed to be 50 million years old. The name ''Brachychiton'' is comes from the Greek language|Greek ''brachys'', meaning "short", and ''chiton'', meaning "tunic". This refers to its loose seed coverings.
+
+They grow to 4–30metre|m tall. All species have separate male and female flowers on the same plant. The female flowers have five separate carpels that can each form a woody fruit that has several seeds.
+
+
+
+
+Category:Sterculiaceae
+Category:Trees

@@ -1,0 +1,186 @@
+
+'''Boulder''' is a city in the U.S. State|state of Colorado, in the United States. It is the county seat northwest of Denver. In 2011, there were 98,889 people living the City of Boulder.
+
+Boulder is famous for its history and its American Old West|Western wikt:tradition|traditions. In the late 1960s, lots of hippies moved to Boulder. The main campus of the University of Colorado, the University of Colorado at Boulder, is also here. CU Boulder is the biggest university in Colorado. The city is thought to be one of the best cities for health, well-being, quality of life, education, and art.
+
+History
+
+On November 7, 1861, the government decided to build a university in Boulder. The Legislative branch|legislature decided that the university would be run by the state. The first building was built in 1875. The cornerstone for the Old Main Building was laid on September 20, 1875. The university was officially opened on September 5, 1877.
+
+In 1907, the city of Boulder passed an anti-Western saloon|saloon ordinance. This law said that saloons and Bar (business)|bars could not do business in the city, and that people could not drink alcohol.
+
+Demographics
+
+
+The 2010 United States Census said there are 94,673 people living in the City of Boulder. These people make up 16,788 families and 39,596 households. In December 2009, the U.S. Census Bureau estimated that the population of Boulder was 98,889 people.
+
+Geography
+
+The City of Boulder is in Boulder Valley. This is a place where the Rocky Mountain meet the Great Plains. To the West of the city are some rock formations called the Flatirons. These are large flat pieces of sedimentary stone that are tilted up on the foothills. The Flatirons are famous as a symbol of Boulder.
+
+Boulder Creek (Colorado)|Boulder Creek wikt:flow|flows through the City. Boulder Creek was named a long time before the city was built. It was named after the big granite boulders that have fallen into the creek over the years. Historians think that Boulder City was named after Boulder Creek. The water in Boulder Creek comes from melting mountain snow and small rivers West of the city. Boulder Creek is a tributary of the South Platte River.
+
+Boulder covers  (3.94%) of water.
+
+The 40th parallel north|40th parallel (40 degrees north latitude) runs through Boulder. Baseline Road (Colorado)|Baseline Road runs along the parallel today.
+
+Flagstaff Mountain, Boulder, Colorado|Flagstaff Mountain overlooks Boulder. The city is a few miles east of the Continental Divide and about  southeast of Boulder."
+=Climate=
+
+
+
+Boulder has a dry climate. (Much of Colorado is dry.) It has many sunny or mostly sunny days every year. According to the Köppen climate classification, the city's climate is "semi-arid" (Köppen ''BSk''). Winters are cool, but sometimes can get very cold. During the winter, the high temperature is usually in the mid- to upper- 40sFahrenheit|°F (7–9 Celcius|°C). The low temperature in winter can be below −10 °F (−23 °C) on a few nights. Usually it does not stay below 0 °F (−18 °C) for many days at a time. 
+
+Even though it is cold in the winter, Boulder does not get as much snow as the mountains. This is because of something called orographic lift. This means that the mountains in the west dry out the air as it passes over the Front Range. By the time the air gets to Boulder, most of the water and snow has been removed. Sometimes there are heavy snow storms, but not too often. The average amount of snow in Boulder is  per season, total. Usually only a few inches fall at a time. Because Boulder is so high up, the sun is very strong and hot, so the snow melts quickly. Sometimes Chinook Winds will make the temperature go up quickly and have the snow melt even faster.
+
+Summer in Boulder is hot and dry. Usually there are 27 days during the summer that reach .
+
+{{Weather box|location = Boulder, Colorado
+|single line = Y
+|Jan high F = 45.7
+|Feb high F = 49.1
+|Mar high F = 55.8
+|Apr high F = 62.7
+|May high F = 71.7
+|Jun high F = 82.2
+|Jul high F = 87.2
+|Aug high F = 85.0
+|Sep high F = 77.4
+|Oct high F = 66.7
+|Nov high F = 52.6
+|Dec high F = 46.1
+|year high F = 65.2
+|Jan low F = 19.2
+|Feb low F = 22.5
+|Mar low F = 27.7
+|Apr low F = 33.9
+|May low F = 42.0
+|Jun low F = 50.5
+|Jul low F = 55.9
+|Aug low F = 55.0
+|Sep low F = 46.8
+|Oct low F = 37.1
+|Nov low F = 26.8
+|Dec low F = 20.6
+|year low F = 36.5
+|Jan record high F =  73
+|Feb record high F =  79
+|Mar record high F =  80
+|Apr record high F =  88
+|May record high F =  95
+|Jun record high F = 104
+|Jul record high F = 104
+|Aug record high F = 101
+|Sep record high F = 100
+|Oct record high F =  90
+|Nov record high F =  79
+|Dec record high F =  76
+|year record high F = 104
+|Jan record low F = −22
+|Feb record low F = −24
+|Mar record low F =  −6
+|Apr record low F =  −3
+|May record low F =  22
+|Jun record low F =  30
+|Jul record low F =  42
+|Aug record low F =  40
+|Sep record low F =  15
+|Oct record low F =   5
+|Nov record low F =  −8
+|Dec record low F = −24
+|year record low F = −24
+|Jan low C = −7.1
+|Feb low C = −5.3
+|Mar low C = −2.4
+|Nov low C = −2.9
+|Dec low C = −6.3
+|Jan record low C = −30
+|Feb record low C = −31
+|Mar record low C = −21
+|Apr record low C = −19
+|May record low C =  −5.6
+|Jun record low C =  −1.1
+|Sep record low C =  −9.4
+|Oct record low C = −15
+|Nov record low C = −22
+|Dec record low C = −31
+|year record low C = −31
+|precipitation colour = green
+|Jan precipitation inch =  .70
+|Feb precipitation inch =  .75
+|Mar precipitation inch = 1.78
+|Apr precipitation inch = 2.88
+|May precipitation inch = 3.05
+|Jun precipitation inch = 1.99
+|Jul precipitation inch = 1.88
+|Aug precipitation inch = 1.63
+|Sep precipitation inch = 1.79
+|Oct precipitation inch = 1.28
+|Nov precipitation inch = 1.42
+|Dec precipitation inch =  .78
+|Jan snow inch = 11.5
+|Feb snow inch = 10.1
+|Mar snow inch = 15.3
+|Apr snow inch = 12.6
+|May snow inch =  1.1
+|Jun snow inch = trace
+|Jul snow inch =    0
+|Aug snow inch =    0
+|Sep snow inch =  2.0
+|Oct snow inch =  4.6
+|Nov snow inch = 16.1
+|Dec snow inch = 11.4
+|year snow inch = 84.7
+|unit precipitation days = 0.01 in
+|Jan precipitation days =  4.7
+|Feb precipitation days =  5.7
+|Mar precipitation days =  7.5
+|Apr precipitation days =  9.5
+|May precipitation days = 12.1
+|Jun precipitation days =  9.5
+|Jul precipitation days = 11.5
+|Aug precipitation days = 10.3
+|Sep precipitation days =  8.2
+|Oct precipitation days =  6.4
+|Nov precipitation days =  5.5
+|Dec precipitation days =  5.6
+|unit snow days = 0.1 in
+|Jan snow days = 4.6
+|Feb snow days = 5.3
+|Mar snow days = 5.8
+|Apr snow days = 3.9
+|May snow days =  .3
+|Jun snow days =   0
+|Jul snow days =   0
+|Aug snow days =   0
+|Sep snow days =  .6
+|Oct snow days = 1.5
+|Nov snow days = 4.7
+|Dec snow days = 5.0
+|source 1 = NOAA (normals, 1971–2000)
+|source 2 = Weather.com (extremes)
+|date=March 2011}}
+
+Politics and government
+Boulder is a Home Rule Municipality. In Colorado, this means that Boulder's government was formed according to three different legal documents. These documents are: Article XX of the Constitution of the State of Colorado; Title 31, Article 1, Section 202 of the Colorado Revised Statutes; and Boulder's own Home Rule Charter. 
+
+Boulder is very liberal and very Democratic Party (United States)|Democratic. , registered voters in Boulder County, Colorado|Boulder County were 41% Democratic Party (United States)|Democrat, 20% Republican Party (United States)|Republican, 1% other parties, and 38% unaffiliated (not any specific party.) Boulder county includes the conservative suburbs of Boulder City. Boulder is sometimes called the "People's Republic of Boulder" or "25 square miles surrounded by reality." This is a lot like nicknames given to other liberal cities that have more conservative areas surrounding them, like Columbia, Missouri, Madison, Wisconsin, and Austin, Texas.
+
+Boulder was the first city in Colorado to pass a law that made it illegal to discrimination|discriminate against people because of their sexual orientation. This law was passed by the Boulder City Council in 1974. The law was repealed (cancelled) by the voters that same year. In 1975, Boulder became the second city to ever grant a same-sex marriage license. The license was given by Boulder County Clerk Clela Rorex. Soon after a law was passed that said that marriage licenses could not be given to people of the same gender. In 1987, the people of Boulder voted again to make it illegal to discriminate against people because of their sexual orientation. This was passed by popular vote. Boulder became the first city in the United States that had this kind of a law that was passed by a direct vote of the people.
+
+Sister cities
+Boulder has seven official sister cities:
+  Dushanbe, Tajikistan (May 8, 1987)
+  Jalapa, Nueva Segovia|Jalapa, Nicaragua
+  Lhasa, Tibet, China (1987)
+  Ciudad Mante, Mexico
+  Yamagata, Yamagata|Yamagata, Japan (1994)
+  Yateras, Cuba
+  Kisumu, Kenya
+
+There are several wikt:landmark|landmarks in Boulder in honor of the sister cities. The Sister City Plaza was dedicated in May 17, 2007. It is on the east lawn of Boulder's Municipal Building. The plaza was built in honor of Boulder's relationships with its sister cities.
+ Sources 
+
+
+Category:Boulder, Colorado| 
+Category:County seats in Colorado

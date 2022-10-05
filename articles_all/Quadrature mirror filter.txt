@@ -1,0 +1,32 @@
+Image:QMF.svg|520px|thumb|Bank of QMFs
+The '''quadrature mirror filters''' (QMF) are two filters with frequency characteristics symmetric about 1/4 of sampling frequency (i.e. \pi/2). They are used especially in process of orthogonal discrete wavelet transform design.
+
+ Simple variant 
+In notation of Z-transform, we can create the quadrature mirror filter H_1(z) to (original) filter H_0(z) by substitution z with -z in the transfer function of H_0(z).
+: H_1(z) = H_0(-z)\,
+
+By doing it, the transfer characteristic of H_1(z) is shifted to H_0(z) by \pi.
+: | H_1(e^{j\omega}) | = | H_0(e^{j(\pi-\omega)}) |\,
+
+Impulse characteristic is therefore
+: h_1n = (-1)^n h_0n\, for 0 \leq n , where N is filter length.
+
+According to the picture above, the signal processing|signal split and passed into these filters can be downsampled by a factor of two. Nevertheless, original signal can be still reconstructed by using reconstruction filters G_0(z) and G_1(z). Reconstruction filters are given by time reversal analysis filters.
+: G_0(z) = H_0(z^{-1})\,
+: G_1(z) = H_1(z^{-1})\,
+
+ Orthogonal filter banks 
+For orthogonal discrete wavelet transform H_1(z) is given by
+: H_1(z) = z^{-N} H_0(-z^{-1})\,, where N is filter length.
+
+Impulse characteristic is
+: h_1n = (-1)^n h_0N-1-n\, for 0 \leq n .
+
+Reconstruction filters are still given by same equations.
+: G_0(z) = H_0(z^{-1})\,
+: G_1(z) = H_1(z^{-1})\,
+
+
+
+Category:Digital signal processing
+Category:Computer science

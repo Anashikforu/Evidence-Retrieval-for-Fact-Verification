@@ -1,0 +1,30 @@
+'''Search engine optimization''' '''(SEO)''' is the process of making websites appear as a top result when someone searches for a specific term.
+
+ On-page SEO 
+On-page SEO, or commonly termed as “on-site SEO,” refers to the practice of optimizing web pages and content for the users and search engines to boost ranking and generate website traffic. In other words, it refers to the elements and attributes inside of a website, such as content, HTML, system, CSS, and internal links.
+
+On-page SEO is still a predominant strategy practiced by web owners and web development agencies because of its essence in ranking website through content and boost online visibility through keywords in which Google uses to index websites and rank accordingly. In fact, Google’s own “How Search Works” reported that, “The most basic signal that information is relevant is when a web page contains the same keyword as the search query. If those keywords appear on the page, or if they appear in the headings or body of the text, the information is more likely to be relevant.”
+
+ Off-page SEO 
+Off-page SEO refers to the elements and attributes outside of a website that increases online engagement and vital in attracting potential customers. It focuses mainly on link building strategy, social media integration, and local SEO.
+
+Off-page is the complete opposite of on-page SEO, but it also has the same level of relevance - one cannot work without the other. It’s one of the best ways to provide a relevant result to the users and earn back links from another website to boost credibility. Since the focus of off-page SEO is the outside activities of a website, it’s expected that one’s ranking will increase as well as the page rank. It also utilizes the presence of social media platforms that can effectively increase engagement and exposure that is a great way to establish brand awareness and trustworthiness.
+
+ Technical SEO 
+Technical SEO refers to the non-content elements of your elements on you site. This applies to elements that affect the optimization and proper operation of the website, such as Site speed, Mobile-friendliness, Crawlability. 
+
+Technical SEO is the primary strategy used by website development agencies. Correct and fast operation of the website is a key element that has a fundamental impact on the reception of the website.
+
+ Importance 
+SEO has become an important part of marketing campaigns run by businesses to find customers online because 65% of the people who search for something don't look beyond the 5th result of the search engine's results page.
+
+Search engine companies like Google, Yahoo!|Yahoo, Bing are careful to watch that Spamming|spam does not affect their search engine results pages by adding filters such as Google's PageRank. These filters are known as Algorithm|algorithms.
+
+Most people do not need to pay for search engine optimization services because usually a website is supposed to show up on the search engines over time anyway. But some online shopping websites may want to show up sooner, and so they pay for search engine optimization from companies that provide it.
+
+ White hat and black hat techniques 
+When someone uses a method approved by search engines to rank their website, it is called a "white hat technique". If the method is not approved it is called a "black hat technique". Search engines may Punishment|penalize the sites using black hat techniques by not showing them on search results.
+
+ Other websites 
+  
+Category:Internet

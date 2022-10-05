@@ -1,0 +1,45 @@
+
+
+'''Kanotix''', also referred to as '''KANOTIX''', is a Linux distribution Live CD (LiveDistro) based on Debian (until 2006 ''unstable'', in 2007 KANOTIX moved to Debian Etch) with advanced hardware detection.
+Kanotix uses KDE as the default desktop environment. GNOME and other window managers can be downloaded using Advanced Packaging Tool|APT.
+
+The name "Kanotix" is derived from the founder's nickname "Kano". Kanotix's mascot is a fangtooth.
+
+Content
+Kanotix is based on Debian stable (currently "Etch"). It contains a lot of backports.
+Kanotix includes about 1,200 software packages:
+
+ KDE, the default desktop environment, including the Konqueror, IceWM, Beryl (allows access to a 3D desktop environment)
+ Amarok, Video Disk Recorder
+ Beryl (window manager)
+ Internet access software, including the KPPP dialer, ISDN utilities and WLAN-NdisWrapper
+ Iceweasel-web browser,  IceDove Mail/News Client, Pidgin instant messenger
+ K3b, for CD (and DVD) authoring and backup
+ The GIMP, an image manipulation program
+ Gparted and other tools for data rescue and system repair
+ Network analysis and administration tools
+ LibreOffice, an office suite
+ Programming and development tools
+ NTFS-3G used by default
+
+=Installation=
+Kanotix can be installed to the hard disk using the (graphical) 
+Versions
+=History=
+In 2003 Jörg Schirottke was known with the nickname "Kano" in the former Knoppix-Forum (no more available). The distribution derived from ''The first "Kanotix"-preview was released at 24 December 2003 "KANOTIX XMAS 2003 PREVIEW".
+In 2004 and 2005 KANOTIX was a popular distribution ranking in the "top 20" of "distrowatch.com".In October 2006 the main Kanotix co-developer (and most of Kanotix's other developers) left the project, to start sidux, another distribution based on Debian#Development versions|Debian sid. The last Kanotix release based on Debian Sid was 2006-01-RC4.
+
+=Current Releases=
+
+
+
+
+
+Other websites
+
+  
+Category:Knoppix
+Category:Linux distributions
+Category:Live CD
+Category:X86-64 Linux distributions
+Category:Debian-based Linux distributions

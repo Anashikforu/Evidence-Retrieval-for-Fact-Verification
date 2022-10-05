@@ -1,0 +1,29 @@
+{{Taxobox
+| name = Antilopine kangaroo 
+| status = LR/lc
+| status_system = iucn2.3
+| status_ref = 
+| image = Kangourou antilope.jpg
+| image_caption = Antilopine kangaroo
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Mammalia
+| infraclassis = Marsupialia
+| ordo = Diprotodontia
+| familia = Macropodidae
+| genus = ''Macropus''
+| binomial = ''Macropus antilopinus''
+| binomial_authority = (John Gould|Gould, 1842)}}
+
+The '''antilopine kangaroo''' (''Macropus antilopinus''), also called the '''antilopine wallaroo''' or the '''antilopine wallaby''', is a large macropod that lives only in the tropical areas of northern Australia.
+Image:Antilopine wallaroo map.png|thumb| 300px|left|Pink areas show where Antilopine Kangaroos live.
+
+The male is a red colour and females are grey. The males can get as big as 70 kilograms|kg, but the females are usually around 30 kilograms|kg.{{Citation
+  | title = The Kangaroo Trail Fact Sheet
+  | year = 2007
+  | url =   | access-date = July 20, 2008 }}
+ It is slightly smaller than the red kangaroo (''Macropus rufus'') and the eastern grey kangaroo (''Macropus giganteus''). Babies are born in the summer (February-March), and leave the mother's pouch in Novemember, at the start of the wet season
+
+Climate change could mean that this kangaroo could become extinct in the future.
+
+Category:Marsupials of Australia

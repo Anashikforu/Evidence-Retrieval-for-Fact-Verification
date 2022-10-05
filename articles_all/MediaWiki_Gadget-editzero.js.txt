@@ -1,0 +1,21 @@
+/ Edit section zero caption button /
+$( function() {
+   var x;
+   if (!(x = document.getElementById('ca-edit') )) return;
+   var url;
+   if (!(url = x.getElementsByTagName('a')0 )) return;
+   if (!(url = url.href )) return;
+   var y = mw.util.addPortletLink('p-cactions', url+"&section=0", '0', 'ca-edit-0',
+                          'Edit the lead section of this page', '0', x.nextSibling);
+   y.className = x.className;  // steal classes from the the edit tab...
+   x.className = 'istalk';     // ...and make the edit tab have no right margin
+   // exception: don't steal the "selected" class unless actually editing section 0:
+   if (/(^| )selected( |$)/.test(y.className)) {
+       if (!document.editform || !document.editform.wpSection
+           || document.editform.wpSection.value != "0") {
+           y.className = y.className.replace(/(^| )selected( |$)/g, "$1");
+           x.className += ' selected';
+       }
+   }
+   y.style.marginLeft = '6px';
+});

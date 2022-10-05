@@ -1,0 +1,48 @@
+
+
+
+|heat vaporization=38
+|heat vaporization comment=''(predicted)''
+|crystal structure=face-centred cubic
+|crystal structure comment=''(predicted)''
+|atomic radius=180
+|atomic radius comment=''(predicted)''
+|covalent radius=171–177
+|covalent radius comment=''(extrapolated)''
+|number of ionization energies=5
+|ionization energy 1=832.2
+|ionization energy 1 comment=''(predicted)''
+|ionization energy 2=1600
+|ionization energy 2 comment=''(predicted)''
+|ionization energy 3=3370
+|ionization energy 3 comment=''(predicted)''
+|CAS number=54085-16-4
+|magnetic susceptibility=
+|magnetic susceptibility ref=
+|isotopes=
+
+'''Flerovium''' is a synthetic chemical element also known as '''Mendeleev's predicted elements|eka-lead'''. It has the symbol '''Fl''' and has the atomic number 114. It is a Radioactive decay|radioactive superheavy element. 
+
+Flerovium does not exist in nature. It is made from a nuclear reaction between plutonium and calcium. The reaction that happens is a nuclear fusion|fusion reaction.
+
+ Uses 
+It currently has no use at the moment as it is being researched right now.
+
+ History 
+The discovery of Flerovium in December 1998 was reported in January 1999 by scientists at the Joint Institute for Nuclear Research in Dubna, Russia. and made it again in 2004 and 2006.
+
+In 2004 in the Joint Institute for Nuclear Research checked it was made by another method.  They found the final products of radioactive decay.
+
+After its discovery, the "new" element was named ''ununquadium''. The named changed on May 30th, 2012 to "flerovium". The International Union of Pure and Applied Chemistry named it so.
+
+ Chemical properties 
+Not enough Flerovium has been made to measure its physical property|physical or chemical property|chemical properties.  It is thought that it would be a soft, dense metal that tarnish|changes colour in air.  It may have a low melting point of about 200&nbsp;°C.
+
+ Making it 
+Flerovium can be made by bombardment|bombarding a plutonium-244 wikt:target|target with calcium-48 as a beam of ions.
+
+ 298Fl - An undiscovered neutron-rich nucleus 
+According to the nuclear shell model, the undiscovered neutron-rich nucleus 298Fl may be a doubly magic nucleus, atop the shell closure at N=184. It is predicted that this atom, amid the closed nuclear shells, expected to have longer half-lives for alpha decay and spontaneous fission. However using the fusion-evaporation method to produce this nuclide is impractical, since more neutron-rich starting materials with low proton numbers are unstable due to beta decay.
+
+Estimates for half-lives for this atom range from a few minutes to several billion years. 
+Category:Metals

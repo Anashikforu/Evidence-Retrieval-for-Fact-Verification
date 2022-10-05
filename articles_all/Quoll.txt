@@ -1,0 +1,31 @@
+{{Taxobox
+| name = Quoll
+| image = Dasyurus viverrinus.jpg
+| image_caption = Eastern Quoll (''Dasyurus viverrinus'')
+| regnum = Animalia
+| classis = Mammalia
+| infraclassis = Marsupialia
+| ordo = Dasyuromorphia
+| familia = Dasyuridae
+| subfamilia = Dasyurinae
+| tribus = Dasyurini
+| genus = '''''Dasyurus'''''
+| genus_authority = Étienne Geoffroy Saint-Hilaire|É. Geoffroy, 1796}}
+
+'''Quolls''' (genus '''''Dasyurus''''') are carnivorous|meat-eating marsupials native to Australia and Papua New Guinea. The name ''dasyurus'' means "hairy tail." Adults are between 25 and 75 cm long, with hairy tails about 20-35 cm long (about the size of a cat). Females have pouch to carry their babies.
+
+Quolls are threatened by eating toxic cane toad|cane toads, but a  University of Sydney project is teaching them not to eat them.
+
+The family Dasyurini to which quolls belong also  includes the Tasmanian devil, antechinuses, the kowari, and  mulgaras.
+
+ Quoll species 
+Within the genus ''Dasyurus'', the following species exist:
+ New Guinean quoll, ''Dasyurus albopunctatus'', New Guinea
+ Western quoll or Chuditch, ''Dasyurus geoffroii'', western Australia
+ Northern quoll, ''Dasyurus hallucatus'', northern Australia 
+ Tiger quoll or Spotted Quoll, ''Dasyurus maculatus'', eastern Australia 
+ Bronze quoll, ''Dasyurus spartacus'', New Guinea
+ Eastern quoll, ''Dasyurus viverrinus'', Tasmania (formerly mainland eastern Australia)
+
+There is at least one fossil species from the Pliocene, that is ''D.  dunmalli''.
+Category:Marsupials of Australia

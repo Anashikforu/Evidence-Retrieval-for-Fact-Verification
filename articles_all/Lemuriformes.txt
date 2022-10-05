@@ -1,0 +1,33 @@
+{{taxobox
+| name = Lemuriformes
+| authority = William King Gregory|Gregory, 1915
+| image = Extant Strepsirrhini.jpg
+| image_width = 225px
+| image_caption = A sample of lemuriform diversity. from top, left to right: ''Ring-tailed lemur|Lemur'', ''Sifaka|Propithecus'', ''Aye-aye|Daubentonia'', ''Ruffed lemur|Varecia'', ''Mouse lemur|Microcebus'', ''Slow loris|Nycticebus'', ''Slender loris|Loris'', ''Greater galago|Otolemur''.
+| subdivision_ranks = Taxonomic rank|Superfamilies
+| subdivision = Lemuroidea Lorisoidea
+| regnum= Animalia
+| classis = Mammalia
+| ordo = Primates
+| subordo = Strepsirrhini
+| infraordo = Lemuriformes}}
+
+
+
+'''Lemuriformes'''  are an order (biology)|infraorder of Primates. It combines the lemurs of Madagascar, with the galagos and lorises of Africa and Asia.
+
+The lorises and lemurs are a monophyletic clade.Szalay F.S. & Delson E. 1980. ''Evolutionary history of the primates''. Academic Press. 
+
+ Evolutionary history 
+Lemuriform origins are unclear and debated. The main problem is a lack of clear transitional fossils.Rose K.D. 2006. ''The beginning of the age of mammals''. Johns Hopkins University Press, p179–181. 
+
+Molecular clock estimates suggest that lemurs and the lorisoids diverged in Africa during the Paleocene, about 62&nbsp;mya.  Between 47 and 54&nbsp;mya, lemurs got to Madagascar by Oceanic dispersal|rafting.Vaughan T; Ryan J. & Czaplewski N. 2011. Chapter 12: Primates. In ''Mammalogy''. 5th ed, Jones & Bartlett Learning, 169–179. 
+
+In Africa, the lorises and galagos diverged during the Eocene, about 40&nbsp;mya. Unlike the lemurs in Madagascar, they have had to compete with monkeys and apes, as well as other mammals.
+
+ Adapiformes 
+Because the skeletons of adapiforms share strong similarities with those of lemurs and lorises, researchers have often referred to them as "primitive" strepsirrhines, lemur ancestors, or a sister group to the living strepsirrhines.  They are included in Strepsirrhini, and are considered basal members of the clade.Covert H.H. 2002. Chapter 3: The earliest fossil primates and the evolution of prosimians: Introduction. In Hartwig W.C (ed) ''The primate fossil record''. Cambridge University Press, p18. 
+
+Although their status as true primates is not questioned, their relationship with other primates in Strepsirrhini is unclear. Sometimes they are put in their own infraorder; sometimes they are sometimes reduced to families in the Lemuriformes.
+
+Category:Lemuriformes| 

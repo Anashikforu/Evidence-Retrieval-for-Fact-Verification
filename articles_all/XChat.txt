@@ -1,0 +1,8 @@
+
+
+'''XChat''' was a popular IRC client. It was open source, but its Windows port was shareware. It was replaced by HexChat in 2015.
+
+Related pages
+List of IRC clients
+
+Category:IRC clients

@@ -1,0 +1,22 @@
+A '''metalloid''' or '''semimetal''' is a chemical element. Metalloids are elements that have the properties of both metal and non-metal elements. It might be shiny, but brittle. It might be dull, but conducts electricity.
+
+The most common semimetal is silicon. Silicon has electrical wikt:conductivity|conductivity between metals and nonmetals. It is a semiconductor.
+
+
+
+
+An approximate way to classify metalloids is to look at the Periodic Table of elements. See the double diagonal line: top left Boron and Aluminium, bottom right Polonium and Astatine. Those diagonals are the metalloids. Some metalloids are not semimetals, and some semimetals are not metalloids.
+
+ Gallery 
+
+File:Antimony-119743.jpg|Antimony, a semimetal, can be found naturally in the earth.
+File:Arsenic.jpg|Arsenic is another semimetal that is very toxic.
+File:Tellurium bottle.jpg|Tellurium in a bottle. Tellurium sometimes is found naturally.
+File:Germanium'.jpg|Germanium in a tube. Germanium can be used to make semiconductors. Silicon is used more.
+File:Silicon.jpg|Silicon crystal. Silicon is used to make semiconductors.
+File:Boron'.jpg|Boron in a tube. Boron is very hard.
+
+
+
+
+Category:Semimetals

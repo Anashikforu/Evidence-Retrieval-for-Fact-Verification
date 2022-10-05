@@ -1,0 +1,10 @@
+
+| tracklength_km = 
+| gauge       = 
+| website     = | map_name    = Transport for London rail&nbsp;lines
+| map         = 
+| map_state   = collapsed
+}}
+The '''Waterloo & City line''', also nicknamed '''The Drain''', is a short underground railway line in London. It was opened on 11 July 1898. It has two stations, Waterloo station|Waterloo and Bank.
+
+Category:Tunnels underneath the River Thames

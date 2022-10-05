@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Cotton Mouse
+| image = Peromyscus gossypinus.jpg
+| status = LR/lc | status_system = iucn2.3
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Cricetidae
+| subfamilia = Neotominae
+| genus = ''Peromyscus''
+| species_group = ''Peromyscus leucopus species group|P. leucopus''
+| species = '''''P. gossypinus'''''
+| binomial = ''Peromyscus gossypinus''
+| binomial_authority = (Le Conte, 1850)
+| synonyms = }}
+The '''cotton mouse''' (''Peromyscus gossypinus'') is a species of rodent in the Cricetidae family.
+It is found only in the United States. This mouse is very close to extinction.
+
+Category:Mammals of North America

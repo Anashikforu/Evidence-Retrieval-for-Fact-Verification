@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Decapodiformes
+| image = squidu.jpg
+| image_width = 200px
+| image_caption = Juvenile cephalopod from planktonAntarctica
+| regnum = Animalia
+| phylum = Mollusca
+| classis = Cephalopoda
+| subclassis = Coleoidea
+| superordo = '''Decapodiformes'''}}
+
+'''Decapodiformes''' is a superorder of Cephalopoda. It includes cephalopods with ten feet. These are usually eight short arms and two long tentacles. Well-known members are cuttlefish, squid, and the extinct belemnites. 
+
+
+
+
+
+
+
+Category:Cephalopods

@@ -1,0 +1,30 @@
+{{Taxobox
+| name = Southern cassowary
+| image = Kasuaris.jpg
+| image_width = 250px
+| status_system = iucn3.1
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Struthioniformes
+| familia = Casuariidae
+| genus = ''Casuarius''
+| binomial = ''Casuarius casuarius''
+| binomial_authority = Carolus Linnaeus|Linnaeus, 1758
+| range_map = Casuariuas_casuarius_Distribution_map.jpg
+| range_map_width = 225px
+| range_map_caption = Distribution of the southern cassowary}}
+
+
+The '''southern cassowary''' (''Casuarius casuarius''), also known as '''double-wattled cassowary''' or '''two-wattled cassowary''', is a large flightless black bird with hard and stiff plumage, two dangling red wattles and a big bony lump on its head called a casque. It lives in tropical rainforest and feeds mostly on fallen fruit, red nape and two red wattles hanging down its throat.
+
+The big female lays up to five enormous glossy green eggs on the ground. She then leaves the male bird to sit on them and raise the stripey chicks. The cassowary is a very rare bird in Australia but also lives in New Guinea.
+
+
+
+
+
+
+
+category:Birds of Australia
+Category:Struthioniformes
+Category:Birds of Oceania

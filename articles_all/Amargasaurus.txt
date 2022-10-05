@@ -1,0 +1,26 @@
+
+{{taxobox
+| name = ''Amargasaurus''
+| fossil_range = Lower Cretaceous 130125 mya
+| image = Amargasaurus1 Melb Museum email.jpg
+| image_width = 250px
+| regnum = Animalia
+| classis = Sauropsida
+| superordo = Dinosauria
+| ordo = Saurischia
+| subordo = Sauropodomorpha
+| infraordo = Sauropoda
+| superfamilia = Diplodocoidea
+| familia = Dicraeosauridae
+| genus = '''''Amargasaurus'''''}}
+
+'''''Amargasaurus''''' was a sauropod from the early Cretaceous period. It grew to 10 meters (33 feet) length, which was relatively small for a sauropod. It was a quadrupedal herbivore with a long, low skull on the end of a long neck, much like its relative ''Dicraeosaurus''.
+
+''Amargasaurus'' was found in La Amarga (Province)|La Amarga, a canyon in  Neuquén Province, Argentina.
+
+ Features 
+''Amargasaurus'' had two tall rows of spines on top of its backbone along the neck and back.Novas, Fernando E. 2009. ''The age of dinosaurs in South America''. Bloomington: Indiana University Press.  The function of the spines is not known. They may have operated as a defence from theropod attack from above. Another idea is that they supported a sail-like structure.
+
+The neural spines were bifurcated along their entire length, forming a double row.
+
+Category:Cretaceous dinosaurs

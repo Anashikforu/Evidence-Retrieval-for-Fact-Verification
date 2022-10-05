@@ -1,0 +1,84 @@
+{{Taxobox
+| fossil_range = Jurassic  Recent
+| image = Tokay.jpg  
+| image_width = 250px
+| image_caption = The tokay gecko, From East Timor
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| superclassis = Tetrapod
+| classis = Reptile|Sauropsida
+| ordo = Squamata
+| subordo = '''Lacertilia'''
+| subordo_authority = Albert C.L.G. Günther|Günther, 1867
+| subdivision_ranks = Family (biology)|Families
+| subdivision = }}
+
+
+'''Lizards''' are reptiles. Together with snakes, they make up the Order (biology)|order Squamata.
+
+There are about 6,000 species, 
+Some kinds of lizard are: 
+ Basilisk
+ Tories 
+ Gecko
+ ''Iguana''
+ Monitor lizard
+ Frill-necked Lizard
+ ''Draco (genus)|Draco'', flying lizard
+ Slow-worm: a lizard without legs.
+
+ Simplified classification 
+'''Suborder Lasertiliae''' (Sauria) 
+ Infraorder Iguania: Iguanas, chameleons, Agamidae|agamas and relatives.
+ Infraorder Gekkota: Geckos, legless lizards, blind lizards.
+ Infraorder Scincomorpha: Skinks, wall lizards and relatives.
+ Infraorder Anguimorpha (Platynota, Varanoidea): Monitor lizards, Gila monsters, Anguis|Slow-worms and relatives.
+ † Family Mosasauridae: the dominant large Ocean|marine predators of the Upper Cretaceous.
+ Infraorder Amphisbaenia: legless burrowing worm lizards.
+
+= Alternative view =
+In the traditional taxonomy the Order Squamata is divided as follows:
+Order Squamata (the Scale (zoology)|scaled reptiles)
+ Suborder Serpentes (snakes)
+ Suborder Lacertilia (lizards)
+
+A modern view is that the snakes and lizards are all infraorders of the Squamata:Benton, Michael 1997. ''Vertebrate palaeontology''. Chapman & Hall, London.p238
+
+Order Squamata
+ Infraorder Serpentes
+ Infraorder Iguania
+ Infraorder Gekkota
+ Infraorder Scincomorpha 
+ Infraorder Anguimorpha (Platynota, Varanoidea)
+ Infraorder Amphisbaenia
+There are other versions, and the taxonomy will probably not settle until more molecular evidence is collected.
+
+ Natural history 
+= Anatomy =
+The skull structure of both snakes and lizards is distinctive. They can move their upper jaw relative to the braincase. They bear horny scales, and many use Toxin|venom for attack and defense.
+
+= Evolution =
+The Squamates are definitely a monophyletic group; they are a sister group to the Tuatara.  Judged by their fossil record, the Squamates were present in the Mesozoic, but occupied a minor place in the land ecology. Three of the six lines are recorded first in the Upper Jurassic, the others in the Cretaceous. Probably all (including snakes) arose earlier in the Jurassic. The Mosasaurs of the Upper Cretaceous were by far the most successful of all the lizards, becoming the top predator in their ecosystem.
+
+Although snakes and lizards look so different, neither are proper clades. Snakes did descend from early lizards, so both groups together do form a monophyletic clade, the Squamata. Within that clade there is another monophyletic clade, the Toxicofera. This includes all venomous reptile species, as well as many related non-venomous species. The evidence for this is in recent sequence analysis|molecular analyses.
+
+
+
+Pyron R.A; Burbrink F.T. and Wiens J.J. 2013. A phylogeny and revised classification of Squamata, including 4161 species of lizards and snakes. ''BMC evolutionary biology'' '''13''', (1) 93.Wiens, John J. ''et al'' 2012. Resolving the phylogeny of lizards and snakes (Squamata) with extensive sampling of genes and species. ''Biology letters'' '''8''', (6) 1043-1046.
+
+Physiology
+Image:Jackson's Chameleon 2 edit1.jpg|thumb|left|Feral Jackson's Chameleon from a population introduced to Hawaii in the 1970s
+
+Sight is very important for most lizards, both for locating prey and for communication. Many lizards have highly acute color vision. Most lizards rely heavily on body language, using specific postures, gestures and movements to define territory, resolve disputes, and entice mates. Some species of lizard also utilize bright colors, such as the iridescent patches on the belly of Sceloporus. These colors would be highly visible to predators, so are often hidden on the underside or between scales and only revealed when necessary.
+
+The ''dewlap'' is a brightly colored patch of skin on the throat, usually hidden between scales. When a display is needed, the lizards erect the hyoid bone of their throat, resulting in a large vertical flap of brightly colored skin beneath the head which can be then used for communication.
+
+ Images 
+
+Image:Coachella Valley Fringe-toed Lizard.JPG|Coachella Valley Fringe-toed Lizard, ''Uma inornata''
+Image:plumed.basilisk.750pix.jpg|Plumed Basilisk, ''Basiliscus plumifrons''
+Image:gila.monster.arp.jpg|Gila monster, ''Heloderma s. suspectum''
+Image:green.tree.monitor.lizard.arp.jpg|Green tree monitor lizard, ''Varanus prasinus''
+
+
+Category:Reptiles

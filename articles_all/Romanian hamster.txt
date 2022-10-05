@@ -1,0 +1,18 @@
+{{Taxobox
+| name = Romanian hamster
+| status = NT
+| status_system = iucn
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Cricetidae
+| genus = ''Mesocricetus''
+| binomial = ''Mesocricetus newtoni''}}
+
+The '''Romanian hamster''' (''Mesocricetus newtoni'') is a species of rodent in the Cricetidae family. It is found in Bulgaria and Romania.
+
+
+
+
+
+category:Hamsters

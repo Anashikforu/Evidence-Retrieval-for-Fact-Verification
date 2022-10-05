@@ -1,0 +1,23 @@
+{{Infobox Top level domain|
+name=.gu|
+background=#CCF|
+image= |
+introduced=1994|
+type=Country code top-level domain|
+status=Active|
+registry=Guam Network Information Center|
+sponsor=University of Guam|
+intendeduse=Entities connected with Guam|
+actualuse=Not very heavily used|
+restrictions=Must have a contact in Guam|
+structure=Registrations are accepted only at the third level beneath various second-level labels|
+document=|
+disputepolicy=|
+website=
+'''.gu''' is the Internet abbreviation of country (top-level domain) (country code top-level domain|ccTLD) for Guam.
+
+
+
+Category:Top-level domains
+
+

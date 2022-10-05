@@ -1,0 +1,10 @@
+
+The '''M40 motorway''' is a motorway between Denham, near London and Solihull near Birmingham in the United Kingdom. It was built in stages between 1967 and 1991 and is  long.
+
+Junctions
+
+
+
+Data from driver location signs are used to provide distance and carriageway identifier information.  Where a junction goes across several hundred metres, both start and end locations are given.
+
+Category:Motorways in England

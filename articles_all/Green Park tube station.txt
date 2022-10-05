@@ -1,0 +1,36 @@
+{{Infobox London station
+| name = Green Park 
+| image_name = green.park.underground.arp.750pix.jpg
+| manager = London Underground 
+| fare_zone = 1 
+| locale = Piccadilly 
+| borough = City of Westminster|Westminster 
+| years1 =190619691979 
+| events1 =Opened (GNP&BR)Opened (Victoria)Opened (Jubilee)
+| platforms=6
+| tubeexits05=24.893 
+| tubeexits07=30.034}}
+
+'''Green Park tube station''' is a London Underground station. It is on the north side of Green Park, close to the intersection of Piccadilly and the pedestrian Queen's Walk. It is in Travelcard Zone 1.
+
+The station is served by the Piccadilly line, between Piccadilly Circus tube station|Piccadilly Circus and Hyde Park Corner tube station|Hyde Park Corner, the Victoria line, between Victoria Station (London)|Victoria and Oxford Circus tube station|Oxford Circus, and the Jubilee line, between Bond Street tube station|Bond Street and Westminster tube station|Westminster.
+
+ Abandoned plans 
+
+
+
+
+
+
+Gallery
+
+
+Image:green.park.tube.london.arp.jpg|Jubilee Line at Green Park Tube station
+Image:Green Park Victoria Line train.jpg|Victoria Line platform and train
+Image:Green Park stn southern entrance.JPG|Southern entrance by the park
+
+
+Transport connections
+London Buses routes 8, 9, 14, 19, 22 and 38 serve the station.
+
+Category:London Travelcard zone 1

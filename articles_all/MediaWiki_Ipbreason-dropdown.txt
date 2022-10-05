@@ -1,0 +1,33 @@
+Common block reasons
+ Wikipedia:Vandalism|Vandalism
+ Wikipedia:Vandalism|Vandalism-only account
+ Abusing Wikipedia:Sock puppetry|several accounts
+ Violations of the WP:BLP|biographies of living persons policy
+ Wikipedia:Blocks and bans#Evasion|Block evasion
+ Being Wikipedia:Be kind|unkind or rude
+ Adding wrong information/nonsense to articles
+ Creating bad pages
+ Removing content from pages
+ Not able to agree with other editors over changes made to a page (''Wikipedia:Edit war|Edit warring'')
+ Bad behaviour/harassment
+ Wikipedia:Spam|Adding spam links to other sites
+ Using Wikipedia for WP:SPAM|advertising or promotion
+ Using Wikipedia for WP:SPAM|advertising or promotion ("Spambot")
+ Wikipedia:Username|Bad username
+ Open proxy or Zombie computer|zombie (see Meta:No open proxies)
+ Abusing talk page while blocked
+ Unauthorized or malfunctioning bot
+ Reciprocal block: Violating the "WP:ONESTRIKE|one-strike" rule
+ Wikipedia:Copyright problems|Copyright violations
+
+ Templated reasons
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

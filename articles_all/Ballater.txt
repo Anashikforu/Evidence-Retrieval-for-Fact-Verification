@@ -1,0 +1,27 @@
+{{infobox UK place
+ |country = Scotland
+ |official_name= Ballater
+ |gaelic_name= Bealadair
+
+| population = 1,446
+| population_ref =  (United Kingdom Census 2001|2001 census)
+est. 1,520 (2006)
+  |os_grid_reference= NO369958
+ |map_type=Scotland
+ |unitary_scotland= Aberdeenshire
+ |lieutenancy_scotland= Aberdeenshire (historic)|Aberdeenshire
+ |constituency_westminster= West Aberdeenshire and Kincardine (UK Parliament constituency)|West Aberdeenshire and Kincardine
+ |constituency_scottish_parliament=West Aberdeenshire and Kincardine (Scottish Parliament constituency)|West Aberdeenshire and Kincardine
+ |latitude=57.0448
+ |longitude=-3.04942
+ |post_town= BALLATER
+ |postcode_area= AB
+ |postcode_district = AB35
+ |dial_code= 01339
+ }}
+'''Ballater''' is a burgh in Aberdeenshire (unitary)|Aberdeenshire, Scotland on the River Dee, Aberdeenshire|River Dee, immediately east of the Cairngorm Mountains.
+
+ Notable residents 
+ Patrick Geddes|Sir Patrick Geddes, biologist and botany|botanist.
+
+Category:Towns in Aberdeenshire

@@ -1,0 +1,35 @@
+{{Minor Planet |
+ name=809 Lundia
+ | discoverer=Max Wolf
+ | discovery_date=August 11, 1915
+ | designations=1915 XP; 1936 VC
+ | category=Main belt
+ | epoch=November 26, 2005 (Julian day|JD 2453700.5)
+ | semimajor=341.556 Giga|Gmetre|m (2.283 Astronomical unit|AU)
+ | perihelion=275.743 Gm (1.843 AU)
+ | aphelion=407.368 Gm (2.723 AU)
+ | eccentricity=0.193
+ | period=1260.094 day|d (3.45 Julian year (astronomy)|a)
+ | inclination=7.143degree (angle)|°
+ | asc_node=154.685°
+ | arg_peri=196.321°
+ | mean_anomaly=42.298°
+ | speed=19.53 km/second|s
+ | dimensions=7–10 km ''(estimate)'' (for each component)
+ | mass=0.2–2×1015 each ''(estimate)''
+ | density=''unknown''
+ | gravity=0.001–0.003 m/s² ''(estimate)''
+ | escape_velocity=0.003–0.005 km/s ''(estimate)''
+ | rotation=''unknown''
+ | spectral_class=V-type asteroid|V
+ | abs_mag=11.8
+ | albedo=''unknown''
+ | temperature=165-180 kelvin|K''max:'' 260-280 K }}
+
+'''809 Lundia''' is a small, binary asteroid|binary, V-type asteroid orbiting in the Flora family in the Main Belt. It is named after Lund Observatory, Sweden.
+
+The V-type spectrum says that it is not genetically related to the Flora family, but rather is probably a piece (actually two pieces) blown off the surface of nearby 4 Vesta by a big impact in the past. Its orbit is too far from Vesta for it to actually be a member of the Vesta family It is not clear how it came at an orbit so far from Vesta, but other examples of V-type asteroids fairly far from their parent body are known. A mechanism of interplay between the Yarkovsky effect and nonlinear secular resonances (mainly involving Jupiter and Saturn) has been suggested.
+
+ Binary 
+A moon, designated '''S/2005 (809) 1''', was seen based on lightcurve sightings in 2005. In fact, the size of the two bodies appear to be close in size, because during mutual occultations the brightness drops by a similar amount independently of which body is hidden.Poznań observatory 
+Category:Asteroids

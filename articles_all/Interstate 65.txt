@@ -1,0 +1,8 @@
+
+| direction_b = North
+| terminus_b =  in Gary, IN
+| states = Alabama, Tennessee, Kentucky, Indiana
+}}
+'''Interstate 65''' is an Interstate Highway in the United States. It goes from Mobile, Alabama north to Gary, Indiana. The route is  long.
+
+Category:Interstate Highways|65

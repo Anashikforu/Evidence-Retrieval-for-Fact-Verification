@@ -1,0 +1,31 @@
+
+
+'''''Roe v. Wade''''' was a 1971 - 1973 landmark decision by the US Supreme Court. It ruled that a state law that banned abortion was unconstitutional. 
+
+The decision divided the United States and is still controversial. People became divided into pro-life and pro-choice groups. Pro-life supporters argue that the unborn baby has the same right to life as other people, and the government should intervene to protect it. Pro-choice supporters believe that the unborn baby is not the same as a person, and the woman has the right to choose what she wants to do with her body and that the government should not intervene. Roe was limited by a later decision, ''Webster v. Reproductive Health Services'' (1989), which allowed the regulation of abortion in some cases.  Several states have considered laws banning abortions altogether.
+
+ Background 
+The case began in 1970 in Texas as a challenge against a law banning any kind of abortion unless the mother's life was in danger. A pregnant Texas woman, Norma McCorvey (alias Jane Roe), brought a lawsuit against Henry Wade, Dallas County, Texas|Dallas County District Attorney, in a Texas federal court. 
+Claiming to be a single woman and pregnant, McCorvey wanted to wikt:terminate|terminate her pregnancy. She wanted it to be done safely by a medical doctor|doctor but said that she could not afford to travel outside Texas. She could not get a legal abortion in Texas because her life was not in danger. Her lawsuit claimed that the Texas law violated her right to privacy, protected by the First Amendment to the United States Constitution|First, Fourth Amendment to the United States Constitution|Fourth, Fifth Amendment to the United States Constitution|Fifth, Ninth Amendment to the United States Constitution|Ninth, and Fourteenth Amendment to the United States Constitution|Fourteenth Amendments. Roe added she sued "on behalf of herself and all other women" in the same situation.
+
+The case slowly made its way to the US Supreme Court. Meanwhile, McCorvey had her baby and placed it for adoption.
+
+ Majority opinion 
+In a 7-2 decision, the court held that a woman's right to an abortion was protected by her right to privacy under the Fourteenth Amendment. The decision allowed a woman to decide whether or not to have an abortion during the first trimester. That affected the laws of 46 states.
+
+Justice Harry Blackmun wrote the majority opinion. "We... acknowledge our awareness of the sensitive and emotional nature of the abortion controversy, of the vigorous opposing views, even among physicians, and of the deep and seemingly absolute convictions that the subject inspires." — Justice Blackmun (1973).
+
+ Dissenting opinion 
+The dissenting opinion was written by Justice William Rehnquist, who disagreed with the majority decision for several reasons. 
+ He first pointed out that there was no legitimate plaintiff in the case, which was a requirement to hear the case. A legitimate plaintiff would be a woman in her first trimester of her pregnancy at some point while the case was being tried. McCorvey (Jane Roe) did not fit that qualification and so the ruling had no application to the case.
+ The court recognized a woman's right to abortion under the general "right to privacy" from previous cases. However, he argued, "A transaction such as this is hardly 'private' in the ordinary usage of the word."
+ The majority opinion was vague on the exact place of the right to privacy in the Constitution. Several amendments were mentioned, but none was specifically identified to contain the right to privacy. The word "privacy" is not found in the Constitution. 
+ Additional problems include the court acting as a legislature in dividing pregnancy into three trimesters and outlining the permissible restrictions that states may make. He pointed out that 36 of the 37 states in 1868, when the Fourteenth Amendment was passed, had laws against abortion, including Texas: "The only conclusion possible from this history is that the drafters did not intend to have the Fourteenth Amendment withdraw from the States the power to legislate with respect to this matter."
+
+ Right to privacy interpretation 
+The basis for the "right to privacy" is a judicial interpretation that can be traced from an earlier case ''Griswold v. Connecticut'' (1965).
+
+ Trimester concept 
+In its decision, the court used the three-trimester framework of pregnancy. During the first trimester, an abortion was safer for the mother than childbirth. The reasoning was that the decision whether to get an abortion at that stage should be left up to the mother to decide. Any law that wikt:interfere|interfered with abortions in the first trimester would be presumed to be unconstitutional. During the second trimester, laws could regulate abortion only to protect the wikt:health|health of the mother. During the third trimester, the unborn child was viable (able to live on its own, outside the mother's womb). Then, laws could restrict or prohibit abortions unless it was necessary to preserve the mother's health. That doctrine stood until 1992, when ''Planned Parenthood v. Casey'' had the court now base the legality of an abortion no longer on trimesters but on fetal viability.Danielle Keats Morris, 'Planned Parenthood v. Casey: From U.S. "Rights Talk" to Western European "Responsibility Talk"', ''Fordham International Law Journal'', Volume 16, Issue 3 (1992), pp. 772–773
+
+Category:United States Supreme Court cases

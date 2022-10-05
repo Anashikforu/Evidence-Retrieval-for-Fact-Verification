@@ -1,0 +1,55 @@
+{{Taxobox
+| name              = Flowering plant
+| fossil_range      = Lower Cretaceous – Recent
+| image             = Galanthus nivalis.jpg
+| image_width       = 240px
+| image_caption     = Snowdrop
+| regnum            = Plantae
+| subregnum         = Embryophyte|Embryophyta
+| divisio           = '''Angiospermae'''
+| subdivision_ranks = Class (biology)|Classes
+| subdivision = Traditional groups:
+Magnoliopsida –  Dicots
+Monocotyledon|Liliopsida –  Monocots}}
+
+Most land plants today are '''flowering plants''' ('''Angiosperm''' or '''Magnoliophyta'''). 
+
+Together with the Gymnosperm|gymnosperms they make up the seed plants. They are different from the gymnosperms because angiosperms have flowers, and have enclosed ovules. Gymnosperms have naked seeds on cones or open structures.
+
+ Typical adaptations 
+
+Angiosperms have a number of derived characters, which evolved as they split off from the gymnosperms.
+ Flowers
+Flowers, the reproductive organs of flowering plants, are the most remarkable feature distinguishing them from other seed plants. Flowers, with their colour and their nectar, attract pollinators, which are mostly insects and birds. 
+
+Gymnosperms are almost entirely wind-pollinated, but early flowers were probably all insect-pollinated.Crepet WL, Friis EM, Nixon KC 1991. Fossil evidence for the evolution of biotic pollination and discussion. ''Philosophical Transactions: Biological Sciences''. '''333''' (1267): 187–195.  Fruits
+The fertilized angiosperm ovule develops into a seed, and the ovary develops into the fruit. The fruit is often a way to use animals to spread the seeds far and wide. The fruit is made out of the carpel and some tissue round it. The carpel carries structures called ovules, inside which egg cells form.
+ Endosperm
+In general, endosperms form after fertilization and before the first division of the zygote. Endosperm is a highly nutritive tissue that can provide food for the developing embryo, the cotyledons, and sometimes the seedling when it first appears.
+ Sexual parts
+Specialised sexual parts have led to co-evolution in fertilization and seed dispersal. The stamens, and the male and female gametophytes, have been adapted in many ways to suit particular pollinators. The smaller pollen grain shortens the time between pollination and fertilization, which can be up to a year in gymnosperms. The small female gametophyte also allows rapid seed production, which led to annual herbaceous life-cycles.
+
+Adaptations in these novelties allowed angiosperms to invade many habitats. They now dominate everywhere except the boreal forest or taiga, which is still composed almost entirely of gymnosperms, usually Pine|pines.
+
+ Phylogeny 
+Molecular evidence indicates that the ancestors of angiosperms diverged from the gymnosperms during the late Devonian, about 365 million years ago. They did not appear in the fossil record until the Mesozoic, almost two hundred million years later.
+
+A whole genome duplication (doubling) at 160 million years ago (mya) may have started the ancestral line that led to all modern flowering plants. ''Amborella'', found on the Pacific island of New Caledonia, belongs to a sister group of the other flowering plants. Studies suggest that it has features that may have been characteristic of the earliest flowering plants.
+The earliest known fossil confidently identified as an angiosperm, ''Archaefructus liaoningensis'', is dated to about 125 mya in the Lower Cretaceous. Pollen probably of angiosperm origin takes the fossil record back to about 130 mya.  
+
+The phylogeny of Angiosperms is as follows: Angiosperm Phylogeny Group 2003. An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG II. ''Botanical Journal of the Linnean Society'' '''141''': 399-436  Angiosperms (flowering plants)
+ Amborella: one species only, from New Guinea.
+ Nymphaeales: 80 species, mainly water lilies.
+ Austrobaileyales: 100 species of woody plants from round the world .
+ Magnoliids: about 9000 species, with  trimerous (3-part) flowers, pollen with one pore, and usually branching-veined leaves.
+ Monocots about 7000 species, with  trimerous flowers, a single cotyledon, pollen with one pore, and usually parallel-veined leaves—for example Grass|grasses, Orchid|orchids, and Palm tree|palms.
+ ''Ceratophyllum'', about six species of aquatic plants, familiar as aquarium plants;
+ Eudicots, about 175,000 species, 4- or 5-merous flowers, pollen with three pores, and usually branching-veined leaves—for example sunflowers, petunia, buttercup, apples, and oaks.
+
+The territory is pretty much covered by three groups: the Magnoliids, the Monocots and the Eudicots. The Eudicots outnumber all other groups put together.
+
+ Related pages 
+Flower
+Template:Life timeline|Life timeline
+
+Category:Flowering plants| 

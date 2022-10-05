@@ -1,0 +1,27 @@
+{{Infobox UK place 
+ | official_name=         New Mills
+ |static_image             =  New mills 619280 883f5111.jpg
+ |static_image_caption=Torr Vale Mill in 1982 when the mill was still in use.
+ | country=               England
+ | region=                East Midlands
+ | population = 9,625
+ | population_ref = (Parish)
+ | os_grid_reference=     SJ995855
+ | latitude=              53.367 
+ | longitude=             -2.007
+ | post_town=             HIGH PEAK
+ | postcode_area=         SK 
+ | postcode_district=     SK22
+ | dial_code=             01663
+ | constituency_westminster= High Peak (UK Parliament constituency)|High Peak  
+ | civil_parish=          New Mills
+ | shire_district=High Peak, Derbyshire|High Peak
+ | shire_county=Derbyshire
+ }}
+'''New Mills''' is a town in Derbyshire, England. It is eight miles from Stockport. It is by the rivers Goyt and Sett. It is very near the county of Cheshire.  It has a population of 10,000.
+
+History
+
+New Mills  most known employer is Swizzels Matlow, who make children's sweets. The company transferred to New Mills from London during the Blitz. Famous brands include ''Parma Violets'', ''Refresher'' chews, ''Drumstick'' lollies and - perhaps most famously - ''Love Hearts''
+
+Category:Towns in Derbyshire

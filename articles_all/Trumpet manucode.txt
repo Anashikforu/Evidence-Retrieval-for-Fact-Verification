@@ -1,0 +1,18 @@
+{{Taxobox
+| name = Trumpet manucode
+| status = 
+| status_system = IUCN3.1
+| image = Manucodia keraudrenii bis by Bowdler Sharpe.jpg
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Passeriformes
+| familia = Paradisaeidae
+| genus = ''Manucodia''
+| binomial = ''Manucodia keraudrenii''
+| binomial_authority = (René-Primevère Lesson|Lesson & Prosper Garnot|Garnot, 1826)}}
+
+The '''trumpet manucode''' (''Manucodia keraudrenii'') is a medium-sized Birds of Paradise|bird of paradise about 31cm long with an long horn-like head tufts and loose neck feathers. It looks blackish glossed blue, green and purple. It has a red Iris (anatomy)|iris, long coiled Vertebrate trachea|trachea, and blackish Beak|bill, mouth and legs.
+
+They live in lowland rain forests of northeast Australia, New Guinea and nearby islands. They eat fruits and arthropods.
+
+Category:Birds of Oceania

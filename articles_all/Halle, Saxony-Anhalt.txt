@@ -1,0 +1,21 @@
+
+|image_flag          = Flag of Halle (Saale).svg
+|image_coa            = Coat of arms of Halle (Saale).svg
+|coordinates       = 
+|image_plan          =
+|name              = Halle (Saale)
+|state        = Saxony-Anhalt
+|type               = City
+|district         = Kreisfreie Stadt
+|elevation              = 87
+|area            = 135.01
+|Gemeindeschlüssel = 15002000
+|postal_code               = 06108-06132
+|area_code           = 0049345
+|licence               = HAL
+|website           = |mayor     = Bernd Wiegand
+|party            =
+}}
+'''Halle''' (also called ''Halle an der Saale'') is the largest town in the Germany|German States of Germany|state of Saxony-Anhalt. It lies in the southern part of the state, on the river Saale. It has about 234,000 inhabitants (2006). It is famous all over the world because Handel|Georg Friedrich Handel was born there.
+
+Category:Urban districts of Saxony-Anhalt

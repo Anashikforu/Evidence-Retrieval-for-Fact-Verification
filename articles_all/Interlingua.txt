@@ -1,0 +1,32 @@
+
+
+
+
+'''Interlingua''' is a constructed language using words that are found in most West-European languages. It was made by IALA - a group of people (the most known was Alexander Gode) who worked on it for more than 20 years, and they finished and published the first dictionary in 1951. Interlingua was created on the base of languages: English language|English, French language|French, Spanish language|Spanish, Portuguese language|Portuguese, and Italian language|Italian.
+
+''Inter'' is the same root word as in the words "interaction", "interface" and so on, and it means "between" or "to each other"; ''lingua'' means "language". They chose the name Interlingua because they wanted it to be used for people of different countries to talk to each other easily. Because Interlingua was made by people to be easy, it is easier than natural languages to learn.
+, 1,500 people knew Interlingua, and Interlingua speakers say that millions can understand it (read texts in it and listen to someone talk in it) without having to learn it first.
+
+There are two other constructed languages in the world that have more than 1000 speakers, Esperanto and Ido. Those two were made before Interlingua. Some people think Interlingua is easier because the makers chose all the words to be easy to understand for people who know English, French, Spanish, Portuguese, or Italian, plus languages like Occitan language|Occitan and Romanian language|Romanian, languages that used to be Latin language|Latin, the language used in Rome a long time ago.
+
+Actually, people who use Interlingua say that their language is actually new Latin, just simpler and ''modernized'' (made new).
+
+ Example text in Interlingua 
+{{lang|ia|
+Lingua natural e musical
+de parolas international
+e un grammatica minimal.
+
+Comprensibile facilemente
+per personas intelligente.
+
+Le medio de communication
+adequate pro le solution
+del confusion de Babylon.}}
+
+= Pater Noster in Interlingua =
+
+
+Related pages
+Interlingua grammar
+

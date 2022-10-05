@@ -1,0 +1,14 @@
+{{Infobox
+|name=Infobox/doc
+|title='''Ontario Lacus'''
+|image=Image:Lacus Ontario.jpg|320px
+|caption=Ontario Lacus is the dark shape near the centre-left of this image of Titan (moon)|Titan's south pole.
+|header1=Feature on Titan
+|label2=Type     ||data2=Lacus
+|label3=Latitude ||data3=72S
+|label4=Longitude||data4=183W
+|label5=Diameter ||data5= 
+|label6=Eponym   ||data6=Lake Ontario
+|below= }}
+'''Ontario Lacus''' is a lake filled with methane and ethane near the south pole of Saturn (planet)|Saturn's moon Titan (moon)|Titan.  It was identified as a hydrocarbon lake and confirmed by data from the Cassini-Huygens|Cassini spacecraft. This discovery was announced in the 31 July 2008 edition of ''Nature (journal)|Nature''. '''Ontario Lacus''' is about 20,000 km2 in area, and is named after Lake Ontario in North America, which is a similar size and shape.
+

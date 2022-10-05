@@ -1,0 +1,7 @@
+'''Firewall''' may refer to:
+ Firewall (networking), a device which prevents unwanted communication between private and public networks
+ Firewall (movie), a 2006 action movie starring Harrison Ford
+
+
+
+eu:Suhesi

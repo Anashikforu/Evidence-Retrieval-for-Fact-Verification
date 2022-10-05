@@ -1,0 +1,8 @@
+#REDIRECT Persian Gulf
+
+de: Golf von Iran
+es: Golfo de Irán
+en: Gulf of Iran 
+fr: Golfe de l'Iran
+pt: Golfo do Irã
+ru: Заливе Иран

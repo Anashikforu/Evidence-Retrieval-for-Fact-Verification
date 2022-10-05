@@ -1,0 +1,29 @@
+'''Conjugate variables''' are special pairs of Variable|variables (like x, y, z) that don't give the same result when you do a certain mathematical operation with them. This means that xy is not equal to yx. Here, the  does not mean multiplication. It could mean addition, subtraction, division, or any operation that makes sense, in that case.   
+
+A physicist, Werner Heisenberg, and his wikt:co-worker|co-workers used wikt:equation|equations studied in classical physics to wikt:describe|describe and wikt:predict|predict events from quantum mechanics|quantum physics. He discovered that the momentum (mass times velocity, represented by '''P''') and position  (represented by '''Q''') are conjugate variables. This means that '''PQ'''  is not equal to '''QP,''' in quantum physics. 
+
+Here are two special equations to calculate the wikt:energy|energy of an wikt:electron|electron (small green thing) in a hydrogen atom. 
+
+
+The first equation could be used to find out the product of momentum and position:
+
+:Y(n,n-b) = \sum_{a}^{} \, p(n,n-a)q(n-a,n-b) 
+
+The second equation could be used to calculate the product of position and momentum:
+
+:Z(n,n-b) = \sum_{a}^{} \, q(n,n-a)p(n-a,n-b)
+
+Some time later, another physicist, Max Born found out that, because '''PQ'''  is not equal to '''QP,''' the result of '''QP''' minus '''PQ''' is not zero. (The "minus" is not the same minus of "3 - 2". It's a different thing with the same name).
+
+Born found out that:
+
+::{QP - PQ = \frac{ih}{2\pi}}
+
+The symbol '''Q''' is the Matrix (mathematics)|matrix for position, '''P''' is the matrix for momentum, '''i''' is a complex number, and '''h''' is Planck's constant, a number that shows up in quantum mechanics a lot.See ''Introduction to quantum mechanics''. by Henrik Smith, p. 58 for a readable introduction. See Ian J. R. Aitchison, et al., "Understanding Heisenberg's 'magical' paper of July 1925," Appendix A, for a mathematical derivation of this relationship.  
+
+Conjugate variables have applications all over Physics, in Chemistry and in a bunch of other areas of science.   
+
+ Some related topics 
+ Heisenberg's uncertainty principle
+
+Category:Physics

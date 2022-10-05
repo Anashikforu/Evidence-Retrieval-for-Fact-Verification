@@ -1,0 +1,47 @@
+{{Infobox scientist
+
+|name              = Robert  Boyle
+|image             = Robert Boyle 0001.jpg
+|image_size        = 250px
+|caption           = Robert Boyle (1627–91)
+|birth_date        = 25 January 1627
+|birth_place       = Lismore, County Waterford|Lismore, County Waterford, Kingdom of Ireland|Ireland
+|death_date        = 31 December 1691 (aged 64)
+|death_place       = London, Kingdom of England|England
+|residence         = 
+|ethnicity         = 
+|fields            = Physics, chemistry
+|workplaces        = 
+|alma_mater        = 
+|academic_advisors = 
+|doctoral_students = 
+|notable_students  = 
+|known_for         = Boyle's law, founder of modern chemistry
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = Robert Carew, Galileo Galilei, Otto von Guericke, Francis Bacon
+|influenced        = Considered the founder of modern chemistry
+|awards            = Fellow of the Royal Society
+|signature         =  
+|footnotes         = }}
+
+
+
+'''Robert Boyle''' Fellow of the Royal Society|FRS (25 January 1627 – 31 December 1691) was a 17th-century natural philosopher, chemist, physicist, inventor and founding member of the Royal Society.
+
+Boyle was born in Ireland to a titled Anglo-Irish people|Irish family. He was the fourteenth child of Richard Boyle, 1st Earl of County Cork|Cork, who had arrived in Ireland in 1588.
+
+Career
+Robert Boyle is best known for Boyle's law.Boyle's Law describes the inverse relationship between the absolute pressure and volume of a gas.
+
+When Robert Hooke was young, Boyle employed him as an instrument-maker and assistant. They continued to cooperate when Hooke took charge of experiments at the Royal Society.
+
+Scientific research was the main focus of Boyle's life.  He joined other like-minded men in a group which called itself the "Invisible College".Kassell, Lauren.  
+Boyle was an Alchemy|alchemist, but also the first modern chemist. His 1661 book, ''The Sceptical Chymist'', is important in the history of chemistry.
+
+Religious interests
+As a director of the East India Company Boyle spent large sums in promoting the spread of Christianity in the East. He contributed liberally to missionary societies and to the expenses of translating the Bible or portions of it into various languages.
+
+Boyle supported the policy that the Bible should be available in the language of the people, in contrast to the Latin-only policy of the Roman Catholic Church at the time.
+
+Category:English physicists

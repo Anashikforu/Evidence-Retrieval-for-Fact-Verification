@@ -1,0 +1,19 @@
+
+{{Taxobox
+| name = Forest dormouse
+| image = Dryomys nitedula.jpg
+| status = LC 
+| status_system = IUCN
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| genus = ''Dryomys''
+| binomial = ''Dryomys nitedula''
+| binomial_authority = Peter Simon Pallas|Pallas, 1778
+| synonyms = }}
+
+The '''forest dormouse''' (''Dryomys nitedula'') is a species of rodent in the Gliridae family found throughout much of Eurasia.
+
+Category:Dormice

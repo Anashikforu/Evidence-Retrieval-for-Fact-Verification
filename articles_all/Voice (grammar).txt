@@ -1,0 +1,53 @@
+
+'''Voice''' in grammar expresses the way the action (or state) that the verb expresses relates to the Subject (grammar)|subject or Object (grammar)|object.  In English grammar, there are two voices: active and passive. When a clause is in the active voice, the subject is the doer of the action. When a clause is in the passive voice, the subject is the receiver of the action. The active voice is much more commonly used than the passive voice.
+
+Active voice: ''Jane '''chose''' the furniture''.
+Passive voice: ''The furniture '''was chosen''' by Jane''.
+
+ The Passive Voice 
+
+= Forming the Passive Voice =
+In passive clauses, the object is moved to the subject position. Generally, only Transitivity (grammar)|transitive verbs can be transformed into the passive voice, because only transitive verbs have objects.McArthur, Tom (ed) 1992. ''The Oxford companion to the English language''. Oxford University Press. Verbs in the passive voice are formed using the past participle of the main verb with the auxiliary verb conjugated into the appropriate tense.
+
+Here are examples of how to form passive voice sentences of the main tenses in English.
+
+# Present simple tense: Subject + am/is/are + past participle (''English '''is spoken''' in many countries around the world.'')
+# Past simple tense: Subject + was/were + past participle (''My book '''was published''' last year.'')
+# Present continuous tense: Subject + am/is/are + being + past participle (''The car '''is being repaired''' now.'')
+# Past continuous tense: Subject + was/were + being + past participle (''The car '''was being repaired'''.'')
+# Present perfect tense: Subject + has/have + been + past participle (''The flowers '''have been watered'''.'')
+# Past perfect tense: Subject + had + been + past participle (''The flowers '''had been watered'''.'')
+# Modals: Subject + modal + be + past participle (''The flowers '''will be watered''' in the morning.'')
+
+= Reasons for using the Passive Voice =
+The passive voice changes the focus from the doer (or agent) of the action onto the receiver of the action. There are many reasons to do this. Sometimes we don't know who the agent is:
+
+ ''The store '''was robbed''' last night.'' 
+ ''A package '''was left''' on the steps.''
+
+Sometimes the receiver is more important than the agent:
+
+ Julio '''was hit''' by a car.
+ The '''robber was''' arrested this evening.
+
+= By agent =
+'''''By'' agent''' (doer of the action) is usually stated at the end of the passive sentence. However, it can be omitted when it is unknown, unimportant or understood from the context. It is common to omit '''''by'' agent''' when the doer of the action is a personal pronoun (''I'', ''We'', ''They'', etc.) or an indefinite pronoun (''Someone, Somebody, Something'').
+
+ Active voice: ''They '''produce''' cars in this factory.'' 
+ Passive voice: ''Cars '''are produced''' in this factory.''
+
+ Active voice: ''Somebody '''ate''' my pizza.'' 
+ Passive voice: ''My pizza '''was eaten'''.''
+
+When a passive question begins with '''''Who''''' or '''''What''''' asking about the subject, '''''by''''' cannot be omitted.
+
+ Active voice: ''Who '''created''' this design?'' 
+ Passive voice: ''Who '''was''' this design '''created''' '''by'''?''
+
+  References 
+
+
+
+
+
+Category:Grammar

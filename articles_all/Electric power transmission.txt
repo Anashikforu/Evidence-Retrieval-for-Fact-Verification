@@ -1,0 +1,25 @@
+
+
+
+
+
+
+'''Electric power transmission''' is the transmitting of electricity to places where it will be used.  Specifically, it is the bulk transfer of electrical power from the power plant to Electrical substation|substations near populated areas.  Electric power distribution is the delivery from the substation to the consumers.  Due to the large amount of power and long distances, transmission normally takes place at high voltage (110 kV or above).
+
+Electricity is usually transmitted over long distance through overhead power transmission lines. Underground cable|Underground power transmission is used only in densely populated areas (such as large cities) because of the high cost of installation and maintenance and because the power losses increase dramatically compared with overhead transmission unless superconductors and cryogenic technology are used.
+
+A power transmission system is sometimes referred to colloquially as a "grid"; however, for reasons of economy, the network is rarely a true grid. redundancy (engineering)|Redundant paths and lines are provided so that power can be routed from any power plant to any load center, through a variety of routes, based on the economics of the transmission path and the cost of power.
+
+ Further reading 
+ Grigsby, L. L., et al. ''The Electric Power Engineering Handbook''. USA: CRC Press. (2001). 
+ Westinghouse Electric Corporation, "''Electric power transmission patents; Tesla polyphase system''". (Transmission of power; polyphase system; Tesla patents)
+
+Related pages
+ Transmission tower
+ Superconductor
+ Electric power distribution
+ High-voltage direct current
+
+ Other websites 
+       
+Category:Electricity

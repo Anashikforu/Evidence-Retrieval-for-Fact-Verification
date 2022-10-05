@@ -1,0 +1,29 @@
+if ( typeof pagediff  'undefined' ) { // Guard against double inclusions
+
+	var pagediff = {
+
+		callback: function( jsonobj ) {
+			if ( jsonobj && jsonobj.query ) {
+				var revid1 = 0;
+				var revid2 = 0;
+				for ( var page in jsonobj.query.pages ) {
+					var p = jsonobj.query.pagespage;
+					if ( !revid1 ) {
+						revid1 = p.revisions0.revid;
+					} else {
+						revid2 = p.revisions0.revid;
+					}
+				}
+			}
+			location.href = mw.config.get('wgScript') + '?title=' + mw.util.wikiUrlencode( 'User:Thesevenseas/Pagediff'  ) + '&oldid=' + revid1 + '&diff=' + revid2;
+		},
+		setup: function() {
+			var page1 = mw.util.getParamValue( 'oldpage' );
+			var page2 = mw.util.getParamValue( 'newpage' );
+			mw.loader.load( mw.config.get('wgServer') + wgScriptPath + '/api.php?format=json&action=query&prop=revisions&rvprop=ids&titles=' +
+				encodeURIComponent( page1 ) + '|' + encodeURIComponent( page2 ) +
+				'&callback=pagediff.callback' );
+		}
+	};
+	pagediff.setup();
+}

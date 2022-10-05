@@ -1,0 +1,27 @@
+{{Taxobox
+| name = Pygmy hippopotamus
+| status = en 
+| status_system = iucn3.1
+| image = Pygmy Hippopotamus (Hexaprotodon liberiensis) (cropped).jpg
+| image_caption = A pygmy hippopotamus at Smithsonian National Zoological Park|National Zoo.
+| image_width = 250px
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Artiodactyla
+| familia = Hippopotamidae
+| genus = '''''Choeropsis'''''
+| binomial = ''Choeropsis liberiensis''
+| binomial_authority = (Samuel G. Morton|Morton, 1849
+| range_map=Pygmy Hippopotamus range.jpg
+| range_map_width = 230px
+| range_map_caption= Pygmy hippopotamus distribution}}
+
+The '''pygmy hippopotamus''' (''Choeropsis liberiensis'') is a large mammal native to the forests and swamps of West Africa. The specific name ''liberiensis'' means "of Liberia", as this is where most live. The pygmy hippo is reclusive and nocturnal. It is one of only two living species in the Hippopotamidae family, the other being its much larger cousin the common hippopotamus.
+
+The pygmy hippopotamus has many terrestrial animal|terrestrial adaptations, but like its larger cousin, it is semi-aquatic. It relies on proximity to water to keep its skin moisturized and its body temperature cool. Behaviors such as mating and giving birth may occur in water or on land. The pygmy hippo is herbivorous, feeding on ferns, Dicotyledon|broad-leaved plants, grasses and fruits it finds in the forests.
+
+
+
+
+category:Mammals of Africa
+Category:Even-toed ungulates

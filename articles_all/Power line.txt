@@ -1,0 +1,15 @@
+
+
+
+'''Power lines''' are wires that conduct electricity through to another place. Many have transformers. The voltage of the power at the end is usually 100V (Japan), 120V (North and Central America, parts of South America and Africa, and Saudi Arabia), or 220-240V (most of the rest of the world), but is much higher while going through the electric power transmission lines. The power at the end is then safe enough to be used when "stepped-down" by a transformer. 
+
+The original power is made at a power plant. As the power is sent through the power lines, sometimes it encounters spots that it cannot go through. Then it will need to raise its voltage with a step-up transformer. The act is called "stepping up". Where the electric power distribution reaches buildings, this voltage is too dangerous to be used, so it goes through a step-down transformer. This is called "stepping down". Then the electricity can be distributed to buildings.
+
+Related pages
+ Electricity
+ Static electricity
+ Power line communication
+
+
+
+Category:Electricity

@@ -1,0 +1,10 @@
+Image:SETI@home Multi-Beam screensaver.png|thumb|300px|Screen shot of the screensaver for SETI@home, a distributed computing project.  Volunteers donated idle computer power to analyze radio signals for signs of extraterrestrial intelligence
+ 
+The '''Search for Extra-Terrestrial Intelligence''' ('''SETI''') is various efforts to find signals from extraterrestrial life.  It included a program that citizen science|individuals could use on their computers to search for radio signals from worlds with alien life.  This was maybe the most famous of the BOINC or Berkeley Open Infrastructure for Network Computing programs that allow users to use their computers for scientific research.
+
+Other websites
+
+
+
+
+Category:SETI| 

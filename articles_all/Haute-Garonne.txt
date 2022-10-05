@@ -1,0 +1,137 @@
+
+'''Haute-Garonne''' ("Upper Garonne"; ) is a departments of France|department in the southwest of France named after the Garonne river. Its main city and Prefectures in France|prefecture of the department is Toulouse.
+
+History
+Haute-Garonne is one of the original 83 departments created during the French Revolution on March 4, 1790.  It was created from part of the former province of Languedoc.
+
+The department was originally larger than now because it included the district of Castelsarrasin which was transferred to the department of Tarn-et-Garonne when it was created in 1808.
+
+ Geography 
+Haute-Garonne has an area of . It is part of the Occitanie region. The department is not a historical region of France; this is an administrative division made from various pieces of Languedoc and Gascogne.
+
+The department is surrounded by the departments:
+ Ariège (department)|Ariège to the southeast
+ Aude to the east
+ Tarn to the northeast
+ Tarn-et-Garonne to the north
+ Gers to the west
+ Hautes-Pyrénées to the southwest
+
+and by Spain (provinces of Province of Lleida|Lleida and Province of Huesca|Huesca) to the south.
+
+
+
+
+Administration
+The department is managed by the ''Departamental Council of the Haute-Garonne'' in Toulouse. The Haute-Garonne is part of the region of Occitanie.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 27 Cantons in France|''cantons'' and 589 Communes in France|''communes'' (Municipality|municipalities) in the Haute-Garonne.
+
+
+
+
+
+The following is a list of the 27 Cantons of France|cantons of the Haute-Garonne department (with their INSEE codes), in France, following the French canton reorganisation which came into effect in March 2015:
+# Canton of Auterive|Auterive (3101)
+# Canton of Bagnères-de-Luchon|Bagnères-de-Luchon (3102)
+# Canton of Blagnac|Blagnac (3103)
+# Canton of Castanet-Tolosan|Castanet-Tolosan (3104)
+# Canton of Castelginest|Castelginest (3105)
+# Canton of Cazères|Cazères (3106)
+# Canton of Escalquens|Escalquens (3107)
+# Canton of Léguevin|Léguevin (3108)
+# Canton of Muret|Muret (3109)
+# Canton of Pechbonnieu|Pechbonnieu (3110)
+# Canton of Plaisance-du-Touch|Plaisance-du-Touch (3111)
+# Canton of Portet-sur-Garonne|Portet-sur-Garonne (3112)
+# Canton of Revel|Revel (3113)
+# Canton of Saint-Gaudens|Saint-Gaudens (3114)
+# Canton of Toulouse-1|Toulouse-1 (3115)
+# Canton of Toulouse-2|Toulouse-2 (3116)
+# Canton of Toulouse-3|Toulouse-3 (3117)
+# Canton of Toulouse-4|Toulouse-4 (3118)
+# Canton of Toulouse-5|Toulouse-5 (3119)
+# Canton of Toulouse-6|Toulouse-6 (3120)
+# Canton of Toulouse-7|Toulouse-7 (3121)
+# Canton of Toulouse-8|Toulouse-8 (3122)
+# Canton of Toulouse-9|Toulouse-9 (3123)
+# Canton of Toulouse-10|Toulouse-10 (3124)
+# Canton of Toulouse-11|Toulouse-11 (3125)
+# Canton of Tournefeuille|Tournefeuille (3126)
+# Canton of Villemur-sur-Tarn|Villemur-sur-Tarn (3127)
+
+
+Population
+The inhabitants of Haute-Garonne are known, in French language|French, as ''Haut-Garonnais'' (women: ''Haut-Garonnaises'').
+
+Haute-Garonne has a population, in 2014, of 1,317,668, for a population density of  inhabitants/km2. The ''arrondissement'' of Toulouse, with 1,024,517 inhabitants, is by far the largest. The other two, Muret and Saint-Gaudens, have respectively 215,606 and 77,545 inhabitants.
+
+
+'''Evolution of the population in Haute-Garonne'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:1400000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:140000 start:0
+ScaleMinor = gridcolor:lightgrey increment:70000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2008 text:2008
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 690712
+ bar:1975 from:0 till: 777431
+ bar:1982 from:0 till: 824501
+ bar:1990 from:0 till: 925962
+ bar:1999 from:0 till: 1046338
+ bar:2008 from:0 till: 1217344
+ bar:2014 from:0 till: 1317668
+
+PlotData=
+ bar:1968 at: 690712 fontsize:S text: 690,712 shift:(-13,5)
+ bar:1975 at: 777431 fontsize:S text: 777,431 shift:(-18,5)
+ bar:1982 at: 824501 fontsize:S text: 824,501 shift:(-18,5)
+ bar:1990 at: 925962 fontsize:S text: 925,962 shift:(-18,5)
+ bar:1999 at: 1046338 fontsize:S text: 1,046,338 shift:(-24,5)
+ bar:2008 at: 1217344 fontsize:S text: 1,217,344 shift:(-24,8)
+ bar:2014 at: 1317668 fontsize:S text: 1,317,668 shift:(-24,5)
+
+
+
+The 10 cities with more people living in them in 2014 in the department are:
+
+
+
+
+Gallery
+
+File:Toulouse Capitole Night Wikimedia Commons.jpg|''Capitole'' de Toulouse at night
+File:Laréole - Le chateau - Façade Nord Ouest.jpg|Château de Laréole
+File:Bagnères-de-Luchon vue Pyrénées.JPG|Pyrenees seen from Bagnères-de-Luchon
+File:Lac d'OO-01.jpg|Lac d'Oô
+
+
+Related pages
+ Arrondissements of the Haute-Garonne department
+ Communes of the Haute-Garonne department
+
+Category:Departments in Occitanie

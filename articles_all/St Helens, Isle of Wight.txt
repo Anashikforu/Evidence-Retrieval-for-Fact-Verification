@@ -1,0 +1,26 @@
+{{Infobox UK place | 
+  |country =                 England
+  |official_name=            St Helens
+  |civil_parish=             St Helens
+  |latitude =                50.69798
+  |longitude =               -1.11237
+  |population=              
+  |unitary_england=       Isle of Wight
+  |map_type =                Isle of Wight
+  |lieutenancy_england=   Isle of Wight
+  |region =                  South East England 
+  |constituency_westminster=  Isle of Wight (UK Parliament constituency)|Isle of Wight
+  |post_town=                RYDE
+  |postcode_district=        PO33
+  |postcode_area=            PO  
+  |dial_code=      01983             
+  |os_grid_reference=        SZ627890
+  |static_image = St helens old church1.jpg
+  |static_image_caption = St Helens Old Church}}
+
+'''St. Helens''' is a small village and civil parish
+ Famous residents 
+Jeremy Irons – movie actor and Academy Award and double-Emmy winner
+Sophie Dawes, Baronne de Feuchères, "adventuress" best known as a mistress of Louis Henry II, Prince of Condé
+
+Category:Villages on the Isle of Wight

@@ -1,0 +1,91 @@
+
+{{Infobox Planet   | bgcolour=#FFFFC0 |
+| name=4 Vesta
+| symbol=
+| image=Dawn-image-070911.jpg
+| caption=4 Vesta seen by Dawn spacecraft July 9, 2011
+|discoverer=Heinrich Wilhelm Olbers
+| discovered=March 29, 1807
+| alt_names=''none''
+| mp_category=Main belt (Vesta family)
+|epoch=November 26, 2005 (Julian date|JD 2453700.5)
+|semimajor=353.268 Giga|G metre|m (2.361 Astronomical unit|AU)
+|perihelion=321.82 Gm (2.151 AU)
+|aphelion=384.72 Gm (2.572 AU)
+|eccentricity=0.08902
+|period=1325.46 day|d (3.63 Julian year (astronomy)|a)
+|inclination=7.133degree (angle)|°
+|asc_node=103.926°
+|arg_peri=150.297°
+|mean_anomaly=205.652°
+| avg_speed=19.34 km/second|s
+|dimensions= 578×560×458 kmP. C. Thomas ''et al.'' ''Impact excavation on asteroid 4 Vesta: Hubble Space Telescope results'', Science, Vol. 277, pp. 1492 (1997).
+|mass=2.7×1020 kilogram|kg
+|density=3.4 g/cubic centimetre|cm³
+| surface_grav=0.22 m/s²
+|escape_velocity=0.35 km/s
+|rotation=0.2226 d
+| spectral_type=V-type asteroid
+| magnitude = 5.1 to 8.48
+ | abs_magnitude=3.20
+|albedo=0.423&nbsp;(geometric albedo|geometric)
+| angular_size = 0.64" to 0.20"
+| single_temperature=''min:'' 85 Kelvin|K (-188° Celsius|C)''max:'' 255 K (-18&nbsp;°C)
+'''4 Vesta''' () is the second most massive asteroid in the solar system, with an average diameter of about 530 kilometre|km (around 330 miles) and an estimated mass 9% the mass of the entire asteroid belt. Its size and unusually bright surface makes Vesta the brightest asteroid, and the only one ever visible to the naked eye from Earth. Vesta's astronomical symbol is .
+
+ Discovery 
+
+Vesta was discovered by the Germany|German astronomer Heinrich Wilhelm Olbers on March 29, 1807. He allowed the prominent mathematician Carl Friedrich Gauss to name the asteroid after the Roman mythology|Roman virgin goddess of home and hearth, Vesta (mythology)|Vesta.
+
+After the discovery of Vesta in 1807, no asteroids were discovered for the next 38 years. During this time the four known asteroids were counted among the planets, and each had its own planetary symbol. Vesta was normally represented by a stylized hearth (.Older form and discussion of its complexity from Gould, 1852. Gould, B.A. 1852, On the Symbolic Notation of the Asteroids, Astron. J., 2, as cited and discussed 
+
+ Physical characteristics 
+
+
+Vesta is the second-most massive body in the asteroid belt. Vesta does have a different interior compared to its surface.''
+Vesta's shape is close to the shape of a sphere by its own gravity,P. C. Thomas ''et al.'' ''Vesta: Spin Pole, Size, and Shape from HST Images'', Icarus, Vol. 128, p. 88 (1997). but the large concavity and lump at the pole (see 'Surface Features' below) did not fit the criteria from being considered a planet under the IAU. In any case, this resolution was rejected by the IAU membership and Vesta will continue to be called an asteroid. However, it is possible that Vesta may be listed as a dwarf planet in the future, if it is convincingly determined that its shape is from hydrostatic equilibrium.
+
+Its rotation is actually fast for an asteroid (5.342 h) and prograde, with the north pole pointing in the direction of right ascension 20 h 32 min, declination +48° with an uncertainty of about 10°. This gives an axial tilt of 29°.
+
+Temperatures on the surface have been thought to be between about -20°Celsius|C with the Sun overhead, dropping to about -190°Celsius|C at the winter pole. Typical day-time and night-time temperatures are -60°Celsius|C and -130°Celsius|C, respectively. This estimate is for May 6, 1996, very close to perihelion, while details vary somewhat with the seasons.
+ Geology 
+For Vesta, there is a large collection of possible samples available to scientists, in the form of over 200 HED meteorites, giving insight into Vesta's geologic history and structure.
+
+Vesta is thought to consist of a metallic iron-nickel planetary core|core, above with a rocky olivine mantle (geology)|mantle, and a surface crust (geology)|crust. From the first appearance of Ca-Al-rich inclusions (the first solid matter in the Solar System, forming about 4567 million years ago), a likely timeline is as follows:A. Ghosh and H. Y. McSween ''A Thermal Model for the Differentiation of Asteroid 4 Vesta, Based on Radiogenic Heating'', Icarus, Vol. 134, p. 187 (1998). Accretion completed after about 2-3 million years.
+ Complete or almost complete melting due to radioactive decay of 26Aluminium|Al, leading to separation of the metal core at about 4-5 million years.
+ Progressive crystallization of a convection|convecting molten mantle (geology)|mantle. Convection stopped when about 80% of the material had crystallized, at about 6-7 million years.
+ Extrusive|Extrusion of the remaining molten material to form the crust (geology)|crust. Either as basaltic lavas in progressive Volcanic eruption|eruptions, or possibly forming a short-lived magma ocean.
+ The deeper layers of the crust crystallization|crystallize to form intrusion|plutonic rocks, while older basalts are metamorphic rock|metamorphosed due to the pressure of newer surface layers.
+ Slow cooling of the interior.
+
+Vesta is the only known intact asteroid that has been resurfaced in this procedure. However, the presence of iron meteorites and achondrite|achondritic meteorite classes without identified parent bodies indicates that there once were other differentiated planetesimals with igneous rock|igneous histories, which have since been broken by impacts.
+
+ Surface features 
+
+
+Some Vestian surface features have been resolved using the Hubble Space Telescope and ground based telescopes, e.g. the W. M. Keck Observatory|Keck Telescope.
+
+The most notable surface feature is a very large crater that is 460 kilometres|km in diameter centered near the south pole. Its width is about 80% of the entire diameter of Vesta. The floor of this crater is about 13&nbsp;km below, and its rim rises 4–12&nbsp;km above the surrounding area, with total surface relief of about 25&nbsp;km. A central peak rises 18&nbsp;km above the crater floor. It is thought that the impact responsible blew up about 1% of the entire volume of Vesta, and it is likely that a group of smaller asteroids known as the ''Vesta family'' are the remains of this collision. If this is the case, then the fact that 10&nbsp;km fragments of the Vesta family have survived bombardment until the present indicates that the crater is only about 1 billion years old or younger.R. P. Binzel ''et al.'' ''Geologic Mapping of Vesta from 1994 Hubble Space Telescope Images'', Icarus, Vol. 128, p. 95 (1997). It would also be the original site of origin of the HED meteorites. In fact, all the known V-type asteroids taken together account for only about 6% of the ejected volume, with the rest presumably either in small fragments, ejected by approaching the 3:1 Kirkwood gap, or perturbed away by radiation pressure. Spectroscopy|Spectroscopic analyses of the Hubble Space Telescope|Hubble images have shown that this crater has penetrated deep through several distinct layers of the crust, and possibly into the mantle (geology)|mantle which is indicated by spectral signatures of olivine. Interestingly Vesta was not disrupted nor resurfaced by an impact of this magnitude.
+
+Several other large craters about 150&nbsp;km wide and 7&nbsp;km deep are also present. A dark feature about 200&nbsp;km across has been named ''Olbers'' in honour of Vesta's discoverer, but it does not appear in elevation maps as a fresh crater would, and its nature is presently unknown, perhaps an old basaltic surface.B. J. Zellner ''et al.'' ''Hubble Space Telescope Images of Asteroid Vesta in 1994'', Icarus, Vol. 128, p. 83 (1997). It serves as a reference point with the 0° longitude prime meridian defined to pass through its center.
+
+The eastern and western hemispheres show markedly different terrains. From preliminary spectral analyses of the Hubble Space Telescope images, the eastern hemisphere appears to be have a highly reflective, heavily cratered "highland" terrain with old, dusty rocks, and craters probing into deeper plutonic layers of the crust. On the other hand, large regions of the western hemisphere are taken up by dark geologic units thought to be surface basalts.
+
+ Fragments 
+Various small solar system objects are believed to be fragments of Vesta caused by collisions. The V-type asteroid|Vestoid asteroids and HED meteorites are examples. The V-type asteroid 1929 Kollaa has been determined to have a composition akin to cumulate eucrite meteorites, indicating its origin deep within Vesta's crust.M. S. Kelley ''et al.'' ''Quantified mineralogical evidence for a common origin of 1929 Kollaa with 4 Vesta and the HED meteorites'', Icarus, Vol. 165, p. 215 (2003).
+
+Because a number of meteorites are believed to be Vestian fragments, Vesta is currently one of only five identified Solar system bodies for which we have physical samples, the others being Mars (planet)|Mars, the Moon, comet 81P/Wild|Wild 2, and Earth itself.
+
+= Proof of HED meteorite origin =
+This is based on data from the Dawn probe which orbited Vesta in the asteroid belt for 10 months.Amos, Jonathan 2012. Asteroid Vesta is 'last of a kind' rock. ''BBC News: Science & environment''. 
+Vesta is the source of the HED meteorites, which are about 6% of all the meteorites which fall to Earth. These meteorites have pyroxene, which is a mineral rich in iron and magnesium. This has been matched exactly to the mineral signatures on Vesta's surface captured by Dawn's instruments.
+
+
+
+ Visibility 
+Its size and unusually bright surface make Vesta the brightest asteroid, and it is occasionally visible to the naked eye from dark (non-light pollution|light polluted) skies. Recently, in May and June 2007, Vesta reached a peak apparent magnitude|magnitude of +5.4, the brightest since 1989.
+
+At that time, opposition and perihelion were only a few weeks apart. It was visible in the constellations Ophiuchus and Scorpius.''Sky & Telescope'', 
+Less favourable oppositions during late autumn in the Northern Hemisphere still have Vesta at a magnitude of around +7.0. Even when in astronomical conjunction|conjunction with the Sun, Vesta will have a magnitude around +8.5; thus from a pollution-free sky it can be observed with binoculars even at elongations much smaller than near opposition (astronomy)|opposition.
+
+Category:Asteroids

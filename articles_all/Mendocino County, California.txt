@@ -1,0 +1,57 @@
+
+| image_flag               = 
+| image_seal               = Seal of Mendocino County, California.png
+| named_for                = Cape Mendocino, which was named for Andrés de Urdaneta
+| subdivision_type         = List of sovereign states|Country
+| subdivision_name         = 
+| subdivision_type1        = U.S. state|State
+| subdivision_name1        = 
+| subdivision_type2        = List of regions of California|Region
+| subdivision_name2        = North Coast (California)|California North Coast
+| seat_type                = County seat
+| seat                     = Ukiah, California|Ukiah
+| seat1_type               = Largest city
+| seat1                    = Ukiah
+| unit_pref                = US
+| area_total_sq_mi         = 3878
+| area_land_sq_mi          = 3506
+| area_water_sq_mi         = 372
+
+| elevation_max_footnotes  = 
+| elevation_max_ft         = 6958
+| elevation_min_footnotes  = 
+| elevation_min_ft         = 
+| population_as_of         = 2010 United States Census|April 1, 2010
+| population_footnotes     = 
+| population_total         = 87841
+| pop_est_as_of            = 2016
+| pop_est_footnotes        =
+| population_est           = 87628
+| population_density_sq_mi = auto
+| established_title        = Municipal corporation|Incorporated
+| established_date         = February 18, 1850
+| governing_body           = Mendocino County Board of Supervisors
+| timezone                 = Pacific Time Zone
+| utc_offset               = -8
+| timezone_DST             = Pacific Daylight Time
+| utc_offset_DST           = -7
+| postal_code_type         = 
+| postal_code              = 
+| area_code_type           = North American Numbering Plan|Area code
+| area_code                = Area code 707|707
+| image_map                = Map of California highlighting Mendocino County.svg
+| mapsize                  = 200px
+| map_caption              = Location in the state of California
+| image_map1               = Map of USA CA.svg
+| mapsize1                 = 200px
+| map_caption1             = California's location in the United States
+| website                  = 
+}}
+'''Mendocino County''' is a county in Northern California.  The county seat is in Ukiah, California|Ukiah. In 2000, 
+
+Towns in Mendocino County include:
+ Fort Bragg, California|Fort Bragg
+ Ukiah
+ Willits, California|Willits
+
+Category:1850 establishments in California

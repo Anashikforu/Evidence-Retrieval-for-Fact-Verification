@@ -1,0 +1,56 @@
+
+|year_start   = 1523
+|year_end     = 1814
+|life_span    = 1523–15331537–1814
+|event_pre    = Gustav I of Sweden|Gustav Vasa electedlist of Swedish monarchs|King of Sweden
+|date_pre     = June 6, 1523
+|event_start  = Kalmar Union collapsed
+|event1       = Norwegian ''abolished
+|date_event1  = 1537
+|event2       = Danish ''abolished
+|date_event2  = October 14, 1660
+|event3       = ''absolute monarchy|absolutism
+|date_event3  = November 14, 1665
+|event4       = Treaty of Brömsebro
+|date_event4  = August 13, 1645
+|event5       = Treaty of Roskilde
+|date_event5  = February 26, 1658
+|event_end    = Treaty of Kiel
+|date_end     = January 14,
+|event_post   = Congress of Vienna
+|date_post    = September 1814 – June 1815
+|p1           = Kalmar Union
+|flag_p1      = Flag of the Kalmar Union.svg
+|s1           = Denmark
+|flag_s1      = Flag of Denmark.svg
+|s2           = Kingdom of Norway (1814)
+|flag_s2      = Flag of Norway (1814-1821).svg
+|capital      = Copenhagen and Oslo 
+|common_languages = '''Official:''' Danish language|Danish, German language|German, Renaissance Latin'''Also spoken:''' Norwegian language|Norwegian, Icelandic language|Icelandic, Faroese language|Faroese, Sami languages|Sami, Greenlandic language|Greenlandic
+|religion     = Lutheranism|Lutheran
+|title_leader = List of Danish monarchs|King
+|leader1      = Frederick I of Denmark|Frederick I
+|year_leader1 = 1524–1533
+|leader2      = Christian IV of Denmark|Christian IV
+|year_leader2 = 1588–1648
+|leader3      = Frederick III of Denmark|Frederick III
+|year_leader3 = 1648–1670
+|leader4      = Frederick VI of Denmark|Frederick VI
+|year_leader4 = 1808–1814
+|stat_year3   = 1780
+|stat_area3   = 487476
+|stat_year1   = 1645
+|stat_pop1    = 1315000
+|stat_year2   = 1801
+|stat_pop2    = 1859000
+|currency     = 
+
+The '''Kingdom of Denmark-Norway''' was a Political union|union between the two kingdoms Denmark and Norway. They were previously in the Kalmar Union with Sweden. The Kingdom of Denmark-Norway lasted from 1536 to 1814. The capital (city)|capital of both countries was Copenhagen, and they shared the same military. The kingdom also possessed colonies in Greenland, Iceland, Africa, the Caribbean and India.
+
+ Monarchs 
+1524–1533: Frederick I
+1588–1648: Christian IV 
+1648–1670: Frederick III 
+1808–1814: Frederick VI
+
+Category:1810s disestablishments in Europe

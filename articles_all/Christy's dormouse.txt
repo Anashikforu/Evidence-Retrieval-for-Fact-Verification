@@ -1,0 +1,18 @@
+
+{{Taxobox
+| name = Christy's Dormouse
+| image = 
+| status = LC | status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| genus = ''Graphiurus''
+| species = '''''G. christyi'''''
+| binomial = ''Graphiurus christyi''
+| binomial_authority = Guy Dollman|Dollman, 1914
+| synonyms = }}
+'''Christy's dormouse''' (''Graphiurus christyi'') is a species of rodent in the Gliridae family. It is found in Cameroon and Democratic Republic of the Congo. Its natural habitat is subtropical or tropical moisture|moist lowland forests. 
+
+Category:Graphiurus

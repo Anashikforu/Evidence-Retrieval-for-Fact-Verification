@@ -1,0 +1,200 @@
+
+The '''province of Chieti''' () is a Provinces of Italy|province in the Abruzzo region of Southern Italy. Its capital is the city of Chieti, and the province borders the Adriatic Sea.
+
+Geography
+
+Chieti is the most eastern province in Abruzzo and has an area of , the second largest province in the region after the province of Province of L'Aquila|L'Aquila. The province is bordered to the north and east by the Adriatic Sea, to the northwest by the province of Pescara, to the southwest by the province of L'Aquila and to south and southeast with Molise (to the south with the province of Isernia and to the southeast with the province of Campobasso).
+
+
+
+The main rivers in the province areː
+ Aterno-Pescara, that forms the border with the province of Pescara.
+ Trigno, that forms the border with the province of Campobasso (Molise).
+ Sente, that forms the border with the province of Isernia (Molise).
+
+The highest mountain in the province is ''Monte Amaro'',( high and is the highest mountain of three provinces: Chieti, L'Aquila and Pescara of the Abruzzo.
+
+Population
+There are 389,169 persons living in the province (January 2017), for a population density of  inhabitants/km².
+
+'''Evolution of the population'''
+
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:450000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2017 text:2017
+
+PlotData=
+ color:barra width:30 align:left
+
+  bar:1961 from:0 till: 373632
+  bar:1971 from:0 till: 351567
+  bar:1981 from:0 till: 370534
+  bar:1991 from:0 till: 381830
+  bar:2001 from:0 till: 382076
+  bar:2011 from:0 till: 387956
+  bar:2017 from:0 till: 389169
+
+PlotData=
+  bar:1961 at: 373632 fontsize:S text: 373,632 shift:(-13,1)
+  bar:1971 at: 351567 fontsize:S text: 351,567 shift:(-18,5)
+  bar:1981 at: 370534 fontsize:S text: 370,534 shift:(-18,5)
+  bar:1991 at: 381830 fontsize:S text: 381,830 shift:(-18,5)
+  bar:2001 at: 382076 fontsize:S text: 382,076 shift:(-18,5)
+  bar:2011 at: 387956 fontsize:S text: 387,956 shift:(-18,10)
+  bar:2017 at: 389169 fontsize:S text: 389,169 shift:(-18,10)
+
+
+
+ Municipalities 
+There are 104 Municipality|municipalities (or ''Comune|comuni'') in the province; they are:
+
+# Altino
+# Archi
+# Ari
+# Arielli
+# Atessa
+# Bomba
+# Borrello
+# Bucchianico
+# Canosa Sannita
+# Carpineto Sinello
+# Carunchio
+# Casacanditella
+# Casalanguida
+# Casalbordino
+# Casalincontrada
+# Casoli
+# Castel Frentano
+# Castelguidone
+# Castiglione Messer Marino
+# Celenza sul Trigno
+# Chieti
+# Civitaluparella
+# Civitella Messer Raimondo
+# Colledimacine
+# Colledimezzo
+# Crecchio
+# Cupello
+# Dogliola
+# Fallo
+# Fara Filiorum Petri
+# Fara San Martino
+# Filetto
+# Fossacesia
+# Fraine
+# Francavilla al Mare	
+# Fresagrandinaria
+# Frisa
+# Furci
+# Gamberale
+# Gessopalena
+# Gissi
+# Giuliano Teatino
+# Guardiagrele
+# Guilmi
+# Lama dei Peligni
+# Lanciano
+# Lentella
+# Lettopalena
+# Liscia
+# Miglianico
+# Montazzoli
+# Montebello sul Sangro
+# Monteferrante
+# Montelapiano
+# Montenerodomo
+# Monteodorisio
+# Mozzagrogna
+# Orsogna
+# Ortona
+# Paglieta
+# Palena
+# Palmoli
+# Palombaro
+# Pennadomo
+# Pennapiedimonte
+# Perano
+# Pietraferrazzana
+# Pizzoferrato
+# Poggiofiorito
+# Pollutri	
+# Pretoro
+# Quadri
+# Rapino
+# Ripa Teatina
+# Rocca San Giovanni
+# Roccamontepiano
+# Roccascalegna
+# Roccaspinalveti
+# Roio del Sangro
+# Rosello
+# San Buono
+# San Giovanni Lipioni
+# San Giovanni Teatino
+# San Martino sulla Marrucina
+# San # Salvo
+# San Vito Chietino
+# Sant'Eusanio del Sangro
+# Santa Maria Imbaro
+# Scerni
+# Schiavi di Abruzzo
+# Taranta Peligna
+# Tollo
+# Torino di Sangro
+# Tornareccio
+# Torrebruna
+# Torrevecchia Teatina
+# Torricella Peligna
+# Treglio
+# Tufillo
+# Vacri
+# Vasto
+# Villa Santa Maria
+# Villalfonsina
+# Villamagna
+
+
+The largest ''comune'' is Atessa, with . Two ''comuni'' have less than 100 inhabitantsː Montebello sul Sangro with 92 inhabitants, and Montelapiano with 83 inhabitants.
+
+=Main ''comuni''=
+The following table shows the 10 Comune|''comuni'' with more inhabitants with their population, and their area and altitude.
+
+
+
+
+
+Gallery
+
+File:Templi Romani di Chieti.JPG|Roman Empire|Roman temple in Chieti.
+File:Chieti, Processione del Venerdì Santo.jpg|Good Friday in Chieti.
+File:Vasto 2011-08 by-RaBoe-018.jpg|D'Avalos Palace, Vasto.
+File:Lanciano - Civitanova - Torri montanare.jpg|The Torri Montanare, Lanciano.
+File:Guardiagrele sep06 03.jpg|''Piazza San Francesco'' in Guardiagrele.
+
+
+Related pages
+ List of comuni of the Province of Chieti
+
+Category:Provinces of Abruzzo|Chieti

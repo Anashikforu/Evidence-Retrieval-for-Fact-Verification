@@ -1,0 +1,77 @@
+
+| image_flag             = Flag of Irvine, California.svg
+| image_seal             = Seal of Irvine, California.svg
+| image_map              = File:Orange County California Incorporated and Unincorporated areas Irvine Highlighted 0636770.svg
+| mapsize                = 250x200px
+| map_caption            = Location of Irvine in Orange County, California.
+
+| coordinates            = 
+| coordinates_footnotes  = 
+| subdivision_type       = List of sovereign states|Country
+| subdivision_name       = 
+| subdivision_type1      = U.S. state|State
+| subdivision_name1      = 
+| subdivision_type2      = List of counties in California|County
+| subdivision_name2      =  Orange County, California|Orange
+| established_title      = Municipal corporation|Incorporated
+| established_date       = December 28, 1971
+| named_for              = James Irvine (landowner)|James Irvine
+| government_type        = Council-manager government|Council-Manager
+|leader_title             = Mayor
+|leader_name              = Donald P. Wagner
+|leader_title2            = Mayor Pro Tempore
+|leader_name2             = Lynn Schott
+| leader_title3           = City council members
+| leader_name3            = Melissa FoxJeffrey LallowayChristina Shea
+| leader_title4          = City Manager
+| leader_name4           = Sean Joyce
+
+| unit_pref              = Imperial
+| area_footnotes         = 
+| area_total_sq_mi       = 65.92
+| area_total_km2         = 170.74
+| area_land_sq_mi        = 65.58
+| area_land_km2          = 169.86
+| area_water_sq_mi       = 0.34
+| area_water_km2         = 0.89
+| area_water_percent     = 0.52
+| elevation_footnotes    = 
+| elevation_ft           = 56
+| elevation_m            = 17
+
+| population_as_of       = 2010 United States Census|2010
+| population_footnotes   = 
+| population_total       = 212375
+| population_rank        = Orange County, California|3rd in Orange CountyList of largest California cities by population|16th in CaliforniaList of United States cities by population|75th in the United States
+| population_density_km2 = 1566.75
+
+| population_demonym     = Irvinite
+
+| timezone               = Pacific Time Zone|Pacific
+| utc_offset             = −8
+| timezone_DST           = PDT
+| utc_offset_DST         = −7
+| postal_code_type       = ZIP codes
+| postal_code            = 92602–92604, 92606, 92612, 92614, 92616–92620, 92623, 92650, 92697
+| area_code_type         = North American Numbering Plan|Area codes
+| area_code              = Area code 949|949, Area codes 657 and 714|657/714
+| blank_name             = Federal Information Processing Standard|FIPS code
+| blank_info             = 
+| blank1_name            = Geographic Names Information System|GNIS feature IDs
+| blank1_info            = 
+| blank2_name            = Sphere of Influence|Sphere of influence
+| blank2_info            = 74 miles
+| website                = 
+| footnotes              = 
+|pop_est_as_of = 2018
+|pop_est_footnotes = 
+|population_est = 276176
+|population_density_sq_mi = 4211.28
+}}
+'''Irvine''' ( city has a population of about 212,793 (as of January 1, 2009).  It has united in the past a '''green belt''' or '''greenbelt''' is a policy and land use designation used in land use planning to retain areas of largely undeveloped land|undeveloped area to the north, and has also united the former ''El Toro Marine Corps Air Station'', most of which is planned to be converted into the ''Orange County Great Park''.
+
+The University of California, the highest level of the state's public higher education system, has a campus in Irvine.
+
+Irvine is part of the Greater Los Angeles Area.
+
+Category:1971 establishments in California

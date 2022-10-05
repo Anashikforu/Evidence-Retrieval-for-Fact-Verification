@@ -1,0 +1,15 @@
+Image:PAL-NTSC-SECAM.svg|thumb|right|300px|Television encoding systems by nation; countries using the NTSC system are shown in green.
+
+'''NTSC''', also known as '''National Television System Committee''', is the analog signal|analog television system in North America, South America, Myanmar, Hong Kong (from 1974-2006). South Korea, Taiwan, Brunei Darussalam (from 1975-2002), Japan, Philippines, and some Pacific island nations and territories.
+
+Books
+
+A standard defining the NTSC system was published by the International Telecommunication Union in 1998 under the title "Recommendation ITU-R BT.470-7, Conventional Analog Television Systems". It is not publicly available on the Internet, but it can be purchased from the Ed Reitan (1997). 
+Other websites
+   <!-- this link was dead on 2007-07-22
+ -->
+
+
+
+
+Category:Television technology

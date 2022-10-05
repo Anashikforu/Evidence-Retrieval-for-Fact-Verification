@@ -1,0 +1,8 @@
+{{Infobox flag
+|Image = Flag of Angola.svg
+|Image2 = Movimento_Popular_de_Libertação_de_Angola_(bandeira).svg
+|Proportion = 2:3
+|Name=Flag of People’s Republic of Angola|Adoption=11 November 1975|Imagetext2=Flag of MPLA}}
+The '''national flag of Angola''' came into use at independence on November 11, 1975. It is split horizontally into an upper red half and a lower black half.
+
+Category:National flags|Angola

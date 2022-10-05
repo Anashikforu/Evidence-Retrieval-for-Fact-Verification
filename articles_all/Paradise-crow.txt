@@ -1,0 +1,17 @@
+{{Taxobox
+| name = Paradise-crow
+| status =  | status_system = 
+| image = Lycocorax pyrrhopterus by Bowdler Sharpe.jpg
+| image_width = 225px
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Passeriformes
+| familia = Paradisaeidae
+| genus = '''''Lycocorax'''''
+| binomial = ''Lycocorax pyrrhopterus''}}
+
+The '''paradise-crow''' (''Lycocorax pyrrhopterus'', also known as the '''silky crow''') is a medium-sized (approximately 34cm long) crow-like bird-of-paradise with all-dark, soft and silky plumage. It has a black Beak|bill, crimson eyes, and a call that sounds like a dog's bark. Both genders look about the same. The female is a little smaller than the male.
+
+The paradise-crow is monogamous and can be found in the forests of the Maluku islands in Indonesia. They eat fruits and arthropods.
+
+Category:Paradisaeidae

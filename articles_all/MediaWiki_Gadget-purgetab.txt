@@ -1,0 +1,1 @@
+Add a "Purge" tab to the top of the page which lets you purge the cache of the page.

@@ -1,0 +1,50 @@
+
+
+
+
+'''Android''' is an operating system for mobile devices. It is mostly used for smartphones, like Google's own Google Pixel, as well as by other phone manufacturers like HTC Corporation|HTC and Samsung.  It has also been used for Tablet computer|tablets such as the Motorola Xoom and Amazon Kindle. A modified Linux kernel is used as Android's Kernel (computer science)|kernel.
+Google says that over 1.3 million Android smartphones are sold every day. Most mobile phones run Android, making it the most popular mobile operating system.  It is also the most popular operating system in general.
+
+It supports multitasking and two-dimensional and three-dimensional graphics.
+
+Security updates are not provided on versions older than Android 8.0. Newer versions receive security updates if the phone manufacturer supports them. Phones which have Android 10 and above receive security updates (like app updates) directly from Google Play.
+
+The current stable version is Android 12, released on October 4, 2021. As of June 2021, Android 10 is the most used version.
+
+ Android programs 
+Computer program|Programs for Android, also called "apps" (short for Mobile application|applications), usually come from the Google Play Store. The Android programs have a file extension of APK (file format)|.APK. On May 7, 2019, Kotlin (programming language)|Kotlin replaced Java as Google’s preferred language for Android app development. Java is still supported, as is C++. Google states that
+ Android version numbers and names 
+
+Software versioning|Versions of Android have a number and have had a name based on confectionery|confectioneries, up to and including Android 9 Pie, but since then it has mostly been a number, with the code name usually only being used internally and by Developers and manufacturers. The version numbers and names are:
+
+ 1.1: (No codename)
+ 1.1: Petit Four
+ 1.5: Cupcake
+ 1.6: Donut
+ 2.0 and 2.1: Eclair
+ 2.2: Froyo (Frozen Yogurt)
+ 2.3: Gingerbread
+ 3.x: Honeycomb (a tablet-only version)
+ 4.0: Ice Cream Sandwich
+ 4.1, 4.2 and 4.3: Jelly Bean
+ 4.4: KitKat
+ 5.0 and 5.1: Lollipop
+ 6.0 and 6.0.1: Marshmallow
+ 7.0 and 7.1: Nougat
+ 8.0: Oreo
+ 9.0: Pie
+ Android 10|10: Queen Cake
+ Android 11|11: Red Velvet Cake
+ Android 12|12: Sabrina
+ Android 13|13: Tiramisu
+
+ Related pages 
+ Operating system
+ Linux
+ Google Nexus
+ Google Pixel
+ Samsung Galaxy
+ Androidland
+ iOS
+
+Category:Android (operating system)| 

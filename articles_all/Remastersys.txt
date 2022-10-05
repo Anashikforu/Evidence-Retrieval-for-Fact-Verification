@@ -1,0 +1,19 @@
+
+
+Image:Super OS.png|right|thumb|250px|Super OS is made with remastersys
+'''Remastersys''' is a free software/open source (GNU General Public License|GPL) script for Linux Linux distribution|distributions that allows a person to:
+ '''Create a customized Live CD/DVD''' of Ubuntu (operating system)|Ubuntu and derivatives.
+ Backup all the system, including user data to an installable Live CD|Live CD/DVD.
+
+Uses
+It is a very useful and easy way to create a customized Live CD/DVD version of Ubuntu, once the system is installed and configured with programs, updates, etc... the user just has to:
+#Download and install the latest version of remastersys from: #Open the program (a shortcut is created on the desktop) and then choose the dist or backup option, and then the iso of the Live CD will be automatically created.
+The resulting ISO image|iso can also be installed on a USB pendrive, creating a Live USB distro, using either a command-line approach or a graphical tool such as UNetbootin.
+
+It has a command line version and a GUI version.  It currently works with Ubuntu (operating system)|Ubuntu, and possibly more Ubuntu-based distributions. 
+The latest version of Ubuntu (8.04) is already supported. 
+
+Related pages
+Reconstructor
+
+Category:Debian-based Linux distributions

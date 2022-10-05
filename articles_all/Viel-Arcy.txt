@@ -1,0 +1,23 @@
+{{Infobox French commune
+|name = Viel-Arcy
+|arrondissement = Soissons
+|canton = Braine
+|INSEE = 02797
+|postal code = 02160
+|mayor = Maurice Denisart
+|term = 2008&ndash;2014
+|intercommunality = Val de l'Aisne
+|coordinates = 
+|elevation m = 78
+|elevation min m = 44
+|elevation max m = 180
+|area km2 = 6.59
+|population = 178
+|population date = 2008}}
+
+'''Viel-Arcy''' is a Communes of France|commune. It is found in the Regions of France|region Picardie in the Aisne Departments of France|department in the north of France.
+
+
+
+
+Category:Communes in Aisne

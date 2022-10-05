@@ -1,0 +1,33 @@
+A '''reduced instruction set computing''' (acronym '''RISC''' pronounced ''risk''), represents a CPU design method to simplify instructions which "do less" but provide higher performance by making Instruction (computer science)|instructions execute very fast.
+
+RISC was developed as an alternative to what is now known as Complex instruction set computer|CISC. However, there are CPU designs other than RISC and CISC. Some examples are VLIW, Minimal instruction set computer|MISC, OISC, massive parallel processing, systolic array, reconfigurable computing, and dataflow architecture.
+
+The main feature of a RISC Central processing unit|processors is a small core logic which allows designers to increase the number of the Processor register|register set and increase internal parallelism using one of the following methods:
+#Instruction level parallelism (ILP) which increases the rate at which instructions are executed within a CPU 
+#Thread level parallelism (TLP)  which increases the number of Thread (computer science)|threads the CPU can execute "in-parallel".  
+
+Other features, which are typically found in RISC architectures are:
+
+ Uniform Instruction (computer science)|instruction format, using a single word with the opcode in the same bit positions in every instruction, requiring less Parsing|decoding.
+ Similar Processor register|general purpose registers, allowing any register to be used by any method, simplifying compiler design. However most RISC CPUs have separate floating point registers.
+ Simple addressing modes. Complex addressing performed via sequences of arithmetic and/or load-store operations.
+ Few data types in hardware. Some CISCs have byte string (computer science)|string instructions, or support complex numbers, which are almost never found on a RISC.
+
+Well known RISC Central processing unit|processors include DEC Alpha|Alpha, ARC International|ARC, ARM architecture|ARM, Atmel AVR|AVR, MIPS architecture|MIPS, PA-RISC, PIC microcontroller|PIC, Power Architecture (including PowerPC), SuperH, and SPARC.
+
+Related pages
+ Complex instruction set computer
+ Very long instruction word
+ Minimal instruction set computer
+ Zero instruction set computer
+ OISC
+ Microprocessor
+ Instruction set architecture
+ Computer architecture
+
+Other websites
+   
+
+
+
+Category:Computer science

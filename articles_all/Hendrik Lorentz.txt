@@ -1,0 +1,29 @@
+
+
+'''Hendrik Antoon Lorentz''' (18 July 1853 – 4 February 1928) was a Netherlands|Dutch physicist. In 1902, he was awarded the Nobel Prize in Physics together with Pieter Zeeman for the discovery and theoretical explanation of the Zeeman effect. He also derived the Lorentz transformation|transformation equations that were later used by Albert Einstein to describe space and time.
+
+Biography
+=Early life=
+Hendrik Lorentz was born in Arnhem, Gelderland (The Netherlands), the son of Gerrit Frederik Lorentz (1822–1893). In 1862, after his mother's death, his father married Luberta Hupkes. 
+
+=Career=
+Lorentz and special relativity
+",{{Citation
+|author=Einstein, Albert
+|year=1905
+|title=Zur Elektrodynamik bewegter Körper
+|journal=Annalen der Physik
+|volume=322
+|issue=10
+|pages=891–921
+|url=|doi=10.1002/andp.19053221004|bibcode = 1905AnP...322..891E }}. See also: 
+Lorentz and general relativity
+Lorentz was one of few scientists who supported Einstein's search for general relativity from the beginning – he wrote several research papers and discussed with Einstein personally and by letter. For instance, he attempted to combine Einstein's formalism with Hamilton's principle (1915).
+
+=Death=
+In January 1928, Lorentz became seriously ill, and died shortly after on February 4.
+
+Related pages
+Lorentz force
+
+Category:Dutch theoretical physicists

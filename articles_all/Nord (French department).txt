@@ -1,0 +1,157 @@
+
+'''Nord''' is a Departments of France|department in the north of France, in the Hauts-de-France Regions of France|region. Its name is because the department is in the north of France. Its Prefectures in France|prefecture is Lille.
+
+History
+Nord is one of the original 83 departments created during the French Revolution on 4 March 1790 with Douai as is Capital city|capital.
+
+It was divided in eight districts: Avesnes, Bergues, Cambrai, Douai, Hazebrouck, Lille, Le Quesnoy and Valenciennes.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the eight districts were changed into six ''arrondissements'': Avesnes, Bergues, Cambrai, Cassel, Douai and Lille.
+
+In 1803, the capital of the department was moved from Douai to Lille and the subprefecture of Bergues was moved to Dunkirk.
+
+The ''arrondissement'' of Valenciennes was created in 1824.
+
+The subprefecture of Cassel was moved to Hazebrouck in 1857. On 10 September 1926, the ''arrondissement'' of Hazebrouck was eliminated.
+
+In 1962, the name of the ''commune'' Avesnes was changed to Avesnes-sur-Helpe.
+
+Geography
+Nord is part of the Hauts-de-France Regions of France|region. It has an area of .
+
+The department is surrounded by the North Sea, Belgium (West Flanders and Hainaut (province)|Hainaut provinces) and 3 other departments of the Hauts-de-France region:
+ Hauts-de-France region
+ Aisne (south)
+ Somme (southwest) (a short distance)
+ Pas-de-Calais (west)
+
+
+
+
+Administration
+Nord is managed by the ''Departmental Council of Aisne'' in Lille. The department is part of the Hauts-de-France region.
+
+=Administrative divisions=
+There are 6 Arrondissements of France|''arrondissements'' (districts), 41 Cantons in France|''cantons'' and 648 Communes in France|''communes'' (Municipality|municipalities) in Nord.
+
+
+
+
+
+The following is a list of the 41 Cantons of France|cantons of the '''Nord''' department, following the French canton reorganisation which came into effect in March 2015:
+
+
+ Canton of Aniche|Aniche (5901)
+ Canton of Annœullin|Annœullin (5902)
+ Canton of Anzin|Anzin (5903)
+ Canton of Armentières|Armentières (5904)
+ Canton of Aulnoye-Aymeries|Aulnoye-Aymeries (5905)
+ Canton of Aulnoy-lez-Valenciennes|Aulnoy-lez-Valenciennes (5906)
+ Canton of Avesnes-sur-Helpe|Avesnes-sur-Helpe (5907)
+ Canton of Bailleul|Bailleul (5908)
+ Canton of Cambrai|Cambrai (5909)
+ Canton of Le Cateau-Cambrésis|Le Cateau-Cambrésis (5910)
+ Canton of Caudry|Caudry (5911)
+ Canton of Coudekerque-Branche|Coudekerque-Branche (5912)
+ Canton of Croix|Croix (5913)
+ Canton of Denain|Denain (5914)
+ Canton of Douai|Douai (5915)
+ Canton of Dunkerque-1|Dunkerque-1 (5916)
+ Canton of Dunkerque-2|Dunkerque-2 (5917)
+ Canton of Faches-Thumesnil|Faches-Thumesnil (5918)
+ Canton of Fourmies|Fourmies (5919)
+ Canton of Grande-Synthe|Grande-Synthe (5920)
+ Canton of Hazebrouck|Hazebrouck (5921)
+ Canton of Lambersart|Lambersart (5922)
+ Canton of Lille-1|Lille-1 (5923)
+ Canton of Lille-2|Lille-2 (5924)
+ Canton of Lille-3|Lille-3 (5925)
+ Canton of Lille-4|Lille-4 (5926)
+ Canton of Lille-5|Lille-5 (5927)
+ Canton of Lille-6|Lille-6 (5928)
+ Canton of Marly|Marly (5929)
+ Canton of Maubeuge|Maubeuge (5930)
+ Canton of Orchies|Orchies (5931)
+ Canton of Roubaix-1|Roubaix-1 (5932)
+ Canton of Roubaix-2|Roubaix-2 (5933)
+ Canton of Saint-Amand-les-Eaux|Saint-Amand-les-Eaux (5934)
+ Canton of Sin-le-Noble|Sin-le-Noble (5935)
+ Canton of Templeuve|Templeuve (5936)
+ Canton of Tourcoing-1|Tourcoing-1 (5937)
+ Canton of Tourcoing-2|Tourcoing-2 (5938)
+ Canton of Valenciennes|Valenciennes (5939)
+ Canton of Villeneuve-d'Ascq|Villeneuve-d'Ascq (5940)
+ Canton of Wormhout|Wormhout (5941)
+
+
+Demographics
+The inhabitants of Nord are known, in French language|French, as ''Nordistes''.
+
+Nord had a population, in 2014, of 2,603,472, for a population density of  inhabitants/km2. The ''arrondissement'' of Lille, with 1,232,513 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Nord'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+ImageSize  = width:600 height:373
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:3000000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:500000 start:0
+ScaleMinor = gridcolor:lightgrey increment:250000 start:0
+BackgroundColors = canvas:sfondo
+BarData=
+  bar:1968 text:1968
+  bar:1975 text:1975
+  bar:1982 text:1982
+  bar:1990 text:1990
+  bar:1999 text:1999
+  bar:2008 text:2008
+  bar:2014 text:2014
+PlotData=
+  color:barra width:30 align:left
+  bar:1968 from:0 till: 2418847
+  bar:1975 from:0 till: 2511478
+  bar:1982 from:0 till: 2520526
+  bar:1990 from:0 till: 2531855
+  bar:1999 from:0 till: 2555020
+  bar:2008 from:0 till: 2564959
+  bar:2014 from:0 till: 2603472
+PlotData=
+ bar:1968 at: 2418847 fontsize:S text: 2,418,847 shift:(-12,7)
+ bar:1975 at: 2511478 fontsize:S text: 2,511,478 shift:(-22,5)
+ bar:1982 at: 2520526 fontsize:S text: 2,520,526 shift:(-22,5)
+ bar:1990 at: 2531855 fontsize:S text: 2,531,855 shift:(-22,5)
+ bar:1999 at: 2555020 fontsize:S text: 2,555,020 shift:(-22,5)
+ bar:2008 at: 2564959 fontsize:S text: 2,564,959 shift:(-22,5)
+ bar:2014 at: 2603472 fontsize:S text: 2,603,472 shift:(-22,5)
+
+
+
+The 10 ''Communes of France|communes'' in the department with more inhabitants are:
+
+
+
+
+Gallery
+
+
+File:Lille Cathedral exterior 01.JPG|Lille cathedral.
+File:Mairie de Dunkerque - panoramio.jpg|Dunkirk City and town halls|town hall.
+File:Douai - Vue à partir du Beffroi (03).JPG|Overview of Douai.
+File:Valenciennes 001.jpg|Valenciennes City and town halls|town hall.
+File:Valenciennes - Place Verte.JPG|''Place Verte'', Valenciennes.
+
+
+
+Related pages
+ Arrondissements of the Nord department
+ Communes of the Nord department
+
+Category:Departments in Hauts-de-France

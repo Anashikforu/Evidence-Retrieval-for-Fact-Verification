@@ -1,0 +1,13 @@
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at Template:Infobox Planet.
+-->
+
+
+'''Cressida''' is a closer moon to Uranus (planet)|Uranus. It was found from the images taken by ''Voyager 2'' on 1986-01-09, and was given the designation '''S/1986&nbsp;U&nbsp;3'''.
+
+Cressida belongs to Portia Group of moons, which also includes Bianca (moon)|Bianca, Desdemona (moon)|Desdemona, Juliet (moon)|Juliet, portia (moon)|Portia, Rosalind (moon)|Rosalind, Cupid (moon)|Cupid, Belinda (moon)|Belinda and Perdita (moon)|Perdita. These moons have similar orbits and photometric properties. Other than its orbit, radius of 41&nbsp;km and geometric albedo of 0.08 almost nothing is known about it.
+
+At the Voyager 2 images Cressida appears as a stretched object, the major axis pointing towards uranus (planet)|Uranus. The ratio of axes of Cressida's prolate spheroid is 0.8 ± 0.3. Its surface is grey in color.
+
+Category:Uranus' moons

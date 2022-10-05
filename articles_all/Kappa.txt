@@ -1,0 +1,13 @@
+
+
+
+'''Kappa''' (uppercase/lowercase '''Κ κ''') is the letter of the Greek alphabet used to represent the "k" sound in Ancient Greek|Ancient and Modern Greek language|Modern Greek. In the system of Greek numerals, it has a value of 20. Letters that came from it include the Roman K and Cyrillic К.
+
+The letter κ always stands for the sound "k" in Greek. It is customary to transliterate (re-write) κ as "c" in English, but this is somewhat problematic since c is pronounced as "s" before e, i and y (which does not happen in Greek).
+
+In mathematics, the lowercase \kappa is used to represent the curvature of a curve, while the uppercase Κ is used to represent an ordinal number which is also a cardinal number.
+
+ Related pages 
+
+ Thermal conductivity, represented by \kappa
+

@@ -1,0 +1,38 @@
+{{Infobox DMU
+|name = British Rail Class 112 
+|image = 
+|imagesize = 240px
+|background = #0033cc
+|caption = 
+|Manufacturer = Cravens
+|Operator = British Rail
+|Formation =   
+|Built =1960.
+|LinesServed = 
+|InService = 1960-
+|CarLength = 57 ft 6 in 
+|CarWidth = 9 ft 3 in 
+|CarHeight = 
+|Weight = 29 tons 10 cwt
+|Capacity = 
+|MaxSpeed = 70 mph (112 km/h)  
+|Gauge = 
+|Traction = 
+|Engine =Rolls Royce of 238 hp 
+|SafetySystem=
+ |}}
+
+
+The '''Class 112''' DMUs used the standard Cravens body used for British Rail Class 105|Class 105s but had a single Rolls-Royce Limited|Rolls-Royce engine of 238&nbsp;Horsepower|hp per car, and they were all formed into 'power twins'- two car sets with both vehicles powered.
+
+There were two batches built, the first 50 vehicles (25 sets) had standard mechanical transmission via a gearbox and were allocated the Class 112. The second batch of 50 cars (25 sets) had hydraulic transmission, and became Class 113s.
+
+The cars were built for services in the London Midland Region|LMR Central Division and in the Liverpool - St Helens, Merseyside|St Helens area, where the gradients in the Lancashire and Yorkshire Railway|Lancashire & Yorkshire area required more power. Both types also spent some time working from Cricklewood.
+
+The gross weight of a set with all seats occupied was approximately 70 tons, giving 6.8 hp per ton. Empty, it was 8.1 hp/ton, which compared favourably with 5.7 hp/ton that the Cravens power/trailer had.
+
+
+
+
+
+Category:British Rail diesel multiple units|112

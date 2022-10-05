@@ -1,0 +1,166 @@
+
+ 
+'''Loiret''' is a Departments of France|department in north-central France in the Centre-Val de Loire Regions of France|region. It is named after the Loiret (river)|Loiret river, a tributary of Loire River|Loire that is completely within the department.
+
+Its Prefectures in France|prefecture is Orléans and there are two Prefectures in France|subprefectures: Montargis and Pithiviers.
+
+History
+The department is one of the 83 French departments made during the French revolution, on 4 March 1790. The department was created from part of the former province of Orléanais.
+
+The new department had seven districts: Orléans, Beaugency, Neuville, Pithiviers, Montargis, Gien and Boiscommun. The Capital city|capital (now Prefectures in France|prefecture) was Orléans.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the seven districts were changed into four ''arrondissements'': Orléans, Gien, Montargis and Pithiviers.
+
+After the Battle of Waterloo (18 June 1815), the department was occupied by the Bavarian army from June 1815 to November 1818.
+
+On 10 September 1926, the ''arrondissement'' of Gien and Pithiviers were eliminated but in 1942 Pithiviers became again an ''arrondissement'' of the department.
+
+Geography
+Loiret is part of the Centre-Val de Loire Regions of France|region. It has an area of .
+
+The department is bordered by the 7 departments in 3 regions:
+
+ Centre-Val de Loire region
+ Eure-et-Loir
+ Cher (department)|Cher
+ Loir-et-Cher
+ Île-de-France region
+ Essonne
+ Seine-et-Marne
+ Bourgogne-Franche-Comté region
+ Yonne
+ Nièvre
+
+
+
+The highest point of the department is in the place called ''Col des Étourneaux'' ( above sea level; it is in northwestern Massif Central.
+
+The main rivers are:
+ Loire River|Loire, that flows through the department from the southeast to the west.
+ Loiret (river)|Loiret, a short tributary of the Loire and that gives its name to the department.
+ Loing, 142&nbsp;km long.
+ Cosson, 96.4&nbsp;km long.
+ Essonne (river)|Essonne, 97&nbsp;km long.
+
+There are several natural regions in the Loiret department:
+# The '''Loire Valley''', the valley around the Loire River|Loire river.
+# '''Beauce''', to the northwest of the department; it is a limestone plateau and an important farming region where wheat is grown.
+# '''Gâtinais''', to the east around the city of Montargis.
+# The '''Forêt d'Orléans''' ("Forest of Orléans"), the largest national forest of France; it is to the north of the Loire river and to the south of the Beauce region.
+# '''Sologne''', south of the Loire river.
+# '''Berry''' (a small part), to the southeast.
+# '''Puisaye''', between the Berry and the Gâtinais.
+
+= Climate =
+The Köppen climate classification type for the climate at Orléans is an "Oceanic climate" (also known as Marine West Coast Climate) and of the subtype '''Cfb'''.
+
+The average amount of precipitation for the year in Orléans is .
+
+The average temperature for the year in Orléans is .
+
+Administration
+The department is managed by the ''Departmental Council of the Loiret'' in Orléans. Loiret is part of the region of Centre-Val de Loire.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 21 Cantons in France|''cantons'' and 326 Communes in France|''communes'' (Municipality|municipalities) in Loiret.
+
+
+
+
+
+The following is a list of the 21 Cantons of France|cantons of the Loir-et-Cher department, following the French canton reorganisation which came into effect in March 2015:
+
+# Canton of Beaugency|Beaugency (4501)
+# Canton of Châlette-sur-Loing|Châlette-sur-Loing (4502)
+# Canton of Châteauneuf-sur-Loire|Châteauneuf-sur-Loire (4503)
+# Canton of Courtenay|Courtenay (4504)
+# Canton of La Ferté-Saint-Aubin|La Ferté-Saint-Aubin (4505)
+# Canton of Fleury-les-Aubrais|Fleury-les-Aubrais (4506)
+# Canton of Gien|Gien (4507)
+# Canton of Lorris|Lorris (4508)
+# Canton of Malesherbes|Malesherbes (4509)
+# Canton of Meung-sur-Loire|Meung-sur-Loire (4510)
+# Canton of Montargis|Montargis (4511)
+# Canton of Olivet|Olivet (4512)
+# Canton of Orléans-1|Orléans-1 (4513)
+# Canton of Orléans-2|Orléans-2 (4514)
+# Canton of Orléans-3|Orléans-3 (4515)
+# Canton of Orléans-4|Orléans-4 (4516)
+# Canton of Pithiviers|Pithiviers (4517)
+# Canton of Saint-Jean-de-Braye|Saint-Jean-de-Braye (4518)
+# Canton of Saint-Jean-de-la-Ruelle|Saint-Jean-de-la-Ruelle (4519)
+# Canton of Saint-Jean-le-Blanc|Saint-Jean-le-Blanc (4520)
+# Canton of Sully-sur-Loire|Sully-sur-Loire (4521)
+
+
+Demographics
+The inhabitants of Loiret are known, in French language|French, as ''Loiretains'' (women: ''Loiretaines'').
+
+Loiret has a population, in 2014, of 669,737, for a population density of  inhabitants/km2. The ''arrondissement'' of Orléans, with 435,676 inhabitants, is by far the largest.
+
+
+'''Evolution of the population in Loiret'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:700000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:100000 start:0
+ScaleMinor = gridcolor:lightgrey increment:50000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2006 text:2006
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 430629
+ bar:1975 from:0 till: 490189
+ bar:1982 from:0 till: 535669
+ bar:1990 from:0 till: 580612
+ bar:1999 from:0 till: 618126
+ bar:2006 from:0 till: 645325
+ bar:2014 from:0 till: 669737
+
+PlotData=
+ bar:1968 at: 430629 fontsize:S text: 430,629 shift:(-13,5)
+ bar:1975 at: 490189 fontsize:S text: 490,189 shift:(-18,5)
+ bar:1982 at: 535669 fontsize:S text: 535,669 shift:(-18,5)
+ bar:1990 at: 580612 fontsize:S text: 580,612 shift:(-18,5)
+ bar:1999 at: 618126 fontsize:S text: 618,126 shift:(-18,5)
+ bar:2006 at: 645325 fontsize:S text: 645,325 shift:(-18,5)
+ bar:2014 at: 669737 fontsize:S text: 669,737 shift:(-18,5)
+
+
+
+The main cities in the department are:
+
+
+
+
+Gallery
+
+File:Orleans - Cathedral int 01.jpg|Orléans cathedral
+File:Chateau de Sully sur Loire DSC 0188.JPG|Château de Sully-sur-Loire
+File:France Loiret Yevre-le-Chatel Chateau 06.JPG|Yèvre-le-Châtel
+File:Beaugency2.jpg|Beaugency
+File:MeungSurLoire01.jpg|Meung-sur-Loire
+File:Jardin Durzy-4.JPG|The Durzy garden, Montargis
+
+
+Category:Departments in Centre-Val de Loire

@@ -1,0 +1,26 @@
+
+'''Metriacanthosaurids''' were a Family (biology)|family of carnivore|carnivorous theropod dinosaurs. They tended to be large predators, and some were 30 Foot (length)|ft (10 Metre|m) long. 
+
+Metriacanthosaurids are Carnosauria|carnosaurs. At first they were classified in the Megalosauridae or Allosauridae, now they are put in their own family. A gigantic tooth, which may come from a giant metriacanthosaurid, was described recently (2008).Xu X. & Clark J.M. 2008. The presence of a gigantic theropod in the Jurassic Shishugou Formation, Junggar Basin, western China. ''Vertebrata PalAsiatica'', '''46''': 158-160. 
+ Classification 
+The Metriacanthosauridae is a Monophyly|monophyletic group. Cladistics|Cladistically it includes ''Metriacanthosaurus|Metriacanthosaurus parkeri'' and species closer related to ''Metriacanthosaurus'' than to ''Allosaurus|Allosaurus fragilis'', ''Carcharodontosaurus|Carcharodontosaurus saharicus'', or to birds. These Theropoda|theropods are close to the ancestors of the Allosauridae|allosaurs.
+
+Metriacanthosauridae is often referred to as "Sinraptoridae", but Metriacanthosauridae is the correct name under ICZN rules, since ''Metriacanthosaurus'' was the first member of the family to be described and named. 
+
+The cladogram here follows a study by Benson and colleagues.Benson R.B.J; Carrano M.T & Brusatte S.L. 2010.  A new clade of archaic large-bodied predatory dinosaurs (Theropoda: Allosauroidea) that survived to the latest Mesozoic. ''Naturwissenschaften'' '''97''' (1) 71–78 
+{{clade| style=font-size:100%;line-height:80%
+|label1='''Metriacanthosauridae'''
+                  |1={{clade
+                     |1={{clade
+                        |1=''Metriacanthosaurus''
+                        |2=''Sinraptor''
+                        }}
+                     |label2= unnamed
+                     |2={{clade
+                        |1=''Poekilopleuron''
+                        |2=''Lourinhanosaurus''
+                        }}
+                     }}
+                  }}
+
+Category:Carnosaurs

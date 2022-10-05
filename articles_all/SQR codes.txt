@@ -1,0 +1,13 @@
+
+
+Image:QR code.png|thumb|200px|Another example of an SQR code
+
+Secure Quick Response codes or '''SQR codes''' are secure 2D|two dimensional barcodes with high data density, based on QR codes.
+
+Secure Quick Response codes are a secure method for Encryption|encrypting data into a barcode. It makes it extremely difficult to decode into the original Plaintext|plain text in the absence of the Cipher|encryption cipher or Encryption key|key. A typical implementation of SQR codes would be to create a one-time use SQR code on a mobile phone's Computer monitor|screen to effectively create a highly secure one-time pad type of encryption of, for example, an Online and offline|online account number.
+
+A typical implementation is to encrypt and use a precursor physical machine readable token such as the card identity number (CID) written in read-only memory (ROM) of a Secure Digital card|Secure Digital microSD card contained in a mobile telephone.  The IMEI|international mobile identity number may be used where no microSD card is present, for example, on an IPhone|Apple iPhone.
+
+SQR codes may be securely read in a retail environment at the point of sale using 2D barcode scanners or even a low cost Webcam|web camera. Secure Quick Response codes were first developed by Yodo, a company operating in Japan, and are patent pending.
+
+Category:Data input

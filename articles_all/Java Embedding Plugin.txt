@@ -1,0 +1,9 @@
+
+
+'''Java Embedding Plugin''' (JEP) allows Java (programming language)|Java on Mac OS X with browsers that are not Safari (web browser)|Safari.
+
+
+
+Other websites
+ 
+Category:Web browsers

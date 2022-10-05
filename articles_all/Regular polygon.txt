@@ -1,0 +1,15 @@
+
+A '''regular polygon''' is a polygon which is both equilateral polygon|equilateral (which means all its sides have the same length) and equiangular polygon|equiangular (which means that all its angles are the same).
+Examples
+The simplest examples of regular polygons are:
+
+Equilateral Triangle.svg|equilateral triangle
+Square diagonals.svg|square
+01-Fünfeck.svg|pentagon
+Hexagon.svg|hexagon
+Heptagon.svg|heptagon
+Regular octagon.svg|octagon
+Nonagon.svg|nonagon|enneagon
+Regular-Decagon.svg|decagon
+
+Category:Polygons

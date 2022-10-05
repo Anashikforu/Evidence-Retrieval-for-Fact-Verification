@@ -1,0 +1,23 @@
+The '''Year 10,000 problem''' (also known as the '''Y10K problem''', '''Y10K Bug''', and '''Y10K''') is an error machines and computers will encounter when they need to express five digits for a year.
+
+Cultural practicing
+
+Some peopleCultural practice of Two-Digit Chop Off. practice the art of cutting the last two digits of a decade. For example, the "1970's" becomes just the "70's".Chopping It Off. Cultural.com, 2010.
+However, this becomes a problem, because to keep order, one will now need to take the last '''three''' digits, rather than two.Digital Prolonging effects of Y10K. Retrieved 5-7-08.
+
+ Computer Errors due to this 
+This is also a problem because the "000's" might be confused with the standard digits "00's", representing a new century. Also, the year can overflow with certain computer programs. For example: in Microsoft Excel, '''12/31/9999''' is considered a valid date, but '''1/1/10000''' is invalid and will raise errors. The date "ten thousand" is unable to be supported, producing a large negative instead.Date Overflowing: Your Machine in 10000. Long Now Foundation, 2005.
+
+Efforts
+
+So far, the Long Now Foundation is able to preempt the Y10K by adding a "0" in front of the date. So the current year of . However, it would still be affected by the "Y100K" problem.What about 100K? Long Now, 2005.
+
+ Database Errors 
+In MySQL  databases, the values of some datatypes are limited to the scope of only 31-12-9999 which causes some problems as the computer would not be able to compile the data in the SQL. Many other Structured Query Language|SQL software can also be affected by this error.
+
+ Related pages 
+ Year 2000 problem
+ Programming bug
+ Integer overflow
+
+Category:Computing

@@ -1,0 +1,53 @@
+{{Infobox national football team
+| Name               = Northern Mariana Islands
+| Nickname           = Blue Ayuyu
+| Association        = Northern Mariana Islands Football Association
+| Confederation      = Asian Football Confederation|AFC
+| Coach              = Michiteru Mita
+| Sub-confederation  = EAFF (East Asia)
+| Most caps          = Nicolas Swaim (15)
+| Top scorer         = Joe Wang Miller (4)
+| Captain            = Jonathan Jones Takano
+| FIFA Trigramme     = NMI
+| Home Stadium       = Oleai Sports Complex
+| FIFA Rank          = N/A&nbsp;– not FIFA member
+| Elo Rank           = 
+| Elo max            =213
+| Elo max date       =30 July 1998
+| Elo min            =240
+| Elo min date       =unknown
+| pattern_la1        =
+| pattern_b1         =
+| pattern_ra1        =
+| leftarm1           =0070FF
+| body1              =0070FF
+| rightarm1          =0070FF
+| shorts1            =0070FF
+| socks1             =0070FF
+| pattern_la2        =
+| pattern_b2         =
+| pattern_ra2        =
+| leftarm2           = FFFFFF
+| body2              = FFFFFF
+| rightarm2          = FFFFFF
+| shorts2            = FFFFFF
+| socks2             = FFFFFF
+| First game         =   (Koror, Palau; 27 July 1998)
+| Largest win        = (Saipan, Northern Mariana Islands; 11 February 2022)
+| Largest loss       =   (Ulaanbaatar, Mongolia; 4 September 2018)
+| Regional name      = AFC Asian Cup 
+| Regional cup apps  = None
+| Regional cup first = 
+| Regional cup best  = 
+| 2ndRegional name       = EAFF E-1 Football Championship
+| 2ndRegional cup apps     = None
+| 2ndRegional cup first    = 
+| 2ndRegional cup best     = 
+| Confederations cup apps  = 
+| Confederations cup first = 
+| Confederations cup best  = 
+| American = true
+|Badge=Flag of Northern Mariana Islands.svg}}
+'''Northern Mariana Islands national football team''' is the national football (soccer)|football team of Northern Mariana Islands.
+
+Category:Northern Mariana Islands

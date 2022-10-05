@@ -1,0 +1,22 @@
+Image:Klaviatur-3-en.svg|300px|thumb|right|A musical keyboard.  The black note between C and D is called either C sharp or D flat
+A '''semitone''' 
+(United Kingdom|British English language|English) (also called a '''half step''' or a '''half tone'''''Semitone'', ''half step'', ''half tone'', ''halftone'', and ''half-tone'' are all variously used.Aaron Copland, Leonard Bernstein, and others use "half tone".One source says that ''step'' is "chiefly US",
+A '''whole tone''' means a distance of two semitones, i.e. the distance between two notes which are separated by one other note in pitch.
+
+This is easy to see with a picture of a Keyboard instrument|keyboard.  The distance between two white notes that are side by side may be a whole tone (if there is a black note in between them) or a semitone (if there is no black note between).
+
+To go from a C to a C sharp (or D flat) is a semitone.
+
+To go from a C sharp (or D flat) to a D is a semitone.
+
+To go from a C to a D is a tone.
+
+An octave is divided into twelve semitones.  These semitones are exactly equal in size.
+
+Related pages
+Scale (music)
+Interval (music)
+Circle of fifths 
+Chromaticism
+
+Category:Music theory

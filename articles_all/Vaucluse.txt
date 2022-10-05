@@ -1,0 +1,161 @@
+
+The '''Vaucluse''' () is a departments of France|department in the southeast of France in the Provence-Alpes-Côte d'Azur Regions of France|region. Its Prefectures in France|prefecture is Avignon.
+
+It is named after a famous Spring (water)|spring, in the ''commune'' Fontaine-de-Vaucluse. The name Vaucluse comes from the Latin Language|Latin ''Vallis Clausa'' ("closed valley") as the valley here ends in a cliff from which rises a spring.
+
+History
+Vaucluse was not one of the 83 French departments made during the French revolution, on 4 March 1790. It was created on 12 August 1793 with  four districts: Apt, Orange, Ouvèze (Carpentras), Vaucluse (Avignon); its capital city|capital was Avignon.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the districts were changed into ''arrondissements'': Avignon, Apt, Carpentras and Orange.
+
+After the Battle of Waterloo (18 June 1815), the department was occupied by the Austrian army from June 1815 to November 1818.
+
+On 10 September 1926, the ''arrondissement'' of Orange was eliminated and the subprefecture of Apt was moved to Cavaillon but went back to Apt in 1933.
+
+Geography
+Vaucluse is part of the Provence-Alpes-Côte d'Azur Regions of France|region, in southeast France, with an area of . The department has an exclave to the north, the canton of Valréas, surrounded completely by Drôme department.
+
+The department borders with 3 regions and 6 other departments:
+ Occitanie region
+ Gard (west)
+ Auvergne-Rhône-Alpes region
+ Drôme (north)
+ Ardèche (northwest)
+ Provence-Alpes-Côte d'Azur region
+ Alpes-de-Haute-Provence (east)
+ Var (department)|Var (southeast) ( a short distance)
+ Bouches-du-Rhône (south)
+
+
+
+The are several Mountain chain|chains of mountains in the Vaucluse department, mainly in the eastern half; from northeast to southeast, they are:
+# '''Dentelles de Montmirail''', a small chain of small mountains; the highest point is ''Crête de Saint-Amand'',  high.
+# '''Vaucluse Mountains''' ( high.
+# '''Luberon Massif''', in the souhteast of the department; the highest point is ''Mourre Nègre'', ).
+
+The highest mountain in the department is ''Mont Ventoux'' ( high. It stands alone to the north of the Luberon Mountain range|range, separated by the Vaucluse Mountains, and just to the eastern base of the Dentelles de Montmirail.
+
+There are several valleys and plain in the department. The main important plain is the plain of Comtat where is most of the population of the department. It is to the south and the west of the Mont Ventoux and has the Rhône river to the west, the Durance river to the south and the Vaucluse Mountains to the east.
+
+The main rivers are the Rhône and the Durance, tributary of the Rhône. Other rivers are Tributary|tributaries of those two rivers.
+
+= Climate =
+The climate in Avignon, at an altitude of , is of the subtype '''Csa''' (Mediterranean climate) in the Köppen climate classification.
+
+The average temperature for the year in Avignon is .
+
+The average amount of precipitation for the year in Avignon is .
+
+Administration
+Vaucluse is part of the region of Provence-Alpes-Côte d'Azur. The department is managed by the ''Departamental Council of the Vaucluse'' in Avignon.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 17 Cantons in France|''cantons'' and 151 Communes in France|''communes'' (Municipality|municipalities) in Vaucluse.
+
+
+
+
+
+The following is a list of the 17 Cantons of France|cantons of the Vaucluse Departments of France|department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+# Canton of Apt|Apt (8401)
+# Canton of Avignon-1|Avignon-1 (8402)
+# Canton of Avignon-2|Avignon-2 (8403)
+# Canton of Avignon-3|Avignon-3 (8404)
+# Canton of Bollène|Bollène (8405)
+# Canton of Carpentras|Carpentras (8406)
+# Canton of Cavaillon|Cavaillon (8407)
+# Canton of Cheval-Blanc|Cheval-Blanc (8408)
+# Canton of L'Isle-sur-la-Sorgue|L'Isle-sur-la-Sorgue (8409)
+# Canton of Monteux|Monteux (8410)
+# Canton of Orange|Orange (8411)
+# Canton of Pernes-les-Fontaines|Pernes-les-Fontaines (8412)
+# Canton of Pertuis|Pertuis (8413)
+# Canton of Le Pontet|Le Pontet (8414)
+# Canton of Sorgues|Sorgues (8415)
+# Canton of Vaison-la-Romaine|Vaison-la-Romaine (8416)
+# Canton of Valréas|Valréas (8417)
+
+
+Demographics
+The inhabitants of Vaucluse are known, in French language|French, as ''Vauclusiens'' (women: ''Vauclusiennes'').
+
+Vaucluse has a population, in 2014, of 554,374, for a population density of  inhabitants/km2. The ''arrondissement'' of Avignon, with 296,303 inhabitants, is by far the largest. The other two, Carpentras and Apt, have respectively 129,623 and 128,448 inhabitants.
+
+The city with more people living in it is the Capital city|capital, Avignon (92,209). The subprefectures of Carpentras and Apt, Vaucluse|Apt have, respectively, 28,447 and 11,885 inhabitants.
+
+
+'''Evolution of the population in Vaucluse'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:600000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2008 text:2008
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 353966
+ bar:1975 from:0 till: 390446
+ bar:1982 from:0 till: 427343
+ bar:1990 from:0 till: 467075
+ bar:1999 from:0 till: 499685
+ bar:2008 from:0 till: 538902
+ bar:2014 from:0 till: 554374
+
+PlotData=
+ bar:1968 at: 353966 fontsize:S text: 353,966 shift:(-12,5)
+ bar:1975 at: 390446 fontsize:S text: 390,446 shift:(-18,5)
+ bar:1982 at: 427343 fontsize:S text: 427,343 shift:(-18,5)
+ bar:1990 at: 467075 fontsize:S text: 467,075 shift:(-18,5)
+ bar:1999 at: 499685 fontsize:S text: 499,685 shift:(-18,5)
+ bar:2008 at: 538902 fontsize:S text: 538,902 shift:(-18,5)
+ bar:2014 at: 554374 fontsize:S text: 554,374 shift:(-18,5)
+
+
+
+The 12 most important cities in the department are:
+
+
+
+
+
+ Economy 
+Vaucluse has been always a Rural area|rural department where farming is the main Economy|economic activity. The most important produces in the department are fruits (melons, Cherry|cherries, strawberrys, apples, grapes and others) and vegetables (tomatoes).
+
+Another important product of the region is wine, mainly those wines known as ''Côtes-du-Rhône''.
+
+ Gallery 
+
+File:Saint-benezet in southeastern France.jpg|''Pont Saint-Bénezet'' and ''Palais des Papes'' in Avignon
+File:TrBogen Orange.jpg|The Triumphal Arch of Orange, Vaucluse|Orange
+File:Gordes 1.jpg|Gordes
+File:140608 Mont-Ventoux-04.jpg|Mont Ventoux
+File:DentelleMontmirail.jpg|''Dentelles de Montmirail''
+
+
+Related pages
+ Arrondissements of the Vaucluse department
+ Communes of the Vaucluse department
+
+Category:Departments in Provence-Alpes-Côte d'Azur

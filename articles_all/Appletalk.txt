@@ -1,0 +1,8 @@
+'''Appletalk''' is a suite of protocols for computer networking. It allowed Apple Macintosh computers to connect one another. It also allowed a computer to use a computer printer|printer connected to the network. Apple has switched from Appletalk to TCP/IP.
+
+
+
+
+Category:Computer protocols
+Category:Computer networking
+Category:Apple Inc.

@@ -1,0 +1,21 @@
+{{Taxobox 
+| name  = Northern green frog
+| image = Northern Green Frog - Tewksbury, NJ.jpg
+| image_caption = Female Northern green frog
+| regnum = Animalia 
+| classis = Amphibia
+| ordo = Anura
+| familia = Ranidae
+| genus = ''Rana (genus)|Rana''
+| species = '''Rana clamitans'''
+| subspecies = '''''R. c. melanota''''' 
+| synonyms = ''Lithobates clamitans melanotus''}}
+
+The '''Northern green frog''' is a subspecies of the North American green frog. Its name is either ''Rana clamitans melanota'',Green Frog, CARCNET
+
+It is moderately large. It is found in the northeast United States and some of eastern Canada. Its call sounds like a plucked banjo. It has a fold running from the top of its eyes down the side of its back. The bullfrog does not have these folds. It is normally found in swamps, marshes, and muddy streams.
+
+Related pages
+Pickerel frog
+
+Category:Frogs

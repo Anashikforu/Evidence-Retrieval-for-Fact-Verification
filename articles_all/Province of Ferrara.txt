@@ -1,0 +1,78 @@
+
+The '''province of Ferrara''' () is a Provinces of Italy|province in the Emilia-Romagna region in Northeast Italy, on the Adriatic Sea. Its Capital city|capital is the city of Ferrara.
+
+Geography
+
+The province of Ferrara is the most northerly province in the Emilia-Romagna region. It has an area of  northeast of Bologna, the capital of the region.
+
+The province is bordered to the north by the province of Rovigo in the Veneto region, to the northwest by the province of Mantua in Lombardy, to the west by the Province of Modena|Modena and Province of Bologna|Bologna provinces, to the south by the province of Ravenna and to the east by the Adriatic Sea.
+
+
+
+The province is completely flat, with an altitude that goes from 0 m to less than  of average altitude; the ''comune'' with a higher average altitude is Sant'Agostino, Emilia–Romagna|Sant'Agostino.
+
+The main rivers in the province are the Po River|Po and the Reno (river)|Reno. The Po forms the north border of the province with the province of Rovigo. In Ferrara, the river has three main branches: the ''Po di Volano'', that flows through the city of Ferrara, the ''Po di Primaro'' and the ''Po di Goro''.
+
+The Reno river is the longest of the region without being a tributary of the Po.
+
+The main lakes in the province are the ''Lago delle Nazioni'' ("Nation's Lake), an artificial lake, and the ''Lago del Quaternario''.
+
+Population
+There are 348,362 persons living in the province (January 2017), for a population density of  inhabitants/km².
+
+'''Evolution of the population in the province'''
+
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:450000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo 
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2017 text:2017
+
+PlotData=
+ color:barra width:30 align:left
+
+  bar:1961 from:0 till: 403218
+  bar:1971 from:0 till: 383639
+  bar:1981 from:0 till: 381118
+  bar:1991 from:0 till: 360763
+  bar:2001 from:0 till: 344323
+  bar:2011 from:0 till: 353481
+  bar:2017 from:0 till: 348362
+
+PlotData=
+  bar:1961 at: 403218 fontsize:S text: 403,218 shift:(-13,5)
+  bar:1971 at: 383639 fontsize:S text: 383,639 shift:(-18,5)
+  bar:1981 at: 381118 fontsize:S text: 381,118 shift:(-18,5)
+  bar:1991 at: 360763 fontsize:S text: 360,763 shift:(-18,5)
+  bar:2001 at: 344323 fontsize:S text: 344,323 shift:(-18,8)
+  bar:2011 at: 353481 fontsize:S text: 353,481 shift:(-18,5)
+  bar:2017 at: 348362 fontsize:S text: 348,362 shift:(-18,5)
+
+
+
+Municipalities
+The following shows the 23 Comune|''comuni'' (Municipality|municipalities) with the population, and the area and altitude.
+
+
+
+Category:Provinces of Emilia-Romagna|Ferrara

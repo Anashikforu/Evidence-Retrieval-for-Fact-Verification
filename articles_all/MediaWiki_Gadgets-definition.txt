@@ -1,0 +1,44 @@
+ browsing-gadgets 
+ modrollbackResourceLoader|rights=rollback|modrollback.js
+ confirmationRollback-mobileResourceLoader|rights=rollback|dependencies=mediawiki.util|targets=desktop,mobile|confirmationRollback-mobile.js
+ removeAccessKeysResourceLoader|dependencies=mediawiki.util|removeAccessKeys.js
+ searchFocusResourceLoader|searchFocus.js
+ GoogleTransResourceLoader|GoogleTrans.js
+ Navigation_popups-APIResourceLoader|popups-API.js|navpop.css
+ exlinksResourceLoader|exlinks.js
+ ReferenceTooltipsResourceLoader|default|ReferenceTooltips.js|ReferenceTooltips.css
+ TwinkleResourceLoader|rights=autoconfirmed|dependencies=mediawiki.util,jquery.ui,jquery.tipsy|morebits.js|morebits.css|Twinkle.js
+ ProsesizeResourceLoader|dependencies=mediawiki.api,mediawiki.util|Prosesize.js|Prosesize.css
+ HideFundraisingNoticeResourceLoader|HideFundraisingNotice.css
+
+ editing-gadgets 
+ Edittools|Edittools.css
+ HotcatResourceLoader|Hotcat.js
+ vandalwarnerResourceLoader|vandalwarner.js
+ refToolbarResourceLoader|default|dependencies=user.options,mediawiki.util|refToolbar.js
+ refToolbarBaseResourceLoader|hidden|refToolbarBase.js
+ RTRCResourceLoader|RTRC.js
+ charinsertResourceLoader|charinsert.css
+
+ interface-gadgets 
+ edittopResourceLoader|dependencies=mediawiki.util|edittop.js
+ editzeroResourceLoader|dependencies=mediawiki.util|editzero.js
+ lastdiffResourceLoader|dependencies=mediawiki.util|lastdiff.js
+ purgetabResourceLoader|dependencies=mediawiki.util|purgetab.js
+ contribsrangeResourceLoader|contribsrange.js
+ rightsfilterResourceLoader|rightsfilter.js
+ WatchlistNotifier|WatchlistNotifier.js
+ LiveClockResourceLoader|LiveClock.js
+ HighlightAdminsResourceLoader|HighlightAdmins.js
+ BracketmatchResourceLoader|dependencies=mediawiki.util|Bracketmatch.js
+ CommentsInLocalTimeResourceLoader|CommentsInLocalTime.js
+ EnhancedInterwikisResourceLoader|dependencies=mediawiki.util|EnhancedInterwikis.js
+ HighlightRedirectResourceLoader|dependencies=mediawiki.util|HighlightRedirect.js
+ righteditlinksResourceLoader|righteditlinks.css
+ switcherResourceLoader|default|targets=desktop,mobile|switcher.js
+ watchlist-noticeResourceLoader|default|rights=purge|watchlist-notice.js
+ watchlist-notice-coreResourceLoader|dependencies=mediawiki.storage|hidden|watchlist-notice-core.js
+
+ admin-gadgets 
+ userrightsResourceLoader|dependencies=mediawiki.util|userrights.js
+ quickrfdclosureResourceLoader|rights=delete|quickrfdclosure.js

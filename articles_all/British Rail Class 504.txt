@@ -1,0 +1,31 @@
+{{Infobox EMU
+ |name = British Rail Class 504
+ |image = British Rail Class 504 ManVic prior to Metrolink.jpg
+ |imagesize = 300px
+ |caption = A Class 504 train at Manchester Victoria station just weeks before closure for conversion to the Metrolink light rail system.
+ |background = #012545
+ |Manufacturer = BR
+ |Operator = British Rail
+ |Formation = power car + driving trailer
+ |Built = 26 sets  power cars: M65436-M65461  driving trailers: M77157-M77182
+ |InService = 1959-1991
+ |Weight = Total - 82 tons
+ |CarLength = 133ft 3 1/2in
+ |CarWidth = 9ft 3in
+ |CarHeight = 12ft 7in
+ |Capacity = 
+ |MaxSpeed = 70mph 112 km/h
+ |Power = sources disagree - see discussion page
+ |Gauge = standard gauge
+ |Voltage = 1,200V dc side contact third rail
+ }}   
+
+Image:British-Rail-Class-504.jpg|thumb|250px|right|A northbound Class 504 train in northern Manchester just weeks before closure for conversion to the Metrolink light rail system.  The preparatory earthworks for Metrolink's overhead wire supports can be seen on both sides of the tracks.
+
+The British Rail '''Class 504''' was a unique type of electric multiple unit that ran on 1200 V DC third rail with side-contact current collection. The type was used only between Manchester and Bury.  
+
+
+
+
+
+Category:British Rail electric multiple units|504

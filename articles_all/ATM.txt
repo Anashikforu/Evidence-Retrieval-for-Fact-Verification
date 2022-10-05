@@ -1,0 +1,6 @@
+'''ATM''' or '''atm''' can mean:
+
+ Asynchronous Transfer Mode, a telecommunications protocol used in computer networking
+ Atmosphere, a unit of pressure
+ Automated teller machine
+

@@ -1,0 +1,33 @@
+
+The '''Wikimedia Foundation''' is an American  non-profit foundation. Their main headquarters is in San Francisco in the United States. The Wikimedia Foundation runs many projects using the wiki idea and the MediaWiki software. These projects include Wikipedia, Wiktionary, Wikiquote, Wikisource, Wikinews, Wikibooks, Wikiversity, Wikimedia Commons, Wikidata, Wikivoyage, and Meta-Wiki.
+There are many other wikis related to the foundation, but these are mostly smaller projects. They include the Wikimedia Foundation wiki, the MediaWiki wiki, the Test Wikipedia, the Wikimedia incubator:|Incubator, Bugzilla, and the Wikimania wiki.
+
+The foundation's creation was officially announced by Wikipedia co-founder Jimmy Wales, who was running Wikipedia within his company Bomis, on June 20, 2003.
+
+The foundation gets most of its funds from foundation:Fundraising|donations, as it is nonprofit. It also looks for grants. Some companies have helped Wikimedia by giving free computer hardware, and by hosting servers. Since people can write the wikis, Wikimedia projects are free to use. Funds are used to run computer servers and to pay staff. The Foundation had 160 employees in 2013.
+
+In 2013, Sue Gardner was the executive director.
+In 2015, Patricio Lorente was the Chair of the Wikimedia Foundation Board.
+
+In 2016, Katherine Maher became the executive director.
+
+In 2018, María Sefidari is chairman|chair of the Board of trustees|board.
+
+The different boards
+= Board of Trustees =
+
+
+The Board of Trustees in charge of all the affairs of the Foundation has ten members:
+
+ four who are appointed by the Board itself;
+ three who are selected by the community of all the different Wikimedia projects;
+ two who are selected by the local chapters and thematic organizations;
+ and one emeritus for the foundation's founder, Jimmy Wales.
+
+The Signpost reported that two new trustees were elected in 2019:
+ Nataliia Tymkiv, user:antanana  (English or Ukrainian)
+ Shani Evenstein, user:Esh77 i(English or Hebrew)
+= Advisory Board =
+The Foundation also has an wmf:Advisory Board|Advisory Board, an international network of experts who have agreed to give the foundation meaningful help on a regular basis in many different areas, including law, organizational development, technology, policy, and outreach.
+
+Category:Companies based in San Francisco

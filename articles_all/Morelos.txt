@@ -1,0 +1,14 @@
+
+
+| iso_code                = MX-MOR
+| blank_name_sec1         = Human Development Index|HDI
+| blank_info_sec1         =  0.755 high List of Mexican states by HDI|Ranked 13th
+| blank_name_sec2         = GDP
+| blank_info_sec2         = US$ 7,557.55 Million|mil
+| website                 = 
+| footnotes               =
+a. The state's GDP was 96,736,678 thousand of Mexican peso|pesos in 2008,
+}}
+'''Morelos''' is a state in central Mexico. About 1,600,000 people live in Morelos. Its capital (city)|capital is called Cuernavaca.
+
+Category:19th-century establishments in Mexico

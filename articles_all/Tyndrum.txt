@@ -1,0 +1,23 @@
+{{infobox UK place 
+|static_image_name=  Tyndrum.jpg
+|static_image_caption=  The main road through Tyndrum
+|country = Scotland
+|official_name= Tyndrum
+|gaelic_name=Taigh an Droma| population = 
+| population_ref =   |os_grid_reference= NN330303
+ |latitude=56.43524
+ |longitude=-4.71009
+ |map_type=Scotland
+ |unitary_scotland= Stirling (council area)|Stirling
+ |lieutenancy_scotland= Stirling and Falkirk
+ |constituency_westminster= Stirling (UK Parliament constituency)|Stirling
+ |constituency_scottish_parliament= Stirling (Scottish Parliament constituency)|Stirling
+|post_town= Crianlarich
+|postcode_district = FK20
+|postcode_area= FK
+|dial_code= 01838
+ }}
+
+'''Tyndrum''' (''Taigh an Droma'' in Gaelic) is a small village in Scotland.
+
+Category:Villages in Stirling council

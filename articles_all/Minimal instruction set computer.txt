@@ -1,0 +1,13 @@
+'''Minimal Instruction Set Computer''' ('''MISC''') is a CPU design|processor architecture with a very small number of basic Instruction (computer science)|instruction operations and corresponding opcodes.  As a result of this is a smaller instruction set, a smaller and faster instruction set Parsing|decode unit, and faster operation of individual Instruction (computer science)|instructions.  The disadvantage is that smaller instruction set always have more sequential dependencies, reducing instruction-level parallelism.  
+
+Related pages
+ Complex instruction set computer (CISC)
+ Reduced instruction set computer (RISC)
+ Very long instruction word (VLIW)
+
+Other websites
+
+
+
+
+Category:Computer science

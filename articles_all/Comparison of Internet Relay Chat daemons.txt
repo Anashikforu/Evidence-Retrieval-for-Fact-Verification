@@ -1,0 +1,47 @@
+
+
+The following tables compare general and technical data.  This article does not have current or all the data available.
+
+ Servers 
+
+
+ Obsolete Servers 
+The following servers are no longer maintained, but basic details are maintained for posterity. They will not be listed in feature comparison tables.
+
+
+
+ Operating system support 
+The operating systems that the daemon is compatible with.
+
+
+ Technology 
+Various Computer network|networking and IRC technology used to date.
+
+
+ Features 
+IRC server features, mostly extensions to RFC 1459. Probably also implementations of RFC 2810, RFC 2811, RFC 2812, RFC 2813, and possibly IRCX.
+
+ +channels (In early IRCds, these were simply named channels. At least one modern IRCd (IRCD) uses the + prefix for modeless channels, i.e. no chanops and channel mode forced to +nt. This is described in RFC 2811.)
+ #channels ("+channels" were later replaced with "#channels" in version 2.7, numeric channels were removed entirely and channel bans (mode +b) were implemented.)
+ &channels (irc2.8, those that exist only on the current server, rather than the entire network)
+ !channels (irc2.10, those that are theoretically safe from suffering from the many ways that a user could exploit a channel by "riding a netsplit"; IRCds using timestamping provide (most of) this functionality on #channels)
+ %#channels (#channels whose name are in UTF-8 for IRCX)
+ %&channels (&channels whose name are in UTF-8 for IRCX)
+ %!channels (!channels whose name are in UTF-8 for IRCX)
+
+
+
+
+
+Related pages
+IRCd
+Internet Relay Chat
+
+ Notes 
+
+
+Other websites
+    
+
+
+Category:Internet Relay Chat daemons|

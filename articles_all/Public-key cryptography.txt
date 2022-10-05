@@ -1,0 +1,27 @@
+
+
+'''Public-key cryptography''', also called '''asymmetric cryptography''', is a  communication where people send messages that can only be read by those who have the key. 
+
+In public key cryptography, each user has a pair of Key (cryptography)|cryptographic keys:
+ a public key 
+ a private key
+The private key is kept secret, while the public key may be widely distributed and used by other users. 
+
+Incoming messages are Encryption|encrypted with the ''recipient's public key'' and can only be decrypted with their corresponding private key. The keys are related mathematically, but the user's private key cannot be easily got from the widely used public key.  The most usual problem with this method arises when private key is accidentally leaked.
+
+The two main branches of public key cryptography are:
+ '''Public key encryption''': a message encrypted with a ''recipient's public key'' cannot be decrypted except by the ''recipient private key''. This is used to ensure secrecy.
+ Digital signatures: a message signed with a sender's private key can be verified by anyone who has the sender's public key. So if the sender signed the message no one can alter it. This is used to get authentication|authenticity.
+
+They are often used together on the same message.
+
+Related pages
+ Symmetric-key algorithm
+ RSA algorithm
+
+
+
+
+
+
+Category:Cryptography

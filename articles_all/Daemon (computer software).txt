@@ -1,0 +1,5 @@
+In Unix, and in  other computer computer multitasking|multitasking operating systems, a '''daemon''' () is a computer program that runs as a background (computer software)|background task. Many daemons have names that end with the letter "d": for example, syslogd, the daemon that handles the system log, 
+Related pages
+ Server (computing)
+
+Category:Servers

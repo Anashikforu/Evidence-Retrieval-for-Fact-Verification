@@ -1,0 +1,23 @@
+'''Naming very large numbers''' is relatively easy. There are two main ways of naming a number: scientific notation and naming by grouping. For example, the number 500,000,000,000,000,000,000 can be called 5 x 1020 in scientific notation since there are 20 zeros behind the 5. If the number is named by grouping, it is five hundred quintillion (United States|American) or 500 trillion (European).
+
+When large numbers have many different decimals in them, such as 642 500 000 000, naming them with scientific notation is about the same, but with one difference. Still counting the number of numbers after the first number (in this case, after the 6 there are 11 numbers) you need to include the ones that are not zero in the formula, but after a decimal point. So 642 500 000 000 will be 6.425 x 1011. When naming by grouping, each group is the name of the group. With the same number, it would be said to be 642 billion, 500 million (US) or 642 milliard, 500 million (Eur).
+
+Some examples
+
+
+ Forms of numbering 
+The United States|American way or "Short form" for naming large numbers is different from the European way or "Long form" of naming large numbers. This is mainly because of American finance. Short form numbering is based on thousands and Long form is based on millions. Because of this, in Short form a billion is one thousand millions (109) while in Long form it is one million millions (1012). The change in the United Kingdom to Short form numbering happened in 1974. Today, Short form is most commonly used in most English language|English speaking country|countries.
+
+Names for large numbers
+
+
+There is also the number '''googol''', which is a 1 with 100 zeros behind it (10100), and the number '''googolplex''', which is a 1 with a ''googol'' of zeros behind it, (10googol) (1010100). And also the number '''googolplexian''', 1 with a googolplex number of zeros behind it. Googolplexianplex, or googolplexianplexian are still theoretical numbers, but they might have some use in real life.
+
+The name '''centillion''' was devised in the 19th century for the 100th "illion", being 10303 in short form and 10600 in long form.
+
+Related pages
+Names for small numbers
+Googol
+Googolplex
+
+Category:Numbers

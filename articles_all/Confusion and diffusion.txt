@@ -1,0 +1,14 @@
+In cryptography, '''confusion''' and '''diffusion''' are two properties of the operation of a secure cipher.
+
+'''Confusion''' and '''diffusion''' were identified by Claude Shannon|Claude Elwood Shannon in his paper, "Communication Theory of Secrecy Systems" published in 1949. In Shannon's original definitions:
+#'''Confusion''' refers to making the relationship between the key (cryptography)|key and the ciphertext as complex and as involved as possible
+#'''Diffusion''' refers to the property that redundancy in the statistics of the plaintext is Dissipation|"dissipated" in the statistics of the ciphertext.
+
+Diffusion is associated with the dependency of the output bits on the input bits. In a cipher with good diffusion, flipping an input bit should change each output bit with a probability of one half (this is termed the Avalanche effect|Strict Avalanche Criterion).
+
+Substitution cipher|Substitution (a rule for replacing plaintext symbols by another) has been identified as a mechanism for primarily confusion (see Substitution box|S-box); on the other hand Transposition (mathematics)|transposition using Permutation box|P-box (rearranging or swapping the order of symbols) is a technique for diffusion, although other mechanisms are also used in modern practice, such as linear transformations (e.g. in Advanced Encryption Standard|AES). Product ciphers use alternating substitution and transposition (cryptography)|transposition phases (rounds) to achieve both confusion and diffusion respectively.
+
+Related pages
+ Substitution-permutation network
+
+Category:Cryptography

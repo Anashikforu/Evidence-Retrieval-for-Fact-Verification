@@ -1,0 +1,18 @@
+Image:Ellipsis.svg|thumb|50px|An ellipsis
+
+An '''ellipsis''' is a type of punctuation mark. In writing, it is a row of three points (...). Its name comes from the Ancient Greek language|ancient Greek word ''ἔλλειψις'' (omission/falling short). Notice that the three dots are not spaced as full points: they are a separate special typographic sign.
+
+Depending on context and place in a sentence, ellipses can indicate an unfinished thought, a leading statement, a slight pause, a mysterious or echoing voice, or a nervous or awkward silence. An ellipsis can be used to trail off into silence—for example: ''But I thought he was...''
+
+ ''So much more could be said...''
+
+When text is wikt:quote|quoted from a book or a newspaper, it stands for words that have been cut out to save space in a page. For example:
+ "''...one day all Americans will live peacefully throughout the world...they will be at peace with all other world inhabitants...''"
+
+When speaking, it can be referred to as "dot-dot-dot".
+
+In mathematics, different symbols for ellipsis are used to a similar effect. These include the horizontal ellipsis symbols \ldots and \cdots, along with vertical ellipsis symbols such as \vdots and \ddots .
+
+Related pages
+Punctuation
+

@@ -1,0 +1,1 @@
+Change pages on double click (requires JavaScript)

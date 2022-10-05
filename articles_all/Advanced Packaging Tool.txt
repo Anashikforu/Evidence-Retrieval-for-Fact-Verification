@@ -1,0 +1,8 @@
+
+Image:Synaptic Package Manager.png|thumb|300px|Synaptic Package Manager is one of the frontends available for APT
+The '''Advanced packaging tool''', or '''APT''', is a front-end|user interface that works with Software Library|core libraries to handle the sometimes difficult job of installing software on Linux.
+
+Related pages
+APTonCD
+
+Category:Linux

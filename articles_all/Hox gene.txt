@@ -1,0 +1,30 @@
+'''Hox genes''' are a group of related genes that determine the basic structure and orientation of animals.Dictionary.com – Hox gene 
+Hox genes are critical for the proper placement of Segmentation|segment structures of animals during early embryonic development (e.g. legs, antennae, and wings in Drosophila|fruit flies or the different vertebrate ribs in humans).Gehring, Walter J. 1998. ''Master control genes in development and evolution. the homeobox story''. Yale University Press, New Haven CT.
+
+
+
+
+Hox genes are a complex of genes whose proteins bind to the regulatory regions of target genes. The target genes then activate or repress cell processes to direct the final development of the organism.Lewis E.B. 1995. The ''bithorax'' complex: the first fifty years. Nobel Prize lecture. Repr. in Ringertz N. (ed) 1997. ''Nobel lectures, Physiology or Medicine''. World Scientific, Singapore.Lawrence P. 1992. ''The making of a fly''. Blackwell, Oxford. 
+Hox genes have a DNA sequence known as the '''homeobox'''. The homeobox is a 180 nucleotide-long DNA sequence which codes for a 60 amino acid-long protein domain known as the ''homeodomain''. This works by binding with DNA.
+Hox genes are in gene clusters on the genome
+The order of the Locus (genetics)|loci in the chromosome parallels the order in which the loci are expressed in segments along the body.
+This cluster of master control genes programs the development of all higher organisms.Duncan I. 1987. The bithorax complex. ''Ann. Rev. Genetics'' '''21''', 285–319.
+The cluster is highly "conserved". It has not changed much over hundreds of millions of years of evolutionary history. sequence analysis|Molecular evidence shows that some limited number of Hox genes have existed in the Cnidaria since before the earliest true Bilateria|Bilatera. This means the system evolved before the Palaeozoic era. Ryan J.F. ''et al'' 2007. Pre-bilaterian origins of the Hox cluster and the Hox code: evidence from the sea anemone,'' Nematostella vectensis''. ''PLoS ONE'' '''2''', (1), e153. 
+ Sequence of hox genes 
+In some organisms, especially vertebrates, the various Hox genes are very close to one another on the chromosome in groups or '''clusters'''.E.B. Lewis|Lewis E.B. 1992. Clusters of master control genes regulate the development of higher organisma. ''Journal of the American Medical Association'' '''292''' 154–31.
+
+The order of the genes on the chromosome is the same as the expression of the genes in the developing embryo. The first gene is expressed in the front of the developing organism. The reason for this co-linearity is not yet completely understood. The diagram above shows the relationship between the genes and protein expression in flies.
+
+= Found in all animals =
+The homeodomain protein motif is highly similar in most animals, with variations in Jellyfish and other species. In addition, homeodomains of individual Hox proteins are similar in many species.
+
+Because of this, it is thought Hox gene clusters evolved from a single Hox gene via tandem gene duplication. A Hox gene cluster with at least seven different Hox genes was probably present in the common ancestor of all Symmetry (biology)|bilateral animals.
+
+ Humans 
+Humans have a total of 39 hox genes in clusters on four chromosomes.
+
+ Related pages 
+Edward B. Lewis
+Transcription factor
+
+Category:Developmental biology

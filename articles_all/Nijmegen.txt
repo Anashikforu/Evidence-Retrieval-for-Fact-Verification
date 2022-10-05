@@ -1,0 +1,44 @@
+
+| governing_body          = Municipal council (Netherlands)|Municipal council
+| leader_party            = Christian Democratic Appeal|CDA
+| leader_title            = Burgemeester|Mayor
+| leader_name             = Hubert Bruls
+
+| total_type              = Municipality
+| unit_pref               = Metric
+
+
+| area_footnotes          = 
+
+| area_total_km2          = 
+| area_land_km2           = 
+| area_water_km2          = 
+| elevation_footnotes     = 
+| elevation_m             = 29
+| elevation_max_footnotes =
+| elevation_max_m         = 88
+| elevation_min_footnotes =
+| elevation_min_m         = 7
+
+| population_footnotes    = 
+| population_total        = 
+| population_as_of        = Municipality, 
+| population_density_km2  =  
+| population_urban        = 
+| population_metro        = 
+| population_demonym      = Nijmegenaar
+
+| timezone                = Central European Time|CET
+| utc_offset              = +1
+| timezone_DST            = Central European Summer Time|CEST
+| utc_offset_DST          = +2
+| postal_code_type        = Postal codes in the Netherlands|Postcode
+| postal_code             = 6500–6547, 6679, 6683
+| area_code_type          = Telephone numbers in the Netherlands|Area code
+| area_code               = 024, 0481
+| website                 = 
+| footnotes               =
+}}
+'''Nijmegen''' is a city in Gelderland in the east of the Netherlands. It has about 177,000 inhabitants (2021) and a university, called Radboud University Nijmegen.
+
+Category:Settlements in Gelderland

@@ -1,0 +1,73 @@
+{{Infobox Constellation
+ | name = Leo
+ | abbreviation = Leo
+ | genitive = Leonis
+ | pronounce = 
+ | symbolism = the Lion
+ | RA = 11
+ | dec= +15
+ | family = Zodiac
+ | quadrant = NQ2
+ | areatotal = 947
+ | arearank = 12th
+ | numbermainstars = 9, 15 
+ | numberbfstars = 92
+ | numberstarsplanets = 11  
+ | numberbrightstars = 5
+ | numbernearbystars = 5
+ | brighteststarname = Regulus (α Leo)
+ | starmagnitude = 1.35
+ | neareststarname = Wolf 359 
+ | stardistancely = 7.78
+ | stardistancepc = 2.39
+ | numbermessierobjects = 5 |
+ | meteorshowers = Leonids
+ | bordering = Ursa MajorLeo MinorLynx (constellation)|Lynx (corner)Cancer (constellation)|CancerHydra (constellation)|HydraSextansCrater (constellation)|CraterVirgo (constellation)|VirgoComa Berenices
+ | latmax = North Pole|90
+ | latmin = 65th parallel south|65
+ | month = April
+ | notes =
+ |}}
+'''Leo''' is one of the constellations of the zodiac. Its name is Latin for lion. Its symbol is Image:Leo.svg|20px (). Leo lies between dim Cancer (constellation)|Cancer to the west and Virgo (constellation)|Virgo to the east.
+
+Notable features
+=Stars=
+Leo contains many bright shining stars, such as Regulus (also called α Leonis); the lion's tail, Denebola (also called β Leonis); and Gamma Leonis|γ1 Leonis (also called Algieba). Many other fainter stars have been named as well, such as Delta Leonis|δ Leo (Zosma), Theta Leonis|θ Leo (Chort), Kappa Leonis|κ Leo (Al Minliar al Asad), Lambda Leonis|λ Leo (Alterf), and Omicron Leonis|ο Leo (Subra).
+
+Regulus, Eta Leonis|Al Jabbah, and Gamma Leonis|Algieba, together with the fainter stars Zeta Leonis|ζ Leo (Adhafera), Mu Leonis|μ Leo (Ras Elased Borealis), and Epsilon Leonis|ε Leo (Ras Elased Australis), make up the pattern known as "the Sickle". These stars represent the head and the mane of the lion.
+
+The star Wolf 359, one of the List of nearest stars|nearest stars to Earth (7.78 light-years), is in Leo.
+
+The carbon star CW Leo (IRC +10216) is the brightest star in the night sky at the infrared N-band (10 μm wavelength).
+
+=Deep sky objects=
+Leo contains many bright galaxy|galaxies,  Messier 65, Messier 66, Messier 95, Messier 96, Messier 105, NGC 3521 and NGC 3628 are the most famous. The first two are part of the Leo Triplet.
+
+The Leo Ring is a cloud of hydrogen and helium gas. It is found in orbit of two galaxies found within Leo.
+
+Name and history
+Many civilizations over thousands of years have portrayed the constellation of Leo as a lion. One theory for this is that the Sun was among its stars in Midsummer. This was the time when the lions of the Egyptian desert left their usual home for the banks of the river Nile. There they could find relief from the heat in the water. The Roman writer Pliny the Elder wrote that the Egyptians worshipped the stars of Leo. He says this is because the Nile would overflow with water at the same time as the Sun entering into the constellation.
+
+In Egypt, the Ramesseum (''the memorial temple of Pharaoh Ramesses II'') at Thebes (Egypt)|Thebes mentions Leo in the inscription on the wall.  On the planisphere of Dendera Leo is shown standing on an outstretched serpent.
+
+The Persians called Leo ''Ser'' or ''Shir''; the Turks, ''Artan''; the Syrians, ''Aryo''; the Jewish, ''Arye''; the Indians, ''Simha'' ; all meaning a lion. In Babylonian astronomy these stars were called UR.GU.LA - the 'Great Lion'; the bright star, Regulus, that stands at the Lion's breast also had distinctly regal associations as it was known as the King Star.''Babylonian Star-lore'' by Gavin White, Solaria Pubs, 2008 page 140
+
+In Greek mythology, it was identified as the Nemean Lion which was killed by Hercules during one of his The Twelve Labours|twelve labours, and after that put into the sky.
+
+The Roman poet Ovid called it ''Herculeus Leo'' and ''Violentus Leo''. ''Bacchi Sidus'' (Star of Dionysus|Bacchus) was another of its titles, the god Dionysus|Bacchus always being identified with this animal. However, Marcus Manilius|Manilius called it ''Jovis et Junonis Sidus'' (Star of Jupiter (mythology)|Jupiter and Juno (mythology)|Juno).
+
+Early Hindu astronomers knew it as ''Asleha'' and as ''Sinha'', the Tamil language|Tamil ''Simham''.
+
+Astrology
+
+As of 2002, the Sun appeared in the constellation Leo from August 10 to September 15. In tropical astrology, the Sun is considered to be in the sign Leo (astrology)|Leo from July 23 to August 22. In sidereal astrology the sun is said to be in Leo from August 16 to September 15.
+
+Visualizations
+
+
+H.A. Rey has suggested an alternative way to connect the stars, which shows a lion walking. The stars delta Leonis, gamma Leonis, eta Leonis, and theta Leonis form the body of the lion. The stars gamma Leonis, zeta Leonis, mu Leonis, epsilon Leonis, and eta Leonis form the lion's neck. The stars mu Leonis, kappa Leonis, lambda Leonis, and epsilon Leonis form the head of the lion. Delta Leonis and beta Leonis form the lion's tail: beta Leonis, also known as Denebola, is the bright tip of the tail with a magnitude of two. The stars theta Leonis, iota Leonis, and sigma Leonis form the left hind leg of the lion, with sigma Leonis being the foot.  The stars theta Leonis and rho Leonis form the right hind leg, with rho Leonis being the foot. The stars eta Leonis and alpha Leonis mark the lion's heart, with alpha Leonis, also known as Regulus, being the bright star of magnitude one.  The stars eta Leonis and omicron Leonis form the right front foot of the Lion.H. A. Rey, ''The Stars – A New Way To See Them''.  Enlarged World-Wide Edition.  Houghton Mifflin, Boston, 1997.  .
+
+ Citations 
+
+
+=Category:Constellations listed by Ptolemy

@@ -1,0 +1,137 @@
+
+
+'''Moselle''' is a departments of France|department in the Grand Est regions of France|region of France, named after the Moselle River|Moselle river. The Prefectures in France|prefecture (Capital city|capital) of Moselle is Metz.
+
+History
+Moselle is one of the original 83 departments created during the French Revolution on 4 March 1790. It was divided in nine districts: Metz, Bitche, Boulay, Briey, Longwy, Morhange, Sarreguemines, Sarrelouis and Thionville, with Metz as is Capital city|capital.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the nine districts were changed into four ''arrondissements'': Metz, Briey, Sarreguemines and Thionville.
+
+The Moselle department was eliminated in 1871 when part of the territory became part of Germany; the remaining parts were combined with the Meurthe department to form Meurthe-et-Moselle.
+
+In 1919, a new department of Moselle was formed.
+
+In 2015, several ''arrondissements'' were eliminated and their Territory|territories passed to the remaining ''arrondissements'', and only 5 were kept: Forbach-Boulay-Moselle, Metz, Sarrebourg-Château-Salins, Sarreguemines and Thionville.
+
+Geography
+The Moselle department is in the Grand Est region and borders only 2 departments: Meurthe-et-Moselle to the south and west, and Bas-Rhin to the east. To the north, the department borders Germany and to the northwest with Luxembourg.
+
+
+
+
+Administration
+Moselle is managed by the ''Departmental Council of Moselle'' in Metz. The department is part of the Grand Est region.
+
+=Administrative divisions=
+There are 5 Arrondissements of France|''arrondissements'' (districts), 27 Cantons in France|''cantons'' and 727 Communes in France|''communes'' (Municipality|municipalities) in Moselle.
+
+
+
+
+
+The following is a list of the 27 Cantons of France|cantons of the Moselle department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Algrange|Algrange (5701)
+# Canton of Bitche|Bitche (5702)
+# Canton of Boulay-Moselle|Boulay-Moselle (5703)
+# Canton of Bouzonville|Bouzonville (5704)
+# Canton of Les Coteaux de Moselle|Les Coteaux de Moselle (5705)
+# Canton of Fameck|Fameck (5706)
+# Canton of Faulquemont|Faulquemont (5707)
+# Canton of Forbach|Forbach (5708)
+# Canton of Freyming-Merlebach|Freyming-Merlebach (5709)
+# Canton of Hayange|Hayange (5710)
+# Canton of Metz-1|Metz-1 (5711)
+# Canton of Metz-2|Metz-2 (5712)
+# Canton of Metz-3|Metz-3 (5713)
+# Canton of Metzervisse|Metzervisse (5714)
+# Canton of Montigny-lès-Metz|Montigny-lès-Metz (5715)
+# Canton of Le Pays Messin|Le Pays Messin (5716)
+# Canton of Phalsbourg|Phalsbourg (5715)
+# Canton of Rombas|Rombas (5718)
+# Canton of Saint-Avold|Saint-Avold (5719)
+# Canton of Sarralbe|Sarralbe (5720)
+# Canton of Sarrebourg|Sarrebourg (5721)
+# Canton of Sarreguemines|Sarreguemines (5722)
+# Canton of Le Saulnois|Le Saulnois (5723)
+# Canton of Le Sillon Mosellan|Le Sillon Mosellan (5724)
+# Canton of Stiring-Wendel|Stiring-Wendel (5725)
+# Canton of Thionville|Thionville (5726)
+# Canton of Yutz|Yutz (5727)
+
+
+Demographics
+The inhabitants of the Moselle department are known, in French language|French, as ''Mosellans'' or (women: ''Mosellanes''),
+
+Moselle had a population, in 2014, of 1,045,154, for a population density of  inhabitants/km2. The ''arrondissement'' of Metz, with 341,821 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Moselle'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+ImageSize  = width:500 height:373
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:1100000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:100000 start:0
+ScaleMinor = gridcolor:lightgrey increment:100000 start:0
+BackgroundColors = canvas:sfondo
+BarData=
+  bar:1968 text:1968
+  bar:1975 text:1975
+  bar:1982 text:1982
+  bar:1990 text:1990
+  bar:1999 text:1999
+  bar:2008 text:2008
+  bar:2014 text:2014
+PlotData=
+  color:barra width:30 align:left
+ bar:1968 from:0 till: 971314
+ bar:1975 from:0 till: 1006373
+ bar:1982 from:0 till: 1007189
+ bar:1990 from:0 till: 1011302
+ bar:1999 from:0 till: 1023447
+ bar:2008 from:0 till: 1042230
+ bar:2014 from:0 till: 1045154
+
+PlotData=
+
+ bar:1968 at: 971314 fontsize:S text: 971,314 shift:(-10,8)
+ bar:1975 at: 1006373 fontsize:S text: 1,006,373 shift:(-18,5)
+ bar:1982 at: 1007189 fontsize:S text: 1,007,189 shift:(-15,5)
+ bar:1990 at: 1011302 fontsize:S text: 1,011,302 shift:(-15,5)
+ bar:1999 at: 1023447 fontsize:S text: 1,023,447 shift:(-15,5)
+ bar:2008 at: 1042230 fontsize:S text: 1,042,230 shift:(-15,5)
+ bar:2014 at: 1045154 fontsize:S text: 1,045,154 shift:(-18,5)
+
+
+
+The 10 ''Communes of France|communes'' with more inhabitants in the Meurthe-et-Moselle department are:
+
+
+
+
+Economy
+In the 19th century, the economy of was characterized by heavy industry, especially steel and iron Factory|factories. After the weakening of these industries at the end of the 20th century, the department has tried to promote new economic activities based on industry and technology.
+
+Gallery
+
+File:Cathédrale de Metz (1).jpg|Saint-Étienne cathedral in Metz.
+File:Cathedrale Metz Nef pano.jpg|Metz cathedral.
+File:Sarreguemines2011.jpg|View of the Saar River|Saar river and casino, Sarreguemines.
+File:Metz Theatre nuit.jpg|The Opera house in Metz.
+File:Chateau Volkrange.jpg|''Château de Volkrange'', Thionville.
+
+
+Related pages
+ Arrondissements of the Moselle department
+ Communes of the Moselle department
+
+Category:Departments in Grand Est

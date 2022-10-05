@@ -1,0 +1,33 @@
+An '''instruction set,''' or '''instruction set architecture''' (ISA),  is a list of all the commands (Instruction (computer science)|instructions), with all their variations, that a processor can execute.
+
+Instructions include:
+
+ Arithmetic such as '''add''' and '''subtract'''
+ Logic instructions such as '''and''', '''or''', and '''not'''
+ Data instructions such as '''move''', '''input''', '''output''', '''load''', and '''store'''
+ Control flow instructions such as '''goto''', '''if ... goto''', '''call''', and '''return'''.
+
+
+'''Instruction set architecture''' is distinguished from '''microarchitecture'''. Microarchitecture is the detailed description of the system that is enough for completely describing the operation of all parts of the computing system, as well as how they are inter-connected and inter-operate to implement the ISA. An '''instruction set''' is the part of the computer architecture related to programming. An ISA includes a specification set of Opcode|opcodes (machine language), which are the native commands implemented in a particular central processing unit design.
+
+
+Computers with different Microarchitecture|microarchitectures can share a common instruction set. For example, the Intel Pentium and the AMD Athlon implement nearly identical versions of the x86 instruction set, but they are very different in internal designs.
+
+Related pages
+ Complex instruction set computer|CISC
+ RISC
+ VLIW
+ Minimal instruction set computer|MISC
+ digital signal processor
+ graphics processing unit
+ central processing unit
+ microcontroller
+ microprocessor
+ Computer architecture
+
+Other websites
+
+
+
+
+Category:Computer science

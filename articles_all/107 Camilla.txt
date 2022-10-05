@@ -1,0 +1,51 @@
+
+
+'''107 Camilla''' is one of the biggest Asteroid belt|main belt asteroids. It orbits within the Cybele asteroid|Cybele Group, beyond most of the main belt asteroids. It has a very dark surface and is made of carbonate. It was found by Norman Robert Pogson|N. R. Pogson on November 17, 1868, and named after Camilla (mythology)|Camilla, Queen of the Volsci in Roman mythology.
+
+Study of its light curve shows that Camilla's geographical pole|pole probably points towards ecliptic coordinate system|ecliptic coordinates (β, λ) = (+51°, 72°) with a 10° uncertainty, which gives it an axial tilt of 29°.
+
+ Moon (S/2001 (107) I) 
+
+
+On March 1, 2001, a Satellite (natural)|moon of Camilla was found by A. Storrs, F. Vilas, R. Landis, E. Wells, C. Woods, B. Zellner, and M. Gaffey using the Hubble Space Telescope. It has been labelled '''S/2001 (107) 1''' but it does not yet have an official name.
+
+Later sightings in September 2005 with the VLT allowed scientists to work out its orbit. Apart from data in infobox, the inclination was found to be 3 ± 1° with respect to an axis pointing towards (β, λ) = (+55°, 75°). Given the ~10° uncertainty in the actual rotational axis of Camilla, the orbit's inclination probably is less than 10°.
+
+The moon is estimated to be about 11 kilometre|km in diameter. If it has the same density as Camilla, this would give it a mass of about ~1.5 kg. It has a similar colour to Camilla.
+
+
+
+
+
+
+{{Infobox Planet   | bgcolour=#FFFFC0
+| name=107 Camilla
+
+| discoverer=Norman Robert Pogson
+| discovered=November 17, 1868
+| alt_names=A893 QA; 1938 OG; 
+| mp_category=Main belt (Cybele asteroid|Cybele)
+| epoch=December 31, 2006 (Julian day|JD 2454100.5)
+| semimajor=520.140 Giga|Gmetre|m (3.477 Astronomical unit|AU)
+| perihelion=479.343 Gm (3.204 AU)
+| aphelion=560.937 Gm (3.750 AU)
+| eccentricity=0.078
+| period=2368.050 day|d (6.48 Julian year (astronomy)|a)
+| inclination=10.048degree (angle)|°
+| asc_node=173.132°
+| arg_peri=309.877°
+| mean_anomaly=1.746°
+| avg_speed=15.95&nbsp;km/second|s
+| dimensions=285×205×170 ± 20&nbsp;kmAxis ratios (rounded to nearest 5&nbsp;km) based on lightcurve analysis of Torppa ''et al.'' (2003), however taking IRAS mean diameter is inconsistent with the maximum value of the short axis obtained in Marchis ''et al.'' (2006). Hence, presumably IRAS measurements were taken of a large face. Therefore, anchoring absolute size by reuqiring the shortest axis to be no larger than the maximum allowed by Marchis ''et al.'' (2006).
+| mass=1.09±0.04Error estimate derived from consideration of M \propto a^3/P^2 and given errors in ''a'' and ''P''. See propagation of uncertainty.
+| density=~1.9&nbsp;g/cubic centimetre|cm³
+| surface_grav=~0.036&nbsp;m/s²
+| escape_velocity=0.10&nbsp;km/s
+| rotation=0.2018 d (4.84393 hour|h)
+| spectral_type=C-type asteroid|C
+| abs_magnitude=7.08
+| albedo=0.0525
+| single_temperature=~151 kelvin|K''max:'' 223&nbsp;K (-52°celsius|C)}}
+
+
+Category:Asteroids

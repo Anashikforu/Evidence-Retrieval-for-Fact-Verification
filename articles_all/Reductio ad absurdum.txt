@@ -1,0 +1,26 @@
+
+'''''Reductio ad absurdum''''' is a Latin language|Latin phrase which means "reduction to the absurd". The phrase describes a kind of indirect proof. It is a proof by wikt:contradiction|contradiction, It is a way of reasoning that has been used throughout the history of mathematics and philosophy from classical antiquity onwards.
+
+The wikt:ridiculous|ridiculous or "''absurdum''" conclusion of a ''reductio ad absurdum'' argument can have many forms. For example,
+ Rocks have weight, otherwise we would see them floating in the air.
+ Society must have laws, otherwise there would be chaos.
+There is no smallest positive rational number, because if there were, it could be divided by two to get a smaller one.
+
+ History 
+The phrase can be traced back to the Greek language|Greek ''η εις  άτοπον απαγωγή'' (''hê eis átopon apagogê''). This phrase means "reduction to the impossible". It was often used by Aristotle.Heath, Thomas Little 1908. 
+Method
+''Reduction ad absurdum'' can be a tool of discovery.Polya, Goerge. (2008).  
+The method of proving something works by first assuming something about it. Then other things are deduced from that. If there is a contradiction, it shows that the first something cannot be correct.  For example, 
+
+:To prove '''A''' is wikt:true|true, wikt:correct|correct, wikt:valid|valid, wikt:credible|credible ....
+::Assume the opposite --  that "not-'''A'''" is true....
+::Assume that if "not-'''A'''" is true, then it must mean or wikt:imply|imply '''B'''.
+::Show that '''B''' is wikt:false|false, wikt:incorrect|incorrect, wikt:invalid|invalid, wikt:incredible|incredible ...
+:Therefore, '''A''' must be true after all.
+
+Related pages
+ Mathematical proof
+ Proof by induction
+ Straw man
+
+Category:Logical fallacies

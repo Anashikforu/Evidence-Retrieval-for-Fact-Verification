@@ -1,0 +1,77 @@
+
+
+Mathematics is the study of numbers, shapes and patterns. The word comes from the Greek language|Greek word "μάθημα" (máthema), meaning "science, knowledge, or learning", and is sometimes shortened to '''maths''' (in England, Australia, Ireland, and New Zealand) or '''math''' (in the United States and Canada). The short words are often used for arithmetic, geometry or  algebra by students and their schools.
+
+Mathematics includes the Education|study of:
+
+ Numbers: how things can be Counting|counted.
+Structure: how things are organisation|organized. This subfield is usually called algebra.
+ Place: where things are and their arrangement. This subfield is usually called geometry.
+ Change: how things become different. This subfield is usually called Mathematical analysis|analysis.
+
+Mathematics is useful for solving problems that occur in the real world, so many people besides mathematicians study and use mathematics. Today, some mathematics is needed in many jobs. People working in business, science, engineering, and construction need some knowledge of mathematics.
+
+ Problem-solving in mathematics 
+Mathematics solves problems by using logic. One of the main tools of logic used by mathematicians is Deductive reasoning|deduction. Deduction is a special way of thinking to discover and prove new truths using old truths. To a mathematician, the reason something is true (called a Proof (mathematics)|proof) is just as important as the fact that it is true, and this reason is often found using deduction. Using deduction is what makes mathematics thinking different from other kinds of scientific thinking, which might rely on Experiment|experiments or on Interview|interviews.
+
+Logic and reasoning are used by mathematicians to create general rules, which are an important part of mathematics. These rules leave out information that is not important so that a single rule can cover many situations. By finding general rules, mathematics solution|solves many problems at the same time as these rules can be used on other problems.
+
+Sometimes, mathematics finds and studies rules or ideas that we don't understand yet. Often in mathematics, ideas and rules are choice|chosen because they are considered simple or neat. On the other hand, sometimes these ideas and rules are found in the real world after they are studied in mathematics; this has happened many times in the past. In general, studying the rules and ideas of mathematics can help us knowledge|understand the world better. Some examples of math problems are addition, subtraction, multiplication, division, calculus, fractions and decimals. Algebra problems are solved by evaluating certain variables. A calculator answers every math problem in the four basic arithmetic operations.
+
+ Areas of study in mathematics 
+
+= Number =
+:Mathematics includes the study of numbers and quantities. It is a branch of science that deals with logic of shape, quantity, and arrangement. Most of the areas listed below are studied in many different fields of mathematics, including set theory and mathematical logic. The study of number theory usually focuses more on the structure and behavior of the integers rather than on the actual foundations of numbers themselves, and so is not listed in this given subsection.
+
+:
+
+= Applied mathematics =
+:Applied mathematics|Applied mathematics uses mathematics to solve problems of other areas such as engineering, physics, and computing.
+
+:Numerical analysis – Optimization (mathematics)|Optimization – Probability theory – Statistics – Finance|Mathematical finance – Game theory – Mathematical physics – Fluid dynamics - computational algorithms
+
+ Famous theorems 
+These theorems have interested mathematicians and people who are not mathematicians.
+
+:Pythagorean theorem – Fermat's last theorem – Goldbach's conjecture – Twin Prime Conjecture – Gödel's incompleteness theorems – Poincaré conjecture – Cantor's diagonal argument – Four color theorem – Zorn's lemma – Euler's Identity – Church-Turing thesis
+
+These are theorems and conjectures that have greatly changed mathematics.
+
+:Riemann hypothesis – Continuum hypothesis – P versus NP|P Versus NP – Pythagorean theorem – Central limit theorem – Fundamental theorem of calculus – Fundamental theorem of algebra – Fundamental theorem of arithmetic – Fundamental theorem of projective geometry – classification theorems of surfaces – Gauss-Bonnet theorem – Fermat's last theorem - Kantorovich theorem
+
+ Foundations and methods 
+Progress in understanding the nature of mathematics also influences the way mathematicians study their subject.
+
+:Philosophy of mathematics|Philosophy of Mathematics – Mathematical intuitionism – Mathematical constructivism – Foundations of mathematics – Set theory – Symbolic logic – Model theory – Category theory – Logic – Reverse Mathematics – Table of mathematical symbols
+
+= History and the world of mathematicians =
+Mathematics in history, and the history of mathematics.
+
+:History of mathematics – Timeline of mathematics – Mathematicians – Fields Medal|Fields medal – Abel Prize – Millennium Prize Problems|Millennium Prize Problems (Clay Math Prize) – International Mathematical Union – Mathematics competitions – Lateral thinking – Mathematics and gender
+
+ Awards in mathematics 
+There is no Nobel prize in mathematics. Mathematicians can receive the Abel Prize|Abel prize and the Fields Medal for important works.
+
+The Clay Mathematics Institute has said it will give one million dollars to anyone who solves one of the Millennium Prize Problems.
+
+ Mathematical tools 
+There are many tools that are used to do mathematics or to find answers to mathematics problems.
+
+;Older tools
+
+ Abacus
+ Napier's bones, slide rule
+ Ruler and Compass (drafting)|Compass
+ Mental calculation
+
+;Newer tools
+
+ Calculators and computers
+ Programming languages
+ Computer algebra systems (listing)
+ Internet shorthand notation
+ statistics software (for example SPSS)
+ SAS programming language
+ R (programming language)
+
+Category:Mathematics| 

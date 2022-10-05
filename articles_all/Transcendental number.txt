@@ -1,0 +1,13 @@
+A real number|real or complex number is called a '''transcendental number''' if it cannot be found as a result of an algebraic equation with integer coefficients.
+
+ a_{n}x^{n} + \dots + a_{2}x^2 + a_{1}x + a_{0} = 0 
+
+Proving that a certain number is transcendental can be very hard. Each transcendental number is also an irrational number. The first people to see that there were transcendental numbers were Gottfried Wilhelm Leibniz and Leonhard Euler. The first to actually prove there were transcendental numbers was Joseph Liouville. He did this in 1844.
+
+Well known transcendental numbers:
+ E (mathematical constant)|e
+ Pi (mathematical constant)|π
+ ea for algebraic a ≠ 0
+ 2^{\sqrt{2}}
+
+Category:Number theory

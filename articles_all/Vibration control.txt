@@ -1,0 +1,10 @@
+In earthquake engineering, '''vibration control''' is a set of technical means for decreasing seismic loads and improving seismic performance of building|building structures.
+
+ Types of vibration control devices 
+All vibration control devices may be classified as ''passive'', ''active'' 
+''Base isolators'' restrict penetration of potentially damaging earthquake|seismic waves into a building|building structure while ''dampers'' decrease destructive effect of those waves.
+
+Other websites
+ 
+
+Category:Mechanical vibrations

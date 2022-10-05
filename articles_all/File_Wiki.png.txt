@@ -1,0 +1,10 @@
+'''The Main Page|Simple English Wikipedia logo.'''
+
+{| align="CENTER"  style="width:80%; background-color:#FFFFCC; border:2px solid #8888aa;  padding:5px;"
+| Image:Wikimedia-logo.png|64px|The Wikimedia Logo
+Image:Red_copyright.png|64px|Copyrighted
+| ''This image is w:Copyright|copyrighted by the '''|}
+
+
+
+Category:Wikipedia files

@@ -1,0 +1,43 @@
+{{Infobox settlement
+|official_name = City of Santa Ana
+|nickname = 
+|website = |image_skyline = SantaAnaCollage.jpg
+|image_flag = Flag of Santa Ana, California.svg
+|image_seal = Seal of Santa Ana, California.svg
+|image_map = Orange County California Incorporated and Unincorporated areas Santa Ana Highlighted.svg
+|map_caption = Location in Orange County, California
+|subdivision_type  = Countries of the world|Country
+|subdivision_type1 = Political divisions of the United States|State
+|subdivision_type2 = List of counties in California|County
+|subdivision_name  = United States
+|subdivision_name1 = California
+|subdivision_name2 = Orange County, California|Orange
+|leader_title = Mayor
+|leader_name = Miguel A. Pulido
+|area_magnitude = 
+| area_footnotes          = 
+| area_total_sq_mi        = 27.39
+| area_land_sq_mi         = 27.15
+| area_water_sq_mi        = 0.25
+| area_total_km2          = 70.95
+| area_land_km2           = 70.31
+| area_water_km2          = 0.64
+| area_water_percent      = 0.90
+|population_as_of = 2007
+|population_total = 339,555
+|population_metro = 
+|population_density_km2 = 2751.4
+|timezone = Pacific Standard Time Zone|PST
+|utc_offset = -8
+|timezone_DST = Pacific Daylight Time|PDT
+|utc_offset_DST = -7
+|coordinates = 
+|elevation_m = 35
+|footnotes =}}
+'''Santa Ana''' is a city in California. It is the county seat and has the most people of any city in Orange County, California|Orange County. It is the List of United States cities by population|53rd biggest city in the United States. In 2007, 339,555 people lived in Santa Ana,
+
+The Santa Ana Freeway (Interstate 5) goes through the city. It also has the same name as the Santa Ana Mountains and the Santa Ana winds that cause fires in Southern California.
+
+Santa Ana is part of the Greater Los Angeles Area.
+
+Category:Santa Ana, California| 

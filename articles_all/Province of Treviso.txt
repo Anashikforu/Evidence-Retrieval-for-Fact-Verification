@@ -1,0 +1,184 @@
+
+The '''Province of Treviso''' () is a Provinces of Italy|province in the Veneto region of Italy. Its Capital city|capital is the city of Treviso.
+
+Geography
+The province of Treviso has an area of  high and is on the border with the Belluno and Vicenza provinces.
+
+The province is rich in water; the main river is the Piave river that flows through the province from north to south.
+
+
+
+The province of Treviso borders to the north with the Belluno province, to the east with the Friuli-Venezia Giulia|Friuli Venezia Giulia region (Province of Pordenone|Pordenone province), to the south with the Province of Padua|Padua province and the Metropolitan City of Venice, and to the west with the Province of Vicenza|Vicenza province.
+
+
+
+Population
+ inhabitants/km².
+
+
+'''Evolution of the population in the Treviso province'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:900000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:100000 start:0
+ScaleMinor = gridcolor:lightgrey increment:50000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2016 text:2016
+
+PlotData=
+ color:barra width:30 align:left
+
+  bar:1961 from:0 till: 607616
+  bar:1971 from:0 till: 668620
+  bar:1981 from:0 till: 720580
+  bar:1991 from:0 till: 744038
+  bar:2001 from:0 till: 795264
+  bar:2011 from:0 till: 877905
+  bar:2016 from:0 till: 885447
+
+PlotData=
+  bar:1961 at: 607616 fontsize:S text: 607,616 shift:(-13,5)
+  bar:1971 at: 668620 fontsize:S text: 668,620 shift:(-18,5)
+  bar:1981 at: 720580 fontsize:S text: 720,580 shift:(-18,5)
+  bar:1991 at: 744038 fontsize:S text: 744,038 shift:(-18,5)
+  bar:2001 at: 795264 fontsize:S text: 795,264 shift:(-18,5)
+  bar:2011 at: 877905 fontsize:S text: 877,905 shift:(-18,5)
+  bar:2016 at: 885447 fontsize:S text: 885,447 shift:(-18,5)
+
+
+
+ Municipalities 
+There are 95 Municipality|municipalities (or ''Comune|comuni'') in the province; they are:
+
+# Altivole
+# Arcade
+# Asolo
+# Borso del Grappa
+# Breda di Piave
+# Caerano di San Marco
+# Cappella Maggiore
+# Carbonera
+# Casale sul Sile
+# Casier
+# Castelcucco
+# Castelfranco Veneto
+# Castello di Godego
+# Cavaso del Tomba
+# Cessalto
+# Chiarano
+# Cimadolmo
+# Cison di Valmarino
+# Codognè
+# Colle Umberto
+# Conegliano
+# Cordignano
+# Cornuda
+# Crespano del Grappa
+# Crocetta del Montello
+# Farra di Soligo
+# Follina
+# Fontanelle
+# Fonte
+# Fregona
+# Gaiarine
+# Giavera del Montello
+# Godega di Sant'Urbano
+# Gorgo al Monticano
+# Istrana
+# Loria
+# Mansuè
+# Mareno di Piave
+# Maser
+# Maserada sul Piave
+# Meduna di Livenza
+# Miane
+# Mogliano Veneto
+# Monastier di Treviso
+# Monfumo
+# Montebelluna
+# Morgano
+# Moriago della Battaglia
+# Motta di Livenza
+# Nervesa della Battaglia
+# Oderzo
+# Ormelle
+# Orsago
+# Paderno del Grappa
+# Paese
+# Pederobba
+# Pieve di Soligo
+# Ponte di Piave
+# Ponzano Veneto
+# Portobuffolé
+# Possagno
+# Povegliano
+# Preganziol
+# Quinto di Treviso
+# Refrontolo
+# Resana
+# Revine Lago
+# Riese Pio X
+# Roncade
+# Salgareda
+# San Biagio di Callalta
+# San Fior
+# San Pietro di Feletto
+# San Polo di Piave
+# San Vendemiano
+# San Zenone degli Ezzelini
+# Santa Lucia di Piave
+# Sarmede
+# Segusino
+# Sernaglia della Battaglia
+# Silea
+# Spresiano
+# Susegana
+# Tarzo
+# Trevignano
+# Treviso
+# Valdobbiadene
+# Vazzola
+# Vedelago
+# Vidor
+# Villorba
+# Vittorio Veneto
+# Volpago del Montello
+# Zenson di Piave
+# Zero Branco
+
+
+=Largest municipalities=
+The following shows the 12 Comune|''comuni'' with the population, and the area and altitude.
+
+
+
+Gallery
+
+
+File:Castello della Regina Cornaro Asolo.jpg|Asolo castle.
+File:Castel 2008.JPG|Church, Castello Roganzuolo.
+File:Villa Emo in Fanzolo.jpg|''Villa Emo'', Fanzolo.
+File:Villa Giustinian.jpg|''Villa Giustinian'', Roncade.
+File:Piazza dei Signori e Palazzo dei Trecento.jpg|''Piazza dei Signori'' and ''Palazzo dei Trecento'', Treviso.
+
+
+
+Category:Provinces of Veneto|Treviso

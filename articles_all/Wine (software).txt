@@ -1,0 +1,6 @@
+ Some Wine code is used in ReactOS, a free operating system that is Windows-compatible and is not based on Unix.
+
+The Wine developers released version 1.0 of Wine, after 15 years of development, on June 17 2008. 
+Wine is free software, released under terms of the GNU Lesser General Public License (LGPL).
+
+Category:1993

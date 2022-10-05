@@ -1,0 +1,21 @@
+
+{{Taxobox
+| name = Giant Hispaniolan galliwasp
+| image = Haitian_galliwasp_baby2.jpg
+| status = CR
+| status_system = IUCN3.1
+| regnum = Animalia
+| classis = Reptilia
+| ordo = Squamata
+| familia = Anguidae
+| genus = ''Celestus''
+| binomial = ''Celestus warreni''}}
+
+'''''Celestus warreni''''' (also known as the '''Warren's galliwasp''' or the '''giant Hispaniolan galliwasp''') is a kind of lizard of the Anguidae family.  It can be found in the Dominican Republic and Haiti. Its natural habitat is subtropical or tropical moist lowland forests underneath leaf litter and underneath forest debris. Giant galliwasps are opportunistic predators that feed on insects, earthworms, small mammals, and other reptiles. 
+
+It is threatened by habitat loss.
+
+
+
+
+Category:Anguids

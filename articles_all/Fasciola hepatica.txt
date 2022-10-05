@@ -1,0 +1,24 @@
+
+{{Taxobox
+| name = ''Fasciola hepatica''
+| image = Fasciola_hepatica.JPG
+| image_caption = ''Fasciola hepatica'' – adult worm
+| regnum = Animalia
+| phylum = Platyhelminthes
+| classis = Trematoda
+| subclassis = Digenea
+| familia = Fasciolidae
+| genus = ''Fasciola''
+| binomial = ''Fasciola hepatica''
+| binomial_authority = Carl Linnaeus|Linnaeus, 1758}}
+
+'''''Fasciola hepatica''''' (also known as the '''common liver fluke''') is a parasitism|parasitic trematode (fluke or flatworm) in the phylum Platyhelminthes.
+
+It infects the livers of various mammals, including humans. The disease caused by the fluke is called ''fascioliasis''. It has been classified as a neglected tropical disease. 
+
+''F. hepatica'' is distributed worldwide, and has been known as an important parasite of sheep and cattle for hundreds of years. It causes great economic losses in sheep and cattle. Because of its size and economic importance, it has been the subject of many scientific investigations and may be the best-known of any trematode species.
+
+ Life cycle 
+
+
+Category:Flatworms

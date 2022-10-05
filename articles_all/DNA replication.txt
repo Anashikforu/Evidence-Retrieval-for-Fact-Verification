@@ -1,0 +1,17 @@
+
+
+'''DNA replication''' is the process of copying a double-stranded DNA molecule. Both strands serve as templates for the reproduction of the opposite strand. The process is sometimes called "semi-conservative replication" because the new DNA from the original strand contains half of the original and half of the newly synthesized DNA.
+
+This process occurs in all life forms with DNA.Most viruses use RNA instead. There are some differences in the control of DNA replication in prokaryote|prokaryotic and eukaryote|eukaryotic organisms.
+
+In a cell (biology)|cell, DNA replication begins at specific places in the genome, called ''origins''. As the DNA unwinds at the origin, the synthesis of new strands forms at a ''replication fork''. In addition to DNA polymerase,The enzyme which synthesizes new DNA by adding nucleotides matched to the template strand. other enzymes at the fork help to start and continue the DNA synthesis.
+
+ DNA polymerase 
+DNA polymerases are a family of enzymes that carry out all forms of DNA replication. 
+
+In general, DNA polymerases are extremely accurate, making less than one mistake for every 107 (10 million) nucleotides added. Even so, some DNA polymerases also have 'proofreading' ability: they can remove nucleotides from the end of a strand in order to correct mismatched bases.
+
+ DNA repair 
+DNA in cells is constantly being damaged.Causes include reactive molecules, chemicals and radiation from the environment, and damage caused by heat. The nucleus of cells contains a number of repair mechanisms which fix almost all of this damage. "A large set of DNA repair enzymes continuously scan the DNA and repair any damaged nucleotides".Alberts B ''et al'' 2002. ''Molecular biology of the cell''. 4th ed, Garland. p275. 
+
+Category:DNA

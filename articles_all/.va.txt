@@ -1,0 +1,18 @@
+{{Infobox Top level domain
+|name=.va
+|image=Emblem of the Papacy.svg
+|image_alt=Vatican crest
+|introduced=1995
+|type=Country code top-level domain
+|status=Active
+|registry=Internet Office of the Holy See
+|sponsor=Holy See Secretariat of State (Vatican)|Secretariat of State
+|intendeduse=Entities connected with 
+|actualuse=Used for the official Vatican / Holy See site
+|restrictions=No public registrations are available
+|structure=Only official sites of the Vatican are in this domain; they are at second-level names, as well as within vatican.va
+|document=
+|disputepolicy=None needed since registrations are unavailable outside Vatican administration
+|website=
+'''.va''' is the Internet country code top-level domain (country code top-level domain|ccTLD) for the Vatican City|State of the Vatican City.
+

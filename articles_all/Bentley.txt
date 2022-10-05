@@ -1,0 +1,37 @@
+
+
+| brands = 
+| production = 
+| production_year = 
+| services = 
+| revenue = 
+| revenue_year = 
+| operating_income = 
+| income_year = 
+| net_income = 
+| net_income_year = 
+| aum = 
+| assets = 
+| assets_year = 
+| equity = 
+| equity_year = 
+| owner = 
+| members = 
+| members_year = 
+| num_employees = 
+| num_employees_year = 
+| parent = 
+| divisions = 
+| subsid = 
+| module = 
+| ratio = 
+| rating = 
+| website = 
+| footnotes = 
+}}
+
+'''Bentley''' is a United Kingdom|British car maker. It is based in Crewe, Cheshire.
+
+Bentley is famous for their fast, luxury vehicles. In 1998, the German Volkswagen Group purchased Bentley for £430 million. 
+
+Category:British automobile companies

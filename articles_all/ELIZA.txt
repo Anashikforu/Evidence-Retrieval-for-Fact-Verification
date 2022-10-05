@@ -1,0 +1,19 @@
+
+'''ELIZA''' is an early natural language processing|program able to process natural language. ELIZA operated by processing users' responses to ''scripts''. The most famous script was called '''DOCTOR'''. It was a simulation of a Rogerian psychotherapy|Rogerian psychotherapist. Eliza didn't know much about thought or emotion. However, DOCTOR   sometimes provided wikt:conversation|conversation like a human. ELIZA was written at MIT by Joseph Weizenbaum between 1964 to 1966.
+
+When the person used words that were not in the very small list,
+DOCTOR might say, for example, responding to "My head hurts", "Why do you say your head hurts?" The response to "My mother hates me" might be "Who else in your family hates you?" ELIZA was programmed using simple pattern matching techniques, but was taken seriously by several of its users, even after Weizenbaum explained to them how it worked. It was one of the first chatterbots in existence.
+
+Implementations
+ Using Java (programming language)|Java, and based very closely on Weizenbaum's published description of the program:  Using z80#The Z80 assembly language|z80 Assembly on the TI-83#TI-83 Plus|TI-83 Plus:  Trans-Tex Software has released shareware versions for Classic Mac OS and Mac OS X:  doctor.el (circa 1985) in Emacs lisp:  Source code in Tcl:  Source code in BASIC: 
+Related pages
+ 20Q
+ Artificial intelligence
+ Chatterbot
+ Loebner prize
+ Turing test
+
+ Notes 
+
+
+Category:Software

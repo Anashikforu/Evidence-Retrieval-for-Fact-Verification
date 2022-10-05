@@ -1,0 +1,18 @@
+In set theory, a '''subset''' is a set which has some (or all) of the elements of another set, called superset, but does not have any elements that the superset does not have. A subset which does not have all the elements of its superset is called a '''proper subset'''. We use the symbol ⊆ to say a set is a subset of another set. We can also use ⊂ if it is a proper subset. The symbols ⊃ ⊇ are opposite - they tell us the second element is a (proper) subset of the first.
+
+For example:
+{1, 2, 3} is a proper subset of {-563, 1, 2, 3, 68}.
+
+The interval 0, 1 is a proper subset of the set of real numbers (also the set of positive numbers).
+:0, 1 \subset R
+:0, 1 \subset R_+
+{46,189,1264} is its own subset, and is a proper subset of the set of natural numbers.
+:\{ 46,189,1264\} \subseteq \{ 46,189,1264\}
+:\{ 46,189,1264\} \subset N 
+
+ Related pages 
+
+ Subset sum problem
+ Vector subspace
+
+ro:Mulțime#Submulțimi

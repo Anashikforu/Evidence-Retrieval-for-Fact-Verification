@@ -1,0 +1,8 @@
+"'''$1'''" has been deleted (Special:Undelete/$1|view •  salt). See the $2 for a record of recent deletions.
+
+Depending on the reason for deletion, you may want to remove any Special:Whatlinkshere/$1|links to this page.
+|
+
+Image:Information.svg|40px This page also has a ''' delete that as well.
+
+|}}}}

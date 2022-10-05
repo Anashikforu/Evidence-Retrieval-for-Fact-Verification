@@ -1,0 +1,6 @@
+The following pages link to $2 
+External tools:
+ //linkcount.toolforge.org/?project=simple.wikipedia.org&page= Link count
+ //templatecount.toolforge.org/index.php?lang=simple&namespace= Transclusion count
+
+----

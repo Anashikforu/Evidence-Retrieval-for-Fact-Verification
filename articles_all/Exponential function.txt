@@ -1,0 +1,55 @@
+
+
+In mathematics, the '''exponential function''' is a Function (mathematics)|function that grows quicker and quicker. More precisely, it is the function \exp(x) = e^x, where e is e (mathematical constant)|Euler's constant, an irrational number that is approximately 2.71828. 
+
+Properties
+Because exponential functions use exponentiation, they follow the same exponent rules. Thus,
+:e^{x+y} = \exp(x+y) = \exp(x)\exp(y) = e^x e^y. 
+
+This follows the rule that x^a \cdot x^b = x^{a+b}.
+
+The natural logarithm is the inverse operation of an exponential function, where:
+:\ln(x) = \log_{e}(x) = \frac{\log(x)}{\log(e)}
+
+The exponential function satisfies an interesting and important property in differential calculus:
+:\frac{\mathrm d}{\mathrm dx} e^x = e^x
+This means that the slope of the exponential function is the exponential function itself, and as a result has a slope of 1 at x=0. These properties are the reason it is an important function in mathematics.
+
+Applications
+The general exponential function, where the base is not necessarily e, is among the most useful of mathematical functions. It is used to represent exponential growth, which has uses in virtually all science|scientific disciplines and is also prominent in finance. Another application of the exponential function is exponential decay, which occurs in radioactive decay and the absorption of light.
+
+One example of an exponential function in real life would be interest in a bank. If a person deposits £100 into an account which gets 3% interest a month, then the balance each month (assuming the money is untouched) would be as follows:
+
+
+Here, notice how the extra money from interest increases each month, in that the greater the original balance, the more interest the person will get.
+
+Two mathematical examples of exponential functions (with base ''a'') are shown below.
+
+
+
+a=2
+ 
+
+a=3
+ 
+
+
+
+ Relation to the mathematical constant ''e'' 
+
+
+
+Even though the base (a) can be any number bigger than zero, for example, 10 or 1/2, often it is a special number called E (mathematical constant)|e. The number ''e'' cannot be written exactly, but it is almost equal to 2.71828.
+
+The number ''e'' is important to every exponential function. For example, a bank pays interest of 0.01 percent every day. One person takes his interest money and puts it in a box. After 10,000 days (about 30 years), he has 2 times as much money as he started with. Another person takes his interest money and puts it back into the bank. Because the bank now pays him interest on his interest, the amount of money is an exponential function. 
+
+In fact, after 10,000 days, he does not have 2 times as much money as he started with, but he has 2.718145 times as much money as he started with. This number is very close to the number ''e''. If the bank pays interest more often, so the amount paid each time is less, then the number will be closer to the number ''e''.
+
+A person can also look at the picture to see why the number ''e'' is important for exponential functions. The picture has three different curves. The curve with the black points is an exponential function with a base slightly smaller than ''e''. The curve with the short black lines is an exponential function with a base slightly bigger than ''e''. The blue curve is an exponential function with a base exactly equal to ''e''. The red line is a Tangent (geometry)|tangent to the blue curve. It touches the blue curve at one point without crossing it. A person can see that the red curve crosses the ''x''-axis, the line that goes from left to right at -1. This is true only for the blue curve. This is the reason that the exponential function with the base ''e'' is special.
+
+
+ Related pages 
+
+ Logarithm
+
+Category:Functions and mappings

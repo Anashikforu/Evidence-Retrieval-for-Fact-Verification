@@ -1,0 +1,22 @@
+{{Infobox language
+|name        = Brahui
+|nativename  = براویBráhuí
+|region      = Balochistan (region)|Balochistan
+|map         = Dravidische Sprachen.png
+|mapcaption  = The Dravidian languagesBrahui (at far upper left) is far from the other Dravidian languages
+
+|speakers    = 2.2 million 
+|date        = 1998
+|ethnicity   =
+|familycolor = Dravidian
+|fam2        = Northern Dravidian languages|Northern
+|script      = Perso-Arabic script|Perso-Arabic, Latin script|Latin
+|agency      = Brahui Language Board (Pakistan)
+|iso3        = brh}}
+The '''Brahui''' () language, spoken by the Brahui, it is the only Dravidian language mainly spoken in Pakistan, although it is also spoken in Afghanistan and Iran. The 2005 edition of Ethnologue reports some 2.2 million speakers, 90% of whom live in Pakistan. In Pakistan it is mainly spoken in the Kalat region of Balochistan (Pakistan)|Balochistan.
+
+Although it is a Dravidian language, it has been heavily influenced by the Iranian languages spoken in the area such as Balochi.
+
+Brahui is often considered to be a remnant of a formerly more widespread Dravidian language family that was speculated to have reduced during the Indo-Aryan migration. It is also sometimes speculated that Brahui might be a direct legacy of the Indus Valley Civilisation. However, one polar opposite view is that Brahuis migrated up to Baluchistan in the 13 or 14th century or by a late immigration that took place after 1000 CE.
+
+Category:Languages of Pakistan

@@ -1,0 +1,93 @@
+Image:Greater London UK district map (blank).svg|thumb|London Buses operates within Greater London, with some routes spilling into the Home Counties.
+This page is a '''list of Transport for London (TfL) contracted London Buses|London Bus routes in London''', as well as private services that enter the Greater London area (except Coach (vehicle)|coaches).
+
+Kinds of route numbers
+
+=The different kind of routes today=
+
+''Except 603 and 607, which are normal day time routes''
+
+
+
+
+=Historic numbering=
+Historically, bus routes run by London Transport were grouped by the type of service that they provided.
+
+The 1924 London Traffic Act imposed a numbering scheme known as the Bassom Scheme, named after Chief Constable#Metropolitan Police|Chief Constable A.E. Bassom of the Metropolitan Police who made it. Changing and short lines used letter suffixes. The numbers were grouped also by the company that operated the route.
+
+The numbering was revised in 1934 after London Passenger Transport Board|London Transport was formed:
+
+
+
+List of routes
+All routes operate in both directions unless detailed.
+
+=1–99=
+
+
+
+=100–199=
+
+
+
+=200–299=
+
+
+
+=300–399=
+
+
+
+=400–499=
+
+
+
+=500–599=
+
+
+
+=600–699=
+
+
+
+
+=900–999=
+
+Route numbers from 900 to 999 represent Mobility Buses: these provide a once a week return journey to a local shopping centre from relatively low density neighbourhoods where there is no alternative route in the main bus network. The number of Mobility Buses routes have declined because low-floor and wheelchair accessible buses run on all London Buses routes except for the London Buses route 15 (Heritage)|heritage route.
+
+
+
+=Letter prefixes=
+
+
+
+=Night only routes (N-prefixed)=
+
+Night bus routes are often related to the day numerical equivalent, normally running the same route but with an extension at either end of the service. This is normally to provide a night service to destinations served by tube or train during the day.
+
+However, there are a few N-prefixed route numbers that have no relation to their daytime equivalents: the N5, N20 and N97 all operate in a different part of London to their respective day routes, and the N550 and N551 (which provide night service on parts of the DLR network) have no corresponding daytime routes.
+
+There are also 24-hour routes, which run day and night but usually with a lower frequency during the night hours. The vast majority run the same route at all times. London Buses route 65|Route 65 is classed as a 24-hour service, but unusually has an extension to its night service, rather than the night service being designated N65.
+
+
+
+=Non-TfL bus routes in Greater London=
+These bus routes are not contracted to TfL and are therefore not 'London Buses'. All but three run from the villages and towns outside Greater London to destinations within (the exceptions are the 812, 938 and MB1, which run entirely within the boundary). They are painted in a colour chosen by the operator, so are not necessarily red like London Buses, and most of them do not accept Oyster cards. These routes are operated with a ''London Service Permit'' issued by TfL so they are recognised by TfL bus maps and appear on TfL bus stops. 
+
+
+
+Temporary routes
+There are four special express routes that run during the Notting Hill Carnival: 2X, 36X, 205X and 436X.
+
+Former routes
+
+
+
+This list shows some old routes that used to operate but do not exist anymore. Services withdrawn before 1994 are not listed.
+
+
+
+Related pages
+:Category:London bus operators
+
+Category:Transport lists

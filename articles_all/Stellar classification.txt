@@ -1,0 +1,49 @@
+Image:Morgan-Keenan spectral classification.svg|thumb|300px|M stars are the coldest and O stars are the hottest in stellar classification. These stars are from the main sequence.
+
+In astronomy, '''stellar classification''' is a way of grouping stars by temperature. Star temperature can be measured by looking at its spectrum, the type of light that the star shines.
+
+Stars are also grouped into '''spectral types''' or '''classes''' by color. In general, a star's temperature determines its color, from red to blue-white. Spectral types are named with a letter. The seven main types are ''M'', ''K'', ''G'', ''F'', ''A'', ''B'' and ''O''. ''M'' stars are the coldest stars and ''O'' stars are the hottest. The full system contains other types that are hard to find: ''W'', ''R'', ''N'', and ''S''.
+
+The closest star to the Earth, the sun, is a class G star.
+
+ Harvard spectral classification 
+
+The Harvard classification system is a one-dimensional classification scheme. Stars vary in surface temperature from about 2,000 to 40,000 kelvin. Physically, the classes indicate the temperature of the star's atmosphere and are normally listed from hottest to coldest, as is done in the following table:  
+
+Note: The conventional color description describe only the peak of the stellar spectrum. However, the actual apparent colors the eye sees are lighter than the conventional color descriptions. 
+ 
+
+
+The mass, radius, and luminosity listed for each class are appropriate only for stars on the main sequence|main-sequence portion of their lives and so are not appropriate for red giants. The spectral classes O through M are subdivided by Arabic numerals (0–9). For example, A0 denotes the hottest stars in the A class and A9 denotes the coolest ones. The Sun is classified as G2.
+Image:H-R diagram.svg|thumb|right|270px|The Hertzsprung-Russell diagram relates stellar classification with absolute magnitude, luminosity, and surface temperature.
+
+The  Hertzsprung-Russell diagram is more often used in astronomy, because it relates three important variables: the absolute magnitude, the luminosity and the surface temperature. It is as important to astronomy as the periodic table is to chemistry.
+
+=Conventional and apparent colors=
+The ''conventional color'' descriptions are traditional in astronomy, and represent colors relative to the mean color of an ''A-class star'' which is considered to be white. The ''apparent color'' descriptions are what the observer would see if trying to describe the stars under a dark sky without aid to the eye, or with binoculars.The Guinness book of astronomy facts & feats, Patrick Moore, 1992, 0-900424-76-1  
+
+The Sun itself is white, though it is sometimes called a yellow star. This is a natural consequence of the evolution of human optical senses: the response curve that maximizes the overall efficiency against solar illumination will by definition perceive the Sun as white, though there is some subjective variation between observers.
+File:R136a1.jpg|R136a1, a massive Wolf-Rayet star
+File:M1-67 & WR124.png|Hubble Space Telescope image of the nebula M1-67 and the Wolf–Rayet star WR 124 in the center
+File:Ba b do8mag c6 big.gif|Proper motion of stars of early type in -/+ 200 000 years
+File:Galactic refurbishment.jpg|UGC 5797, an emission-line galaxy where massive bright blue stars are formed
+File:O5v-spectre.png|Spectrum of an O-type star
+File:A Snapshot of the Jewel Box cluster with the ESO VLT.jpg|B-type stars in the Jewel Box Cluster
+File:Size Vega.png|Vega, an A-type star, compared to the Sun
+File:Polaris alpha ursae minoris.jpg|Polaris, an F-type star
+File:Astro 4D stars proper radial g b 8mag big.png|The movement of stars of late type around the apex (left) and antapex (right) in -/+ 200 000 years
+File:Sun920607 Proportioned.jpg|The Sun, a G-type star
+File:Redgiants.svg|Arcturus, a K-type red giant compared to M-type Antares
+File:Betelgeuse – NASA.jpg|Betelgeuse, an M-type red giant star.
+File:VY Canis Hypergiant.jpg|VY Canis Majoris, an M-type hypergiant
+File:Curious spiral spotted by ALMA around red giant star R Sculptoris (data visualisation).jpg|R Sculptoris, a carbon star.
+File:Dwarf star spectra (luminosity class V) from Pickles 1998.png|Spectra for dwarfs (luminosity class V) for standard spectral types taken from Pickles (1998).
+File:Star spectra by Secchi.jpg|Guide for Secchi spectral types ("152&nbsp;Schjellerup" is Y Canum Venaticorum)
+File:Sirius A and B Hubble photo.jpg|Sirius A and B (a white dwarf of type DA2) resolved by Hubble Space Telescope|Hubble
+
+
+
+ Related pages
+Hertzsprung-Russell Diagram
+
+ro:Clasificarea stelelor#Clasificarea după spectrul stelar

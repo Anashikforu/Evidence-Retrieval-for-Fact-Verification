@@ -1,0 +1,37 @@
+
+|area_magnitude           = 
+|area_total_km2           = 24.14
+|area_land_km2            = 24.01
+|area_water_km2           = 0.13
+|area_total_sq_mi         = 9.32
+|area_land_sq_mi          = 9.27
+|area_water_sq_mi         = 0.05
+|area_note                = 
+|population_footnotes     = 
+|population_as_of         = 2010 United States Census|2010
+|population_est           = 11638
+|pop_est_as_of            = 2012
+|population_note          = 
+|population_total         = 11492
+|population_density_sq_mi = 1239.7
+|population_density_km2   = 478.7
+|timezone                 = North American Eastern Time Zone|EST
+|utc_offset               = -5
+|timezone_DST             = Eastern Daylight Time|EDT
+|utc_offset_DST           = -4
+|elevation_m              = 292
+|elevation_ft             = 958
+|coordinates=
+|website                  = 
+|postal_code_type         = ZIP code
+|postal_code              = 47240
+|area_code                = Area code 812|812
+|blank_name               = Federal Information Processing Standard|FIPS code
+|blank_info               = 18-29718
+|blank1_name              = Geographic Names Information System|GNIS feature ID
+|blank1_info              = 0449663
+|footnotes                = |
+}}
+'''Greensburg''' is a city in the state of Indiana, in the United States. The population was counted at 11,492 at the 2010 census. The city is the county seat of Decatur County, Indiana|Decatur County.
+
+Category:County seats in Indiana

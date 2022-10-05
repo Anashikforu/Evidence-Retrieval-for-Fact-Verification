@@ -1,0 +1,8 @@
+
+'''Control engineering''' is the engineering field that focuses on mathematical modeling of dynamical systems, and uses control theory to create controllers that cause the systems to behave in some desired manner. Modern control engineering is closely related to electrical, electronic, and computer engineering.  As engineering continues to develop, control engineering is often wanted.
+
+In most cases, control engineers make use of feedback when designing control systems. For example, in an automobile with sail control, the machine's speed is continuously checked and fed back to the system, which then adjusts the motor's spin power on the fly. Recently, control systems are also used in nanotechnology. In chemical engineering, control engineering is known as process control. Many advancements in science, finance, and even human action, can be attributed to control engineering. 
+
+Many control systems rely on feedback. However, there are also control systems that work without feedback. Such a system is known as an open loop control|open-loop control. An open-loop controller, also called a non-feedback controller, relies only on the model and the input signal fed to the system.  An example of open loop control|open-loop control can be found in washing machines, which work by running pre-programmed cycles but, most importantly, do not rely on any measurements of the speed of the barrel or water volume to adjust the machine on the fly.
+
+Category:Engineering disciplines

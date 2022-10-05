@@ -1,0 +1,8 @@
+
+The '''VMDK''' ('''V'''irtual '''M'''achine '''D'''is'''k''') is a file format used by VMware products.
+Products that use the format
+VMware Workstation
+VMware Player
+VMware Server
+
+Category:Computer file formats

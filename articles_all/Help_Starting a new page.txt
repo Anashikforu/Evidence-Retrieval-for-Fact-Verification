@@ -1,0 +1,24 @@
+ Using Wikilinks 
+MediaWiki makes it very easy to link wiki pages using a standard syntax (see mw:Help:Links|Links). If you (or anyone else) makes a link to an article that doesn't exist yet, the link will be colored red, like this.
+
+Clicking a red link, will take you to the edit page for the new article. Simply type your text, click save and the new page will be made.
+
+Once the page has been made, the link will change from red to blue (purple for pages you've visited) telling you that the article now exists.
+
+Usually, this is the best way to make a new page, because it means that right from the start, the page will be linked from at least one other place on the wiki (and typically you will want to mesh it into other related pages later) If you are making a new page without making any link to it, you may need to ask yourself: Does this page really fit in with the topics already covered in the wiki? Also, how are you expecting visitors to find this page? Normally there is no reason to make a page without first making a red link to it.
+
+ Using the URL 
+You can use the wiki's URL for making a new page. The URL to an article of the wiki is usually something like this:
+
+If you replace Example article name with the name of the page you wish to make, you will be taken to a blank page which tells you that no article of that name exists yet. Clicking the "''edit''" mw:Help:Navigation#Page Tabs|page tab at the top of the page will take you to the edit page for that article, where you can make the new page by typing your text, and clicking submit.
+
+ From the search page 
+If you search for a page that doesn't exist (using the search box and go button on the left of the page) then you will be provided with a link to make the new page. (Note that this technique doesn't work if you use the search button).
+
+ Create redirects to your new page  
+Don't forget to set up redirects when you make a page. If you think another person may search for the page you've made by using a different name or spelling, please make the proper redirect(s). See mw:Help:Redirects.
+
+ Protecting your new page 
+Normally a new wiki page can be edited by other people (that is one of the main ideas of a wiki!) However, a sysop could protect the page, if wanted, to make sure normal users don't edit it.
+
+Category:Help|Starting a new page

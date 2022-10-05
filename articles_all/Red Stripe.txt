@@ -1,0 +1,6 @@
+
+'''Red Stripe''' is a Jamaican beer that comes in a can and a bottle.
+
+
+
+Category:Beer

@@ -1,0 +1,44 @@
+Image:vegCorn.jpg|thumb|200px|Husked sweetcorn, Corn on the cob
+'''Sweet corn''' (''Zea mays'' convar. ''saccharata'' var. ''rugosa''; also called '''Indian corn''', '''sugar corn''', and '''pole corn''') is a wikt:variety|variety of maize with a high sugar content and prepared as a vegetable.
+{{nutritionalvalue|
+name=Sweetcorn, yellow, raw (seeds only)|
+kJ=360|
+water=75.96 g|
+protein=3.2 g|
+fat = 1.18 g|
+carbs=19.02 g|
+fiber=2.7 g|
+sugars=3.22 g|
+potassium_mg=270|
+magnesium_mg=37|
+iron_mg=0.52| vitC_mg=6.8|
+vitA_ug=9|
+folate_ug=46|
+niacin_mg=1.700|
+thiamin_mg=0.200|
+tryptophan=0.023 g|
+threonine=0.129 g|
+isoleucine=0.129 g|
+leucine=0.348 g|
+lysine=0.137 g|
+methionine=0.067 g|
+cystine=0.026 g|
+phenylalanine=0.150 g|
+tyrosine=0.123 g|
+valine=0.185 g|
+arginine=0.131 g|
+histidine=0.089 g|
+alanine=0.295 g|
+aspartic acid=0.244 g|
+glutamic acid=0.636 g|
+glycine=0.127 g|
+proline=0.292 g|
+serine=0.153 g|
+source_usda=1|
+right=1|
+note=One ear of medium size (6-3/4" to 7-1/2" long) maize has 90 grams of seeds}}
+
+Related pages
+ Cornbread
+
+Category:Vegetables

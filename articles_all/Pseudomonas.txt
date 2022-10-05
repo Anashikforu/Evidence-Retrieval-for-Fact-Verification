@@ -1,0 +1,24 @@
+
+{{Taxobox
+| name = ''Pseudomonas''
+| image = Pseudomonas.jpg
+| image_width = 250px
+| image_caption = colourized scanning electron microscope|scanning electron micrograph (SEM) of some ''Pseudomonas aeruginosa'' 
+| regnum = Bacterium|Bacteria
+| phylum = Proteobacteria
+| classis = Gammaproteobacteria
+| ordo = Pseudomonadales
+| familia = Pseudomonadaceae
+| genus = '''''Pseudomonas'''''
+| type_species = ''Pseudomonas aeruginosa''}}
+
+'''''Pseudomonas''''' is a genus of gammaproteobacteria. They are in the family (biology)|family of pseudomonads. ''Pseudomonas'' bacteria can be found in many different environments, such as soil, water, and plant and animal tissue.
+
+There are many ''Pseudomonas'' species. Some are parasitic and invade animal tissues. In humans, pathogenic ''Pseudomonas'' thrive, especially after antibiotic treatment: once they are able to multiply rapidly they can be harmful.
+
+
+
+
+
+
+Category:Gram-negative bacteria

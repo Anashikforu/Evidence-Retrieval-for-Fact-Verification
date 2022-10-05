@@ -1,0 +1,33 @@
+
+Image:Biological classification L Pengo vflip.svg|thumb|right|A hierarchy of important ranks
+'''Biological classification''' is how biologists group organisms.
+
+The 
+Biological classification is also known as taxonomy. It is a science, and like most sciences has evolved over time. At various times different principles were adopted, and it is not rare for different scientists to use different methods. Since the early 20th century, groupings are supposed to fit the Charles Darwin|Darwinian principle of evolution|common descent. These days, molecular evolution studies, which use DNA sequence analysis as data, are popular. This is often called "phylogenetics", a branch or form of Clade|cladism. This approach creates an evolutionary Tree of life (biology) and uses characters (traits) to decide on the branches of the taxonomy.
+
+Sometimes organisms placed in the same group (taxon) are similar; such similarity is not necessarity coincidence. It may be the result of shared descent from a common ancestor.
+
+ Homology 
+Homology|Homologous traits are similarities caused by common ancestry.  They are distinct from traits that are Analogy (biology)|analogous.  For example, birds and bats both have the power of flight, but this is not used to classify them together, because it is not inherited from a common ancestor.
+
+In spite of all the other differences between them, the fact that bats and whales both feed their young on milk is one of the features used to classify both as mammals, since it was inherited from a common ancestor.
+
+When the present system of naming living things was developed, Latin was the language most widely used around the world. So, such names are still in Latin. Latin is also used presently because it is a dead language, so it never changes. The official descriptions and diagnoses of new taxa in Latin were and are written in Latin as well. Zoologist allow any language for the description of animals. From January 1, 2012, new taxa of algae, fungi and plants may be described in either English or Latin.
+
+ Name endings 
+Taxon|Taxa above the genus level are often given names based on a "type genus", with a standard suffix.  The suffixes used in forming these names depend on the kingdom, and sometimes the phylum and class, as set out in the table below.
+
+
+
+Related pages
+ Binomial nomenclature
+ Taxonomy
+ Systematics
+ Cladistics
+ Molecular evolution
+ Molecular clock
+ Phylogeny
+ Wastebasket taxon
+ Evolutionary grade
+
+Category:Taxonomy| 

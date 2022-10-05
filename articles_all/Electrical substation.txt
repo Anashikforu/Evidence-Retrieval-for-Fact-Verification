@@ -1,0 +1,13 @@
+Image:Electrical Substation.JPG|300px|thumb|right|A 115 kV to 41.6/12.47 kV 5000 kVA 60 Hz substation with circuit switcher, regulators, reclosers and control building
+
+An '''electrical substation''' is a subsidiary station of an electricity Electricity generation|generation, electric power transmission|transmission and Electric power distribution|distribution system where voltage is transformed from high to low or the reverse using transformers. Electric power may flow through several substations between generating plant and consumer, and may be changed in voltage in several steps.
+
+Related pages
+ Electricity
+
+
+
+
+
+Category:Electricity
+Category:Electricity distribution

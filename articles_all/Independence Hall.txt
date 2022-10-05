@@ -1,0 +1,63 @@
+
+'''Independence Hall''' is a historic building in Philadelphia, Pennsylvania.  It is called Independence Hall because the Declaration of Independence was passed there.  The United States Constitution was also written there.  It served as the capital of the United States several times, mostly during the Revolutionary War.  It was also the meeting place of the state legislature of Pennsylvania.  It is a World Heritage Site.  It is on the back of the $100 bill.
+
+The Liberty Bell was originally in the bell tower of the building.
+
+Abraham Lincoln's funeral included coming to Independence Hall, where over 300,000 people viewed the president's body.
+
+
+
+ Inside the building 
+{{multiple image
+ | align     = left
+ | direction = vertical
+ | header_align = center
+ | header    = Rooms on the First Floor
+
+<!-- PLEASE ADD IF YOU KNOW HOW: 
+   | image1    = IndependenceHallAssemblyRoom.jpg
+   | alt1      = Assembly Room
+   | width1    = 320
+   | caption1  = Assembly Room, where both the Declaration of Independence and Constitution were written and signed
+ -->
+
+   | image1    = HABS measured drawing of the first floor of Independence Hall.jpg
+   | alt1      = floor plan, first floor
+   | width1    = 300
+   | caption1  = Ground floor of Independence Hall: Assembly Room (left), Supreme Court Room (right), Entrance Hall (center), and Tower Stair Hall (top)
+
+   | image2    = HABS measured drawing of the first floor of Independence Hall.jpg
+   | alt2      = 
+   | width2    = 1 
+   | caption2  = 
+  }}
+
+{{multiple image
+ | align     = left
+ | direction = vertical
+ | header_align = center
+ | header    = Rooms on the Second Floor
+
+   | image1    = Independence Hall Long Gallery.jpg
+   | alt1      = a long hall
+   | width1    = 200
+   | caption1  = Long Gallery
+
+   | image2    = Independence2.JPG
+   | width2    = 177
+   | alt2      = A room with large table and fireplace
+   | caption2  = Governor's Council Chamber
+
+   | image3   = Independence Hall Committee Room.jpg
+   | width3   = 200
+   | alt3     = A room with chairs and small tables
+   | caption3 = Committee of Assembly Chamber
+  }}
+
+
+
+
+
+
+Category:Buildings and structures in Philadelphia, Pennsylvania
+Category:World Heritage Sites in the United States

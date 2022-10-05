@@ -1,0 +1,68 @@
+var adminrights = {};
+ 
+//Start of section to update
+adminrights'Auntof6'=1;
+adminrights'BRPever'=1;
+adminrights'Bsadowski1'=1;
+adminrights'Chenzw'=1;
+adminrights'DannyS712'=1;
+adminrights'Djsasso'=1;
+adminrights'Enfcer'=1;
+adminrights'Eptalon'=1;
+adminrights'Ferien'=1;
+adminrights'Gordonrox24'=1;
+adminrights'Griffinofwales'=1;
+adminrights'ImprovedWikiImprovment'=1;
+adminrights'Macdonald-ross'=1;
+adminrights'Operator873'=1;
+adminrights'Peterdownunder'=1;
+adminrights'Vermont'=1;
+//End of section to update
+ 
+//Updating script
+$( function() {
+  if(location.hrefmw.config.get( 'wgServer' )+ mw.config.get( 'wgScript') + "?title=Special:ListUsers&limit=5000&"+
+                    "group=sysop&adminupdate=y")
+  {
+    var h=document.getElementById('bodyContent').innerHTML;
+    var a= ;
+    h=h.split(/\/i);
+    var i=0;
+    while(++i<h.length)
+    {
+      ahi.split(">")1.split("/i)0;
+    }
+    for(i in a)
+    {
+      document.write("adminrights'"+
+        encodeURIComponent(i).split("\\").join("\\\\").split("'").join("%27")
+                             .split("(").join("%28").split(")").join("%29")
+                             .split("!").join("%21").split(",").join("%2C")
+                             .split("%3A").join(":")+"'=1;");
+    }
+  }
+});
+ 
+$( function() {
+  if( location.href.indexOf("?adminupdate")  -1 && location.href.indexOf("&adminupdate")-1 &&
+     mw.config.get( 'wgAction') != 'edit' && mw.config.get( 'wgAction') != 'submit' &&
+     mw.config.get( 'wgPageName')!="Special:Preferences")
+  {
+  	$("#bodyContent a").each(function() {
+  		var component;
+  		linkTarget = $(this).attr("href");
+  		if(linkTarget ! undefined && linkTarget.startsWith("/wiki/User_talk:")) {
+  			pageTitle = linkTarget.split("/wiki/User_talk:")
+  			try {
+  				component = decodeURIComponent(pageTitle1.replace("_", " "));
+  			} catch (e) {
+  				component = null;
+  			}
+	  		if(component && adminrightscomponent1) {
+	  			$(this).addClass("adminrights_admin");
+	  			$(this).css("background-color", "#BBFFFF");
+	  		}
+  		}
+  	});
+  }
+});

@@ -1,0 +1,63 @@
+{{Automatic Taxobox
+| name = Eutheria (including placental mammals)| fossil_range = Lower Cretaceous – Recent
+| image = house_mouse.jpg
+| image_width = 270px
+| image_caption = House Mouse, ''Mus musculus''
+| taxon = Eutheria
+| authority = Thomas Henry Huxley|Huxley, 1880
+| subdivision_ranks = Orders
+| subdivision = 
+''Eomaia''
+'''Placentalia'''
+Superorder '''Xenarthra:'''
+Cingulata (armadillos)
+Pilosa (sloths, true anteaters)
+Superorder '''Afrotheria:'''
+Afrosoricida (tenrecs, etc)
+Hyracoidea (hyraxes)
+Macroscelidea (elephant shrews)
+Proboscidea (elephants)
+Sirenia (manatees, dugongs)
+Tubulidentata (aardvarks)
+Superorder '''Euarchontoglires:'''
+Dermoptera (Colugos)
+Lagomorpha (rabbits, etc)
+Primates (monkeys, apes, man)
+Rodentia (rodents)
+Scandentia (treeshrews)
+Superorder '''Laurasiatheria:'''
+Carnivora (carnivorans)
+Cetartiodactyla (even-toed ungulates and whales)
+Chiroptera (bats)
+Erinaceomorpha (hedgehogs, etc)
+Pholidota (scaly anteaters)
+Soricomorpha (moles, shrews)
+Perissodactyla (horses, rhinoceroses and tapirs)}}
+
+'''Eutheria''' is the taxonomy|taxonomical name for the main group of living mammals.The name Eutheria comes from the Greek language|Greek words ''eu-'' "well-developed" and ''ther'' "beast".
+
+This taxon contains the placental mammals, of which humans are one species.
+
+Eutheria was introduced by Thomas Henry Huxley in 1880. Members of Eutheria are now found on all continents and in all oceans.
+
+The terms 'Eutheria and 'Placental' do not mean quite the same thing. A few early eutherians in the Lower Cretaceous were not placentals. ''Eomaia'' is the earliest example.
+
+All living Eutherians are placental mammals. This means that a Eutherian fetus is fed during gestation by a placenta. The child|offspring of Eutherians are carried in the mother's uterus until fully developed.
+
+Eutherians are different from other mammal groups such as monotremes and marsupials which (like the earliest eutherians) are not placental.
+
+Monotremes, for example, lay Egg (biology)|eggs which protect the young until they are fully developed. Marsupials give birth to young who are not completely developed. Their young then move to a special pouch (marsupial)|pouch in the mother's body to continue their development.
+
+The earliest known eutherian species is the extinction|extinct ''Eomaia|Eomaia scansoria'' from the Lower Cretaceous in China.
+
+ Relevant pages 
+Mammal for classification.
+Theria
+Marsupial
+Monotreme
+
+Notes and references
+
+
+
+Category:Mammals

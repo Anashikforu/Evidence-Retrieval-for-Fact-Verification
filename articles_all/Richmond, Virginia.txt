@@ -1,0 +1,61 @@
+{{Infobox settlement
+ | name                     = Richmond, Virginia
+ | official_name            = City of Richmond
+ | settlement_type          = List of capitals in the United States|State capital and independent city (United States)|independent city
+ | image_skyline            = Collage of Landmarks in Richmond, Virginia v 1.jpg
+ | imagesize                = 300px
+ | image_caption            = Top: Skyline above the falls of the James River Middle: St. John's Episcopal Church (Richmond, Virginia)|St. John's Episcopal Church, Jackson Ward, Monument Avenue. Bottom: Virginia State Capitol, Main Street Station (Richmond, Virginia)|Main Street Station
+ | image_flag               =
+ | image_seal               = 
+ | nickname                 = RVA, The River City,''City Connection'', Office of the Press Secretary to the Mayor.  | motto                    = ''Sic Itur Ad Astra'' ("Thus do we reach the stars")
+| pushpin_map = USA Virginia#USA#North America
+| pushpin_label = Richmond
+| pushpin_map_caption = Location in Virginia, United States & North America
+|pushpin_relief           = yes
+ | coordinates              = 
+ | subdivision_type         = Country
+ | subdivision_name         = United States
+ | subdivision_type1        = U.S. state|State
+ | subdivision_type2        = County
+
+ | subdivision_name1        = Virginia
+ | subdivision_name2        = None (Independent city (United States)|independent city)
+
+ | established_date         =
+ | named_for                = Richmond, London
+ | government_type          =
+ | leader_title             = Mayor
+ | leader_name              = Levar Stoney (Democratic Party (United States)|D)
+ | total_type               = City
+ | area_total_sq_mi         = 62.5
+ | area_land_sq_mi          = 60.1
+ | area_water_sq_mi         = 2.5
+ | elevation_m              = 45.7
+ | elevation_ft             = 166.45
+ | population_total         = 227,032 (List of United States cities by population|98th)
+ | population_as_of         = 2018
+ | population_density_sq_mi = 3,777.57
+ | population_metro         = 1,263,617 (Table of United States Metropolitan Statistical Areas|44th)
+ | population_demonym       = Richmonder
+ | postal_code_type         = ZIP Codes
+ | postal_code              = 23173, 23218–23242, 23249–23250, 23255, 23260–23261, 23269, 23273–23274, 23276, 23278–23279, 23282, 23284–23286, 23288–23295, 23297–23298
+ | area_code                = Area code 804|804
+ | area_code_type           = North American Numbering Plan|Area code
+ | website                  =  | footnotes                = '''Nomenclature evolution'''
+Prior to 1071 – | timezone                 = Eastern Time Zone|EST
+ | utc_offset               = -5
+ | timezone_DST             = Eastern Time Zone|EDT
+ | utc_offset_DST           = -4
+ | blank_name               = Federal Information Processing Standard|FIPS code
+ | blank_info               = 51-76000
+ | blank1_name              = Geographic Names Information System|GNIS feature ID
+ | blank1_info              = 1499957
+ }}
+'''Richmond''' (. Retrieved February 16, 2011. with an estimated population of 1,258,251 for the Richmond-Petersburg|Richmond Metropolitan Area&nbsp;— making it the third largest in Virginia.
+Location
+Richmond is at the fall line of the James River,  west of Williamsburg, Virginia. Surrounded by Henrico County, Virginia|Henrico and Chesterfield County, Virginia|Chesterfield counties, the city is at the intersections of Interstate 95 in Virginia|Interstate 95 and Interstate 64 in Virginia|Interstate 64, and encircled by Interstate 295 (Virginia)|Interstate 295 and Virginia State Route 288.
+History
+Richmond began as an important village of the Powhatan Confederacy, and was briefly settled by English colonists from Jamestown, Virginia|Jamestown in 1609, and in 1610–11. English settlers returned to found a permanent town in 1737. It became the capital of the Colony and Dominion of Virginia in 1780. During the American Revolution|Revolutionary War period, the city was known for Patrick Henry's "Give me liberty or give me death" speech in 1775 at St. John's Episcopal Church (Richmond, Virginia)|St. John's Church, and the passage of the Virginia Statute for Religious Freedom written by Thomas Jefferson. During the American Civil War, Richmond served as the capital of the Confederate States of America. The city entered the 20th century with one of the world's first successful electric streetcar systems.
+Economy
+Richmond's economy is primarily driven by law, finance, and government. It has federal, state, and local governmental agencies in its downtown.  The downtown also has offices for legal and banking firms. The city is home to both the United States Court of Appeals for the Fourth Circuit, one of 13 federal appellate courts, and the Federal Reserve Bank of Richmond, one of 12 regional Federal Reserve System|Federal Reserve Banks. Dominion Resources, Carmax, Genworth Financial, and MeadWestvaco, Fortune 500 companies, along with Massey Energy and Universal Corporation, Fortune 1000 companies, are headquartered in the city."
+Category:1730s establishments in Virginia

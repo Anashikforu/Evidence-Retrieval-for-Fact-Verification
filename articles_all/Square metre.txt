@@ -1,0 +1,45 @@
+The  square meter is the International_System_of_Units#Derived_units|SI-derived unit of area. It has a symbol m² (33A1 in Unicode of a second.
+
+Adding SI prefixes creates multiples and submultiples. However, as the unit is squared, the order of magnitude difference between units doubles from their comparable linear units.  For example, a kilometre is one thousand times the length of a metre, but a square kilometre is one million times the area of a square metre.
+
+A "square metre" is not the same thing as a "metre square" 
+For example, a square that is 2 metres long and 2 metres wide has 4 square metres of area.
+
+
+
+But a square that is 4 metres squared would have 4 metres on each side. This means it would have 16 square metres of area.
+
+
+
+That is,  is 4 square meters.
+
+ SI prefixes applied to the square metre 
+The square metre may be used with all SI prefixes used with the metre.
+
+
+
+Conversions
+
+A square metre is equal to:
+
+ 0.000 001 square kilometre (km²)
+ 10,000 square centimetres (cm²)
+ 0.000 1 hectares (ha)
+ 0.01 ares (a)
+ 1 centiare (ca)
+ 0.000 247 105 381 acres
+ 1.195 990 square yards
+ 10.763 911 square foot|square feet
+ 1,550.003 1 square inches
+
+
+Related pages
+
+
+ Notes 
+
+
+ Other websites 
+
+
+Category:Units of area

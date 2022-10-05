@@ -1,0 +1,8 @@
+In astrodynamics, a '''hyperbolic trajectory''' (which is also an Escape velocity|escape trajectory) refers to an object (such as an asteroid) which follows a path similar to a hyperbola around a central object. This motion follows Kepler's Laws. A hyperbolic trajectory occurs when the Orbital eccentricity|eccentricity of its orbit is greater than 1.
+
+Other types of motion in astronomy include circular orbit, elliptical orbit, and parabolic trajectory.
+
+
+
+
+Category:Orbits

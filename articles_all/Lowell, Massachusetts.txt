@@ -1,0 +1,26 @@
+
+| settlement_type                 = City
+| pushpin_label                   = Lowell
+| coordinates                     = 
+| leader_title                    = Mayor
+| established_title               = Settled
+| government_type                 = Council-manager government|Manager-City council
+| established_date3               = 1836
+| established_title3              = A city
+| established_date2               = 1826
+| established_title2              = Incorporated
+| established_date                = 1653
+| subdivision_name3               = New England
+| subdivision_type                = List of sovereign states|Country
+| subdivision_type3               = List of regions of the United States|Region
+| subdivision_name2               = Middlesex County, Massachusetts|Middlesex
+| subdivision_type2               = List of counties in Massachusetts|County
+| subdivision_name1               = 
+| subdivision_type1               = U.S. state|State
+| subdivision_name                = 
+| area_footnotes                  = 
+}}
+'''Lowell''' is a city in Massachusetts. It has a population of 105,167, which makes it one of the largest cities in the state. It has historically been known for having factories that made textiles (clothes and fabric). It has been a city of immigrants, first of Irish people|Irish and later of Cambodians.
+
+
+Category:1653 establishments in North Americans

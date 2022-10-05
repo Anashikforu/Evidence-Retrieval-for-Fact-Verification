@@ -1,0 +1,15 @@
+{{Taxobox
+| name = ''Amborella''
+| image = Amborella_trichopoda_1.jpg
+| image_caption = ''Amborella trichopoda''
+| regnum = Plantae
+| unranked_divisio = Angiosperms
+| ordo = '''Amborellales'''
+| familia = '''Amborellaceae'''
+| subdivision_ranks = Genus|Genera
+| subdivision = ''Amborella''}}
+
+'''Amborellaceae''' is a family of flowering plants native to New Caledonia. The family contains only one species, ''Amborella|Amborella trichopoda''.  Botanists think it is the most basal plant in the angiosperm clade.
+
+The Amborellaceae are distinctive. They are sprawling evergreen shrubs or small trees. Their tissue is different from any other Angiosperm. The xylem of ''Amborella'' contains only tracheids; vessel elements are absent.Carlquist S.J. & Schneider E.L. 2001. Vegetative anatomy of the New Caledonian endemic Amborella trichopoda: relationships with the Illiciales and implications for vessel origin. ''Pacific Science'' '''55''' (3): 305–312. 
+Category:Flowering plants

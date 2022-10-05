@@ -1,0 +1,27 @@
+{{Taxobox
+| name = ''Ginkgo''
+| fossil_range = Jurassic - PlioceneZhiyan Zhou and Shaolin Zheng (2003-06-19). "Palaeobiology: The missing link in Ginkgo evolution". | status = EN
+| status_system = iucn2.3
+| status_ref = 
+| image = Gingko-Blaetter.jpg
+| image_width = 240px
+| image_caption = Ginkgo leaves
+| regnum = Plantae
+| divisio = Ginkgophyta
+| classis = Ginkgoopsida
+| ordo = Ginkgoales
+| familia = Ginkgoaceae
+| genus = '''''Ginkgo'''''
+| genus_authority = Carl Linnaeus|L.}}
+
+
+The '''ginkgo''' is a genus of trees. There is only one living species, ''Ginkgo biloba''. All the other known species are fossils.  ''Ginkgo biloba'' is native to China. It is the List of national trees|National tree of China.
+
+Gallery
+
+Image:Ginkgo biloba in Lucenec2.jpg|A ginkgo tree in Slovakia
+Image:Ginkgo Stamm.jpg|Closeup of a ginkgo trunk
+Image:Ginkgo biloba fructification.jpg|Ginkgo seeds
+
+
+Category:Fossil plants

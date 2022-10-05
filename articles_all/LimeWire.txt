@@ -1,0 +1,5 @@
+'''LimeWire''' is an open source, peer-to-peer computer program that can be used to download and share music, video, other computer programs, and other kinds of Computer file|files.
+
+In 2010 the RIAA|Recording Industry Association of America took the makers of LimeWire to the federal court in New York City|New York.
+
+Category:File sharing

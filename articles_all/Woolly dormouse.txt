@@ -1,0 +1,19 @@
+
+{{Taxobox
+| name = Woolly dormouse
+| image = 
+| status = DD| status_system = IUCN
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| genus = ''Dryomys''
+| binomial = ''Dryomys laniger''
+| binomial_authority = Felten & Storch, 1968
+| synonyms = }}
+
+The '''woolly dormouse''' (''Dryomys laniger'') is a species of rodent in the Gliridae family.
+It is Endemism|endemic to Turkey.
+
+Category:Animals of Turkey

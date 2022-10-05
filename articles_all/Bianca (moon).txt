@@ -1,0 +1,13 @@
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at Template:Infobox Planet.
+-->
+
+
+'''Bianca''' is a closer satellite (natural)|moon to Uranus (planet)|Uranus. It was found from the images taken by ''Voyager 2'' on 1986-01-23, and was given the designation '''S/1986&nbsp;U&nbsp;9'''.
+
+Bianca belongs to Portia Group of moons, which also includes Cressida (moon)|Cressida, Desdemona (moon)|Desdemona, Juliet (moon)|Juliet, portia (moon)|Portia, Rosalind (moon)|Rosalind, Cupid (moon)|Cupid, Belinda (moon)|Belinda and Perdita (moon)|Perdita. These moons have similar orbits and photometric properties. Other than its orbit, radius of 27&nbsp;km and geometric albedo of 0.08 almost nothing is known about it.
+
+At the Voyager 2 images Bianca appears as a stretched object, the major axis pointing towards uranus (planet)|Uranus. The ratio of axises of the Bianca's prolate spheroid is 0.7 ± 0.2. Its surface is grey in color.
+
+Category:Uranus' moons

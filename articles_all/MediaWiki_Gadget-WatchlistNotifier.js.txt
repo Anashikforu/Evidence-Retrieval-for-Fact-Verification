@@ -1,0 +1,90 @@
+/ Watchlist notifier (User:Ais523/watchlistnotifier.js); displays a message every time a watched page changes. /
+//
+
+var wmwpajax;
+// From WP:US mainpage (wpajax renamed to wmwpajax)
+wmwpajax={
+        download:function(bundle) {
+                // mandatory: bundle.url
+                // optional:  bundle.onSuccess (xml                // optional:  bundle.onFailure (xml                // optional:  bundle.otherStuff OK too, passed to onSuccess and onFailure
+                
+                var x = window.XMLHttpRequest ? new XMLHttpRequest()
+                : window.ActiveXObject ? new ActiveXObject("Microsoft.XMLHTTP")
+                : false;
+                
+                if (x) {
+                        x.onreadystatechange=function() {
+                                x.readyState4 && wmwpajax.downloadComplete(x,bundle);
+                        };
+                        x.open("GET",bundle.url,true);
+                        x.send(null); 
+                }
+                return x;
+        },
+
+        downloadComplete:function(x,bundle) {
+                x.status200 && ( bundle.onSuccess && bundle.onSuccess(x,bundle) || true )
+                || ( bundle.onFailure && bundle.onFailure(x,bundle) || alert(x.statusText+': '+bundle.url));
+        }
+};
+
+// Example:
+// function dlComplete(xmlreq, data) {
+//      alert(data.message + xmlreq.responseText);
+// }
+//  wmwpajax.download({url:'//simple.wikipedia.org/w/index.php?title=Thresher&action=raw', 
+//                   onSuccess: dlComplete, message: "Here's what we got:\n\n" });
+
+// End of WP:US quote
+
+function wmWatchEditFound(xmlreq, data) {
+  var watchrev, watchsum, watchrevold, watchpage, junk;
+  if(xmlreq.responseText.indexOf('revid=')-1)
+  {
+    document.getElementById('contentSub').innerHTML+=
+      "(watchlistnotifier can't determine whether a "+
+      "watched page has changed)";
+    return;
+  }
+  watchrev=xmlreq.responseText.split('revid="')1.split('"')0;
+  try
+  {
+    watchrevold=document.cookie.split('ais523wmwatchrev=')1.split('.')0;
+  }
+  catch(junk) {watchrevold=0;}
+  if( mw.config.get('wgPageName')  "Special:Watchlist")
+  {
+    document.cookie="ais523wmwatchrev="+watchrev+".; path=/";
+    var aas=document.getElementById('bodyContent').getElementsByTagName('a');
+    var i=aas.length;
+    while(i--)
+    {
+      if(aasi.href.indexOf('diff=')!=-1&&watchrevold)
+        if(+(aasi.href.split('diff=')1.split('&')0)>watchrevold)
+          aasi.parentNode.style.fontWeight='bold';
+    }
+  }
+  else
+  {
+    watchsum=xmlreq.responseText.split('comment="')1.split('"')0;
+    watchpage=xmlreq.responseText.split('title="')1.split('"')0;
+    watchuser=xmlreq.responseText.split('user="')1.split('"')0;
+    watchsum=watchsum.split('').join('&gt;');
+    watchpage=watchpage.split('').join('&gt;');
+    watchuser=watchuser.split('').join('&gt;');
+    if(watchrev!=watchrevold)
+      document.getElementById('contentSub').innerHTML+=
+        "\""+watchpage+'" changed by '+
+        watchuser+': "'+watchsum+
+        '". (watchlist)';
+  }
+}
+
+$(function() {
+  / Find the top item in the watchlist, and its edit summary. We only need one item, so
+     set the limit to 1 to ease the load on the server. /
+    wmwpajax.download({url: mw.config.get('wgScriptPath') + '/api.php?action=query&list=watchlist&wllimit=1&'+
+      'wlexcludeuser='+mw.config.get('wgUserName')+
+      '&wldir=older&format=xml&wlprop=comment|ids|title|user', onSuccess: wmWatchEditFound});
+});
+// 

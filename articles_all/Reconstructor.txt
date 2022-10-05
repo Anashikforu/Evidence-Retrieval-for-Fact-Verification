@@ -1,0 +1,11 @@
+
+'''Reconstructor''' is a program that allows anyone to customize an .iso|iso image of Ubuntu.
+
+Features
+Ability to change the Boot image, Boot Progress Splash (usplash), wallpaper, Gnome Splash Screen, GDM theme, and other settingsAbility to add software to new compilationAbility to enable all the repositories and add custom ones
+Integrated option to burn the iso
+
+Related pages
+remastersys, a similar program
+
+category:Software

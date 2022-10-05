@@ -1,0 +1,57 @@
+
+
+
+The '''MacBook Air''' is a kind of Apple Macintosh|Macintosh notebook computer|laptop computer designed by Apple Inc.|Apple, known as the "world's ultrathin laptops|thinnest notebook." It is positioned as the ultraportable|most portable in Apple's MacBook family and was introduced at the Macworld Conference & Expo on January 15, 2008. The MacBook Air was the first laptop to implement Apple's precision aluminum unibody enclosure.
+
+The MacBook Air has been updated over four times since the original release. The first revision introduced better performance, a bigger hard drive, and a Mini DisplayPort for peripheral monitors. The second update, introduced with the MacBook Pro series, featured a lower price, better performance, and a longer-lasting battery. The fourth update was released in July 2011. There have been other revisions in between, but in October 2018, there was a fifth revision to the MacBook Air, with a fingerprint scanner, a larger Retina screen, and a backlit Keyboard (computer)|keyboard.
+
+ Design 
+
+
+
+The MacBook Air, made for thinness, weighs ,Actual weight varies by configuration and manufacturing process. was the first MacBook family|MacBook produced using a single piece of aluminum with Apple's unibody technique.
+
+A hatch that flips down on the right side shows the ports on MacBook Air: a Universal Serial Bus|USB port, a Mini DisplayPort, and a stereo Earphones|earphone Phone connector|jack. The left side of the computer has a MagSafe adapter for power, and there is an iSight webcam and microphone above the screen.
+
+The MacBook Air was the first compact laptop sold by Apple since the full-featured 12" PowerBook G4 was stopped in 2006. It was also Apple's first computer with an optional Solid-state drive|solid-state storage drive.
+
+Image:MacBook Air SuperDrive.jpg|thumb|The optional MacBook Air SuperDrive.
+
+Apple incorporated several features in the design of the MacBook Air, such as the reduction of wikt:toxic|toxic chemicals like lead, to make it more environmentally friendly. MacBook Air contains no Brominated flame retardant|BFRs and PVC wiring, meets Energy Star Version 5.0 requirements, has a recyclable enclosure, and is rated EPEAT Gold; its screen is made from arsenic-free glass and does not contain mercury (element)|mercury.
+
+To regain the features of an optical drive, users can either use a separately-available external USB SuperDrive, or the bundled Remote Disc software to access the optical drive of another computer. However, this method only allows for disk browsing or software installation; DVD movies or Compact disc|CDs cannot be watched or listened to. Remote Disc supports NetBoot|netbooting, so MacBook Air can boot from its installation DVD in another computer's drive. This feature requires Remote Install Mac OS X to be running on the remote computer. The software does not allow the playback or information of DVD-Video|DVDs or Red Book (audio CD standard)|CDs, nor does it allow the installation of Microsoft Windows. For these features, an external USB drive is required. A single Computer speaker|speaker located under the keyboard is included for mono sound.
+
+The MacBook Air includes Mac OS X Snow Leopard pre-installed, along with Apple's iLife multimedia suite. Apple's iWork work suite, similar to Microsoft Office, is also available with the purchase of the computer, with an extra charge.
+
+With the 2008 changes to the notebook, wired Ethernet connectivity required a separately available USB-to-Ethernet adapter. However, for the 2009 revision, the adapter is included in-the-box. Additionally, in the 2008 revision, the hard drive, graphics, front side bus, processor, memory, battery, and port connections were upgraded.
+
+ Launch and reception 
+
+Image:SteveJobsMacbookAir.JPG|thumb|upright|Steve Jobs with a MacBook Air at the 2008 MacWorld keynote|Keynote.
+
+The MacBook Air was greeted with mixed reception when it was introduced. The portability of the MacBook Air was praised in reviews, however, the compromise in features was criticized. The full-sized keyboard, weight of three pounds, thinness, and Multi-Touch trackpad were appreciated in reviews, while the limited configuration options, slow speed (in the non-SSD models), non-user replaceable battery, small hard drive, and price were criticized.
+
+Dan Ackerman of CNET commented on the original models, "the design and engineering that went into MacBook Air is extraordinary, but it's certainly a much more specialized product than the standard 13-inch MacBook." Ackerman disliked the limited internet connectivity, slow speed, small hard drive, battery, and the price of SSD hard-drive option, however, appreciated the thinness, sturdiness, and the MultiTouch gestures. Macworld's Jason Snell praised the portability, however commented that "the decision about whether the MacBook Air is a product worth having can be answered by 1 question: How much are you willing to compromise?"
+
+MacBook Air's launch was accompanied by a television commercial emphasizing its slender design. In the commercial, a hand unthreads a manila envelope and slides out a MacBook Air, then opens it to wake it from sleep. The music playing is "New Soul" by Yael Naïm.
+
+= "Thinnest" disputes =
+
+The Mitsubishi Pedion, released in 1998, was the thinnest ''rectangular'' laptop at 0.72&nbsp;inches (1.84&nbsp;cm) until the release of the Dell Adamo in March 2009, which is a rectangular laptop 0.65&nbsp;inches (1.65&nbsp;cm) thick.
+
+The Sharp Actius MM10 Muramasas, a thin, tapered notebook, had a minimum height (thickness) of  In March 2009, Dell challenged that claim with the release of the XPS ADAMO BY DELL|Dell Adamo XPS.The Adamo is 9.98799&nbsp;mm thick, while MacBook Air tapers from 0.16–0.76&nbsp;inches (0.4–1.94&nbsp;cm) thick. This has led to some controversy over which is the thinnest laptop.
+
+= Issues =
+
+The flip-down hatch on the side of Mac Book Air is a tight fit for some headphone plugs and USB devices, requiring users to purchase an extension cable. Apple has removed the flip-down hatch on the Late 2010 model in favor of open connection ports as on other Mac books.
+
+ Specifications 
+
+
+
+
+
+ Notes 
+
+
+Category:MacBook

@@ -1,0 +1,40 @@
+{{Infobox symptom 
+|Name=Mental confusion 
+|ICD10= 
+|ICD9= 
+|MedlinePlus=003205 
+|MeshID=D003221}}
+
+'''Mental confusion''' (often simply called '''confusion''') is a symptom. People suffering from it have problems finding their way around in the world. They have troubles remembering who they are, where they are, or what time (or day of the week) it is. Additionally, they may have trouble remembering things or memorizing new things. This may be linked to problems focusing their attention. Confusion can also be a sign of someone being sick with various illnesses when it's coupled with things like fever, chills, or exhaustion.
+
+ Medical causes of confusion 
+Confusion can be caused by many different medical problems.
+
+There are both Acute (medicine)|acute and chronic causes of confusion.
+
+= Acute causes of confusion =
+Acute causes of confusion usually come on suddenly, and doctors may be able to fix some of them.
+
+In medicine, the acronym ''AEIOU-TIPS'' is used to remember the most common causes of confusion that comes on suddenly (over hours or days, not years):
+ '''Alcoholic drink|A'''Alcoholic drink|lcohol (being Drunkenness|drunk) or '''A'''cidosis (having too much acid in the blood, which Diabetic ketoacidosis|poisons the body)
+ '''E'''nvironmental causes (like Hypothermia|being very cold) or '''Epilepsy|E'''Epilepsy|pilepsy (being confused after a seizure)
+ '''Infection|I'''Infection|nfection (like meningitis, an infection of the brain's lining) 
+ '''Overdose|O'''Overdose|verdose (taking too much Medication|medicine or too many illegal drugs)
+ '''Uremia|U'''Uremia|remia (poisons building up in the blood because of kidney problems) or '''U'''nderdose (not taking enough Prescription|prescribed medicine)
+ '''T'''rauma (injury, especially to the head)
+ '''Insulin|I'''Insulin|nsulin (confusion because of a blood sugar emergency - blood sugar is either Hypoglycemia|too low or Hyperglycemia|much too high)
+ '''P'''sychogenic (when mental illness causes confusion)
+ '''Stroke|S'''Stroke|troke (when not enough blood and oxygen gets part of the brain)
+
+Confusion can also happen when the brain is not getting enough blood and oxygen.  For example, this can happen because of:
+ Hypotension|Low blood pressure (when the heart is not pumping hard enough to get blood and oxygen to the brain)
+ If the heart is beating Bradycardia|too slow, or Tachycardia|too fast, or Cardiac arrhythmia|not regularly (making the heart unable to get blood and oxygen up to the brain)
+ A breathing problem that makes it respiratory failure|impossible to get enough oxygen into the body (like a bad asthma attack, or chronic obstructive pulmonary disease (COPD))
+
+=Chronic causes of confusion=
+Chronic causes of confusion usually come on less suddenly and last for a long time (months or years).  For example:
+ Dementia or Alzheimer's disease can cause a person to be confused most of the time, or all of the time
+ Traumatic brain injury, or any other kind of brain damage|damage to the brain
+ A brain tumor
+
+Category:Symptoms

@@ -1,0 +1,26 @@
+{{taxobox
+|image = Vaccinium parvifolium.jpg
+|regnum = Plantae
+|unranked_divisio = Angiosperms
+|unranked_classis = Eudicots
+|unranked_ordo = Asterids
+|ordo = Ericales
+|familia = Ericaceae
+|genus = ''Vaccinium''
+|binomial = ''Vaccinium parvifolium''|}}
+
+'''Red huckleberry''' ('''''Vaccinium parvifolium''''') is a species of ''Vaccinium,'' a flowering plant. It grows in North America. There, it is often found in forests from southeastern Alaska and British Columbia, through western Washington (U.S. state) |Washington and Oregon to central California. In the Oregon Coast Range, it is the most-seen ''Vaccinium''.
+
+Growth
+Red huckleberry is a shrub. It grows to 
+
+Gallery
+
+Image:Vaccinium parvifolium 04041.JPG|Newly opened leaves
+Image:Vaccinium_parvifolium_38913.JPG|Blossoms
+Image:RedHuckleberryBlossom.png|Blossoms 
+File:Vaccinium_parvifolium_0325.JPG|Leaves and fruit
+
+
+
+http://plants.usda.gov/java/profile?symbol=VAPA USDA: ''Vaccinium parvifolium''

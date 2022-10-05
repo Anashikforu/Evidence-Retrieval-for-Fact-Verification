@@ -1,0 +1,66 @@
+
+Location of FLL
+| type         = Public
+| owner        = Broward County
+| operator     = Broward County
+| city-served  = South Florida
+| location     = Broward County, Florida
+| hub          =
+
+ Spirit Airlines
+ Yellow Air Taxi
+
+| focus_city   = Allegiant Air
+| elevation-f  = 9
+| elevation-m  = 3
+| website      = | r1-number    = 9L/27R
+| r1-length-f  = 9,000
+| r1-length-m  = 2,743
+| r1-surface   = Asphalt
+| r2-number    = 9R/27L
+| r2-length-f  = 5,276
+| r2-length-m  = 1,608
+| r2-surface   = Asphalt
+| r3-number    = 13/31
+| r3-length-f  = 6,930
+| r3-length-m  = 2,112
+| r3-surface   = Asphalt
+| stat-year    = 2010
+| stat1-header = Total passengers (ACI)
+| stat1-data   = 22,412,627
+| stat2-header = Aircraft operations (ACI)
+| stat2-data   = 272,293
+| stat3-header = Based aircraft
+| stat3-data   = 57
+| footnotes    = Source: Federal Aviation Administration, effective 2010-09-23
+}}
+'''Fort Lauderdale – Hollywood International Airport'''  north of Miami, Florida|Miami.
+
+In 2010, the airport had 22,412,627 passengers
+The following airlines serve Fort Lauderdale – Hollywood International Airport: Air Canada
+ Air Jamaica
+ Air Sunshine
+ Air Transat
+ Aires
+ AirTran Airways
+ Allegiant Air
+ American Airlines
+ Avianca
+ Bahamasair
+ Bimini Island Air
+ CanJet
+ Caribbean Airlines
+ Condor
+ Continental Airlines
+ Delta Air Lines
+ Frontier Airlines
+ JetBlue Airways''(Focus City)''
+ Norwegian Air Shuttle
+ Southwest Airlines''(Focus City)''
+ Spirit Airlines ''(Airline hub|Hub)''
+ Sunwing Airlines
+ Thomas Cook Airlines
+ US Airways
+ Virgin America
+ WestJet
+

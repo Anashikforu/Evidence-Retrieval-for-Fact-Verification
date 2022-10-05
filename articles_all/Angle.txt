@@ -1,0 +1,34 @@
+Image:Angle_Symbol.svg|120px|thumb|right|An angle.
+
+When two straight lines come together, they make an '''angle'''. The two lines are called the ''sides'' of the angle, and they meet at a Point (geometry)|point. A flat surface (called a Plane (mathematics)|plane) also forms an angle when it meets another.
+
+To represent an angle, Greek letter|Greek letters such as \alpha (alpha), \beta (beta), \gamma (gamma) and \theta (theta) are sometimes used.
+
+To measure the size of an angle, we use Unit of measurement|units called Degree (geometry)|degrees. A degree is a standard unit and we use the symbol ° after a number to show that it is a number of degrees. We can use a Decimal|decimal number or a Fraction (mathematics)|fraction for part of a degree, but a degree can also be divided into 60 minutes (1° = 60'), and a minute can be divided into 60 seconds (1' = 60"). So 22.5°, 22° and 22° 30' are all the same angle.  
+
+In mathematics, angles can also be (and often are) measured in radians instead of degrees, by using the conversion factor 2\pi\mbox{ rad} = 360^\circ (for example,  22.5^\circ = \tfrac{\pi}{8}\mbox{ rad}). Yet another unit of angle is gradian, with   100 \text{ grad} = 90^{\circ}. 
+
+Angles are studied in geometry, where an angle where edges meet is often called a vertex. For example, the three sides of a triangle are its ''edges'' and two of the edges meet at each ''vertex''. Similarly, two of the six sides (or ''faces'') of a cube meet at each of its twelve edges, and three edges meet at each of its eight corners (or wikt:vertices|vertices, which is the plural version of ''vertex'').
+Types of angles
+
+ In a zero angle the lines lie one upon the other thus creating a 0° angle aka the zero angle.
+
+ An angle greater than 0° but less than 90° is called an acute angle.
+
+ An angle of 90° is called a right angle.
+
+ An angle greater than 90° but less than 180° is called an obtuse angle.
+
+ An angle that measures 180° is called a straight angle.
+ An angle greater than 180° and less than 360° is called a reflex angle.
+ An angle that has a made or full circle/ completed 360° is called a  full or complete angle.
+
+
+wikt:supplementary angles|Supplementary angles are two angles with the sum equal to 180°, and complementary angles are two angles with the sum equal to one right angle (90°). On the other hand, two angles that sum to one full circle (360°) are sometimes called wikt:explementary|explementary angles, or wikt:conjugate|conjugate angles.
+
+People usually use a protractor to measure and draw angles. Sometimes, people use a 360° protractor to measure angles.
+
+ Related pages 
+
+ Sun angle
+

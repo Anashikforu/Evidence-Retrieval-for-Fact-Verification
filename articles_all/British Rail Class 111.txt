@@ -1,0 +1,34 @@
+{{Infobox DMU
+|name = British Rail Class 111 
+|image     = British Rail Class 111 at Skipton.jpg
+|imagesize = 240px
+|background = #0033cc
+|caption = 
+|Manufacturer = Metropolitan Cammell
+|Operator = British Rail
+|Formation =  Unknown 
+|Built =23  trainset
+|LinesServed = 
+|InService = 1957-
+|CarLength = 57 ft (17.37 m)
+|CarWidth = 9 ft 3 in (2.81 m)
+|CarHeight = 3.77 m 
+|Weight = 33 tons 
+|Capacity = 
+|MaxSpeed = 70 mph (112 km/h) 
+|Gauge = 
+|Traction = 
+|Engine =Rolls-Royce, 180 hp 
+|SafetySystem=
+ |}}
+
+
+The '''Class 111''' DMUs were based on British Rail Class 101|Class 101/2s, but with different engines. The only external body difference was on the final batch of cars where a four character headcode box was fitted above the front cab windows, with the destination indicator on top of a reduced height centre window.
+
+The first cars built, part of an order for 339 Metro Cammell|Met-Camm cars, were 4 power/trailer sets for the London Midland Region of British Railways|LMR Manchester area built in early 1957. One of these had supercharged 230 hp 6-cylinder engines. This was followed by ten 3-car sets comprising DMBS/TS/DMC for the Eastern Region of British Railways|NER at Bradford, then a further twenty 3-car sets.
+
+
+
+
+
+Category:British Rail diesel multiple units|111

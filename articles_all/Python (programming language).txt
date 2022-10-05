@@ -1,0 +1,83 @@
+
+
+'''Python''' is an open source programming language. It  was made to be easy-to-read and powerful. A Netherlands|Dutch programmer named Guido van Rossum made Python in 1991. He named it after the television program Monty Python's Flying Circus. Many Python examples and tutorials include jokes from the show.
+
+Python is Interpreted_language|an interpreted language. Interpreted languages do not need to be Compiled language|compiled to run. A program called an Interpreter (computing)|interpreter runs Python code on almost any kind of computer. This means that a programmer can change the code and quickly see the results. This also means Python is slower than a compiled language like C (programming language)|C, because it is not running machine code directly.
+
+Python is a good programming language for beginners. It is a high-level language, which means a programmer can focus on what to do instead of how to do it. Writing programs in Python takes less time than in some other languages.
+
+Python drew inspiration from other programming languages like C, C++, Java (programming language)|Java, Perl, and LISP|Lisp.
+
+Python's developers try to avoid changing the language to make it better until they have a lot of things to change. Also, they try not to make small repairs, called patches, to unimportant parts of the CPython reference implementation that would make it faster. When speed is important, a Python programmer can move some of the work of the program to other parts written in programming languages like C or PyPy, a just-in-time compiler. It translates a Python script into C and makes direct C-level API calls into the Python interpreter.
+
+Keeping Python fun to use is an important goal of Python’s developers. It reflects in the language's name, a tribute to the British comedy group Monty Python. On occasions, there are playful approaches to tutorials and reference materials, such as referring to spam and eggs instead of the standard foo and bar.
+
+ Python use 
+Python is used by hundreds of thousands of programmers and is used in many places. Sometimes only Python code is used for a program, but most of the time it is used to do simple jobs while another programming language is used to do more complicated tasks.
+
+Its standard library is made up of many Computable function|functions that come with Python when it is installed. On the Internet there are many other Library (computing)|libraries available that make it possible for the Python language to do more things. These libraries make it a powerful language; it can do many different things.
+
+Some things that Python is often used for are:
+ Web developmentGrinberg, M. (2018). Flask web development: developing web applications with python. " O'Reilly Media, Inc.".Forcier, J., Bissex, P., & Chun, W. J. (2008). Python web development with Django. Addison-Wesley Professional.Anders, M. (2011). Python 3 Web Development Beginner's Guide. Packt Publishing Ltd.Dauzon, S., Bendoraitis, A., & Ravindran, A. (2016). Django: Web Development with Python. Packt Publishing Ltd.
+ Scientific programmingLangtangen, H. P. (2012). A primer on scientific programming with Python. Springer Berlin Heidelberg,.Virtanen, P., Gommers, R., Oliphant, T. E., Haberland, M., Reddy, T., Cournapeau, D., ... & van der Walt, S. J. (2020). SciPy 1.0: fundamental algorithms for scientific computing in Python. Nature methods, 17(3), 261-272.Oliphant, T. E. (2007). Python for scientific computing. Computing in Science & Engineering, 9(3), 10-20.
+Data scienceVanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.".Grus, J. (2019). Data science from scratch: first principles with python. O'Reilly Media.Boschetti, A., & Massaron, L. (2015). Python data science essentials. Packt Publishing Ltd.
+ Machine learningRaschka, S. (2015). Python machine learning. Packt publishing ltd.
+ Numerical analysisBressert, E. (2012). SciPy and NumPy: an overview for developers. " O'Reilly Media, Inc.".Walt, S. V. D., Colbert, S. C., & Varoquaux, G. (2011). The NumPy array: a structure for efficient numerical computation. Computing in science & engineering, 13(2), 22-30.Oliphant, T. E. (2006). A guide to NumPy (Vol. 1, p. 85). USA: Trelgol Publishing.
+ StatisticsBruce, P., Bruce, A., & Gedeck, P. (2020). Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python. O'Reilly Media.
+ Desktop GUIs applications
+ Network programmingGoerzen, J. (2004). Foundations of Python network programming. Apress.Sarker, M. F. (2014). Python Network Programming Cookbook. Packt Publishing Ltd.
+ video game|Game programming.Gutschmidt, T. (2004). Game Programming with Python, Lua, and Ruby. Premier Press.McGugan, W. (2007). Beginning game development with Python and Pygame: from novice to professional. Apress.
+ Complex Algorithm|algorithms creation
+ Automation scripts
+Machine learning and artificial intelligence
+Audio and video applications
+
+ Syntax 
+Python has a very easy-to-read syntax. Some of Python's syntax comes from C, because that is the language that Python was written in. But Python uses whitespace to delimit code: spaces or tabs are used to organize code into groups. This is different from C.  In C, there is a semicolon at the end of each line and curly braces ({}) are used to group code. Using whitespace to delimit code makes Python a very easy-to-read language.
+
+= Statements and control flow =
+Python's statements include:
+
+ The assignment statement, or the = sign. In Python, the statement x = 2 means that the name x is bound to the integer 2. Names can be rebound to many different Data type|types in Python, which is why  Python is a dynamically typed language. For example, you could now type the statement x = 'spam' and it would work, but it wouldn't in another language like C or C++.
+ The if statement, which runs a block of code if certain conditions are met, along with else and elif (a contraction of else if from other programming languages). The elif statement runs a block of code if the previous conditions are not met, but the conditions for the elif statement are met. The else statement runs a block of code if none of the previous conditions are met.
+ The for statement, which iterates over an iterable object such as a list and binds each element of that object to a variable to use in that block of code, which creates a for loop. 
+ The while statement, which runs a block of code as long as certain conditions are met, which creates a while loop.
+ The def statement, which defines a function or method.
+ The pass statement, which means "do nothing."
+ The class statement, which allows the user to create their own Data type|type of objects like what integers and strings are.
+ The import statement, which imports Python files for use in the user's code.
+ The print statement, which outputs various things to the console.
+
+= Expressions =
+Python's expressions include some that are similar to other programming languages and others that are not.
+
+ Addition, subtraction, multiplication, and division, represented by +, -. , and /.
+ Exponents, represented by .
+ To compare two values, Python uses .
+ Python uses the words "and", "or", and "not" for its boolean expressions.
+
+ Example 
+This is a small example of a Python program. It shows "Hello World!" on the screen. 
+
+
+print("Hello World!")
+
+# This code does the same thing, only it is longer:
+
+ready = True
+if ready:
+    print("Hello World!")
+
+
+Python also does something called "dynamic variable assignment". This means that when a number or word is made in a program, the user does not have to say what type it is. This makes it easier to reuse variable names, making fast changes simpler. An example of this is shown below. This code will make both a number and a word, and show them both, using only one variable.
+
+
+x = 1
+print(x)
+x = "Word"
+print(x)
+
+
+In a "statically typed" language like C, a programmer would have to say whether x was a number or a word before C would let the programmer set up x, and after that, C would not allow its type to change from a number to a word.
+
+Category:Computing

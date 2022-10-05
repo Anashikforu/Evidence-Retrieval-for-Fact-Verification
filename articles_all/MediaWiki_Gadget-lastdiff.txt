@@ -1,0 +1,1 @@
+Add a "Last" tab to the top of the page which shows the difference of the current version with the last version.

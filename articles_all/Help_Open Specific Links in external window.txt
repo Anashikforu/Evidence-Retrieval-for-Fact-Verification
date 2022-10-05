@@ -1,0 +1,21 @@
+
+Starting
+Sometimes it is necessary to have some links in your wiki to be opened in another window leaving the current window as is. This help is for such special situation only. If your wiki is completely locked for editing, and you need freedom for embedding html use $wgRawHtml = true; in your Localsettings.php!
+Note: This might is a very simple process, have been inspired by 
+# 
+
+Method
+# Follow  to install Secure_HTML extension
+# go to # paste the following html code.
+ 
+ 
+ title
+ 
+ 
+ Note: Please replace the address with link, file or external site address.
+# Submit to get the hashed code.(Please refer the extension page given above for instruction for this)
+# Paste this into another page in your wiki, This page can be embedded into any other page.
+
+There you have it, A specific link that opens in another page.
+
+Category:Help|

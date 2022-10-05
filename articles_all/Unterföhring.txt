@@ -1,0 +1,21 @@
+{{Infobox German location
+|image_coa            = DEU Unterfoehring COA.svg
+|coordinates       = 
+|image_photo = Unterföhring train station.JPG
+|image_caption = Train station
+|state        = Bayern
+|region  = Oberbayern
+|district         = Munich
+|elevation              = 508
+|area            = 12.80
+|population         = 7887
+|Stand             = 2006-12-31
+|Gemeindeschlüssel = 09184147
+|postal_code               = 85774
+|area_code           = 089
+|licence               = M
+|mayor     = Andreas Kemmelmeyer
+|party            = 
+|website           = '''Unterföhring''' (Central Bavarian: ''Untafering'') is a municipality in the Munich Rural District in Upper Bavaria, Germany. Many Broadcast media|media company|companies are in Unterföhring, for example ProSiebenSat.1 Media AG and Sky Deutschland.
+
+Category:Munich (district)

@@ -1,0 +1,50 @@
+Image:E coli at 10000x, original.jpg|thumb|right|''Escherichia coli'' is a model gram-negative bacteria|gram-negative prokaryote|prokaryotic organism
+Image:Drosophila melanogaster - side (aka).jpg|thumb|''Drosophila melanogaster'', one of the most famous subjects for experiments in genetics
+
+A '''model organism''' is a non-human species that is studied over many years, building up a lot of knowledge about it in order to understand fundamental biology|biological Phenomenon|phenomena. The hope is that discoveries made in the model will give insight into how other organisms work.
+
+In particular, model organisms are widely used in animal testing to explore potential causes and treatments for human disease when experimenting on humans would be impossible or less bioethics|ethical.
+
+This strategy is made possible by the similarities of all living organisms. They are similar because of their common descent and the conservation of Metabolism|metabolic and developmental biology|developmental pathways and genes  over the course of evolution.
+
+ Model organisms in genetics 
+= ''Drosophila melanogaster'' =
+''Drosophila melanogaster'' was one of the first animals used for genetics. Today it is one of the most widely used and genetically best-known of all eukaryote|eukaryotic organisms.
+
+All organisms use common genetic systems; understanding  Transcription (genetics)|transcription and DNA replication|replication in fruit flies helps to understand these processes in other eukaryotes, including humans.
+
+Studies of Sex linkage|X-linked traits confirmed that genes are found on chromosomes. Studies of Genetic linkage|linked traits led to the first maps of genetic loci on chromosomes. The first maps of ''Drosophila'' chromosomes were done by Alfred Sturtevant.
+
+''Drosophila melanogaster'' is one of the most studied organisms in biological research, particularly in genetics and developmental biology. Its complete genome was DNA sequence|sequenced and first published in 2000.
+
+Because great deal is known about its development from egg to larva to adult, it is a key model for developmental genetics, or evo-devo. The hox genes, or homeobox, which control development in metazoa, were worked out first of all in ''Drosophila''.
+
+= ''Escherischia coli'' =
+In 1946, Joshua Lederberg and Edward Tatum first described the phenomenon known as bacterial conjugation using ''Escherichia coli'' as a model bacterium. Source: 
+''E. coli'' was an integral part of the first experiments to understand bacteriophage|phage genetics, Before Benzer's research, it was not known whether the gene was a linear structure, or if it had a branching pattern.
+
+''E. coli'' was one of the first organisms to have its genome sequenced; the complete genome of ''E. coli'' K12 was published by ''Science (journal)|Science'' in 1997.
+ 
+The long-term evolution experiments using ''E. coli'', begun by Richard Lenski in 1988, have allowed direct observation of major evolutionary shifts in the laboratory.
+ Other model organisms 
+ Viruses 
+ Phage Lamda
+ Tobacco Mosaic Virus
+ Protists
+ ''Emiliana huxlei'': coccolithophore alga, extensively studied as a model phytoplankton species
+ ''Chlamydomonas reinhardtii''
+ Fungi
+ ''Aspergillus nidulans''
+ ''Neurospora crassa''
+ Plants
+ ''Arabidopsis thalliana''
+ ''Zea mays'' Maize
+ ''Pisum sativum'', Pea
+ Animals
+ ''Caenorhabditis elegans'', a nematode
+ ''Tribolium castaneum'', flour beetle
+ ''Drosophila melanogaster''
+ ''Mus musculus'', the mouse
+ ''Rattus norvegicus'', the Norwegian rat
+
+Category:Experiments

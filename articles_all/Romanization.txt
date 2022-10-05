@@ -1,0 +1,22 @@
+
+
+'''Romanization''', or '''Latinization''', is how words and languages that normally do not use the Latin alphabet are converted into Latin letters. That allows people who do not know the original writing system to read the sounds of the language. Romanization is one way to show the pronunciation of the language's words.
+
+There are often several standards for romanizing one language. For the Russian language ,the Soviet Union invented several systems, and the United Nations and the International Organization for Standardization invented two of the others. Methods for Arabic language|Arabic, Japanese language|Japanese, and Chinese language|Chinese are similarly diverse. Some romanization systems are based on transcription, some are based on transliteration, and some are based on both.
+
+Transcription (linguistics)|Transcription occurs when the effect at the end is that both the original and the transcribed version sound the same, whether or not each letter alone in one text matches the corresponding letter in the other one.
+
+Transliteration occurs when the effect at the end is for the letters to match one to one, whether or not the sound is the same.
+
+ Related pages 
+ Romanization of Bulgarian
+ Romanization of Japanese
+
+ Other websites 
+    One of the few books with lists of romanizations is ''ALA-LC Romanization Tables'', Randall Barry (ed.), U.S. Library of Congress, 1997, .
+  G. Gerych. 
+
+
+
+Category:Romanization|Romanization
+Category:Culture

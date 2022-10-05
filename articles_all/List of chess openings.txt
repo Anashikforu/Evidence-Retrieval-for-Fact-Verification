@@ -1,0 +1,74 @@
+'''Chess openings''' are listed and classified according to their first few moves. There are some interesting statistics on the frequency of chess openings, from chess data bases.
+
+ Statistics 
+
+
+These statistics show a movement away from symmetrical defences to asymmetrical defences. In particlular, in reply to 1.e4, the Sicilian and French defences, and to 1.d4 the Indian defences. Also, particularly amongst strong players, an increased use of the English Opening for White.Watson, John 1998. ''Secrets of modern chess strategy''. Gambit, London. Part 2: New ideas and the modern revolution. p93
+
+ King's Pawn openings 
+
+
+= 1...e5 replies =
+King's Gambit  1.e4 e5 2.f4
+Ruy Lopez  1.e4 e5 2.Nf3 Nc6 3.Bb5
+Vienna Game 1.e4 e5 2.Nc3
+Giuoco Piano 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5
+Gambit#Evans Gambit|Evans Gambit 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4
+Petroff defence|Petrov's defence 1.e4 e5 2.Nf3 Nf6
+Philidor's defence 1.e4 e5 2.Nf3 d6
+
+= Asymmetric replies =
+Alekhine's Defence#:~:text=The Alekhine's Defence is a,the spirit of hypermodern defence.|Alekhine's defence  1.e4 Nf6
+Caro-Kann defence  1.e4 c6
+French defence 1.e4 e6
+Sicilian defence  1.e4 c5
+Open variations 1.e4 c5 2.Nf3 followed by 3.d4
+Closed variations 1.e4 c5 2.Nc3 not followed by d4
+Pirc defence 1.e4 d6 (may also be played against 1.d4)
+Modern defence 1.e4 g6 (may also be played against 1.d4)
+
+ Queen's Pawn openings 
+= 1...d5 replies =
+Queen's Gambit|Queen's Gambit accepted  1.d4 d5 2.c4 dxc4
+Queen's Gambit Declined|Queen's Gambit declined  1.d4 d5 2.c4 e6
+Slav defence  1.d4 d5 2.c4 c6
+
+= Asymmetric replies =
+Dutch defence  1.d4 f5
+Benoni Defense  1.d4 c5 or 1.d4 Nf6 2.c4 c5
+Gambit#Benko Gambit|Benko Gambit  1.d4 Nf6 2.c4 c5 3.d5 b5
+King's Indian defence  1.d4 Nf6 2.c4 g6 3.Nc3 Bg7
+Grünfeld defence  1.d4 Nf6 2.c4 g6 3.Nc3 d5
+Nimzo-Indian defence  1.d4 Nf6 2.c4 e6 3.Nc3 Bb4
+Queen's Indian defence 1.d4 Nf6 2.c4 e6 3.Nf3 b6
+Budapest Gambit 1.d4 Nf6 2.c4 e5
+
+ Other opening moves 
+Zukertort opening  1.Nf3
+English opening  1.c4
+Bird's opening 1.f4
+
+ Sources 
+= Sources for beginners =
+There is no opening book for real beginners. The reason is that some degree of understanding is needed before the details of an opening can be grasped. Books like the following show complete games with elementary explanations of the moves.
+Chernev, Irving 1998. ''Logical chess: move by move''. London:Batsford. 
+Chandler, Murray 2004. ''Chess for children''. London:Gambit. 
+King, Daniel 2000. ''Chess: from first moves to checkmate''. London:Kingfisher. Illustrated, 64 pages. 
+Pritchard, David Brine 2008. ''The right way to play chess''. 8th ed, Right Way.  
+Wolff, Patrick 2005. ''The complete idiot’s guide to chess''. 3rd ed, New York:Alpha. 
+
+= Other sources =
+None of these are suitable for beginners, but might be used by chess teachers and players of intermediate strength. Tip for teachers: always check with book reviews.
+John Watson. ''Mastering the Chess Openings'', Gambit Publications. Four volumes by a leading American author and chess coach. 
+Volume 1 (1. e4):  (2006)
+Volume 2 (1. d4):  (2007)
+Volume 3 (1. c4):  (2009)
+Volume 4: a wide-ranging discussion of general opening topics.  (2010)
+Openings reference works:
+Nick deFirmian et al. 2008. ''Modern chess openings'', 15th ed, Random House N.Y.   (these two versions are almost identical)
+John Nunn et al. 1999. ''Nunn's chess openings''. Everyman, London. 
+
+ Related pages 
+Gambit
+
+Category:Chess lists|Openings

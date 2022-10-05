@@ -1,0 +1,4 @@
+'''Thirty''' is a number. It is an even number. It is divisible by 1 (number)|1, 2 (number)|2, 3 (number)|3, 5 (number)|5, 6 (number)|6, 10 (number)|10, 15 (number)|15, and 30. It is a composite number. It is the number between 29 and 31. In roman numerals in is XXX.
+
+
+Category:Integers

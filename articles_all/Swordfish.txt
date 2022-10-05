@@ -1,0 +1,33 @@
+{{Taxobox
+| name = ''Swordfish''
+| status = DD
+| status_system = iucn2.3
+| status_ref = 
+| image = Xiphias gladius1.jpg
+| image_width=250px
+| regnum = Animalia
+| classis = Actinopterygii
+| ordo = Perciformes
+| familia = Xiphiidae
+| genus = ''Xiphias''
+| range_map=
+| range_map_caption=
+| binomial = ''Xiphias gladius''
+| binomial_authority = Carolus Linnaeus|Linnaeus, 1758}}
+
+'''Swordfish''' (''Xiphias gladius'') are large fish with a long, flat bill.  They are a popular sport fish.  Swordfish are elongated, round-bodied, and lose all teeth and scales by adulthood.
+
+The International Game Fish Association's all-tackle angling record for a swordfish was a 1,182&nbsp;lb (535.15&nbsp;kg) specimen taken off Chile in 1953.
+
+They are the sole member of their family '''Xiphiidae'''.
+
+ Features 
+The swordfish is named after its sharp bill, resembling a sword (Latin '''gladius'''), which together with its streamlined physique (smooth body) allows it to cut through the water with great ease and agility. Swordfish are fast predators of other fish.
+
+The "sword" is not used to spear, but may be used to slash at its prey to injure the prey animal, to make for an easier catch.Gardieff S. ''Swordfish''. Florida Museum of Natural History. 
+ As food 
+
+Swordfish is a particularly popular fish for cooking.  Since swordfish are large animals, meat is usually sold as steaks, which are often grilled.  The color of the flesh varies by diet, with fish caught on the east coast of North America often being rosier.
+
+However, many sources including the United States Food and Drug Administration warn about potential toxicity (how poisonous it is) from high levels of methylmercury in swordfish.
+Category:Perciformes

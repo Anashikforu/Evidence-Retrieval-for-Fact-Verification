@@ -1,0 +1,31 @@
+{{Taxobox
+| name = Sea eagles
+| image = Haliaeetus leucocephalus2.jpg
+| image_caption = Bald eagle(''Haliaeetus leucocephalus'')
+| image_width = 300px
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Bird|Aves
+| ordo = Accipitriformes
+| familia = Accipitridae
+| genus = '''''Haliaeetus'''''
+| genus_authority = Marie Jules César Savigny|Savigny, 1809
+| subdivision_ranks = Species}}
+
+The '''sea eagle''' is any bird of prey in the genus '''''Haliaeetus'''''. Obviously, they eat fish. They are also called  ernes or erns.
+
+ Subspecies 
+White-bellied sea eagle (''Haliaeetus leucogaster'')
+Sanford's sea eagle (''Haliaeetus sanfordi'')
+African fish eagle (''Haliaeetus vocifer'')
+Madagascar fish eagle (''Haliaeetus vociferoides'')
+Pallas's fish eagle (''Haliaeetus leucoryphus'')
+White-tailed eagle (''Haliaeetus albicilla'')
+Bald eagle (''Haliaeetus leucocephalus'')
+Steller's sea eagle (''Haliaeetus pelagicus'')
+
+
+
+
+
+Category:Accipitriformes

@@ -1,0 +1,41 @@
+{{Infobox language family
+|name=Berber (Amazigh)
+|altname=Tamaziɣt ⵜⴰⵎⴰⵣⵉⵖⵜ
+|ethnicity=Berber people (''Imazighen'')
+|region=North Africa, mainly Morocco and Algeria; smaller Berber-speaking populations in Libya, Mali, Niger, Tunisia, Burkina Faso, Egypt and Mauritania.Sizable communities of speakers in: Belgium, France, Netherlands, Germany, Spain, Canada, and the United States.
+|familycolor=Afro-asiatic
+|protoname=Proto-Berber language|Proto-Berber
+|child1=? ''Guanche language|Guanche''
+|child2=? ''Numidian language|East Numidian''
+|child3=Western Berber languages|Western
+|child4=Eastern Berber languages|Eastern ?
+|child5=Northern Berber languages|Northern
+|child6=Tuareg languages|Tuareg
+|map=Berber languages.png
+|mapcaption=Berber-speaking populations are dominant in the colored areas of modern-day North Africa. The other areas of North Africa contain minority Berber-speaking populations.
+
+
+
+
+
+
+
+
+
+
+
+
+|iso2=ber
+|iso5=ber}}
+
+The '''Berber languages''' or '''Tamazight''' are a group of closely related languages mainly spoken in Morocco and Algeria. Kabyle language|Kabyle and Tachelhit language|Tachelhit are Berber languages.
+
+ Other websites 
+ 
+= Websites that are in Berber language =
+
+  
+
+
+
+Category:Berber languages| 

@@ -1,0 +1,214 @@
+
+The '''Province of Vicenza''' () is a Provinces of Italy|province in the Veneto region of Italy. Its Capital city|capital is the city of Vicenza.
+
+Geography
+
+The province of Vicenza has an area of  high and is on the border with the province of Trento (Trentino-Alto Adige/Südtirol region).
+
+The province is rich in water; the main rivers in the province are:
+# Brenta (river)|Brenta, ; and
+# Bacchiglione, 
+
+
+
+The province of Vicenza borders to the north with the Province of Trento|Trento province (Trentino-Alto Adige/Südtirol region), to the northeast with the Province of Belluno|Belluno province, to the east with the Province of Treviso|Treviso province, to the south with the Province of Padua|Padua province, and to the west with the Province of Verona|Verona province.
+
+
+
+Population
+ inhabitants/km².
+
+
+'''Evolution of the population in the Vicenza province'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:900000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:100000 start:0
+ScaleMinor = gridcolor:lightgrey increment:50000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2016 text:2016
+
+PlotData=
+ color:barra width:30 align:left
+
+  bar:1961 from:0 till: 615507
+  bar:1971 from:0 till: 677884
+  bar:1981 from:0 till: 726418
+  bar:1991 from:0 till: 747957
+  bar:2001 from:0 till: 794317
+  bar:2011 from:0 till: 859205
+  bar:2016 from:0 till: 867314
+
+PlotData=
+  bar:1961 at: 615507 fontsize:S text: 615,507 shift:(-13,5)
+  bar:1971 at: 677884 fontsize:S text: 677,884 shift:(-18,5)
+  bar:1981 at: 726418 fontsize:S text: 726,418 shift:(-18,5)
+  bar:1991 at: 747957 fontsize:S text: 747,957 shift:(-18,5)
+  bar:2001 at: 794317 fontsize:S text: 794,317 shift:(-18,5)
+  bar:2011 at: 859205 fontsize:S text: 859,205 shift:(-18,5)
+  bar:2016 at: 867314 fontsize:S text: 867,314 shift:(-18,5)
+
+
+
+ Municipalities 
+There are 120 Municipality|municipalities (or ''Comune|comuni'') in the province; they are:
+
+# Agugliaro
+# Albettone
+# Alonte
+# Altavilla Vicentina
+# Altissimo
+# Arcugnano
+# Arsiero
+# Arzignano
+# Asiago
+# Asigliano Veneto
+# Barbarano Vicentino
+# Bassano del Grappa
+# Bolzano Vicentino
+# Breganze
+# Brendola
+# Bressanvido
+# Brogliano
+# Caldogno
+# Caltrano
+# Calvene
+# Camisano Vicentino
+# Campiglia dei Berici
+# Campolongo sul Brenta
+# Carrè
+# Cartigliano
+# Cassola
+# Castegnero
+# Castelgomberto
+# Chiampo
+# Chiuppano
+# Cismon del Grappa
+# Cogollo del Cengio
+# Conco
+# Cornedo Vicentino
+# Costabissara
+# Creazzo
+# Crespadoro
+# Dueville
+# Enego
+# Fara Vicentino	
+# Foza
+# Gallio
+# Gambellara
+# Gambugliano
+# Grisignano di Zocco
+# Grumolo delle Abbadesse
+# Isola Vicentina
+# Laghi
+# Lastebasse
+# Longare
+# Lonigo
+# Lugo di Vicenza
+# Lusiana
+# Malo
+# Marano Vicentino
+# Marostica
+# Mason Vicentino
+# Molvena
+# Monte di Malo
+# Montebello Vicentino
+# Montecchio Maggiore
+# Montecchio Precalcino
+# Montegalda
+# Montegaldella
+# Monteviale
+# Monticello Conte Otto
+# Montorso Vicentino
+# Mossano
+# Mussolente
+# Nanto
+# Nogarole Vicentino
+# Nove
+# Noventa Vicentina
+# Orgiano
+# Pedemonte
+# Pianezze
+# Piovene Rocchette
+# Pojana Maggiore
+# Posina
+# Pove del Grappa	
+# Pozzoleone
+# Quinto Vicentino
+# Recoaro Terme
+# Roana
+# Romano d'Ezzelino
+# Rosà
+# Rossano Veneto
+# Rotzo
+# Salcedo
+# San Nazario
+# San Pietro Mussolino
+# San Vito di Leguzzano
+# Sandrigo
+# Santorso
+# Sarcedo
+# Sarego
+# Schiavon
+# Schio
+# Solagna
+# Sossano
+# Sovizzo
+# Tezze sul Brenta
+# Thiene
+# Tonezza del Cimone
+# Torrebelvicino
+# Torri di Quartesolo
+# Trissino
+# Val Liona
+# Valdagno
+# Valdastico
+# Valli del Pasubio
+# Valstagna
+# Velo d'Astico
+# Vicenza
+# Villaga
+# Villaverla
+# Zanè
+# Zermeghedo
+# Zovencedo
+# Zugliano
+
+
+=Largest municipalities=
+The following shows the 12 Comune|''comuni'' with the population, and the area and altitude.
+
+
+
+
+
+Gallery
+
+
+Basilica Palladiana (Vicenza) - facade on Piazza dei signori.jpg|''Basilica Palladiana'', Vicenza.
+Larotonda2009.JPG|''Villa La Rotonda'', Vicenza.
+VillaCaldognoNordera 2007 07 17 04.jpg|Villa in Caldogno.
+Villa Barbarigo Noventa Vicentina by Marcok itwiki 2009-08-08 n04 rett.jpg|''Villa Barbarigo'', Noventa Vicentina.
+Piazza dei Signori (Vicenza).jpg|''Piazza dei Signori'', Vicenza.
+
+
+
+Category:Provinces of Veneto|Vicenza

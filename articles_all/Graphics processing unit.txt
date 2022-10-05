@@ -1,0 +1,50 @@
+
+
+
+A '''graphics processing unit''' ('''GPU''') is a processor that renders (or creates) images, animations, graphics and then displays them on the computer’s screen. A strong GPU is able to process complex animations and graphics smoothly and efficiently.
+
+Images which GPUs calculate (render) may be 2D or 3D.  For most applications, the GPU has to render two dimensional (2D) pictures.  Modern GPUs are so powerful, that there is no difference in 2D performance between low-cost and expensive GPUs.
+
+Some applications use 3D pictures to simulate three-dimensionality.  Examples include video games, and applications for design and technical construction (CAD).  The 3D acceleration performance of GPUs differs greatly.  Generally, more expensive GPUs can render faster than low-cost ones.
+ Origin 
+The first graphics cards were used in the 1970’s ,within arcade machines, as a cheaper alternative to Random-Access Memory (RAM). However, graphics cards were not viable for consumer products until the release of the Large Scale Integration (LSI) circuit chip in the 1980’s. During the early-to-mid 1990’s, graphics cards that were capable of 3D support became more common in arcade, computer and console games. The first consumer-level GPU ,meant for personal computers, was the Nvidia GeForce 256, which was released in 1999.
+
+ Modern Uses 
+GPUs are commonly used in computers, and video game systems to render graphics for video games that may not be playable without the proper GPU. However, other devices such as virtual reality headsets and driverless cars, such as Tesla, also use GPUs The tasks a GPU can do include, calculations, artificial intelligence programming, photo editing and other applications.
+
+ GPU Computing 
+The term GPU computing, combines all tasks a GPU can do, that go beyond simple calculation and output of pictures. It is also known under the term GPGPU|General Purpose Computation on Graphics Processing Unit. Tasks are calculation of physics, Artificial intelligence|Artificial Intelligence or even acceleration of video and picture editing. One of the first applications to support GPU computing is Adobe’s Photoshop CS4. 
+
+= NVidia’s approach: CUDA =
+NVidia calls their attempt at GPU Computing CUDA.
+= ATI’s approach: Stream =
+ATIs decided to call their attempt Stream.
+= S3 Graphic’s approach =
+S3 Graphics showed a first application
+The latest milestone in GPU computing was AMD’s announcement
+ External GPU 
+An external GPU is a graphics processor located outside of the housing of the computer. External graphics processors are used with laptop computers, which lack a powerful graphics processor. On-board graphics chips are not powerful enough for graphically intensive tasks. Therefore, attaching a GPU to some notebook is desirable.
+
+ GPU Accelerated Video Decoding 
+Most GPUs were made in the year 1995 to support YUV colour space and hardware overlays, and many GPUs made since 2000 also support MPEG primitives. This process of hardware accelerated video decoding. Most recent graphics cards even decode high-definition video on the card, offloading the central processing unit.
+
+ GPU Interfaces 
+Early GPUs used Peripheral Component Interconnect (PCI) interface to communicate with the motherboard of a computer, a type of slot which is still used today for simple motherboard add-ons such as extra audio-processing cards or USB ports. As graphics cards became more powerful and graphics applications more demanding, a faster kind of interface called Advanced Graphics Port (AGP) was created and then PCIe x16 (PCI Express 16-lane) after it, the current overall standard. In 2008 PCIe 2.0 was introduced, doubling the speed of PCIe 1.0 and still working with older PCI Express interfaces.
+
+PCI graphics cards will only work in PCI slots; AGP will only work in AGP slots. PCIe graphics cards will not function in PCI slots and PCI graphics cards will not function in PCIe slots. However, PCI Express 2.0 graphics cards will work in PCI Express x16 1.0 motherboard slots and vice-versa.
+
+ Multi-GPU systems 
+Multi-GPU Systems are computers which use more than one GPU. Generally this is used in high-end home computers to accelerate computer games, but there is also the ability to have one GPU rendering normal game scenes and one GPU calculating physics. This is currently supported by nVidia’s GPUs only and called PhysX. ATi and Intel have developed their own physics engine named Havok.
+
+= History of Multi-GPU systems =
+The first attempts in Multi-GPU Systems were done by 3Dfx, which was bought by nVidia later. Their '''Voodoo''' video cards, which were 3D only accelerators, could be hooked up to a second '''Voodoo''' video card to gain more performance. This was called SLi. Theoretically the performance would double, practically it increased far less, depending on the video game, which is still a problem in today’s Multi-GPU Systems. Later, 3Dfx built more than one GPU on one video card. It’s latest video card, the Voodoo 6, was based on four GPUs, but it was never released. However there exist several engineering samples of the Voodoo 6, mostly owned by collectors.
+
+= nVidia’s SLi =
+Despite the video cards, a SLi compatible motherboard is needed to build a SLi-System. Such motherboards have several PCI-Express for Graphics|PEG Slots (the successor to AGP, based on PCI-Express Technology) for more than one video card.
+
+nVidia offers various Multi-GPU video cards, where two GPUs are built on one video card. These are often called Dual-GPU video cards and do not need a SLi compatible motherboard.
+= ATI’s CrossFireX =
+ATI’s Multi-GPU Technology is called Cross Fire.
+Just like with SLi, there is the necessity for a CrossFire compatible motherboard in order to build a CrossFire System. One Dual-GPU video card from ATi does not necessarily need such a Crossfire compatible motherboard, however for two of them, it is needed.
+
+Category:Computer graphics

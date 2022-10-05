@@ -1,0 +1,34 @@
+
+
+'''Peter Andreas Grünberg''' (18 May 1939 &ndash; 7 April 2018) was a Germany|German physicist.
+
+He won the 2007 Nobel Prize in Physics for his discovery of giant magnetoresistance which made gigabyte hard disk drives easier to produce. Half the prize was given to Albert Fert who discovered giant magnetoresistance at the same time but Fert and Grünberg did not work together.
+
+Early life
+Grünberg was born in Pilsen, Bohemia, which was controlled by the Nazis. They called the country the Protectorate of Bohemia and Moravia and it is known now as the Czech Republic. Grünbergs father was called Fjodor Grinberg but he changed his name to Fjodor Grünberg in 1941.
+
+The rest of the Grünberg family stayed for some time in the Petermann
+Grünberg received a diploma in 1962 from the Johann Wolfgang Goethe University. Then he studied at the Darmstadt University of Technology in Germany, where he received his diploma in physics in 1966 and his Ph.D. in 1969. From 1969-1972, he did studied at Carleton University in Ottawa, Canada. Later he joined the Institute for Solid State Physics at the Jülich Research Centre, where he became a leading researcher of magnetism until he retired in 2004.
+
+Important work
+Grünberg made important discoveries with ferrite (iron) and magnetism such as the Giant magnetoresistive effect (GMR) in 1988. GMR has been used in many modern hard drives. Another use of the GMR effect is in MRAM|magnetic random access memory.
+
+Apart from the Nobel Prize, Grünberg has been awarded with shared prizes in the APS International Prize for New Materials, the International Union of Pure and Applied Physics Magnetism Award, the Hewlett-Packard Europhysics Prize, the Wolf Prize in Physics in and the 2007 Japan Prize. He  won the German Future Prize for Technology and Innovation in 1998 and was named European Inventor of the Year in the category "Universities and research institutions" by the European Patent Office and European Commission in 2006.
+
+Death
+Grünberg died on 7 April 2018 in Jülich, Germany at the age of 78.
+Published work (selection)
+
+ Patent, Germany, 3820475 "Magnetfeldsensor mit ferromagnetischer, dünner Schicht" filed on 16.06.1988
+ Patent, US, 4949039 "Magnetic field sensor with ferromagnetic thin layers having magnetically antiparallel polarized components"
+ Grünberg, Peter, Y. Suzuki, T. Katayama, K. Takanashi, R. Schreiber, K. Tanaka. 1997. "The magneto-optical effect of Cr(001) wedged ultrathin films grown on Fe(001)". ''JMMM ''. 165, 134. 
+ P. Grünberg, J.A. Wolf, R.Schäfer. 1996. "Long Range Exchange Interactions in Epitaxial Layered Magnetic Structures". ''Physica B'' 221, 357. 
+ M. Schäfer, Q. Leng, R. Schreiber, K. Takanashi, P. Grünberg, W. Zinn. 1995. "Experiments on Interlayer Exchange Coupling" (invited at 5th NEC Symp., Karuizawa, Japan). ''J. of Mat. Sci. and Eng. ''. B31, 17. 
+ A. Fert, P. Grünberg, A. Barthelemy, F. Petroff, W. Zinn (invited at ICM in Warsaw, 1994). 1995. "Layered magnetic structures: interlayer exchange coupling and giant magnetoresistance". ''JMMM''. 140-144, 1. 
+ P. Grünberg, A. Fuß, Q. Leng, R. Schreiber, J.A. Wolf. 1993. "Interlayer Coupling and its Relation to Growth and Structure". ''Proc. of NATO workshop on "Magnetism and Structure in Systems of Reduced Dimension", ed. by R.F.C. Farrow et al., NATO ASI Series B: Physics Vol. 309, p. 87, Plenum Press, N.Y. 1993''. 
+ A. Fuß, S. Demokritov, P. Grünberg, W. Zinn. 1992. "Short- and long period oscillations in the exchange coupling of Fe across epitaxially grown Al- and Au-interlayers". ''JMMM''. 103, L211. 
+ G. Binasch, P. Grünberg, F. Saurenbach, W. Zinn. 1989. "Enhanced magnetoresistance in Fe-Cr layered structures with antiferromagnetic interlayer exchange". ''Physical Review B39''. 4282.
+ P. Grünberg, R. Schreiber, Y. Pang, M.B. Brodsky, H. Sowers. 1986. "Layered Magnetic Structures: Evidence for antiferromagnetic coupling of Fe-layers across Cr-interlayers". ''Physical Review Letters''. 57, 2442.
+
+
+Category:Wolf Prize winners

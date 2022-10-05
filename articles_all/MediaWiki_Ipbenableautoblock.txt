@@ -1,0 +1,1 @@
+Automatically block the last IP address used by this user, and any following IPs they try to edit from

@@ -1,0 +1,5 @@
+In Real-time operating system|Realtime Operating Systems ('''RTOS'''), '''interrupt latency''' is the time between the generation of an interrupt by a device (or a Peripheral equipment|peripheral) and servicing the device which generated the interrupt. For many operating systems (OS), the OS code is Computer program|programmed so that devices are serviced as soon as the device's interrupt handler is executed. Interrupt latency depends on the Central processing unit|CPU, interrupt controllers, interrupt masking, and the operating system's (OS) "interrupt handling methods".
+
+
+
+Category:Computer science

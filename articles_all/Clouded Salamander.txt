@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Clouded Salamander
+| image = Hynobius nebulosus1.jpg
+| status = LC
+| status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Amphibia
+| ordo = Caudata
+| familia = Hynobiidae
+| genus = ''Hynobius''
+| species = '''''H. nebulosus'''''
+| binomial = ''Hynobius nebulosus''
+| binomial_authority = (Coenraad Jacob Temminck|Temminck & Schlegel, 1838)
+| synonyms = }}
+The '''Clouded Salamander''' ('''''Hynobius nebulosus''''') is a type of salamander in the Hynobiidae Family (biology)|family of animals.  It can only be found in Japan.  The places they like to live are warm forests, rivers, swamps, freshwater spring (hydrosphere)|springs, and land that is being watered.
+
+
+
+Category:Hynobius

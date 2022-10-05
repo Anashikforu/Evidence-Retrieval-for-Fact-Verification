@@ -1,0 +1,21 @@
+{{Taxobox
+| name = Desert dormouse
+| fossil_range = Recent
+| image = Selevinia betpakdalaensis.jpg 
+| status = DD
+| status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| subfamilia = Leithiinae
+| genus = ''Selevinia''
+| binomial = ''Selevinia betpakdalaensis''}}
+
+The '''desert dormouse''' (''Selevinia betpakdalaensis'') is a species of rodent in the dormouse family (biology)|family Gliridae.
+When it was first found, the species was placed in its own family, the Seleviniidae, but now it is wikt:consider|considered to be a dormouse. It is the only species in the genus ''Selevinia''.
+
+It is Endemism|endemic to Kazakhstan.
+
+Category:Dormice

@@ -1,0 +1,53 @@
+
+An '''open license or free license''' is a license that allows others to re-use an author's work as they wish. Without such a license, such use is generally prohibited by copyright law or a closed license.
+
+ Licenses 
+= By type of license =
+ Public domain licenses
+ CC0|Creative Commons CC0
+ WTFPL
+ Unlicense
+ Public Domain Dedication and License (PDDL) Permissive licenses
+ BSD License
+ MIT License
+ Mozilla Public License (file-based permissive copyleft)
+ Creative Commons Attribution
+ Copyleft & patentleft licenses
+ GNU GPL, GNU LGPL|LGPL (weaker copyleft), GNU AGPL|AGPL (stronger copyleft)
+ Creative Commons Attribution Share-Alike
+ Mozilla Public License
+ Common Development and Distribution License
+ GFDL (without invariant sections)
+ Free Art License
+
+= By type of content =
+ Open-source software
+ The Open Source Definition
+ Open Content
+ Open Content License
+ Open Publication License
+ Open-source hardware
+ Database|Open database
+ Creative Commons v4
+ Open Database Licence
+
+= By authors =
+ Creative Commons
+ Free Software Foundation
+ Open Source Initiative
+ Microsoft
+ Microsoft Public License
+ Microsoft Reciprocal License
+ Open Content Project
+ Open Data Commons from Open Knowledge Foundation
+ Public Domain Dedication and License (PDDL)
+ Attribution License (ODC-By)
+ Open Database License (ODC-ODbL)
+European Union
+European Union Public Licence
+
+ Related pages 
+ Open content
+ Openness
+
+Category:Licenses

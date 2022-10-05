@@ -1,0 +1,7 @@
+// Add "User rights" link
+jQuery(document).ready( function( $ ) {
+	if ( $.inArray(mw.config.get('wgNamespaceNumber'), 2 , 3 ) ! -1) {
+		mw.util.addPortletLink( 'p-cactions', mw.config.get('wgScript') + '?title=Special:UserRights&user=' + encodeURIComponent( mw.config.get('wgTitle').split('/')0 ),
+				'User rights', 'ca-rights', 'Change user rights');
+	}
+} );

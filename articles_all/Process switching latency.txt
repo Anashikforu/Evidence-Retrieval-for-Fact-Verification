@@ -1,0 +1,9 @@
+The '''process switching latency''' is the time needed by the operating system to perform the Process (computing)|'''process''' context switch to continue executing another process.
+
+ Related pages 
+ Thread switching latency
+ context switching
+
+Category:Computer science
+
+

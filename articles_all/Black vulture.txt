@@ -1,0 +1,29 @@
+{{Taxobox
+| name = Black vulture
+| image = Coragyps-atratus-001.jpg
+| image_width = 250px
+| image_caption = ''Coragyps atratus brasiliensis'' in Panama
+| status = LC
+| status_system = iucn3.1
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = ''Accipitriformes'' 
+| familia = New World vulture|Cathartidae
+| genus = '''''Coragyps'''''
+| genus_authority = Isidore Geoffroy Saint-Hilaire|Saint-Hilaire, 1853
+| binomial = ''Coragyps atratus''
+| range_map=AmericanBlackVultureMap.png
+| range_map_width = 250px
+| range_map_caption = Distribution map of the black vulture}}
+
+The '''black vulture''' (''Coragyps atratus''), also known as the '''American black vulture''', is a bird in the New World vulture family.
+
+Its range is from the southeastern United States to Zona Central|Central Chile and Uruguay in South America. It is a common and widespread species, but less so than the turkey vulture, which breeds well into Canada and south to Tierra del Fuego. Despite the similar name and appearance, this species is unrelated to the Eurasian black vulture.
+
+
+
+
+Category:Birds of North America
+Category:Vultures
+Category:Accipitriformes
+Category:Birds of South America

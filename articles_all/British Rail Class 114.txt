@@ -1,0 +1,34 @@
+{{Infobox DMU
+|name = British Rail Class 114 
+|image = 56006 at Kidderminster.JPG
+|imagesize = 240px
+|background = #0033cc
+|caption = Class 114 no. 56006 at Kidderminster on the Severn Valley Railway 
+on 15 October 2004, whilst taking part in the ''Railcar 50'' event. This vehicle has been restored to its original 1956 condition, and is preserved at the Midland Railway Butterley.
+|Manufacturer = BR Derby
+|Operator = British Rail
+|Formation =  Unknown 
+|Built =1956-1957
+|LinesServed = 
+|InService = 1960-2002
+|CarLength = 64 ft 6 in 
+|CarWidth = 9 ft 3 in 
+|CarHeight = 12 ft 4 1/2 in 
+|Weight = 35 tons 10 cwt 
+|Capacity = 
+|MaxSpeed = 70 mph (112 km/h)
+|Gauge = 
+|Traction = 
+|Engine =
+|SafetySystem=
+ |}}
+
+
+The British Rail '''Class 114''' diesel multiple units were built by Derby Carriage and Wagon Works|BR Derby from 1956 to 1957. Forty-nine 2-car units were built, numbered 50001-49 for driving motors (later renumbered 53001-49) and 56001-49 for driving trailers (later renumbered 54001-49). The units were used on services in the West Midlands (county)|West Midlands, Lincolnshire and Humberside.
+
+
+
+
+
+
+Category:British Rail diesel multiple units|114

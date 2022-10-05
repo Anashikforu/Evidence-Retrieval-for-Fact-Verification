@@ -1,0 +1,30 @@
+{{Infobox Government agency
+|agency_name = 
+|nativename = 
+|nativename_a =
+|nativename_r =
+|logo = GCHQ-aerial.jpg
+|logo_width = 350px
+|logo_caption = "The Doughnut", the headquarters of the GCHQ
+|formed = 1919 as the #Government Code and Cypher School (GC&CS)|GC&CS
+|preceding1 = MI1b (Army)
+|preceding2 = NID25 (Royal Navy)
+|jurisdiction = British Government
+|headquarters = The Doughnut, Cheltenham, UK
+|employees =  (fy 2012–13)
+|budget = Single Intelligence Account
+|minister1_name = Philip Hammond
+|minister1_pfo = Foreign Secretary
+|chief1_name = Robert Hannigan
+|chief1_position = Director of GCHQ
+|website = 
+
+The '''Government Communications Headquarters''' (GCHQ) is a British intelligence agency. Its work continues that of the Bletchley Park team.
+
+GCHQ collects, analyses and passes on signals from many parts of the world. This is called "signals intelligence" (SIGINT). It would include all forms of free-to-air signals plus many interceptions of covert communication. Computers scan the signals for key words of phrases, and flag any which contain key words.
+
+The second job of GCHQ is to crack the cyphers (codes) of sources it is interested in. It is this part of the work which Bletchley Park used to do. It also arranges for our own secret transmissions to be coded securely. This is the world of cryptography, ways and means of getting into other people's secrets, and keeping our secrets secure. This is done by CESG (Communications-Electronics Security Group).
+
+As an organisation, GCHQ is under the guidance of the Joint Intelligence Committee (JIC).  GCHQ was started after the First World War as the Government Code and Cypher School (GCCS or GC&CS), by which name it was known until 1946.Alvarez, David 2001. Most helpful and cooperative: GC&CS and the development of American diplomatic cryptanalysis, 1941-1942. In Smith, Michael & Erskine, Ralph (eds) ''Action this day: Bletchley Park from the breaking of the Enigma code to the birth of the modern computer''. Bantam Press.  As part of ECHELON, it works with Intelligence agencies from other allied countries.
+
+Category:Intelligence agencies

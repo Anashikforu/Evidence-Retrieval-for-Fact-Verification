@@ -1,0 +1,34 @@
+{{Taxobox
+| name = Pangolins
+| image = Manidae.jpg
+| image_width = 220px
+| regnum = Animalia
+| classis = Mammalia
+| infraclassis = Eutheria
+| superordo = Laurasiatheria
+| ordo = '''Pholidota'''
+| familia = '''Manidae'''
+| familia_authority = John Edward Gray|Gray, 1821}}
+
+'''Pangolins''' (or '''scaly anteaters''') are mammals which live in Africa and Asia. They have Scale (zoology)|scales on their skin. They are the only mammals which have this adaptation.
+
+There are three genera of pangolin, all of which eat ants and termites. They catch their food using their tongues, and they do not eat anything else.
+
+These scaled mammals are considered one of the most threatened animal among the mammal species. Unfortunately we know very little of their known status, such as their distribution across West African countries. Only evidence of the white bellied pangolin (Phataginus tricuspis) was found. No evidence of the Giant Pangolin (Smutsia gigantic) was found leading to believe that the giant pangolin no longer appears in West Africa.
+
+Pangolins have features of armadillos (long, ant eating tongue and broad tail) and sloths (claws), but the pangolin is in a completely different order (biology)|order. The pangolin belongs to the order '''Pholidota'''.
+
+Pangolins have large, hardened, overlapping plate-like scales. The pangolin scales are made of keratin. and are attached to muscles under the skin. and can be moved to point towards predators. Hair grows between the scales and near the rear of the animal.
+
+The pangolin's scaled body is a bit like a conifer cone|pine cone or globe artichoke. It can curl up into a ball when threatened, with its overlapping scales acting like armour while it tucks its face under its tail. The scales are sharp, providing extra defence from predators.Yu, Jingyu et al 2015. The first birth and survival of cub in captivity of critically endangered Malayan pangolin (''Mariis javanica''). ''Agricultural Science & Technology''. '''16''' (10) – via EBSCO.
+
+A pangolin's main predators are wild cats, hyenas and humans.
+A mother pangolin's gestation period is between 120 and 180 days. Young pangolin are born with scales, and they harden by the second day the pangopup is out of the womb.
+
+When walking on a level surface the pangolin is bipedal. It walks on the back legs. Its body is held horizontal, and is balanced by its heavy tail at the back.
+Sometimes pangolins are smuggled into China on the black market. Their scales are used as an ingredient in traditional Chinese medicine.
+
+
+Pangolins are a critically endangered species and have been hunted and trafficked all across Asia and Africa. They are usually sought after for their scales, meat and medical properties. This creature also has been identified as a host for SARS-CoV-2 and similar viruses.
+
+Category:Mammals

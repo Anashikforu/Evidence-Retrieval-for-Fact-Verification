@@ -1,0 +1,25 @@
+{{Taxobox
+| name = Huntsman spider
+| image = Huntsman spider white bg03.jpg
+| image_width = 250px
+| image_caption = Huntsman spider
+| regnum = Animalia
+| phylum = Arthropoda
+| classis = Arachnida
+| ordo = Spider|Araneae
+| superfamilia = '''Sparassoidea'''
+| familia = '''Sparassidae'''
+| diversity_link = List of Sparassidae species
+| diversity = 82 genera, 1009 species
+| range_map = Distribution.sparassidae.1.png
+| range_map_width = 250px}}
+
+'''Huntsman spider''' is a name given to the family (biology)|family '''Sparassidae''' (formerly ''Heteropodidae''). They are also known as the '''giant crab spiders''', due to the way they look. Larger ones, are also sometimes referred to as wood spiders, because they live in woody places (forest, mine shafts, woodpiles).
+
+They are found in Australia, New Zealand, South Africa, Southeast Asia, the Mediterranean, Florida, and Hawaii, and possibly in many other tropical and semi-tropical regions. They can be found as far north as England, Sweden and Wales.
+
+Huntsman spiders do not build spider web|webs, but hunt for food. They eat insects and other invertebrates.
+
+The average huntsman spider is about 1&nbsp;inch long with a leg span of up to 5&nbsp;inches. The '''giant huntsman spider,''' however, has a leg span of up to 12&nbsp;inches, making it the largest spider by diameter; it is often described as being "the size of a dinner plate."
+
+Category:Sparassidae

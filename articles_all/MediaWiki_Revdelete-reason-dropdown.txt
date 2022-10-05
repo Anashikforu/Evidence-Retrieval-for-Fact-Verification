@@ -1,0 +1,11 @@
+Admin-level redaction
+ WP:RD1|RD1: Blatant copyright violation
+ WP:RD2|RD2: Grossly insulting, degrading, or offensive material
+ WP:RD3|RD3: Purely disruptive material
+ WP:RD4|RD4: Other valid deletion under WP:DEL#REASON|deletion policy
+ WP:RD5|RD5: Non-contentious housekeeping, RevDel corrections, notes, conversion
+Suppression (only for use by oversighters)
+ :m:Oversight#Use|Inappropriate personal information
+ Offensive / :m:Oversight#Use|libellous information
+ :m:Oversight#Use|Hiding of blatant attack names
+ Copyright violation on advice of the m:Foundation|Wikimedia Foundation

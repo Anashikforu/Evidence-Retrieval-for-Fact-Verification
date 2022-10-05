@@ -1,0 +1,34 @@
+{{Infobox DMU
+|name = British Rail Class 121 
+|image = W55033 at Colne Valley Railway 2.JPG
+|imagesize = 240px
+|background = #0033cc
+|caption = W55033 at the Colne Valley Railway in original green livery
+|Manufacturer = Pressed Steel Company 
+|Family = Bubble Car
+|Operator = Arriva Trains Wales
+Chiltern Railways
+Network Rail
+|Formation = 1 car per trainset
+|Built =16
+|LinesServed = 
+|InService = 1960 - present
+|CarLength = 
+|CarWidth = 
+|CarHeight = 
+|Weight = 38 tons
+|Capacity = 
+|MaxSpeed = 
+|Gauge = 
+|Traction = 
+|Engine =
+|SafetySystem=
+ |}}
+
+Sixteen '''Class 121''' single-car driving motor vehicles were built from 1960, numbered 55020-55035. These were supplemented by ten trailer vehicles, numbered 56280-289 (later renumbered 54280-289).  They had a top speed of 70 mph, with slam-doors, and vacuum brakes.  The driving motor vehicles were nicknamed "Bubble Cars" by some railfan|enthusiasts.
+
+
+
+
+
+Category:British Rail diesel multiple units|121

@@ -1,0 +1,15 @@
+
+'''Topographic prominence''' is a way to measure the independence of a summit. It is often known simply as '''prominence'''. Some also call it '''autonomous height''', '''relative height''', '''shoulder drop''' (in the United States), or '''prime factor''' (in Europe). It is "the elevation difference between the summit and the lowest contour line encircling it and no higher summit".
+
+Two related concepts in topography are '''col''' and '''parent peak'''. These are used to calculate the prominence. The parent peak is a higher mountain that is often (but not always) nearby. It is chosen using a variety of wikt:criteria|criteria. The '''col''' is the lowest point between two peaks.
+
+ Related pages 
+List of mountain peaks by prominence
+Topography
+Topographic isolation
+
+= Lists =
+List of mountain peaks by prominence
+List of Ultras of Canada
+List of Ultras of Mexico
+

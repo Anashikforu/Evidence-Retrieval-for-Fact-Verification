@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Beetroot
+| image =Beta_vulgaris_-_Köhler–s_Medizinal-Pflanzen-167.jpg
+| image_width = 240px
+| image_caption = ''Beta vulgaris'' subsp. ''vulgaris''
+| regnum = Plantae
+| divisio = Flowering plant|Magnoliophyta
+| classis = Magnoliopsida
+| ordo = Caryophyllales
+| familia = Chenopodiaceae
+| genus = ''Beta (plant)|Beta'' 
+| binomial = ''Beta vulgaris''
+| binomial_authority = Carolus Linnaeus}}
+
+'''Beet''' (''Beta vulgaris'') is a plant with a round or carrot-shaped root. There are various varieties of this plant. The commonest is red beetroot, a root vegetable eaten by humans. An older variety was called mangel wurzel or mangelwurzel. This was used as fodder for cattle. Another variety is sugar beet used as a source of sugar.
+
+
+
+
+Category:Root vegetables

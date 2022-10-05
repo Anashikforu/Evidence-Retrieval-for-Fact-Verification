@@ -1,0 +1,11 @@
+
+A '''hydrogen bond''' is a type of chemical bond that weakly attaches a molecule to another molecule. It is based on the attraction between opposite electric charges.  The negative charge on an electronegativity|electronegative atom of one molecule is attracted to a positive charge on a hydrogen atom of another molecule. The hydrogen atom carries a positive charge because it is bonded to an second electronegative atom, which shifts electrons away from the hydrogen. This type of bond always involves a hydrogen atom, and two electronegative atoms. The electronegative atoms are often oxygen or nitrogen. Hydrogen bonds are important in polar solvents such as water and ethanol|alcohol, in biomolecules, and in many other materials.
+
+Hydrogen bonds can occur between molecules (''intermolecular force|intermolecular'' bonds), or between different parts of a single molecule (''intramolecular'' bonds).Compendium of Chemical Terminology, 
+ Water 
+Intermolecular hydrogen bonding is responsible for the high boiling point of water (100&nbsp;°C). Most molecules with hydrogen bonding have high boiling points and melting points. Because hydrogen bonds are what make water stick together so well, they also help other molecules that can make hydrogen bonds dissolve in water. This is because the molecules form bonds with the hydrogen in the water, too, helping them dissolve.
+
+ Biomolecules 
+Hydrogen bonds are important in many living organisms. They allow bonds between biomolecules that can be created and broken with control to allow life to proceed. For example, DNA that codes our genes contains two strands that are connected by many hydrogen bonds, like a zipper closing. Because the hydrogen bonds are not very strong, the two strands can later be ''unzipped'' and separated in order to read or copy the DNA. In protein molecules, intramolecular hydrogen bonds hold the protein molecule together in the shape that is needed. Intermolecular hydrogen bonds help connect protein molecules to each other to make many structures important for life, such as ribosomes that create new proteins. 
+
+Category:Chemical bonding

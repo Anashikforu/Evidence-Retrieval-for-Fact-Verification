@@ -1,0 +1,13 @@
+In mathematics, the '''opposite''' or '''additive inverse''' of a number k is a number n which, when addition|added to k, results in 0. The opposite of a is -a. For example, −7 is the opposite of 7, because 7+-7 = 0. 
+
+The opposite of a positive number is the negative version of the number. The opposite of a negative number is the positive version of the number. The opposite of Zero|0 is 0.
+
+Two opposite numbers have the same absolute value.
+
+ Related pages 
+
+ Addition
+Reciprocal
+Absolute value
+
+Category:Mathematics

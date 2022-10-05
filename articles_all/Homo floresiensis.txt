@@ -1,0 +1,47 @@
+
+{{Taxobox | name=''Homo floresiensis''
+| fossil_range = Late Pleistocene
+| image=Homo floresiensis.jpg
+| image_alt=Skull with associated mandible.
+| image_caption=A cast of a ''Homo floresiensis'' skull, American Museum of Natural History
+| classification_status=disputed
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Mammalia
+| ordo = Primates
+| familia = Hominidae
+| tribus = Hominini
+| genus = ''Homo (genus)|Homo''
+| binomial = †''Homo floresiensis''
+| binomial_authority = Brown et al 2004}}
+
+'''''Homo floresiensis''''' ("'''Flores Man'''", also called "hobbit") is a probable species in the genus ''Homo (genus)|Homo'', to which humans belong.
+
+The remains were found in 2004 on the island of Flores in Indonesia. Parts of the skeletons of nine individuals were found, including one complete cranium (the head).Brown P. ''et al'' 2004. A new small-bodied hominin from the Late Pleistocene of Flores, Indonesia. ''Nature'' '''431''' (7012): 1055–1061. 
+Discovery
+The remains were discovered on the Indonesian island of Flores by an Australian-Indonesian team of archaeology|archaeologists in 2003. Archaeologist Mike Morwood and colleagues were looking for evidence of the original human migration of ''H. sapiens'' from Asia to Australia.Morwood M.J. ''et al'' 2004. Archaeology and age of a new hominin from Flores in eastern Indonesia. ''Nature'' '''431''' (7012): 1087–1091. 
+Excavations done after that found seven more skeletons, originally thought to be from 38,000 to 13,000 years ago. An arm bone which they think belongs to ''H. floresiensis'' was dated at about 74,000 years old. The specimens are not fossilized and have "the consistency of wet blotting paper"; once exposed. The bones had to be left to dry before they could be dug up.Nature 2004. Little lady of Flores forces rethink of human evolution. ''Nature'' '''431''' (7012): 1029. 
+However, more extensive atratigraphy|stratigraphic and chronology|chronological work pushed the most recent evidence of their existence back to 50,000 years ago.
+
+Researchers hope to find preserved mitochondrial DNA to compare with samples from similarly unfossilised specimens of ''Neanderthal|Homo neanderthalensis'' and ''H. sapiens''.
+
+This hominin is remarkable because it has a small body and brain. 
+There are also a lot of stone tools found in the cave. The tools are of a size that could be used by the 1 meter tall human. They are dated from 95,000 to 13,000 years ago. They are found in the same archeological layer as an elephant of the extinct genus ''Stegodon''. The hobbit might have hunted this elephant. The elephant would have been very common throughout Asia during the Quaternary. Other animals that lived on the island at that time were giant rats, Komodo dragons, and even larger species of lizards.
+ A new species or not? 
+Archaeologist Mike Morwood and colleagues who found the remains say they think the individuals belong to a new species, ''H. floresiensis'', in our human genus ''Homo (genus)|Homo''. The discoverers also say that ''H. floresiensis'' might have lived at the same time as modern humans (''Homo sapiens'') on Flores.
+
+Not everyone agrees that this is a new species. Indonesian anthropologist Teuku Jacob  suggested that the skull of LB1 was a modern human with microcephaly. This is a disorder that causes the bones of the head to stop growing. Another study says that perhaps the individuals were born without a working thyroid gland, which would result in the small size of the hominins because of a disorder called myxedema.Obendorf P.J; Oxnard C.E. & Kefford C.E. 2008. Are the small human-like fossils found on Flores human endemic cretins?. ''Proceedings of the Royal Society of London, B Biological Sciences''. '''275''' (1640): 1287–1296. 
+Two studies of the bones published in 2007 both reported evidence to support species status for ''H. floresiensis''. A study of three bits of bones from the hand (carpals) showed that they were similar to the carpal bones of a chimpanzee or an early hominin such as ''Australopithecus''. They were also different from the bones of modern humans.Tocheri M.W ''et al'' 2007. The primitive wrist of ''Homo floresiensis'' and its implications for hominin evolution. ''Science'' '''317''' (5845): 1743. 
+Image:Homo floresiensis cave.jpg|thumb|Cave on Flores Island where the specimens were discovered.
+
+
+ Extinction 
+Archaeologists believe that the species has survived on Flores at least until 12,000 years ago. This makes it the longest lasting non-modern human. It also lived longer than the Neanderthals (''H. neanderthalensis''), which became Extinction|extinct about 24,000 years ago.
+
+Because of a deep neighboring strait, Flores remained isolated during the last ice age. Because of this, the discoverers of ''H. floresiensis'' think that the species, or its ancestors, must have reached the isolated island by water transport around 100,000 years ago (or, if they are ''H. erectus'', then about 1 million years ago).
+
+Local geology suggests that a volcano|volcanic eruption on Flores approximately 12,000 years ago was responsible for the end of ''H. floresiensis'' and animals that lived on the island. The elephant ''Stegodon'' also became extinct at this time.
+
+= Stories of later survival =
+There are local stories that a small race of people lived on the island. The ''Ebu Gogo'' were small, hairy, language-poor cave dwellers.Forth G. 2005. Hominids, hairy hominoids and the science of humanity. ''Anthropology Today'' '''21''' (3): 13–17. 
+Category:Hominins

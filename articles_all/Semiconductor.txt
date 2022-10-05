@@ -1,0 +1,28 @@
+
+A '''semiconductor''' is a material that in some cases will Conduction|conduct electricity but not in others. Silicon is the most used semiconductor, but gallium arsenide is also used.
+
+By the addition of different atoms into the crystal lattice (grid) of the semiconductor it changes its conductivity by making N-type semiconductor|n-type and P-type semiconductor|p-type semiconductors. Silicon is the most important commercial semiconductor, though many others are used. They can be made into transistors, which are small amplifiers. Transistors are used in computers, mobile phones, digital audio players and many other electronic devices.
+
+Like other solids, the electrons in semiconductors can have energies only within certain bands (i.e. ranges of energy levels) between the energy of the ground state, corresponding to electrons tightly bound to the Atomic nucleus|atomic nuclei of the material, and the free electron energy, which is the energy required for an electron to escape entirely from the material.
+
+ History 
+Semiconductors were being studied in Laboratory|laboratories as early as the 1830s. This led to the development of integrated circuits, which power almost all electronic devices today.
+
+
+
+ Doping 
+Doping (semiconductor)|Doping is the process of adding a small impurity to a pure semiconductor to change its electrical properties.
+
+Semiconductors today
+Today, semiconductors are used far and wide. Semiconductors can be found in nearly every electronic device. Desktop computers, the Internet, tablet devices, smartphones all would not be possible without semiconductors.
+Semiconductors can be made into very precise switches with a small amount of voltage. The voltage that the semiconductor doesn’t need can be sent to other electrical components in the device. Semiconductors can also be made very tiny and many of them can fit into a rather small circuit. Since they can be made so small, electrical devices today can be made thin and lightweight without compromising processing power.
+Some of the dominating companies in the semiconductor business are Intel Corporation, Samsung|Samsung Electronics, TSMC, Qualcomm and Micron Technology.
+
+Related pages
+ Diode
+ Transistor
+ Light-emitting diode
+ N-type Semiconductor
+ Integrated circuit
+
+Category:Electronics

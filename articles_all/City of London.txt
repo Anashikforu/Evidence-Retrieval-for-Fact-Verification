@@ -1,0 +1,107 @@
+{{Infobox Settlement
+|official_name = City of London
+|other_name =The City • Square Mile
+|motto = Domine dirige nos Latin: ''Lord, guide us''
+|image_skyline = 
+|imagesize =
+|image_caption = 
+|image_flag                      = Flag of the City of London.svg
+|flag_size                       = 100px
+|image_seal =
+|seal_size =
+|image_shield                    = Coat of Arms of The City of London.svg
+|shield_size                     = 100px
+|city_logo =
+|citylogo_size =
+|image_map = LondonCity.svg
+|mapsize = 200px
+|map_caption = Shown within Greater London
+|subdivision_type = List of sovereign states|Sovereign state
+|subdivision_name = United Kingdom
+|subdivision_type1 = Constituent country
+|subdivision_name1 = England
+|subdivision_type2 = Regions of England|Region
+|subdivision_name2 = Greater London
+|subdivision_type3 = Status
+|subdivision_name3 = ''sui generis'', City status in the United Kingdom|City and Ceremonial counties of England|Ceremonial County
+|subdivision_type4 = Admin HQ
+|subdivision_name4 = Guildhall, London|Guildhall
+|government_type =
+|leader_title                    = Local government in England|Local authority
+|leader_name                     = City of London Corporation
+|leader_title1                   = Lord Mayor of London|Lord Mayor
+|leader_name1                    = Michael Bear (Lord Mayor)|Michael Bear
+|leader_title2 =MPs elected in the United Kingdom general election, 2005|MP
+|leader_name2 =Mark Field
+|leader_title3 =London Assembly|London&nbsp;Assembly
+|leader_name3 =John Biggs
+|leader_title4 =
+|leader_name4 =
+|established_title               = Roman Empire|Roman settlement
+|established_date                = circa|c. 47 Anno Domini|AD(''Londinium'')
+|established_title2              = Kingdom of Wessex|Wessex resettlement
+|established_date2               = 886 AD(''Lundenburh'')
+|established_title3              =  
+|established_date3               =
+|unit_pref = 
+|area_footnotes =
+|area_total_km2 = 2.9
+|area_land_km2 =
+|area_water_km2 =
+|area_total_sq_mi = 1.12
+|area_land_sq_mi =
+|area_water_sq_mi =
+|area_water_percent =
+|area_urban_km2 =
+|area_urban_sq_mi =
+|area_metro_km2 =
+|area_metro_sq_mi =
+|population_as_of = 2005 est
+|population_footnotes =
+|population_note = Population List of English districts by population|Ranked 353rd
+|population_total = 9200
+|population_density_km2 = 3172
+|population_density_sq_mi =
+|population_metro =
+|population_density_metro_km2 =
+|population_density_metro_sq_mi =
+|population_urban =
+|population_density_urban_km2 =
+|population_density_urban_sq_mi =
+|population_blank1_title =Ethnicity
+|population_blank1 =84.4% White68.3% British12.8% non-British3.3% Irish6.8% British Asian|South Asian2.6% British African-Caribbean community|African-Caribbean2.0% British Chinese|Chinese
+|population_density_blank1_km2 = |population_density_blank1_sq_mi =
+|population_blank2_title =ONS coding system|ONS code
+|population_blank2 =00AA
+|timezone = Greenwich Mean Time|GMT
+|utc_offset = +0
+|timezone_DST = British Summer Time|BST
+|utc_offset_DST = +1
+|elevation_footnotes =   tags-->
+|elevation_m =
+|elevation_ft =
+|postal_code_type = Postal code 
+|postal_code =EC postcode area|EC
+|website = |footnotes =}}
+
+
+The '''City of London''' is a district of Greater London. 
+
+It is here in the City of London where most of the United Kingdom's financial trade is done. It is a very small area, covering only a square mile, and has a very small resident population (8,000). However, many people come to work here and during the day it can be very busy, with some 300,000 people in it.
+
+"London" now refers to Greater London, which is made up of 32 boroughs (including the City of Westminster and the City of London). The City is in central London and is the oldest part of the city, dating back to Ancient Rome|Roman times. The City of London has its own mayor, the Lord Mayor of London, an office separate from (and much older than) the Mayor of London. There are other ancient features, dating back to Middle Ages|medieval times. The City has its own police force, the City of London Police.
+
+ Financial markets 
+The City vies with New York City as the financial capital of the world: many banking and insurance institutions have their headquarters there. The London Stock Exchange (shares and Bond (finance)|bonds),  Lloyd's of London (insurance) and the Bank of England are all based in the City. 
+
+Over 500 banks have offices in the City, and the City is an established leader in trading in Eurobonds, foreign exchange market|foreign exchange, energy Futures contract|futures and global insurance. The Alternative Investment Market, a market for trades in Equity investment|equities of smaller firms, is a recent development. In 2008, the City of London accounted for 4% of UK GDP.
+
+London is the world's greatest foreign exchange market, with much of the trade conducted in the City of London. Of the $3.98 trillion daily global turnover, as measured in 2007, trading in London accounted for around $1.36 trillion, or 34.1% of the total.
+Since 1991 Canary Wharf, a few miles east of the City in Tower Hamlets, has become a second centre for London's financial services industry and houses many banks and other institutions formerly located in the Square Mile. This development does not appear to have damaged the City: growth has continued in both locations.
+
+ History 
+The City is the site of Ancient Rome|Roman ''Londinium'', and the archaeology|archaeological remains are on display in the Museum of London, City Wall.
+
+The City has many Church (building)|churches designed by Sir Christopher Wren, including St Paul's Cathedral. The City was the site of the Great Fire of London in 1666.
+
+Category:City of London| 

@@ -1,0 +1,4 @@
+The '''pascal''' (symbol: '''Pa''') is the SI derived unit of pressure or stress (physics)|stress. It is a measure of perpendicular Force (physics)|force per unit area i.e. equal to one newton (unit)|newton per square meter. In everyday life, the pascal is maybe best known from meteorological air-pressure reports, where it happens in the form of hectopascal (1 hPa = 100 Pa).World Meteorological Organization: 
+It is named after the France|French mathematician and physicist, Blaise Pascal.
+
+Category:Units of measurement

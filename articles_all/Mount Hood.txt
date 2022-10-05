@@ -1,0 +1,35 @@
+{{Infobox mountain
+| name = Mount Hood
+| photo = Mount Hood reflected in Mirror Lake, Oregon.jpg
+| photo_caption = Mount Hood reflected in Mirror Lake (Mount Hood, Oregon)|Mirror Lake
+| elevation_ft = 11240
+| elevation_ref = 
+| prominence_ft = 7706
+| prominence_ref = 
+| map = Oregon
+| map_caption = 
+| map_size = 150
+| label_position = right
+| listing = Ultra prominent peak|UltraList of U.S. states by elevation|U.S. state high point
+| location = Clackamas County, Oregon|Clackamas / Hood River County, Oregon|Hood River counties, Oregon, United States|USA
+| range = Cascade Range
+| lat_d = 45.373514489
+| long_d = -121.695918558
+| region = US-OR
+| source = ngs
+| coordinates_ref = 
+| topo = United States Geological Survey|USGS Mount Hood South
+| type = Stratovolcano
+| age = More than 500,000 years
+| volcanic_arc/belt = Cascade Volcanoes|Cascade Volcanic Arc
+| last_eruption = 1866
+| first_ascent = 1857-07-11 by Henry Pittock, W. Lymen Chittenden, Wilbur Cornell, and the Rev. T.A. Wood
+| easiest_route = Rock and glacier climb}}
+
+'''Mount Hood''' is a dormant volcano, called '''Wy'east''' by the Multnomah tribe. It is in the U.S. state of Oregon, about 50 miles (80 kilometers) southeast of Portland, Oregon|Portland. It is described as a "potentially active" stratovolcano.
+
+The volcano is  high. It is the highest point in Oregon. There are several ski resorts on Mount Hood. There are 12 glaciers.
+
+Each year, runners race on foot between Mount Hood and the Pacific Ocean in the "Hood to Coast Relay."
+
+Category:Mountains of the United States

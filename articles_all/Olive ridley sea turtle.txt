@@ -1,0 +1,25 @@
+{{Taxobox
+| name = Olive ridley
+| status = VU
+| status_system = iucn3.1
+| status_ref = 
+| image = Lepidochelys-olivacea-Kélonia-1.JPG
+| image_width = 250px
+| image_caption = 
+| regnum = Animalia
+| classis = Reptilia
+| ordo = Testudines
+| familia = Cheloniidae
+| genus = ''Lepidochelys''
+| binomial = ''Lepidochelys olivacea''}}
+
+The '''olive ridley sea turtle''', (''Lepidochelys olivacea''), also called the '''Pacific ridley''', is one of the smallest species of sea turtle. It is named for the olive-green color of its heart-shaped shell. It is one of seven marine turtle species living today.
+
+Sources
+
+
+
+
+
+Category:Reptiles of Australia
+Category:Turtles

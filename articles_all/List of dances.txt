@@ -1,0 +1,91 @@
+'''List of dances''':
+
+A
+Allemande
+
+B
+Ballet
+Bhangra
+Belly dance
+Breakdance
+Bharatnatyam
+
+C
+Can-can
+Capoeira
+Cha-cha-cha
+Clog dance
+Courante
+
+D
+Disco
+
+F
+Flamenco
+Foxtrot
+
+G
+Gigue
+
+H
+Hula
+Hiphop
+
+I
+Irish dance
+
+J
+Japanese traditional dance
+Jig
+Jive (dance)
+
+K
+Kathak
+Kathakali
+
+L
+Line dance
+
+M
+Manipuri dance
+Mazurka
+Minuet
+Modern dance
+Moonwalk
+
+P
+Paso doble
+
+Q
+Quickstep
+
+R
+Rain dance
+
+S
+Salsa
+Samba
+Sarabande
+Sequence dance
+Street dance
+Striptease
+
+T
+Tango
+Tarantella
+Twist (dance)
+Tap dancing 
+
+V
+Viennese waltz
+Vogue
+
+W
+Waltz (International)
+
+
+
+
+
+Category:Dances|
+Category:Lists

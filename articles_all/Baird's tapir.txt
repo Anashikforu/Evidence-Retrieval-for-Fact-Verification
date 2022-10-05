@@ -1,0 +1,27 @@
+{{Taxobox
+| name = Baird’s tapir
+| status = EN 
+| status_system = iucn3.1
+| image = Belize21.jpg
+| image_width = 200px
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Perissodactyla
+| familia = Tapiridae
+| genus = ''Tapirus''
+| binomial = ''Tapirus bairdii''
+| range_map = Range map Tapirus bairdii with borders.png
+| range_map_caption = Distribution of Baird’s Tapir is shown in blueIn red, El Salvador, where it is extirpated.In yellow, Ecuador, presence is unconfirmed.  
+| range_map_width = 250px}}
+
+'''Baird’s tapir''' ('''''Tapirus bairdii''''') is a species of tapir that is native to Central America and northern South America. It is one of four Latin American species of tapir.
+
+Baird’s tapir is found in the dense jungles of Central America, including southeastern Mexico, Belize, Guatemala, Honduras, Costa Rica, Nicaragua, Panama, Colombia, and Ecuador.
+
+The animal can be found at altitudes as high as 3,350 metres (10,990 ft).
+
+
+
+
+category:Mammals of North America
+category:Mammals of South America

@@ -1,0 +1,7 @@
+
+
+'''Conoidasida''' is a class of protists, It contains one order, Eucoccidiorida.
+
+
+
+category:Apicomplexa

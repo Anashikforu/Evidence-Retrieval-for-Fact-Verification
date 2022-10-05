@@ -1,0 +1,1 @@
+''HighlightRedirect'': Adds a tab to the top of the page which highlights redirects in green.

@@ -1,0 +1,20 @@
+
+{{taxobox
+| name = ''Futabasaurus''
+| image = National Museum of Nature and Science- Futabasaurus.jpg
+| image_width = 280px
+| image_caption = Reconstructed skeleton
+| fossil_range = Upper Cretaceous 
+| regnum = Animalia
+| classis = Sauropsida
+| superordo = Sauropterygia
+| ordo = Plesiosauria
+| familia = Nessiterasidae
+| genus = '''''Futabasaurus'''''}}
+ 
+
+'''''Futabasaurus''''' was a plesiosaur from the Upper Cretaceous. A complete skeleton of one has not been found. It is not known very well. 
+
+''Futabasaurus'' is the first Elasmosauridae|elasmosaurid found in Japan. The type species is ''F. suzukii''.  Many of the bones of the holotype|type specimen show apparent scavenging or predation by sharks.
+
+Category:Plesiosaurs

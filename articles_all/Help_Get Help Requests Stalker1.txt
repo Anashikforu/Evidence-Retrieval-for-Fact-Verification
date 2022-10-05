@@ -1,0 +1,10 @@
+Help Request From User:Stalker1|'''S'''User talk:Stalker1|'''talk'''Special:Contributions/Stalker1|'''er1'''
+
+I am new here. I understand wikipedia has something called a "raw signature" or "raw nickname", sort of like a forum sig block, where you can add html and colors and typefaces etc. I have to copy+paste this raw signature. When I copy the code into the box, though, the code just stops. There is no more room for code. How do I fix this? If it is necessary, here is the code:
+
+User:Stalker1|'''SUser talk:Stalker1|'''talkSpecial:Contributions/Stalker1|er1'''
+
+I just want my sig back.
+
+Solution
+There is none. There is a limit on the number of letters that can be in that field. Your sig needs to be shorter. -- User:Spiderpig0001|Spiderpig0001 User Talk:Spiderpig0001|Does whatever a spiderpig does! 23:12, 26 September 2007 (UTC)

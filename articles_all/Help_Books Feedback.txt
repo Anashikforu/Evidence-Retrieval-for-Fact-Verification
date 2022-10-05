@@ -1,0 +1,46 @@
+__NEWSECTIONLINK__ 
+&nbsp;
+Category:Wikipedia book tool
+
+
+
+
+ How to report issues
+How to escalate issues
+
+
+
+please '''check''' whether this issue is already known
+provide a '''link''' to an article that is affected by the issue
+report only '''one''' issue per section 
+select a '''descriptive''' title
+consider to '''prefix''' the title with Bug, Proposal, Question, Comment, Task ...
+
+
+There is a central 
+For obvious bugs the preferred place to directly issue and check tickets.
+
+At IRC irc://irc.freenode.net/pediapress #booktool (English) some immediate support might be available.
+
+
+
+
+
+
+Question: How to organize issues 
+ 
+A template like /Status|this helped us in past deployments to organize and annotate issues.
+
+ Comment: Following some dummy comments 
+These don't need any translation ....
+
+Question: Principal Authors
+How is the list of principal authors computed? It looks as if ''any'' contributor is listed.  User:He!ko|He!ko 16:08, 11 February 2009 (UTC)
+
+Proposal:  Add a table of contents 
+
+Did you consider to add a table of contents at the first page of the PDF? I think this might improve usability of larger PDFs. --User:He!ko|he!ko 15:57, 11 February 2009 (UTC)
+
+Bug: -tag not supported
+
+It looks like the -tag is not supported (mw:Extension:Poem|example). User:He!ko|He!ko 16:08, 11 February 2009 (UTC)

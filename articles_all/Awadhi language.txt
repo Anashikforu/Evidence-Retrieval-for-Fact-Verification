@@ -1,0 +1,31 @@
+{{Infobox language
+|name=Awadhi
+|nativename=
+|states=India, Nepal, Fiji (as Fiji Hindi)
+|region=India: Awadh and Doab|Lower Doab regions of Uttar Pradesh, as well as Madhya Pradesh and Delhi Nepal: Lumbini Zone, Kapilbastu District; Bheri Zone, Banke District, Bardiya District and most part of the Uttar Pradesh
+|speakers=38 million
+|date=2001
+|ref=e16
+|familycolor=Indo-European
+|fam2=Indo-Iranian languages|Indo-Iranian
+|fam3=Indo-Aryan languages|Indo-Aryan
+|fam4=Hindi languages|Central (Hindi)
+|fam5=Eastern Hindi
+|dia1=Fiji Hindi
+|dia2=Gangapari
+|dia3=Mirzapuri
+|dia4=Pardesi
+|dia5=Uttari
+|dia6=Tharu
+|dia7=Degauri Tharu
+|dia8=Pratapgarhi
+|script=Devanagari, Kaithi
+|nation=No official status
+|iso2=awa
+|iso3=awa
+|notice=Indic}}
+'''Awadhi''' is an Indo-Aryan language. This language was spoken in a wide area including Lucknow and Ayoudhya (Awadh) earlier. Goswami Tulasidas wrote Ramcharitmanas, Geetavali, Kavitavali, and all his Shri Ram poems in this language.
+
+Hindi is a much newer language mostly based on Awadhi and Braj Bhasha.
+
+Category:Languages of India

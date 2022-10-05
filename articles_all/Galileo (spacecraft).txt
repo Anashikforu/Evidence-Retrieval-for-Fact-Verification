@@ -1,0 +1,25 @@
+
+
+
+
+| distance_travelled    = 
+
+| manufacturer          = 
+
+| launch_date           = &nbsp;UTC
+| launch_rocket         = Inertial Upper Stage|IUS
+| launch_site           = Kennedy Space Center|Kennedy Kennedy Space Center Launch Complex 39|LC-39B
+| launch_contractor     = 
+| entered_service       = December 8, 1995, 01:16&nbsp;UTC&nbsp;Spacecraft Event Time|SCET
+
+| disposal_type         = Controlled entry into Jupiter
+| decay_date            =  GMT ERT
+|interplanetary         = 
+ 
+'''Galileo''' was an unmanned NASA Space probe|spacecraft. It explored the planet Jupiter and its Natural satellite|moons. Galileo was launched in 1989 and it arrived at Jupiter in 1995.
+
+Galileo was made up of two parts: an orbiter and a probe. The probe was released from the orbiter on July 13, 1995 and it went towards Jupiter. It reached Jupiter on December 7, 1995 and went down into the atmosphere. The probe gathered data for 57 minutes until the great atmospheric heat and pressure destroyed it.
+
+The orbiter went into orbit around the planet on December 8, 1995 and went down into Atmosphere of Jupiter|Jupiter's atmosphere and was crushed on September 21, 2003.
+
+Category:Jupiter

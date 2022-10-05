@@ -1,0 +1,23 @@
+{{Taxobox
+| name = Amethyst woodstar
+| image = Calliphlox amethystina (male).jpg
+| image2 = Calliphlox amethystina.jpg
+| image2_caption = Male (above) and female (below)
+| status = LC | status_system = IUCN3.1
+| status_ref =  
+| regnum = Animalia
+| classis = Aves
+| ordo = Trochiliformes
+| familia = Trochilidae
+| genus = ''Calliphlox''
+| binomial = ''Calliphlox amethystina''}}
+
+The '''amethyst woodstar''' (''Calliphlox amethystina'') is a species of hummingbird.Tiny, short-billed hummingbird of forests, forest edges, and savanna woodlands. Both sexes are green on the back with a white band across the rump. The  males have a pink throat and a forked tail. Females have a white throat, a short tail, and cinnamon flanks and undertail. 
+
+It is found in most of central, and eastern South America, Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Suriname (the Guianas), Paraguay, Peru, and Venezuela. The bird's range surrounds the "Amazon countries" into the Andes foothills and higher heights of upstream river systems, but is not along the Amazon River proper in the central Amazon Basin, or the central upper Basin; it is in Brazil at the river's outlet, and upstream for about 500 km.
+
+The amethyst woodstar's natural habitats are subtropical or tropical moist lowland forests and subtropical or tropical moist montanes.
+
+The amethyst woodstar was named after the Amethyst|amethyst crystal
+
+Category:Hummingbirds

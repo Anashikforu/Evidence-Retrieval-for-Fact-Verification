@@ -1,0 +1,165 @@
+
+
+
+'''Cloud computing''' is when computing services are provided by a company or place outsourcing|outside of where they are being used. It is like the way in which Electric power distribution|electricity is sent to users: they simply use the electricity that is sent to them and do not need to worry where the electricity is from or how it is made and brought to them. Every month, they pay only for what they used and nothing more. The idea behind cloud computing is similar: The user can simply use storage, computing Central processing unit|power, or Software development|development environments, without having to worry how they work behind the scenes.
+
+The '''''cloud''''' is a metaphor for the Internet based on how it is described in computer network diagrams. Just as how in the real world, Cloud|clouds hide parts of the sky from sight, the ''cloud'' in computing hides the complex infrastructure that makes the Internet work.
+According to the Institute of Electrical and Electronics Engineers|IEEE, cloud computing is a paradigm|concept where information is placed on servers and sent over the Internet to other devices, such as computers, laptops, handhelds, and sensors.
+ Brief 
+= Comparisons =
+Cloud computing is often confused with other ideas:
+ grid computing: ''a form of distributed computing whereby a "super and virtual computer" is composed of a Cluster (computing)|cluster of networked, loosely-coupled computers, working together to perform very large tasks''
+ utility computing: the ''packaging of Computational resource|computing resources, such as computation and storage are provided as a Measurement|measured service that have to be paid similar to a traditional public utility such as electricity''
+ Autonomy|autonomic computing: ''computer systems capable of self-management''.
+
+Cloud computing often uses grid computing, has autonomic Property|characteristics and is billed like Public utility|utilities, but cloud computing can be seen as a ''natural next step'' from the ''grid-utility model''.
+= Architecture =
+The majority of cloud computing infrastructure currently consists of reliable services delivered through data centers that are built on computer and storage virtualization technologies. The services are accessible anywhere in the world, with ''The Cloud'' appearing as a single point of access for all the computing needs of consumers. Commercial offerings need to meet the quality of service requirements of customers and typically offer service level agreements.
+
+= Characteristics =
+As Customer service|customers generally do not own the infrastructure or know all details about it, mainly they are accessing or renting, so they can consume resources Everything as a service|as a service, and may be paying for what they do not need, instead of what they actually do need to use. Many cloud computing providers use the utility computing model which is Analogy|analogous to how traditional public utilities like electricity are consumed, while others are billed on a subscription basis. By sharing consumable and ''wikt:intangible|"intangible"'' computing power between multiple ''"tenants"'', utilization rates can be improved (as servers are not left idle) which can reduce costs significantly while increasing the speed of application development.
+
+A side effect of this approach is that "computer capacity rises dramatically" as customers do not have to engineer for peak loads. Adoption has been enabled by "increased high-speed bandwidth" which makes it possible to receive the same response times from centralized infrastructure at other sites.
+
+= Providers =
+Cloud computing is being driven by providers including Google, Amazon.com, and Yahoo! as well as traditional vendors including IBM, Intel,
+ History 
+''The Cloud'' is a metaphor for the Internet,
+The underlying concept dates back to 1960 when :en:John_McCarthy_(computer_scientist)|John McCarthy expressed his opinion that "computation may someday be organized as a public utility"  and the Technical terminology|term ''Cloud'' was already in commercial use in the early 1990s to refer to large Automated teller machine|ATM networks. By the turn of the 21st century, cloud computing solutions had started to appear on the market,
+Amazon.com played a key role in the development of cloud computing when upgrading their data centers after the dot-com bubble and providing access to their systems by way of Amazon Web Services in 2002 on a :en:Utility_computing|utility computing basis. They found the new cloud architecture resulted in significant internal efficiency improvements
+
+2007 observed increased activity, including Google, IBM and a number of university|universities starting large scale ''cloud computing'' research project,
+In August 2008 Gartner observed that "organizations are switching from company-owned hardware and software assets to per-use service-based models" and that the "projected shift to cloud computing will result in dramatic growth in IT products in some areas and in significant reductions in other areas".
+
+ Political issues 
+''Clouds'' cross many country borders and "may be the ultimate form of globalisation".
+Although there have been efforts to match the legal environment (such as US-EU Safe Harbor), providers like Amazon Web Services usually deal with international markets (typically the United States and European Union) by deploying local infrastructure and allowing customers to select their Country|countries. However, there are still concerns about security and privacy for individual through various governmental levels, (for example the USA PATRIOT Act and use of national security letters and title II of the Electronic Communications Privacy Act, the Stored Communications Act).
+
+ Legal issues 
+In March 2007, Dell applied to trademark the Technical terminology|term '"cloud computing" in the United States. It received a "Notice of Allowance" in July 2008 which was subsequently canceled on August 6, resulting in a formal rejection of the trademark application in less than a week later.
+
+In November 2007, the Free Software Foundation released the Affero General Public License (abbreviation|abbreviated as '''Affero GPL''' and '''AGPL'''), a version of GNU General Public License|GPLv3 designed to close a perceived Legal technicality|legal loophole associated with Free software designed to be run over a network, particularly software as a service.  According to the '''AGPL''' license application service providers are required to release any changes they make to an '''AGPL''' open source code.
+
+ Architecture 
+
+''Cloud architecture''
+
+This is very similar to the Unix philosophy of having multiple Computer program|programs doing one thing well and working together over universal interfaces. Complexity is controlled and the resulting systems are more manageable than their Monolithic system|monolithic counterparts.
+
+''Cloud architecture'' extends to the client where web browsers and/or software applications are used to access ''cloud applications''.
+
+''Cloud storage architecture'' is loosely coupled where metadata operations are centralized enabling the data nodes to scale into the hundreds, each independently delivering data to applications or users.
+
+ Key characteristics 
+ '''Capital expenditure''' minimized, therefore low Barriers to entry|barrier to entry as infrastructure is owned by the provider and does not need to be purchased for one-time or infrequent intensive computing tasks. Services are typically being available to or specifically targeting retail consumers and small businesses.
+ '''computing platform|Device and location independence''' which enables users to access systems regardless of location or what device they are using (for example Personal computer|PC, Mobile phone|mobile,... etc.).
+ '''Multitenancy''' enabling sharing of resources (and costs) among a large pool of users, allowing for:
+ '''Centralization''' of infrastructure in areas with lower costs (e.g. real estate, electricity)
+ '''Peak-load capacity''' increases (users need not engineer for highest possible load levels)
+ '''Utilization and efficiency''' improvements for systems that are often used only 10-20%.
+ '''Computer performance|Performance''' is monitored and consistent but can be affected by insufficient bandwidth or high network load.
+ '''Reliability''' by way of multiple redundant sites, which makes it suitable for business continuity and disaster recovery, '''Scalability''' which meets changing user demands quickly, without having to engineer for peak loads. Massive scalability and large user bases are common but not an absolute requirement.
+ '''Computer security|Security''' which typically improves due to centralization of data, increased security-focused resources, etc. but which raises concerns about loss of control over certain sensitive data. Accesses are typically logged but accessing the audit logs themselves can be difficult or impossible.
+ '''Sustainability''' through improved use of resources, more efficient systems and carbon neutrality.
+
+Security and privacy
+Cloud computing poses privacy concerns because the service provider can access the data that is in the cloud at any time.  It could accidentally or deliberately alter or delete information. Many cloud providers can share information with third parties if necessary for purposes of law and order without a warrant. That is permitted in their privacy policies, which users must agree to before they start using cloud services. Solutions to privacy include policy and legislation as well as end-users' choices for how data is stored.
+
+ Components 
+
+
+= Application =
+A ''cloud application'' influences '''The Cloud''' model of software architecture, often eliminating the need to install and run the application on the customer's own computer, thus reducing software maintenance, ongoing operations, and support. For example:
+ Peer-to-peer/volunteer computing (Bittorrent, SETI@home, Skype)
+ Web application (Facebook)
+ Software as a service (Google Apps, Salesforce)
+ Software plus services (Microsoft Online Services)
+
+
+
+
+= Client =
+A ''cloud client'' is computer hardware and/or computer software which relies on '''The Cloud''' for application delivery, or which is specifically designed for delivery of cloud services, and which is in either case essentially useless without a Cloud. For example:
+ Mobile computing|Mobile (Android (mobile device platform)|Android, Thin client (CherryPal, Thick client/Web browser (Google Chrome,
+
+
+
+= Infrastructure =
+''Cloud infrastructure'' (e.g. Infrastructure as a service) is the delivery of computer infrastructure (typically a platform virtualization environment) Everything as a service|as a service. Full virtualization (GoGrid, Skytap)
+ Grid computing (Sun Grid)
+ Management (RightScale)
+ Paravirtualization (Amazon Elastic Compute Cloud)
+
+
+
+
+= Platform =
+A ''cloud platform'' (e.g. Platform as a service) (the delivery of a computing platform and/or solution stack Everything as a service|as a service) facilitates deployment of applications without the cost and complexity of buying and managing the underlying hardware and software layers. Web application frameworks
+ Python (programming language)|Python Django (web framework)|Django (Google App Engine)
+ Ruby on Rails (Heroku)
+ Web hosting (Mosso (web host)|Mosso)
+ Proprietary technology|Proprietary (Azure Services Platform|Azure, Salesforce|Force.com)
+
+
+
+
+= Service =
+A ''cloud service'' (e.g. Web Service) is "software systems designed to support interoperability|interoperable Machine to Machine|machine-to-machine interaction over a computer network|network" which may be accessed by other cloud computing components, software (e.g. Software plus services) or end users directly. Identity (OAuth, List of OpenID providers|OpenID)
+ Integration (Amazon Simple Queue Service)
+ Web mapping|Mapping (Google Maps, Yahoo! Maps)
+ Payments (Amazon Flexible Payments Service, Google Checkout, PayPal)
+ Web search engine|Search (Alexa Internet|Alexa, Google Custom Search, Yahoo! Search BOSS|Yahoo! BOSS)
+ Others (Amazon Mechanical Turk)
+
+
+
+
+= Storage =
+''Cloud storage'' is the delivery of Computer data storage|data storage Everything as a service|as a service (including database-like services), often billed on a utility computing basis (e.g. per gigabyte per month).
+
+
+
+ Database (Amazon SimpleDB, Google App Engine's BigTable datastore)
+ Network attached storage (MobileMe iDisk component, Nirvanix CloudNAS)
+ Synchronisation (Live Mesh ''Live Desktop'' component, MobileMe Push technology|push functions)
+ Web service (Amazon Simple Storage Service, Nirvanix SDN)
+
+
+
+
+
+Traditional storage vendors have recently begun to offer their own flavor of cloud storage, sometimes in conjunction with their existing software products (e.g. Symantec's 
+ Roles 
+= Provider =
+A ''cloud computing provider'' or ''cloud computing service provider'' owns and operates ''cloud computing'' systems serve someone else. Usually this needs building and managing new data centers. Some organisations get some of the benefits of cloud computing by becoming "internal" cloud providers and servicing themselves, though they do not benefit from the same economies of scale and still have to engineer for peak loads. The barrier to entry is also significantly higher with Capital (economics)|capital expenditure required and billing and management creates some overhead. However, significant operational efficiency and quickness advantages can be achieved even by small organizations, and server consolidation and Platform virtualization|virtualization rollouts are already in progress.  Amazon.com was the first such provider, modernising its data centers which, like most computer networks were using as little as 10% of its capacity at any one time just to leave room for occasional spikes.  They opened it up to outsiders as Amazon Web Services in 2002 on a utility computing basis.
+
+A user is a consumer of ''cloud computing''.
+
+= Vendor =
+A vendor sells products and services that facilitate the delivery, adoption and use of ''cloud computing''.
+ Computer hardware (Dell, Hewlett Packard|HP, IBM, Sun Microsystems)
+ Computer storage|Storage (3PAR, EMC, MogileFS)
+ Infrastructure (Solace systems|Solace Systems, Layer 7 Technologies, F5 Networks)
+ Computer software (3tera, GigaSpaces, Hadoop)
+ Operating systems (Windows Azure, Linux and Solaris (operating system)|Solaris) Platform virtualization|Platform virtualisation (Citrix, Microsoft, VMware, Sun xVM)
+
+
+ Standards 
+A ''cloud standard'' is one of a number of existing (typically lightweight) open standards that have facilitated the growth of cloud computing, including: '''Application'''
+ Communications (HTTP, XMPP)
+ Security (OAuth, OpenID, Secure Sockets Layer|SSL/Transport Layer Security|TLS)
+ Web syndication|Syndication (Atom (standard)|Atom)
+ '''Client'''
+ Web browser|Browsers (AJAX)
+ Online and offline|Offline (HTML 5)
+ '''Infrastructure'''
+ Platform virtualization|Virtualization (Open Virtualization Format|OVF)
+ '''Platform'''
+ Solution stacks (LAMP (software bundle)|LAMP, Space-based architecture)
+ '''Service'''
+ Information|Data (XML, JSON)
+ Web Services (Representational State Transfer|REST)
+ '''Storage'''
+
+
+Category:Metaphors

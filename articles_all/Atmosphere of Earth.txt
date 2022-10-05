@@ -1,0 +1,45 @@
+
+
+The most important thing to remember about the Earth and other planets is that ''they do not come from the Sun''. They or their materials were picked up by the Sun's gravitation as it moved through space. The Sun is just composed of hydrogen, with a little bit of helium. Nothing else. The material which makes up planets and their satellites is almost entirely heavier elements whose origin was in earlier Supernova|supernovae explosions. The planets do give off small quantities of hydrogen and helium: this comes from the decay of larger radioactive molecules whose origin is also ancient supernovae.
+
+A complicating factor is the Moon, which was formed by an impact of a large body with the early Earth. This means the origin of life on the Earth would have taken place after the Moon was formed.
+
+The atmosphere is the layer of gases around the Earth. It is held in place by Earth's gravity. It is today  made up mainly of nitrogen (78.1%). It also has plentiful oxygen (20.9%) and small amounts of argon (0.9%), carbon dioxide (~ 0.035%), water vapor, and other gases. The atmosphere protects life on Earth by Absorption|absorbing (taking) ultraviolet rays from the sun. It makes our days cooler and our nights warmer.
+
+Solid particulates, including ash, dust, volcanic ash, etc. are small parts of atmosphere. They are important in making clouds and fog.
+
+The atmosphere does not end at a specific place. The higher above the Earth, the thinner the atmosphere. There is no clear border between the atmosphere and outer space, though the Kármán line is sometimes treated as a border. Even higher, for some purposes the edge of the magnetosphere is treated as a border. 75% of the atmosphere is within  of the Earth's surface.
+
+ History of Earth's atmosphere 
+Originally, the Earth's atmosphere had almost no free oxygen. 
+#The first atmosphere consisted of gases in the solar nebula, mainly hydrogen. There might also have been simple hydrides such as those now found in the gas giants (Jupiter and Saturn): water vapor, methane and ammonia. 
+#The atmosphere gradually changed to mostly carbon dioxide and nitrogen. The lighter gases, like hydrogen and helium, cannot be held by the Earth's gravity, and would escape. For a long time (say two billion years or more), the atmosphere was dominated by carbon dioxide.
+#In the Great Oxygenation Event the atmosphere changed to the kind we have now, with oxygen replacing the carbon dioxide. Our atmosphere is still mostly nitrogen, but most living organisms interact more with oxygen than with nitrogen. Oxygenation began with cyanobacteria making free oxygen by photosynthesis. Most organisms today need oxygen for their respiration: only a few anaerobic organisms can grow without oxygen.Heinrich D. Holland: ''The oxygenation of the atmosphere and oceans.'' In: ''Phil. Trans. R. Soc.'' B, vol. 361, 2006, p. 903–915 
+ Temperature and the atmospheric layers 
+
+
+Some parts of the atmosphere are hot or cold, depending on height. Starting from the surface and climbing straight up, the air gets colder in the troposphere, but then it becomes hotter, higher in the stratosphere. These changes of temperature are divided into layers. These are like layers of an onion. The difference between the layers is the way the temperature changes.
+
+These are the layers of the atmosphere, starting from the ground:
+Troposphere - Starts at the ground. Ends somewhere between . The higher, the colder. Weather in this layer affects our daily life.
+Stratosphere - Starts at . The higher, the hotter. The heat comes from the Ozone layer at the top of the stratosphere. There is little water vapor and other substances in this layer. Airplanes fly in this layer because it is usually stable and air resistance is small.
+Mesosphere - Starts at . The higher, the colder. Winds in this layer are strong, so the temperature is not stable.
+Thermosphere - Starts at  or higher. The higher, the hotter. This layer is very important in radio communication because it helps to reflect some radio waves.
+Exosphere - Above the thermosphere. This is the top layer, and merges into interplanetary space.
+
+Where one layer changes to the next have been named "-pauses." So the tropopause is where the troposphere ends ( high). The stratopause is at the end of the stratosphere. The mesopause is at the end of the mesosphere. 
+These are called boundaries.
+
+The average temperature of the atmosphere at the surface of Earth is .
+
+ Pressure 
+The atmosphere has pressure. This is because even though air is a gas, it has weight. The average atmospheric pressure at sea level is about .
+
+Density and mass
+The density of air at sea level is about 1.2 kilograms per cubic meter.  This density becomes less at higher altitudes at the same rate that pressure becomes less. The total mass of the atmosphere is about 5.1 &times; 1018 kg, which is only a very small part of the Earth's total mass.
+
+ Related pages 
+ Air
+ Template:Life timeline|Life timeline
+
+Category:Atmosphere

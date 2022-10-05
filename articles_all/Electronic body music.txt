@@ -1,0 +1,18 @@
+{{Infobox Music genre
+|name=Electronic body music
+|bgcolor=silver
+|color=black
+|stylistic_origins=Industrial musicSynthpunkSynthpopElectropopPost-punk
+|cultural_origins=Early 1980s, Belgium, United Kingdom, Germany, Canada
+|instruments=synthesizer - drum machine - music sequencer|sequencer - keyboard instrument|keyboard - sampler (musical instrument)|sampler
+|popularity=Small
+|derivatives= New beat - Goa trance music|Goa trance - Dark electro - Electro-industrial - Futurepop
+|subgenrelist=List of electronic music genres
+|subgenres=
+|fusiongenres=
+|regional_scenes=
+|other_topics=}}
+
+'''Electronic body music''' ('''EBM''', also known as '''aggropop''') is a music genre that mixes together parts of industrial music and electronic dance music.Dan Sicko, ''Techno Rebels: The Renegades of Electronic Funk'', Billboard Books, 1999, p. 142. It first became popular in Belgium.
+
+Category:Electronic body music| 

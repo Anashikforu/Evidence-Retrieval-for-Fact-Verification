@@ -1,0 +1,10 @@
+
+| direction_b = East
+| terminus_b =  near Birmingham, Alabama|Birmingham, AL
+| browse = 
+| states = Mississippi, Alabama
+| counties = '''MS:''' DeSoto County, Mississippi|DeSoto, Marshall County, Mississippi|Marshall, Benton County, Mississippi|Benton, Union County, Mississippi|Union, Pontotoc County, Mississippi|Pontotoc, Lee County, Mississippi|Lee, Itawamba County, Mississippi|Itawamba'''AL:''' Marion County, Alabama|Marion, Walker County, Alabama|Walker, Jefferson County, Alabama|Jefferson
+}}
+'''Interstate 22''' is an Interstate Highway in the United States. It goes from Memphis, Tennessee, east to Birmingham, Alabama, on U.S. Route 78.
+
+Category:Memphis, Tennessee

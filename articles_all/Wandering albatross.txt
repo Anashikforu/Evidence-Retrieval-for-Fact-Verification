@@ -1,0 +1,24 @@
+{{Taxobox
+| name = Wandering albatross
+| status = VU | status_system = IUCN3.1
+| status_ref = BirdLife International (2008)
+| trend = down
+| image = 070226 wandering albatross off Kaikoura 3.jpg
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = bird|Aves
+| ordo = Procellariiformes
+| familia = Diomedeidae
+| genus = '' Diomedea ''
+| binomial = ''Diomedea exulans''
+| binomial_authority = (Carolus Linnaeus|Linnaeus, 1758)Brand, S. (2008)}}
+
+
+The '''wandering albatross''' is a large seabird of the family (biology)|family Diomedeidae. It is also called the snowy albatross or white-winged albatross.Clements, James 2007. ''The Clements Checklist of the Birds of the World''. 6th ed, Ithaca, NY: Cornell University Press. 
+
+ Behavior 
+Wandering albatross live together when breeding, which they do once every two years. They are Monogamy|monogamous, and usually mate for life. They can live for over 50 years,
+= Communication =
+They make many kinds of noises, such as screams, whistles, grunts and bill clapping. When they are looking for a mate, they spread their wings, wave their heads and tap their bills together.
+
+Category:Procellariiformes

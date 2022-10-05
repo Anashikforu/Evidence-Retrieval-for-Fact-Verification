@@ -1,0 +1,33 @@
+
+'''Temperature''' is how hot or cold  something is. Our bodies can feel the difference between something which is hot and something which is cold. To measurement|measure temperature more accurately, a thermometer can be used. Thermometers use a temperature scale to record how hot or cold something is. The scale used in most of the world is in degrees Celsius, sometimes called "centigrade". In the United States|USA and some other countries and locations, degrees Fahrenheit  are more often used while scientists mostly use kelvins  to measure temperature because it never goes below zero.
+
+science|Scientifically, temperature is a physical quantity which describes how quickly molecules are moving inside a material. In solids and liquids the molecules are vibrating around a fixed point in the substance, but in gases they are in free flight and bouncing off each other as they travel. In a gas the temperature, pressure and volume of the gas are closely related by a law of physics.
+
+Useful temperatures
+When they invented temperature scales scientists found there were certain things which were always around the same temperature:
+
+Water freezes at a temperature of 0 °C, 32 °F, or 273.15 K.
+The temperature inside the human body is close to 37 °C or 98 °F.
+Water boils at 100 °C, 212 °F, or 373.15 K.
+The coldest possible temperature is absolute zero. Absolute zero is 0 K,-459 °F, or -273.15 °C. At absolute zero molecules and atoms come to rest and so have no heat energy.
+
+Temperature  and heat
+Temperature is not the same as heat. Heat is energy which moves from one thing, cooling it, to another, heating it. Temperature is a measure of the movements (vibration) of the molecules inside a thing. If the thing has a high temperature, it means the average speed of its molecules is fast. A thing may have a high temperature but because it contains very few or light atoms it has very little heat.
+
+Heat capacity
+The amount of heat that is needed to make a substance one degree higher is called its heat capacity. Different substances have different heat capacities. For example, a kilogram of water has more heat capacity than a kilogram of steel. This means that more energy is needed to make the temperature of water 1°C hotter than is needed to make the temperature of steel 1°C hotter.
+
+Weather
+Temperature is also important in weather and climate. It is related to the amount of heat energy in the air. Isotherm maps are used to show how temperature is different across an area. Temperature will be different during different times of day, different seasons and in different places. It is affected by how much heat reaches the place from the suns rays (insolation), how altitude|high the place is above the sea level|level of the sea, and how much heat is brought to the place by the movement of winds and ocean currents.
+
+Related pages
+
+ Dew point
+ Relative humidity
+
+Category:Temperature| 
+Category:Weather measurements
+Category:Heat
+Category:Physical quantity
+Category:Thermodynamics
+Category:Basic physics ideas

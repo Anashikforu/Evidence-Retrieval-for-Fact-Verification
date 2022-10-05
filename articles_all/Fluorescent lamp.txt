@@ -1,0 +1,30 @@
+
+
+A '''fluorescent lamp''', is a type of lightbulb|electric light (lamp) that uses ultraviolet emitted by mercury vapor to excite a phosphor, which emits visible light. There are two general types, traditional fluorescent and Compact fluorescent lamp|compact fluorescent. This article is about traditional (straight tube shaped) fluorescent lamps.
+
+The purchase price of a fluorescent lamp is often much higher than an incandescent lamp of the same output, and the light from fluorescent lamps looks different to light from incandescent lamps.
+
+ How it works 
+An Electricity|electric current is applied to Mercury (element)|mercury vapor inside the tube, causing it to emit ultraviolet (UV) light. A phosphor on the walls of the tube wikt:absorb|absorbs the ultraviolet light.  This causes an electron to jump up to an orbital with a higher energy.  When the electron drops back down to its normal orbital, the phosphor re-emits its energy as visible light.
+
+ The ballast 
+
+The ballast prevents too much electricity from flowing through the tube. It also starts the lamp with a high voltage for a split second when it is switched on. The ballast is located inside the fixture in traditional fluorescent tube fixtures. In compact fluorescent bulbs the ballast is in or near the base of the bulb. There are two types of ballasts, magnetic and electronic. Magnetic ballasts have mostly fallen out of use, as they are less efficient than electronic ballasts, they cause the bulb to flicker, and they do not start instantly. Electronic ballasts were at one time more expensive than magnetic ballasts, but now the price is about the same.
+
+Lifespan
+The average rated life of a fluorescent light bulb is 8 to 15 times longer that of incandescent light bulbs.
+
+The lifetime of any lamp depends on many factors, including operating voltage, manufacturing defects, wikt:exposure|exposure to voltage spikes, Shock (mechanics)|mechanical shock, frequency of cycling on and off, lamp orientation, and ambient operating temperature. The life of a fluorescent lamp is significantly shorter if it is turned on and off frequently.  In the case of a 5-minute on/off cycle the lifespan of a fluorescent lamp can be reduced to "close to that of incandescent light bulbs". The U.S. Energy Star program suggests that fluorescent lamps be left on when leaving a room for less than 15 minutes so that this problem does not happen. If the light must be switched on and off often, Cold cathode fluorescent lamps can be used. Cold cathode fluorescent lamps are designed for many more on/off cycles than standard lamps.
+
+ Mercury content and recycling 
+The mercury inside the tube is Poison|toxic and makes these bulbs hazardous waste. The bulbs must be taken to a recycling center after they stop working. During normal use, the mercury cannot escape, although it will escape if the bulb is broken. If a single bulb breaks, it is not usually a problem. It is recommended to open windows to air out the room, and to clean up broken glass with duct tape instead of a vacuum cleaner.
+
+ Alternatives 
+Many people and businesses do not want to use fluorescent lamps due to their mercury content. Halogen lamp|Halogen, Light-emitting diode|LED, and traditional incandescent bulbs are possible alternatives.
+
+LED tubes can be installed in fluorescent tube fixtures, but sometimes an electrician needs to rewire the fixture first to remove the ballast.
+
+Related pages
+ Energy efficiency
+
+Category:Lamps

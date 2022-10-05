@@ -1,0 +1,39 @@
+
+{{Infobox Planet
+ | image=ixion planetoid nasa.jpg
+ | symbol = file:Ixion symbol (bold).svg|24px
+ | bgcolour=#FFFFC0 |
+ | name=28978 Ixion
+ | discoverer = Deep Ecliptic Survey
+ | discovered = 22 May, 2001
+ | mp_name = 28978 Ixion
+ | alt_names=
+ | mp_category = trans-Neptunian object|TNO (plutino)
+|orbit_ref =
+ | epoch=31 December, 2006 (Julian day|JD 2&nbsp;454&nbsp;100.5)
+ | semimajor=5&nbsp;935.999 Giga|Gm (39.680 Astronomical unit|AU)
+ | perihelion=4&nbsp;501.495 Gm (30.091 AU)
+ | aphelion=7&nbsp;370.503 Gm (49.269 AU)
+ | eccentricity=0.242
+ | period=91&nbsp;295.847 day|d (249.95 Julian year (astronomy)|a)
+ | inclination=19.584degree (angle)|°
+ | asc_node=71.028°
+ | arg_peri=298.779°
+ | mean_anomaly=268.546°
+ | avg_speed=4.66 km/second|s
+ | dimensions=~650 
+ | surface_area=< 2.24 km²
+ | volume=< 3.15 km³
+ | mass=≈3? kilogram|kgUsing the 2007 Spitzer Space Telescope|Spitzer spherical radius of 325 km; Volume#Volume formulas|volume of a sphere  an assumed density of 2 g/cm³ yields a mass (m=dv) of 2.8E+20 kg
+ | density=2.0? g/cubic centimetre|cm³
+ | surface_grav=< 0.229&nbsp;7? m/s²
+ | escape_velocity=< 0.434&nbsp;6? km/s
+ | rotation=? d
+ | spectral_type =(moderately red; B-V=1.03, V-R=0.61)
+ | magnitude = 19.6 (Opposition (astronomy and astrology)|opposition)
+ | abs_magnitude=3.2
+ | albedo=0.15-0.37
+ | single_temperature=≈44 kelvin|K}}
+'''28978 Ixion''' is a Kuiper belt object that was found on 22 May, 2001. Ixion is a plutino (an object that has a 2:3 orbital resonance with Neptune) and could be a dwarf planet. Astronomers think that it has a diameter of about 800&nbsp;km, which makes it the third biggest plutino. It is named after Ixion, a figure from Greek mythology. Before it was named '''Ixion''', it had the provisional designation ''''''.
+
+Category:Kuiper belt objects

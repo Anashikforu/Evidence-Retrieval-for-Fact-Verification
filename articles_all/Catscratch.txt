@@ -1,0 +1,31 @@
+
+{{infobox television
+ | show_name = Catscratch
+ | image = 
+ | caption = 
+ | format = Children's television series
+ | runtime = 22 minutes
+ | creator = Doug TenNapel
+ | starring = Wayne KnightRob PaulsenKevin McDonald 
+ | country = United States
+ | company = Nickelodeon Animation Studios
+ | network = Nickelodeon (TV channel)|Nickelodeon
+ | first_aired = 
+ | last_aired =  
+ | status = 
+ | num_seasons = 1
+ | num_episodes = 20
+ | list_episodes = List of Catscratch episodes
+ |}}
+'''''Catscratch''''' is a cartoon television show that aired on Nickelodeon and Nicktoons Network from 2005 to 2007.
+
+
+
+
+
+
+Category:American children's television series
+Category:Nickelodeon
+Category:English-language television programs
+Category:2005 television series debuts
+Category:2007 television series endings

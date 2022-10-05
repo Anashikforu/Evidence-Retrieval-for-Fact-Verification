@@ -1,0 +1,19 @@
+{{Taxobox
+| name = Gooseberry
+| image = Stachelbeeren.jpg
+| image_caption = cultivated Eurasian gooseberry
+| regnum = Plantae
+| divisio = Flowering plant|Magnoliophyta
+| classis = Magnoliopsida
+| ordo = Saxifragales
+| familia = Grossulariaceae
+| genus = '''''Ribes'''''
+| binomial = ''Ribes uva-crispa''}}
+
+The '''gooseberry''' is a type of fruit. It has a greenish color. It looks like an ungrown clementine. It belongs to the same family as the currant. Gooseberries are sometimes informally called goosegogs in the British Isles.
+
+
+
+
+Category:Berries
+Category:Ribes

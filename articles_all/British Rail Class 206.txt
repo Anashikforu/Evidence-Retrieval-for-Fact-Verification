@@ -1,0 +1,32 @@
+{{Infobox DMU
+|name = British Rail Class 206 
+|image = Tadpole unit at guildford.jpg
+|imagesize = 240px
+|background = #0033cc
+|caption = Class 206 3R unit at Guildford, June 1979
+|Manufacturer =
+|Operator = British Rail
+|Formation = unknown 
+|Built =6
+|LinesServed = 
+|InService = 1964 – early 1990s 
+|CarLength = 
+|CarWidth = 
+|CarHeight = 
+|Weight = 
+|Capacity = 
+|MaxSpeed = unknown 
+|Gauge = 
+|Traction = 
+|Engine = English Electric 4-cylinder type 4SRKT Mark II of 500 bhp at 850 rpm 
+|SafetySystem=
+ |}}
+
+The British Rail '''Class 206''' or '''3R''' was a type of diesel-electric multiple unit (DEMU) first created in 1964. They were re-formed from British Rail Class 201|Class 201 and British Rail Class 416|Class 416 vehicles for use on Reading railway station|Reading-Redhill, Surrey|Redhill-Tonbridge (North Downs Line) services. Six three-car sets were created, numbered '''1201–1206'''.  They were nicknamed 'Tadpole' units because of the contrast between the wide-bodied 416 'head' and the narrow-bodied 206 'tail'.
+
+
+
+
+
+
+Category:British Rail diesel multiple units|206

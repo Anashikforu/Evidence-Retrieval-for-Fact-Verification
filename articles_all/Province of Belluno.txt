@@ -1,0 +1,159 @@
+
+The '''Province of Belluno''' (; German language|German: ''Provinz Belluno'') is a Provinces of Italy|province in the Veneto region of Italy. Its Capital city|capital is the city of Belluno.
+
+Geography
+The province of Belluno has an area of  high.
+
+The province is rich in water, with the presence of the wide Piave river that flows through the province from north to south.
+
+The southern part of the province is called ''Valbelluna'', the widest and most populous valley of the province.
+
+
+
+The province of Belluno borders to the north with Austria (Tyrol (state)|Tyrol and Carinthia (state)|Carinthia), to the east with the Friuli-Venezia Giulia|Friuli Venezia Giulia region (Province of Udine|Udine and Province of Pordenone|Pordenone provinces), to the south with the Province of Treviso|Treviso and Province of Vicenza|Vicenza provinces) and to the west and northwest with the Trentino-Alto Adige/Südtirol region (Province of Trento|Trento and South Tyrol provinces).
+
+
+
+Population
+ inhabitants/km².
+
+
+'''Evolution of the population in the Belluno province'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:250000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2016 text:2016
+
+PlotData=
+ color:barra width:30 align:left
+
+  bar:1961 from:0 till: 234921
+  bar:1971 from:0 till: 221155
+  bar:1981 from:0 till: 220335
+  bar:1991 from:0 till: 212085
+  bar:2001 from:0 till: 209550
+  bar:2011 from:0 till: 210277
+  bar:2016 from:0 till: 206856
+
+PlotData=
+  bar:1961 at: 234921 fontsize:S text: 234,921 shift:(-13,5)
+  bar:1971 at: 221155 fontsize:S text: 221,155 shift:(-18,5)
+  bar:1981 at: 220335 fontsize:S text: 220,335 shift:(-18,5)
+  bar:1991 at: 212085 fontsize:S text: 212,085 shift:(-18,5)
+  bar:2001 at: 209550 fontsize:S text: 209,550 shift:(-18,5)
+  bar:2011 at: 210277 fontsize:S text: 210,277 shift:(-18,5)
+  bar:2016 at: 206856 fontsize:S text: 206,856 shift:(-18,5)
+
+
+
+= Language minorities =
+In the province, there are two language Minority group|minorities, which are now recognized by law:
+a Ladin language|Ladin (a Romance languages|Romance language) minority is present in the three communes of Colle Santa Lucia, Livinallongo del Col di Lana and Cortina d'Ampezzo.
+a German language|German-speaking minority in the commune of Sappada, Farra d'Alpago and Tambre.
+
+ Municipalities 
+There are 64 Municipality|municipalities (or ''Comune|comuni'') in the province; they are:
+
+# Agordo
+# Alano di Piave
+# Alleghe
+# Alpago
+# Arsiè
+# Auronzo di Cadore
+# Belluno
+# Borca di Cadore
+# Calalzo di Cadore
+# Canale d'Agordo
+# Cencenighe Agordino
+# Cesiomaggiore
+# Chies d'Alpago
+# Cibiana di Cadore
+# Colle Santa Lucia
+# Comelico Superiore
+# Cortina d'Ampezzo
+# Danta di Cadore
+# Domegge di Cadore
+# Falcade
+# Feltre
+# Fonzaso
+# Gosaldo
+# La Valle Agordina
+# Lamon
+# Lentiai
+# Limana
+# Livinallongo del Col di Lana
+# Longarone
+# Lorenzago di Cadore
+# Lozzo di Cadore
+# Mel
+# Ospitale di Cadore
+# Pedavena
+# Perarolo di Cadore
+# Pieve di Cadore
+# Ponte nelle Alpi
+# Quero Vas
+# Rivamonte Agordino
+# Rocca Pietore
+# San Gregorio nelle Alpi
+# San Nicolò di Comelico
+# San Pietro di Cadore
+# San Tomaso Agordino
+# San Vito di Cadore
+# Santa Giustina
+# Santo Stefano di Cadore
+# Sappada
+# Sedico
+# Selva di Cadore
+# Seren del Grappa
+# Sospirolo
+# Soverzene
+# Sovramonte
+# Taibon Agordino
+# Tambre
+# Trichiana
+# Val di Zoldo
+# Vallada Agordina
+# Valle di Cadore
+# Vigo di Cadore
+# Vodo di Cadore
+# Voltago Agordino
+# Zoppè di Cadore
+
+
+=Largest municipalities=
+The following shows the 10 Comune|''comuni'' with the population, and the area and altitude.
+
+
+
+Gallery
+
+
+File:Belluno dal Serva - panoramio.jpg|Overview of Belluno.
+File:Belluno Palazzo dei Rettori 23 Febbraio 2014 - panoramio.jpg|''Palazzo dei Rettori'', Belluno.
+File:Cortina d'Ampezzo - panoramio (2).jpg|Cortina d'Ampezzo.
+File:DBPedavena.jpg|Pedavena, Belluno province.
+
+
+
+Category:Provinces of Veneto|Belluno

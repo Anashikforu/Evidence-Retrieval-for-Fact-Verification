@@ -1,0 +1,129 @@
+
+'''Haute-Savoie''' is a departments of France|département in the Auvergne-Rhône-Alpes regions of France|region of southeastern France, bordering Switzerland and Italy.
+
+ Name 
+Before 1860, the territory of the modern Haute-Savoie and Savoie departments had been part of the Kingdom of Sardinia, as a Duchy, since 1713. Annexation of the region by France was made in 1860. In that year, the Emperor Napoléon III divided the territory in two departments: ''Savoie'', to the south, with the city of Chambéry, and ''Haute-Savoie'', to the north, with the city of Annecy.
+
+''Haute'' ("High") in the name Haute-Savoie is not because of the altitude but because of its position, to the north, in the territory.
+
+History
+The department of Haute-Savoie was created in 1860 from the northern part of the Duchy of Sardinia with four Arrondissements of France|''arrondissements'': Annecy, Bonneville, Saint-Julien and Thonon. The Capital city|capital was Annecy.
+
+On 10 September 1926, the ''arrondissement'' of Saint-Julien was eliminated but became again an arrondissement in 1933.
+
+During World War II, the department was occupied by the Fascism|fascist Italy, from November 1942 to September 1943.
+
+Geography
+The Haute-Savoie is part of the Auvergne-Rhône-Alpes Regions of France|region. It has an area of .
+
+The department borders with the Ain and Savoie departments, both in the Auvergne-Rhône-Alpes region, and with Switzerland and Italy.
+
+
+
+In the territory of the department is a part of the ''Mont Blanc massif'', on the border with Italy. The average altitude of the department is of about  high, the highest point of France, Italy and of Western Europe.
+
+The Haute-Savoie department is within the Drainage basin|watershed of the Rhône River|Rhône river but with short rivers. There are two important lakes in the department: the Lake Geneva, shared with Switzerland, and the Lake Annecy.
+
+=Climate=
+The Köppen climate classification type for the climate at Annecy is an "Oceanic climate" (also known as Maritime Temperate climate) and of the subtype '''Cfb'''.
+
+Administration
+Haute-Savoie is managed by the ''Departmental Council of Haute-Savoie'' in Annecy. The department is part of the Auvergne-Rhône-Alpes region.
+
+=Administrative divisions=
+There are 4 Arrondissements of France|''arrondissements'' (districts), 17 Cantons in France|''cantons'' and 281 Communes in France|''communes'' (Municipality|municipalities) in Haute-Savoie.
+
+
+
+
+
+The following is a list of the 17 cantons of the Haute-Savoie department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+# Canton of Annecy-1|Annecy-1 (7401)
+# Canton of Annecy-2|Annecy-2 (7402)
+# Canton of Annecy-le-Vieux|Annecy-le-Vieux (7403)
+# Canton of Annemasse|Annemasse (7404)
+# Canton of Bonneville|Bonneville (7405)
+# Canton of Cluses|Cluses (7406)
+# Canton of Évian-les-Bains|Évian-les-Bains (7407)
+# Canton of Faverges|Faverges (7408)
+# Canton of Gaillard|Gaillard (7409)
+# Canton of Le Mont-Blanc|Le Mont-Blanc (7410)
+# Canton of La Roche-sur-Foron|La Roche-sur-Foron (7411)
+# Canton of Rumilly|Rumilly (7412)
+# Canton of Saint-Julien-en-Genevois|Saint-Julien-en-Genevois (7413)
+# Canton of Sallanches|Sallanches (7414)
+# Canton of Sciez|Sciez (7415)
+# Canton of Seynod|Seynod (7416)
+# Canton of Thonon-les-Bains|Thonon-les-Bains (7417)
+
+
+Demographics
+The inhabitants of Haute-Savoie are known, in French language|French, as ''Haut-Savoyards'' (women: ''Haut-Savoyardes'').
+
+Haute-Savoie had a population, in 2014, of 783,127, for a population density of  inhabitants/km2. The ''arrondissement'' of Annecy, with 276,382 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Haute-Savoie'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+ImageSize  = width:400 height:373
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:800000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:100000 start:0
+ScaleMinor = gridcolor:lightgrey increment:50000 start:0
+BackgroundColors = canvas:sfondo
+BarData=
+  bar:1968 text:1968
+  bar:1975 text:1975
+  bar:1982 text:1982
+  bar:1990 text:1990
+  bar:1999 text:1999
+  bar:2008 text:2008
+  bar:2014 text:2014
+PlotData=
+  color:barra width:30 align:left
+  bar:1968 from:0 till: 378550
+  bar:1975 from:0 till: 447795
+  bar:1982 from:0 till: 494505
+  bar:1990 from:0 till: 568286
+  bar:1999 from:0 till: 631679
+  bar:2008 from:0 till: 716277
+  bar:2014 from:0 till: 783127
+PlotData=
+ bar:1968 at: 378550 fontsize:S text: 378,550 shift:(-12,10)
+ bar:1975 at: 447795 fontsize:S text: 447,795 shift:(-18,5)
+ bar:1982 at: 494505 fontsize:S text: 494,505 shift:(-18,5)
+ bar:1990 at: 568286 fontsize:S text: 568,286 shift:(-18,5)
+ bar:1999 at: 631679 fontsize:S text: 631,679 shift:(-18,5)
+ bar:2008 at: 716277 fontsize:S text: 716,277 shift:(-18,5)
+ bar:2014 at: 783127 fontsize:S text: 783,127 shift:(-18,5)
+
+
+
+The ''Communes of France|communes'' in the department with more inhabitants are:
+
+
+
+
+Gallery
+
+File:Annecy vue du mont Veyrier.jpg|Annecy and Lake Annecy.
+File:Château de Bonneville.jpg|Bonneville castle.
+File:St Julien en Genevois Hotel de Ville.JPG|The city hall of Saint-Julien-en-Genevois.
+File:Thonon-les-Bains - village des pecheurs 2.JPG|Thonon-les-Bains - fishermen town.
+File:Thonon-les-Bains et Mont-Blanc.JPG|Thonon-les-Bains and the Mont-Blanc.
+
+
+Related pages
+ Arrondissements of the Haute-Savoie department
+ Communes of the Haute-Savoie department
+
+Category:Departments in Auvergne-Rhône-Alpes

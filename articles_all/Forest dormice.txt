@@ -1,0 +1,35 @@
+
+{{Taxobox | name = Forest dormouse
+| fossil_range = Middle Pleistocene - Recent
+| image = Dryomys nitedula.jpg
+| image_caption = ''Dryomys nitedula''
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| subfamilia = Leithiinae
+| genus = '''''Dryomys'''''
+| genus_authority = Oldfield Thomas|Thomas, 1906
+| subdivision_ranks = Species
+| subdivision = ''Dryomys laniger''
+''Dryomys niethammeri''
+''Dryomys nitedula''}}
+
+The '''forest dormice''', genus '''''Dryomys''''', are a genus of dormouse found throughout much of Eurasia.  They are usually found in forests or thickets.  
+
+The length of the head and body is .
+
+ Natural history 
+These dormice hibernation|hibernate in tree hollows or in burrows. At night they nest in low branches or shrubs.  They spend most of their lives in trees. They are nocturnal animals.  
+
+They are omnivore|omnivorous feeding on seeds, acorns, buds, invertebrates, eggs, and baby birds.  
+
+Forest dormice in southern areas breed from March to December. Forest dormice in northern areas breed from May to August. Gestation takes 21-30 days and 2-5 young are born at a time.
+
+ Species 
+Woolly dormouse - ''Dryomys laniger''
+Niethammer's dormouse - ''Dryomys niethammeri''
+Forest dormouse - ''Dryomys nitedula''
+
+Category:Mammals of Pakistan

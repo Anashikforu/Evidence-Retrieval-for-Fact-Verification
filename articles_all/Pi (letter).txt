@@ -1,0 +1,11 @@
+
+
+
+'''Pi''' (uppercase/lowercase '''Π π'''), is the letter of the Greek alphabet, used to represent the "p" sound in Ancient Greek|Ancient and Modern Greek language|Modern Greek. In the system of Greek numerals, it has a value of 80. Letters that came from it include the Roman P and Cyrillic П.
+
+In mathematics, the uppercase pi is used for the Pi product operator (for example. \Pi_{i=1}^5 i  = 5!),
+
+ Related pages 
+ Phi
+ Tau
+

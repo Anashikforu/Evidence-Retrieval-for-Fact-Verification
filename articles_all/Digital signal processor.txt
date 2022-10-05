@@ -1,0 +1,14 @@
+
+
+Image:DSP block diagram.svg|right|thumb|400px|A simple digital processing system, Analog-to-digital converter|ADC converts analog signal to digital, then Digital-to-analog converter|DAC returns it back to analog format after processing
+
+A '''digital signal processor''' ('''DSP''' or '''DSP micro''') is a specialized microprocessor designed specifically for digital signal processing, generally used in real-time computing.
+
+Digital signal processing algorithms require a large number of Mathematics|mathematical operations to be performed quickly on a set of data.  Signals are converted from Analog-to-digital converter|analog to digital, manipulated digitally, and then converted again to form Digital-to-analog converter|digital to analog, as shown in the diagram.  Many digital signal processing applications have Real-time computing|real-time constraints; that is, for the system to work, the DSP operation must be completed within some time limit.
+
+The microarchitecture of a digital signal processor is optimized specifically for digital signal processing applications.
+
+Related pages
+Digital Signal Controller
+
+Category:Digital signal processing

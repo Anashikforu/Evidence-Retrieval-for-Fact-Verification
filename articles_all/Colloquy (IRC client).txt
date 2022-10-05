@@ -1,0 +1,9 @@
+'''Colloquy''' is an IRC client that first came out in 2005. The newest stable, or good version of IceChat is 2.1 that was made in 2007. Colloquy is free which means it does not cost any money to use. The programming language Colloquy is made in is Objective-C. It is software license|licensed as GNU General Public License|GPL.
+
+Related pages
+List of IRC clients
+
+
+
+
+Category:IRC clients

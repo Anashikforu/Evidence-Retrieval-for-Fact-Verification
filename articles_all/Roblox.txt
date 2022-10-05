@@ -1,0 +1,68 @@
+
+
+
+'''''Roblox''''' is an online Video game|game Computing platform|platform and game creation system made by the Roblox Corporation. It was created by David Baszucki and Erik Cassel in 2004 and released in 2006. The old name for Roblox was Dynablocks. 
+
+It allows players to create games and play games created by others, with many different types of games available. Roblox can be used on most devices such as iOS, Xbox (console)|XBOX, or PlayStation|Playstation, but it cant be played on a browser (Example: Google Search|Google). ''Roblox'' itself is free to play, however, virtual accessories can be purchased in the store using #Virtual items and currency|"Robux", a currency which costs real money to obtain.
+
+''Roblox'' has over 164 million monthly active players and began to grow fast in 2021. It has 43.2 million daily active users worldwide. This is an increase from 19.1 million daily active users by the end of 2019.
+
+
+ History 
+
+= 2006-2009 =
+Roblox had a big change in 2006. In January 2006, Roblox removed their special points and made multiplayer, but the API was never used until March 2006. In February 2006, Roblox left beta and was made free for all players. In September 2006, Roblox made changes to the multiplayer API so that players could make their own multiplayer games for free instead of the Roblox developers making them. 
+
+In May 2007, the Roblox developers began making virtual items, and its first virtual item was a top hat. Roblox also started the Builders Club which is a paid membership.
+
+Guest mode, which is for players that want to play Roblox without making an account, was introduced in 2008. Later, higher forms of the Builders Club (known as the Turbo Builders Club and the Outrageous Builders Club) were started in 2009.
+
+= 2010 =
+In 2010, Roblox Studio was changed so that game developers could understand its features easily.
+and new Roblox hats got released
+
+= 2011 =
+In 2011, Roblox released its first commercial. The commercial had the well-known quote, "'''IT'S FREE'''."
+=2012=
+On 1 April 2012,  Roblox was hacked, It caused the Roblox website to be shut down that day. On 2 April 2012, the website was recovered.
+
+= 2013 =
+In 2013, Roblox added dynamic lighting. Its purpose was to make more realistic lighting. This update would eventually receive more updates in the coming years.
+
+= 2015-2016 =
+In June 2015, Roblox released Smooth Terrain which made the terrain (such as sand, grass, water, etc.) more cooler looking. 
+
+On 14 April 2016, another currency on Roblox, Tix was removed.
+
+= 2017 =
+In January 2017, Roblox changed their logo. The game's YouTube channel also released a music video to showcase it.
+
+In October 2017, Roblox removed Guest Mode.
+
+= 2019 =
+In 2019, Builders Club was replaced with Roblox Premium.
+
+= 2020 =
+In December 2020, Roblox announced that players would soon no longer need Premium to upload clothing, but instead, pay a fee for 10 Robux per upload. The change was added in March 2021.
+
+= 2021 =
+In May 2021, an unknown user filed a class action lawsuit against the Roblox Corporation for supposedly scamming players for not giving out refunds when banned items get deleted.
+In June 2021, a group of music publishers sued the Roblox company for mass copyright infringement (using many copyrighted songs without being allowed to), with the publishers seeking 200 million US dollars from them.
+
+In August 2021, Roblox bought the development team of a communication app known as Guilded for 90 million USD.
+
+Game creation
+Roblox lets its players create their own games using its own separate app, Roblox Studio. Players can build anything they want to using the Studio, and then publish their game to the Roblox website for anyone to play. 
+
+ Virtual items and currency 
+Players on Roblox can buy virtual items from the Catalog using virtual currency named 'Robux'. This currency is obtained initially by buying a Roblox Premium membership or from a gift card, but can also be made by selling items like gamepasses, or accessories, which other players can buy with their own Robux. It can be used by players to buy accessories and items for their character, or in game benefits.
+
+Another form of currency that was discontinued was the Tix, also known as Tickets. All players could get a few Tix each day they log into Roblox, and trade those Tix in to get Robux. Tix were removed from the game in March 2016. 
+
+Membership
+
+Builders Club was Roblox's first membership club which could only be used through a purchase. Builders Club gave its members more features in Roblox, such as earning its virtual currency called Robux, and the ability to trade items. Another thing players could do was sell Limited items (buy-able and sell-able items on the Avatar Shop). There were three types of Builders Club: Classic, Turbo, and Outrageous. Classic was the original Builders Club type and Outrageous was the newest. Players would either buy it monthly or annually. 
+
+In 2019, Builder's Club was removed and replaced with Premium. Premium is very much like the original Builders Club except it gives players Robux every month instead of daily. Premium players also get access to perks in select games.
+
+Category:Online games

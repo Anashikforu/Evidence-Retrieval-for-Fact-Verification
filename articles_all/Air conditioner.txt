@@ -1,0 +1,69 @@
+Image:Single-room AC unit-external.jpg|thumb|The external section of a generic single-room air conditioning unit. For ease of the installation, units are typically fitted into windows or, as in this photograph, a hole in the wallImage:Single-room AC unit-internal.jpg|thumb|right|The internal section of the same unit. The front panel swings down to reveal the controls.
+:''Note:the term "air conditioning" refers to any form of "Heating, ventilation and air-conditioning"''. This article deals specifically with units used as part of a cooling system.''
+
+An '''air conditioner''' is a system or a machine that treats air in a defined, usually enclosed area via a refrigeration cycle in which warm air is removed and replaced with cooler air. 
+
+In construction, a complete system of heating, ventilation, and air conditioning is referred to as HVAC. Whether in homes, offices or vehicles, its purpose is to provide comfort by altering the properties of the air, usually by cooling the air inside. The main function of air conditioner is to change adverse temperature.
+
+History
+
+In the 19th century United Kingdom|British scientist and inventor Michael Faraday discovered that compressing and liquefying ammonia could chill air when the liquefied ammonia was allowed to evaporate. 
+
+In 1842, United States of America|American physician John Gorrie|Dr. John Gorrie used Gas compressor|compressor technology to create ice, which he used to cool air for his patients. He hoped eventually to use his ice-making machine to regulate the temperature of buildings and even considered cooling entire cities with a system of centralized air conditioning units.
+
+Air conditioning applications
+Air conditioning engineers broadly divide air conditioning applications into ''comfort'' and ''process''. 
+
+'''''Comfort applications''''' aim to provide an indoor environment that remains relatively constant in a range Habitable zone|preferred by humans despite changes in external weather conditions or in internal heat loads. 
+
+'''''Process applications''''' aim to provide a suitable environment for an industrial or a commercial process, regardless of internal heat loads and external weather conditions. Although often in the same comfort range, it is the requirements of  the process that determines conditions, not human preference. Process applications include:
+
+ Hospital operating rooms in which air is filtered to high levels to reduce the risk of infection  and the humidity is controlled to limit patient dehydration. Although temperatures are often in the comfort range, some specialist procedures such as open heart surgery require low temperatures (about 18 °C, 64 °F), and others such as neonatal relatively high temperatures (about 28 °C, 82 °F).
+
+ Cleanrooms for the production of integrated circuits and pharmaceuticals  etc. in which extremely high levels of air cleanliness and control of temperature and humidity are required for the success of the process.
+
+ Facilities for breeding laboratory animals. Since many animals normally only reproduce in spring, holding them in rooms which  mirror spring-like conditions can cause them to reproduce all year round.
+
+ Aircraft air conditioning. Although nominally aimed at providing comfort for passengers and the cooling of equipment, aircraft air conditioning presents a special process due to the low air pressure outside the aircraft.
+Other examples include:
+ Data Processing Centers
+ Textile Factories
+ Physical Testing Facilities
+ Plants and Farm Growing Areas
+ Nuclear Facilities
+ Mines
+ Industrial Environments
+ Food Cooking and Processing Areas
+
+In both comfort and process applications, the objective is not only to control temperature (although in some comfort applications this is all that is controlled) but also factors like humidity, air movement and air quality.
+
+ Air conditioning system basics and theories 
+= Refrigeration cycle =
+Image:Heatpump.svg|thumb|300px|A simple stylized diagram of the refrigeration cycle: 1)&nbsp;condensing coil, 2)&nbsp;expansion valve, 3)&nbsp;evaporator coil, 4)&nbsp;compressor.
+
+In the refrigeration cycle, a heat pump|pump transfers heat from a lower temperature source into a higher temperature heat sink. Heat will naturally flow in the opposite direction. This is the most common type of air conditioning.  A refrigerated air conditioning system works in much the same way pumping heat out of the room in which it stands.
+
+This cycle takes advantage of the universal gas law ''PV'' = ''nRT'', where ''P'' is pressure, ''V'' is volume, ''R'' is the universal gas constant, ''T'' is temperature, and ''n'' is the number of molecules of gas (1 mole = 6.022×1023 molecules).
+
+The most common refrigeration cycle uses an electric motor to drive a gas compressor|compressor. In an automobile the compressor is driven by a pulley on the engine's crankshaft, with both using electric motors for air circulation. Since evaporation occurs when heat is absorbed, and condensation occurs when heat is released, air conditioners are designed to use a compressor to cause pressure changes between two compartments, and actively pump a coolant around an enclosed system. The cooling liquid, or refrigerant is pumped into the cooled compartment (the evaporator coil). Low pressure then causes the refrigerant to evaporate taking the heat with it. In the other compartment (the condenser), the refrigerant vapour is compressed and forced through another heat exchange coil, condensed into a liquid which then rejects the heat previously absorbed from the cooled space.
+
+Health implications
+
+Air conditioning has as much influence on human health as any generic heating system. Poorly maintained air-conditioning systems (especially large, centralized systems) can occasionally promote the growth and spread of microorganisms such as ''Legionella pneumophila,'' the infectious agent responsible for Legionnaire's disease.
+In serious heat waves, air conditioning can save the lives of the elderly. Some local authorities have even set up public cooling centers for the benefit of those without air conditioning at home.
+
+ Installation of the conditioner 
+One of the main conditions for the high-quality installation of HVAC equipment is the correct choice of the fixing location of the indoor and outdoor units. Each of the listed modules is distinguished by certain design characteristics, rules for future installation. To install an air conditioner, you need to take into account all the requirements thanks to which the equipment can be further operated in different modes.
+
+You need to 
+ A heavy outdoor unit is not fixed to walls made of aerated concrete;
+ Fasteners on the ventilated part of the facade are using a damping seal. The choice of this particular material is due to the fact that it reduces noise vibration during operation of the external unit;
+ Fixing the support brackets is carried out directly to the wall, and not to the decorative lining or insulation.
+
+The installation of an air conditioner depends on certain criteria, it starts with finding the ideal site for mounting the outdoor unit. To do this, there are several recommendations:
+
+ The external unit is necessarily in the area of free circulation of air flows. 
+ It is important to organize free access for further maintenance and repair of the unit.
+ During operation, exhausted streams of hot air come from the equipment, therefore it must be positioned so that the fumes do not enter the windows of the lower floors.
+
+Category:Engineering

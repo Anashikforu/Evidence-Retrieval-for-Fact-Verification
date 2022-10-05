@@ -1,0 +1,19 @@
+
+
+'''Chromalveolata''' is a eukaryote supergroup first proposed by Thomas Cavalier-Smith as a refinement of his Kingdom (biology)|kingdom '''Chromista''', which was first proposed in 1981.
+
+The origin of the Chromalveolata was thought to be a secondary endosymbiosis between a bikont (cell with two flagella) and a red alga. This union led to plastids containing chlorophyll c. In Cavalier-Smith's classification, the Chromalveolata was one of the six major groups within the eukaryotes.
+ {{citation
+ | last = Adl, Sina M. ''& al''
+ | title = The new higher level classification of eukaryotes with emphasis on the taxonomy of protists
+ | journal = Journal of Eukaryotic Microbiology
+ | year=2005 | volume=52 | issue= 5| pages=399–451
+ |url= | doi = 10.1111/j.1550-7408.2005.00053.x
+| pmid = 16248873
+ | s2cid = 8060916
+ }}
+
+
+The classification has been challenged.
+
+Category:Eukaryotes

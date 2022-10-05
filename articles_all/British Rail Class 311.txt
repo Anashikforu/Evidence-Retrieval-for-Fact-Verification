@@ -1,0 +1,29 @@
+
+
+{{Infobox EMU   
+ |name = British Rail Class 311   
+ |image        = 311104 at a station.jpg
+ |imagesize    = 265px   
+ |caption      = Unit 311104 in blue/grey livery awaiting passengers at Partick station|Partick.   
+ |background   = #012545   
+ |Manufacturer = Cravens   
+ |Formation    = 3 cars per trainset   
+ |Built        = 19    
+ |InService    = 1967 - 1999    
+ |Weight       = Total - 129 tons 
+ |Capacity     = 236 seats   
+ |MaxSpeed     = 75mph (121km/h)    
+ |Gauge        = 
+ |Brakes       = Air (Auto/EP)  
+ |Engine       =    
+ |Operator     = British Rail   
+ }} 
+The British Rail '''Class 311''' alternating current (AC) electric multiple units (EMU) were built by Cravens at Sheffield in 1967. They were intended for use on the line from Glasgow Central railway station|Glasgow Central to Gourock railway station|Gourock and Wemyss Bay railway station|Wemyss Bay, which was electrified in 1967.
+
+
+
+
+
+
+
+Category:British Rail electric multiple units|311

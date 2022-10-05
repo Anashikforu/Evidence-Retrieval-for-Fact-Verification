@@ -1,0 +1,6 @@
+'''''OXO''''' is a tic-tac-toe video game, and one of the first video game ever made. It was made in 1952 for the Electronic Delay Storage Automatic Calculator|EDSAC computer by Alexander S. Douglas for his Ph.D. thesis on human-computer interaction at the University of Cambridge. 
+
+
+
+Category:Puzzle video games
+Category:Early video games and events

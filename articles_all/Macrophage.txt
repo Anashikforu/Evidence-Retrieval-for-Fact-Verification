@@ -1,0 +1,18 @@
+Image:Phagocytosis ZP.svg|thumb|right|250px|'''Steps of a macrophage ingesting a pathogen:'''
+'''a.''' Ingestion through phagocytosis, a phagosome is formed'''b.''' The fusion of lysosomes with the phagosome; the pathogen is broken down by enzymes'''c.''' Waste material is expelled or Assimilation (biology)|assimilated (the latter not pictured)
+
+'''Parts:'''
+'''1.''' Pathogens'''2.''' Phagosome'''3.''' Lysosomes'''4.''' Waste material'''5.''' Cytoplasm'''6.''' Cell membrane
+
+'''Macrophages''', from ''makros'' "large" + ''phagein'' "eat"; abbr. '''MΦ'''  are white blood cells within tissues, produced by the differentiation of monocytes.Human macrophages are about 21 micrometres in diameter. 
+
+Monocytes and macrophages are phagocytes, acting in general immunity. They also trigger specific defense mechanisms (adaptive immunity) of vertebrates. 
+
+Their role is to phagocytosis|phagocytose (engulf and then digest) cellular debris and pathogens either as stationary or as mobile cells. They also stimulate lymphocytes and other immune cells to respond to the pathogen,
+
+ Life cycle 
+When a monocyte enters damaged tissue through the wall of a blood vessel it changes to become a macrophage. Monocytes are attracted to a damaged site by chemical substances, triggered by a range of stimuli.  At some sites such as the testis, macrophages have been shown to populate the organ through proliferation. 
+
+Unlike short-lived White blood cell#Neutrophils|neutrophils, macrophages survive longer in the body, up to several months.
+
+Category:Immunology

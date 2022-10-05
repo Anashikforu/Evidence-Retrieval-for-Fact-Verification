@@ -1,0 +1,24 @@
+{{Infobox London station
+| name = Southbury
+| image_name =
+| railcode = SBU
+| manager = London Overground
+| fare_zone = 5
+| locale = London Borough of Enfield|Enfield
+| borough = London Borough of Enfield|Enfield
+| owner    = Network Rail
+| years1 = 1 October 1891| years2 = 1 October 1909| years3 = 1 March 1915| years4 = 1 July 1919| years5 = 21 November 1960
+| events1 = Opened as '''Churchbury'''| events2 = Closed| events3 = Re-opened| events4 = Closed| events5 = Re-opened as '''Southbury'''
+| platforms= 2
+| railexits0405=0.291
+| railexits0506=0.263
+| railexits0607=0.317}}
+
+'''Southbury railway station''' is in the London Borough of Enfield in North London, and is in Travelcard Zone 5, on the Seven Sisters branch of the Lea Valley Lines. The station, and all trains serving it, is operated by London Overground.
+
+The station is situated close to Middlesex University's Enfield campus at .
+
+Service
+The typical off-peak service is two trains per hour to Cheshunt railway station|Cheshunt, and two trains per hour to Liverpool Street station|London Liverpool Street.
+
+Category:Railway stations served by National Express East Anglia

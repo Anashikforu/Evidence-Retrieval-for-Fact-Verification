@@ -1,0 +1,13 @@
+
+A '''weather radar''' is a type of radar used to show where precipitation (meteorology)|precipitation is. Weather radar can tell the movement of precipitation, what type it is (rain, snow, hail, etc.), and weather forecasting|forecast its future.
+
+Modern weather radars are mostly Doppler radars, which can find the movement of rain drops and the intensity of the precipitation. Both types of information can be used to find the structure of storms and tell if they will cause any severe weather.
+
+Other websites
+
+   
+
+
+
+
+Category:Meteorology

@@ -1,0 +1,23 @@
+{{Taxobox
+| name = Harbor seal
+| status = lc
+| status_system = iucn2.3
+| status_ref = 
+| image = Seehund.jpg
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Mammalia
+| ordo = Carnivora
+| subordo = Pinnipedia
+| familia = Phocidae
+| genus = Phoca
+| binomial = '''''Phoca vitulina'''''
+| binomial_authority = (Carolus Linnaeus|Linnaeus, 1758)
+| range_map = Leefgebied zeehond.JPG
+| range_map_caption = Where the harbor seal lives}}
+
+The '''harbor seal''' (''Phoca vitulina''), also called the '''common seal''', is a Earless seal|true seal. They are found in coastal waters of the northern Atlantic and Pacific ocean as well as Baltic Sea|Baltic and North Seas making them the most wide-ranging of the pinnipeds (walruses, eared seals, and true seals).
+
+The females live longer than the males and females usually live to be 30 to 35, while males usually live up to 20 or 25 years old.
+
+Category:Pinnipeds

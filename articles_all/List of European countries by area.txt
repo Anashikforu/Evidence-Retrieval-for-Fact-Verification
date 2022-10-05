@@ -1,0 +1,46 @@
+This is a '''list of European countries''', by geographical area:
+
+Notes: Some of these countries are also considered part of Asia. Their names are given in ''italics'' and only their European area is given. 
+
+Not all states within the geographical region are part of the European Union, although member states are in the majority. Non-member states are marked with an asterisk (). This currently includes all of the Asian border states.
+
+Some of the smaller countries, marked (†), are represented indirectly in the EU by larger EU members. 
+
+{{smalldiv|{{Pie chart
+ | thumb = right
+ | caption= European states by area (top 12). Total area of Europe is 10,180,000 km².
+ | other  = yes
+ | label1 = Russia
+ | value1 = 39.0 | color1=#36A
+ | label2 = Ukraine
+ | value2 = 5.9 | color2=#53A
+ | label3 = France
+ | value3 = 5.4  | color3=#1A9
+ | label4 = Spain
+ | value4 = 4.9  | color4=#CC5
+ | label5 = Sweden
+ | value5 = 4.4  | color5=#928
+ | label6 = Norway
+ | value6 = 3.8   | color6=#E33
+ | label7 = Germany
+ | value7 = 3.5  | color7=#E72
+ | label8 = Finland
+ | value8 = 3.3  | color8=#FE3
+ | label9 = Poland
+ | value9 = 3.1  | color9=#D1AB00
+ | label10 = Italy
+ | value10 = 3.0 | color10=#FF0000
+ | label11 = United Kingdom
+ | value11 = 2.4  | color11=#008000
+ | label12 = Romania
+ | value12 = 2.3 | color12=#0099FF
+ }}}}
+
+
+
+Notes
+
+
+
+Category:Europe-related lists|countries in order of geographical area
+Category:Lists of countries

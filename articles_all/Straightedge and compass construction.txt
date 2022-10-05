@@ -1,0 +1,13 @@
+
+:Image:PentadecagonConstructionAni.gif|thumb|upright|Drawing a pentadecagon|alt=
+'''Straightedge and compass construction''', also known as '''ruler-and-compass construction''', is drawing of lengths, angles or shapes using only a ruler and compass#divider|compass. 
+
+
+Some things cannot be drawn this way.  For example, there are only 32 regular polygons with an uneven number of sides which are known to be constructible.  It has been Mathematical proof|proven that a square (geometry)|square with the same area as the area of a circle cannot be constructed.  This is called "Squaring the circle".
+
+
+
+Category:Mathematics
+
+eo:Geometrio#Klasikaj problemoj
+fa:تثلیث زاویه

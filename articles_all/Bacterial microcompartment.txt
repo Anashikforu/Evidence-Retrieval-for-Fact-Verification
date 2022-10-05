@@ -1,0 +1,7 @@
+A '''bacterial microcompartment''' is a structure inside bacteria. They are made of a protein shell which surrounds and encloses various enzymes.
+
+These compartments are typically about 100-200 nanometres across and made of interlocking proteins.
+
+Protein-enclosed compartments are also found in eukaryotes, such as enzyme encapsulation.
+
+Category:Organelles

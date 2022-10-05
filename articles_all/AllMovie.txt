@@ -1,0 +1,4 @@
+
+'''AllMovie''' is a Commerce|commercial database with information about movie stars, movies and Television program|television shows. It was started by Michael Erlewine, who also started AllMusic and AllGame.
+
+Category:2011 establishments

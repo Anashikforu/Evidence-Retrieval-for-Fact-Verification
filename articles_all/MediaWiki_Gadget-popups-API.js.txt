@@ -1,0 +1,5 @@
+/
+ This imports the latest version of Navigation Popups from En.wikipedia.
+ Full documentation can be found at //en.wikipedia.org/wiki/Wikipedia:POPUPS
+/
+mw.loader.load( '//en.wikipedia.org/w/index.php?title=MediaWiki:Gadget-popups.js&action=raw&ctype=text/javascript' );

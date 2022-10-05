@@ -1,0 +1,22 @@
+
+{{Taxobox
+| name = Japanese dormouse
+| image = ヤマネGlirulus japonicus.jpg
+| status = LC
+ | status_system = iucn3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| subfamilia = Glirinae
+| genus = '''''Glirulus'''''
+| genus_authority = Thomas, 1906
+| binomial = ''Glirulus japonicus''
+| binomial_authority = (Heinrich Rudolf Schinz|Schinz, 1845)
+| synonyms = }}
+
+The '''Japanese dormouse''' (''Glirulus japonicus'') is a species of rodent in the Gliridae family. It is the only species in the genus '''''Glirulus'''''. It is Endemism|endemic to Japan. 
+Its natural habitat is temperate forests. In Japanese language|Japanese it is called ''Yamane'' (山鼠). It has the special ability of running at great speed upside down, underneath branches. Its main food is nectar or pollen, although Breastfeeding|nursing females will eat small insects.
+
+Category:Animals of Japan

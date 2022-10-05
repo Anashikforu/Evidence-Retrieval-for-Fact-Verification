@@ -1,0 +1,17 @@
+
+
+
+'''Phosgene''' is the chemical compound with the chemical formula|formula COCl2.  This gas has no color. The gas was used as a chemical weapon|weapon during World War I. It is responsible for most of the deaths related to poison gas during the war. Today, phosgene is used as a tool. It is used for organic synthesis.  When there is a small amount in the air, the smell is similar to that of freshly cut hay or grass.  Some soldiers during the First World War have stated that it smelled a little like May Blossom.  When some compounds of  chlorine burn or break down, small amounts of phosgene are given off.  Wolfgang Schneider and Werner Diller "Phosgene" in Ullmann's Encyclopedia of Industrial Chemistry Wiley-VCH, Weinheim, 2002. DOI: 10.1002/14356007.a19_411. Article Online Posting Date: June 15, 2000
+
+ Uses 
+Today, most phosgene is used to produce isocyanates. The most important isocanates in this context are toluene diisocyanate (TDI) and methylene diphenyl diisocyanate (MDI). Both are precursors to polyurethanes. Large amounts are also used to produce polycarbonates. Polycarbonate is produced from its reaction with bisphenol A.  Polycarbonates are an important class of engineering thermoplastic. They can be found in lenses in eyeglasses.
+
+Safety
+Phosgene is a strong poison. Its smell may not be noticed. Signs of exposure may sometimes be detected slowly.
+Phosgene can be seen at 0.4 ppm|parts per million.  This amount is four times the Threshold Limit Value|safe amount.  Its high ability to poison doesn't come from the hydrogen chloride released by hydrolysis|a process. It comes from the action of the phosgene on the proteins in the pulmonary alveoli|sac of the lungs.  The alveoli|sacs are where the oxygen goes into the body. Their damage makes it hard for the blood and air move oxygen and carbon.  This will make breathing very hard.  Badges are worn by those at risk of exposure.
+
+Sodium bicarbonate may be used to make spills of phosgene harmless. Gas spills may be made harmless with ammonia|a special liquid spray.
+
+ Other websites 
+         
+Category:Chemical compounds

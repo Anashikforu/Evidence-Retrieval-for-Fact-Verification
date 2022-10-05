@@ -1,0 +1,47 @@
+
+|established_title        = Municipal corporation|Incorporated
+|established_date         = October 10, 1955
+
+| unit_pref               =US
+| area_footnotes          = 
+| area_total_sq_mi        = 11.257
+| area_land_sq_mi         = 11.256
+| area_water_sq_mi        = 0.001
+| area_total_km2          = 29.156
+| area_land_km2           = 29.153
+| area_water_km2          = 0.003
+| area_water_percent      = 0.01
+
+|population_as_of         = 2010
+|population_total         = 58302
+|population_density_sq_mi = auto
+
+|timezone                 = Pacific Time Zone|PST 
+(listed as Cupertino on many Apple devices)
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|coordinates = 
+|elevation_footnotes      =   tags-->
+|elevation_m              = 72
+|elevation_ft             = 236
+
+|postal_code_type         = ZIP codes
+|postal_code              = 95014-95015
+|area_code                = Area codes 408 and 669|408/669
+|blank_name               = Federal Information Processing Standard|FIPS code
+|blank_info               = 06-17610
+|blank1_name              = Geographic Names Information System|GNIS feature ID
+|blank1_info              = 0277496
+|website                  = 
+}} 
+'''Cupertino''' is a small town in Silicon Valley in the U.S. state of California. According to the 2000 census, Cupertino has a population of 50,546. The headquarters of Apple Computer and Symantec are in Cupertino.
+
+ Sister cities 
+ Copertino, Apulia, Italy
+ Hsinchu, Taiwan
+ Toyokawa, Aichi Prefecture, Japan
+ Bhubaneswar, India
+ Mysore, India
+
+Category:1955 establishments in California

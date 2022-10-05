@@ -1,0 +1,27 @@
+{{Taxobox
+| name = Saurischia
+| fossil_range = Upper Triassic &ndash; Upper Cretaceous (non-avian)
+| image = Eoraptor Japan.jpg
+| image_width = 250px
+| image_caption = Replica skeleton of an ''Eoraptor''
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Reptile|Sauropsida
+| superordo = Dinosauria
+| ordo = '''Saurischia'''
+| ordo_authority = Harry Govier Seeley|Seeley, 1887}}
+
+'''Saurischia''' is one of the two Order (biology)|orders of dinosaurs. In 1888, Harry Seeley Scientific classification|classified dinosaurs into two main orders.Seeley, H.G. (1888). "On the classification of the fossil animals commonly named Dinosauria." ''Proceedings of the Royal Society of London'', '''43''': 165-171. Their hip structure was why they were put into these orders. Saurischians ('lizard-hipped') and the Ornithischia|ornithischians ('bird-hipped') have differences in the ways bones in the hip are put together.
+
+All carnivore|carnivorous dinosaurs (the Theropoda|theropods) are saurischians, and so are the sauropods like ''Diplodocus'' and ''Brachiosaurus''.
+
+Birds are direct descendants of a group of theropod dinosaurs, so they are a sub-clade of saurischian dinosaurs in modern classification.
+
+Order Saurischia
+suborder Theropoda
+suborder Sauropoda
+
+Related pages
+Ornithischia
+
+Category:Saurischia| 

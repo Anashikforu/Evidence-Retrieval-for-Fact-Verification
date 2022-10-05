@@ -1,0 +1,94 @@
+{{Geobox | River
+
+| name                    = Snowy
+| other_name             = 
+|  other_name1            = 
+| other_name2            = 
+|  other_name3            = 
+| other_name4            = 
+|  other_name5            = 
+| category               = 
+
+| image                   = Snowy River from McKillops Road.jpg
+|  image_caption          = The Snowy River below McKillops Bridge
+
+| etymology               = 
+| nickname               = "The Snowy"
+
+| country                 = Australia
+| country1               = 
+| country2                = 
+| country3               = 
+| country4                = 
+| country_flag           = 1
+| state                   = Victoria (Australia)|Victoria, New South  Wales
+| region                  = South-east  Australia
+| district               = 
+| commune                 = 
+| municipality           = 
+
+| parent                  = 
+| tributary_left         = Mowamba River
+|  tributary_left1        = Maclaughlin River
+|  tributary_left2        = Jacobs River
+|  tributary_left3        = Deddick River
+|  tributary_left4        = Rodger River
+|  tributary_right        = Delegate River
+|  tributary_right1       = Wullwye Creek
+|  tributary_right2       = Pinch River
+|  tributary_right3       = Buchan River
+|  tributary_right4       = Brodribb River
+| city                    = Jindabyne  (NSW), Orbost  (Vic), Marlo  (Vic)
+| landmark               = 
+
+| source                  = Australian Alps
+|  source_location        = Great Dividing Range
+|  source_region          = 
+| source_country         = 
+|  source_elevation       = 2200
+| source_lat_d           = 
+|  source_lat_m           = 
+| source_lat_s           = 
+|  source_lat_NS          = 
+| source_long_d          = 
+|  source_long_m          = 
+| source_long_s          = 
+|  source_long_EW         = 
+| mouth                  = 
+|  mouth_location         = Bass Strait
+|  mouth_country          = Australia
+|  mouth_elevation        = 0
+| mouth_lat_d            = 
+|  mouth_long_d           = 
+
+| length                  = 352
+| length_note            = 
+|  length_round           = +1
+| width                  = 
+| depth                   = 
+| watershed              = 15779
+|  watershed_note         = 4%
+| watershed_round        = +1
+| discharge               = 517
+| discharge_round        = -1
+|  discharge_location     = mouth
+
+| free                    = 
+
+| map                     = 
+| map_caption            = 
+|  map_locator            = 
+
+| commons                 = 
+| statistics             = 
+| website                 = 
+
+| footnotes               = 
+
+ }}
+
+The '''Snowy River''' is a major river in south-eastern Australia. It starts on the slopes of Mount Kosciuszko,  Australia's highest mountain. It gets its water from the eastern slopes of the Snowy Mountains in New South Wales,  and then flows through the Snowy River  National Park in Victoria (Australia)|Victoria and finally into Bass Strait. Up until the middle of the 20th  century, the river was known for the large amount of fresh water it carried, its wide reach and large rapids.  
+
+The river's course and surroundings have not changed very much, as it is protected by the Snowy River  National Park. However its flow of water was almost stopped in the 1950's by the building of the Snowy Mountains Scheme to make hydroelectricity. Four large dams were built, at Guthega, Island Bend, Eucumbene, and  Jindabyne, as well as many smaller dams and tunnels. Less than 1% of the river flow, as measured at Jindabyne, New South Wales, continued to flow down the river. Concern over the health of river led to an agreement between the state and federal governments to increase the amount of water released back into the river. From 2002 to 2008 the flow was increased from 1% to 4%. The agreement planned to increase the flow to 15% by 2009 and 21% by 2012.
+
+Category:Rivers of New South Wales

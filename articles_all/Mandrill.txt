@@ -1,0 +1,27 @@
+{{Taxobox
+| name = Mandrill
+| status = VU
+| status_system = IUCN3.1
+| image = Mandril.jpg
+| image_width = 230px
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Primates
+| familia = Cercopithecidae
+| genus = ''Mandrillus''
+| binomial = ''Mandrillus sphinx''
+| binomial_authority = (Carolus Linnaeus|Linnaeus, 1758)}}
+file:Mandrilperspective6.jpg|thumb|upright 1.23| Mandrill skull, male. 
+
+The '''mandrill''' (''Mandrillus sphinx'') are the wold's largest monkeys. They are also the most colourful primates. The skin colours brighten as the animal gets more excited. Males live mostly on the forest floor, while females and young climb up into trees and bushes. This monkey looks rather like a baboon, but they are in a different genus. They live in large groups, mostly in rain forests.
+
+ Description 
+Males have an orange/yellow beard and an unmistakable bright red and blue snout and rump. Females and juveniles have a duller blue snout and a buff beard. Mandrills can live up to 40 years in captivity. They feed on fruits, Leaf|leaves, roots, seeds, Nut (fruit)|nuts, greens and invertebrates.
+
+ Habitat 
+Mandrills live in Cameroon, Gabon and the Republic of the Congo|Congo. They live in dense rainforest and coastal forests, although they sometimes go onto the savannah.  Mandrills live on the ground and in trees.
+
+ Behaviour 
+Mandrills seem to live in large, stable groups called "hordes". Hordes often number in the hundreds, possibly averaging around 600+ individuals and reaching as many as 845.Sabater Pí J. 1972. Contribution to the ecology of ''Mandrillus sphinx'' Linnaeus 1758 of Rio Muni (Republic of Equatorial Guinea). ''Folia primatologica; international journal of primatology'' '''17''' (4): 304–19. 
+Males live a solitary lifestyle, and only enter hordes when females are ready for mating, which lasts three months each year.  All-male bachelor groups are not known to exist.Harrison MJS 2009. The mandrill in Gabon's rain forest-ecology, distribution and status. ''Oryx'' '''22''' (4): 218. 
+Category:Mammals of Africa

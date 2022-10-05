@@ -1,0 +1,11 @@
+'''Opsins''' are the universal photoreceptor molecules of all visual systems in the animal kingdom.Plachetzki, D.; Fong, C.; Oakley T. 2010. "The evolution of phototransduction from an ancestral cyclic nucleotide gated pathway". ''Proceedings of the Royal Society / Biological sciences'' '''277''' (1690): 1963–1969. doi:10.1098/rspb.2009.1797. PMID 20219739.Shichida Y.; Matsuyama T. 2009. "Evolution of opsins and phototransduction". 
+They change from a resting state to a signalling state by absorbing light. This activates the G protein, resulting in a signalling cascade which produces Physiology|physiological responses. 
+
+This process of capturing a photon and transforming it into a physiological response is known as phototransduction.
+
+Five groups of opsins are involved in vision. Another opsin found in the mammalian retina, melanopsin, is involved in circadian rhythms and pupil (eye)|pupillary reflex, but not in image-forming.Lamb T.D; Collin S.P. & Pugh E.N. Jr. 2007. Evolution of the vertebrate eye: opsins, photoreceptors, retina and eye cup. ''Nature Reviews Neuroscience''. '''8''' (12): 960–976. 
+Some opsins allows vision in just a short stretch of wavelength. This is equivalent to seeing in only one colour. Two opsins allow vision in two colours, and is usual in mammals. Four opsins allows vision in full colour, and is usual in teleost fish, reptiles and birds. In mammals, only Old World monkeys, apes and humans have trichromacy, full colour vision. 
+
+It is thought – see evolution of colour vision – that mammals lost much of their colour vision capability during the long period in the Mesozoic when they lived as mostly nocturnal animals.Kemp T.S. 2005. ''The origin and evolution of mammals''. Oxford University Press. 
+:"...two cone opsin gene families appear in contemporary eutherian mammals and, with the exception of some primates, none of these animals derive more than a single photopigment type from each of their two gene families".Bowmaker J.K. 1998. Evolution of colour vision in vertebrates. ''Eye'' '''12''' (3b): 541–547. 
+Category:Biochemistry

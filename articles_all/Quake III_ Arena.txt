@@ -1,0 +1,29 @@
+'''''Quake III: Arena''''' is a video game in the Quake series|''Quake'' series. It has been published from 1999, for Microsoft Windows and other platforms.
+
+It is a first person shooter and its main goal is to kill ("frag") other players using various weapons. You can fight against computer-guided characters ("bots") in singleplayer mode, or against human players in multiplayer mode (via LAN or Internet).
+
+ Game modes 
+There are four game modes:
+ Tournament: 1 vs. 1.
+ Free for all (FFA): standard "deathmach" (everyone vs. everyone)
+ Team Deathmatch (TDM): players are divided into two teams (red and blue)
+ Capture the flag (CTF): two teams, you have to get the flag of the enemy and bring it to your base
+
+ Expansions 
+You can install many expansions for this game: new levels and new characters, or entire "MOD (computer games)|mods" (light or heavy ''modifications'' of the game, with new items, rules, weapons...).
+
+Some MODs:
+ Team Arena (official)
+ OSP (Orange Smoothie Production)
+ Instagib (1 hit-kill)
+ Clan Arena
+ Rocket Arena 3
+ DeFRaG
+ AlternateFire
+ BazookaQ3
+ CPMA (Challenge Pro Mode Arena, simply "ProMode" or "CPM")
+
+
+
+
+Category:Shooter video games

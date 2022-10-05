@@ -1,0 +1,29 @@
+The '''Pasiphaë group''' is a group of retrograde non-Sphere|spherical moons of Jupiter (planet)|Jupiter that follow similar orbits to Pasiphaë (moon)|Pasiphaë and are thought of have a common origin.
+
+Their semi-major axis|semi-major axes (distances from Jupiter) range between 22,800,000 and 24,100,000&nbsp;km (the same range as the Carme group), their inclinations between 144.5° and 158.3°, and their orbital eccentricity|eccentricities between 0.25 and 0.43.
+Image:TheIrregulars JUPITER GROUPS.svg|thumb|300px|This diagram illustrates the biggest non-spherical moons of Jupiter. Among the Pasiphaë group, Sinope and Pasiphaë itself are labelled. An object's position on the horizontal axis indicates its distance from Jupiter. The vertical axis indicates its orbital inclination|inclination. Orbital eccentricity|Eccentricity is indicated by yellow bars illustrating the object's maximum and minimum distances from Jupiter. Circles illustrate an object's size in comparison to the others.
+Core members of the group include (from the biggest to the smallest):
+Scott S. Sheppard, David C. Jewitt, Carolyn Porco 
+''Jupiter's outer satellites and Trojans'', In: ''Jupiter. The planet, satellites and magnetosphere.'' Edited by Fran Bagenal, Timothy E. Dowling, William B. McKinnon. Cambridge planetary science, Vol. 1, Cambridge, UK: Cambridge University Press, , 2004, p. 263 - 280
+
+ Pasiphae (moon)|Pasiphae
+ Sinope (moon)|Sinope, two-thirds the size of Pasiphaë
+ Callirrhoe (moon)|Callirrhoe
+ Megaclite (moon)|Megaclite
+ Autonoe (moon)|Autonoe
+ Eurydome (moon)|Eurydome
+ Sponde (moon)|Sponde
+
+The International Astronomical Union (IAU) reserves names ending in '''-e''' for all retrograde moons, including this group's members.
+
+Origin
+The Pasiphaë group is believed to have been formed when Jupiter captured an asteroid which broke up after a collision. The original asteroid was not disturbed heavily: the original body is calculated to have been 60&nbsp;km in diameter, about the same size as Pasiphaë; Pasiphaë has 99% of the original body's mass. However, if Sinope (moon)|Sinope belongs to the group, the amount is much smaller, 87%. 
+However, Nesvorny 2003, while concurring on the Ananke and Carme groups, lists only Megaclithe for Pasiphaë's group
+
+The differences of colour between the objects (grey for Pasiphaë, light red for Callirrhoe (moon)|Callirrhoe and Megaclite (moon)|Megaclite) also suggest that the group could have a more complex origin than a single collision.
+
+Image:TheIrregulars JUPITER Pasiphae CORE i.svg|thumb|left|300px|This diagram compares the orbital elements and relative sizes of the core members of the Pasiphaë group. The horizontal axis illustrates their average distance from Jupiter, the vertical axis their orbital inclination, and the circles their relative sizes.
+Image:TheIrregulars JUPITER Pasiphae i.svg|thumb|right|300px|This diagram compares the wide dispersion of the Pasiphaë group (red) with the more compact Ananke (blue) and Carme (green) groups.
+
+
+Category:Jupiter's moons

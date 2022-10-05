@@ -1,0 +1,15 @@
+
+| direction_b2 = North
+| terminus_b2 =  in Texarkana, AR
+| section3 = Northern segment
+| direction_a3 = South
+| terminus_a3 =  in Alma, Arkansas|Alma, AR
+| junction3 =  near Joplin, Missouri|Joplin, MO
+| direction_b3 = North
+| terminus_b3 =  in Kansas City, Missouri|Kansas City
+| states = Louisiana, Arkansas, Missouri
+}}
+
+'''Interstate 49''' is an Interstate Highway in the state of Louisiana in the United States. It goes from Lafayette, Louisiana|Lafayette north to Kansas City, Missouri|Kansas City. The route is  long.
+
+Category:Interstate Highways|49

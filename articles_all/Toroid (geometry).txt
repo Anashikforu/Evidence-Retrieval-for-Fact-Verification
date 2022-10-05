@@ -1,0 +1,5 @@
+
+
+A '''toroid''' is a geometry|geometric shape that resembles a torus. A toroid is constructed by rotation|rotating a geometrical shape around an Axis (mathematics)|axis which is outside the shape. If this is done to a circle, a torus results.
+
+Category:Shapes

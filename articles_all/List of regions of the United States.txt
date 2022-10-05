@@ -1,0 +1,78 @@
+This is a '''list of regions of the United States'''.
+
+
+
+ Census Bureau-designated areas 
+
+Regional divisions used by the United States Census Bureau
+ Region 1 (Northeastern United States|Northeast)
+ Division 1 (New England)
+ Maine
+ New Hampshire
+ Vermont
+ Massachusetts
+ Rhode Island
+ Connecticut
+ Division 2 (Mid-Atlantic States|Middle Atlantic)
+ New York
+ Pennsylvania
+ New Jersey
+ Region 2 (Midwestern United States|Midwest)
+ Division 3 (East North Central States|East North Central)
+ Wisconsin
+ Michigan
+ Illinois
+ Indiana
+ Ohio
+ Division 4 (West North Central States|West North Central)
+ North Dakota
+ South Dakota
+ Nebraska
+ Kansas
+ Minnesota
+ Iowa
+ Missouri
+ Region 3 (Southern United States|South)
+ Division 5 (South Atlantic States|South Atlantic)
+ Delaware
+ Maryland
+ District of Columbia
+ Virginia
+ West Virginia
+ North Carolina
+ South Carolina
+ Georgia
+ Florida
+ Division 6 (East South Central States|East South Central)
+ Kentucky
+ Tennessee
+ Mississippi
+ Alabama
+ Division 7 (West South Central States|West South Central)
+ Oklahoma
+ Texas
+ Arkansas
+ Louisiana
+ Region 4 (Western United States|West)
+ Division 8 (Mountain States|Mountain)
+ Idaho
+ Montana
+ Wyoming
+ Nevada
+ Utah
+ Colorado
+ Arizona
+ New Mexico
+ Division 9 (Pacific States|Pacific)
+ Alaska
+ Washington
+ Oregon
+ California
+ Hawaii
+
+
+
+
+
+Category:United States-related lists
+Category:Census Regions of the United States|

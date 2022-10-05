@@ -1,0 +1,4 @@
+A '''CAS registry number''' is a unique number given to every chemical substance by the Chemical Abstracts Service (CAS).
+
+It now identifies more than 164 million organic and inorganic substances. 68 million protein and DNA sequence|DNA sequences are identified also. It is updated with around 15,000 new substances everyday.
+

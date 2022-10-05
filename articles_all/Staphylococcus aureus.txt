@@ -1,0 +1,20 @@
+
+{{Taxobox
+ | name = ''Staphylococcus aureus''
+ | image = Staphylococcus_aureus,_50,000x,_USDA,_ARS,_EMU.jpg
+ | image_width = 270px
+ | domain = Bacteria
+ | regnum = Bacterium|Eubacteria
+ | phylum = Firmicutes
+ | classis = Bacilli
+ | ordo = Bacillales      
+ | familia = Staphylococcaceae
+ | genus = ''Staphylococcus''
+ | binomial = ''Staphylococcus aureus''
+ | binomial_authority = Rosenbach 1985}}
+
+'''''Staphylococcus aureus''''' is the most common cause of staph infections. It is a round Bacteria|bacterium, often living on the skin or in the nose of a person. About one third of the U.S. population are carriers of Staph. Aureus Heyman D. 2004. ''Control of communicable diseases manual''. 19th ed, Washington DC: American Public Health Association. ''Staphylococcus aureus'' can cause a range of illnesses from minor skin infections to life-threatening diseases.
+
+''S. aureus'' can be treated with antibiotics, but they easily get resistance to antibiotics. When they are resistant, they are called MRSA (methicillin-resistant S. aureus).Methicillin is a type of synthetic penicillin, found in many antibiotics.
+
+Category:Gram-positive bacteria

@@ -1,0 +1,34 @@
+{{Infobox Constellation|
+name = Crater |
+abbreviation = Crt |
+genitive = Crateris |
+pronounce =  |
+symbolism = the Drinkware|Cup |
+RA = 11 |
+dec= −16 |
+family = Hercules Family|Hercules |
+quadrant = SQ2 |
+areatotal = 282 |
+arearank = 53rd |
+numbermainstars = 4 |
+numberbfstars = 12 |
+numberstarsplanets = 6 |
+numberbrightstars = 0 |
+numbernearbystars = 0 |
+brighteststarname = Delta Crateris|δ Crt (Labrum) |
+starmagnitude = 3.57 |
+neareststarname = LHS 2358 |
+stardistancely = 34.86 |
+stardistancepc = 10.69 |
+numbermessierobjects = 0 |
+meteorshowers = Eta Craterids |
+bordering = Leo (constellation)|LeoSextansHydra (constellation)|HydraCorvus (constellation)|CorvusVirgo (constellation)|Virgo |
+latmax = 65th parallel north|65 |
+latmin = South Pole|90 |
+month = April |
+notes=}}
+'''Crater''' () is a constellation. In Latin it means cup. It is a constellation in Greek mythology (Apollo). It was one of the 48 constellations listed by the 1st century astronomer Ptolemy, and remains one of the 88 modern constellations. It is located in the Southern Hemisphere.
+
+ Mythology 
+The name "Crater" is taken from a Greek mythology|Greek myth. In the story, a crow or raven serves Apollo. It is sent to get water, but it rests lazily on the journey. After finally getting the water in a cup, it takes back a water snake as well, as an excuse. According to the myth, Apollo saw through the trick and angrily cast the cup, crow, and snake into the sky. The constellations of Corvus (constellation)|Corvus the crow and Hydra (constellation)|Hydra the water-snake are also taken from this myth.
+

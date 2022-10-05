@@ -1,0 +1,15 @@
+
+
+In logic|mathematical logic and computer science, '''lambda calculus''', also '''λ-calculus''', is a formal system. It was designed to investigate the definition of function (mathematics)|functions, and how to apply them. It is also a tool for analysing recursion. It was introduced by Alonzo Church and Stephen Cole Kleene in the 1930s. Church used lambda calculus in 1936 to give a negative answer to the Entscheidungsproblem.  
+
+Lambda calculus can be used to define what is a computable function. No general algorithm can answer the question of whether two lambda calculus expressions are equivalent.  This was the first question, even before the halting problem, for which decision problem|undecidability could be proved. Lambda calculus has greatly influenced functional programming|functional programming languages,  such as LISP, ML and Haskell (programming language)|Haskell.
+
+Lambda calculus can be called the smallest universal programming language. It consists of just one transformation rule (variable substitution) and just one way to define a function. Each ''function definition'' comes together with a list of the function's parameters, i.e. variables that can be used inside that definition. ''Variable substitution'' means substitution of values for variables, that is, a transformation step where an application of a function to some arguments is replaced with that function's definition in which all variables (that appear in its list of parameters) are replaced with arguments used in that application. 
+
+Lambda calculus is universal in the sense that any computable function can be expressed and evaluated using this formalism. It is thus the same as the Turing machine formalism. However, lambda calculus emphasizes the use of transformation rules. It does not care about the actual machine that implements them.  It is an approach more related to software than to Computer hardware|hardware.
+
+
+
+
+Category:Mathematics
+Category:Recursion

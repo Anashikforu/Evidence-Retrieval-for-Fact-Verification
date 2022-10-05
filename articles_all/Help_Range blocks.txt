@@ -1,0 +1,60 @@
+
+'''Range blocks''' are technical restrictions applied through Special:Blockip to a group of 
+Range blocking is enabled on all 
+To block an IP range from Special:Blockip, enter the first IP address in the range followed by a forward slash and a 
+Technical explanation
+CIDR notation is written as the IP address, a slash, and the CIDR affix (for example, the IPv4 "10.2.3.41/24" or IPv6 "a3:b:c1:d:e:f:1:21/24"). The CIDR affix is the number of starting digits every IP address in the range have in common when written in binary. 
+
+For example: "10.10.1.32" is binary "00001010.00001010.00000001.00100000", so 10.10.1.32/27 will match the first 27 digits ("00001010.00001010.00000001.00100000"). The IP addresses 10.10.1.32–10.10.1.63, when converted to binary, all have the same 27 first digits and will be blocked if 10.10.1.32/27 is blocked.
+
+As the CIDR affix increases, the block affects fewer IP addresses (see #Table|table of example ranges). CIDR affixes are not the same for IPv4 addresses as they are for IPv6 addresses.
+
+Calculating the CIDR affix
+You can use the #Table|table of sample ranges below to guess the range, use a computer script, or manually calculate the range.
+
+=Conversion to binary=
+The first step in manually calculating a range is to convert the first and last IP address to binary representation. (This assumes you're not using a computer script, which can probably calculate the range for you anyway.) An IP address is composed of four groups of eight ones and zeros. Each group represents a number from 0 to 255. To convert a number to binary, you can use a 
+
+Proceeding from left to right, fill in '1' if the number is at least that value, and subtract that value (if it's not, fill in '0' and don't subtract). For example, to calculate 240:
+# 240 is at least 128, so place 1 and subtract 128.
+# 112 (240-128) is at least 64, so place 1 and subtract 64.
+# 48 (112-64) is at least 32, so place 1 and subtract 48.
+# 16 (48-32) is at least 16, so place 1 and subtract 16.
+# Since the remaining value is zero, all the remaining places are '0'.
+Thus, 240 is 1111 0000 because it can be represented as 128+64+32+16+0+0+0+0.
+
+=Calculate range=
+# Place both IP addresses one atop the other, and count how many starting digits are exactly alike. This is the CIDR affix.
+# Double-check! Being off by one digit could extend your block by thousands of addresses.
+
+The example below calculates the CIDR range between 69.208.0.0 and 69.208.0.255. Note that this is a simple example; some groups of IP addresses do not so neatly fit CIDR affixes, and need multiple different-sized blocks to block the exact range.
+
+ IP addresses:
+   69.208.0.0
+   69.208.0.255
+ &nbsp;
+ Convert to binary:
+   0100 0101.1101 0000.0000 0000.0000 0000
+   0100 0101.1101 0000.0000 0000.1111 1111
+ &nbsp;
+ Count identical first numbers:
+   '''0100 0101.1101 0000.0000 0000'''.0000 0000
+   '''0100 0101.1101 0000.0000 0000'''.1111 1111
+   |____________________________|
+             24 digits
+  &nbsp;
+ CIDR range:
+   69.208.0.0/24
+
+
+=Table of sample ranges=
+The table below shows the IP blocks each CIDR suffix affects. Note that MediaWiki only supports blocking CIDR suffixes 16&ndash;32.
+
+
+
+
+ Other websites 
+ :en:Classless Inter-Domain Routing|Classless Inter-Domain Routing
+  toolforge:ip-range-calc/|Rangeblock-Calculator gives you the range you should use when blocking.
+
+Category:Help|Range blocks

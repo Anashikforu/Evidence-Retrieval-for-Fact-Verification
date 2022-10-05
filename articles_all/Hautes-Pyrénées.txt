@@ -1,0 +1,224 @@
+
+'''Hautes-Pyrénées''' () is a departments of France|department in the southwest of France. It is part of the Occitanie region and its main city is Tarbes.
+
+History
+Hautes-Pyrénées is one of the original 83 departments created during the French Revolution on 4 March 1790.  It was created with parts of the former province of Gascony; these parts were the old province of Bigorre and the Quatre-Vallées|Pays des Quatre-Vallées.
+
+ Geography 
+Hautes-Pyrénées has an area of , or 0.81% of the country. It is part of the Occitanie region and has two small territorial exclaves—a remnant from the Middle Ages—located within the neighboring ''département'' of Pyrénées-Atlantiques.
+
+The department is surrounded by 2 Regions of France|regions and 3 departments:
+ Occitanie
+ Gers to the north
+ Haute-Garonne to the east
+ Nouvelle-Aquitaine
+ Pyrénées-Atlantiques to the west
+
+and by Spain (the province of Province of Huesca|Huesca) to the south.
+
+
+
+
+Three natural regions can be distinguished in the department.
+
+The Pyrénées, along the border with Spain, cover the southern half of the department, with 66% of the department. They form a natural :wikt:barrier|barrier between France and Spain. More than 30 mountains here are over  high.
+
+The Vignemale|Pic Vignemale (, is the highest point of the department; it is on the border with Spain. The Vignemale is in the Pyrénées National Park.
+
+The second region of the Hautes-Pyrénées, with 17% of the territory, consists of chains low hills.
+
+The third region, in the northern part of the department, is the plain of the Adour river and consists of largely flat Agriculture|agricultural land.
+
+The main river of the department is the Adour river that flows through the cities of Tarbes and Bagnères-de-Bigorre. Other rivers are the Gave de Pau and the Neste.
+
+Hautes-Pyrénées has two small territorial exclaves—a :wikt:remnant|remnant from the Middle Ages—within the neighboring ''département'' of Pyrénées-Atlantiques.
+
+=Climate=
+The climate of the department is an oceanic climate with relatively hot summers, mild winters and abundant rainfall, '''Cfb''' in the Köppen climate classification.
+
+The average amount of precipitation for the year in Lourdes is .
+
+The average temperature for the year in Lourdes is .
+
+{{Weather box
+|location = Tarbes, France (altitude 360m, 1981–2010) (Source: Météo-France, Infoclimat.fr)
+|metric first = Yes
+|single line = Yes
+|Jan high C = 10.3
+|Feb high C = 11.3
+|Mar high C = 14.2
+|Apr high C = 15.8
+|May high C = 19.5
+|Jun high C = 22.8
+|Jul high C = 25.1
+|Aug high C = 25.2
+|Sep high C = 22.8
+|Oct high C = 19.0
+|Nov high C = 13.7
+|Dec high C = 11.0
+|year high C = 17.6
+|Jan low C = 1.0
+|Feb low C = 1.5
+|Mar low C = 3.7
+|Apr low C = 5.6
+|May low C = 9.5
+|Jun low C = 12.8
+|Jul low C = 14.9
+|Aug low C = 14.9
+|Sep low C = 11.9
+|Oct low C = 8.7
+|Nov low C = 4.3
+|Dec low C = 1.8
+|year low C = 7.6
+|precipitation colour = green
+|Jan precipitation mm = 95.0
+|Feb precipitation mm = 81.1
+|Mar precipitation mm = 87.0
+|Apr precipitation mm = 111.7
+|May precipitation mm = 111.6
+|Jun precipitation mm = 78.0
+|Jul precipitation mm = 56.0
+|Aug precipitation mm = 68.1
+|Sep precipitation mm = 71.6
+|Oct precipitation mm = 88.1
+|Nov precipitation mm = 102.5
+|Dec precipitation mm = 96.7
+|year precipitation mm = 1047.4
+|unit precipitation days = 1.0 mm
+|Jan precipitation days = 11
+|Feb precipitation days = 9
+|Mar precipitation days = 10
+|Apr precipitation days = 13
+|May precipitation days = 13
+|Jun precipitation days = 10
+|Jul precipitation days = 7
+|Aug precipitation days = 9
+|Sep precipitation days = 9
+|Oct precipitation days = 11
+|Nov precipitation days = 10
+|Dec precipitation days = 10
+|year precipitation days = 120
+|Jan sun = 118
+|Feb sun = 129
+|Mar sun = 169
+|Apr sun = 170
+|May sun = 189
+|Jun sun = 198
+|Jul sun = 205
+|Aug sun = 206
+|Sep sun = 190
+|Oct sun = 151
+|Nov sun = 117
+|Dec sun = 109
+|year sun = 1951
+|source 1 = climat.meteofrance.com
+|source 2 = infoclimat.fr
+|date=February 2013}}
+
+Administration
+The département is managed by the ''Departamental Council of the Haute-Garonne'' in Tarbes. The Hautes-Pyrénées is part of the region of Occitanie.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 17 Cantons in France|''cantons'' and 470 Communes in France|''communes'' (Municipality|municipalities) in the Hautes-Pyrénées.
+
+
+
+
+
+The following is a list of the 17 cantons of the Hautes-Pyrénées department, following the French canton reorganisation which came into effect in March 2015:
+
+# Canton of Aureilhan|Aureilhan (6501)
+# Canton of Bordères-sur-l'Échez|Bordères-sur-l'Échez (6502)
+# Canton of Les Coteaux|Les Coteaux (6503)
+# Canton of La Haute-Bigorre|La Haute-Bigorre (6504)
+# Canton of Lourdes-1|Lourdes-1 (6505)
+# Canton of Lourdes-2|Lourdes-2 (6506)
+# Canton of Moyen Adour|Moyen Adour (6507)
+# Canton of Neste, Aure et Louron|Neste, Aure et Louron (6508)
+# Canton of Ossun|Ossun (6509)
+# Canton of Tarbes-1|Tarbes-1 (6510)
+# Canton of Tarbes-2|Tarbes-2 (6511)
+# Canton of Tarbes-3|Tarbes-3 (6512)
+# Canton of Val d'Adour-Rustan-Madiranais|Val d'Adour-Rustan-Madiranais (6513)
+# Canton of La Vallée de l'Arros et des Baïses|La Vallée de l'Arros et des Baïses (6514)
+# Canton of La Vallée de la Barousse|La Vallée de la Barousse (6515)
+# Canton of La Vallée des Gaves|La Vallée des Gaves (6516)
+# Canton of Vic-en-Bigorre|Vic-en-Bigorre (6517)
+
+
+Population
+The inhabitants of Hautes-Pyrénées are known, in French language|French, as ''Haut-Pyrénéens'' (women: ''Haut-Pyrénéennes''). They are also known as the ''Bigourdans''.
+
+Hautes-Pyrénées has a population, in 2014, of 228,950, for a population density of  inhabitants/km2. The ''arrondissement'' of Tarbes, with 143,753 inhabitants, is by far the largest. The other two, Argelès-Gazost and Bagnères-de-Bigorre, have respectively 38,813 and 46,384 inhabitants.
+
+The city with more people living in it is the Capital city|capital, Tarbes (40,900), followed by Lourdes (14,361). The subprefectures of Argelès-Gazost and Bagnères-de-Bigorre have, respectively, 3,020 and 7,602 inhabitants.
+
+
+'''Evolution of the population in Hautes-Pyrénées'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:250000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2008 text:2008
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 225730
+ bar:1975 from:0 till: 227222
+ bar:1982 from:0 till: 227922
+ bar:1990 from:0 till: 224759
+ bar:1999 from:0 till: 222368
+ bar:2008 from:0 till: 229079
+ bar:2014 from:0 till: 228950
+
+PlotData=
+ bar:1968 at: 225730 fontsize:S text: 225,730 shift:(-12,5)
+ bar:1975 at: 227222 fontsize:S text: 227,222 shift:(-18,5)
+ bar:1982 at: 227922 fontsize:S text: 227,922 shift:(-18,5)
+ bar:1990 at: 224759 fontsize:S text: 224,759 shift:(-18,5)
+ bar:1999 at: 222368 fontsize:S text: 222,368 shift:(-18,5)
+ bar:2008 at: 229079 fontsize:S text: 229,079 shift:(-18,5)
+ bar:2014 at: 228950 fontsize:S text: 228,950 shift:(-18,5)
+
+
+
+The cities with more than 4,000 inhabitants in the department are:
+
+
+
+Gallery
+
+
+File:Picdumidi.jpg|Pic du Midi de Bigorre
+File:Le Vignemale.jpg|Vignemale
+File:Lac du Milieu de Bastan Hautes Pyrénées 02 BLS.JPG|Middle of Lake Bastan, shortly before sunset
+File:Gavarnie-Cirque.JPG|Cirque de Gavarnie
+
+
+
+Related pages
+ Arrondissements of the Hautes-Pyrénées department
+ Communes of the Hautes-Pyrénées department
+
+Category:Departments in Occitanie

@@ -1,0 +1,26 @@
+
+'''Arsenic pentoxide''', also known as '''arsenic(V) oxide''', is a chemical compound. Its chemical formula is As2O5. It has arsenic and oxide ions in it. The arsenic is in its +5 oxidation state. More common is arsen in its oxidation state +3 as As2O3 (arsenic trioxide or arsenic(III) oxide). The LD50 for arsenic pentoxide is 8mg/kg for rats. When the substance becomes wet, it turns into arsenic acid, which corrodes metals.
+
+Properties
+Arsenic pentoxide is a white, odourless solid. 
+:As_2O_5 + 268.1 kJ \rightarrow As_2O_3 + O_2
+
+It reacts with base (chemistry)|bases to make arsenates. The energy for the reaction is taken from the heating.
+
+Preparation
+Arsenic pentoxide cannot be produced by burning arsen. That only results in As2O3. To produce arsenic pentoxid, arsenic acid will be dehydration|dehydrated. This is done with phosphorus(V) oxide.
+
+:2 H_3AsO_4 \rightleftharpoons As_2O_5 + 3 H_2O
+
+The arsenic pentoxide drops out as white powder.
+
+Uses
+Arsenic pentoxide is used to make pesticides and insecticides. It is also used in glass industry.
+
+Related pages
+Arsenic pentafluoride
+Arsenous acid
+Phosphorus pentoxide
+Antimony pentoxide
+
+Category:Oxides

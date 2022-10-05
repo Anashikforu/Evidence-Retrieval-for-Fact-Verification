@@ -1,0 +1,17 @@
+{{Infobox fossil
+|img = Lucy_Mexico.jpg
+|catalog number = AL 288-1
+|common name = Lucy
+|species = ''Australopithecus afarensis''
+|age = 3.2 million years
+|place discovered = Afar Depression, Ethiopia
+|date discovered = November 24, 1974
+|discovered by = Donald Johanson|Johanson and Tom Gray (anthropologist)|Gray 
+
+'''Lucy''' is the common name of '''AL 288-1'''. This is a fossil discovery of about 40% of the skeleton of a female ''Australopithecus afarensis''. There are several hundred pieces of bone. The discovery was made in 1974 at Hadar in the Awash Valley of Ethiopia's Afar Depression.
+
+This discovery gave us much scientific evidence. Lucy lived about 3.2 million years ago, and is a hominid.
+
+The skeleton shows that Lucy had a small skull capacity, like an ape, but also that she walked upright like a human. This supported the view that bipedalism came before the increase in brain size in human evolution. Those features are true of all australopithecines.Johanson D.C. & Maitland A.E. 1981. Lucy: the beginning of humankind. St Albans: Granada, 283
+
+Category:Australopithecines

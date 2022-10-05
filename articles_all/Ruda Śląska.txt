@@ -1,0 +1,42 @@
+{{Infobox settlement
+| name = Ruda Śląska
+| image_skyline = Nowy Bytom Niedurnego street.jpg
+| imagesize = 270px
+| image_caption = Niedurnego Street in Ruda Śląska
+| image_flag = Rudaslaska flag.svg
+| image_shield = POL Ruda Śląska alt COA.svg
+| pushpin_map = Poland
+| pushpin_label_position = bottom
+| subdivision_type = Country
+| subdivision_name = 
+| subdivision_type1 = Voivodeships of Poland|Voivodeship
+| subdivision_name1 = 
+| subdivision_type2 = Powiat|County
+| subdivision_name2 = ''city county''
+| leader_title = Mayor
+| leader_name = Grażyna Dziedzic
+| established_title = Established
+| established_date = 13th century
+| established_title3 = Town rights
+| established_date3 = 1959
+| area_total_km2 = 77.73
+| population_as_of = 2013
+| population_total = 142510
+| population_density_km2 = auto
+| population_urban  = 2746000
+| population_metro = 4620624
+| timezone = Central European Time|CET
+| utc_offset = +1
+| timezone_DST = Central European Summer Time|CEST
+| utc_offset_DST = +2
+| coordinates    = 
+| postal_code_type = Postal code
+| postal_code = 41-700 to 41-718
+| area_code = +48 32
+| blank_name = Polish car number plates|Car plates
+| blank_info = SRS, SL
+| website = '''Ruda Śląska''' is a city in Poland in Silesian Voivodeship. It has about 147 000 inhabitants and 77 km².
+
+
+
+Category:Cities in Poland

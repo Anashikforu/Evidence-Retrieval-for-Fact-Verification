@@ -1,0 +1,8 @@
+Image:Grad protractor.png|thumb|200px|A 400-graduated protractor
+Image:Protractor katomierz.jpg|thumb|200px|A 360-degree protractor
+The '''protractor''' is a tool used to measure angles in Degree (angle)|degrees. It usually has marks with labels of the Degree (angle)|degrees.
+
+
+
+Category:Geometry
+Category:Measuring tools

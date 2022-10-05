@@ -1,0 +1,10 @@
+In cryptography, a '''pre-shared key''' or '''PSK''' is a shared secret which was previously shared between the two parties using some secure channel before it is used. Such systems almost always use Symmetric-key algorithm|symmetric key cryptographic algorithms. 
+
+The characteristics of this shared secret|secret or Key (cryptography)|key are determined by the system which uses it; some system require that such keys be in a specific format. It can be a password like 'bret13i', a passphrase like 'Idaho hung gear id gene', or a hexadecimal string like '65E4 E556 8622 EEE1'. The secret is used by all systems involved in the cryptographic processes used to secure the traffic between the systems.  
+
+The term is used in Wi-Fi encryption such as Wired Equivalent Privacy|WEP or Wi-Fi Protected Access|WPA, where both the Access point|wireless access points (AP) and all clients ''share'' the same key.   
+
+Since one weakpoint of the Cryptosystem|crypto system is the encryption algorithm's Key (cryptography)|key, the Key strengthening|key strength is important, and since the strength of a key is in part dependent on the key size|key length, it is important to choose a key whose length is Brute force attack|cryptographically secure (see password strength). There are several tools available to help one choose a strong key.  The Diceware|Diceware method is one example.
+
+
+Category:Cryptography

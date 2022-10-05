@@ -1,0 +1,37 @@
+{{Infobox Constellation|
+name = Phoenix |
+abbreviation = Phe |
+genitive = Phoenicis |
+symbology = the Phoenix (mythology)|Phoenix |
+RA = 0 |
+dec= −50 |
+areatotal = 469 |
+arearank = 37th |
+numbermainstars = 4 |
+numberbfstars = 25 |
+numberstarsplanets = 3 |
+numberbrightstars = 1 |
+numbernearbystars = 2 |
+brighteststarname = Alpha Phoenicis|α Phoenicis (Ankaa) |
+starmagnitude = 2.39 |
+neareststarname = Nu Phoenicis|ν Phoenicis |
+stardistance = 49.1 |
+numbermessierobjects = 0 |
+meteorshowers =Phoenicids |
+bordering =Sculptor (constellation)|SculptorGrus (constellation)|Grus Tucana (constellation)|TucanaHydrus (corner)Eridanus (constellation)|EridanusFornax |
+latmax = 32 |
+latmin = 90 |
+month = November |
+notes=}}
+'''Phoenix''' () is a small and not-so-bright constellation in the southern sky. It is one of the birds in a "nest" of bird constellations near it.  This constellation was named after the mythical Phoenix (mythology)|phoenix.
+
+ Mythology 
+This constellation represents a mythological bird that burns itself up every several hundred years then comes back alive from the ashes of the fire
+
+ Other websites 
+
+ 
+
+
+
+Category:Constellations

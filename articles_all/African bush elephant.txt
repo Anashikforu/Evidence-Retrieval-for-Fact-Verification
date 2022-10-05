@@ -1,0 +1,26 @@
+{{Taxobox
+| name = African bush elephant
+| status = VU
+| status_system = iucn3.1
+| status_ref =  Database entry includes a range map and a lengthy justification of why this species is vulnerable
+| trend = unknown
+| image = Elephant near ndutu.jpg
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Mammalia
+| ordo = Proboscidea
+| familia = Elephantidae  
+| genus = ''African elephant|Loxodonta''
+| binomial = ''Loxodonta africana''
+| binomial_authority = (Johann Friedrich Blumenbach|Blumenbach, 1797)}}
+
+The '''African bush elephant''' (''Loxodonta africana'') is the larger of the two species of African elephant.Shoshani, Jeheskel ''et al'' 2005. ''Mammal species of the world''. 3rd ed,  2 vols, Baltimore: Johns Hopkins University Press, pp. 91.  The bull males can weigh 13000 pounds and stand 13 feet tall at the shoulder.Larramendi A. 2016. Shoulder height, body mass and shape of proboscideans. ''Acta Palaeontologica Polonica'' '''61''' (3): 537–574. 
+The population of bush elephants has drastically declined in the last thirty years. It is hunted for its ivory and meat. Protection by game wardens has been only partly successful.
+
+This large elephant is well adapted to the grassland plains of East Africa, and it is sometimes called the '''African savannah elephant'''. 
+
+The African bush elephant occurs in Sub-Saharan Africa including Uganda, Kenya, Tanzania, Botswana, Zimbabwe, Namibia, Zambia, and Angola. 
+
+It moves between a variety of habitats. These include subtropical and temperate forests, dry and seasonally flooded grasslands and woodlands, wetlands and agricultural land from sea level to mountain slopes. In Mali and Namibia, it also lives at times in desert areas.
+
+Category:Elephants

@@ -1,0 +1,22 @@
+{{Taxobox
+| name = Spot-billed pelican
+| image = Spotbilled pelican.jpg
+| image_width = 200px
+| status = NT
+| status_system = iucn3.1
+| trend = down
+| regnum = Animalia
+| classis = Aves
+| ordo = Pelecaniformes
+| familia = Pelecanidae
+| genus = ''Pelecanus''
+| binomial = ''Pelecanus philippensis''}}
+
+The '''spot-billed pelican''' (''Pelecanus philippensis'') is a member of the pelican family. It breeds in southern Asia from southern Pakistan. It is a bird of large inland and coastal waters, especially shallow lakes. The nest is a heap of vegetation in a tree. Three to four eggs is the usual clutch size.
+
+
+
+
+
+Category:Birds of Pakistan
+Category:Pelecaniformes

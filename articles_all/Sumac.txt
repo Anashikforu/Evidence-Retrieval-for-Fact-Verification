@@ -1,0 +1,19 @@
+{{taxobox
+|name = Sumac
+|image = Sumac fruit.JPG
+|image_caption = Sumac fruit in fall
+|regnum = Plantae
+|unranked_divisio = Flowering plant|Angiosperms
+|unranked_classis = Eudicots
+|unranked_ordo = Rosids
+|ordo = Sapindales
+|familia = Anacardiaceae
+|genus = '''''Rhus'''''
+|genus_authority = Carl Linnaeus|L.
+|type_species = ''Rhus coriaria''
+|type_species_authority = Carl Linnaeus|L.
+
+'''Sumac''', also spelled '''sumach''', is a flowering plant.
+
+Sumacs are small trees. The leaf|leaves are arranged like spirals. The flowers are in spikes. Each flower is very small, greenish, creamy white or red, with five petals. The fruits form wiktionary:cluster|clusters of reddish drupes called "sumac bobs".
+Category:Spices

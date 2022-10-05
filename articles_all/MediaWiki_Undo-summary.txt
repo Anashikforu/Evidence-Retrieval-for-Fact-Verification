@@ -1,0 +1,1 @@
+Undid revision $1 by Special:Contributions/$2|$2 (User talk:$2|talk)

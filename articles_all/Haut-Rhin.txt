@@ -1,0 +1,149 @@
+
+'''Haut-Rhin''' is a departments of France|department in the Grand Est regions of France|region of France, named after the Rhine River|Rhine river that flows along its eastern border. Its name means ''Upper Rhine''. The Prefectures in France|prefecture (Capital city|capital) of Haut-Rhin is Colmar.
+
+History
+Haut-Rhin is one of the original 83 departments created during the French Revolution on 4 March 1790. It was divided in three districts: Altkirch, Belfort and Colmar, with Colmar as is Capital city|capital.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the three districts were changed into five ''arrondissements'': Colmar, Altkirch, Belfort, Delémont and Porrentruy. The ''arrondissements'' Delémont and Porrentruy were eliminated in 1814 and transferred to Switzerland.
+
+The Subprefectures in France|subprefecture of Altkirch was moved to Mulhouse in 1857.
+
+The Haut-Rhin department was eliminated in 1871 when the territory became part of Germany except for a part that forms the Territoire de Belfort.
+
+In 1919, Haut-Rhin is again an department when the territory became part of France with the ''arrondissements'' Colmar-Ville, Colmar-Campagne, Altkirch, Guebwiller, Mulhouse, Ribeauvillé and Thann. Its capital is Colmar.
+
+The ''arrondissements'' Colmar-Ville and Colmar-Campagne were combined in 1934 to form the ''arrondissement'' of Colmar.
+
+In 2015, the ''arrondissements'' of Guebwiller and Ribeauvillé were eliminated and the name of the ''arrondissements'' of Thann and Colmar were changed to Thann-Guebwiller and Colmar-Ribeauvillé.
+
+Geography
+Haut-Rhin is the smaller and less populated of the two departments of the former administrative Alsace region. It is in the Grand Est region and borders 3 departments in 2 Regions of France|regionsː
+ Grand Est region
+ Bas-Rhin
+ Vosges
+ Bourgogne-Franche-Comté region
+ Territoire de Belfort
+
+To the east, the department borders Germany along the Rhine River|Rhine river, and to the south it borders with Switzerland.
+
+
+
+Haut-Rhin has an area of  high. high along the Rhine river.
+
+The main river in the department is the Rhine River|Rhine that forms the eastern border of the department, and of France.
+
+=Climate=
+The area around Colmar, at an altitude of about , is characterized by climates with few extremes of temperature. The Köppen climate classification type for the climate at Strasbourg is a "Marine West Coast Climate" and of the subtype "'''Cfb'''".
+
+The average amount of precipitation for the year in Strasbourg is .
+
+The average temperature for the year in Strasbourg is .
+
+Administration
+Haut-Rhin is managed by the ''Departmental Council of Haut-Rhin'' in Colmar. The department is part of the Grand Est region.
+
+=Administrative divisions=
+There are 4 Arrondissements of France|''arrondissements'' (districts), 17 Cantons in France|''cantons'' and 366 Communes in France|''communes'' (Municipality|municipalities) in Haut-Rhin.
+
+
+
+
+
+The following is a list of the 17 Cantons of France|cantons of the Haut-Rhin department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Altkirch|Altkirch (6801)
+# Canton of Brunstatt|Brunstatt (6802)
+# Canton of Cernay|Cernay (6803)
+# Canton of Colmar-1|Colmar-1 (6804)
+# Canton of Colmar-2|Colmar-2 (6805)
+# Canton of Ensisheim|Ensisheim (6806)
+# Canton of Guebwiller|Guebwiller (6807)
+# Canton of Kingersheim|Kingersheim (6808)
+# Canton of Masevaux|Masevaux (6809)
+# Canton of Mulhouse-1|Mulhouse-1 (6810)
+# Canton of Mulhouse-2|Mulhouse-2 (6811)
+# Canton of Mulhouse-3|Mulhouse-3 (6812)
+# Canton of Rixheim|Rixheim (6813)
+# Canton of Saint-Louis, Haut-Rhin|Saint-Louis (6814)
+# Canton of Sainte-Marie-aux-Mines|Sainte-Marie-aux-Mines (6815)
+# Canton of Wintzenheim|Wintzenheim (6816)
+# Canton of Wittenheim|Wittenheim (6817)
+
+
+Demographics
+The inhabitants of the Haut-Rhin department are known, in French language|French, as ''Haut-Rhinois'' or (women: ''Haut-Rhinoises''),
+
+Haut-Rhin had a population, in 2014, of 760,134, for a population density of  inhabitants/km2. The ''arrondissement'' of Mulhouse, with 350,032 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Haut-Rhin'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:800000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:100000 start:0
+ScaleMinor = gridcolor:lightgrey increment:50000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2008 text:2008
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 585018
+ bar:1975 from:0 till: 635209
+ bar:1982 from:0 till: 650372
+ bar:1990 from:0 till: 671319
+ bar:1999 from:0 till: 708025
+ bar:2008 from:0 till: 746072
+ bar:2014 from:0 till: 760134
+
+PlotData=
+
+ bar:1968 at: 585018 fontsize:S text: 585.018 shift:(-15,5)
+ bar:1975 at: 635209 fontsize:S text: 635.209 shift:(-15,5)
+ bar:1982 at: 650372 fontsize:S text: 650.372 shift:(-15,5)
+ bar:1990 at: 671319 fontsize:S text: 671.319 shift:(-15,5)
+ bar:1999 at: 708025 fontsize:S text: 708.025 shift:(-15,5)
+ bar:2008 at: 746072 fontsize:S text: 746.072 shift:(-15,5)
+ bar:2014 at: 760134 fontsize:S text: 760,134 shift:(-20,5)
+
+
+
+
+The 10 ''Communes of France|communes'' with more inhabitants in the Haut-Rhin department are:
+
+
+
+
+Gallery
+
+File:Mulhouse - Town hall.jpg|Mulhouse, old City and town halls|town hall.
+File:Colmar - Alsace.jpg|Colmar's old town.
+File:Altkirch1.jpg|Historic centre of Altkirch.
+File:Grandballonsud.jpg|The ''Grand Ballon'', southern side.
+File:Hunawihr1P7.jpg|Hunawihr and its vineyards.
+
+
+Related pages
+ Arrondissements of the Haut-Rhin department
+ Communes of the Haut-Rhin department
+
+Category:1790s establishments in France

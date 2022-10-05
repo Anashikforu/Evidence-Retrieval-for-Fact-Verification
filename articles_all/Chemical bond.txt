@@ -1,0 +1,21 @@
+
+
+'''Chemical bond''' is a type of attraction force which holds together different chemical species. Atoms bonded stay together unless the needed amount of energy is energy transfer|transferred to the bond. 
+
+In general, strong chemical bonding comes with the sharing or transfer of electrons between the participating atoms. The atoms in molecules, crystals, metals and diatomic gases are held together by chemical bonds. 
+
+There are two types of bonds; covalent and ionic. Covalent bonds form when atoms share electrons. Ionic bond|Ionic bonding is the attraction between oppositely charged ions. Chemical bonds are negatively charged electrons that are pulling protons into each other.
+
+Because atoms and molecules are three-dimensional, it is difficult to use a single method to indicate orbitals and bonds. In molecular formulas the chemical bonds between atoms are indicated in different ways depending on the type of discussion.
+
+A common way chemists describe chemical bonds is through the number of electrons each atom has on itself. Each atom is drawn with the number of electrons as dots or lines to form a maximum of eight.  If the electrons form a chemical bond then a line is drawn between the two electrons. The number of bonds developed increases the number of lines. Atkins, Peter; Loretta Jones 1997. ''Chemistry: molecules, matter and change''. New York: W. H. Freeman, pp. 294–295. ISBN 0-7167-3107-X
+
+
+
+Bonds can be double bonds or '''triple bonds'''
+
+ Related pages 
+Chemical formula
+Double bond|Double bonds
+
+Category:Energy

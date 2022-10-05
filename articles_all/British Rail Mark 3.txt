@@ -1,0 +1,42 @@
+{{Infobox DMU
+|name = British Rail Mark 3
+|image =  BR Mk.IIIa TSO No.12604 (8074749189).jpg
+|imagesize = 250px 
+|background = #0033cc
+|caption = Chiltern Railways Mark 3 with retrofitted plug doors at London Marylebone in August 2012
+|Manufacturer = BREL
+|Operator = CrossCountryEast Midlands TrainsFirst Great WesternFirst ScotRailGrand Central RailwayNational Express East AngliaVirgin Trains East CoastNetwork RailWrexham & Shropshire
+|Formation = 
+|Built = 848 vehicles
+|LinesServed = 
+|InService = 1975- present
+|CarLength = 
+|CarWidth = 
+|CarHeight = 
+|Weight = 
+|Capacity = 
+|MaxSpeed = 125mph 200km/h 
+|Gauge = 
+|Traction = 
+|Engine =
+ |}}
+Image:EMT HST Mk3 Leicester AB3.JPG|thumb|Mark 3 at Leicester.
+Image:Mark3tso.JPG|thumb|A Mark 3 TS coach pictured at London Paddington, in old First Great Western colours
+Image:Mark3gner.jpg|thumb|A Mark 3 TS coach pictured at Aberdeen railway station|Aberdeen, in GNER colours
+Image:FGW HST Standard Class coach B 2005-06-09.jpg|thumb|The original BREL-designed interior -  this photo is of a First Great Western standard class Mark 3 coach
+Image:FgwNewHighDensityCoach.jpg|thumb|Interior of a new First Great Western high Density HST Carriage
+
+British Rail's third fundamental design of railway carriage|carriage was designated '''Mark 3''', and was introduced in 1976 primarily for use on the InterCity 125|High Speed Train (HST).  The coaches were also used as conventional loco-hauled stock as part of the West Coast Main Line (WCML) northern electrification scheme in the mid 1970s, designated Mark 3A and 3B.  The final batch was built in 1988, but Mark 3-based multiple units continued to be built until the early 1990s.
+
+Related pages
+
+ InterCity 125
+ British Rail Class 43 (HST)|Class 43 power cars
+
+
+
+
+
+
+Category:High-speed trains
+Category:British Rail coaching stock| Mark 3

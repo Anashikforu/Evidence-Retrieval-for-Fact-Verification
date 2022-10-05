@@ -1,0 +1,36 @@
+{{Infobox Planet   | bgcolour=#FFFFC0
+| name=31 Euphrosyne
+| discoverer=James Ferguson (astronomer)|J. Ferguson
+| discovered=September 1, 1854
+| alt_names=A907 GP; A918 GB
+| mp_category=Main belt
+| epoch=December 31, 2006 (Julian day|JD 2454100.5)
+| semimajor=471.163 Giga|Gmetre|m (3.150 Astronomical unit|AU)
+| perihelion=364.755 Gm (2.438 AU)
+| aphelion=577.571 Gm (3.861 AU)
+| eccentricity=0.226
+| period=2041.585 day|d (5.59 Julian year (astronomy)|a)
+| inclination=26.316degree (angle)|°
+| asc_node=31.238°
+| arg_peri=61.996°
+| mean_anomaly=14.500°
+| avg_speed=16.57&nbsp;km/second|s
+| dimensions=255.9&nbsp;km
+| mass=~1.69 kilogram|kg 
+| density=~1.9&nbsp;g/cubic centimetre|cm³
+| surface_grav=~0.0679&nbsp;m/s²
+| escape_velocity=~0.1319&nbsp;km/s
+| rotation=0.2305 d (5.531 h) 
+| spectral_type=C-type asteroid|C
+| abs_magnitude=6.74
+| albedo=0.0543 
+| single_temperature=~159 kelvin|K}}
+'''31 Euphrosyne''' is one of the biggest Asteroid belt|main belt asteroids, found by James Ferguson (astronomer)|James Ferguson on September 1, 1854. It was the first asteroid found from North America. It is named after Euphrosyne (mythology)|Euphrosyne, one of the Charites in Greek mythology.
+
+It is the eighth biggest main belt asteroid and contains around 1% of the mass of the entire asteroid belt, but is a very dark body near the belt's farther edge. Because of that, Euphrosyne is never visible with binoculars, having a maximum magnitude at the best possible opposition of around +10.2, which is actually fainter than any of the thirty asteroids previously found.
+
+It has not been studied a lot despite being one of the biggest asteroids. It is a normal C-type asteroid with a primitive surface. Its orbit, however, is quite unusual. It's orbit is similar to that of 2 Pallas in its high inclination and eccentricity. Whereas Pallas and Eris (dwarf planet)|Eris - the only bigger bodies with comparably tilted orbits - have nodes near perihelion and aphelion, Euphrosyne's perihelion lies at the northernmost point of its orbit. During a rare perihelic opposition Euphrosyne is very high in the sky from northern latitudes, but invisible from such countries as New Zealand and Chile.
+
+Its apparently low density suggests that, unlike 10 Hygiea, 704 Interamnia and 52 Europa, Euphrosyne is a loosely-packed rubble pile (an asteroid that has been broken apart by a collision with all the pieces pulled together by gravity). Its rotation period is very common for big asteroids, but nothing is known of its axial tilt.
+
+Category:Asteroids

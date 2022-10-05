@@ -1,0 +1,50 @@
+{{Infobox national football team
+| Name               = Papua New Guinea
+| Nickname           = ''Kapuls'' (Cuscus)
+| Association        = Papua New Guinea Football Association
+| Confederation      = Oceania Football Confederation|OFC (Oceania)
+| Coach              = Flemming Serritslev
+| Captain            = Michael Foster (footballer)|Michael Foster
+| Most caps          = Michael Foster (23)Reggie Davani 
+| Top scorer         = Reggie Davani (15)
+| Home Stadium       = Hubert Murray Stadium
+| FIFA Trigramme     = PNG
+| FIFA Rank          = 
+| FIFA max           = 153
+| FIFA max date      = June 2017
+| FIFA min           = 206
+| FIFA min date      = October–November 2015
+| Elo Rank           = 
+| Elo max           = 134
+| Elo max date      = 1989
+| Elo min           = 188
+| Elo min date      = 2003
+| pattern_la1        = _Liechtenstein17a
+| pattern_b1         = _Liechtenstein17a
+| pattern_ra1        = _Liechtenstein17a
+| pattern_sh1        = _Liechtenstein17a
+| pattern_so1        = _Liechtenstein17a
+| leftarm1           = 
+| body1              = 
+| rightarm1          = 
+| shorts1            = 
+| socks1             = FF0000
+| pattern_la2        = _adidaswhite
+| pattern_b2         = _adidaswhite
+| pattern_ra2        = _adidaswhite
+| pattern_sh2        = _adidaswhite
+| leftarm2           = 000000
+| body2              = 000000
+| rightarm2          = 000000
+| shorts2            = 000000
+| socks2             = 000000
+| First game         =  (Suva, Fiji; 29 August 1963)| Largest win        = (Apia, Samoa|Western Samoa;22 August 1983)
+| Largest loss       =  (Nouméa, New Caledonia; 26 February 1980)
+| Regional name      = OFC Nations Cup
+| Regional cup apps  = 4
+| Regional cup first = 1980 OFC Nations Cup|1980
+| Regional cup best  = Runners-up, 2016 OFC Nations Cup|2016
+|Badge=Flag of Papua New Guinea.svg}}
+'''Papua New Guinea national football team''' is the national football (soccer)|football team of Papua New Guinea.
+
+Category:Sport in Papua New Guinea

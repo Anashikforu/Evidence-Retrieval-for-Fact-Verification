@@ -1,0 +1,32 @@
+{{Infobox Language
+|name=Bashkir language
+|nativename=Баш''
+|states=Russia, Uzbekistan, Kazakhstan
+|speakers=more than 1,400,000
+|familycolor=Altaic
+|fam1=Altaic languages|Altaic
+|fam2=Turkic languages|Turkic
+|fam3=Kypchak languages|Kypchak
+|fam4=Kypchak-Bolgar
+|nation=Bashkortostan
+|iso1=ba|iso2=bak|iso3=bak}}
+
+The '''Bashkir language''' (Native name: ) is a Turkic languages|Turkic language. Speakers of the Bashkir language mostly live in the Russian republic of Bashkortostan. A large number of speakers also live in Tatarstan, Udmurtia, Perm Krai, Chelyabinsk Oblast|Chelyabinsk, Orenburg Oblast|Orenburg, Sverdlovsk Oblast|Sverdlovsk, and Kurgan Oblasts.
+
+ Alphabet 
+Like other languages of Russia, Bashkir uses an alphabet made up of Cyrillic letters. The Bashkir alphabet has 42 letters, made up of the 33 letters of the Russian language|Russian alphabet and 9 more letters for special Bashkir sounds. These 9 letters and their sounds are:
+Ә ә /æ/
+Ө ө /ø/
+Ү ү y
+Ғ ғ /ʁ/
+Ҡ ҡ /q/
+Ң ң /ŋ/
+Ҙ ҙ /ð/
+Ҫ ҫ /θ/
+Һ һ /h/
+
+
+
+
+Category:Turkic languages
+Category:Languages of Russia

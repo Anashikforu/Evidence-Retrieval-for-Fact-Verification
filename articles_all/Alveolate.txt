@@ -1,0 +1,31 @@
+{{Taxobox
+| name = Alveolata
+| fossil_range = Ediacaran - Recent
+| image = Ceratium furca.jpg
+| image_caption = ''Ceratium furca''
+| domain = Eukarya
+| regnum = Chromalveolata
+| superphylum = '''Alveolata'''
+| subdivision_ranks = Phyla
+| subdivision = 
+Ciliophora
+Apicomplexa
+Dinoflagellate|Dinoflagellata
+Chromerida}}
+
+The '''Alveolata''' is a grouping of protists. One view is that it is a superphylum with at least four phyla. 
+
+ Phyla 
+
+
+
+ Ciliates, very common protozoa, with many short cilia arranged in rows
+ Chromerida – a marine phylum of photosynthetic protozoa
+ Apicomplexa, parasitic protozoa that lack locomotive structures except in gametes
+ Dinoflagellate, mostly Marine biology|marine flagellates, many of which have chloroplasts
+
+
+
+
+
+Category:Alveolata| 

@@ -1,0 +1,21 @@
+{{taxobox
+| fossil_range = 323 mya Upper Carboniferous – present
+| image = Octopus2.jpg
+| image_caption = The common octopus, ''Octopus vulgaris''.
+| name = Octopoda
+| regnum = Animalia
+| phylum = Mollusca
+| classis = Cephalopoda
+| subclassis = Coleoidea
+| superordo = Octopodiformes
+| ordo = Octopoda
+| subdivision_ranks = Suborders
+| subdivision = 
+Cirrina
+Incirrina}}
+'''Octopoda''' is one of the largest order (biology)|orders which contain the common octopus and some other types.William Elford Leach, 1818. 
+Octopods are put into two suborders. One, the Incirrina, is composed of the well-known ''Octopus'' of rocky shores and coral reefs and its relatives. The other suborder, the Cirrina, contains octopods whose tentacles are linked by an umbrella-like mantle, so their activity is rather different from the common octopus.
+
+
+
+Category:Cephalopods

@@ -1,0 +1,15 @@
+'''Electronic money''' is money stored electronically, and spent by using a technical device, such as a smart card.  If it is stored on a card, its use may be secured by a PIN code.  In Japan, electronic money is commonly used to pay for train tickets.  JR East’s prepaid train ticket (Suica) and JR West’s IC Operating card (ICOCA).  Suica and ICOCA are plastic cards with a built-in IC chip.  Suica was originally introduced in 2001.
+
+In addition, many types of electronic money are used in other train stations in Japan. For example, Kitaca is electronic money in the Hokkaidō Prefecture|Hokkaido area, Sugoca is used in the Kyūshū Shinkansen|Kyusyu area, etc. Most electronic money is also used to pay for goods at Convenience store|convenience stores in Japan.
+
+In 2004, NTT DoCoMo launched a mobile phone that uses smart card chip to realize electronic
+money capability. Recently, many people have been using these kinds of electronic money cards in Japan.
+
+Note, that electronic money is always backed by real money. For this reason, Cryptocurrency|cryptocurrencies cannot be used as electronic money.
+
+ Related pages 
+
+ Bitcoin
+ Debit card
+
+Category:Money

@@ -1,0 +1,29 @@
+
+
+In cryptography, '''Twofish''' is a Symmetric-key algorithm|symmetric key block cipher with a block size (cryptography)|block size of 128 bits and Key size|key lengths up to 256 bits. 
+
+In 1997, the National Institute of Standards and Technology|NIST announced for competition to choose a successor to Data Encryption Standard|DES to be known as Advanced Encryption Standard|AES, Twofish was one of the ''five finalists'' of the Advanced Encryption Standard competition, but was not selected as a standard. 
+
+Twofish is related to the earlier block cipher Blowfish (cipher)|Blowfish. Twofish's main features are the use of pre-computed key-dependent Substitution box|S-boxes, and a relatively complex key schedule. One half of an n-bit key is used as the actual encryption key and the other half of the n-bit key is used to modify the encryption algorithm (key-dependent S-boxes). Twofish uses some elements from other designs; for example, the pseudo-Hadamard transform (PHT) from the SAFER family of ciphers. Twofish uses the same Feistel network|Feistel structure as the Data Encryption Standard|DES.
+
+On most software platforms Twofish is slightly slower than Rijndael key schedule|Rijndael (the chosen algorithm for Advanced Encryption Standard) for 128-bit key (cryptography)|keys, but somewhat faster for 256-bit keys.
+
+
+ Creators 
+Twofish was designed by Bruce Schneier, John Kelsey (cryptanalyst)|John Kelsey, Doug Whiting, David Wagner, Chris Hall (cryptographer)|Chris Hall, and  Niels Ferguson; the "extended Twofish team" who met to made further cryptanalysis of Twofish and other AES Competition|competitors included Stefan Lucks, Tadayoshi Kohno, and Mike Stay.
+
+Twofish algorithm is Free software|free for anyone to use without any restrictions whatsoever. The Twofish cipher has not been patented and the software example of its specification has been placed in the public domain. However, Twofish is not widely used like the Blowfish (cipher)|Blowfish, which has been available for a longer period of time.
+
+ Cryptanalysis 
+As of 2008, the best published cryptanalysis on the Twofish block cipher is a truncated differential cryptanalysis of the full 16-round version. The paper claims that the probability of truncated differentials attacks is 2-57.3 per block and that it will take about 251 chosen plaintexts (32 PiB worth of data) to find a good pair of truncated differentials.
+    
+
+Bruce Schneier responds in a 2005 blog entry that this paper does not present a full cryptanalytic attack, but only some Hypothesis|hypothesized Differential cryptanalysis|differential characteristics: "But even from a Theoretical computer science|theoretical perspective, Twofish is not even remotely broken. There have been no extensions to these results since they were published" in 2000.
+
+
+Related pages
+ Blowfish (cipher)
+ Advanced Encryption Standard
+ Data Encryption Standard
+
+Category:Cryptography

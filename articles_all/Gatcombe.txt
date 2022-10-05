@@ -1,0 +1,23 @@
+
+
+{{Infobox UK place | 
+  |country =                 England
+  |official_name=            Gatcombe
+  |civil_parish=             Gatcombe
+  |latitude =                50.66187
+  |longitude =               -1.30294
+  |population=              
+  |unitary_england=       Isle of Wight
+  |map_type =                Isle of Wight
+  |lieutenancy_england=   Isle of Wight
+  |region =                  South East England 
+  |constituency_westminster=  Isle of Wight (UK Parliament constituency)|Isle of Wight
+  |post_town=                NEWPORT
+  |postcode_district=        PO30
+  |postcode_area=            PO  
+  |dial_code=      01983             
+  |os_grid_reference=        SZ493849}}
+'''Gatcombe''' is a village and civil parish
+A carved wooden effigy of Edward Estur, a local knight who fought in the Crusades, is in the church. 
+
+Category:Villages on the Isle of Wight

@@ -1,0 +1,21 @@
+
+{{Taxobox
+| name = ''Mycobacterium tuberculosis''
+| image = TB_Culture.jpg
+| image_width = 250px
+| image_caption = ''M. tuberculosis'' bacterial colonies
+| regnum = Bacterium|Bacteria
+| phylum = Actinobacteria
+| class = Actinobacteria
+| subclass = Actinobacteridae
+| ordo = Actinomycetales
+| subordo = Corynebacterineae
+| familia = Mycobacterium|Mycobacteriaceae
+| genus = ''Mycobacterium''
+| binomial = ''Mycobacterium tuberculosis''
+| binomial_authority = Zopf 1883}}
+
+'''''Mycobacterium tuberculosis''''' is a bacterium that causes tuberculosis. ''M. tuberculosis'' was first described on 24 March 1882 by Robert Koch. The bacterium was first called the "tubercle bacillus", and is now also known as Robert Koch|Koch's bacillus. This disease is spread by the air and from getting coughed or sneezed on by an infected patient.
+
+Tuberculosis used to kill over half the people who were infected. The bacterium was almost wiped out by antibiotics, but is now a threat again because strains have appeared which are antibiotic resistance|resistant to all the usual antibiotics.Gallagher, James 2013. 
+Category:Gram-negative bacteria

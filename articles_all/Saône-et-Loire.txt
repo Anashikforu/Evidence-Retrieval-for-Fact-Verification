@@ -1,0 +1,166 @@
+
+'''Saône-et-Loire''' is a Departments of France|department in the centre of France. It is in the Bourgogne-Franche-Comté Regions of France|region. It is named after the two main rivers in the department: the Saône and the Loire River|Loire rivers.
+
+The largest city in the department is Chalon-sur-Saône. The Prefectures in France|prefecture (Capital (city)|capital) is the smaller city of Mâcon.
+
+History
+Saône-et-Loire is one of the original 83 departments created during the French Revolution on 4 March 1790 with Mâcon as its Capital (city)|capital. It was formed from combined parts of the old provinces of southern ''Burgundy'' and ''Bresse'', uniting lands which have no true Geography|geographical unity.
+
+It was divided in seven districts: Autun, Bourbon-Lancy, Chalon-sur-Saône, Charolles, Louhans, Mâcon and Semur-en-Brionnais. That same year, the name of the district Semur-en-Brionnais was changed to Marcigny.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the seven districts were changed into five ''arrondissements'': Mâcon, Autun, Chalon-sur-Saône, Charolles and Louhans.
+
+After the Battle of Waterloo (18 June 1815), the department was occupied by the Austrian army from June 1815 to November 1818.
+
+On 10 September 1926, the ''arrondissement'' of Louhans was eliminated but in 1942 it became again an ''arrondissement'' of the department.
+
+Geography
+
+Saône-et-Loire is part of the Bourgogne-Franche-Comté Regions of France|region. It has an area of ; the seventh largest department of France.
+
+The department borders with 7 other departments in two regions:
+ Bourgogne-Franche-Comté region
+ Côte-d'Or (north)
+ Nièvre (nortwest)
+ Jura (department)|Jura (east)
+ Auvergne-Rhône-Alpes region
+ Ain (southeast)
+ Rhône (department)|Rhône (south)
+ Loire (southwest)
+ Allier (west)
+
+
+
+There are five Nature|natural regions in the department:
+# '''Autunois''', to the northwest; it is the region around Autun.
+# '''Charolais, France|Charolais''', to the southwest and around the ''commune'' of Charolles.
+# '''Chalonnais''', to the north with Chalon-sur-Saône as the main city.
+# '''Mâconnais''', to the south and around the ''commune'' of Mâcon.
+# '''Bresse''', to the east of the Saône river with Louhans as the main city.
+
+The main rivers in the department are the Loire (river)|Loire, that makes most of the western border of the department and that flows to the north, into the Atlantic Ocean; and the Saône, in the eastern part of the department and that flows to the south and joins the Rhône river at Lyon.
+
+=Climate=
+The Köppen climate classification type for the climate at Charnay-lès-Mâcon is an "Oceanic climate" (also known as Maritime Temperate climate) and of the subtype '''Cfb'''.
+
+The average temperature for the year in Charnay-lès-Mâcon, to the west of Mâcon and where is the local airport, is .
+
+The average amount of precipitation for the year in Charnay-lès-Mâcon is .
+
+Administration
+Saône-et-Loire is managed by the ''Departmental Council of Saône-et-Loire'' in Mâcon. The department is part of the Bourgogne-Franche-Comté region.
+
+=Administrative divisions=
+There are 5 Arrondissements of France|''arrondissements'' (districts), 29 Cantons in France|''cantons'' and 567 Communes in France|''communes'' (Municipality|municipalities) in Saône-et-Loire.
+
+
+
+
+
+The following is a list of the 29 Cantons of France|cantons of the Saône-et-Loire department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Autun-1|Autun-1 (7101)
+# Canton of Autun-2|Autun-2 (7102)
+# Canton of Blanzy|Blanzy (7103)
+# Canton of Chagny|Chagny (7104)
+# Canton of Chalon-sur-Saône-1|Chalon-sur-Saône-1 (7105)
+# Canton of Chalon-sur-Saône-2|Chalon-sur-Saône-2 (7106)
+# Canton of Chalon-sur-Saône-3|Chalon-sur-Saône-3 (7107)
+# Canton of La Chapelle-de-Guinchay|La Chapelle-de-Guinchay (7108)
+# Canton of Charolles|Charolles (7109)
+# Canton of Chauffailles|Chauffailles (7110)
+# Canton of Cluny|Cluny (7111)
+# Canton of Le Creusot-1|Le Creusot-1 (7112)
+# Canton of Le Creusot-2|Le Creusot-2 (7113)
+# Canton of Cuiseaux|Cuiseaux(7114)
+# Canton of Digoin|Digoin (7115)
+# Canton of Gergy|Gergy (7116)
+# Canton of Givry|Givry (7117)
+# Canton of Gueugnon|Gueugnon (7118)
+# Canton of Hurigny|Hurigny (7119)
+# Canton of Louhans|Louhans (7120)
+# Canton of Mâcon-1|Mâcon-1 (7121)
+# Canton of Mâcon-2|Mâcon-2 (7122)
+# Canton of Montceau-les-Mines|Montceau-les-Mines (7123)
+# Canton of Ouroux-sur-Saône|Ouroux-sur-Saône (7124)
+# Canton of Paray-le-Monial|Paray-le-Monial (7125)
+# Canton of Pierre-de-Bresse|Pierre-de-Bresse (7126)
+# Canton of Saint-Rémy|Saint-Rémy (7127)
+# Canton of Saint-Vallier, Saône-et-Loire|Saint-Vallier (7128)
+# Canton of Tournus|Tournus (7129) 
+
+
+Demographics
+The inhabitants of Saône-et-Loire are known, in French language|French, as ''Saône-et-Loiriens'' (women: ''Saône-et-Loiriennes'').
+
+Saône-et-Loire had a population, in 2014, of 555,788, for a population density of  inhabitants/km2. The ''arrondissement'' of Chalon-sur-Saône, with 200,084 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Saône-et-Loire'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:600000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:100000 start:0
+ScaleMinor = gridcolor:lightgrey increment:50000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2006 text:2006
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 550364
+ bar:1975 from:0 till: 569810
+ bar:1982 from:0 till: 571852
+ bar:1990 from:0 till: 559413
+ bar:1999 from:0 till: 544893
+ bar:2006 from:0 till: 549359
+ bar:2014 from:0 till: 555788
+
+PlotData=
+ bar:1968 at: 550364 fontsize:S text: 550,364 shift:(-13,5)
+ bar:1975 at: 569810 fontsize:S text: 569,810 shift:(-18,5)
+ bar:1982 at: 571852 fontsize:S text: 571,852 shift:(-18,5)
+ bar:1990 at: 559413 fontsize:S text: 559,413 shift:(-18,5)
+ bar:1999 at: 544893 fontsize:S text: 544,893 shift:(-18,5)
+ bar:2006 at: 549359 fontsize:S text: 549,359 shift:(-18,10)
+ bar:2014 at: 555788 fontsize:S text: 555,788 shift:(-18,10)
+
+
+
+The cities with more than inhabitants in the department are:
+
+
+
+
+Gallery
+
+File:Saône-et-Loire (septembre 2012) 032.JPG|Alphonse de Lamartine|Lamartine's statue in Mâcon
+File:Temple Janus angle.jpg|Temple of Janus in Autun
+File:Abbaye Cluny Kreuzgang1.jpg|Cluny Abbey
+File:Chalon-sur-Saône--place-du-marché.jpg|Chalon-sur-Saône
+File:Autun BasiliqueStLazare03 JPM.JPG|Antun Cathedral.
+File:Chalon-sur-Saône.jpg|Chalon-sur-Saône and the Saône river.
+File:Profil Maison du Charolais et vaches charolaises.jpg|Cows outside the ''Maison du Charolais'', Charolles.
+File:Marché de Louhans 048.JPG|Market in Louhans.
+
+
+Category:Departments in Bourgogne-Franche-Comté

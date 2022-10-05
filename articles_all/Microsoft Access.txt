@@ -1,0 +1,9 @@
+'''Microsoft Access''' is a database computer program. It is part of Microsoft Office. 
+ 
+
+ Related Products 
+ Microsoft Access Runtime
+ Microsoft Access Snapshot Viewer
+
+
+Category:Microsoft Office

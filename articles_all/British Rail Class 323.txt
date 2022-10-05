@@ -1,0 +1,29 @@
+{{Infobox EMU
+|name = British Rail Class 323 
+|image =323214_Aston_(crop).jpg
+|imagesize = 300px
+|background = #0033cc
+|caption =West Midlands Trains 323214 at Astonin March 2019
+|Manufacturer = Hunslet Engine Company|Hunslet TPL
+|Family = 
+|Operator = Northern Trains  West Midlands Trains
+|Formation = Three car
+|Built = 43 
+|AreasServed = Greater Manchester, Cheshire, Staffordshire(limited service), Derbyshire West Midlands (county)|West Midlands
+|InService = 1994 - present
+|Refurbishment =2011-2013, 2018-2021 
+|CarLength = End Units 23.37 m  Central Unit 23.44 m
+|CarWidth = 
+|CarHeight = 
+|Weight = 119.8 tonnes
+|Capacity = End Units 97 seats  Central Unit 81 seats  Total capacity 275 seats 
+|MaxSpeed = 
+|Gauge = Standard gauge 
+|Power = 1.168 megawatt|MW
+|Voltage = 25 kV Alternating current|AC Overhead lines|Overhead
+|Brakes = Regenerative Air Brake
+|multipleworking=Within-class only (in service); other units with Tightlock coupling|Tightlock autocouplers (rescue purposes only)|coupling=
+Image:323209 at Birmingham New Street.JPG|thumb|240px|right|Class 323, no. 323209 waiting at Birmingham New Street on 24th September 2003. This unit was operated by Central Trains (now West Midlands Trains|West midlands Trains) and is painted in West Midlands Passenger Transport Executive|Centro livery.
+The British Rail '''Class 323''' electric multiple units were built by Hunslet Engine Company|Hunslet TPL from 1992-96. Forty-three 3-car units were built for inner-suburban services around Birmingham and Manchester. These trains were the last vehicles to be built by the struggling manufacturer Hunslet before it collapsed.
+
+Category:British Rail electric multiple units|323

@@ -1,0 +1,28 @@
+
+{{Taxobox
+| name = ''Massospondylus''
+| fossil_range = Upper Triassic to Lower Jurassic
+| image = Massospondylus 1 NHM2.jpg
+| image_width =  300px
+| image_caption = ''Massospondylus''
+| regnum = Animalia
+| classis = Sauropsida
+| superordo = Dinosauria
+| ordo = Saurischia
+| subordo = Sauropodomorpha
+| infraordo = Prosauropoda
+| familia = Plateosauridae
+| genus = '''''Massospondylus'''''
+| genus_authority = Richard Owen|Owen, 1854}}
+
+'''''Massospondylus''''' was a dinosaur from the Upper Triassic to the Lower Jurassic periods.
+
+
+
+
+
+
+
+Category:Dinosaurs of Africa
+Category:Jurassic dinosaurs
+Category:Sauropodomorphs

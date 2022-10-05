@@ -1,0 +1,145 @@
+
+'''Alpes-Maritimes''' () is a Departments of France|department of the Provence-Alpes-Côte d'Azur Regions of France|region in the extreme southeast corner of France.
+
+The name Alpes-Maritime comes from ,  a Ancient Rome|Roman military district created in the region by Augustus in 14 Anno Domini|BC.
+
+History
+
+The department of the Alpes-Martimes was created on 4 February 1793 with the territory of the County of Nice that was Annexation|annexed in January of the same year. The Capital city|capital was Nice. It was divided in three districts: Menton, Nice and Puget-Théniers. In 1794, district of Menton was changed to district of Fort-d'Hercule (Monaco).
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the three districts were changed into three ''arrondissements'': Nice, Monaco and Puget-Théniers.
+
+After the annexation of Sanremo|San Remo, the ''arrondissement''  of San Remo was created in 1805. By the Peace of Paris (1814)|Peace of Paris in 1814, San Remo passed to Genoa and the rest of the department passed to the Kingdom of Sardinia.
+
+When Nice became part of France in 1860, the department was created again with Nice as the capital and with the ''arrondisement'' of Grasse that was part of Var (department)|Var department. In the same year, the department was divided in two ''arrondissements'': Grasse and Puget-Théniers.
+
+On 10 September 1926, the ''arrondissement'' of Puget-Théniers was eliminated.
+
+Geography
+The Alpes-Maritimes is part of the Provence-Alpes-Côte d'Azur Regions of France|region. It has an area of .
+
+The department is surrounded by the Piedmont and Liguria  Regions of Italy|regions (Italy) and two departments; the Mediterranean Sea is to the south. It surrounds the Monaco|Principality of Monaco on the west, north, and east.
+
+ Provence-Alpes-Côte d'Azur region
+ Alpes-de-Haute-Provence (northwest)
+ Var (department)|Var (southwest)
+
+
+
+
+Administration
+Alpes-Maritimes is managed by the ''Departmental Council of Alpes-Maritimes'' in Nice. The department is part of the Provence-Alpes-Côte d'Azur region.
+
+=Administrative divisions=
+There are 2 Arrondissements of France|''arrondissements'' (districts), 27 Cantons in France|''cantons'' and 163 Communes in France|''communes'' (Municipality|municipalities) in Alpes-Maritimes.
+
+
+
+
+
+The following is a list of the 27 '''Cantons of France|cantons of the Alpes-Maritimes Departments of France|department''', in France, following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Antibes-1|Antibes-1 (0601)
+# Canton of Antibes-2|Antibes-2 (0602)
+# Canton of Antibes-3|Antibes-3 (0603)
+# Canton of Beausoleil|Beausoleil (0604)
+# Canton of Cagnes-sur-Mer-1|Cagnes-sur-Mer-1 (0605)
+# Canton of Cagnes-sur-Mer-2|Cagnes-sur-Mer-2 (0606)
+# Canton of Cannes-1|Cannes-1 (0607)
+# Canton of Cannes-2|Cannes-2 (0608)
+# Canton of Le Cannet|Le Cannet (0609)
+# Canton of Contes|Contes (0610)
+# Canton of Grasse-1|Grasse-1 (0611)
+# Canton of Grasse-2|Grasse-2 (0612)
+# Canton of Mandelieu-la-Napoule|Mandelieu-la-Napoule (0613)
+# Canton of Menton|Menton (0614)
+# Canton of Nice-1|Nice-1 (0615)
+# Canton of Nice-2|Nice-2 (0616)
+# Canton of Nice-3|Nice-3 (0617)
+# Canton of Nice-4|Nice-4 (0618)
+# Canton of Nice-5|Nice-5 (0619)
+# Canton of Nice-6|Nice-6 (0620)
+# Canton of Nice-7|Nice-7 (0621)
+# Canton of Nice-8|Nice-8 (0622)
+# Canton of Nice-9|Nice-9 (0623)
+# Canton of Tourrette-Levens|Tourrette-Levens (0624)
+# Canton of Valbonne|Valbonne (0625)
+# Canton of Vence|Vence (0626)
+# Canton of Villeneuve-Loubet|Villeneuve-Loubet (0627)
+
+
+Demographics
+The inhabitants of Alpes-Maritimes are known, in French language|French, as ''Maralpins'' (women: ''Maralpines'').
+
+Alpes-Maritimes had a population, in 2014, of 1,083,312, for a population density of  inhabitants/km2. The ''arrondissement'' of Grasse, with 560,045 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Alpes-Maritimes'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:1120000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:120000 start:0
+ScaleMinor = gridcolor:lightgrey increment:60000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2006 text:2006
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 722070
+ bar:1975 from:0 till: 816681
+ bar:1982 from:0 till: 881198
+ bar:1990 from:0 till: 971829
+ bar:1999 from:0 till: 1011326
+ bar:2006 from:0 till: 1073184
+ bar:2014 from:0 till: 1083312
+
+PlotData=
+ bar:1968 at: 722070 fontsize:S text: 722,070 shift:(-12,5)
+ bar:1975 at: 816681 fontsize:S text: 816,681 shift:(-18,5)
+ bar:1982 at: 881198 fontsize:S text: 881,198 shift:(-18,5)
+ bar:1990 at: 971829 fontsize:S text: 971,829 shift:(-18,5)
+ bar:1999 at: 1011326 fontsize:S text: 1,011,326 shift:(-25,5)
+ bar:2006 at: 1073184 fontsize:S text: 1,073,184 shift:(-25,5)
+ bar:2014 at: 1083312 fontsize:S text: 1,083,312 shift:(-25,5)
+
+
+
+The ''Communes of France|communes'' in the department with more than 20,000 inhabitants are:
+
+
+
+
+Gallery
+
+File:Nice-seafront.jpg|Nice seafront.
+File:Menton-Côte d'Azur.jpg|Menton.
+File:Eglise Notre-Dame du Port Nice.jpg|''Notre Dame du Port'' church, Nice.
+File:P1000710 Roseraie a Cannes.JPG|Rose garden in Cannes.
+File:Vue de Grasse.jpg|View of Grasse.
+
+
+Related pages
+ Arrondissements of the Alpes-Maritimes department
+ Communes of the Alpes-Maritimes department
+
+Category:Alpes-Maritimes| 

@@ -1,0 +1,25 @@
+
+
+A '''knot''' is a unit of speed. It is abbreviated kt or kn. It is a non-International System of Units|SI unit accepted for use with the SI. It is used around the world in meteorology and for maritime and aviation purposes.
+
+ Definition 
+1 international knot = 1&nbsp;nautical mile per hour = 1.852&nbsp;kilometres per hour exactly. This is based on the internationally agreed length of the nautical mile, as adopted by the US in 1954 (which previously used the US nautical mile of 1853.248 m), the UK in 1970 (which previously used the UK or Admiralty nautical mile of 1853.184 m) and other countries. This is the definition used in most, if not all, modern circumstances.  Knot is sometimes used for the nautical mile itself, but this is incorrect.
+
+The speed of a vessel relative to the fluid in which it travels is usually measured in knots.  This may be referred to as 'boat speed', 'vessel speed' and, for aircraft, 'air speed'. The speeds of relevant fluids, such as tidal streams, river currents and wind speeds, are also usually specified in knots. Knots are then also used to describe the actual Ground speed|speed of a vessel over the ground (SOG) and for its rate of progress toward a distant point ('velocity made good' or VMG).
+
+ Conversions 
+One (international) knot is the same as 1.852 kilometres per hour (km·h−1), and is approximately equal to the following:
+
+ 101.268591&nbsp;foot (unit of length)|feet per minute
+ 1.687810&nbsp;feet per second
+ 514.4444 millimetre per second|mm per second (mm·s−1) 
+ 1.150779 mile (statute) per hour (miles per hour|mph)
+ 0.99936 Admiralty knot
+
+ Discussion 
+Although knots do not fit within the primary SI system, they are used for nautical and aviation use  for navigational reasons, because the length of a nautical mile is almost identical to a minute of latitude. As a result, distance in nautical miles on a navigational chart can easily be measured by using wikt:divider|dividers and the latitude indicators on the side of the chart.
+
+Related pages
+ Metre per second
+
+Category:Water transport

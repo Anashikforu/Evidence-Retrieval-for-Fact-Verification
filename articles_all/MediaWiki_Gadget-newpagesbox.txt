@@ -1,0 +1,1 @@
+''New page box:'' Add a box to the left column, which shows the ten newest pages and updates every five seconds (using AJAX).

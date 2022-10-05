@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Orange-bellied Euphonia
+| image = Euphonia xanthogaster.jpg
+| status = LC | status_system = iucn3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Aves
+| ordo = Passeriformes
+| familia = Fringillidae
+| genus = ''Euphonia''
+| species = '''''E. xanthogaster'''''
+| binomial = ''Euphonia xanthogaster''
+| binomial_authority = Carl Jakob Sundevall|Sundevall, 1834
+| synonyms = }}
+
+The '''Orange-bellied euphonia''' (''Euphonia xanthogaster'') is a species of bird in the Fringillidae (finch) family.  It is found in Bolivia, Brazil, Colombia, Ecuador, Guyana, Panama, Peru, and Venezuela. Its natural habitats are subtropical or tropical moist lowland forests and subtropical or tropical moist montane forests.
+
+
+
+Category:Finches

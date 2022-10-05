@@ -1,0 +1,38 @@
+{{Infobox EMU
+|name = British Rail Class 365 Networker Express
+|image = Class 365 Networker Express in Great Northern livery by Hugh Llewelyn.jpg
+|imagesize = 300px
+|caption = Govia Thameslink Railway|Great Northern 365523 at London King's Cross railway station|London King's Cross in September 2015
+|background = #4870B5
+|Manufacturer = Asea Brown Boveri|ABB
+|Operator = Abellio ScotRailConnex South EasternFirst Capital ConnectGovia Thameslink Railway|Great NorthernNetwork SouthEastSouth Eastern TrainsWest Anglia Great Northern
+|Formation = 4 cars per trainset. 242 seats 
+1 Driving Motor Open Standard (DMOS) 
+1 Pantograph Trailer Open Standard Lavatory (PTOSL) 
+1 Trailer Open Standard Lavatory (TOSL) 
+1 Driving Motor Open Composite (DMOC)
+|Family = Networker (train)|Networker
+|Built = 41 trainsets
+|InService = 9 December 1996 - 15 May 2021
+|Refurbishment = 2013 – 2016Bombardier Transportation Ilford EMU Depot|Ilford
+|Weight = 
+|CarLength = 
+|CarWidth = 
+|CarHeight = 
+|MaxSpeed = 100 mph (161 km/h)
+|Power = 1,256 kW
+|Gauge = Standard gauge|1,435 mm
+|Voltage = 25 kV Alternating current|AC Overhead lines|Overhead 750 Volt|V Direct current|DC Contact shoe (removed)
+|numberscrapped=18 trainsets|yearconstruction=1994-1995|factory=Holgate Road carriage works}}
+
+Image:365502 at London Victoria.jpg|thumb|250px|right|Class 365, no. 365502 at London Victoria on 18th March 2003. This unit is pictured with the original front end cab design, and is painted in Connex South Eastern "Networker" livery. This unit was then transferred to WAGN (train operating company)|WAGN, then to First Capital Connect and then to Govia Thameslink Railway|Great Northern. It has since received cab modifications.
+Image:365530 arriving at Cambridge.JPG|thumb|250px|right|Class 365, No. 365530 arriving at Cambridge on 15th May 2004, with a service from King's Lynn. This unit was operated by West Anglia Great Northern at the time and has a modified front end with cab air conditioning. It is shown still painted in obsolete Network SouthEast livery.
+
+The '''British Rail''' '''Class 365 "Networker Express"''' are dual-voltage (25kV alternating current|AC and 750V direct current|DC) electric multiple units built by Asea Brown Boveri|ABB at York from 1994-95. These were the last units to be built at York works before it closed. All Class 365 units received front end cab modifications to equip them with cab air conditioning. Their final service was on May 15 2021.
+
+
+
+
+Category:British Rail electric multiple units|365
+
+

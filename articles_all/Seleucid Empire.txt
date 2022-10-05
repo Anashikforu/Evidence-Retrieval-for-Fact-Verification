@@ -1,0 +1,79 @@
+{{Infobox Former Country
+|native_name            = 
+|conventional_long_name = Seleucid Empire
+|common_name            = 
+|continent              = Asia
+|region                 = Central Asia
+|era                    = Hellenistic period
+|government_type        = Monarchy
+|status                 = 
+|status_text            = 
+|year_start             = 312 BC
+|year_end               = 63 BC
+|event_start            = Wars of the Diadochi
+|event_end              = Syria (Roman province)|Annexed by Rome
+|event1                 = Battle of Ipsus
+|date_event1            = 301 BC
+|event2                 = Roman–Syrian War
+|date_event2            = 192–188 BC
+|event3                 = Treaty of Apamea
+|date_event3            = 188 BC
+|event4                 = Maccabean Revolt
+|date_event4            = 167–160 BC
+|
+|p1                     = Macedonian Empire
+|flag_p1                = Vergina Sun - Golden Larnax.png
+|border_p1       = no
+|s1                     = Syria (Roman province)Province of Syria
+|flag_s1                = Spqrstone.jpg
+|s2                     = Parthian Empire
+|flag_s2                = 
+|s3                     = Greco-Bactrian Kingdom
+|flag_s3                = 
+|s4                     = Hasmonean kingdom
+|flag_s4                = 
+|s5                     = Magadha
+|flag_s5                = 
+|s6                     = Osroene
+|flag_s6                = 
+|stat_year1 = 301 BC
+|stat_area1             = 3000000
+|stat_year2             = 240 BC
+|stat_area2             = 2600000
+|stat_year3             = 175 BC
+|stat_area3             = 800000
+|stat_year4             = 100 BC 
+|stat_area4             = 100000
+|image_map              = Hellenistic world 281 B.C..png
+|image_map_caption      = The empire at its greatest extent and on the eve of the death of Seleucus I, 281 BC
+|capital                = Seleucia(305–240 BC)Antioch(240–63 BC)
+|common_languages = Greek language|Greek(official)Richard N. Frye, ''The history of ancient Iran'', (Ballantyne Ltd, 1984), 164.Persian language|PersianAramaic
+|image_coat             = 201209071746a Berlin Pergamonmuseum, Tetradrachme Seleukos' I, Silber, Pergamon, 281-280 v.u.Z.jpg
+|coa_size=170px 
+|symbol_type            = Tetradrachm of Seleucus I, the horned horse, the Elephant and the anchor were all used as symbols of the Seleucid monarchy.Cohen, Getzel M; The Hellenistic dettlements in Syria, the Red Sea basin, and North Africa, pp. 13.Lynette G. Mitchell; Every inch a king: comparative studies on kings and kingship in the ancient and medieval worlds, page 123.
+|symbol                 = 
+|religion               =  Ancient Greek religion|OlympianismBabylonian religionJulye Bidmead, ''The Akitu Festival: religious continuity and royal legitimation in Mesopotamia'', (Gorgias Press, 2004), 143. Zoroastrianism
+|leader1                = Seleucus I Nicator|Seleucus I (first)
+|leader2                = Philip II Philoromaeus|Philip II (last)
+|year_leader1           = 305–281 BC
+|year_leader2           = 65–63 BC
+|title_leader           = List of Seleucid rulers|Basileus
+|today                  = 
+
+The '''Seleucid Empire''' was a Hellenistic civilization|Hellenistic (or Ancient Greek) successor state of Alexander the Great's empire. At its greatest extent, the Empire covered central Anatolia, the Levant, Mesopotamia, Persia, Turkmenistan, Pamir Mountains|Pamir and the Indus Valley.
+
+Primarily, it was the successor to the Achaemenid Empire of Persia, and was followed there by the Islamic Caliphate (Rashidun Empire) conquest and rule, from 650s to 660s AD. Later on, much of this area became part of the Umayyad Empire and then the Abbasid Empire.
+
+There were over 30 kings of the Seleucid dynasty from 323 to 63 BC.
+
+ The partition of Alexander's empire (323–281 BC) 
+Alexander the Great had conquered the Persian Empire but later died young, leaving his huge empire of partly Hellenized culture without an adult heir. 
+
+The empire was put under the management of a regent named Perdiccas in 323 BC, and the territories were divided between Alexander's generals, who thereby became satraps, at the Partition of Babylon. Leaders who thought they should have more, started wars to get it. Soon the various parts of the empire were fighting each other.
+
+ The early Seleucid Empire 
+Seleucus I Soter was one of Alexander's generals who received a portion of the huge empire Alexander had carved out. He received huge expanses of land in Syria, Babylon, Anatolia, even as far out as India. When Perdiccas was killed in a political assassination by Ptolemy of Egypt, the empire that was barely held together then splintered apart. The Seleucid Empire quickly expanded, eventually taking parts of Thrace in the west and advancing past the Indus in the East. 
+
+Seleucus I clashed several times with his southern rival for power, the Ptolemaic Dynasty. The Ptolemaic Dynasty controlled most of Egypt and the lands around it, and would fight the Seleucid Empire on many occasions for control of Syria. Seleucus I conquered much of Anatolia, and was preparing to invade Macedonia, when he was assassinated. This momentarily put an end to the Seleucid Empire's ambitions in Greece. After Seleucus I died, his heirs spent much of their time and money trying to maintain the enormous empire they had inherited. In this, they were rather successful, but the vastness of the empire defied attempts by the successors of Seleucus to control it effectively.
+
+Category:History of the Middle East

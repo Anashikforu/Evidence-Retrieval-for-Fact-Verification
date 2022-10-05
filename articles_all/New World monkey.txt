@@ -1,0 +1,26 @@
+{{Taxobox
+| name = New World monkeys
+| image = Ateles fusciceps Colombia.JPG
+| image_width = 225px
+| image_caption = Black-headed spider monkey with its prehensile tail
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Primates
+| subordo = Haplorhini
+| infraordo = Simian|Simiiformes
+| parvordo = '''Platyrrhini'''
+| parvordo_authority = Étienne Geoffroy Saint-Hilaire|Geoffroy, 1812
+| superfamilia = '''Ceboidea'''}}
+'''New World monkeys''' are the families of primates which are found in Central America|Central and South America. The families are ranked together as the '''Ceboidea''' superfamily, the only living '''platyrrhine''' superfamily. They differ from the Old World monkeys and apes, which are Catarrhini.
+
+ '''Platyrrhini''': the New World monkeys.Schneider, Horacio 2000. The current status of the New world monkey phylogeny. ''Anals de Academia Brasileira de Ciéncias'' '''72''', 2,  Family Cebidae: capuchin monkey|capuchins and squirrel monkeys. Subfamily Callitrichinae: marmosets and tamarins. Subfamily Aotinae: Night monkey|night or owl monkeys
+ Family Pitheciidae: titis, saki (monkey)|sakis and uakaris
+ Family Atelidae: Howler monkey|howler, Spider monkey|spider, muriqui (woolly spider) and woolly monkeys
+
+Origin
+About 40 million years ago, the simians split into the groups: the Platyrrhini (New World monkeys) and Catarrhini (apes and Old World monkeys). The key question is how did the early monkeys get to the Americas? There is at present no evidence for either of the two possible routes. Route one is across the then less wide Atlantic. Route two is across Asia, across the Bering Strait, and down through North America.Alan de Queiroz, ''The Monkey's Voyage'', Basic Books, 2014.
+
+There are some big differences between the two groups of monkeys. New World monkeys have noses of flatter shape with nostrils facing to the side. Most do not have full colour vision,Jacobs G.H. ''et al'' 1996. Trichromatic colour vision in New World monkeys. ''Nature'' '''382''' (6587): 156–158. 
+Related pages
+List of New World monkey species
+

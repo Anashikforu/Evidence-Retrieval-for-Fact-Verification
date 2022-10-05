@@ -1,0 +1,13 @@
+
+'''Moment of inertia''' (I), also called "'''angular mass'''" (kg·m2), is the inertia of a rotating body with respect to its rotation.
+
+It is a rotating body's resistance to angular acceleration or deceleration, equal to the product of the mass and the square of its perpendicular distance from the axis of rotation.
+
+Moments of inertia for a few objects
+
+
+Related pages
+ Angular momentum
+ Torque
+
+Category:Physical quantity

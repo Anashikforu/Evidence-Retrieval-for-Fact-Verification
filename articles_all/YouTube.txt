@@ -1,0 +1,67 @@
+
+
+
+'''YouTube''' is a free video sharing and social networking website and app on the internet. The website lets people upload, view, and share videos. YouTube was founded on February 14, 2005 by three former members of PayPal.  Google (a search engine company) has owned and operated YouTube since 2006. YouTube now carries paid advertisements on all pages.
+
+There is a triangle on a box in YouTube's logo. The people upload videos on YouTube are called YouTubers. Youtube give YouTubers rewards (called play buttons) by completing milestones.
+
+Videos can be rated with likes or dislikes (the latter cannot be seen since a 2021 update), and viewers can subscribe to channels they like. Videos can be commented on if viewers log into their own accounts. The number of times a video has been watched, known as "views", are shown. YouTube have another app called YouTube Kids for kids.
+
+Many different types of videos can be put onto the website, such as educational content, animations, and events.
+
+There are very popular YouTubers such as MrBeast, PewDiePie and Wilbur Soot.
+
+History
+On February 14, 2005, three former workers of PayPal founded the site. In November 2006, Google bought YouTube. In 2012, an iOS app was created for YouTube. They changed their logo in 2017.
+
+= Videos =
+YouTube needed the Adobe Flash Player plug-in to play videos in the past.
+
+All YouTube
+
+ Banning 
+YouTube is blocked in many schools because it allows children to search for videos that might distract them from their lessons. But at a higher level than schools (and in workplaces), some governments have blocked YouTube access to their country's public. Their reasons vary. Some countries have also banned it. These are listed below.
+
+= Iran =
+On December 3, 2006, the Islamic Republic of Iran|government of Iran blocked YouTube and several other sites to stop films and music from other countries from being seen.
+
+= Turkey =
+Turkey blocked YouTube on March 6, 2007 for letting videos that were mean or discriminating to Turks and Mustafa Kemal Atatürk|Atatürk, the founder of modern Turkey, to be shown. Because of a "virtual war" between Greeks, Armenians, Kurds and Turks on YouTube, people from each side posted videos to hurt the other.
+
+= Thailand =
+During the week of March 8, YouTube was blocked in Thailand. Many bloggers (people who have a "diary" online) believed the reason YouTube was blocked was because of a video of the former Prime Minister Thaksin Shinawatra's speech on CNN. However, the government did not confirm or give reasons for the ban. YouTube was unblocked on March 10.
+
+On the night of April 3, YouTube was again blocked in Thailand. Soon after this incident the internet technology blog Mashable was banned from Thailand over the reporting of the YouTube clips in question.
+
+
+= Brazilian model lawsuit and banning that came after =
+YouTube is being sued by Brazilian model and MTV VJ Daniela Cicarelli (better known as Ronaldo's ex-fiancée) because she says that the site is making available a video footage made by a paparazzi (or celebrity photographer) in which she and her boyfriend are having sex on a Spanish beach. The lawsuit says that YouTube has to be blocked in Brazil until all copies of the video are removed. On Saturday, January 6, 2007, a legal injunction (command) ordered that filters be put in place to prevent users in Brazil from going to the website.
+The effectiveness of the measure has been questioned, since the video is not available only on YouTube, but rather has become an Internet phenomenon. On Tuesday, January 9, 2007, the same court overturned their earlier decision, ordering the filters to be taken down, even though the footage was still forbidden, but without technical support for its blockage.
+
+= Morocco =
+On May 25, 2007 the state-owned company Maroc Telecom blocked all access to YouTube.
+
+= Australia =
+In Australia, some schools, including all secondary schools in Victoria (Australia)|Victoria, have YouTube blocked from student access, after fights have been posted on YouTube.
+
+= China =
+Currently in China, the government has blocked YouTube. For several years, it has been unblocked but since March 24, 2009 it has been blocked, on May 12, 2022, YouTube Will Be Unblocked on China Due to 14th Anniversary of 2008 Sichuan earthquake|Great Wenchuan earthquake., ''CNN'', March 25, 2009
+
+ Terms of service 
+According the site's terms of service,
+=Localization=
+On June 19, 2007, Google CEO Eric Schmidt was in Paris to launch the new Internationalization and localization|localization system. The interface of the website is available with localized versions in 104 countries, and a worldwide version.
+
+
+=Testing language=
+The interface of the YouTube website is available in 76 language versions including, Albanian language|Albanian, Amharic language|Amharic, Armenian language|Armenian, Burmese language|Burmese, Khmer language|Khmer, Kyrgyz language|Kyrgyz, Lao language|Laotian, Mongolian language|Mongolian, Persian language|Persian and Uzbek language|Uzbek, which do have local channel versions.
+
+Criticism
+
+YouTube has been criticized for how poorly they manage user-generated content and because of how a number of their policies are considered unfair to content creators. YouTube has been criticized for not properly handling copyrighted content that is added in uploaded videos. 
+
+Because YouTube keeps changing policies on the types of content that is eligible to be monetized with advertising, many content creators are concerned about these frequent changes. YouTube policies restrict certain forms of content from being included in videos being monetized with advertising. This includes videos containing violence, strong language, sexual content, "controversial or sensitive subjects and events, including subjects related to war, political conflicts, natural disasters and tragedies, even if graphic imagery is not shown" (unless the content is "usually newsworthy or comedic and the creator's intent is to inform or entertain"),
+
+After testing earlier in 2021, YouTube removed public display of dislike counts on videos in November 2021, citing its internal research that found users often used the dislike feature as a form of cyberbullying and Vote brigading|brigading. While some users praised the move as a way to discourage Internet troll|trolls, others felt that hiding dislikes would make it harder for viewers to recognise clickbait or unhelpful videos, and that other features already existed for creators to limit bullying. Some theorised the removal of dislikes was influenced by YouTube Rewind 2018, which was universally panned and became the List of most-disliked YouTube videos|most-disliked video on the platform. YouTube co-founder Jawed Karim referred to the update as "a stupid idea", and that the reason behind the change was "not a good one, and not one that will be publicly disclosed." Karim felt that the ability for users on a social platform to identity bad content was essential, saying, "The process works, and there’s a name for it: the wisdom of the crowds. The process breaks when the platform interferes with it. Then, the platform invariably declines."
+
+Category:YouTube| 

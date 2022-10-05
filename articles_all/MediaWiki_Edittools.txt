@@ -1,0 +1,112 @@
+
+
+
+'''Insert:''' – — … ° ≈ ≠ ≤ ≥ ± − × ÷ ← → · § &nbsp;&nbsp;'''Sign your username:''' ~~&#126;~
+----
+'''Wiki markup:'''
+  &nbsp;
+| &nbsp;
++ &nbsp;
++ &nbsp;
+Category:+ &nbsp;
+#REDIRECT+ &nbsp;
++ &nbsp;
++ &nbsp;
++ &nbsp;
++ &nbsp;
++ &nbsp;
++ &nbsp;
+ &nbsp;
+ &nbsp;
++ &nbsp;
++ &nbsp;
+ &nbsp;
+&lt;nowiki>+ &nbsp;
++ -->&nbsp;
++&nbsp;&nbsp;&bull;&nbsp;
+(Wikipedia:Template messages|templates)
+'''Symbols:'''  ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶ &nbsp;
+ # ¹ ² ³ ∞  &nbsp;
+ ‘ “ ’ ”  &nbsp;
+ ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥  &nbsp;
+ ♠ ♣ ♥ ♦ &nbsp;&nbsp;&bull;&nbsp;
+  &nbsp;
+ 
+'''Characters:'''
+
+ Á á Ć ć É é Í í Ĺ ĺ Ń ń Ó ó Ŕ ŕ Ś ś Ú ú Ý ý Ź ź  &nbsp;
+ À à È è Ì ì Ò ò Ù ù  &nbsp;
+ Â â Ĉ ĉ Ê ê Ĝ ĝ Ĥ ĥ Î î Ĵ ĵ Ô ô Ŝ ŝ Û û Ŵ ŵ Ŷ ŷ  &nbsp;
+ Ä ä Ë ë Ï ï Ö ö Ü ü Ÿ ÿ  &nbsp;
+ ß  &nbsp;
+ Ã ã Ẽ ẽ Ĩ ĩ Ñ ñ Õ õ Ũ ũ Ỹ ỹ &nbsp;
+ Ç ç Ģ ģ Ķ ķ Ļ ļ Ņ ņ Ŗ ŗ Ş ş Ţ ţ  &nbsp;
+ Đ đ  &nbsp;
+ Ů ů  &nbsp;
+ Ǎ ǎ Č č Ď ď Ě ě Ǐ ǐ Ľ ľ Ň ň Ǒ ǒ Ř ř Š š Ť ť Ǔ ǔ Ž ž  &nbsp;
+ Ā ā Ē ē Ī ī Ō ō Ū ū Ȳ ȳ Ǣ ǣ  &nbsp;
+ ǖ ǘ ǚ ǜ  &nbsp;
+ Ă ă Ĕ ĕ Ğ ğ Ĭ ĭ Ŏ ŏ Ŭ ŭ  &nbsp;
+ Ċ ċ Ė ė Ġ ġ İ ı Ż ż  &nbsp;
+ Ą ą Ę ę Į į Ǫ ǫ Ų ų  &nbsp;
+ Ḍ ḍ Ḥ ḥ Ḷ ḷ Ḹ ḹ Ṃ ṃ Ṇ ṇ Ṛ ṛ Ṝ ṝ Ṣ ṣ Ṭ ṭ  &nbsp;
+ Ł ł  &nbsp;
+ Ő ő Ű ű  &nbsp;
+ Ŀ ŀ  &nbsp;
+ Ħ ħ  &nbsp;
+ Ð ð Þ þ  &nbsp;
+ Œ œ  &nbsp;
+ Æ æ Ø ø Å å  &nbsp;
+ Ə ə &nbsp;&nbsp;&bull;&nbsp;
+
+'''Greek:'''
+ Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ  &nbsp; 
+ Α α Β β Γ γ Δ δ  &nbsp;
+ Ε ε Ζ ζ Η η Θ θ  &nbsp;
+ Ι ι Κ κ Λ λ Μ μ  &nbsp;
+ Ν ν Ξ ξ Ο ο Π π  &nbsp;
+ Ρ ρ Σ σ ς Τ τ Υ υ  &nbsp;
+ Φ φ Χ χ Ψ ψ Ω ω  &nbsp;•&nbsp;
+ &nbsp;
+'''Cyrillic:'''  А а Б б В в Г г  &nbsp;
+ Ґ ґ Ѓ ѓ Д д Ђ ђ  &nbsp;
+ Е е Ё ё Є є Ж ж  &nbsp;
+ З з Ѕ ѕ И и І і  &nbsp;
+ Ї ї Й й Ј ј К к  &nbsp;
+ Ќ ќ Л л Љ љ М м  &nbsp;
+ Н н Њ њ О о П п  &nbsp;
+ Р р С с Т т Ћ ћ  &nbsp;
+ У у Ў ў Ф ф Х х  &nbsp;
+ Ц ц Ч ч Џ џ Ш ш  &nbsp;
+ Щ щ Ъ ъ Ы ы Ь ь  &nbsp;
+ Э э Ю ю Я я  &nbsp;
+'''IPA:''' t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ  &nbsp;
+ ɸ ʃ ʒ ɕ ʑ ʂ ʐ ʝ ɣ ʁ ʕ ʜ ʢ ɦ  &nbsp;
+ ɱ ɳ ɲ ŋ ɴ  &nbsp;
+ ʋ ɹ ɻ ɰ  &nbsp;
+ ʙ ʀ ɾ ɽ  &nbsp;
+ ɫ ɬ ɮ ɺ ɭ ʎ ʟ  &nbsp;
+ ɥ ʍ ɧ  &nbsp;
+ ɓ ɗ ʄ ɠ ʛ  &nbsp;
+ ʘ ǀ ǃ ǂ ǁ  &nbsp;
+ ɨ ʉ ɯ  &nbsp;
+ ɪ ʏ ʊ  &nbsp;
+ ɘ ɵ ɤ  &nbsp;
+ ə ɚ  &nbsp;
+ ɛ ɜ ɝ ɞ ʌ ɔ  &nbsp;
+ ɐ ɶ ɑ ɒ  &nbsp;
+ ʰ ʷ ʲ ˠ ˤ ⁿ ˡ  &nbsp;
+ ˈ ˌ ː ˑ  ̪ &nbsp; &nbsp;&bull;&nbsp;
+
+
+
+
+'''When you click "Publish Changes", your changes will be made right away!'''
+ To try a test, please use the '''Wikipedia:Sandbox|Sandbox''' instead.
+ If this is a '''talk page''', please sign by typing "~~~~" at the end of your comment.
+
+
+DO NOT SEND COPYRIGHTED WORK WITHOUT PERMISSION!
+
+Do not copy articles directly from the English Wikipedia, because they are usually too complex, and can use templates that are not here.
+ Any writing you send to Wikipedia is legally released under the  Only free resources ("Royalty-free") that are not copyrighted can be copied word for word. This '''does not include''' most websites. By clicking "Publish Changes", you are promising that these are your own words, or words copied from a free resource that is not copyrighted, or is available under a compatible license.

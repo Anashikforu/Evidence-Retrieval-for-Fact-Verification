@@ -1,0 +1,22 @@
+{{Taxobox
+| name = Himalyan wolf
+| image = Wolf.JPG
+| image_width = 250px
+| image_caption = Himalayan Wolf captive in Bangladesh, moving.
+| status = CR
+| trend = down
+| status_system = iucn3.1
+| status_ref =
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Carnivora
+| familia = Canidae
+| genus = ''Canis''
+| species = '''''Canis lupus filchneri'''''
+| range_map = 
+| range_map_width = 
+| range_map_caption = }}
+
+The '''Himalayan wolf''' is a proposed clade within the Tibetan wolf (''Canis lupus filchneri'') subspecies. Its mitochondrial DNA is basal to all other wolves including other Tibetan wolves. The taxonomic status of this wolf clade was disputed: the separate species ''Canis himalayensis'' was proposed, based on two limited DNA studies.
+
+Category:Plants and animals of Kashmir

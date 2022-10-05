@@ -1,0 +1,19 @@
+
+
+'''iWork''' is a suite of programs created by Apple Inc., containing '''Pages''', a word processing and desktop publishing program, '''Keynote (software)|Keynote''', a presentation package and '''Numbers (software)|Numbers''', a spreadsheet program.
+Although iWork is called "a successor to AppleWorks" by Apple,Apple press release 
+
+History
+=iWork '05=
+iWork '05 was launched on January 11, 2005 and had the new version 2 of Keynote (software)|Keynote and the first release of Pages. Before it was released, what would become iWork was said to be an add-on, upgrade, or new release of AppleWorks.
+
+=iWork '06=
+On January 10, 2006, Apple introduced iWork '06 at the Macworld Expo in San Francisco, which upgraded Pages to version 2 and Keynote (software)|Keynote to version 3.Apple press release 
+= iWork '08 =
+iWork '08 was announced on August 7, 2007 at a special event at Apple's Cupertino campus. New versions of Pages and Keynote were introduced, as was a new spreadsheet application, Numbers (software)|Numbers. Despite this, hard disk space requirements were reduced from 1.85&nbsp;GB in iWork '06 to 690&nbsp;MB in iWork '08. iWork '08 was the end of AppleWorks which was not sold anymore a week later. iWork 08 drops support for Mac OS X v10.3 'Panther'.
+
+Related pages
+Office suite
+Keynote (software)
+
+Category:Apple software

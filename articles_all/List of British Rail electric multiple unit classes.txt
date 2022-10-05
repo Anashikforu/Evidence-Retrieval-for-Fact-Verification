@@ -1,0 +1,69 @@
+This page lists every electric locomotive|electric-powered multiple unit allocated a TOPS classification or used on the mainline network since 1948 (i.e. British Railways and post-privatisation). British Rail operated a wide variety of '''electric multiple units''' for use on Railway electrification in Great Britain|electrified lines.
+ '''AC units''' operate off 25 volt|kV alternating current (AC) from overhead wires. Where clearances for the overhead wires on the '''Great Eastern Main Line''' and '''London, Tilbury and Southend railway''' routes were below standard, a reduced voltage of 6.25 kV AC was used. The Midland Railway units used 6.6 kV AC. Under the computer numbering, AC units (including mixed-voltage units that can also work off a DC supply) were given a class in the range 300-399.
+ '''DC units''' operate off 650-850 volt|V direct current (DC) from a third rail on the '''Southern Region of British Railways|Southern Region''' and North London, Merseyside and Tyneside networks. The '''Manchester-Bury Railway''' line used 1,200 V DC from a side-contact third rail. The '''Manchester South Junction & Altrincham''' and '''"Woodhead"''' and initially the '''Great Eastern Railway''' routes used 1,500 V DC from overhead wires. Under the computer numbering, DC units were given a class in the range 400-599.
+
+AC EMUs and dual-voltage EMUs
+= First generation =
+
+
+
+
+=Second generation=
+
+
+
+
+=Modern Generation=
+
+These use electrical switching devices (thyristors and transistors) and have electronic power control.
+
+
+
+=High Speed Trains=
+
+
+
+DC EMUs
+=Southern Region units=
+The Southern Railway (Great Britain)|Southern Railway and its successor, the Southern Region of British Rail, used SR Multiple Unit Numbering and Classification|three letter codes to classify their DC EMU fleets, as shown after the TOPS class numbers.
+Pre-Nationalisation
+
+
+
+Mark 1 and 2 Bodyshell
+
+
+
+
+Tube stock
+
+
+
+Modern EMUs
+
+
+
+
+=Other DC units=
+The 500 series classes were reserved for DC (third/fourth rail) EMUs not from the Southern Region. This included the DC (third/fourth rail) lines in North London, Merseyside and Greater Manchester. The DC electric network around Tyneside had been de-electrified by the time TOPS was introduced, and the stock withdrawn or transferred to the Southern Region.
+
+
+
+'''TOPS classes'''
+
+
+'''Pre-TOPS classes'''
+ LNER electric units|Ex-LNER Units (Tyneside stock)
+ LNWR Electric Units|Ex-LNWR Units (North London stock)
+ LYR Electric Units|Ex-LYR Units (Manchester-Bury stock)
+
+Battery electric multiple unit (BEMU)
+This was a one-off unit, withdrawn before the introduction of TOPS.
+ British Rail BEMU|79998/79999
+
+Related pages
+ British Rail locomotive and multiple unit numbering and classification
+ SR multiple unit numbering and classification
+ British Rail coach designations
+
+Category:British railway-related lists

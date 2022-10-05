@@ -1,0 +1,45 @@
+
+Image:Superscalarpipeline.png|thumb|300px|right|Simple superscalar pipeline. By fetching and dispatching two instructions at a time, a maximum of two instructions per cycle can be completed.
+
+Image:Processor board cray-2 hg.jpg|thumb|Processor board of a Cray T3E|CRAY T3e parallel computer with four ''superscalar'' DEC Alpha|Alpha processors
+
+A '''superscalar''' Central processing unit|CPU design makes a form of parallel computing called instruction level parallelism|Instruction-level parallelism inside a single CPU, which allows more work to be done at the same clock rate. This means the CPU executes more than one Instruction (computer science)|instruction during a clock cycle by running multiple instructions at the same time (called '''instruction dispatching''') on duplicate functional units. Each functional unit is just an Execution unit|execution resource inside the CPU core, like an arithmetic logic unit (ALU), floating point unit (FPU), a bit shifter, or a Multiplication ALU|multiplier.
+
+Most superscalar CPUs are also Instruction pipelining|pipelined, but it's possible to have a non-pipelined superscalar CPU or a pipelined non-superscalar CPU.
+
+The superscalar technique is supported by several features of the CPU core:
+# Instructions come from an ordered instruction list.
+# CPU hardware can work out which instructions have which data dependencies.
+# Can read multiple instructions per clock cycle
+
+Each instruction run by a scalar processor changes one or two data items at a time, but each instruction executed by a vector processor handles many data items at once. A superscalar processor is a mixture of the two:
+# Each instruction processes one data item.
+# There are multiple duplicate functional units inside each CPU core, so that multiple instructions handle independent data items at the same time.
+
+In a superscalar CPU an '''instruction dispatcher''' reads instructions from memory and decides which ones can be run in parallel, dispatching them on the multiple duplicate functional units available inside the CPU.
+
+Superscalar CPU design is concerned with improving accuracy of the '''instruction dispatcher''', and allowing it to keep the multiple functional units busy at all times. As of 2008, all general-purpose CPUs are superscalar, a typical superscalar CPU may include up to 4 ALUs, 2 FPUs, and two SIMD units. If the dispatcher can't keep all of the units busy, the performance of the CPU will be lower.
+
+Limitations
+Performance improvement in Superscalar CPU design is limited by two things: 
+# The level of built-in Instruction level parallelism|parallelism in the instruction list
+# The complexity and time cost of the dispatcher and data dependency checking.
+
+Even given infinitely fast dependency checking inside a normal superscalar CPU, if the instruction list itself has many dependencies, this would also limit the possible performance improvement, so the amount of built-in parallelism in the code is another limitation.
+
+No matter how fast the dispatcher speed, there is a practical limit on how many instructions can be simultaneously dispatched. While Computer hardware|hardware advances will allow for more functional units (e.g., ALUs) per CPU core, the problem of checking instruction dependencies increases to a limit that the achievable superscalar dispatching limit is somewhat small. -- Likely on the order of five to six simultaneously dispatched instructions.
+
+Alternatives
+ '''Simultaneous multithreading''': often abbreviated as SMT, is a technique for improving the overall speed of superscalar CPUs. SMT allows multiple independent Thread (computer science)|threads of execution to better use the resources available inside a modern superscalar processor.
+ '''Multi-core processors''': superscalar processors differ from multi-core processors in that the multiple redundant functional units are not entire processors. A single superscalar processor is composed of advanced functional units such as the Arithmetic logic unit|ALU, Integer (computer science)|integer Multiplication ALU|multiplier, integer shifter, floating point unit (FPU), etc. There may be multiple versions of each functional unit to enable execution of many instructions in parallel. This differs from a Multi-core|Multi-core processors that concurrently processes instructions from multiple threads, one thread per core.
+ '''Instruction pipelining|Pipelined processors''': superscalar processors also differs from a instruction pipelining|pipelined CPU, where the multiple instructions can concurrently be in various stages of execution.
+
+The various alternative techniques are not mutually exclusive—they can be (and frequently are) combined in a single processor, so it is possible to design a multicore CPU is where each core is an independent processor with multiple parallel superscalar Instruction pipelining|pipelines. Some multicore processors also include vector processor|vector capability.
+
+Related pages
+ Parallel computing
+ Instruction level parallelism|Instruction-level parallelism
+ Simultaneous multithreading (SMT)
+ Multi-core|Multi-core processors
+
+Category:Computer science

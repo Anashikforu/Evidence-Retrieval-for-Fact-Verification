@@ -1,0 +1,92 @@
+The '''Southwestern Athletic Conference''' ('''SWAC''') is a list of college athletic conferences|college athletic conference based in Birmingham, Alabama. It is made up of historically black colleges and universities|historically black universities in the Southern United States. It participates in the National Collegiate Athletic Association|NCAA's Division I (NCAA)|Division I for all sports. In American football|football, it participates in the Football Championship Subdivision (FCS).  
+
+The SWAC is one of two conferences (the other being the Ivy League) which do not take part in postseason play in the FCS football tournament.  It is the only one of the two whose members offer a full range of scholarships for football.The Ivy League does not award athletic scholarships at all. Northeast Conference members are limited to 30 football scholarships, less than half the FCS scholarship limit of 63. Pioneer League members may offer scholarships in other sports, but do not award football scholarships, and do not allow athletes receiving scholarships in other sports to play football. The SWAC instead splits its schools into two divisions, and plays a conference championship game.  Furthermore, one SWAC game, the Bayou Classic between Southern and Grambling State, is positioned on the schedule after the NCAA tournament has begun. In addition, Alabama State plays NCAA Division II|Division II rival Tuskegee University|Tuskegee annually on Thanksgiving Day (The Turkey Day Classic).  
+
+History
+In 1920, athletic officials from six Texas HBCUs – C.H. Fuller of Bishop College, Red Randolph and C.H. Patterson of Paul Quinn College, E.G. Evans, H.J. Evans and H.J. Starns of Prairie View A&M, D.C. Fuller of Texas College and G. Whitte Jordan of Wiley College – met in Houston, Texas, to discuss common interests.  At this meeting, they agreed to form a new league, the SWAC.
+
+Paul Quinn became the first of the original members to leave the league when it did so in 1929. When Langston University of Oklahoma was allowed into the conference two years later, it began the migration of state-supported institutions into the SWAC. Southern University entered the league in 1934. University of Arkansas at Pine Bluff|Arkansas AM&N entered in 1936 and Texas Southern University in 1954. 
+
+As the state-supported schools became bigger, it became difficult for the church-supported schools to pay for their sports teams. Soon the church-supported schools started to leave the conference.   Bishop College|Bishop withdrew from the conference in 1956, Langston in 1957 and Huston-Tillotson University|Huston-Tillotson (formerly Samuel Huston) in 1959.  That happened one year after two more state-supported schools entered the league (Grambling College and Jackson State College). The enter-exit cycle continued in 1961 when Texas College withdrew, followed by the entrance of Alcorn A&M in 1962. Wiley left in 1968, the same year Mississippi Valley State College entered. Arkansas AM&N exited in 1970 and Alabama State University entered in 1982. Arkansas-Pine Bluff (formerly Arkansas AM&N) rejoined the SWAC on July 1, 1997, regaining full-member status one year later. Alabama A&M University became the conference’s tenth member when it became a full member in September, 1999 after a one year period as an affiliate SWAC member.
+
+Current championship competition offered by the SWAC includes competition for men in baseball, basketball, cross country, football, golf, indoor track, outdoor track & field and tennis. Women’s competition is offered in the sports of basketball, bowling, cross country, golf, indoor track, outdoor track & field, soccer, softball, tennis and volleyball.
+
+Membership
+
+There are currently 10 members in the SWAC.
+
+
+
+=Membership timeline=
+
+DateFormat = yyyy
+ImageSize  = width:750 height:auto barincrement:20
+Period     = from:1920 till:2010
+TimeAxis   = orientation:horizontal
+PlotArea   = right:30 left:0 bottom:50 top:5
+
+Colors = id:barcolor value:rgb(0.99,0.7,0.7)
+         id:line     value:black
+         id:bg       value:white
+
+PlotData=
+  width:15 textcolor:black shift:(5,-5) anchor:from fontsize:s
+
+  bar:1  color:powderblue from:1920 till:1956 text:Bishop College|Bishop (1920-1956)
+  bar:2  color:powderblue from:1920 till:1929 text:Paul Quinn College|Paul Quinn (1920-1929)
+  bar:3  color:powderblue from:1920 till:end text:Prairie View University|Prairie View (1920-present)
+  bar:4  color:powderblue from:1920 till:1959 text:Huston–Tillotson University|Samuel Huston (1920-1959)
+  bar:5  color:powderblue from:1920 till:1961 text:Texas College (1920-1961)
+  bar:6  color:powderblue from:1920 till:1968 text:Wiley College|Wiley (1920-1968)
+  bar:7  color:powderblue from:1931 till:1957 text:Langston University|Langston (1931-1957)
+  bar:8  color:powderblue from:1934 till:end text:Southern University|Southern (1934-present)
+  bar:9  color:powderblue from:1936 till:1970 text:University of Arkansas at Pine Bluff|Arkansas AM&N / Arkansas-Pine Bluff (1936-1970; 1998-present)
+  bar:9  color:powderblue from:1998 till:end text:&nbsp;
+  bar:10 color:powderblue from:1954 till:end text:Texas Southern University|Texas Southern (1954-present)
+  bar:11 color:powderblue from:1958 till:end text:Grambling State University|Grambling (1958-present)
+  bar:12 color:powderblue from:1958 till:end text:Jackson State University|Jackson State (1958-present)
+  bar:13 color:powderblue from:1962 till:end text:Alcorn State University|Alcorn State (1962-present)
+  bar:14 color:powderblue from:1968 till:end text:Mississippi Valley State University|Mississippi Valley State (1968-present)
+  bar:15 color:powderblue from:1982 till:end text:Alabama State University|Alabama State (1982-present)
+  bar:16 color:powderblue from:1999 shift:(-50,-4) till:end text:Alabama Agricultural and Mechanical University|Alabama A&M (1999-present)
+
+ScaleMajor = gridcolor:line unit:year increment:5 start:1920
+
+
+
+=Former members=
+University of Arkansas at Pine Bluff|Arkansas AM&N (1936 to 1970; returned as Arkansas-Pine Bluff in 1997)
+Bishop College (1920 to 1956)
+Langston University (1931 to 1957)
+Paul Quinn College (1920 to 1929)
+Huston-Tillotson University|Samuel Huston College (later Huston-Tillotson College) (from 1920 to 1959)
+Texas College (1920 to 1961)
+Wiley College (1920 to 1968)
+
+Conference facilities
+
+
+SWAC Championships
+=Football=
+All games at were played at Legion Field in Birmingham, Alabama.
+
+
+
+=Men's basketball=
+
+
+
+
+Tournament performance by school
+
+
+=Women's Basketball=
+
+
+Notes and references
+
+
+Other websites
+
+Category:NCAA Division I athletics conferences
+Category:1920 establishments in the United States

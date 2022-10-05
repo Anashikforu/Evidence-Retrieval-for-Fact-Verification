@@ -1,0 +1,25 @@
+
+
+
+{{Taxobox
+| image = 
+| regnum = Plantae
+| divisio = Flowering plant|Magnoliophyta
+| classis = Magnoliopsida
+| ordo = Asterales
+| familia = Asteraceae
+| genus = ''Hesperomannia''
+| species = '''''H. arbuscula'''''
+| binomial = ''Hesperomannia arbuscula''
+| binomial_authority = Hillebr.
+| synonyms = }}
+The '''Maui Hesperomannia''' ('''''Hesperomannia arbuscula''''') is a species of flowering plant in the Asteraceae family.
+It is found only in the United States.
+Its natural habitats are Sub-tropics|subtropical or Tropics|tropical wet low lying land forests and subtropical or tropical dry shrubland (an area with mostly Shrub|bushes and few trees).
+It is in danger due to the loss of its wikt:natural|natural area of habitat.
+
+Source
+ Bruegmann, M.M. & Caraway, V. 2003.  
+
+
+Category:Asteraceae

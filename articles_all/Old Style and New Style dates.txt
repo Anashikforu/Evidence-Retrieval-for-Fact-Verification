@@ -1,0 +1,11 @@
+
+'''Old Style''' (or '''O.S.''') and '''New Style''' (or '''N.S.''') are terms used for calendar dates in English language history|historical studies, for two reasons. The first reason is that the method of dating that is most widely used around the world today, the Gregorian calendar, was introduced into English cultures only in 1752. The second is that :January 1|1 January has not always been the first day of the year. In the British Empire (and some other countries), March 25th was the start of the year. Both of these conventions changed not very long ago, in historic terms, as just a few centuries ago. So when a date is given in a history book (or an old book), we need to know whether it is in the modern ''New Style'' or the traditional ''Old Style''. During the time of the changeover, people would give both dates. Even today, when historians are writing about an event in those times, they often give the date as it was used at the time but also give the modern equivalent for your convenience. 
+
+In Europe and its colony|colonies, the Julian calendar was used traditionally. Other countries used different systems: for example China, Japan and Korea used lunisolar calendars.  
+
+The reason for changing the calendar was that people realised that there is a mistake in the Julian calendar, that it adds too many leap years. This meant that the date of Easter was being calculated wrongly, because it depends on March 21 being the date of the equinox.  So they designed a new calendar that corrected this error. The new rule was that a leap year would happen every four years (as before) ''but not'' if the year ended in 00 ''unless'' it could be divided evenly by 400. Pope Gregory XIII had declared that this new calendar should be used from 1582 onwards. But only Roman Catholic countries accepted this ruling: Protestant and Eastern Orthodox countries refused to have the Pope tell them what to do. So even in Europe, the change happened at different times.
+
+For example, it was not until 1752 that Great Britain and its colonies changed over to the new calendar, also changing the start of the year from 25 March to 1 January at the same time.
+The Latin words for O.S. are ''stili veteris'' or ''stilo vetere''. These terms are used in some books worldwide. They can be shortened to ''st.v''.
+
+Category:Time

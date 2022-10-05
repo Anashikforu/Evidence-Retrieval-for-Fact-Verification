@@ -1,0 +1,9 @@
+The '''law of conservation of mass''' states that mass can neither  be created nor wikt:destroy|destroyed in a chemical reaction.  Thus, the amount of matter cannot change. Antoine Lavoisier|Sir Antoine Lavoisier promoted this idea. 
+
+This law says that when a chemical reaction rearranges atoms into a new product, the mass of the reactants (chemicals before the chemical reaction) is the same as the mass of the Product (chemistry)|products (the new chemicals made). More simply, whatever you do, you will still have the same amount of stuff.  
+
+Broader account: In any chemical reaction, nuclear reaction, or radioactive decay in an isolated system, the total mass of the starting materials must be equal to the mass of the products.
+
+ History 
+The principle of conservation of mass was first outlined by Mikhail Lomonosov (1711&ndash;1765) in 1748. He proved it by experiments—though this is sometimes challenged. Antoine Lavoisier (1743&ndash;1794) had expressed these ideas in 1774. Others whose ideas pre-dated the work of Lavoisier include Joseph Black (1728&ndash;1799), Henry Cavendish (1731&ndash;1810), and Jean Rey (physician)|Jean Rey (1583&ndash;1645).
+Category:Laws of physics

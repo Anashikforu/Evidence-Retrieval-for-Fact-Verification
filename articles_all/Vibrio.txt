@@ -1,0 +1,21 @@
+
+{{Taxobox
+| name = ''Vibrio''
+| image = Vibrio_cholerae_01.jpg
+| image_width = 240px
+| image_caption = ''V. cholerae'' 
+| regnum = Bacteria
+| phylum = Proteobacteria
+| classis = Gammaproteobacteria
+| ordo = Vibrionales
+| familia = Vibrionaceae
+| genus = '''''Vibrio'''''
+| genus_authority = Pacini 1854
+| type_species = ''Vibrio cholerae''}}
+
+'''''Vibrio''''' is a genus of gram-negative bacteria possessing a curved rod shape, several species of which can cause food poisoning|foodborne infection, usually associated with eating undercooked seafood. Typically found in Seawater|saltwater, ''Vibrio'' are facultative anaerobes that test positive for oxidase and do not form spores. All members of the genus are motile and have polar flagella with sheaths. Recent phylogeny|phylogenies have been constructed based on a suite of genes (multi-locus sequence analysis).
+
+The name ''Vibrio'' derives from Filippo Pacini who isolated microorganisms he called "vibrions" from cholera patients in 1854.
+
+
+category:Gram-negative bacteria

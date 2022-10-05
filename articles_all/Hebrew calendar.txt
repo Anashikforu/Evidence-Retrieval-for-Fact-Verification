@@ -1,0 +1,66 @@
+
+
+The '''Hebrew calendar''' or '''Jewish calendar''' is the calendar used in Judaism. It is used to set the dates of the Holiday#Jewish holidays|Jewish holidays and the weekly public reading of the Torah. It is used to set the date for a Bar Mitzvah or Bat Mitzvah, the day a young person is considered an adult in Judaism. It sets the ''Yahrzeit,'' the anniversary of the death of a kinship|relative. The daily Jewish Service of worship#Judaism|prayer service changes depending on the day of the Hebrew calendar.
+
+Basic rules
+
+s of the Hebrew calendar are based on the sun.
+
+One solar (sun-based) year lasts about 365 days, but twelve lunar (moon-based) months only last about 354 days. For this reason, the Hebrew calendar adds an extra lunar month seven times in each wikt:cycle|cycle of 19 years. This rule makes the average Hebrew calendar year about the same length as a solar year, 365 days.. This is an example; the exact rules are more wikt:complicated|complicated.
+
+The seven-day week is used to figure out the day for Shabbat, the day of rest. The week does not depend on the solar year or lunar month. Instead, it depends on a count of seven days that is believed to go back to ancient history|ancient times. The week is also an important part of the Hebrew calendar.
+
+History
+According to the Book of Exodus, Jews have been using a lunisolar calendar since the time they left Egypt. The first :wikt:commandment|commandment the Jewish people received as a nation was the commandment to determine the New Moon. Very soon after that, the Jews received the commandment to make sure that Passover falls in the spring.
+
+In the Tanak|Tanakh (the Hebrew Bible), the months are usually numbered rather than named. (See #Months of the Hebrew calendar year|table below.) Only four month names appear in the Tanakh from before the Babylonian Exile (see #Months of the Hebrew calendar year|table). The month names of the wikt:modern|modern Hebrew calendar were taken from the month names in the Babylonian calendar during the Babylonian Exile (6th century Common Era|BCE).''Ancient Israel: Its Life and Institutions'' (1961) by Roland De Vaux, John McHugh, Publisher: McGraw–Hill, .
+
+At first, a new month began when witnesses came to the Sanhedrin (high rabbinical court) and wikt:testified|testified that they saw the new crescent moon in the sky.The Islamic calendar, which is lunar, still uses a similar procedure today. The Sanhedrin also decided when an extra month should be added to the calendar to keep Passover in the spring. (See Metonic cycle.) After the wikt:destruction|destruction of the Second Temple in 70 Common Era|CE, it became harder for the Sanhedrin to meet and hear witnesses. For that reason, the Sanhedrin wikt:established|established a wikt:fixed|fixed, rule-based form of the calendar. Maimonides fully described the modern Hebrew calendar around the year 1178 CE.''The Code of Maimonides ''(Mishneh Torah),'' Book Three (Book of "Times" or "Seasons"), Treatise Eight: Laws of the Sanctification of the New Moon.'' See #References|reference below.
+
+.
+
+=In Karaite Judaism=
+In the small Karaite Judaism community, the calendar is very similar. However, Karaites use witnesses to set the date of the new crescent moon. They still use the ripening of barley to decide whether to add an extra month to the year. For those reasons, the Karaite calendar can be slightly different from the main Jewish calendar.
+Days of the Hebrew calendar week
+
+
+Months
+
+
+Details
+=The day and the week=
+In the Hebrew calendar, the meaning of ''day'' is taken from the Tanakh|Hebrew Bible:wikisource:Bible_(Jewish_Publication_Society_1917)/Genesis|Genesis 1:5 "And there was evening, and there was morning, one day". Because "evening" comes before "morning", a ''day'' in the Hebrew calendar starts in the evening. For many purposes, the ''day'' in the Hebrew calendar begins at sunset. But when it is important to make sure the previous day is completely over, the day begins at wikt:nightfall|nightfall.
+
+People who print calendars, or who write calendar programs for computers, wikt:ignore|ignore that rule. They treat the Hebrew calendar date and the Gregorian calendar date that has the same midnight as being the same day. They wikt:assume|assume that people reading a Hebrew calendar know the sundown rule. Whenever a Holiday#Jewish holidays|holiday, birthday or anniversary appears on a printed calendar, it actually begins on the day before, at sundown.
+
+In the Hebrew calendar, every seventh day is Shabbat, the day of rest.Based on . (See table #Days of the Hebrew calendar week|above.)
+
+=The ''molad''=
+The calculation of the Hebrew calendar year and month start with the ''molad''. ''Molad'' is a Hebrew word meaning "birth". The word refers to the "birth" of the new moon each month. The modern Hebrew calendar uses a calculated ''molad:'' the ''average'' length of the cycle from new moon to new moon over many years. The length of the molad is 29 days, 12 hours, 44 minutes,  seconds.
+
+=Regular years and leap years=
+A year of 12 lunar months would be 354 days long; but a Hebrew calendar year must be a solar year—about 365 days long. Also, a Hebrew calendar year must have either 12 months or 13 months. It is not allowed to have "part" of a month, so a thirteenth month is added seven times in every cycle of nineteen years. This is an wikt:adaptation|adaptationn 2 of the Metonic cycle, a calendar cycle that was well known in ancient times. By wikt:convention#Noun|conventionn 3, the Hebrew calendar adds the extra month during years 3, 6, 8, 11, 14, 17 and 19 of the cycle.
+
+=Calculating Rosh Hashanah for this year and next year=
+Hebrew calendar months are supposed to be lunar months. For that reason, the calculation of Rosh Hashanah, the Jewish new year, starts with the ''molad'' for the month of Tishrei. Starting from there, the calendar rules allow two main reasons to delay Rosh Hashanah by one or more days: There are actually a total of four postponement rules. The other two are very rare. They are used to make the year the right length in days.
+# ''Postponing Rosh Hashanah if the time of the ''molad'' (in Jerusalem) is after 12:00 noon.'' If not for this rule, Rosh Hashanah would be the day ''before'' the ''molad'' in parts of the world east of Jerusalem.
+# ''Postponing Rosh Hashanah so that it does not start on Sunday, Wednesday or Friday.'' This rule prevents Yom Kippur from being the day before or after Shabbat. It also prevents Hoshana Rabba, the seventh day of Sukkot, from being on Shabbat.Once Rosh Hashanah for this year is calculated, the Rosh Hashanah for next year is calculated, starting with the time either 12 or 13(depending on whether it is to be a leap year or not) ''molad'' periods in the future.
+
+Once the dates for this year's and next year's Rosh Hashanahs are known, calculating the calendar in between is easy.
+
+=Calculating the calendar=
+The length of a ''molad'' is just a little over  days and a 12-month total of 354 days. Starting from there, the month lengths are changed as follows:
+ When the extra month is added, it is month six (counting from Tishrei), and always has 30 days.
+ When the number of days between this Rosh Hashanah and next is 355 days in a regular year (or 385 days in a leap year), an extra day is needed. It is added to ''Heshvan'' (month two counting from Tishrei), which then has 30 days.
+ When the number of days between this Rosh Hashanah and next is 353 days in a regular year (or 383 days in a leap year), one fewer day is needed. It is taken away from ''Kislev'' (month three counting from Tishrei), which then has 29 days.
+(See the table of months #Months of the Hebrew calendar year|above.)
+
+=Calendar months and the astronomical new moon=
+The first day of the Hebrew calendar month, known as ''Rosh Hodesh'' (), is always close to the astronomical new moon. It often is not exactly on the astronomical new moon. There are two reasons for that:
+# The calendar calculations are based on the ''average'' length of a moon cycle. The ''actual'' length of individual moon cycles wikt:vary|varies over time.
+# The rules for postponing Rosh Hashanah (see above) push ''Rosh Hodesh'' away from the astronomical new moon. The people who created the calculations decided having ''Rosh Hodesh'' close to the new moon was less important than other wikt:factor#Noun|factors.
+
+Notes
+
+
+Category:Judaism

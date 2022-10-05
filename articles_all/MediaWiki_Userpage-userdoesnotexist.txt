@@ -1,0 +1,2 @@
+User account "$1" is not registered.
+Please check if you want to create/change this page.

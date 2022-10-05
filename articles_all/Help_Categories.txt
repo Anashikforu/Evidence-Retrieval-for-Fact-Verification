@@ -1,0 +1,61 @@
+
+MediaWiki allows you to categorize pages by appending one or more Category tags to the content text. Adding these tags makes links at the bottom of the article which take you to the list of all pages in that category. This makes it easy to browse related articles.
+
+ How to make a Category 
+A category will be made when you use the name you want the category to be as a link at the bottom of the page as explained next. It will not show, however, until the first linking page is Saved. Before that, it will show as an empty link in red. Afterwards, it will begin automatically compiling a Contents page of all such pages with the link on them. 
+
+You should be even more careful about doing this than adding content pages. Unlike content pages, categories cannot be deleted or renamed, remaining to confuse users browsing the list of categories.  Before attempting to make a Category, please find the list of all Categories by clicking on "Special pages" in the left sidebar "toolbox" box. Check the contents of any other category that might suggest the one you wanted to make.
+
+ How to add a page to a Category 
+To add a content page to the listing for a Category, simply put the following at the very bottom of the page you are editing:
+
+ Category:NAME OF THE CATEGORY
+
+Any number of category tags may be added to the page -- the page will be listed in all of them.
+
+You can also specify an additional SORT parameter that specifies where the page will appear, alphabetically, within the category. This is done by using the following markup:
+
+ Category:NAME|SORT
+
+To add this page to the 'Help' category to be located in the list at 'C' you would use:
+
+ Category:Help|Categories
+
+Without this, the page would be listed under 'H' for 'Help:Categories', instead of under 'C'.  Another example is when you have articles about people that are called FirstName LastName but within a particular category you want them listed as LastName, FirstName.
+
+
+
+Another way to sort an article in the correct letter group without using the 'namespace' is:
+
+ Category:Help|
+
+This is helpful when using templates which include a category tag.
+
+ Linking to Category Pages 
+To make a link within page content, use a leading colon as in
+
+ :Category:NAME OF THE CATEGORY
+
+For example, if the name were "Help" the link would look like :Category:Help. Without the leading colon, it would be instead blank or red in the text, because there is no such content page linked within that category.
+
+If you want to show different text for the link, add that after a bar as with other internal links:
+
+ :Category:NAME|TEXT
+
+The same link to Category:Help as above might show this different text: :Category:Help|MediaWiki Help Index
+
+ Categorize Categories
+Categories themselves and other uploaded files like images can be categorized like content pages. It is useful to connect the article-categories with categories already in place to establish connections. After saving the article, follow the category links at the end of the page to see if the category is already in place and if not, categorize them until you connect them with an existing category.
+
+Moving categories
+Categories cannot be easily moved Help:Moving a page|like other pages. For this reason, category names should be chosen carefully.
+
+Those with admin tools can make the new page, delete the old one, and then change the category tags in each member of the category (manually or with a bot). However, this loses the page History - not a huge problem when categories are used only for navigation. But when a wiki is structured so that the category pages have significant amounts of text, this is not very good.
+
+If the old categories are not deleted, the text in them should be replaced by the following:
+ 
+
+= Moving with revision history =
+However, category pages ''can'' be moved together with the full revision history, with some effort, by using the Special:Export and Special:Import tools.
+
+Category:Help|Categories

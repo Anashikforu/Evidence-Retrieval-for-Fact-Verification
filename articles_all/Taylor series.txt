@@ -1,0 +1,56 @@
+
+A '''Taylor series''' is an  idea used in computer science, calculus, chemistry, physics and other kinds of higher-level mathematics. It is a Series (mathematics)|series that is used to create an estimate (guess) of what a Function (mathematics)|function approximation theory|looks like. There is also a special kind of Taylor series called a '''Maclaurin series'''.
+
+The theory behind the Taylor series is that if a point is chosen on the coordinate plane (x-axis|x- and y-axis|y-axes), then it is possible to guess what a function will look like in the area around that point. This is done by taking the Derivative (mathematics)|derivatives of the function and adding them all together. The idea is that it is possible to add the infinite number of derivatives and come up with a single finite sum.
+
+In mathematics, a Taylor series shows a Function (mathematics)|function as the sum of an wikipedia:Series_(mathematics)|infinite series. The sum's terms are taken from the function's Derivative (mathematics)|derivatives. Taylor series come from Taylor's theorem.
+
+ History 
+The Ancient Greece|Ancient Greek philosopher Zeno of Elea first came up with the idea of this series. The paradox called "
+Another Greek philosopher, Aristotle, came up with an answer to the philosophical question. It was Archimedes, however, who came up with a mathematical solution using his method of exhaustion. He was able to prove that when something is split up into an infinite number of tiny pieces, they will still add up to a single whole when all of them are added back together.
+
+The earliest known examples of the Taylor series are the work of Mādhava of Sañgamāgrama in India in the 1300s. Later Indian mathematics|Indian mathematicians wrote about his work with the trigonometric functions of sine, cosine, tangent, and arctangent. None of Mādhava's writings or records still exists today. Other mathematicians based their work on Mādhava's discoveries and worked more with these series until the 1500s.
+
+James Gregory (mathematician)|James Gregory, a Scotland|Scottish mathematician, worked in this area in the 1600s. Gregory studied the Taylor series and published several Maclaurin series. In 1715, Brook Taylor discovered a general method for applying the series to all function (mathematics)|functions. (All of the previous research showed how to apply the method to only specific functions.) :en:Colin_Maclaurin|Colin Maclaurin published a special case of the Taylor series in the 1700s. This series, which is based around zero, is called the ''Maclaurin series''.
+
+ Definition 
+A Taylor series can be used to describe any function ''ƒ''(''x'') that is a smooth function (or, in mathematical terms, "infinitely differentiable.") The function ''ƒ'' can be either real number|real or complex number|complex. The Taylor series is then used to describe what the function looks like in the neighborhood (mathematics)|neighborhood of some number ''a''.
+
+This Taylor series, written as a power series, looks like:
+:f(a)+\frac {f'(a)}{1!} (x-a)+ \frac{f''(a)}{2!} (x-a)^2+\frac{f^{(3)}(a)}{3!}(x-a)^3+ \cdots. 
+
+This formula can also be written in sigma notation as:
+: \sum_{n=0} ^ {\infin } \frac {f^{(n)}(a)}{n!} \, (x-a)^{n}
+
+Here ''n''! is the factorial of ''n''. ''ƒ''&nbsp;(''n'')(''a'') is the ''n''th derivative of ''ƒ'' at the point ''a''. a is a number in the function's domain. If the Taylor Series of a function is equal to that function, the function is called an "analytic function."
+
+= Maclaurin series =
+When a=0, the function is called a '''Maclaurin series'''. The Maclaurin series written as a power series looks like:
+:f(0)+\frac {f'(0)}{1!} x+ \frac{f''(0)}{2!} x^2+\frac{f^{(3)}(0)}{3!}x^3+ \cdots. 
+
+When written in sigma notation, the Maclaurin series is:
+: \sum_{n=0} ^ {\infin } \frac {f^{(n)}(0)}{n!} \, x^{n}
+
+ Common Taylor series 
+
+Some important Taylor series and Maclaurin series are the following.
+
+:\sin x = \sum^{\infin}_{n=0} \frac{(-1)^n}{(2n+1)!} x^{2n+1} = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \cdots\text{ for all } x\!
+
+:\cos x = \sum^{\infin}_{n=0} \frac{(-1)^n}{(2n)!} x^{2n} = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \cdots\text{ for all } x\!
+
+:\sinh(x) = \sum^{\infty}_{n=0} \frac{1}{(2n+1)!} x^{2n+1} \text { for all } x \!
+
+:\cosh(x) = \sum^{\infty}_{n=0} \frac{1}{(2n)!} x^{2n} \text { for all } x \!
+
+:e^{x} = \sum^{\infty}_{n=0} \frac{1}{n!} x^{n} = 1 + x + \frac{1}{2!} x^{2} + \frac{1}{3!} x^{3} + \cdots\text{ for all } x \!
+
+:\frac{1}{1-x} = \sum^{\infty}_{n=0} x^{n} = 1 + x + x^2 + x^3 + x^4 + \cdots \text{ for all } |x|
+
+:\ln(1+x) = \sum^{\infty}_{n=1} \frac{(-1)^{n+1}}{n} x^{n} \text { for all } |x|
+
+:\tan x = \sum^{\infin}_{n=1} \frac{B_{2n} (-4)^n (1-4^n)}{(2n)!} x^{2n-1} = x + \frac{x^3}{3} + \frac{2 x^5}{15} + \cdots\text{ for }|x| 
+
+Where B_{n} is the nth Bernoulli number, and \ln is the natural logarithm.
+
+pl:Wzór Taylora#Szereg Taylora

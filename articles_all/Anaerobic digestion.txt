@@ -1,0 +1,3 @@
+'''Anaerobic digestion''' is the way microorganisms break down organic matter without oxygen.
+An '''anaerobic digester''' is an industrial system that supports this process. Biodegradation to treat waste is one of the main purposes. Generating biogas to provide fuel is another. It also produces soil improving material.
+Category:Physiology

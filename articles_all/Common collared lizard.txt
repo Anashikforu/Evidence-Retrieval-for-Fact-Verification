@@ -1,0 +1,24 @@
+{{Taxobox
+| name = Common collared lizard
+| image = Collared Lizard Albuquerque NM Preview.JPG
+| image_caption = Collared lizard in Albuquerque, New Mexico
+| regnum = Animalia
+| classis = Reptile|Reptilia
+| ordo = Squamata
+| subordo = Iguania
+| familia = Crotaphytidae
+| genus = ''Crotaphytus''
+| binomial = ''Crotaphytus collaris''}}
+
+The '''common collared lizard''' or '''Oklahoma lizard''', ''Crotaphytus collaris'', is a North American lizard that can reach a foot (30 cm) long in length (including the tail), with a large head and powerful jaws. It is the state lizard of Oklahoma.
+
+
+
+
+
+
+
+
+
+Category:Iguania
+Category:symbols of Oklahoma

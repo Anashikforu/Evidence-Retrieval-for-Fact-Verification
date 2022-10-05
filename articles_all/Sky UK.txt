@@ -1,0 +1,32 @@
+
+
+{{Infobox broadcasting network
+| name             = '''Sky UK Limited'''
+| former_names     = '''British Sky Broadcasting Limited''', '''BSkyB''' and '''Sky'''
+| logo             =
+| image            =
+| type             = Subsidiary
+| founded          = 
+| country          = United Kingdom
+| broadcast_area   = United Kingdom
+| headquarters     = Grant Way, Isleworth, TW7 5QD
+| keypeople        = Jeremy Darroch (CEO)
+| available        = Satellite television|SatelliteInternet television|Internet
+| slogan           = Believe in Better
+| parent           = Sky Ltd|Sky
+| website          = 
+|subsidiary=Now TV (Sky plc)|Now TV}}
+
+'''Sky UK''' Limited is a satellite television company owned by Comcast. It used to be called '''British Sky Broadcasting Limited''', '''BSkyB''' and '''Sky'''. It offers television and Bandwidth (computing)|broadband Internet services in the United Kingdom. 
+
+History
+
+
+=Origins=
+The present service can trace its heritage back to 1990, when BSkyB's predecessors British Satellite Broadcasting encrypted their respective film channels – Sky Movies and The Movie Channel (UK)|The Movie Channel which required viewers to get decoding equipment and a subscription to watch the channels. After the two companies merged, subscribers could get access to both channels, and two years later, the sports channel Sky Sports also became encrypted.
+
+ Related pages 
+Sky Sports
+Sky News
+
+Category:British Sky Broadcasting| 

@@ -1,0 +1,33 @@
+{{infobox UK place
+ |country = Scotland
+ |official_name= Inverbervie
+ |gaelic_name = Inbhir Biorbhaidh
+| population =
+| population_ref = est. 1,980 (2004)
+  |os_grid_reference= NO830726
+ |map_type=Scotland
+ |unitary_scotland= Aberdeenshire
+ |lieutenancy_scotland= Kincardineshire
+ |constituency_westminster= West Aberdeenshire and Kincardine (UK Parliament constituency)|West Aberdeenshire and Kincardine
+ |constituency_scottish_parliament= West Aberdeenshire and Kincardine (Scottish Parliament constituency)|West Aberdeenshire and Kincardine
+ |latitude=56.84334
+ |longitude=-2.28164
+ |post_town= MONTROSE
+ |postcode_district = DD10
+ |postcode_area= DD
+ |dial_code= 01561
+ |static_image = Inverbervie Church.jpg
+ |static_image_caption = Inverbervie Church
+ }}
+
+'''Inverbervie''' (Ordnance Survey)British national grid reference system|grid reference  is a small town on the north-east coast of Scotland, south of Stonehaven, in the Aberdeenshire|Aberdeenshire council area.
+
+The Inverbervie name derives from ''Inbhir Beirbhe'', meaning ''Mouth of the Bervie Water|River Bervie'' in Scottish Gaelic.
+
+Notable residents
+ John Arbuthnot, mathematician, physician, satirist and polymath
+ Hercules Linton, designer of the Cutty Sark clipper shipAlan Murphy, ''Scotland'', 2004, Footprint Travel Guides, 692 pages
+
+ Lewis Grassic Gibbon, author, lived in nearby Arbuthnott
+
+Category:Towns in Aberdeenshire

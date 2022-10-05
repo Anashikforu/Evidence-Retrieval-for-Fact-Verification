@@ -1,0 +1,16 @@
+{{Infobox London station
+| name = Oval 
+| image_name = Oval station building.JPG
+| manager = London Underground 
+| fare_zone = 2
+| locale = Kennington 
+| borough = London Borough of Lambeth|Lambeth 
+| years1 =1890 
+| events1 =Opened (C&SLR) 
+| platforms=2 
+| tubeexits05=4.580 
+| tubeexits07=5.922  }}
+
+'''Oval tube station''' in Kennington is a station on the Northern line of the London Underground. It is between Stockwell tube station|Stockwell and Kennington tube station|Kennington stations. It is the only station on the Morden tube station|Morden branch of the Northern line whose name begins with a vowel. Oval station is in Travelcard Zone 2. It is named for The Oval, which it serves.
+
+Category:London Travelcard zone 2

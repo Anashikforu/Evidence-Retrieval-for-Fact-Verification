@@ -1,0 +1,26 @@
+{{Infobox UK place 
+ | official_name=Battle
+ | country=England
+ | region=South East England
+ | static_image_name=Battle Sussex street.jpg
+ | static_image_caption=View along the high street towards the abbey
+ | area_footnotes=
+ | area_total_km2 =31.8
+ | population = 6171
+ | population_ref = (2007)
+ | population_density= 
+ | os_grid_reference=TQ747160
+ | latitude=50.92
+ | longitude=0.48
+ | post_town=BATTLE
+ | postcode_area=TN
+ | postcode_district=TN33
+ | dial_code=01424
+ | constituency_westminster=Bexhill and Battle (UK Parliament constituency)|Bexhill and Battle
+ | london_distance= Boxing the compass|NNW
+ | shire_district=Rother
+ | shire_county=East Sussex
+ | website= }}
+'''Battle''' is a town in East Sussex, England, UK. It is known as this because it was the place where the Battle of Hastings was fought.
+
+Category:Towns in East Sussex

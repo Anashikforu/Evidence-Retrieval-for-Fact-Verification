@@ -1,0 +1,74 @@
+
+If you have standard texts you want to include on several pages, the MediaWiki template feature comes into play.
+
+Creation
+Templates are standard wiki pages whose content is designed to be 
+Usage
+Templates are wiki pages which can be used in other pages in three ways:
+
+ 'transcludes' (i.e. includes a copy of) the content of the template (stored in the page Template:Name) whenever the page containing the template transclusion is fetched and displayed; i.e. if the template is later changed, the displayed transcluding page will automatically change too
+ replaces that string with the contents of the template, in the source of the transcluding page, when you save that page; the copy of the template contents can then be edited normally (and separately from the original in the template page). '''''Note''''': don't use this if you are looking to continually propagate changes from the source template to the page(s) that references it.
+ includes the template in a form that displays it as raw wiki syntax (the way &lt;nowiki&gt; does) when the page containing it is fetched
+
+In fact, an ordinary wiki page can also be used as a template, simply by qualifying the namespace it resides in, so:
+
+  includes Template:Pagename
+       includes Foo:Pagename
+          includes Pagename
+
+If no such namespace exists, the full title is assumed to be a template:
+
+            includes Template:Foo:Bar
+
+=Parameters=
+
+
+
+You can define parameters in templates either numbered as .  
+
+'''Example:''' You want a little thank you note you can put on the talk page of other users. It will contain a reason and your signature. You could create Template:Thankyou to enter your text, as in the example in the table.
+
+When using the template on a page, you fill in the parameter values, separated by a pipe char (|): .
+
+You can also provide default values for parameters, i.e. values that are going to be used if no value is provided for a parameter. For example,  would result in ''"all your hard work"'' if no value was provided for the parameter reason.
+
+=Control template inclusion=
+You can control template inclusion by the use of  and
+ tags.
+
+Anything between  and  will be processed and
+displayed only when the template's page is being viewed directly.
+
+Possible applications are:
+ Categorising templates
+ Interlanguage links to similar templates in other languages
+ Explanatory text about how to use the template
+
+The converse is . Text between  and  will be processed and displayed only when the page is being included. The obvious application is to add all pages containing a given template to a Help:Categories|category, without putting the template itself into that category.
+
+'''Note:''' when you change the categories applied by a template, the categorization of the pages that use that template may not be updated until some time later: this is handled by the .
+
+=Organizing templates=
+For templates to be effective users need to find them and be able to use them. A simple technique is to include an example on the template page.
+For example:
+
+
+ Usage 
+Allows to establish a link to a subject:
+
+
+
+
+Then, an editor can simply copy and paste the example to create a similar page.
+
+Copying from one wiki to another
+Templates often require # Copy the template text to the new wiki, either by # Look for CSS classes (like class="foobar") in the template text. If those classes appear in "MediaWiki:Common.css" or "MediaWiki:Monobook.css" on the original wiki, copy them to "MediaWiki:Common.css" on the new wiki.
+# Look for templates (like ) inside the template text, and copy those templates to the new wiki.
+# If the template uses Help:Extension:ParserFunctions|ParserFunctions, you must install the .
+
+Related pages
+Help:External searches – a template special use case example
+Help:Magic words – fancy stuff you may find in some templates
+ other than Template:.
+
+Category:Help|

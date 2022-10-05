@@ -1,0 +1,7 @@
+
+
+In electrical engineering, '''power consumption''' refers to the electrical energy per unit time,
+
+The energy used by equipment is always more than the energy really needed. This is because no equipment is 100% Energy efficiency|efficient. Power is wasted as heat, vibrations and/or electromagnetic radiation. For example, a light bulb does not only convert electric power into light; it also makes some heat.
+
+Category:Engineering

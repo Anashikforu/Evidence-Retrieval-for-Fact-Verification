@@ -1,0 +1,26 @@
+
+{{Infobox London station
+| name = Archway 
+| image_name = Archway station main entrance.JPG
+| caption    = Main entrance on Junction Road 
+| manager = London Underground 
+| fare_zone = 2
+| fare_zone_1 = 3 
+| locale = Archway, London|Archway 
+| borough = London Borough of Islington 
+| platforms= 2
+| tubeexits04 = 6.757 
+| tubeexits07=7.738}}
+'''Archway tube station''' is a London Underground station in north London, underneath the Archway Tower, at the intersection of Holloway Road, Highgate Hill and Junction Road in the area known as Archway, London|Archway.
+
+It is on the High Barnet tube station|High Barnet branch of the Northern line, between Highgate tube station|Highgate and Tufnell Park tube station|Tufnell Park. It is in both Travelcard Zone 2 and Travelcard Zone 3|Zone 3.
+
+Gallery
+
+Image:Archway station southbound look south.JPG|Southbound platform looking south
+Image:Archway station northbound look north.JPG|Northbound platform looking north
+Image:Archway station roundel.JPG|Roundel on southbound platform
+Image:Archway Tower and tube station 2005.jpg|The station lies at the base of Archway Tower, here viewed from Junction Road
+Image:Archway station side entrance.JPG|Side entrance on Highgate Hill
+
+

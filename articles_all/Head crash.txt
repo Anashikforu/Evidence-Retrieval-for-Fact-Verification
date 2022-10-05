@@ -1,0 +1,7 @@
+
+A '''head crash''' is when the part of a hard drive that writes on the disks (the "head") touches the disk. Usually, there is air between the head and the disk.
+Related pages
+ Hard disk
+ Error
+
+Category:Storage devices

@@ -1,0 +1,32 @@
+The 900 series classes were reserved for multiple units in departmental stock, most of which were converted from old passenger units. In broad terms, classes 930-935 were allocated to Southern Region multiple units (ex-200 and 400 series), 936 & 937 to other EMUs (ex-300 and 500 series) and 960 to other DMUs (ex-100 series). In recent years, this has been less rigidly adhered to.
+
+Diesel multiple units
+British Rail Class 901|Class 901 (Test units, ex-British Rail Class 101|Class 101)
+British Rail Class 930#Diesel Units|Class 930 (Departmental SR DEMUs)
+British Rail Class 950|Class 950 (Purpose-built test unit, similar to British Rail Class 150|Class 150)
+British Rail Class 951|Class 951 (Sandite/De-icer units, ex-Classes British Rail Class 201|201, British Rail Class 203|203, British Rail Class 205|205, and British Rail Class 207|207)
+British Rail Class 960#Diesel Units|Class 960 (Departmental DMUs)
+
+British Rail MPV|Multi-Purpose Vehicle (Purpose-built departmental vehicles)
+
+Gas turbine multiple unit
+ British Rail APT-E|APT-E (Experimental Advanced Passenger Train unit)
+
+Electric multiple units
+The original use for the Southern Region (SR) classes are included in brackets; these designations have been less rigidly applied in recent years.
+British Rail Class 910|Class 910 (Test units, ex-British Rail Class 488|Class 488)
+British Rail Class 445|Class 920 (3-Pep prototype unit)
+British Rail Class 930#Electric Units|Class 930 (SR Sandite and de-icing units)
+British Rail Class 931|Class 931 (SR route learning and stores units)
+British Rail Class 932|Class 932 (SR research and tractor units)
+British Rail Class 933|Class 933 (SR mobile instruction units)
+British Rail Class 445|Class 935 (4Pep Research units)
+British Rail Class 936|Class 936 (Sandite units, ex-classes British Rail Class 311|311 and British Rail Class 501|501)
+British Rail Class 937|Class 937 (Sandite units, ex-classes British Rail Class 302|302 and British Rail Class 308|308)
+British Rail Class 960#Electric Units|Class 960 (Test units, ex-classes British Rail Class 309|309 and British Rail Class 310|310)
+
+Related pages
+ British Rail locomotive and multiple unit numbering and classification
+ SR multiple unit numbering and classification
+
+Category:British railway-related lists|British Rail departmental multiple unit classes

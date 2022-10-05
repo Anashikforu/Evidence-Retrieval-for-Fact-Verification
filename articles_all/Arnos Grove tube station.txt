@@ -1,0 +1,16 @@
+{{Infobox London station
+| name = Arnos Grove 
+| image_name = Arnos Grove stn building.JPG
+| caption    = Exterior of Arnos Grove station
+| manager = London Underground
+| fare_zone = 4
+| locale = Arnos Grove| borough = London Borough of Enfield|Enfield
+| years1 =19321933
+| events1 =Opened (as terminus)Became through station
+| platforms= 4 (3 tracks)
+|tubeexits07=4.314 }}
+'''Arnos Grove''' is a London Underground station on the Piccadilly line between Bounds Green tube station|Bounds Green and Southgate tube station|Southgate. The station is in Travelcard Zone 4 and is in Arnos Grove - near Arnos Park on Bowes Road, London. The station and the surrounding neighbourhood of Arnos Grove take their names from the Arnos Grove estate, which was north of the station. The station is the first surface station north after the long tunnelled section from Barons Court tube station|Barons Court via Central London.
+
+Related pages
+ List of London Underground stations
+

@@ -1,0 +1,125 @@
+
+
+'''Bayeux''' is a Communes of France|commune. It is found in the Regions of France|region Basse-Normandie in the Calvados (department)|Calvados Departments of France|department in the Northwest of France.
+
+The town is famous for its  Bayeux Tapestry|tapestry. It is one of the oldest complete tapestries in the world.
+The inhabitants are called ''Bajocasses'' ou ''Bayeusains''. Bayeux is a ''sous-préfecture'' of the Calvados  department.
+
+ History 
+= Heraldry =
+
+=Origin=
+Bayeux is the capital of ''the Bessin'' which was called Bajocasses before. Bessin was a province of France before the French Revolution. The name of the city comes from the Celtic tribe which lived in the Bajocasses region.
+
+=Middle Ages=
+The Vikings distroyed the town in 890, but it was rebuilt by Bothon at the beginning of the 10th century. The bishop Hugues II, and his successor, Odon de Bayeux|Odon de Conteville (Guillaume le Conquérant's half brother) insisted the town needed a new cathedral. In 1077, a new one was built. However it is around that time that the town lost a lot of influence. Guillaume le Conquérant decided to make Caen his capital, in 1050. The Bayeux Tapestry was made around that time
+
+The Renaissance didn't really mark the town. The most notable building from that period is the Saint-Patrice Church. It was built between 1544 and 1548.
+
+=Second World War=
+Bayeux was the first city in France to be liberated after the Battle of Normandy. On 16 June 1944, General Charles de Gaulle made his first major speech in Bayeux. The buildings were not damaged much during the Battle of Normandy as the German forces were defending Caen at the same time.
+
+The Bayeux War Cemetery is the largest British cemetery dating from the Second World War in France. There are 4648 graves: 3935 are British and 466 are German.
+
+Geography
+=Location=
+Bayeux is seven kilometres from the English Channel and the D-Day Landing Beaches. It is about 30 kilometres northwest of Caen. The town's elevation varies from 32 to 67 metres (with an average of 46 metres). The river Aure (rivière)|Aure passes through it.
+
+
+
+
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.7,0.9,0.7)
+
+ImageSize  = width:700 height:400
+PlotArea   = left:50 bottom:30 top:30 right:50
+DateFormat = x.y
+Period =from:0 till:15000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:5000 start:0
+ScaleMinor = gridcolor:lightgrey increment:500 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+  bar:1793 
+  bar:1800 text:1800
+  bar:1806 
+  bar:1821 
+  bar:1831 
+  bar:1836 
+  bar:1841 
+  bar:1846 
+  bar:1851 text:1851
+  bar:1856
+  bar:1861
+  bar:1866
+  bar:1872
+  bar:1876
+  bar:1881
+  bar:1886
+  bar:1891
+  bar:1896
+  bar:1901 text:1901
+  bar:1906
+  bar:1911
+  bar:1921 
+  bar:1926 
+  bar:1931 
+  bar:1936 
+  bar:1946 
+  bar:1954 text:1954
+  bar:1962 
+  bar:1968 
+  bar:1975 
+  bar:1982 
+  bar:1990 
+  bar:1999
+  bar:2006 text:2006
+
+PlotData=
+ color:barra width:15 align:left
+ bar:1793 from:0 till: 10578
+ bar:1800 from:0 till: 9600
+ bar:1806 from:0 till: 10419
+ bar:1821 from:0 till: 10280
+ bar:1831 from:0 till: 10303
+ bar:1836 from:0 till: 10242
+ bar:1841 from:0 till: 9840
+ bar:1846 from:0 till: 9765
+ bar:1851 from:0 till: 9360
+ bar:1856 from:0 till: 9667
+ bar:1861 from:0 till: 9483
+ bar:1866 from:0 till: 9138
+ bar:1872 from:0 till: 8536
+ bar:1876 from:0 till: 8614
+ bar:1881 from:0 till: 8357
+ bar:1886 from:0 till: 8347
+ bar:1891 from:0 till: 8102
+ bar:1896 from:0 till: 7912
+ bar:1901 from:0 till: 7806
+ bar:1906 from:0 till: 7736
+ bar:1911 from:0 till: 7638
+ bar:1921 from:0 till: 7206
+ bar:1926 from:0 till: 7525
+ bar:1931 from:0 till: 7351
+ bar:1936 from:0 till: 7637
+ bar:1946 from:0 till: 10246
+ bar:1954 from:0 till: 10077
+ bar:1962 from:0 till: 9678
+ bar:1968 from:0 till: 11451
+ bar:1975 from:0 till: 13457
+ bar:1982 from:0 till: 14721
+ bar:1990 from:0 till: 14704
+ bar:1999 from:0 till: 14961
+ bar:2006 from:0 till: 14466
+
+
+
+Bayeux is the fourth biggest town in Calvados (département)|Calvados by population. The three biggest are Caen, Hérouville-Saint-Clair and Lisieux.
+
+Category:Subprefectures in France

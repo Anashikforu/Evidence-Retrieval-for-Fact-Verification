@@ -1,0 +1,10 @@
+'''Tisa''' can be any of the following:
+
+ Tisza River
+ Tisa, Arad|Tisa, a village in Hălmagiu Commune, Arad County, Romania
+ Tisa, Bacău|Tisa, a village in Sănduleni Commune, Bacău County, Romania
+ Tisa, Hunedoara|Tisa, a village in Burjuc Commune, Hunedoara County, Romania
+ Tisa, Maramureş|Tisa, a village in Bocicoiu Mare Commune, Maramureş County, Romania
+ Tisa, Prahova|Tisa, a village in Sângeru Commune, Prahova County, Romania
+ Tisa, Vâlcea|Tisa, a village in Băile Olăneşti, Vâlcea County, Romania
+

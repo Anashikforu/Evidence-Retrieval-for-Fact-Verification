@@ -1,0 +1,31 @@
+To help in showing the sizes of different geography|geographic regions, areas between 1&nbsp;km² (100 hectares) and 10&nbsp;km² (1000 hectares) are listed below.
+ 1 E5 m²|Areas smaller than 1&nbsp;km²
+ 1 '''square kilometre''' (United States|U.S. spelling: '''square kilometer'''), symbol '''km²''', is an SI Units of measurement|unit of surface area. It is equal to:
+ 100 hectares
+ 1 E+6 m² or 106&nbsp;m² in scientific notation
+ 1,000,000&nbsp;m²
+ 0.386 square miles
+ 247.105381 acres
+ the area of a Square (geometry)|square of side length 1 E 3 m|1&nbsp;kilometre|km 
+ a cube (geometry)|cube with this surface area has sides of length 1 E 2 m|408&nbsp;m
+ a circle of this area has a radius of 1 E 2 m|564&nbsp;m
+ a sphere of this surface area has a radius of 1 E 2 m|282&nbsp;m
+ 179 hectares—Bennebroek, smallest municipality in the Netherlands
+ 195 hectares—Monaco (country ranked 192nd by area) 
+ 200 hectares—Herm, Channel Islands
+ 250 hectares—Hyde Park, London|Hyde Park and Kensington Gardens in London 
+ 290 hectares—City of London
+ 320 hectares—Hampstead Heath in London
+ 341 hectares—Central Park in New York
+ 400 hectares—Great Wall of China, largest human structure.
+ 460 hectares—Pitcairn Island
+ 493 hectares—University of the Philippines Diliman
+ 650 hectares—Gibraltar
+ 890 hectares—size of largest organism on Earth, ''Armillaria ostoyae''.BBC:  1 E7 m²|Areas larger than 10&nbsp;km²
+
+Notes
+
+
+Category:Orders of magnitude
+
+en:Orders of magnitude (area)

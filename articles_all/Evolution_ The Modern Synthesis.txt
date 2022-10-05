@@ -1,0 +1,28 @@
+
+'''''Evolution: The Modern Synthesis''''' is the title of a book by Julian Huxley which was published in 1942. It was the book which gave the modern evolutionary synthesis its name, and was one of the most important books on biology in the mid-twentieth century.
+
+ The background to the book 
+Huxley was one of the main architects of the modern evolutionary synthesis|new evolutionary synthesis which took place around the time of World War II.
+
+:"The most informative episode in the history of evolutionary biology was the establishment of the 'neo-Darwinian synthesis'." Berry and Bradshaw, 1992.Berry R.J. and Bradshaw A.D. 1992. Genes in the real world. In Berry R.J. et al. (eds) ''Genes in ecology''. Blackwell, Oxford. The synthesis was brought about "not by one side being proved right and the others wrong, but by the exchange of the most viable components of the previously competing research strategies". Ernst Mayr, 1980.Mayr E. 1980. Some thoughts on the history of the evolutionary synthesis. In Mayr E. and Provine W.B. ''The evolutionary synthesis''. Harvard. pp 1–80
+
+= A trial run =
+Huxley's first 'trial run' was the treatment of evolution in the ''Science of Life'' (1929–30), and in 1936 he published a long and significant paper for the British Association.Huxley J.S. 1936. Natural selection and evolutionary progress. ''Proceedings of the British Association'' '''106''', 81–100. In 1938 came three lengthy reviews on major evolutionary topics.Huxley J. 1938a. Threat and warning colouration with a general discussion of the biological function of colour. ''Proc Eighth Int Ornithological Congress,'' Oxford 1934 pp 430–55Huxley J. 1938b. Darwin's theory of sexual selection and the data subsumed by it, in the light of recent research. ''American Naturalist'' '''72''', 416–33.Huxley J.S. 1938c. The present standing of the theory of sexual selection. In G.R. de Beer (ed) ''Evolution: Essays on aspects of evolutionary biology'' pp 11–42. Oxford.
+
+Two of these papers were on the subject of sexual selection, an idea of Darwin's whose standing has been revived in recent times.Cronin, Helena (1991). ''The ant and the peacock: altruism and sexual selection from Darwin to today''. Cambridge University Press.Anderson M. 1994. ''Sexual selection''. Princeton. Huxley thought that sexual selection was "...merely an aspect of natural selection". This rather grudging acceptance of sexual selection was influenced by his studies on the courtship of the Great Crested Grebe (and other birds that pair for life): the courtship takes place mostly ''after'' mate selection, not before.
+
+= The book and its reception =
+Now it was time for Huxley to tackle the subject of evolution at full length, in what became the defining work of his life.
+
+His role was that of a synthesiser, and it helped that he had met many of the other participants. His book ''Evolution: The Modern Synthesis'' was written whilst he was Secretary to the Zoological Society, and made use of his remarkable collection of reprints covering the first part of the century. It was published in 1942.
+
+Reviews of the book in learned journals were little short of ecstatic; the American Naturalist called it "The outstanding evolutionary treatise of the decade, perhaps of the century. The approach is thoroughly scientific; the command of basic information amazing".Hubbs C.L. 1943. Evolution the new synthesis. ''American Naturalist'' '''77''', 365–68.Kimball R.F. 1943. The great biological generalization. ''Quarterly Review of Biology'' '''18''', 364–67 another review of ''Ev. the modern synthesis''.
+
+ Others in the field 
+Huxley's main co-respondents in the modern evolutionary synthesis are usually listed as Ernst Mayr, Theodosius Dobzhansky, George Gaylord Simpson, Bernhard Rensch, Ledyard Stebbins and the population geneticists J.B.S. Haldane, Ronald Fisher and Sewall Wright. However, at the time of Huxley's book several of these had yet to make their distinctive contribution. Certainly, for Huxley, E.B. Ford and his co-workers  in ecological genetics were at least as important.
+
+ Key terms 
+It was Huxley who coined the terms ''the new synthesis'' and ''evolutionary synthesis'';Huxley J. 1942. ''Evolution: The Modern Synthesis'' (2nd ed 1963, 3rd ed 1974) he also invented the term ''cline (biology)|cline'' in 1938 to describe species whose members fall into a series of sub-species with continuous change in characters over a geographical area.Huxley J. 1938d. Clines: an auxiliary method in taxonomy. ''Bijdragen tot de Dierkunde'' (Leiden) '''27''', 491–520.Huxley J. 1938e. Clines: an auxiliary taxonomic principle. ''Nature'' '''142''', 219–220. The classic example of a cline is the circle of subspecies of the gull ''Larus'' round the Arctic zone. This cline is an example of a ''ring species''.Some of Huxley's last contributions to the evolutionary synthesis were on the subject of ecological genetics. He noted how surprisingly widespread polymorphism is in nature, with visible morphism much more prevalent in some groups than others. The immense diversity of colour and pattern in small bivalve molluscs, brittlestars, sea anemones, tubicular polychaetes and various grasshoppers is perhaps maintained by making recognition by predators more difficult.Huxley J.S. 1955. Morphism and evolution. ''Heredity'' '''9''', 1–52.Huxley J. 1955. Morphism in birds. In Portmann A. & Sutter E. (eds) ''Acta XI Cong Int Ornith'' (Basel 1954) pp 309–328.Moment G.B. 1962. Reflexive selection: a possible answer to an old puzzle. ''Science'' '''136''', 262.
+Huxley, Julian 1942. ''Evolution: the modern synthesis''. Allen and Unwin, London. 2nd ed 1963; 3rd ed 1974. 
+
+Category:Evolutionary biology

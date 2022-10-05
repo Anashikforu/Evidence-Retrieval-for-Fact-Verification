@@ -1,0 +1,24 @@
+{{Infobox language family
+|name=Semitic
+|region=Middle East, North Africa, Horn of Africa|Northeast Africa and Malta
+|familycolor=Afro-Asiatic
+|protoname=Proto-Semitic language|Proto-Semitic
+|child1=East Semitic languages|East Semitic (extinct)
+|child2=West Semitic languages|West Semitic
+|iso2=sem
+|iso5=sem
+|map         = Semitic languages.svg
+|mapcaption = Approximate historical distribution of Semitic languages.}}
+
+The '''Semitic''' languages are a branch of Afroasiatic languages spoken in North Africa, Arabia, the Horn of Africa and the Middle East. 
+
+The Semitic languages are a branch of the Afroasiatic language family, which originated in the Middle East. Semitic languages are spoken by more than 470 million people across much of Western Asia, North Africa and the Horn of Africa, as well as in large communities of people from different countries in North America and Europe. 
+
+The name was taken from Shem, a son of Noah in Genesis (chapters 6-11).
+
+Some examples of Semitic languages are Arabic language|Arabic, Aramaic language|Aramaic, Hebrew language|Hebrew, and Maltese language|Maltese.
+
+
+
+
+Category:Semitic languages| 

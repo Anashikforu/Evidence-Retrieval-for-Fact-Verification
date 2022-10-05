@@ -1,0 +1,9 @@
+In mathematics, a '''piecewise function''' is a function that is defined using multiple rules. Each rule specifies the function values for a portion of the domain, and the rules are conjoined together using the \{ symbol. when x ≤ 0.
+
+The Absolute value|absolute value function, floor function and step function are some common functions which are usually defined piecewise.
+
+ Related pages 
+
+ Hyperoperation—an example of piecewise function
+
+da:Stykkevis lineær funktion

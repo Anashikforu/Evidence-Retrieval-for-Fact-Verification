@@ -1,0 +1,147 @@
+// :en:User:ais523/bracketmatch.js - Colour matching brackets in a copy of the edit box.
+// By :en:User:ais523, on a suggestion by :en:User:Absidy.
+// Made compatible with ResourceLoader by :simple:User:Chenzw.
+//
+// What this does is add a "parse" link on the top of the edit box. Clicking on it will make a copy of the edit box appear
+// but where the "Show Preview" section normally is. Where the various  are, it will make the matching ones
+// different colours for ease of reference.
+
+$(function(){
+  var p=document.getElementById('wikiPreview');
+  if(pnull) p=document.getElementById('viewsourcetext');
+  if(p)
+    p.innerHTML+="Parse";
+  try
+  {
+    var edh=document.getElementsByClassName('editHelp')0;
+    if(bm_useparsebutton)
+      edh.innerHTML='<input id="bm_parsebutton" name="bm_parsebutton"'+
+        ' type="button" tabindex="6" value="Show parsed" title="Show how braces parse in this text" '+
+        ' onclick="bm_showparsed()"/>&nbsp;&nbsp;'+edh.innerHTML;
+  } catch(x) {}
+});
+
+function bm_parsebrackets()
+{
+  var t=document.getElementById('wpTextbox1').value;
+  var a=sajax_init_object();
+  var p='action=expandtemplates&generatexml=1&format=json&callback=bm_callback&text='+encodeURIComponent(t);
+  a.open('POST', mw.config.get(mw.config.get('wgServer'))+mw.config.get(wgScriptPath)+'/api.php');
+  a.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+  a.setRequestHeader("Content-length", p.length);
+  a.setRequestHeader("Connection", "close");
+  a.onreadystatechange=function(){bm_apirespond(a)};
+  a.send(p);
+}
+
+function bm_showparsed()
+{
+  bm_parsebrackets();
+  return 0;
+}
+
+function bm_apirespond(a)
+{
+  try
+  {
+    if(a.readyState4)
+      eval(a.responseText);
+  }
+  catch(e)
+  {
+    document.getElementById('bm_parseres').innerHTML=
+      "Could not parse due to a server error. Parse";
+  }
+}
+
+var colang;
+
+function bm_hexdigit(n)
+{
+  var i=Math.floor(n);
+  if(i<10) return i+'';
+  if(i10) return 'A';
+  if(i11) return 'B';
+  if(i12) return 'C';
+  if(i13) return 'D';
+  if(i14) return 'E';
+  if(i15) return 'F';
+}
+
+function bm_tohex(n)
+{
+  var i=Math.floor(n);
+  return bm_hexdigit(i/16)+bm_hexdigit(i%16);
+}
+
+function bm_gencol(ang)
+{
+  var r=Math.sin(ang)+1;
+  var g=Math.sin(ang+3.141592/3)+1;
+  var b=Math.sin(ang-3.141592/3)+1;
+  return bm_tohex(r127.5)+bm_tohex(g127.5)+bm_tohex(b127.5);
+}
+
+function bm_callback(o)
+{
+  var subs={"tplarg":"{{{",
+            "/tplarg":"}}}",
+            "template":"{{",
+            "/template":"}}",
+            "part":"|",
+            "ext":"&"+"lt;",
+            "/attr":"&"+"gt;",
+            "attr/":"&"+"gt;"};
+  var h=o.parsetree"".split("<");
+  var i=h.length;
+  var r;
+  var n;
+  var sp=0;
+  var st=new Array();
+  var col;
+  colang=0;
+  while(--i)
+  {
+    col="";
+    n=1;
+    hi=hi.split(">");
+    hi0=hi0.split(" ");
+    r=subshi00;
+    if(rundefined) r="";
+    if(r'}}}'||r'}}')
+    {
+      stsp=bm_gencol(colang);
+      col=stsp;
+      sp++;
+      colang+=2.4; //golden angle in radians, approx
+    }
+    else if(r'{{{'||r'{{')
+    {
+      sp--;
+      col=stsp;
+      n=2;
+    }
+    if(col!="")
+      r=""+r+"";
+    hi0=r;
+    hi=hi.join("");
+  }
+  document.getElementById('bm_parseres').innerHTML=
+    ""+h.join("").split("\n").join("")+
+    "Parse";
+}
+
+function bm_highlight(x,c)
+{
+  document.getElementById('bm_f'+x+'1').style.backgroundColor=c;
+  document.getElementById('bm_f'+x+'2').style.backgroundColor=c;
+  if(c"black")
+    window.setTimeout("bm_highlight('"+x+"','transparent')",3000);
+}
+//
+//test: abc
+//test: fgh
+//test: i 
+/ test:
+
+/

@@ -1,0 +1,97 @@
+{{Infobox country
+|conventional_long_name = Republic of Artsakh
+|common_name       = Artsakh
+|native_name       = 
+|image_flag        = Flag of Artsakh.svg
+|image_coat        = Emblem of the Republic of Artsakh.svg
+|national_anthem   = (Wikipedia:Naming conventions (Armenian)|transliteration)"Free and Independent Artsakh"
+|image_map         = Nagorno-Karabakh Republic (orthographic projection).svg
+|map_caption       = Territory controlled by Artsakh in dark green, claimed territory in light green.
+|capital           = Stepanakert
+|coordinates       = 
+|largest_city      = capital
+|official_languages= Armenian language|Armeniana
+|government_type   = Unitary state|Unitary Presidential system|presidential republic
+|leader_title1     = President of Artsakh|President
+|leader_name1      = Arayik Harutyunyan
+|leader_title2     = President of the National Assembly of Artsakh|President of the National Assembly
+|leader_name2      = Arthur Tovmasyan
+|legislature       = National Assembly (Artsakh)|National Assembly
+|sovereignty_type  = Independence 
+|established_event1= Autonomy
+|established_date1 = {{nowrap|2 September 1991
+|established_event2= 
+|established_date2 = 10 December 1991
+|area_km2          = 3170
+|area_rank=
+|area_sq_mi        = 1100 
+|area_footnote     = 
+|percent_water=
+|population_estimate=
+|population_census = 150,932
+|population_estimate_year=
+|population_census_year  = 2015
+|population_census_rank  = 191st
+|population_density_km2  =
+|population_density_sq_mi= 
+|demonym           = Artsakhi
+|GDP_PPP           = $713 million
+|GDP_PPP_year      = 2019
+|GDP_PPP_rank      = n/a
+|GDP_PPP_per_capita= $4,803
+|GDP_PPP_per_capita_rank = n/a
+|Gini = 
+|Gini_year=
+|Gini_change= 
+|Gini_ref=
+|Gini_rank=
+|HDI= 
+|HDI_year=
+|HDI_change= 
+|HDI_ref=
+|HDI_rank=
+|iso3166code  = AM
+|currency     = {{unbulleted list
+  | Artsakh dram
+  | Armenian dram
+ }}
+|currency_code= AMD
+|time_zone    = Armenia Time|AMT
+|utc_offset   = +4
+|drives_on    = right
+|calling_code = Telephone numbers in the Republic of Artsakh|+374 47c
+|cctld        = .am, .հայ
+|footnote_a   = The constitution guarantees "the free use of other languages spread among the population".
+|footnote_b   = Head of state and head of government, after the post of prime minister was abolished following a 2017 Nagorno-Karabakh constitutional referendum|constitutional referendum.
+|footnote_c   = +374 97 for mobile phones.
+|status       = International recognition of Artsakh|Unrecognised stateCommunity for Democracy and Rights of Nations#Members|Recognised by 3 non-UN members
+|today=}}
+'''Artsakh''', officially the '''Republic of Artsakh''' (), is a ''de facto'' independence|independent republic in the Nagorno-Karabakh region of the South Caucasus. It is internationally recognised to be part of Azerbaijan.
+
+It has been populated for a long time by Azerbaijani people|Azerbaijanis since the Middle Ages and by the Armenian people|Armenians since the Classical antiquity. In the 11th century the Seljuk Empire|Seljuk invasion swept over the Middle East, including Transcaucasia. Nomadic Turkic peoples|Turkic Oghuz Seljuk tribes, which also include the Azerbaijanis, who were brought with this invasion became dominant in Nagorno-Karabakh.
+
+The area has been disputed by Armenia and Azerbaijan since 1918. After the Soviet Union established control over the area, in 1923 it formed the Nagorno-Karabakh Autonomous Oblast (NKAO) within the Azerbaijan SSR. In the final years of the Soviet Union, the region again became a source of dispute between Armenia and Azerbaijan, resulting in the Nagorno-Karabakh War from 1988–1994.
+
+On 10 December 1991, a referendum was held in the NKAO and the neighbouring Shahumian region, which was boycotted by the region's Azerbaijani population. This resulted in a declaration of independence from Azerbaijan as the Nagorno-Karabakh Republic. The country is not recognized by any United Nations|UN member state, including Armenia. Representatives of the governments of Armenia and Azerbaijan have since been holding peace talks mediated by the OSCE Minsk Group.
+
+
+:
+
+
+
+
+
+ Geography 
+
+The Artsakh Republic has a lot of mountains. It is . The major rivers are the Terter river|Terter and Khachen river|Khachen rivers.
+
+The climate in the Artsakh Republic is mild. It is fog|foggy for over 100 days a year. More than 36% of the country is forest|forested.
+
+ Demographics 
+
+In 2005, the country's population was 137,737. The ethnic composition was 137,380 (99.74%) Armenians, 171 (0.12%) Russians, 21 (0.02%) Ukrainian people|Ukrainians, 6 (0.00%) Azerbaijanis and 159 (0.12%) others.
+
+The first demographic census in the Artsakh Republic took place in 1769. It was a letter from Heraclius II of Georgia to Russia's Petr Ivanovich Panin, and said, "Seven families rule the region of Khamse. Its population is totally Armenian." Цагарели А. А. Грамота и гругие исторические документы XVIII столетия, относяшиеся к Грузии, Том 1. СПб 1891, ц. 434-435. This book is available online from Google BooksBournoutian, George A. Armenians and Russia, 1626-1796: A Documentary Record. Costa Mesa, CA: Mazda Publishers, 2001, page 246 
+
+In 2014, the life expectancy for males was 71.6 years, and females 76.8 years.
+Category:Nagorno-Karabakh Republic| 

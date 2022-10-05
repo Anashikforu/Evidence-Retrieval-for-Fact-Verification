@@ -1,0 +1,41 @@
+{{Infobox London station 
+| symbol        = underground
+| name          = Euston     
+| alt_name      = 
+| manager       = London Underground   
+| manager1      =
+| owner         =
+| owner1        =
+| fare_zone     = 1
+| image_name  = Euston station facade.jpg  
+| locale      = Euston Road
+| borough     = London Borough of Camden 
+| coordinates   = 
+| map_type      = Central London
+| years1        = 1907
+| years2        = 1907
+| years3        = 1922
+| years4        = 1924
+| years5        = 1968
+| years6        = 
+| years7        = 
+| years8        = 
+| events1       = Opened (C&SLR)
+| events2       = Opened (CCE&HR)
+| events3       = Closed for rebuilding (C&SLR)
+| events4       = Reopened (C&SLR)
+| events5       = Opened (Victoria line)
+| events6       =
+| events7       =
+| events8       =
+| platforms   = 6 
+<!--| tubeexits04 = 22.35 
+| tubeexits06   = 25.67
+| tubeexits07   =  25.78
+| tubeexits08   =  28.13
+| tubeexits09   =  31.12-->
+ }}
+
+'''Euston tube station''' is a London Underground station. It is served by the Victoria Line and both branches of the Northern line (not to be confused with nearby Euston Square tube station). It directly connects with the Euston  railway station|Euston mainline station above it. The station is in Travelcard Travelcard Zone 1|Zone 1. 
+
+Category:London Travelcard zone 1

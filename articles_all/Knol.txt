@@ -1,0 +1,28 @@
+
+
+'''Knol''' is a Google project which aims to include user-written articles on a range of topics.
+
+Knol pages are "meant to be the first thing someone who searches for this topic for the first time will want to read", according to Manber. The term ''knol'', which Google defines as a "unit of knowledge",
+
+ Content 
+Anyone can create and own new knols. There can also be several articles on the same topic, each written by a different author.
+Because multiple articles can have the same title, readers find a topic by searching, rather than just by title. The authors can say who can edit their articles: the public, other authors, or only themselves. They may also choose to include ads from Google's AdSense to their knols. Knol has a policy that specifies topics that are unacceptable for the project. Relevant nudity is allowed (in most countries), Also forbidden is discriminatory or violent content. Content designed to promote businesses, products or services is allowed, but articles devoid of substantive content and created solely to generate ad revenue are not.
+
+In its early stages of development as a resource, Knol was criticised very much. Google has said that "Since knol authors receive attribution, knols are a great forum for expressing your opinions.""Best Practices: Writing Good Knols", Google, 2008,
+  webpage:
+    notes "Since knol authors receive attribution,
+  "knols are a great forum for expressing your opinions." In October 2008, Google unveiled using Knols as a forum for debate,
+ Process 
+Anyone who wants to contribute to Knol must first sign in, with a Google account. The users should give their real names. If permission is given, Google will check if the name is true. Google will do this by credit card or phone. Google "believes that knowing who wrote what will significantly help users make better use of web content". The company hopes that "knols will include the opinions and points of view of the authors who will put their reputation on the line".
+
+Readers who are logged in with a google account can comment on entries, rate them or suggest changes. This works much like a blog. When the project was announced, Manber said that "Google will not serve as an editor in any way, and will not bless any content. All editorial responsibilities and control will rest with the authors."
+
+All knols are licensed by default under the Creative Commons CC-BY-3.0 license. This license allows anyone to reuse the material as long as the original author is named, but authors may choose the CC-BY-NC-3.0 license (which prohibits commercial reuse) or traditional ''all rights reserved'' copyright protections instead.
+Knol has "nofollow" outgoing links, using an HTML directive. This prevents links in its articles from influencing search engine rankings.
+
+ What people say about Knol 
+People have described Knol as a rival to other encyclopedia sites such as Wikipedia and Scholarpedia. Wikipedia articles are written collectively under a "neutral point of view" policy,:en:Wikipedia:Neutral point of view
+
+There has been debate whether Google search results can remain neutral because of possible conflict of interest.
+
+Category:Google

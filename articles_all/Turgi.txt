@@ -1,0 +1,29 @@
+{{Infobox Swiss town
+ | subject_name		= Turgi
+ | municipality_name	= Turgi
+ | municipality_type	= municipality
+ | imagepath_coa	= Wappen Turgi AG.svg|pixel_coa=
+ | map			= Karte Gemeinde Turgi.png
+ | languages		= German
+ | canton		= Aargau
+ | iso-code-region 	= CH-AG
+ | district		= Baden (district)|Baden
+ | lat_d=47|lat_m=30|lat_NS=N|long_d=8|long_m=15|long_EW=E
+ | postal_code		= 5300
+ | municipality_code	= 4038
+ | area			= 1.55
+ | elevation		= 342|elevation_description= 
+ | population		= 2699|populationof = December 2005 | popofyear = 2005
+ | website		= www.turgi.ch
+ | mayor		= |mayor_asof=|mayor_party=
+ | mayor_title	= |list_of_mayors	= 
+ | places		= 
+ | demonym		= 
+ | neighboring_municipalities= Baden, Switzerland|Baden, Gebenstorf, Obersiggenthal, Untersiggenthal
+ | twintowns		= 
+||image_photo=Limmattal - Turgi IMG 9767.JPG}}
+
+'''Turgi''' is a municipality in Baden (district, Aargau)|Baden in the Cantons of Switzerland|canton of Aargau in Switzerland.  In 2002, Turgi got the Wakker Prize for saving its historical buildings. 
+
+
+Category:Municipalities of Aargau

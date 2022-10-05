@@ -1,0 +1,7 @@
+A '''software development kit''' ('''SDK''' or "'''devkit'''") is usually a set of development tools that allows a software developer to create computer software|applications for a certain software package, software framework, Computer hardware|hardware platform, computer system, video game console, operating system, or similar platform. 
+
+SDKs vary greatly between a simple application programming interface to hardware used to simulate a system.
+
+
+
+Category:Computers

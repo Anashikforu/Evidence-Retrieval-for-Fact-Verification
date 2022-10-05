@@ -1,0 +1,34 @@
+
+'''Perl''' is a programming language that was first made to change text files. The programming language has been changed many times to do things in addition to changing text files. Some of these things are tasks like making web pages show information in a better way than before, or take information and show it in a way that makes more sense to people.  Sometimes Perl code is written using many symbols besides letters and numbers, which can make those programs hard to read.
+Usage
+A lot of web pages are written using Perl, but it can be used to do all kinds of things on computers. It is very good at searching through text looking for patterns, which lets people find words that they may be looking for, or also let people find words they are looking for, and change them with different words much more quickly than they would if they had to do it one word at a time.
+
+Perl is also a high-level programming language. A high-level language has advanced features which let the programmer tell the computer what to do without having to worry about how the computer is going to do it as compared to Low-level programming language|low-level programming languages which often require more programmer effort. 
+
+Perl was invented by Larry Wall, and he is working on a Perl 6|new version of it.
+
+ Example 
+An example Hello World program in Perl:
+
+
+say 'Hello World!'
+
+You can use variables in Perl.
+
+A variable is a box where you can put items. In Perl, every variable starts with its own sigil. A sigil is the way to tell the Perl interpreter about what type of variable you are using. Variables can be scalar, array, hash, regular expression, typeglob or subroutine.
+
+For example:
+
+my $a_scalar = 2;
+my $b = 5.29 ;
+my $c = "a string";
+my $d = 'another';
+my @e = ($b,3,4,$c,$d);
+my %f = ('a'=>$b,'cad'=>'pqr',$c=>$d);
+
+
+ Perl Packages 
+
+The Perl Archive Network aka CPAN hosts a large number of extensions to Perl which may be downloaded for free.
+
+Category:Programming languages

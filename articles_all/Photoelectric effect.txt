@@ -1,0 +1,15 @@
+
+
+The '''photoelectric effect''' is a wikt:phenomenon|phenomenon in physics. The effect is based on the idea that electromagnetic radiation is made of a series of particles called '''photons'''.Skoog, Douglas A., Stanley R. Crouch, and F. James. Holler. Principles of Instrumental Analysis. Belmont, CA: Thomson Brooks/cole, 2007. ISBN 0-495-01201-7 When a photon hits an electron on a metal surface, the electron can be emission|emitted. The emitted electrons are called '''photoelectrons.''' The effect is also called the '''Hertz Effect''',The photoelectric effect has helped physicists understand the quantum mechanics|quantum nature of light and electrons. The concept of wave–particle duality was developed because of the photoelectric effect. Albert Einstein proposed the Laws of Photoelectric Effect and won the Nobel Prize For Physics 1921.
+
+ Mechanism 
+Not every electromagnetic wave will cause the photoelectric effect, only radiation of a certain frequency or higher will cause the effect. The minimum frequency needed is called the "cutoff frequency" or "threshold frequency'. The cutoff frequency is used to find the '''work function''', w, which is the amount of energy holding the electron to the metal surface. The work function is a property of the metal and is not affected by the incoming radiation. If a frequency of light strikes the metal surface that is greater than the cutoff frequency, then the emitted electron will have some kinetic energy.
+
+The energy of a photon causing the photoelectric effect is found through E = hf = KE + w, where h is Planck constant|Planck's constant,  joule|J·second|s, f is the frequency of the electromagnetic wave, KE is the kinetic energy of the photoelectron and w is the work function for the metal. If the photon has a lot of energy, Compton scattering (~ thousands of eV) or pair production (~ millions of eV) may take place.
+
+The intensity (physics)|intensity of the light alone does not cause ejection of electrons. Only light of the cut off frequency or higher can do that. However, increasing the intensity of light will increase the number of electrons being emitted, as long as the frequency is above the cut off frequency.
+
+History
+Heinrich Hertz made the first observation of the photoelectric effect in 1887.{{citation|last=Hertz|first=Heinrich|title=Ueber einen Einfluss des ultravioletten Lichtes auf die electrische Entladung
+|trans-title=On an Influence of Ultraviolet Light on Electrical Discharge|journal=Annalen der Physik|volume=31|issue=8|pages=983–1000|date=1887|doi=10.1002/andp.18872670827|bibcode=1887AnP...267..983H|url=
+Category:Energy

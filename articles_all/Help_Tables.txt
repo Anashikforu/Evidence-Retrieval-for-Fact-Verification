@@ -1,0 +1,16 @@
+
+
+Tables may be set up in wiki pages using either HTML table elements, or wikicode. HTML table elements will not be discussed here (see web pages if you're interested). The benefit of wikicode is that the table is made of character symbols. This makes it easier to imagine the table when you work in the editing box. 
+
+As a general rule, it is best to avoid using a table unless you need one. Table markup often complicates page editing.
+
+ Wiki table markup summary 
+'''Wiki table markup''', or '''wiki markup''' or just '''marks''' are words used to describe to control codes. '''Control codes''' are symbols used that tell wikipedia how to display something. When a person looks at a page in wikipedia, the wiki markup can make the text look special, such as '''bold''', large, or in a table. The person viewing the page does not see the wiki markup. Only the editor (the person that writes the page) sees the wiki markup.
+
+
+
+= CSS vs attributes =
+
+Table borders defined with CSS rather than the border attribute will display wrong in a small number of text browsers.
+
+Category:Help|Tables

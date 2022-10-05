@@ -1,0 +1,19 @@
+
+
+
+
+'''''Paramecium''''' is one of the best-known protists, often taught in school biology courses. It is a Ciliate genus. Ciliates are a clade of protists which move by synchronous waves of tiny projections from their cuticle. These projections are called cilia (singular: ''cilium'').
+Paramecium species usually have bacterial Symbiosis|symbionts, and some species have green algal symbionts.
+
+ Reproduction 
+Reproduction in ''Paramecium'' has been researched for many years.
+''Paramecium'' has two Cell nucleus|nuclei (a large macronucleus and a single compact micronucleus).
+This reproductive system is unique to ciliates, and is one of the reasons why we think the Protista is not a natural clade (monophyletic), but rather a polyphyletic collection of single-celled organisms.
+
+= ''Paramecium aurelia'' =
+This species consists of 14 "syngens", each genetically isolated from every other, and biochemically unique. Each syngen has two mating types.Sonneborn T.M. 1938. Mating types in ''Paramecium aurelia''. ''Proc Am Philos Soc'' '''79''', 411-434. The syngens are so similar in appearance that they have not been given separate species names.p322
+
+= Killer paramecia and kappa particles =
+These are paramecia which secretion|secrete, into the medium around them, particles which kill other paramecia. This killer trait is caused by '''kappa particles''', which are are symbiotic bacteria. The kappa particles are only found in paramecia with a dominance (genetics)|dominant K gene. The killing is done by smaller particles which are defective DNA phages. The kappa bacterium is just one of many found in natural populations of ''Paramecium aurelia''.King R.C. Stansfield W.D. & Mulligan P.K. 2006. ''A dictionary of genetics''. 7th ed, Oxford University Press. 
+
+Category:Ciliates

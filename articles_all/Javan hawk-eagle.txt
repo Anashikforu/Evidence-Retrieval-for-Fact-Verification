@@ -1,0 +1,21 @@
+
+{{Taxobox
+| name = Javan hawk-eagle
+| image = Elang Jawa Nisaetus bartelsi Bandung Zoo 2 cropped.jpg
+| status = 
+| status_system = 
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Accipitriformes
+| familia = Accipitridae
+| genus = ''Nisaetus''
+| binomial = ''Nisaetus bartelsi''}}
+
+The '''Javan hawk-eagle''' (''Nizaetus bartelsi'') is a medium-sized dark brown raptor in the family Accipitridae. The Javan hawk-eagle is the national bird of Indonesia.
+
+The Javan hawk-eagle is believed to be monogamous. The female usually lays one egg in a nest high on top of a forest tree. Their diet consists mainly of birds, lizards, fruit bats and mammals.
+
+
+
+Category:Birds of Indonesia
+Category:Accipitriformes

@@ -1,0 +1,41 @@
+
+  | ground     = Azadi StadiumWest Tehran
+  | capacity   = 100,000
+  | owner      = Ministry of Youth Affairs and Sports (Iran)|Ministry of Youth Affairs and Sports
+  | chrtitle   = Persepolis Athletic and Cultural Club#Chairmen.5B1.5D|Chairman
+  | chairman   = Mohammad Rouyanian
+  | mgrtitle   = List of Persepolis F.C. managers|Manager
+  | manager    = Yahya Golmohammadi
+  | league     = Iran Pro League
+  | season     = Persepolis F.C. season 2011-12|2011–12
+  | position   = Iran Pro League, 12th
+  | pattern_la1=_pers home 2012
+  | pattern_b1 =_pers home 2012
+  | pattern_ra1=_pers home 2012
+  | pattern_sh1=_pers home 2012
+  | leftarm1   = DD0000
+  | body1      = DD0000
+  | rightarm1  = DD0000
+  | shorts1    = DD0000
+  | socks1     = DD0000
+  | pattern_la2=_pers away 2012
+  | pattern_b2 =_pers away 2012
+  | pattern_ra2=_pers away 2012
+  | pattern_sh2=_pers away 2012
+  | leftarm2   = 000000
+  | body2      = 000000
+  | rightarm2  = 000000
+  | shorts2    = 000000
+  | socks2     = 000000
+  | pattern_la3=_pers away 2012
+  | pattern_b3 =_pers away 2012
+  | pattern_ra3=_pers away 2012
+  | pattern_sh3=_pers away 2012
+  | leftarm3   = FFFFFF
+  | body3      = FFFFFF
+  | rightarm3  = FFFFFF
+  | shorts3    = FFFFFF
+  | socks3     = FFFFFF
+  | website    =  }}
+'''Persepolis Football Club''' (, pronounced '''Perspolis''') is an Iranian Football (soccer)|football club based in Tehran, Iran. While the original name of the club is Persepolis, it is also called ''Piroozi'' (meaning victory) in Iran.
+

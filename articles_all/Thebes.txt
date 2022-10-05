@@ -1,0 +1,6 @@
+'''Thebes''' is the name of two cities:
+
+Thebes, Greece
+Thebes, Egypt
+
+

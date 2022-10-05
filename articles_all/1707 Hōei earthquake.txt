@@ -1,0 +1,45 @@
+{{Infobox earthquake
+|title= 1707 Hōei earthquake
+|pre-1900= yes
+|local-date= 
+|local-time= 14:00 
+|map2= {{Location map|Japan
+ |label=
+ |lat=33.0
+ |long=136.0
+ |mark=Bullseye1.png
+ |marksize=50
+ |position=top
+ |width= 250
+ |float=right
+ |caption=
+ | relief=yes}}
+|magnitude = 8.6  8.7
+|depth=
+|location=
+|countries affected = Japan: Chūbu region, Kansai region, Shikoku, Kyūshū
+|tsunami = yes
+|fault = Nankai megathrust
+|casualties = >5,000}}
+The '''1707 Hōei earthquake''' happened at 14:00 local time on 28 October 1707. It was one of the largest earthquakes in Japanese history.
+
+Background
+The southern coast of Honshu runs in the same direction as the Nankai Trough. This marks the place where the Philippine Sea Plate moves under the Eurasian Plate. Movement on this boundary causes many earthquakes; some of them are megathrust earthquakes. The Nankai megathrust has five parts (A-E) that can break one by one. In 1707, the earthquakes were either at the same time, or close enough together so that writing from that time do not describe them separately.
+
+Damage
+29,000 houses were destroyed and more than 5,000 people were killed. The earthquake caused at least one major landslide in Shizuoka Prefecture|Shizuoka.
+
+Characteristics
+=Earthquake=
+There were two other very large earthquakes: the 1854 Ansei-Tōkai earthquake|1854 Ansei-Tōkai and 1854 Ansei-Nankai earthquake|Ansei-Nankai earthquakes. The 1707 was stronger than both. Several observations show that the Hōei earthquake was bigger. At Cape Muroto, Kōchi Prefecture|Kōchi, a cliff was raised up about 2.3 m in 1707, but just 1.5 m in 1854.  In the Kawachi Province|Kawachi Plain area, the earthquake was around 6 - 7 on the Japan Meteorological Agency seismic intensity scale|JMA scale. Also, the amount of damage and height of the water from tsunami showed the strength of the earthquake. There are also records of tsunami at distant locations, such as Nagasaki and Jeju-do, South Korea.
+
+=Tsunami=
+The tsunami that followed the earthquake raised water along the coast. Along the southwestern coast of Kōchi, Kōchi|Kōchi, the average increase in sea level was 7.7 m. In some places it rose up to 10.2 m
+
+=Connection to Mount Fuji eruption=
+Changes in stress caused by large earthquakes may be enough to cause volcano|volcanic eruptions, when the magma system of the volcano is close to a critical state. The great earthquake in 1707 may have changed pressure in the magma under Mount Fuji and might have caused the Hōei eruption of Mount Fuji|last eruption of Mount Fuji 49 days later.
+
+Related pages
+Hōei eruption of Mount Fuji
+
+Category:1700s in Asia

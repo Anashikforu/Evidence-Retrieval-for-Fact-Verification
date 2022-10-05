@@ -1,0 +1,9 @@
+A '''trace element''' is present in only a small amount. The amount depends on context.
+
+ In analytical chemistry, it is an Chemical element|element in a sample that has an average concentration of less than 100 parts per million (ppm) measured in atomic count, or less than 100 micrograms per gram. 
+
+ In biochemistry, it is one that is needed in minute quantities for the proper growth, development, and physiology of the organism.H.J.M. Bowen 1976. ''Trace elements in biochemistry''. 2nd ed, Academic Press. In biochemistry, a trace element is also referred to as a ''micronutrient''. See Enzyme#Cofactors|Cofactor.
+
+In geology, its concentration is less than 1000 ppm or 0.1% of a Rock (geology)|rock's composition. The term is used mainly in igneous rock|igneous petrology.
+
+Category:Geology

@@ -1,0 +1,31 @@
+ 
+{{Infobox Scientist 
+|name = George Hoyt Whipple 
+ 
+|image             =George Whipple nobel.jpg
+|image size        = 180px
+|birth_date        = 
+|birth_place = Ashland, New Hampshire, USA
+|death_date = 
+|death_place = 
+|residence = 
+|citizenship = 
+|nationality =
+
+|field =Medicine 
+|work_institutions =Johns Hopkins University 
+|alma_mater = Yale University 
+|doctoral_advisor = 
+|doctoral_students = 
+|known_for = 
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences = 
+|influenced = 
+|prizes = Nobel Prize in Physiology or Medicine (1934) 
+|religion = 
+|footnotes = 
+|signature = }} 
+'''George Hoyt Whipple''' (August 26, 1878 - February 1, 1976) was an Americans|American Medical doctor and scientist. He won the 1934 Nobel Prize in Physiology or Medicine, along with George Minot and William P. Murphy, for their discoveries about how eating liver could cure anaemia.
+
+Category:Educators from New Hampshire

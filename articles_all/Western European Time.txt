@@ -1,0 +1,2 @@
+
+'''Western European Time''' ('''WET''', UTC±00:00) is a time zone covering parts of western Europe, with countries using UTC±00:00 (also known as Greenwich Mean Time, called GMT).

@@ -1,0 +1,33 @@
+
+
+An '''inductor''' is an electrical device used in electrical circuits because of magnetic charge.
+
+An inductor is usually made from a coil of Electrical conductor|conducting material, like copper wire, that is then wrapped around a magnetic core|core made from either air or a magnetic metal.  If you use a more magnetic material as the core, you can get the magnetic field around the inductor to be pushed in towards the inductor, giving it better inductance.  Small inductors can also be put onto integrated circuits using the same ways that are used to make transistors.  Aluminum is usually used as the conducting material in this case.
+
+How inductors work
+
+While a capacitor does not like changes in voltage, an inductor does not like changes in current.
+
+In general, the relationship between the time-varying voltage ''v''(''t'') across an inductor with inductance ''L'' and the time-varying current ''i''(''t'') passing through it is described by the differential equation:
+
+v(t) = L \frac{di}{dt}."
+How inductors are used
+Inductors are used often in analog circuits."
+Inductors are also used in electrical transmission systems, where they are used to lower the amount of voltage an electrical device gives off or lower the fault current.
+Because inductors are heavier than other electrical components, people have been using them in electrical equipment less often.
+
+Inductors with an iron core are used for audio equipment, power conditioning, inverter systems, rapid transit and industrial power supplies."
+
+Electrical engineers like to reduce diagrams of electrical circuits, no matter how complicated, to an ''equivalent circuit'' consisting of a network of just ''four'' different types of component.  These four basic components are ''emfs'', ''resistors'', ''capacitors'', and ''inductors''.  An inductor is usually represented by a little solenoid in circuit diagrams. In practice, inductors generally consist of short air-cored solenoids wound from enameled copper wire.
+
+Related pages
+Magnetic charge
+Transformer
+Coil
+Resistor
+Capacitor
+Magnetic core
+Induction coil
+Induction loop
+
+Category:Electronic components

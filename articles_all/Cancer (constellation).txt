@@ -1,0 +1,31 @@
+{{Infobox Constellation
+| name = Cancer
+| abbreviation = Cnc
+| genitive = Cancri
+| symbology = the Crab
+| RA = 9
+| dec= +20
+| areatotal = 506
+| arearank = 31st
+| numbermainstars = 5
+| numberbfstars = 76
+| numberstarsplanets = 1
+| numberbrightstars = 0
+| numbernearbystars = 2
+| brighteststarname = Beta Cancri|β Cnc (Altarf)
+| starmagnitude = 3.5
+| neareststarname = DX Cancri|DX Cnc
+| stardistance = 11.8
+| numbermessierobjects = 2
+| meteorshowers = Delta Cancrids
+| bordering = Lynx (constellation)|LynxGemini (constellation)|GeminiCanis MinorHydra (constellation)|HydraLeo (constellation)|LeoLeo Minor (corner)
+| latmax = 90
+| latmin = 60
+| month = March
+| notes=}}
+
+'''Cancer''' (). Cancer is small and the stars are dim. It is between Gemini (constellation)|Gemini to the west and Leo (constellation)|Leo to the east, Lynx (constellation)|Lynx to the north and Canis Minor and Hydra (constellation)|Hydra to the south.
+
+Right in the middle of the constellation is M44, the Beehive Cluster, one of the nearest open clusters to Earth.
+
+Category:Constellations listed by Ptolemy

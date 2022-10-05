@@ -1,0 +1,4 @@
+Image:MIM Janko Piano.jpg|thumb|upright=1.7|right|250px|A Janko keyboard.
+6-plus-6-instruments are musical instruments having each 12 tones. Their keys or cords are in two rows. In each row the tone distance is a Whole-tone scale|whole-tone distance. The distance between both rows is a semitone|half-tone distance. So there is the same fingering in all 6 scales where the base tone is in the same row. If there is a third row, which is the same like the first row, there is the same fingering in all 12 scales, e. g. on a piano with a Janko keyboard.
+
+Category:Musical instruments

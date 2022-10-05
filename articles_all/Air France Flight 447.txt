@@ -1,0 +1,63 @@
+{{Infobox Aircraft occurrence
+| name = Air France Flight 447
+| occurrence_type = Accident
+| image = PKIERZKOWSKI 070328 FGZCP CDG.jpg 
+| image_upright = 1.3
+| caption = F-GZCP, the aircraft involved, seen in 2007
+| date = 1 June 2009
+| summary =  Entered high-altitude stall (flight)|stall; impacted ocean 
+| Site = 
+| coordinates = 
+| fatalities = 228
+| operator = Air France
+| aircraft_type = Airbus A330|Airbus A330-203
+| IATA          =  AF447
+| ICAO          =  AFR447
+| callsign      =  AIRFRANS 447
+| tail_number = F-GZCP
+| occupants = 228
+| passengers = 216
+| crew = 12
+| survivors = 0
+| origin = 
+| Destination = Charles de Gaulle Airport
+|alt=|aircraft_name=}}
+
+'''Air France Flight 447''' was a scheduled commercial flight from Rio de Janeiro, Brazil, to Paris, France. The aircraft used was an Airbus A330 jet. On June 1, 2009, the A330 crashed into the Atlantic Ocean killing all 228 people on board. Air France Flight 447 is currently the deadliest plane crash in Air France's history. It is the deadliest plane crash in the 21st century since the crash of American Airlines Flight 587, which occurred on November 12, 2001.
+
+Aircraft
+F-GZCP was an Airbus A330-203.It has two General Electric CF6-80E1A3 engines.It was delivered new from Airbus, after having its first flight on 25th February 2005, and at the time of accident, it has flown for 18870&nbsp;hours, taking off and landing 2644 times."
+Occupants
+
+
+
+As the flight was more than 10&nbsp;hours long, there were 3 crew operating the airplane, so that each of them can take a break during the flight."
+Accident
+Air France Flight 447 took off from Rio de Janeiro International Airport for the flight to Paris at 7.29&nbsp;p.m. Brazilian time. In the first part of the flight, the captain was in the left seat, while first officer Bonin was in the right seat. The third pilot, Robert, was resting in the small cabin behind the cockpit. The plane cruised at FL350, or 35,000&nbsp;feet.
+
+From 1.48&nbsp;a.m. onwards, the flight went out of radar coverage. From then on ATC can no longer track the flight. At 1.55&nbsp;a.m., the captain woke Robert up and asked Robert to take his place.
+
+Then, at 2.08&nbsp;a.m. the plane turned left due to turbulence. Just 2&nbsp;minutes later, both the autopilot and the auto thrust switches off. Bonin, in response, said,"I have control." before raising the plane's nose up and causing the plane to climb. Robert noticed this and asked Bonin to descend. Bonin then put the nose down and the plane no longer climbed as fast as how it did previously. However, the plane was still climbing."Final report." Paragraph 1.1. BEA. July 2012. Retrieved May 7, 2014.
+
+At about 2.11 a.m and 6&nbsp;seconds, the plane reached the maximum altitude. The angle of attack was about 16 degrees. The plane Stall (flight)|stalled and began to descend. Throughout the whole descent, the angle of attack remained above 35 degrees when valid. The plane most likely crashed at 2.14&nbsp;a.m. and 28&nbsp;seconds, when all the recordings stopped.
+
+Searches
+At 2:20&nbsp;a.m., the Air Traffic Controller at DAKAR failed to contact Air France Flight 447, which was supposed to be in DAKAR airspace already. The controller then contacted Air France, who tried to contact Flight 447, but failed."Air France 447: Vanished" Mayday (TV Series)|''Mayday''''. ''Season 12, Episode 13. At that time, people thought that the plane had "disappeared".Ships and planes then searched the area near the last-known position of Flight 447, and by 6th June, the first bodies have been found. The plane was confirmed to have crashed.
+
+As the search for survivors end, the search for the plane's recorders then began. Underwater Vehicles are used to detect the recorders' signals that they give out for 30 days.However, at the end of the 30 days, there was not a sign of the recorders. Other searches in 2009 and 2010 also found nothing.
+
+Then, in 2011, the search for recorders finally ended when an underwater vehicle found the Flight Data Recorder and Cockpit Voice Recorder on 26th April and 2nd May respectively.The recorders are sent to BEA(Bureau d'Enquêtes et d'Analyses pour la Sécurité de l'Aviation Civile, Bureau of Enquiry and Analysis for Civil Aviation Safety)'s headquarters for analysis and arrived on 12th May."''
+Cause of accident
+When the pitot tubes were blocked by ice crystals, the automatic controls of the plane, including autopilot and autothrust, switches off by itself. This had surprised the pilots, even though this was a well known phenomenon. The pilots likely never understood that the only problem they had was that the airspeed was incorrect.
+
+The plane began to climb. During the whole climb to 38,000&nbsp;feet, the crew failed to understand the situation. Even when the plane stalled and the stall warning sounded, the crew likely did not understand the stall situation they were in and so never tried to put the nose down and recover the plane from the stall. The plane remained stalled until impact with water."
+Aftermath
+Right after the crash, Air France sped up the replacement of pitot tubes. By June 11, 2009, all the pitot tubes were changed to ones that will not freeze up when ice crystals hit them."
+The flight number was changed to AF 445 after the crash and is still flown by Airbus A330|Airbus A330-200s."
+ Documentaries 
+There are some documentaries about the crash, including:
+ BBC's one hour documentary, produced before the recorders were discovered
+ ''Mayday'' (also known as ''Air Crash Investigation''), Season 12, Episode 13
+ ''Fatal Flight 447: Chaos in the Cockpit''
+
+Category:June 2009 events

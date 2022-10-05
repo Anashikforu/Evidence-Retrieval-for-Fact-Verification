@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Red-vented bulbul
+| status = LC | status_system = IUCN3.1
+| status_ref=
+| image = Red-vented_Bulbul_(Pycnonotus_cafer)_feeding_at_Kapok_(Ceiba_pentandra)_at_Kolkata_I_IMG_2535.jpg
+| image_caption = ''P. c. bengalensis'' (Kolkata, India)
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = bird|Aves
+| ordo = Passeriformes
+| familia = bulbul|Pycnonotidae
+| genus = ''Pycnonotus''
+| binomial = ''Pycnonotus cafer''
+| binomial_authority = (Carolus Linnaeus|Linnaeus, 1766)}}
+
+The ''' red-vented bulbul''' (''Pycnonotus cafer'') is a species of bird.  It wikt:belong|belongs in the Family (biology)|family Pycnonotidae.
+
+The bird is found in tropical southern Asia from India and Sri Lanka east to Burma and southwestern China. It has been Introduced species|introduced to many Pacific islands including Fiji, Samoa, Tonga, and Hawaii. It has also been introduced in parts of Dubai, the United Arab Emirates and New Zealand. It is included among the world's worst introduced species.
+
+Category:Passeriformes

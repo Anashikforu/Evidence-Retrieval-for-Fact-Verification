@@ -1,0 +1,64 @@
+{{Infobox roller coaster
+|imagedimensions=260px
+|image=Kingda Ka.jpg
+|caption=Kingda Ka prior to the addition of Zumanjaro: Drop of Doom
+|previousnames=
+|location=Six Flags Great Adventure
+|section=The Golden Kingdom
+|coordinates=
+|type=Steel
+|type2=Launched
+|type3=            
+|status= Operating
+|opened=
+|year=2005
+|closed=
+|manufacturer=Intamin
+|designer=Werner Stengel
+|model=Accelerator Coaster
+|track=Strata Coaster
+|lift=Launched roller coaster#Hydraulic|Hydraulic launch
+|height_ft=456
+|drop_ft=418
+|length_ft=3118
+|speed_mph=128
+|acceleration_from=0       
+|acceleration_mph=128        
+|acceleration_in=3.5         
+|gforce=5
+|duration=0:28
+|capacity=1,400
+|angle=90
+|restriction_in=54-77
+|virtual_queue_name  = Flash Pass
+|virtual_queue_image = Fastpass availability icon.svg
+|virtual_queue_status= Available
+|single_rider=            
+|custom_label_1= Trains
+|custom_value_1= Four trains, with five cars. Riders are arranged 2 across in 2 rows (except for the last car), for a total of 18 riders per train.
+|custom_label_2=
+|custom_value_2=
+|accessible=              
+|transfer_accessible=     
+|rcdb_number=2832
+|cost=$25,000,000}}
+'''Kingda Ka''' is a Steel roller coaster|steel roller coaster at Six Flags Great Adventure in Jackson, New Jersey|Jackson, New Jersey, United States|USA. It was built by Stakotra, a subcontractor to Intamin.. It first opened on May 21, 2005. To get up 456 feet, the train is launched by a machine to 128 miles per hour in 3 seconds. The train goes up the tower, and back down. At the bottom the train goes over a hill while it is slowing down. Soon it is going slow enough to be able to arrive safely back where it started. The ride lasts 28 seconds from the time it is launched.
+
+ History 
+In the past, Kingda Ka has been struck by lightning and shut down for almost a whole year. The launch cable snapped once and the ride was shut down for a while. Something happened to the braking fins so they shut down the ride. It also can get shut down by weather. The train is made so that if it rolls back it gets placed back to be launched. This happens when the hydraulic launch system does not get enough power to get over the hill or the brakes on the top off the hill stop you too much.
+
+= Story =
+Kingda Ka is named for a 500-pound mythical tiger. A tiger in the safari was named after the roller coaster. It is surrounded by bamboo to make it look more real. It also plays music.
+
+= Features =
+
+The ride has 4 trains with 5 cars. They are 9 rows in each car that can hold 18 people and there are 2 people in each row. Each seat has shoulder harnesses and buckles that keep the shoulder harness down to make sure passengers are safe. At the top, passengers are weightless for a second, and after riders enjoy a beautiful view, it is followed by a drop.
+
+= Restrictions =
+Passengers must be 4´7 to ride Kingda Ka.
+
+Problems
+
+The train may sometimes experience a rollback after it is launched. A rollback happens when the train doesn't make it to the top of the hill and rolls back down the track. The launch track has magnetic brakes so that the train doesn't go back to the station.
+
+Category:2000s establishments in New Jersey

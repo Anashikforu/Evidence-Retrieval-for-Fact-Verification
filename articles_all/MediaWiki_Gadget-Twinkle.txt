@@ -1,0 +1,1 @@
+Wikipedia:Twinkle|Twinkle, a set of tools that automates common tasks such as reporting vandalism, warning vandals, and requesting deletion.

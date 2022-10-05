@@ -1,0 +1,125 @@
+
+The '''Province of Ascoli Piceno''' () is a Provinces of Italy|province in the Regions of Italy|region of Marche in Italy. Its Capital city|capital is the city of Ascoli Piceno.
+
+Geography
+
+Ascoli Piceno has an area of . The province is bordered to the east by the Adriatic Sea and to the north with the provinces of  Province of Macerata|Macerata and Province of Fermo|Fermo. It borders with three Regions of Italy|regionsː the Abruzzo region to the south, the Lazio region to the soutwest and the Umbria region to the west.
+
+
+
+The main river in the province is Tronto, .
+
+Population
+There are 209,450 persons living in the province (1 January 2017). The population density was  inhabitants/km².
+
+'''Evolution of the population'''
+
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:250000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2017 text:2017
+
+PlotData=
+ color:barra width:30 align:left
+
+  bar:1961 from:0 till: 188306
+  bar:1971 from:0 till: 185645
+  bar:1981 from:0 till: 192054
+  bar:1991 from:0 till: 197811
+  bar:2001 from:0 till: 203153
+  bar:2011 from:0 till: 210407
+  bar:2017 from:0 till: 209450
+
+PlotData=
+  bar:1961 at: 188306 fontsize:S text: 188,306 shift:(-13,1)
+  bar:1971 at: 185645 fontsize:S text: 185,645 shift:(-18,5)
+  bar:1981 at: 192054 fontsize:S text: 192,054 shift:(-18,5)
+  bar:1991 at: 197811 fontsize:S text: 197811 shift:(-18,5)
+  bar:2001 at: 203153 fontsize:S text: 203,153 shift:(-18,8)
+  bar:2011 at: 210407 fontsize:S text: 210,407 shift:(-18,5)
+  bar:2017 at: 209450 fontsize:S text: 209,450 shift:(-18,5)
+
+
+
+ Municipalities 
+There are 33 Municipality|municipalities (or ''Comune|comuni'') in the province; they are:
+
+
+# Acquasanta Terme
+# Acquaviva Picena
+# Appignano del Tronto
+# Arquata del Tronto
+# Ascoli Piceno
+# Carassai
+# Castel di Lama
+# Castignano
+# Castorano
+# Colli del Tronto
+# Comunanza	
+# Cossignano
+# Cupra Marittima
+# Folignano
+# Force
+# Grottammare
+# Maltignano
+# Massignano
+# Monsampolo del Tronto
+# Montalto delle Marche
+# Montedinove
+# Montefiore dell'Aso	
+# Montegallo
+# Montemonaco
+# Monteprandone
+# Offida
+# Palmiano
+# Ripatransone
+# Roccafluvione
+# Rotella
+# San Benedetto del Tronto
+# Spinetoli
+# Venarotta
+
+
+The largest ''comune'' is Ascoli Piceno, with . The ''comune'' with fewest inhabitants is Palmiano, with 188 inhabitants.
+
+=Main ''comuni''=
+The following table shows the 10 Comune|''comuni'' with more inhabitants with their population, and their area and altitude.
+
+
+
+
+
+Gallery
+
+File:Ascoli Piceno.jpg|''Piazza del Popolo'', Ascoli Piceno.
+File:Rotondagiorginisbt.jpg|San Benedetto del Tronto.
+File:Grottammare 2013 by-RaBoe 002.jpg|Grottammare.
+File:Monteprandone 22 aprile 2015.JPG|Monteprandone.
+File:Monte Vettore.jpg|Monte Vettore.
+
+
+Related pages
+ List of comuni of the Province of Ascoli Piceno
+
+Category:Provinces of Marche|Ascoli

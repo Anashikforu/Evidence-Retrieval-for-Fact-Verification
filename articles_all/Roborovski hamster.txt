@@ -1,0 +1,21 @@
+{{Taxobox
+| name = Roborovski hamster
+| image = Roborovski hamster.jpg
+| image_width = 250px
+| status = LR/lc 
+| status_system = iucn2.3
+| regnum = Animal
+| classis = Mammal
+| ordo = Rodentia
+| familia = Cricetidae
+| subfamilia = Cricetinae
+| genus = ''Phodopus''
+| binomial = ''Phodopus roborovskii''}}
+
+'''Roborovski hamsters''' (''Phodopus roborovskii'') are the smallest of all hamsters commonly kept as pets. Roborovski hamsters live in the wild around the Gobi Desert, throughout Mongolia's desert steppe and parts of northern China. Robo hamsters, as they are commonly called, are also extremly fast. Because of their size wired cages are not suitable for them
+
+
+
+
+
+category:Hamsters

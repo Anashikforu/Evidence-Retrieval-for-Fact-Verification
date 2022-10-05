@@ -1,0 +1,15 @@
+
+
+A '''Coaxial cable''' is a special electrical cable. It is used to transmit signals. The cable is specially insulated. This makes it quite stiff. Today, coaxial cables are used for things like Cable TV. Coaxial cables can also be used for computer networks, but this became rare in the 21st century, as twisted pair cables can be used more easily. 
+
+Such cables are usually made of a conducting wire. Then there is some insulation, then there is another layer of conducting material. Finally there is the (insulating) mantle. Such cables are used as a transmission line#High-frequency electrical transmission lines|high-frequency transmission line to carry a high-frequency or broadband signal. Because the electromagnetic field carrying the signal exists (ideally) only in the space between the inner and outer electrical conductor|conductors, it cannot interfere with or suffer interference from external electromagnetic fields.
+
+There are different types of coaxial cables, which satisfy different standards.
+
+ Timeline 
+1880 — Coaxial cable patented in England by Oliver Heaviside, patent no. 1,407.Google Book Search - 1884 — Siemens & Halske patent coaxial cable in Germany (Patent No. 28,978, 27 March 1884).
+1894 — Oliver Lodge demonstrates waveguide transmission at the Royal Institution.
+1929 — First modern coaxial cable patented by Lloyd Espenschied and Herman Affel of AT&T (1885-2005)|AT&T's Bell Labs|Bell Telephone Laboratories.
+1936 — First Closed-circuit television|closed circuit transmission of television|TV pictures on coaxial cable, from the 1936 Summer Olympics in Berlin to Leipzig.earlytelevision.org - 1936 — World's first underwater coaxial cable installed between Apollo Bay, near Melbourne, Australia, and Stanley, Tasmania. The 300&nbsp;km cable can carry one 8.5-kHz broadcast channel and seven telephone channels.The worldwide history of telecommunications By Anton A. Huurdeman - 1936 — AT&T installs experimental coaxial telephone and television cable between New York and Philadelphia, with automatic booster stations every ten miles. Completed in December, it can transmit 240 telephone calls simultaneously."1936 — Coaxial cable laid by the General Post Office (now British Telecom|BT) between London and Birmingham, providing 40 telephone channels.Google Book Search|Google books - 1941 — First commercial use in USA by AT&amp;T, between Minneapolis, Minnesota and Stevens Point, Wisconsin. L1 system with capacity of one TV channel or 480 telephone circuits.
+1956 — First transatlantic coaxial cable laid, TAT-1.Atlantic-cable.com - 
+Category:Signalling

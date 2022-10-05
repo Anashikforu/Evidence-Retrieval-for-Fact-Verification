@@ -1,0 +1,2 @@
+You can use the form below to send an e-mail message to this user.
+The e-mail address you entered in Special:Preferences|your user settings will appear as the "From" address of the e-mail, so the recipient will be able to reply directly to you.

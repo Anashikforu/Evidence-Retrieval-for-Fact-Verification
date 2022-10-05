@@ -1,0 +1,17 @@
+
+A '''computer file''' is a means to store information that belongs together. Computer files can be opened (read and written) by computer programs. Usually they are stored on some kind of file system.
+
+There are different kinds of computer files that hold different kinds of Information|data (information):
+
+ Text files
+ Audio files (e.g. for songs, voice recordings)
+ Video files (e.g. for movies)
+ Images Picture|(pictures)
+ Other binary data
+
+The way the information is organized in a file is called the file format.
+
+
+
+
+Category:Computing

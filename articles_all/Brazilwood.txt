@@ -1,0 +1,25 @@
+{{Taxobox
+| name = Brazilwood
+| status = EN
+| status_system = iucn2.3
+| image = Brazilwood tree in Vitória, ES, Brazil.jpg
+| image_width = 250px
+| image_caption = 
+| regnum = Plantae
+| divisio = Flowering plant|Magnoliophyta
+| classis = Magnoliopsida
+| ordo = Fabales
+| familia = Fabaceae
+| subfamilia = Caesalpinioideae
+| genus = ''Caesalpinia''
+| binomial = ''Caesalpinia echinata''
+| binomial_authority = Jean-Baptiste Lamarck|Lam.
+| range_map = Distribution.ceasalpinia.echinata.png
+| range_map_width = 250px
+| range_map_caption = natural range}}
+
+'''Brazilwood''' or '''Pau-Brasil''', sometimes known as '''Pernambuco wood''' (''Caesalpina echinata'') is a Brazilian tree. It has a dense, orange-red wood (which takes a high shine), and it is the most frequently used wood for making bow (music)|bows for string instruments from the violin family.  The wood also gives a red dye called brazilin.
+
+There are several trees in this family which have very similar properties, including the development of red dye. The term "brazilwood" is sometimes used for these other species as well. The tree was exploited for their dye in the 18th century, and is now lost over much of its original range. Varty, N. (1998). "Caesalpinia echinata". IUCN Red List of Threatened Species. Version 2010.3. International Union for Conservation of Nature. 
+When Pedro Álvares Cabral explored Brazil, he named it after the brazilwood that he found there.
+

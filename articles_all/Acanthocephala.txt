@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Acanthocephala
+| image = Acanthocephala Pomphorhynchus.jpg
+| image_width = 240px
+| image_caption = 
+| regnum = Animalia
+| subregnum = Eumetazoa
+| unranked_superphylum = Bilateria
+| superphylum = Platyzoa
+| phylum = '''Acanthocephala''' (but see text)
+| phylum_authority = Kohlreuther, 1771}}
+
+The '''Acanthocephala''' (Ancient Greek|Greek ''akanthos'', thorn + ''kephale'', head) are a group of parasite|parasitic worms. They are modified rotifers.
+
+They may be known as ''acanthocephales'', ''thorny-headed worms'', or ''spiny-headed worms''. They have an evertable proboscis,This means: they keep the front part inside their body, until they push it out to pierce and hold the gut wall of their host. armed with spines, which they use to pierce and hold the gut wall of the host. Acanthocephalans have no gut and absorb nutrients directly from the host’s gut.  
+
+Acanthocephalans have complex life cycles, with various hosts, including invertebrates, fishes, amphibians, birds, and mammals. The juveniles are parasitic in crustaceans and insects. Adults live in the digestive tract of vertebrates, especially fish. About 1150 species have been described.Ronald Shimek 
+The Acanthocephala were thought to be a separate phylum. Recent genome analysis has shown that they are closely related to rotifers. Since all parasites are derived from free-living forms, the Acanthocephalans are modified rotifers. This is an example of molecule|molecular phylogenetics. In due course, spiny-headed worms will probably be placed in a taxonomic rank below phylum, such as sub-phylum or class.
+
+Category:Animal phyla

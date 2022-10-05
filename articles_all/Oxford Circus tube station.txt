@@ -1,0 +1,35 @@
+{{Infobox London station
+| name = Oxford Circus 
+| image_name = Oxford Circus tube station - Bakerloo line entrance.jpg
+| caption    = Baker Street & Waterloo Railway station building opened in 1906
+| manager = London Underground 
+| fare_zone = 1
+| locale = Oxford Circus 
+| borough = City of Westminster|Westminster 
+| years1 =190019061969
+| events1 =Central Line openedBakerloo Line openedVictoria Line opened 
+| platforms=6 
+| tubeexits05= 63.056 
+| tubeexits07 = 72.046}}
+
+'''Oxford Circus''' is a London Underground station serving Oxford Circus at the junction of Regent Street and Oxford Street, with entrances on all four corners of the intersection. The station is an interchange between the Central Line|Central, Victoria Line|Victoria and Bakerloo Line|Bakerloo Lines. It is the third busiest station on the network and the busiest without connection to the National Rail service.
+
+ Nearby places of interest 
+All Souls Church, Langham Place
+BBC Broadcasting House
+Carnaby Street
+Langham Hotel, London|Langham Hotel
+London College of Fashion, John Princes Street
+St George's, Hanover Square
+Topshop Oxford Street, the world's largest fashion store
+
+ Gallery 
+
+Image:Oxford Circus stn Bakerloo southbound look north.JPG|Bakerloo line southbound platform looking north, July 2008
+image:Oxford Circus stn Bakerloo roundel.JPG|Roundel on northbound Bakerloo line platform
+Image:Oxford Circus stn Victoria southbound look north.JPG|Victoria line southbound platform looking north, July 2008
+Image:Oxford Circus stn Central eastbound look west.JPG|Central line eastbound platform looking west, July 2008
+Image:Oxford Circus tube station - Central Line Entrance.jpg|Central Line|Central London Railway station building opened in 1900
+
+
+Category:London Travelcard zone 1

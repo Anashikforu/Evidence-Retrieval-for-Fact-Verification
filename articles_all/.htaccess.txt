@@ -1,0 +1,10 @@
+'''.htaccess''' is a type of computer file for the configuring of some server|web servers. .htaccess files can be used to create custom error pages, or to prevent visitors from directly linking pictures, also known as hotlinking|hot-linking to their own sites, costing the website owner bandwidth and therefore money.
+
+ Preventing direct or Hot-linking 
+A .htaccess file is put onto the website, so that people will not be wikt:able|able to go onto the Uniform Resource Locator|URL of the image (picture) (example: www.website.com/image.filetype). Owners can replace this picture, after they download|upload the file, with a :wikt:message|message, or it can be made to URL redirection|redirect to an error page.
+
+ Examples of .htaccess being used 
+= MediaWiki =
+By default, MediaWiki uses 
+= Wordpress =
+By default, all posts made in WordPress|Wordpress uses 

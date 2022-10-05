@@ -1,0 +1,23 @@
+
+{{Infobox UK place |
+   |official_name=      Strand
+   |map_type=           Greater London
+   |region=             London
+   |country=            England
+   |london_borough=     Westminster
+   |constituency_westminster=   Cities of London and Westminster (UK Parliament constituency)|Cities of London and Westminster
+   |post_town=          LONDON
+   |postcode_area=      WC
+   |postcode_district=  WC2
+   |dial_code=          020
+   |os_grid_reference=  TQ3052280893
+   |latitude=           51.511389
+   |longitude=          -0.118889
+ }}
+
+The '''Strand''' is a street in the City of Westminster, London. It links the City of London with the centre of London at Charing Cross and Trafalgar Square. The Strand is the southern boundary of the Covent Garden district. Covent Garden is the space once occupied by a famous fruit and vegetable market, and is now a huge pedestrian precinct with many and  varied commercial outlets.
+
+The Strand passes Aldwych, and joins directly with Fleet Street at Temple Bar London|Temple Bar. The street is just over three-quarters of a mile long. It includes many commercial premises, two theatres, and hotels. The most notable hotel is the Savoy Hotel, one of the grand London hotels.
+
+
+Category:Roads in London

@@ -1,0 +1,12 @@
+
+'''Negative feedback''' is a basic concept of cybernetics; it is the basis of regulation and control. It is important in engineering and physiology. In biology and physiology negative feedback is known as homeostasis.Raven P.H. & Johnson G.B. 1999. ''Biology''. 5th ed, Boston: Hill. p1058
+
+Negative feedback occurs when the output of a system acts to oppose changes to the input of a system. This has the result that the changes are made less, and the system kept within limits. The classic example is a central heating system which cuts off when a (suitably placed) temperature sensor hits a pre-set mark. The negative feedback part is the thermostat.
+
+ Homeostasis 
+Virtually all aspect of living systems involve homeostasis, and disease follows when any of these systems fail. Examples: blood pressure, glucose level, liver functions, cell division, and so on.
+
+Homeostasis from List of Greek words with English derivatives|Greek: ὅμοιος, ''hómoios'', "similar"   
+If the overall feedback of the system is negative, then the system will tend to be Control theory#Stability|stable.
+
+Category:Systems theory

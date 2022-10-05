@@ -1,0 +1,58 @@
+
+
+
+
+| soc = 
+
+The '''iPhone''' is a series of smartphones made by Apple Inc.|Apple Inc since 2007. It does many things that a computer can do, but is small enough to fit in someone's hand. It is a mobile phone, meaning that it makes calls and sends text messages but Wireless|without wires. There're many types of iPhones, such as the model iPhone X.
+
+The iPhone can access the Internet as well, either using a cellular network or over Wi-Fi. Like an iPod, it plays music and videos that have been downloaded from the Internet directly, or which have been put on it by connecting it to a personal computer, which is called syncing. It also has a calendar and 1, 2 or 3 built-in cameras. A user can make it do many other things, such as run video games, by downloading mobile app|apps from the App Store (iOS)|App Store.
+
+The iPhone doesn't have as many buttons as other well-known phones in the early days, such as those made by companies like Motorola and Nokia. Instead, it had a touch screen that covers much of the front of the phone. People control the phone by touching things that appear on the touchscreen|screen with a finger or two. This technology is called multi-touch, and involves tapping, dragging, and even typing on a keyboard (computer)|keyboard picture shown on the screen.
+
+All iPhones run on a mobile operating system which Apple calls "iOS". A new version of iOS comes out every year, each having more features than the one before. Each new iPhone comes with the latest version of iOS, and older iPhones usually also get a software update to the latest version. The more-recent iPhones, such as the iPhone 13 and variants of it, use iOS 15 and came out in September 2021.
+
+As of November 1, 2018, more than 2.2 billion iPhones had been sold.
+
+ Historical Information 
+Image:Apple iPhone.jpg|thumb|200px|iPhone and iPhone plus
+There have been ten types of iPhone models. 
+
+The iPhone#Models|original iPhone was released on June 29, 2007. In the first month on sale (Jul 2007), it sold 2.315 million units. On July 11, 2008, the iPhone 3G was released which, hence the name, got upgraded with 3G wireless internet. On June 17, 2009, Apple released the iPhone 3GS which featured a compass and a 3.2-megapixel video camera. On June 24, 2010, a new version of the iPhone, the iPhone 4, was released. It has the FaceTime|Face Time-camera included, which is placed on the screen side and allows taking self-portraits while looking at the viewfinder. The Face Time-camera is less advanced than the back camera, but can be used for video-telephony, where the members of the talking can see each other on the screen. Additionally, it has an updated operating system that allows quicker navigation of all the features. This operating system is called IOS.  The iPhone 4 also has more pixels (326 ppi; 960×640) on the screen than previous version of the iPhone, which makes all features such as pictures and videos look sharper. A minor upgrade to the iPhone 4 was the iPhone 4S. It came on October 14, 2011, and had a new feature called Siri (software)|Siri, which is a voice activation system. Additionally, it is able to record videos in 1080p-FullHD-resolution, which is 2.25× times higher than 720p, so that each still frame from the video contains more details. This makes it possible to see smaller items on the footage in a sharper, clearer way. Additionally, it allows zooming into the video to see more details.
+
+The iPhone 5 was released on September 21, 2012. The most noticeable change is its bigger 4 inch screen, which had the same pixel density and the same width on the short axis, but it was taller ('''1136×'''640 pixels). On September 10, 2013, two new iPhones called the 5C and 5S were announced. They were released on September 20, 2013. The iPhone 5S has a new unlocking system called Touch ID which reads your fingerprint. The iPhone 5C is a cheaper model of the iPhone 5S which is also the first iPhone available in different colors that aren't black and white. The internal hardware specifications (which means, capabilities) of the iPhone 5C are identical to the iPhone 5. Only the size of the battery has increased by 51 mAh, (1456→1507 mAh GSMArena specifications), and the design, which deviant from the Apple standard design language, which means, that it looks and feels distinguishable (different) than the other iPhones. Like iPhone 6, the design does not allow the iPhone 5C to stand like a domino stone.
+
+The iPhone 6 and iPhone 6 Plus were released on September 19, 2014. They both have bigger screens than the iPhone 5, measuring at 4.7 inches and 5.5 inches, respectively. The iPhone 6S and iPhone 6S Plus were released on September 25, 2015. They both come in a new color, Rose Gold.
+
+The iPhone 7 and iPhone 7 Plus were released on September 16, 2016.
+
+The iPhone 8, 8 Plus, and X were released in 2017 respectively.
+
+The iPhone XR, XS, and XS Max were released in 2018 respectively.
+
+The iPhone 11, 11 Pro, and 11 Pro Max were released in 2019 respectively. 
+
+The iPhone SE (2nd gen), 12 mini, 12, 12 Pro and 12 Pro Max were released in 2020 respectively.
+
+The iPhone 13 mini, 13, 13 Pro and 13 Pro Max were released in 2021 respectively.<!--Simplify the years above please.
+iPhones had a design feature, which allows them to stand like a domino, except iPhone 5c. -->
+
+ Carriers 
+
+In most places, the iPhone is only allowed with carriers (cellphone service providers) that Apple has an agreement with. Someone who buys an iPhone also signs a contract with the carrier, which is an agreement to pay for their services. A Mobile phone#Networks and payment|mobile phone contract usually lasts for one or two years, and the person buying the phone pays the carrier every month. At first, they pay less than the iPhone is worth because they will pay the rest later through fees as part of their contract. The contract also says the iPhone may only be used on their network. However, some people do not like that, so they unlock their iPhone so it can be used with other carriers.
+
+ Jailbreaking 
+
+Other people "jailbreak" their iPhones to allow it to do more things. Apple does not allow many of these changes. In hopes of discouraging this, Apple voids the warranty when an iPhone is "unlocked" or "jailbroken." Though in August 2011 jailbreaking was declared legal.
+
+ Apps 
+
+Apple made a Software Development Kit for the iPhone, which lets people make their own software for it. However, the software cannot be sold without Apple's permission. The software that is made is sold at the App Store (iOS)|App Store. More than a million of apps are available to buy.
+
+Models
+
+
+Timeline
+
+
+Category:IPhone| 

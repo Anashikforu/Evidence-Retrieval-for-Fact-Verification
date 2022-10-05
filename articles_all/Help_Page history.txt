@@ -1,0 +1,17 @@
+All pages that can be changed on Wikipedia has a '''page history''' which can be found by clicking the "history" tab at the top of the page. The page history has a list of the page's previous revisions. The revisions include the date and time (in w:UTC|UTC) of each change, the name or IP address of the user who made it, and the Help:Edit summary|summary of the change. 
+
+ Using a history page 
+On a history page:
+All past changes to the page are listed in reverse-chronological order (In other words the newest change is seen at the top).
+To view a  version, click a date.
+To compare an old version with the newest, click '''cur'''.
+To compare a version with an older one, click '''last'''.
+To compare two specific versions, click the circles (in both columns) next to them. Then click the Compare button to see the differences between them.
+Small changes are shown as '''m'''.
+
+It is possible to bring up an old version of a page by following the link to that version, clicking "change" and then saving. But be careful when doing this, because ''all'' the newest changes will be lost.
+
+Moved and deleted pages
+When a page is Help:Moving a page|moved (renamed), the whole history of the article, before and after the move, is shown. The old title turns into a Help:redirect|redirect and loses its history.
+
+Category:Help

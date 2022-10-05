@@ -1,0 +1,16 @@
+Image:Luria-delbruck diagram.svg|thumb|300px|The two possibilities tested by the Luria–Delbrück experiment. (A) If mutations are induced by the media, roughly the same number of mutants are expected to appear on each plate. (B) If mutations arise spontaneously during cell divisions prior to plating, each plate will have a highly variable number of mutants.
+
+The '''Luria–Delbrück experiment''', 1943, also called the 'Fluctuation Test', asks the question: are mutations independent of natural selection? Or are they directed by the selection?
+
+Max Delbrück and Salvador Luria showed that in bacteria, DNA mutations happen randomly. This means they happen at any time, rather than being a response to selection. 
+
+So, Charles Darwin|Darwin's theory of natural selection acting on random mutations applies to bacteria as well as to more complex organisms. 
+
+Delbrück and Luria won the 1969 Nobel Prize in Physiology or Medicine partly for this work.
+
+ The experiment 
+In their experiment, Luria and Delbrück grew bacteria in tubes. After a period of growth, they split up the bacteria into separate cultures and put them onto agar containing bacteriophage|phage (virus). If virus resistance were not due to random gene mutations, then each plate should contain roughly the same number of resistant colonies. This, however was not what Delbrück and Luria found. Instead, the number of resistant colonies on each plate varied to a great extent.
+
+Luria and Delbrück proposed that these results could be explained by the occurrence of a constant rate of random mutations in each generation of bacteria growing in the initial culture tubes.
+
+Category:Genetics experiments

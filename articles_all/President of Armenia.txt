@@ -1,0 +1,26 @@
+{{Infobox Political post
+|post            = President
+|body            = the Republic of Armenia
+|flag            = Flag of the President of Armenia.svgborder
+|flagsize        = 
+|flagcaption     = Presidential Standard
+|insignia        = Seal of the President of Armenia.svg 
+|insigniasize    = 
+|insigniacaption = Presidential Seal
+|image           = Vahagn Khachaturyan portrait (cropped).jpg
+|imagesize       = 
+|incumbent       = Vahagn Khachaturyan  
+|incumbentsince  = 13 March 2022 
+|appointer       = National Assembly (Armenia)|National Assembly 
+|residence       = Presidential Palace, Yerevan|Presidential Palace
+|termlength      = One seven-year term
+|formation       = 11 November 1991
+|inaugural       = Levon Ter-Petrosyan
+|website         = 
+|seat=Yerevan|constituting_instrument=Constitution of Armenia|salary={{nowrap|annual: Armenian dram|AMD 15,873,600
+The '''president of Armenia''' (, ''Hayastani Nakhagah'') is the head of state of Armenia. They are elected to a single seven year term by the National Assembly of Armenia.
+
+List
+
+
+Category:20th-century establishments in Armenia

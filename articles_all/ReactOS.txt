@@ -1,0 +1,14 @@
+
+
+'''ReactOS''' is a project to develop an operating system that is compatible with software for Microsoft Windows Server 2003 and its successors. In 2018, the project is still in its first stage of development. ReactOS is not based on Linux or Unix. ReactOS uses some code from the Wine (software)|Wine project.
+
+ Other websites 
+  
+ 
+   
+  
+
+
+
+
+Category:Operating systems

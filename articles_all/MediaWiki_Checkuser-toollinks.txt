@@ -1,0 +1,3 @@
+&#91;Special:Contributions/$1|contribs (//tools.wmflabs.org/guc?user=$1 global) • 
+ checks • 
+http://www.google.com/search?safe=off&num=50&hl=en&q=$1 Google&#93;

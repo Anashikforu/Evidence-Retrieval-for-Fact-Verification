@@ -1,0 +1,64 @@
+
+
+
+A '''galaxy''' is a group of many stars, with gas, dust, and dark matter.Sparke L.S. & Gallagher III J.S. 2000. ''Galaxies in the Universe: an introduction''. Cambridge: Cambridge University Press. ISBN 0521671868.Hupp E; Roy S. & Watzke M. 2006.
+Gravity holds galaxies together against the general expansion of the universe. In effect, the expansion of the universe takes place between groups of galaxies, not inside those groups. Gravity holds the galaxy together. The same applies to  groups and clusters of galaxies, such as our Local Group where the Milky Way is, and the Virgo Cluster, a collection of more than 1,000 (might even be 2,000) galaxies. The gravitation is produced by the matter and energy in a galaxy or group of galaxies. Everything in a galaxy moves around a centre of mass, which is also an effect of gravity.  
+
+There are various types of galaxies: Elliptical galaxy|elliptical, Spiral galaxy|spiral and lenticular galaxy|lenticular galaxies, which can all be with or without bars. Then there are Irregular galaxy|irregular galaxies. All galaxies exist inside the universe. The observable Universe contains more than 2 trillion (1012) galaxies
+
+Description
+There are galaxies of different sizes and type. Typical galaxies range from Dwarf galaxy|dwarfs with as few as ten millionESO 2000: 
+Star clusters are not galaxies, they are inside galaxies. Globular clusters are spherical-shaped star clusters which are part of the outer halo of the Milky Way. One of the largest (and oldest) known star clusters, Messier 15, has several million stars, packed closely together, with a black hole at its centre. The stars are too closely packed to get an accurate count, but it certainly has more stars than some of the smaller galaxies. 
+
+Within galaxy clusters, galaxies move relative to other galaxies. They can and do collide. When this happens, the stars generally move past each other, but gas clouds and dust interact, and can form a burst of new stars. Gravity pulls both galaxies into somewhat new shapes, forming bars, rings or tail-like structures.
+
+
+
+Many galaxies continue to form new generations of stars. The Milky Way, and all spiral shaped galaxies like it (see right side image of NGC 2997), produce new stars at a rate of one or two stars per year. This star formation happens in the vast interstellar clouds that account for about 1% to 10% of the mass of these galaxies. Globular star clusters, on the other hand, are not currently forming stars because this activity happened billions of years ago and then stopped once all of the gas and dust clouds were used up. 
+
+In the astronomy|astronomical literature, the word 'Galaxy' with a capital ''G'' is used for our galaxy, the Milky Way. The billions of other galaxies are written as 'galaxy' with a lowercase ''g''. The term ''Milky Way'' first came out in the English language in a poem by Geoffrey Chaucer|Chaucer.
+{{Quote|
+:"See yonder, lo, the Galaxyë&nbsp;Which men clepeth the Milky Wey,&nbsp;For hit is whyt".Geoffrey Chaucer. ''The House of Fame'', ~1380.
+
+When William Herschel wrote his wikt:catalogue|catalogue of deep sky objects, he used the name ''spiral nebula'' for objects like the Andromeda Galaxy. 200 years later astronomers discovered that they are made of stars as the Milky Way is, so the term 'nebula' is now only used for diffuse structures within a galaxy.
+
+ Types 
+
+
+There are two main kinds of galaxies, spiral galaxy and elliptical galaxy. They are classified according to the Edwin Hubble|Hubble Sequence. 
+
+= Spiral galaxy =
+
+
+A '''spiral galaxy''' is a galaxy that has a spiral shape. Most of the galaxies in the universe observed by astronomers are spiral galaxies (about 77%). 
+
+They are divided into two :
+ Barred spiral galaxy (classified as "SB")
+ Unbarred spiral galaxy (classified as "SA")
+NGC 1300 and NGC 1672 are examples of barred spiral galaxies. The Whirlpool galaxy and Messier 81 are examples of unbarred spiral galaxies.
+
+The identifying characteristics of a spiral galaxy are disk-shaped rotating, spiral arms, and a bulge in the galactic core.  The spiral arms are where new hot stars are born.  "Bulge" in the galactic core has old stars.  This feature is common to the most spiral galaxies.
+
+= Elliptical galaxy =
+
+
+An '''elliptical galaxy''' is a galaxy that has a ellipsoid (3D of ellipse) shape.  This type of galaxy are dominant in universe, especially in galaxy clusters.  The shape ranges from circle, ellipse, and cigar-shaped.  In Hubble Sequence, this shape can be represented as class :
+ E0 (circle-shape)
+ E53 (ellipse-shape)
+ E7 (cigar-shaped)
+Elliptical galaxies have a large range in size. The giant elliptical galaxy can be over a more 1 million light years and the smallest (know as "dwarf elliptical galaxy") are less than one-tenth the size of Milky Way
+
+= Other kinds of galaxies =
+ 
+
+A '''lenticular galaxy''' is a galaxy seen in a disc shape.  Determining the shape of a lenticular galaxy is difficult because the shape can be between spiral galaxy and elliptical galaxy.  The shape can be known by looking at the bulge of the galactic center.  If the bulge is very bright, it is a spiral galaxy
+
+ Related pages 
+List of galaxies
+List of nearest galaxies
+Most distant things
+Local Group
+IC 1101: the largest known galaxy, with about 100 trillion stars.Milky Way
+Andromeda galaxy
+
+Category:Galaxies| 

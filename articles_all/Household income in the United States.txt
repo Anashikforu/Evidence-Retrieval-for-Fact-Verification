@@ -1,0 +1,63 @@
+
+The '''Household income in the United States''' is a measure of current private income commonly used by the United States government and private institutions. To measure the income of a household, the pre-tax money receipts of all residents over the age of 15 are combined. Most of these receipts are in the form of wages and salaries (before withholding and other taxes), but many other forms of income, such as unemployment insurance, disability, child support, etc., are included as well. The residents of the household do not have to be related to the householder for their earnings to be considered part of the household's income.
+
+In 2005, the median annual household income according to the US Census Bureau was determined to be $46,326, Households in the top quintile, 77% of which had two income earners, had incomes exceeding $91,705. Households in the mid quintile, with a mean of one income earner per household had incomes between $36,000 and 57,657.
+
+The 2005 economic survey also found that households in the top 40%, those with an annual household income exceeding $55,331, had a median of two income earners while those in the lower quintiles (2nd and middle quintile) had median of only one income earner per household. Due to high unemployment among those in the lowest quintile the median number of income earners for this particular group was determined to be zero.
+
+Income distribution
+
+
+'''SOURCE: US Census Bureau, 2005'''
+
+=Quintiles, household type, and home ownership=
+Households are often divided into quintiles according to their gross income. Each quintile represents 20%, or one fifth, of the population.
+
+Household type is strongly correlated with household income. Married couples are disproportionately represented in the upper two quintiles, compared to the general population of households. Cross-referencing shows that this is likely due to the presence of multiple income earners in these families. Non-family households (individuals) are disproportionately represented in the lower two quintiles. Households headed by single males are disproportionately found in the middle three quintles; single females head households concentrated in the bottom three quintiles.
+
+The highest income households are almost ten times as likely to own their homes rather than rent, but in the lowest quintile, the ratio of owners to renters is nearly one to one.
+
+The New York Times has used the quintiles to define social class in the United States|class. It has assigned the quintiles from lowest to highest as lower class, lower middle class, middle class, upper middle class, and upper class.
+
+
+
+'''SOURCE: US Census Bureau, 2004'''
+
+=Race=
+Despite great advances made to lift minorities out of poverty and many African Americans and Hispanic|Latino Americans joining the middle class, there is still an uneven racial distribution among the groups. While Caucasians who were not of Hispanic descent made up roughly 75.1% of all persons in 2000, versus 12.5% of persons identifying themselves as Hispanic or Latino in the general population. Overall 86.01% of all households in the top two quintiles with upper-middle range incomes of over $55,331 were headed by a head of household who identified him or herself as White alone, while only 7.21% were being headed by someone who identified as being Hispanic and 7.37% by someone who idenitified as being African American or Black. Overall households headed by Hispanics and African Americans or Blacks were underrepresented in the top two quintiles and overrepresented in the bottom two quintiles. Households headed by persons who identified as being Asian alone, on the other hand, were overrepresented among the top two quintiles. In the top five percent the percentage of Korean American|Asians was nearly twice as high as the percentage of Asians among the general population. European Americans were relatively even distributed throughout the quintiles only being underrepresented in the lowest quintile and slightly overrepresented in the top quintile and the top five percent.
+
+
+
+
+'''SOURCE: US Census Bureau, 2004'''
+
+=Education and Gender=
+Household income as well as per capita income in the United States rise significantly as the Educational attainment in the United States|educational attainment increases.
+
+Considering how education significantly enhances the earnings potential of individuals, it should come as no surprise that individuals with graduate degrees have an average per capita income exceeding the median household income of Census family|married couple families among the general population ($63,813). Higher Educational attainment in the United States|educational attainment did not, however, help close the income gap between the genders as the life-time earnings for a male with a professionals degree were roughly forty percent (39.59%) higher than those of a female with a Educational attainment in the United States|professionals degree. The life-time earnings gap between males and females was the smallest for those individuals holding an Educational attainment in the United States|Associate degrees with male life-time earnings being 27.77% higher than those of females. While educational attainment did not help reduce the income inequality between men and women, it did increase the earnings potential of individuals of both sexes, greatly enabling many households with (a) Educational attainment in the United States|graduate degree householder(s) to enter the top household income quintile.
+
+Household income also increased significantly with the Educational attainment in the United States|educational attainment of the householder. The US Census Bureau publishes Educational attainment in the United States|educational attainment and income data for all households with a householder who was aged twenty-five or older. The biggest income difference was between those with some college education and those who had a Bachelor's degree, with the latter making $23,874 more. Income also increased substantially with increased post-secondary education. While the median household income for a household with a household holding an associate degree was $51,970, the median household income for those with a bachelor's degree or higher was $73,446. Those with Doctorate degree|doctorates had the second highest median household with a median of $96,830; $18,289 more higher than that for those at the Master's degree level, but $3,170 lower than the median for households with a professionals degree holding householder.
+
+
+
+'''SOURCE: US Census Bureau, 2003'''
+
+The change in median personal and household since 1991 also varied greatly with Educational attainment in the United States|educational attainment. While, both the overall median personal and household icome increased since 1991, this increase did not take place on all levels of Educational attainment in the United States|educational attainment. The overall income increased over the course of the 1990s, reaching its high in 1999, but decreasing has been ever since. In 1991 the median household income in the United States|US was $40,873 in 2003 dollars, while the median household income in 2003 was $45,016. In 1999, however, the median household income was $46,236, 2.7% higher than today. While this trend held true for all levels of educational attainment the extend of chorinical falcutations in income were greatly influenced by educational attainment. Overall the median household and personal income decreased for those with more than a 9th grade education but less than a four-year college degree since 1991. In other words, the median household income decreased for households and individuals at the high school drop-outs and graduate, some-college, and an Associates degree level. Income did, however, increase for those with a Bachelor's degree or more. The following table shows the median household income according to the educational attainment of the householder. All data is in 2003 dollars and only applies to householders whose householder is aged twenty-five or older. The highest and lowest points of the median household income are presented in bold face.
+
+
+
+'''SOURCE: US Census Bureau, 2003'''
+
+=Age of householder=
+Household income in the United States varies substantially with the age of the person who heads the household. Overall the median household income increased with the age of householder until retirement age when household income started to decline. The highest median household income was found among households headed by working baby-boomers. Households headed by persons between the ages of 45 and 54 had a median household income of $61,111 and a mean household income of $77,634. The median income per member of household for this particular group was $27,924. The highest median income per member of household was among those between the ages of 54 and 64 with $30,544. The group with the second highest median household income, were households headed by persons between the ages 35 and 44 with a median income of $56,785, followed by those in the age group between 55 and 64 with $50,400. Not surprisingly the lowest income group was mainly comprised of those households headed by individuals younger than 24, followed by those headed by persons over the age of 75. Overall households headed by persons above the age of seventy-five had a median household income of $20,467 with the median household income per member of household being $18,645. These figures support the general assumption that median household income as well as the median income per member of household peaked among those households headed by middle aged persons, increasing with the age of the householder and the size of the household until the householder reaches the age of 64. With retirement income replacing salaries and the size of the household declining, the median household income decreases as well.
+
+Household income over time
+'''''Please note that all figures are presented in 2003 dollars.'''''
+
+Since 1967, the median household income in the United States has risen modestly, fluctuating several times. Even though personal income has risen substantially and 42% of all household now have two income earners, the median household income has increased only slightly. According to the US Census Bureau, this paradoxical set of trends is due to the changing structure of American households. For example, while the proportion of wives working year-round in married couple households with children has increased from 17% in 1967 to 39% in 1996, the proportion of such households among the general population has decreased. Thus, while married couple households with children are the most economically prosperous type of household in the United States, their share of the population has been dwindling in the United States. In 1969, more than 40% of all households consisted of a married couple with children. By 1996 only a rough quarter of US households consisted of married couples with children. As a result of these changing Demographics of the United States|household demographics, median household income rose only slighly despite an ever increasing female labor force and a considerable increase in the percentage of Educational attainment in the United States|college graduates.
+
+
+
+The mean household income for households headed by persons identifying as White (people)|White alone was $65,317, $40,685 for those headed by persons identifying as African American|African American or Black, $45,871 for those headed by persons identifying as Hispanic|Hispanic or Latino, and $76,747 for those households headed by persons identifying as Asian-Americans|Asian alone. Approximately one third, or 36.5%, of all households earned more than the mean income, while 63.5% earned less than the mean.
+
+Category:Income

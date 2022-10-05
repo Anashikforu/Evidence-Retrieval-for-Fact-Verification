@@ -1,0 +1,14 @@
+{{Infobox Unit|name=Degree|standard=Non-SI units mentioned in the SI|Non-SI accepted unit|quantity=Angle|symbol=°
+
+It is not an SI unit. The SI uses radian to measure Plane (mathematics)|plane angle. However, according to the SI brochure, it is an accepted unit by SI.
+
+ History 
+The actual reason of choosing the degree as a way to measure Plane (mathematics)|plane angle is unknown. One theory says that it is related with the fact that a year is approximately 360 days. Some ancient calendars, for example the Persian calendar and the Babylonian calendar, used 360 days for a year.
+
+Another theory says that the Babylonians divided the circle using the angle of an equilateral triangle. The angle was then divided into 60 parts. This is because they used sexagesimal or base-60 numeral system.
+
+ Related pages 
+
+ Degree (mathematics)|Degree of a polynomial
+
+Category:Angles

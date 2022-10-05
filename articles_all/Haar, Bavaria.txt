@@ -1,0 +1,26 @@
+{{Infobox German location
+|name              = Haar
+|image_coa            = Wappen von Haar.svg
+|image_photo = Bahnhof Haar.JPG
+|image_caption = Haar railway station
+|coordinates       = 
+|image_plan          = Haarlkrm.svg
+|state        = Bayern
+|region  = Oberbayern
+|district         = Munich
+|elevation              = 542
+|area            = 12.90
+|population         = 18302
+|Stand             = 2006-12-31
+|postal_code               = 85540
+|PLZ-alt           = 8013
+|area_code           = 089
+|licence               = M
+|Gemeindeschlüssel = 09 1 84 123
+|LOCODE            = DE HAQ
+|Adresse           = Bahnhofstr. 785540 Haar
+|website           = |mayor     = Gabriele Müller
+|party            = SPD}}
+'''Haar''' is a municipality in the Munich Rural District in Upper Bavaria, Germany.
+
+Category:Munich (district)

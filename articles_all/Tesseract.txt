@@ -1,0 +1,17 @@
+
+
+
+
+A '''tesseract''' is a 4D|4-dimensional object with eight cell (geometry)|cells; each cell is a cube. The tesseract is one of the six convex regular 4-polytopes. Unlike three-dimensional objects which rotate on both an Axis (mathematics)|axis and a plane (the plane being of length and width and the axis being of the leftover dimension, height), a tesseract rotates on two planes, one made up of length and width, and one made up of height and the fourth dimension. It is the simplest hypercube.
+
+It is not possible to make a tesseract out of real materials. A tesseract is in four dimensions, but we can only move in three dimensions.
+
+Example:
+Line is to the 1st dimension,
+Square is to the 2nd dimension,
+Cube is to the 3rd dimension,
+Tesseract is to the 4th dimension.
+
+
+
+Category:Shapes

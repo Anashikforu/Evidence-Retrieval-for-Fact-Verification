@@ -1,0 +1,12 @@
+'''AU''' can mean these things: 
+
+ Astronomical unit, A unit of distance used in Astronomy.
+ Auburn University, A university in Alabama, USA.
+ Al-Azhar University,  a university and mosque in Cairo, Egypt. It is the main centre of Arabic literature and Sunni Islamic learning in the world. It is also the world's second-oldest surviving university. 
+ Anadolu University, a high-degree educational institution in Eskişehir, Turkey.
+ Adamson University, a private Roman Catholic university in Manila, Philippines.
+ Ariel University, a public university in Ariel, a Jewish settlement in the West Bank. It used to be called the "Ariel University Center of Samaria". 
+ African Union, an international organization consisting of fifty-three African member countries. 
+ Au, the symbol for the chemical element gold, a metal.
+ .au, the Internet country code for Australia.
+

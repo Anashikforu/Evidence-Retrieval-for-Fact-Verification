@@ -1,0 +1,110 @@
+
+
+'''Decapoda''' is an order of crustaceans in the Class (biology)|class Malacostraca. Many familiar groups, such as crayfish, crabs, lobsters, prawns and shrimp are in this order. Many decapods are scavengers - they eat dead plants and animals. Crabs are mixed feeders, taking algae and  shellfish such as molluscs. Lobsters eat mostly live prey.
+
+Anatomy
+As their name suggests, all decapods have ten appendages. 
+
+The last five pairs of appendages on the front half of the body, the ''cephalothorax'', are used for walking.So called because the head and thorax are fused together. 
+
+In many decapods, the front pair of appendages carry large pinching claws. The claws are called ''chelae'', so these appendages may be called ''chelipeds''.
+
+The front three pairs of appendages on the thorax are used as jaws, and called ''maxillipeds''.
+
+On the abdomen are swimming appendages called ''pleopods'', and the body ends in a tail fan.
+
+Classification
+Classification of the order Decapoda depends on the structure of the gills and legs, and the way in which the larvae develop. There are two suborders: Dendrobranchiata and Pleocyemata. Prawns (including many so-called "shrimp", such as the Atlantic white shrimp) make up the Dendrobranchiata. The other groups, including true shrimp, are the Pleocyemata.
+
+The following classification  follows Martin and Davis,x
+
+Order Decapoda Latreille, 1802  (Selection, not everything is listed)
+ Suborder Prawn|Dendrobranchiata Bate, 1888  prawns
+<!--
+ Superfamily Penaeoidea Rafinesque, 1815 
+ Superfamily Sergestoidea Dana, 1852 
+-->
+ Suborder Pleocyemata Burkenroad, 1963
+<!--
+ Infraorder Stenopodidea Claus, 1872 
+-->
+ Infraorder Shrimp|Caridea Dana, 1852  true shrimp
+<!--
+ Superfamily Procaridoidea Chace & Manning, 1972 
+ Superfamily Galatheacaridoidea Vereshchaka, 1997 
+ Superfamily Pasiphaeidae|Pasiphaeoidea Dana, 1852 
+ Superfamily Oplophoridae|Oplophoroidea Dana, 1852 
+ Superfamily Atyidae|Atyoidea de Haan, 1849 
+ Superfamily Bresilioidea Calman, 1896 
+ Superfamily Nematocarcinoidea Smith, 1884 
+ Superfamily Psalidopodoidea Wood-Mason & Alcock, 1892 
+ Superfamily Stylodactylidae|Stylodactyloidea Bate, 1888 
+ Superfamily Campylonotoidea Sollaud, 1913 
+ Superfamily Palaemonoidea Rafinesque, 1815 
+ Superfamily Alpheoidea Rafinesque, 1815
+ Superfamily Processoidea Ortmann, 1890 
+ Superfamily Pandaloidea Haworth, 1825 
+ Superfamily Crangonoidea Haworth, 1825 
+ Infraorder Polychelidae|Eryonoidea de Haan, 1841 
+-->
+ Infraorder Achelata Scholtz & Richter, 1995  spiny lobsters, slipper lobsters, and furry lobsters
+ Infraorder Astacidea Latreille, 1802  lobsters and crayfish
+<!--
+ Superfamily Reef lobster|Enoplometopoidea de Saint Laurent, 1988 
+ Superfamily Glypheoidea Winkler, 1883
+ Superfamily Nephropoidea Dana, 1852
+ Superfamily Crayfish|Astacoidea Latreille, 1802
+ Superfamily Crayfish|Parastacoidea Huxley, 1879
+ Infraorder Thalassinidea Latreille, 1831 
+ Superfamily Thalassinoidea Latreille, 1831 
+ Superfamily Callianassoidea Dana, 1852 
+ Superfamily Axioidea (Decapoda)|Axioidea Huxley, 1879 
+-->
+ Infraorder Anomura MacLeay, 1838
+<!--
+ Superfamily Lomisoidea Bouvier, 1895 
+-->
+ Superfamily Galatheoidea Samouelle, 1819  squat lobsters
+<!--
+ Superfamily Hippoidea Latreille, 1825 
+-->
+ Superfamily Hermit crab|Paguroidea Latreille, 1802  hermit crabs
+ Infraorder Crab|Brachyura Latreille, 1802  crabs
+<!--
+ Section Dromiacea de Haan, 1833 
+ Superfamily Homolodromioidea Alcock, 1900 
+ Superfamily Dromioidea de Haan, 1833 
+ Superfamily Homoloidea de Haan, 1839 
+ Section Eubrachyura de Saint Laurent, 1980 
+ Superfamily Raninoidea de Haan, 1839 
+ Superfamily Cyclodorippoidea Ortmann, 1892 
+ Superfamily Dorippoidea MacLeay, 1838 
+ Superfamily Calappoidea Milne Edwards, 1837 
+ Superfamily Leucosioidea Samouelle, 1819 
+ Superfamily Majoidea Samouelle, 1819 
+ Superfamily Hymenosomatoidea MacLeay, 1838 
+ Superfamily Parthenopoidea MacLeay, 1838 
+ Superfamily Retroplumoidea Gill, 1894 
+ Superfamily Cancroidea Latreille, 1802 
+ Superfamily Portunoidea Rafinesque, 1815 
+ Superfamily Bythograeoidea Williams, 1980 
+ Superfamily Xanthoidea MacLeay, 1838 
+ Superfamily Bellioidea Dana, 1852 
+ Superfamily Potamoidea Ortmann, 1896 
+ Superfamily Pseudothelphusoidea Ortmann, 1893 
+ Superfamily Gecarcinucoidea Rathbun, 1904 
+ Superfamily Cryptochiroidea Paulson, 1875 
+ Superfamily Pinnotheroidea de Haan, 1833 
+ Superfamily Ocypodoidea Rafinesque, 1815 
+ Superfamily Grapsoidea MacLeay, 1838
+-->
+
+
+Penaeus vannamei 01.jpg|Whiteleg shrimp, ''Litopenaeus vannamei'' (actually a prawn)
+Spotted cleaner shrimp.jpg|Spotted cleaner shrimp, ''Periclimenes yucatanicus''
+Lobster 300.jpg|California spiny lobster, ''Panulirus interruptus''
+Blue crab on market in Piraeus - Callinectes sapidus Rathbun 20020819-317.jpg|Blue crab, ''Callinectes sapidus''
+Lyreidus tridentatus.jpg|''Lyreidus tridentatus'', another crab
+
+
+Category:Decapods| 

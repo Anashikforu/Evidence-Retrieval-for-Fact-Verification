@@ -1,0 +1,16 @@
+{{Taxobox
+| name = Asiatic salamanders
+| image = Hynobius kimurae (cropped) edit.jpg
+| image_caption = ''Hynobius kimurae''
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Lissamphibia
+| ordo = Caudata
+| subordo = Cryptobranchoidea
+| familia = '''Hynobiidae'''}}
+
+
+The '''Asiatic salamanders''' (Family (biology)|family Hynobiidae) are a Basal|primitive kind of salamander which can be found throughout Asia. Unlike other salamanders, Hynobiid salamanders do external fertilization, or "spawning". The females lay egg-sacs, and the males pour sperm onto the sacs.
+
+They and the giant salamanders (family Cryptobranchidae), make up the suborder Cryptobranchoidea. About half of hynobiids are unique to Japan.
+Category:Salamanders

@@ -1,0 +1,3 @@
+"$1" has been moved to "$2".
+
+'''Please check Special:Whatlinkshere/$3|links to the old name to make sure that no pages redirect to it. Any redirects should link to the new page name.'''

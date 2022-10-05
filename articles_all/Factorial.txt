@@ -1,0 +1,17 @@
+The '''factorial''' of a whole number ,
+
+Factorial can be used to find out how many possible ways there are to arrange  objects.
+
+For example, if there are 3 letters (A, B, and C), they can be arranged as ABC, ACB, BAC, BCA, CAB, and CBA. That would be 6 choices because A can be put in 3 different places, B has 2 choices left after A is placed, and C has only one choice left after A and B have been placed. In other words,  choices.
+
+The factorial function is a good example of recursion (doing things over and over), as 3! can be written as 3×(2!), which can be written as 3×2×(1!) and finally as 3×2×1×(0!). N! can therefore also be defined as N×(N-1)!, with 0! = 1.
+
+The factorial function grows very fast. There are 10! = 3,628,800 ways to arrange 10 items.
+
+ Notes 
+''n''! is not defined for negative numbers. However, the related gamma function is defined over the real numbers|real and complex numbers|complex numbers (but the integers it is defined over are positive).
+
+ Related pages 
+ Exclamation mark
+ Permutation
+

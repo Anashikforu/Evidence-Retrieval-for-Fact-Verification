@@ -1,0 +1,24 @@
+
+{{Taxobox | name = ''Australopithecus afarensis'' ("Lucy (Australopithecus)|Lucy")
+| colour = rgb(220,220,183)
+| fossil_range = Pliocene
+| image = Lucy_Mexico.jpg
+| image_width = 220px
+| image_caption = Lucy (Australopithecus)|Lucy replica, Museo Nacional de Antropología, Mexico City
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Primates
+| familia = Hominidae
+| subfamilia = Homininae
+| genus = ''Australopithecus''
+| binomial = †''Australopithecus afarensis''
+| binomial_authority = Donald Johanson|Johanson & Timothy White (anthropologist)|White, 1978}}
+
+'''''Australopithecus afarensis''''' is an extinction|extinct hominid. It lived between 3.9 and 2.9 million years ago. ''A. afarensis'' was similar to slightly later ''Australopithecus africanus''. It had a wikt:slender|slender build.
+
+''A. afarensis'' may be more closely related to the genus ''Homo'' than ''A. africanus''. ''Homo'' includes the modern human species, ''Homo sapiens''.Johanson D.C. & Maitland A.E. 1981. Lucy: the beginning of humankind. St Albans: Granada, 283
+
+The most famous fossil is the partial skeleton named Lucy (Australopithecus)|Lucy (3.2 million years old) found by Donald Johanson and colleagues, who, in celebration of their find, repeatedly played the Beatles song ''Lucy in the Sky with Diamonds''.
+
+Category:Australopithecines

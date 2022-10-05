@@ -1,0 +1,20 @@
+
+A '''False analogy''' is an informal fallacy. It applies to induction|inductive arguments. It is an ''informal'' fallacy because the error is about what the argument is about, and not the argument itself.
+
+An analogy proposes that two concepts which are similar (A and B) have a common relationship to some property. A has property X, therefore B must also have property X. In a false analogy, the objects may have some similarities, but they do not both have property X. That way, both objects may have the same color, but this does not mean that they have the same size.
+ Examples 
+
+The following are examples of false analogies: 
+
+ ''Love is like a spring shower. It brings refreshment to a person's body.'' (Does it also sometimes lead to thunderstorms and being hit by lightning?)
+
+ ''Children are like dogs. They need to be strongly disciplined and housebroken.'' (Should they also eat from a bowl on the floor and see a vet regularly?)
+
+ ''Tobacco smokers are like people who are sun dumb'. They need to improve their self-care to avoid cancer.'' (Should they never leave the house?)
+ ''Procrastination on homework is bad.'' ''It's like waiting until the last minute to get cancer treatment.'' (Does not doing homework cause death?)
+''Failing to tip a waitress is like stealing money out of somebody's wallet.(''Does that mean I need to get Bill Gates to give his life earnings to a waitress so I'm not stealing)
+
+Related pages
+ Moral equivalence
+
+Category:Logical fallacies

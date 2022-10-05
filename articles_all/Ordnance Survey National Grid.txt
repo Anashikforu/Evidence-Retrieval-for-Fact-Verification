@@ -1,0 +1,13 @@
+The '''Ordnance Survey National Grid''' is a system used to map Great Britain. It is different from using latitude and longitude. The Ordnance Survey (OS) created the system. It is used a lot in their survey data. It is also used in maps based on those surveys.
+
+
+The system divides the map into squares. Each square is labelled with two letters. The first letter refers to squares that are 500&nbsp;km by 500&nbsp;km. Those squares are outlined in dark grey on the map to the right. Only four of these have alot of land area in Great Britain: S, T, N and H. The O square contains a tiny area of North Yorkshire. Normally most of this area is submerged at high tide.Standing, 2006
+
+For the second letter, each 500&nbsp;km square is divided into 25 squares that are 100&nbsp;km by 100&nbsp;km. Each of those has a letter code from A to Z. (The letter ''I'' is not used.) The letters start with A in the northwest corner and go to Z in the southeast corner. These squares are outlined in light grey on the map. The ones that have land have letters shown.
+
+The system can also be used to give the location of a smaller area inside a lettered square. This is done by giving the distance east and north from the southwest corner of the square. For example, NH0325 (or NH 03 25) means a one-kilometre square whose southwest corner is 3&nbsp;km east and 25&nbsp;km north from the southwest corner of square NH. The system can also specify areas smaller than one kilometre. For example, the grid reference of the 100-metre square containing the summit of Ben Nevis is ''''''.
+
+ Notes 
+
+
+Category:Geodesy

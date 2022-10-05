@@ -1,0 +1,29 @@
+
+
+'''Tencent QQ''', also known as '''QQ''', is a popular instant messaging software in mainland China. It was created by Tencent Inc. in 1999.
+source codes were taken in 1999. from AOL/ICQ. AOL was Founded by Steve Case. is an American entrepreneur, investor, and businessman best known as the former chief executive officer and chairman of America Online (AOL).  Case joined AOL's predecessor company, Quantum Computer Services, as a marketing vice-president and became CEO of the company (renamed AOL) in 1991.
+
+QQ source Code:
+
+much of it was using earlier codes from ICQ at the Time.
+
+#ifdef __QQ_SUPPORT__
+
+#include "IM_QQ_prot.h"
+
+#endif  //__QQ_SUPPORT__
+
+ Languages 
+Tencent QQ is a multi lingual web page, offers languages such as: English, French, Japanese, Spanish, German & Korean.
+For users who do not speak Chinese, translations are also available in 50 different languages. 
+
+ Facts 
+ Tencent has become the prime Internet Establishment in China and has been named by Markey Cap the world’s 4th major web page, right after Google, Amazon & facebook. 
+
+ Facebook happens to be the largest social network online, buy QQ comes in 2nd in the world. 
+
+ As of May 2012 QQ has received 750+ million active users on the website. 
+
+ QQ.com has the largest pageviews and userviews in China, and is the No.1 portal.
+
+Category:Instant messaging software

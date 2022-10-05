@@ -1,0 +1,19 @@
+{{Taxobox
+| image = Euphorbia heterophylla (Painted Euphorbia) in Hyderabad, AP W IMG 9720.jpg
+| image_caption = ''Euphorbia heterophylla'' 
+| image_width = 240px
+|regnum = Plantae
+|unranked_divisio = Flowering plant|Angiosperms
+|unranked_classis = Eudicots
+|unranked_ordo = '''Rosids'''
+|subdivision_ranks = Order (biology)|Orders}}
+
+The '''rosids''' are a large clade of flowering plants. It includes about 70,000 species, 
+
+The rosids are divided into 17  order (biology)|orders. These orders together make up about 140 family (biology)|families. The rosids and the asterids are by far the largest clades in the eudicots.
+
+Fossil rosids are known from the Cretaceous|Cretaceous period. Molecular clock estimates indicate that the rosids originated in the Aptian or Albian stages of the Cretaceous, between 125 and 99.6 million years ago (mya).
+
+Three different definitions of the rosids are in use. Some authors include the order Saxifragales in the rosids. Others exclude it.
+
+category:Rosids| 

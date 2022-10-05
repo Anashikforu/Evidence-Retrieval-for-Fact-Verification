@@ -1,0 +1,4 @@
+'''Ninety''' is an even number. It is divisible by 1 (number)|1, 2 (number)|2, 3 (number)|3, 5 (number)|5, 6 (number)|6, 9 (number)|9, 10 (number)|10, 15 (number)|15, 18 (number)|18, 30 (number)|30, 45 (number)|45, and 90.
+
+
+Category:Integers

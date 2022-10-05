@@ -1,0 +1,11 @@
+ with many categories. The table tells how many samples there are in each category.
+The word ''histogram'' is derived from ''histos'' and ''gramma'' in Greek language|Greek. ''Histos'' means ''web'' or ''mast''. ''Gramma'' means ''drawing'', ''record'' or ''writing''. A histogram of something is therefore, etymology|etymologically speaking, a drawing of the web of this something. 
+
+Similar ideas
+The histogram is one of the seven basic tools of quality control, which also include the Pareto chart, check sheet, control chart, cause-and-effect diagram, flowchart, and scatter diagram. 
+
+A population pyramid is two histograms.
+
+A generalization of the histogram is kernel (statistics)|kernel smoothing techniques. This will construct a smooth probability density function from the supplied data.
+
+Category:Statistics

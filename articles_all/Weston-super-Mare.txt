@@ -1,0 +1,30 @@
+{{Infobox UK place
+ | official_name            = Weston-super-Mare
+ | country                  = England
+ | region                   = South West England
+ | static_image_name        = Weston-Super-Mare view.jpg
+ | static_image_caption     = Weston-super-Mare bay and piers
+ | static_image_alt        = Multiple houses and other buildings around a bay into which a pier projects. On the background are hills
+ | population               = 76,143
+ | population_ref           = (2011 Census)
+ | os_grid_reference        = ST320613
+ | coordinates              = 
+ | post_town                = WESTON-SUPER-MARE
+ | postcode_area            = BS
+ | postcode_district        = BS22–BS24
+ | dial_code                = 01934
+ | constituency_westminster = Weston-super-Mare (UK Parliament constituency)|Weston-super-Mare
+ | civil_parish             = Weston-super-Mare
+ | london_distance          =
+| unitary_england          = North Somerset
+ | lieutenancy_england      = Somerset
+ }}
+'''Weston-super-Mare''', sometimes known as just '''Weston''' is a sea-side town in Somerset, England. Weston is  from the city of Bristol. It also includes the suburbs of Oldmixon, West Wick and Worle. The beach is a popular tourist destination and includes many museums, a pier and an aquarium.
+
+Transport
+
+Weston is linked to the M5 motorway by junction 21 where the daul carriageway A370 goes to the town centre.
+
+Today, the main railway station, which is on a short loop off the Bristol to Exeter line, is called Westo-super-Mare and is situated close to the town centre and less than ten minutes walk from the sea front.
+
+Category:Civil parishes in Somerset

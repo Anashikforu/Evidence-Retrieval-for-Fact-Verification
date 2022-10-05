@@ -1,0 +1,29 @@
+{{infobox UK place
+|country = Scotland
+ |official_name= Strathblane
+ |gaelic_name= Strath Bhlàthain
+ |scots_name=
+| population = 1,811
+| population_ref = &nbsp;(United Kingdom Census 2001|2001&nbsp;Census)
+  |population_density= 
+ |area_total_sq_mi= 17
+ |os_grid_reference= NS561794
+ |latitude= 55.986467
+ |longitude= -4.306127
+ |unitary_scotland= Stirling (council area)|Stirling
+ |lieutenancy_scotland= Stirling and Falkirk
+ |constituency_westminster=
+ |constituency_scottish_parliament=
+ |post_town= GLASGOW
+ |postcode_district = G63
+ |postcode_area= G
+ |dial_code= 01360
+ |static_image=Strathblane.jpg
+ |static_image_caption=A view over Strathblane from Ballagan
+ |edinburgh_distance=   Boxing the compass|E
+ |london_distance=  Boxing the compass|SSE
+ }}
+
+'''Strathblane''' (Scottish Gaelic: '''''Strath Bhlàthain''''') is a village and List of civil parishes in Scotland|parish at the extreme south of the Stirling (council area)|Stirling council area, in central Scotland.
+
+Category:Villages in Stirling council

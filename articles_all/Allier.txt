@@ -1,0 +1,138 @@
+
+
+'''Allier''' is a Departments of France|department in the centre of France, in the Auvergne-Rhône-Alpes Regions of France|region. It is named after the river Allier (river)|Allier, a tributary of the Loire (river)|Loire. Its Prefectures in France|prefecture is Moulins, Allier|Moulins.
+
+History
+
+Allier is one of the original 83 departments created during the French Revolution on 4 March 1790 with Moulins as its Capital (city)|capital. It was formed from most of all the former province of ''Bourbonnais'' (the Duchy of Bourbonnais); Saint-Amand-Montrond, in the Cher (department)|Cher department, was the only part of the old province that was not made part of Allier.
+
+It was divided in seven districts: Cérilly, Moulins, Le Donjon, Cusset, Gannat, Montmarault and Montluçon.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the seven districts were changed into four ''arrondissements'': Moulins, Gannat, Lapalisse and Montluçon.
+
+On 10 September 1926, the ''arrondissement'' of Gannat was eliminated and in 1941 Vichy became the capital of one ''arrondissement'' of the department instead of Lapalisse.
+
+In 1940, during World War II, the city of Vichy was the Capital (city)|capital of Vichy France.
+
+Geography
+Allier is part of the Auvergne-Rhône-Alpes Regions of France|region. It has an area of .
+
+It is  wide from north to south.
+
+The department borders with 6 other departments in 4 regions:
+ Bourgogne-Franche-Comté region
+ Nièvre (north)
+ Saône-et-Loire (east)
+ Auvergne-Rhône-Alpes region
+ Loire (southeast)
+ Puy-de-Dôme (south)
+ Nouvelle-Aquitaine region
+ Creuse (west)
+ Centre-Val de Loire region
+ Cher (department)|Cher (northwest)
+
+
+
+Administration
+Allier is managed by the ''Departmental Council of Allier'' in Moulins, Allier|Moulins. The department is part of the Auvergne-Rhône-Alpes region.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 19 Cantons in France|''cantons'' and 317 Communes in France|''communes'' (Municipality|municipalities) in Allier.
+
+
+
+
+
+The following is a list of the 19 Cantons of France|cantons of the '''Allier''' department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+# Canton of Bellerive-sur-Allier|Bellerive-sur-Allier (0301)
+# Canton of Bourbon-l'Archambault|Bourbon-l'Archambault (0302)
+# Canton of Commentry|Commentry (0303)
+# Canton of Cusset|Cusset (0304)
+# Canton of Dompierre-sur-Besbre|Dompierre-sur-Besbre (0305)
+# Canton of Gannat|Gannat (0306)
+# Canton of Huriel|Huriel (0307)
+# Canton of Lapalisse|Lapalisse (0308)
+# Canton of Montluçon-1|Montluçon-1 (0309)
+# Canton of Montluçon-2|Montluçon-2 (0310)
+# Canton of Montluçon-3|Montluçon-3 (0311)
+# Canton of Montluçon-4|Montluçon-4 (0312)
+# Canton of Moulins-1|Moulins-1 (0313)
+# Canton of Moulins-2|Moulins-2 (0314)
+# Canton of Saint-Pourçain-sur-Sioule|Saint-Pourçain-sur-Sioule (0315)
+# Canton of Souvigny|Souvigny (0316)
+# Canton of Vichy-1|Vichy-1 (0317)
+# Canton of Vichy-2|Vichy-2 (0318)
+# Canton of Yzeure|Yzeure (0319)
+
+
+Demographics
+There is not a traditional demonym to name the inhabitants of the Allier department. Some names used are ''Alliérins'', ''Bourbonnais'', ''Elavérins'', or simply ''habitants de l'Allier'' ("inhabitants of Allier").
+
+Of these names, the most used is ''Bourbonnais'' followed by ''habitants de l'Allier''.
+
+Allier had a population, in 2014, of 343,062, for a population density of  inhabitants/km2. The ''arrondissement'' of Vichy, with 122,267 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Allier'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+ImageSize  = width:400 height:373
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:450000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+BarData=
+  bar:1968 text:1968
+  bar:1975 text:1975
+  bar:1982 text:1982
+  bar:1990 text:1990
+  bar:1999 text:1999
+  bar:2006 text:2006
+  bar:2014 text:2014
+PlotData=
+  color:barra width:30 align:left
+  bar:1968 from:0 till: 386533
+  bar:1975 from:0 till: 378406
+  bar:1982 from:0 till: 369580
+  bar:1990 from:0 till: 357710
+  bar:1999 from:0 till: 344721
+  bar:2006 from:0 till: 343310
+  bar:2014 from:0 till: 343062
+PlotData=
+ bar:1968 at: 386533 fontsize:S text: 386,533 shift:(-12,10)
+ bar:1975 at: 378406 fontsize:S text: 378,406 shift:(-18,5)
+ bar:1982 at: 369580 fontsize:S text: 369,580 shift:(-18,5)
+ bar:1990 at: 357710 fontsize:S text: 357,710 shift:(-18,5)
+ bar:1999 at: 344721 fontsize:S text: 344,721 shift:(-18,5)
+ bar:2006 at: 343310 fontsize:S text: 343,310 shift:(-18,5)
+ bar:2014 at: 343062 fontsize:S text: 343,062 shift:(-18,8)
+
+
+
+The 10 ''Communes of France|communes'' in the department with more inhabitants are:
+
+
+
+
+Gallery
+
+Château des ducs de Bourbon à Montluçon en juillet 2014 - 03.jpg|Castle of the Dukes of Bourbon in Montluçon
+FR-03-Moulins02.JPG|Moulins, Allier|Moulins, the capital of the ''Bourbonnais''.
+Moulins - Perspective3.JPG|Moulins, Allier|Moulins
+Place de la republique Vichy 2006.jpg|''La place de la République'', Vichy
+
+
+Related pages
+ Arrondissements of the Allier department
+ Communes of the Allier department
+
+Category:Departments in Auvergne-Rhône-Alpes

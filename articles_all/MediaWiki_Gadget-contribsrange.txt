@@ -1,0 +1,1 @@
+''Contributions Range:'' Allow /16,/24-/32 CIDR ranges on Special:Contributions forms (uses API), as well as wildcard Prefix searches, eg: Splark

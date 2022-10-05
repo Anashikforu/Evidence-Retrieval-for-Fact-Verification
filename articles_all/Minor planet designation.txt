@@ -1,0 +1,16 @@
+'''Minor planet designations''' are number-name combinations given by the Minor Planet Center, a part of the International Astronomical Union|IAU. They are used for dwarf planets and small Solar System bodies such as asteroids, but not comets. They are given to a body once its orbit is secured and unrelated to provisional designations, given when an object is found. 
+
+The two parts of a formal designation are
+ a number, historically given in a similar order to the order that it was found, now given only after the orbit is secured
+ a name, either the name assigned by the astronomer who found it or, more commonly, the provisional designation.
+It looks like this: (number) Name, for example 90377 Sedna|(90377) Sedna or .
+
+The rule for Natural satellite|moons of minor planets, such as the formal designation (87) Sylvia I Romulus for the asteroid moon Romulus (moon)|Romulus, is an extension of the Roman numeral convention used, on and off, for the moons of the planets since Galileo's time.
+
+The Minor Planet Center also managed comets but used a different cataloging system.
+
+ History 
+By 1851, there were 15 asteroids, all but one with their own symbol. The symbols were becoming less and less simple, and, as they had to be drawn by hand, astronomers found some of them hard to draw. This difficulty was addressed by Benjamin Apthorp Gould in 1851, who suggested numbering asteroids in the order that they were found, and placing this number in a circle as the symbol for the asteroid, such as ④ for the fourth asteroid, 4 Vesta|Vesta. This practice was soon coupled with the name itself into an official number-name designation, "④ Vesta", as the number of minor planets increased. By ''ca'' 1858, the circle had been simplified to brackets, "(4)" and "(4) Vesta", which was easier to typeset. Other punctuation such as "4) Vesta" and "4, Vesta" was also used, but had more or less completely died out by 1949.From James L. Hilton|Dr. James Hilton's 
+The major exception to the convention that the number tracks the order they were or the order that they're orbit was calculated is the case of Pluto. Since Pluto was originally called a planet, it was not given a number until a 2006 redefinition of "planet" that didn't include it. At that point, Pluto was given the formal designation Pluto.
+
+Category:Minor planets

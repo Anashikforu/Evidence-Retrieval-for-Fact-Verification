@@ -1,0 +1,11 @@
+
+'''JeOS''' is a version of Ubuntu designed for Virtualization|virtual machines.
+
+Related pages
+ Ubuntu
+
+Other websites
+ 
+
+Category:Linux distributions
+Category:Ubuntu (operating system) derivatives

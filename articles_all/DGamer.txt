@@ -1,0 +1,14 @@
+
+'''DGamer''' ('''Disney Gamer''') is an online service made by The Walt Disney Company|Disney for use with Nintendo DS games. DGamer can be seen via the Nintendo Wi-Fi Connection or computer via Disney.com. The service is implemented by Disney Interactive.
+It was started in North America on May 15, 2008, at the same time as the release of the DS-version of ''The Chronicles of Narnia: Prince Caspian''. All future Disney Interactive Studios games will include DGamer features.
+
+Supported games
+The Chronicles of Narnia: Prince Caspian
+Spectrobes: Beyond the Portals
+Hannah Montana 3
+Ultimate Band
+The Cheetah Girls: Passport to Stardom
+Disney Fairies: Tinker Bell
+Phineas and Ferb
+Club Penguin EPF
+

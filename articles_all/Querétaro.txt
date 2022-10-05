@@ -1,0 +1,35 @@
+
+| unit_pref               = Metric
+| area_footnotes          = 
+| area_total_km2          = 11699
+| area_land_km2           =
+| area_water_km2          =
+| area_water_percent      =
+| area_note               = List of Mexican states by area|Ranked 27th
+| elevation_m             =
+| elevation_max_footnotes =
+| elevation_max_m         = 3360
+| elevation_max_ft        =
+| elevation_min_m         =
+| elevation_min_ft        =
+| population_footnotes    = 
+| population_total        = 2,038,372
+| population_as_of        = 2015
+| population_rank         = List of Mexican states by population|22nd
+| population_density_km2  = auto
+| population_density_rank = List of Mexican states by population density|7th
+| population_demonym      = Queretano (a)
+| population_note         =
+| timezone1               = Central Time Zone|CST
+| utc_offset1             = −6
+| timezone1_DST           = Central Daylight Time|CDT
+| utc_offset1_DST         = −5
+| postal_code_type        = Postal codes in Mexico|Postal code
+| postal_code             = 76
+| area_code_type          = Area code
+| area_code               = 
+'''Querétaro''' is a state of Mexico.
+
+The word Querétaro dates back to pre-Hispanic times. Some of the people who arrived in the area now occupied by the state gave it different names based on its geographic features. The Tarascans of Michoacán called the spot now known as La Cañada, Crettaro or Queréndaro, which means the place of the crags; they probably gave it this name because there is lots of pink stone there. The Otomíes called it Mxei, which means the place where the ballgame is played. It was also called Ndamaxei, which means the great ballcourt; the Aztecs named it Tlaxco, which has the same meaning. Finally, the Chichimecs called this spot Xico, which also means great ballcourt in their language; it received this name because the La Cañada area is shaped like an enormous pre-Hispanic ballcourt.
+
+Category:States of Mexico

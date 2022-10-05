@@ -1,0 +1,39 @@
+
+
+'''Basic English''' ('''B'''usiness '''A'''cademic '''S'''cientific '''I'''nternational '''C'''ommercial) is a controlled language used to explain complex thoughts. It has Wikipedia:Basic English ordered wordlist|850 basic English words chosen by Charles Kay Ogden. Some articles in the Simple English Wikipedia use only Basic English.
+
+In 1936, Ogden hired Otto Neurath and Marie Neurath to make ''International Picture Language'' as one of group of eight books in a Basic English.
+
+ Rules of word use 
+The grammar|word use of Basic English is simpler and more wikt:regular|regular than the word use of normal English language|English. In normal English, words often have a number of different meanings. To make Basic English easier, not all the meanings of a word are used.
+
+Basic English uses Ogden's rules of grammar. Ogden's rules of grammar let people use the 850 words to talk about things and events simply.
+#''-s / -es / -ies'' change singular nouns into plural nouns.
+#''-ing / -ed'' change verbs into adjectives.
+#''-ing / -er'' change verbs into nouns.
+#''-ly'' changes adjectives into adverbs.
+#''-er / -est'' or ''more / most'' describe amounts.
+#''un-'' changes the meanings of adjectives into their opposites.
+#The opposite word order with ''do'' makes questions.
+#'Operators' (verbs) and pronouns change as in normal English.
+#Make Wikipedia:Basic English compound wordlist|combined words (compound word|compounds) from two nouns (for example "football") or a noun and a direction ("sundown").
+#Measures, numbers, money, days, months, years, clock time, and international words are in English forms. E.g. Date/Time: 20 May 1972 at 21:00
+#Use the words of an industry or science. For example, in this grammar, some special words are for teaching languages, and not part of Basic English: plural, conjugation, noun, adjective, adverb, qualifier, operator, pronoun, and directive.
+
+ Related pages 
+ Basic English 850 word list
+ Wikipedia:Basic English alphabetical wordlist|Basic English alphabetical wordlist
+ Wikipedia:Basic English ordered wordlist|Basic English ordered wordlist
+ Wikipedia:Basic English picture wordlist|Basic English picture wordlist – 200 Picturable words
+ Wikipedia:Basic English international wordlist|Basic English international wordlist
+ Wikipedia:Basic English compound wordlist|Basic English compound wordlist
+ Project:Basic English combined wordlist|Basic English combined wordlist
+ Related resources
+ Wikipedia:List of simple adjectives|List of simple adjectives
+ Wikipedia:List of simple verbs|List of simple verbs
+Plain English Campaign
+International auxiliary language
+Simplified English
+Français fondamental
+
+Category:Basic English| 

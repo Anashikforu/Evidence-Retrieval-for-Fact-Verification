@@ -1,0 +1,63 @@
+s, but they cost too much money for most people.
+
+3D printers are useful because they can make new objects very fast, and are good at making them very detailed. This means an engineer can test a lot of new designs and not have to wait for someone else to make them. They are also useful for fixing parts made of plastic, and for making toys, figures, and models. There are a lot of people who print 3D objects at home.
+
+Since 2003, many more materials printers have been sold than before. Also, the cost of 3D printers has gone down.
+ History 
+'''1974''' David E. H. Jones first wrote about the idea of 3D printing in the journal New Scientist
+
+'''1984''' Alain Le Mehaute|Alain Le Méhauté and others filed a patent for stereolithography (a laser-based 3D printer).
+
+'''1989''': S. Scott Crump developed FDM. It is the technology used by most 3D printers today.
+
+'''1992''' The first FDM machine was sold in 1992 by S. Scott Crump's company, Stratasys.
+
+'''2005''' RepRap became the first open source printer project 
+
+'''2008''' Shapeways became the first service that would 3D print an object and send it to customers 
+
+'''2017''' The first 3D printed house that humans could live in was built in Russia 
+
+ How they work 
+
+
+= Modelling =
+The first step in 3D printing something is to make it on a computer. People do this with computer-aided design|CAD (Computer Aided Design) software or a 3D scanner#Hand-held laser scanners|3D scanner. To design 
+= Printing =
+There are a lot of different ways that 3D printers work. There are also many different materials that can be used. Every method and material has its advantages and disadvantages.
+
+The main things to think about when choosing a machine are usually speed, costs, and color. Printers that work directly with metals are generally expensive. However less expensive printers can be used to make a mold, which is then used to make metal parts. thick, or about one tenth the thickness of a human hair.
+
+= Finishing =
+After the machine has finished printing, sometimes people Surface finishing|finish the model. This means making small fixes to make it look better. Finishing includes taking off material that the printer placed to support the model. This sometimes can take a lot of time. There are ways to make it quicker, but it is often easiest to remove plastic by hand.
+
+
+ Uses 
+= DIY =
+Lots of people are trying to develop cheap 3D printers for people to use at home.
+
+= Medical =
+3D printing is used to make medical supplies cheaply. People think that the two biggest uses will be making hearing aids and false teeth 
+
+In March 2014, surgeons in Swansea used 3D printed parts to rebuild the face of a motorcyclist who had been badly injured in a road accident.
+
+= Manufacturing =
+In 2014, a supercar was made by a Swedish company that utilizes many 3D printed components. Urbee was the first car in the world to have its bodywork and windows 3D printed.
+
+In 2015, a Royal Air Force Eurofighter Typhoon fighter jet flew with 3D printed parts. The United States Air Force has begun to work with 3D printers, and the Israeli Air Force has also purchased a 3D printer to print spare parts.
+
+
+= Food =
+Food can be 3D printed. Lots of different foods can be printed, like chocolate and candy, and also flat foods such as crackers, pasta, and pizza.
+
+= Guns =
+In 2012, Defense Distributed uploaded files to the internet for a 3D printed firearms|3D printed gun "that could be downloaded and reproduced by anybody with a 3D printer". After Defense Distributed released their plans, people were worried that they may cause problems with gun control A year later, in May 2013, the US State Department asked Defense Distributed to take down the plans, which they did.
+
+'''Education'''
+
+3D printing has increased innovation and problem-solving in classrooms. Design students can use it to print prototypes in subjects such as engineering 3D printing; demonstrations of this have already been deployed throughout some institutions around the world.
+
+= Historical =
+In the last several years 3D printing has been used to make sure that important things from history are safe.
+
+Category:Printing

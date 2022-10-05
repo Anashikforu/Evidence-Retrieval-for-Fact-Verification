@@ -1,0 +1,6 @@
+'''DNA viruses''' use DNA for their genome. An example of a DNA virus is Herpes simplex. Viruses that are not DNA viruses use RNA for their genome and are called RNA viruses.
+
+
+
+Category:Viruses
+Category:DNA

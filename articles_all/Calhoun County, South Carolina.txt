@@ -1,0 +1,28 @@
+{{Infobox U.S. County
+|county  = Calhoun County
+|state = South Carolina
+|seal =
+|founded = 1908
+|named for = John C. Calhoun
+|seat wl = St. Matthews
+| largest city wl = St. Matthews
+| city type = town
+|area_total_sq_mi = 392
+|area_land_sq_mi = 381
+|area_water_sq_mi = 11
+|area percentage = 2.9%
+|census yr = 2010
+|pop = 15175
+|density_sq_mi = 40
+|web = www.calhouncounty.sc.gov
+|time zone = Eastern
+| district = 6th
+|ex image=Calhoun County Courthouse.jpg|ex image cap=Calhoun County Courthouse}}
+'''Calhoun County''' is a county in South Carolina.
+
+
+
+
+Category:South Carolina counties
+Category:1908 establishments in the United States
+Category:20th-century establishments in South Carolina

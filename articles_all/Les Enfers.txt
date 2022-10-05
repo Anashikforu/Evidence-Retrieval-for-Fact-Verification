@@ -1,0 +1,32 @@
+{{Infobox Swiss town
+ | subject_name		= Les Enfers
+ | municipality_name	= Les Enfers
+ | municipality_type	= municipality
+ | imagepath_coa	= Armoiries Enfers.jpg|pixel_coa=
+ | map			= 
+ | languages		= French
+ | canton		= Jura
+ | iso-code-region 	= CH-JU
+ | district		= Franches-Montagnes (district)|Franches-Montagnes
+ | lat_d=47|lat_m=18|lat_NS=N|long_d=07|long_m=03|long_EW=E
+ | postal_code		= 2875
+ | municipality_code	= 6745
+ | area			= 7.09
+ | elevation		= 955|elevation_description= 
+ | population		= 137|populationof=2003
+ | website		= lesenfers.ch
+ | mayor		= Annemarie Balmer|mayor_asof=|mayor_party=
+ | mayor_title	= |list_of_mayors	= 
+ | places		= 
+ | demonym		= 
+ | neighboring_municipalities= Soubey, Montfavergier, Saint-Brais, Montfaucon, Switzerland|Montfaucon, Le Bémont, Les Pommerats
+ | twintowns		= 
+||image_photo=File:Les Enfers 081.JPG}}
+
+'''Les Enfers''' is a municipality in the district of Franches-Montagnes (district)|Franches-Montagnes in the Cantons of Switzerland|canton of Jura (canton)|Jura in Switzerland.
+
+
+
+
+
+

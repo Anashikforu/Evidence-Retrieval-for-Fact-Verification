@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Spectacled bear
+| status = VU
+| trend = unknown
+| status_system = iucn2.3
+| image = Urso-de-óculos no Zoológico de Sorocaba.JPG
+| image_caption = A spectacled bear in Sorocaba|Sorocaba zoo, Brazil.
+| image_width = 250px
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Carnivora
+| familia = Ursidae
+| genus = '''''Tremarctos'''''
+| binomial = ''Tremarctos ornatus''
+| binomial_authority = (Georges Cuvier|Cuvier, 1825)}}
+
+The '''spectacled bear''' (''Tremarctos ornatus''), also known as the '''Andean bear''' is the last of the lineage of short-faced bears. Locally, it is also called ''ukuku'', ''jukumari'' or ''ukumari''. The other short-faced bears are now extinction|extinct. They lived during middle to late Pleistocene age.
+The spectacled bear is a relatively small species of bear native to South America. It has black fur with a distinctive beige-coloured marking across its face and upper chest. Males are 33% larger than females. Spectacled bears are the only surviving types of bear native to South America, and the only surviving member of the subfamily Tremarctinae. Their survival has depended mostly on their ability to climb even the highest trees of the Andes.
+
+Category:Ursidaes

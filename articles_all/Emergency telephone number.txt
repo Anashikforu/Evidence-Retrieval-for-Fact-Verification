@@ -1,0 +1,9 @@
+An '''emergency telephone number''' is a telephone number that can be used to quickly contact emergency services for assistance. Emergency services usually include police, Ambulance|medical, or Firefighter|firefighting public services. Many countries' public telephone networks have a single emergency telephone number, sometimes known as the '''universal emergency telephone number''' or the '''emergency services number'''. Most emergency service numbers are 3 digits long so that they can be dialed quickly and remembered easily. Some countries have a different emergency number for each of the different emergency services and are different only by the last digit. 
+
+ Variations 
+In Europe, the telephone number for emergency services is '''1-1-2'''. This can be helpful if a person calls but is unable to speak or if the telephone connection line disconnected before the call was ended intentionally. 
+
+ Technological Implications 
+The ability to contact emergency services has changed in recent years as technology has advanced. Some mobile devices like the Apple iPhone and Apple Watch offer capabilities to contact emergency services without having to call or speak to an emergency phone operator. These features are still being tested and developed by using a smart phone's ability to maintain a very accurate GPS location.  
+
+Category:Telephone numbers

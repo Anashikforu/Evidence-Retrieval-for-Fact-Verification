@@ -1,0 +1,33 @@
+:''This article is about the Canadian university. For the British university, see University of York.''
+{{Infobox university
+ | name            = York University''Université York''
+ | image_upright   = 0.6
+ | motto           = ''Tentanda via'' (Latin)
+ | mottoeng        = The way must be tried
+ | established     = 1959
+ | type            = Public university	
+ | endowment       = $439 million
+ | chancellor      = Gregory Sorbara
+ | president       = Rhonda Lenton
+ | students        = 52,300
+ | undergrad       = 46,400
+ | postgrad        = 5,900
+ | city            = Toronto
+ | state           = Ontario
+ | country         = Canada
+ | campus          = Urban area|Urban
+ | colours         = 
+
+ | nickname        = York Lions
+ | mascot          = Lion
+ | website         = 
+ | logo            = Logo York University.svg
+ | logo_size       = 200px
+| coor            = 
+ | affiliations    = Association of Universities and Colleges of Canada|AUCC, Canadian Association of Research Libraries|CARL, International Association of Universities|IAU, Council of Ontario Universities|COU, U Sports, Ontario University Athletics|OUA, Canadian University Society for Intercollegiate Debate|CUSID, Fields Institute, Ontario Network of Women in engineering, Canadian Bureau for International Education|CBIE, Canadian Federation of Students|CFS, Canadian University Press|CUP.
+ | image_name      = Yorkunicrest1.png
+ | staff           = 7,000
+ }}
+'''York University''' (French language|French: ''Université York''), is a Canada|Canadian university in Toronto, Ontario, Canada. York University is Canada's third largest university. It first opened in 1959. 
+
+Category:Colleges and universities in Canada

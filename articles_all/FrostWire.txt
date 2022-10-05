@@ -1,0 +1,7 @@
+
+'''FrostWire''' is a computer program for downloading files, like music, video, etc. very much like LimeWire.
+
+
+
+
+Category:Software

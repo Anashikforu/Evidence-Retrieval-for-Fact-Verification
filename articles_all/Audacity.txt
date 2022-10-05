@@ -1,0 +1,9 @@
+
+
+'''Audacity''' is a digital audio editor (a computer program used to change sounds) and recording program. Audacity is cross-platform and can be used with Microsoft Windows|Windows, OS X, Linux, and Berkeley Software Distribution|BSD.  It is free software. Audacity was first released on May 28, 2000.
+
+ Features 
+# multi-track mixing
+# import and export of WAV, AIFF, MP3
+
+Category:Free software

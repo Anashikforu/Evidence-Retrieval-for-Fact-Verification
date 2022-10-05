@@ -1,0 +1,18 @@
+
+{{Taxobox
+| name = Angolan African Dormouse
+| image = 
+| status = DD | status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| genus = ''Graphiurus''
+| species = '''''G. angolensis'''''
+| binomial = ''Graphiurus angolensis''
+| binomial_authority = de Winton, 1897
+| synonyms = }}
+The '''Angolan African dormouse''' (''Graphiurus angolensis'') is a species of rodent in the Gliridae family. It is Endemism|endemic to (lives only in) Angola. Its natural habitat is subtropical or tropics|tropical dry forests. 
+
+Category:Graphiurus

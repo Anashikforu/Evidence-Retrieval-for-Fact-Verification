@@ -1,0 +1,25 @@
+{{Taxobox
+| name = Fork-tailed woodnymph
+| image = Thalurania furcata -near Amazonia Lodge, Manu National Park, Peru-8.jpg
+| image_caption = Male
+| image2 = Thalurania furcata Fork-tailed Woodnymph.JPG
+| image2_caption = Female
+| status = LC | status_system = IUCN3.1
+| regnum = Animalia
+| classis = Aves
+| ordo = Trochiliformes
+| familia = Trochilidae
+| genus = ''Thalurania''
+| binomial = ''Thalurania furcata''}}
+
+The '''fork-tailed woodnymph''' (''Thalurania furcata'') is a species of hummingbird. It is found in Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Trinidad and Tobago, and Venezuela. Its natural habitats are subtropical or tropical moist lowland forests, subtropical or tropical moist montane forests, and degraded former forests.
+
+
+
+
+
+
+
+
+Category:Birds of South America
+Category:Hummingbirds

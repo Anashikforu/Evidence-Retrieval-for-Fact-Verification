@@ -1,0 +1,18 @@
+
+Image:Visualisation 1 million.svg|thumb|Visualisation of powers of ten from 1 to 1 million|240px
+'''One million''' (1,000,000), or one thousand thousand, is the natural number after 999,999 and before 1,000,001. The name is derived from Italian, where  was 1,000, and 1,000,000 became a "''milione''", as 'a large thousand'.
+
+In scientific notation, the number is written as 1×106 or just 106. Physical quantities can also be expressed using the SI prefix  when dealing with SI units. For example, 1 megawatt equals 1,000,000 watts.
+
+The word 'million' is common to both the Long and short scales|short-scale and long-scale numbering systems, unlike the larger numbers, which have different names in the two systems.
+
+The million is sometimes used in the English language as a metaphor for a very large number, as in 'Never in a million years' and 'You're one in a million', or as hyperbole, as in 'I've walked a million miles'.
+
+''Il Milione'' is the title of Marco Polo's narration of his travels in China. The name is supposed to come from Polo's nickname after his tales of riches and multitudes.
+
+ Examples 
+ A millionaire is someone who owns at least one million units of currency.
+ In computer science a megabyte is about a million bytes, or 1,048,576 (1,0242).
+ In measurement there are a million millimeters in a kilometer. There are a million metre|meters in a megameter. (A person who travels completely around earth's equator travels 40 megameters). Also, light travels a million kilometers in around 3 seconds (See: light speed).
+
+Category:Integers

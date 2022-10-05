@@ -1,0 +1,8 @@
+'''WYSIWYG''' (OED), is an acronym for '''''W'''hat '''Y'''ou '''S'''ee '''I'''s '''W'''hat '''Y'''ou '''G'''et'', used in computing to describe a system where things you edit on the on-screen editor appear almost the same to the final output, which might be a Printing|printed document, a Webpage|web page, a Microsoft PowerPoint|PowerPoint presentation or even the lighting for a concert. Web designers often use this word to talk about their work.
+
+Related pages
+GUI
+Text editor
+WYSIWYM
+
+Category:Acronyms

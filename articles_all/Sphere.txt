@@ -1,0 +1,71 @@
+
+
+A '''sphere''' is a shape in space that is like the surface of a ball. Usually, the words ''ball'' and ''sphere'' mean the same thing. But in mathematics, a sphere is the surface of a ball, which is given by all the points in 3D|three dimensional space that are located at a fixed distance from the center. The distance from the center is called the radius of the sphere. When the sphere is filled in with all the points inside, it is called a ball.
+
+Common things that have the shape of a sphere are basketballs, superballs, and playground balls. The Earth and the Sun are nearly ''spherical'', meaning sphere-shaped. 
+
+A sphere is the three-dimensional Analogy|analog of a circle.
+
+ Calculating the surface area, circumference, diameter, radius and volume of a sphere 
+
+= Surface area =
+
+Using the circumference: \frac{C^2}{\pi}
+
+Using the diameter: \pi d^2
+
+Using the radius: 4\pi r^2
+
+Using the volume: \sqrt3{36\pi V^2}
+
+= Circumference =
+
+Using the surface area: \sqrt{\pi A}
+
+Using the diameter: \pi d
+
+Using the radius: 2\pi r
+
+Using the volume: \sqrt3{6\pi^2V}
+
+= Diameter =
+
+Using the surface area: \frac{\sqrt{\pi A}}{\pi}
+
+Using the circumference: \frac{C}{\pi}
+
+Using the radius: 2r
+
+Using the volume: \sqrt3{\frac{6}{\pi}V}
+
+= Radius =
+
+Using the surface area: \sqrt{\frac{A}{4\pi}}  or \frac{\sqrt{\pi A}}{2\pi}
+
+Using the circumference: \frac{C}{2\pi}
+
+Using the diameter: \frac{d}{2}
+
+Using the volume: \sqrt3{\frac{3V}{4\pi}} = \frac{\sqrt3{\frac{48}{\pi} V}}{4} \approx \frac{\sqrt3{16V}}{4}  (more simple but less precise)(only approx answers, because r\sqrt\frac{\pi}{3} will remain which is equal to r\sqrt\frac{3.14}{3} and it is approx to r)
+
+= Volume =
+
+Using the surface area: \frac{\sqrt{\pi A^3}}{6\pi}
+
+Using the circumference: \frac{C^3}{6\pi^2}
+
+Using the diameter: \frac{\pi d^3}{6}
+
+Using the radius: \frac{4\pi r^3}{3}
+
+ Equation of a sphere 
+
+In Cartesian coordinate system|Cartesian coordinates, the equation for a sphere with a center at (x_0, y_0, z_0) is as follows:
+
+:(x-x_0)^2 + (y-y_0)^2 + (z-z_0)^2 = r^2
+
+where r is the radius of the sphere.
+
+
+
+Category:Three-dimensional shapes

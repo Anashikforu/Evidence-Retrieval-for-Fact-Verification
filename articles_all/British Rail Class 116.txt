@@ -1,0 +1,34 @@
+{{Infobox DMU
+|name = British Rail Class 116 
+|image = Set T326 (51131 and 51321) at Arley.JPG
+|imagesize = 240px
+|background = #0033cc
+|caption = Set T326, formed of vehicles 51131 and 51321, at Arley on the Severn Valley Railway on 15 October 2004, whilst taking part in the Railcar 50 event. This unit is painted in BR Blue/Grey livery, and is preserved on the Battlefield Line Railway.
+|Manufacturer = BR Derby
+|Operator = British Rail
+|Formation =  2  cars per trainset
+| yearconstruction = 1957–1961
+|Built =DMBS: 108,
+DMS: 108,
+TS: 10,
+TC: 94
+|LinesServed = 
+|InService = 1961-1990
+|CarLength = 64 ft 0 in 
+|CarWidth = 9 ft 3 in 
+|CarHeight = 12 ft 4 1/2 in
+|Weight = 38 tons 10 cwt
+|Capacity = 
+|MaxSpeed = 70 mph (112 km/h)
+|Gauge = 
+|Traction = 
+|Engine =
+|SafetySystem=
+ |}}
+The British Rail '''Class 116''' diesel multiple units were built by Derby Carriage and Wagon Works|BR Derby from 1957 to 1961.
+
+
+
+
+
+Category:British Rail diesel multiple units|116

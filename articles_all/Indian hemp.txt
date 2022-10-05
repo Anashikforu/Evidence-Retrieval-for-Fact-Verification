@@ -1,0 +1,8 @@
+'''Indian hemp''' can be any one of the following species of plants:
+
+ ''Apocynum cannabinum''
+ ''Cannabis indica''
+ ''Sida rhombifolia''
+ ''Asclepias incarnata''
+ ''Hibiscus cannabinus''
+

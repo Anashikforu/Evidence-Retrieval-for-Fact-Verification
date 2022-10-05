@@ -1,0 +1,24 @@
+{{Infobox musical artist 
+| Name                = DJ Shadow 
+| image                 = DJ Shadow tim festival.jpg 
+| image_alt             = 
+| image_capt            = 
+| image_size            = 200px 
+| Landscape           = 
+| Background          = non_vocal_instrumentalist
+| Birth_name          = Joshua Paul Davis 
+| Alias               = DJ Shadow 
+| birth_date= 
+| birth_place         =San Jose, California
+| Origin              = Davis, California 
+| Instrument          = Keyboard instrument|Keyboards, Turntablism|turntables, Sampler (musical instrument)|sampler, synthesizer 
+| Genre               = Hip hop music|Hip hop, Hyphy, instrumental hip hop, trip hop, turntablism 
+| Occupation          = Record producer|Producer, disc jockey|DJ
+| Years_active        = 1989–present 
+| Label               = Mo'WaxQuannum ProjectsSolesidesUniversal Records|Universal 
+| Associated_acts     = UNKLEQuannum Projects|The Quannum Collective 
+| URL                 = | Notable_instruments = }}
+
+'''Joshua Paul Davis''', (born June 29, 1972)
+
+Category:Musicians from San Jose, California

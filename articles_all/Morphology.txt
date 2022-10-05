@@ -1,0 +1,16 @@
+
+'''Morphology''' may mean:
+Morphological Analysis|Morphology (general), the study of the shape and form of things in general.
+Morphology (linguistics), the study of the structure of word forms.
+Morphology (biology) is the study of the external features phenotype comprising how the organisation of body of living organisms is formed
+Morphology (astronomy) is the shape of an astronomical object, like nebulae, galaxies, or other extended objects.
+Morphology (folkloristics), the structure of narratives such as folk tales.
+Morphology (architecture), the study of the shape and form of buildings.
+Morphology (metallurgy), the study of the microstructure of metals.
+
+Geomorphology, the study of landforms.
+Mathematical morphology, theoretical model based on Lattice theory, used for digital image processing.
+River morphology, the field of science dealing with changes of river planform.
+
+Morphological analysis, a general method for non-quantified modelling.
+

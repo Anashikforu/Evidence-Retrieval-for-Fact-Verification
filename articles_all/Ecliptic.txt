@@ -1,0 +1,11 @@
+
+
+The '''ecliptic''' is the ''apparent'' path that the Sun traces out in the sky during the year.
+
+The Sun appears to move against the background of stars because the Earth orbits the Sun.
+
+The ecliptic plane should be distinguished from the invariable plane. That is the average plane of the orbits of the planets. The present ecliptic plane is inclined to the invariable ecliptic plane by about 1.5°.
+
+The name ''ecliptic'' is derived from being the place where eclipses occur.
+
+Category:Celestial mechanics

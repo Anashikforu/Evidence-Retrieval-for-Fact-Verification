@@ -1,0 +1,12 @@
+
+Image:Metal type.svg|thumb|right|200px|'''Diagram of a cast metal sort'''. '''a''' face, '''b''' body or shank, '''c''' point size, '''1''' shoulder, '''2''' nick, '''3''' groove, '''4''' foot.
+Image:Sorts on composing stick.jpg|thumb|right|200px|'''Metal type sorts''' arranged on a composing stick.
+
+In typesetting by hand compositing, a '''sort''' is a piece of type representing a specific Letter (alphabet)|letter or symbol, casting|cast from a matrix (printing)|matrix mould and assembled with other sorts bearing additional letters into lines of type to make up a ''forme'', from which a page is printed.
+
+Related pages
+ Sort - other uses of the word
+ Typeface
+ Typography
+
+Category:Typesetting

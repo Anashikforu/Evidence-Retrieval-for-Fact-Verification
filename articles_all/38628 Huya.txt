@@ -1,0 +1,48 @@
+
+{{Infobox Planet
+| bgcolour=#FFFFC0
+| name=38628 Huya
+| image= 38628 Huya.png
+| caption=Artist's impression of Huya
+| discoverer=Ignacio Ferrin
+| discovered=March 10, 2000
+| mp_name=38628 Huya
+| alt_names=
+| mp_category=Trans-Neptunian object|TNOPlutino
+| orbit_ref =
+| epoch=December 31, 2006 (Julian day|JD 2454100.5)
+| semimajor=5948.340 Giga|Gm (39.762 Astronomical unit|AU)
+| perihelion=4269.292 Gm (28.538 AU)
+| aphelion=7627.387 Gm (50.986 AU)
+| eccentricity=0.282
+| period=91580.694 day|d (250.73 Julian year (astronomy)|a)
+| inclination=15.463degree (angle)|°
+| asc_node=169.296°
+| arg_peri=67.637°
+| mean_anomaly=348.506°
+| avg_speed=4.63&nbsp;km/s
+| dimensions=480±50 km532±25 km
+| mass=6.5 kg mass
+| density=2.0? g/cubic centimetre|cm³
+| surface_grav=0.12–0.15? m/s²
+| escape_velocity=0.23–0.28? km/s
+| sidereal_day=? d
+| spectral_type=(moderately red) B-V=1.00; V-R=0.65
+| magnitude = 19.3 (Opposition (astronomy and astrology)|opposition) 
+| abs_magnitude=4.7
+| albedo=0.11±0.02
+| angular_size = 0.024" (max)Huya Angular Size @ May 2015 Opposition: 480&nbsp;km dia / (27.5543AU  149 597 870&nbsp;km)  206265 = 0.024"
+| single_temperature=~44 kelvin|K}}
+
+'''38628 Huya''', previously known by its provisional designation '''''') is a trans-Neptunian object (TNO). It was found in March 2000 by Ignacio Ferrin and announced on October 24, 2000. It was given the name Huya, after ''Juyá,'' the Wayuu rain god, in August 2003 by the International Astronomical Union.
+
+ Size 
+At the time when it was found, Huya was the biggest and brightest TNO yet found. It was found using data collected by at the CIDA Observatory in Venezuela. Astronomers think it's about 530&nbsp;km in diameter.
+
+= Surface =
+The object has a red-sloped spectrum|reflectance spectrum, saying that the surface could be rich in organic material such as tholins.
+
+= Orbit =
+Given the long orbit that Trans-Neptunian object|TNOs have around the sun, Huya comes to Opposition (astronomy)|opposition in early May of each year at an apparent magnitude of 19.3.
+
+Category:Kuiper belt objects

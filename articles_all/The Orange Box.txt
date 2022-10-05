@@ -1,0 +1,8 @@
+
+|genre = First-person shooter, Puzzle video game|puzzle, Compilation (games)|compilation
+|modes = Single player, multiplayer
+|platforms = Microsoft WindowsPlayStation 3Xbox 360OS XLinux
+}}
+'''''The Orange Box''''' is a video game bundled software|compilation for Microsoft Windows, the Xbox 360, and the PlayStation 3. The Windows and 360 versions were made by Valve Corporation, and the PS3 version was made by Electronic Arts. It has five games on it - ''Half-Life 2'', ''Half-Life 2: Episode One'' (an expansion of ''Half-Life 2''), ''Half-Life 2: Episode Two'' (another expansion of ''Half-Life 2'', ''Portal (video game)|Portal'', and ''Team Fortress 2''. The first two were released outside of ''The Orange Box'', but the other three first appeared in it.
+
+Category:Compilation video games

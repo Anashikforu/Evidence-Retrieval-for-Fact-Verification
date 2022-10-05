@@ -1,0 +1,10 @@
+A '''session key''' is a single-use Symmetric-key algorithm|symmetric key used for encryption|encrypting all messages in one Session (computer science)|communication session. A closely related term is '''traffic encryption key''' or '''TEK''', which refers to any Symmetric-key algorithm|symmetric key that is used to encryption|encrypt traffic messages. Typically '''TEK'''s are changed frequently, in some systems daily and in others for every message.
+
+Session keys introduce complexities in a cryptosystem. However, they also help with some real problems, which is why they are used. There are two primary reasons for using '''session keys''':
+ 
+First, several Cryptanalysis|cryptanalytic attacks are made easier as more ciphertext encryption|encrypted with a specific key is available. By limiting the number of messages encryption|encrypted using a single key, those attacks are made more difficult. 
+ Second, many otherwise good encryption algorithms require that keys be distributed Security|securely before encryption can be used. All Symmetric-key algorithm|symmetric secret key algorithms have this undesirable property. There are other algorithms which don't require Security|secure distribution of secret keys, but they are too slow to be practical for encrypting long messages (see Public-key cryptography). By using one of these "asymmetric" algorithms to Key distribution|distribute an encrypted Shared secret|secret key for another, faster, symmetric-key algorithm, it's possible to improve overall performance considerably. 
+
+Like all Key (cryptography)|cryptographic keys, session keys must be chosen so that they are Key generation|unpredictable by an attacker. In the usual case, this means that they must be chosen randomly. Failure to choose session keys (or any key) properly is a major drawback in any cryptosystem. 
+
+Category:cryptography

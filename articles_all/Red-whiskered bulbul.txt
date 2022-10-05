@@ -1,0 +1,17 @@
+{{Taxobox
+| name = Red-whiskered bulbul
+| status = LC | status_system = IUCN3.1
+| status_ref = 
+| image = Red_whiskered_Bulbul_I_IMG_7818.jpg 
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = bird|Aves
+| ordo = Passeriformes
+| familia = bulbul|Pycnonotidae
+| genus = ''Pycnonotus''
+| binomial = ''Pycnonotus jocosus''
+| binomial_authority = (Carolus Linnaeus|Linnaeus, 1758)}}
+
+The '''red-whiskered bulbul''' (''Pycnonotus jocosus'') is a species of bird. It wikt:belong|belongs in the Family (biology)|family Pycnonotidae. It is found mainly in tropical Asia. It has been Introduced species|introduced in many tropical areas of the world. It feeds on fruits, nectar and small insects. Their calls are a loud ''kick-pettigrew''. They are very common in many hill forests and urban gardens. They have a red patch behind the eye, which juveniles lack. They are often found perching on top of trees and bushes. They now even thrive in cities in different parts of the world. 
+
+Category:Passeriformes

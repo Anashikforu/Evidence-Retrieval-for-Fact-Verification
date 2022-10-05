@@ -1,0 +1,9 @@
+An '''IRCd''', meaning '''Internet Relay Chat Daemon (computer software)|server program''', is a program, server (computing)|server software that uses the IRC protocol (computing)|protocol.  This allows people to talk to each other on the Internet.  They exchange text-based (computing)|textual messages in real time.
+
+The server accepts connections from IRC clients on a group of TCP and UDP port|TCP ports. When the server is part of an IRC network, it also keeps one or more connections with other servers/daemon (computer software)|daemons.
+The word ''ircd'' once referred to only one piece of software.
+
+Related pages
+ Comparison of Internet Relay Chat daemons
+
+Category:Internet Relay Chat daemons|

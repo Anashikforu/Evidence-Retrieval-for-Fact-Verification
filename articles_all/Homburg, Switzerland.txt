@@ -1,0 +1,27 @@
+{{Infobox Swiss town
+ | subject_name		= Homburg
+ | municipality_name	= Homburg
+ | municipality_type	= municipality
+ | imagepath_coa	= Homburg(Turgovio)-Blazono.png|pixel_coa=
+ | map			= 
+ | languages		= German
+ | canton		= Thurgau
+ | iso-code-region 	= CH-TG
+ | district		= Steckborn (district)|Steckborn
+ | lat_d=47|lat_m=38|lat_NS=N|long_d=9|long_m=1|long_EW=E
+ | postal_code		= 8508
+ | municipality_code	= 4816
+ | area			= 21.1
+ | elevation		= 591|elevation_description= 
+ | population		= 1435|populationof = December 2005 | popofyear = 2005
+ | website		= www.homburg.ch
+ | mayor		= |mayor_asof=|mayor_party=
+ | mayor_title	= |list_of_mayors	= 
+ | places		= 
+ | demonym		= 
+ | neighboring_municipalities= Herdern, Mammern, Müllheim, Switzerland|Müllheim, Pfyn, Raperswilen, Steckborn, Wigoltingen
+ | twintowns		= 
+||image_photo=St.Antonius Salen-Reutenen-01.jpg}}
+
+'''Homburg''' is a municipality of the district of Steckborn (district)|Steckborn in the cantons of Switzerland|canton of Thurgau in  Switzerland.
+

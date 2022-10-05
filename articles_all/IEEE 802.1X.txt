@@ -1,0 +1,10 @@
+
+
+
+'''IEEE 802.1''' is the name for a number of high-level Communication protocol|protocols  for computer networks. In this context, '''IEEE 802.1X''' helps secure such a network. It defines methods to authentication|authenticate devices and to Authorization for Use of Military Force Against Terrorists|authorise the access to certain resources. A dedicated server checks information received from a "supplicant". Depending on the result of the check, access to the given resource is granted or denied. 
+
+Other websites
+  IEEE standard can be retrieved at no charge through the        
+
+
+Category:Computers

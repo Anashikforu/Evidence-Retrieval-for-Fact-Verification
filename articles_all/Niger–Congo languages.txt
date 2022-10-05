@@ -1,0 +1,23 @@
+{{Infobox language family
+|name=Niger–Congo
+|altname=Niger–Kordofanian (obsolete)
+|region=Sub-Saharan Africa
+|familycolor=Niger-Congo
+|family=If valid, one of the world's primary language family|language families
+|child1=Dogon languages|Dogon(inclusion disputed)
+|child3=Mande languages|Mande (inclusion disputed)
+|child2=Ijoid languages|Ijoid (inclusion disputed)
+|child4=Katla languages|Katla (Kordofanian)(inclusion disputed)
+|child5=Rashad languages|Rashad (Kordofanian) (inclusion disputed)
+|child6=Atlantic–Congo languages|Atlantic–Congo (noun classes)
+|iso2=nic
+|map=Niger-Congo-en.svg
+|mapcaption=Map showing the distribution of Niger–Congo languages (yellow). The area is divided into B (Bantu) and A (rest) to show the extent of the Bantu subfamily.}}
+file:Niger-Congo map.png|thumb|Map showing the localization of Niger Congo subgroups and important single languages of that family
+file:Nigeria Benin Cameroon languages.png|thumb|Map of languages of Nigeria, Cameroon, and Benin,
+The '''Niger–Congo''' languages are a hypothetical language family. They are spoken in the southern half of Africa.  They may be world's largest language family in terms of number of languages.  Most of the most widely spoken languages of Subsaharan Africa belong to this group.  A common part of many Niger-Congo languages is the use of a noun class system. The most widely spoken Niger-Congo languages by native speakers are Yoruba language|Yoruba, Igbo language|Igbo, Fula language|Fula and Shona language|Shona. The most widely spoken by total number of speakers is Swahili language|Swahili.
+
+
+Image:Niger-Congo speakers.png|thumb|600px|Subgroups and important single languages of the Niger-Congo family of languages.
+
+Category:Niger-Congo languages| 

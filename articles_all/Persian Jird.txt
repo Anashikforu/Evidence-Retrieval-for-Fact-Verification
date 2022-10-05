@@ -1,0 +1,35 @@
+{{Taxobox
+| name = Persian jird
+| status = LR/lc | status_system = iucn2.3
+| image = Meriones persicus.jpg
+| image_width = 250px
+| image_caption = Persian jird, female, two and a half years old.
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Muridae
+| genus = ''Meriones (genus)|Meriones''
+| subgenus = ''Parameriones''
+| species = '''''M. persicus'''''
+| binomial = ''Meriones persicus''
+| binomial_authority = (William Thomas Blanford|Blanford, 1875)
+| synonyms = }}
+
+The '''Persian jird''' (''Meriones persicus'') is a species of rodent in the Muridae family. It is found in Afghanistan, Armenia, Azerbaijan, Iran, Iraq, Pakistan, Turkey, and Turkmenistan.
+
+The Persian jird is about 6&nbsp;inches long.  It has a brush-tipped tail that is slightly longer than the body.  They are wild brown with white bellies. 
+
+They live in dry rocky hillsides with little plant life and semi-desert areas.  The eat dry plant material and grains, and sometimes small insects.
+
+Persian jirds usually have two litters a year.  Each litter has around seven pups.
+
+Some people keep them as a pet.  They can live to be six or seven years old.  They need large cages that let them climb and leap.
+
+
+
+
+
+
+Category:Rodents
+Category:Mammals of Pakistan

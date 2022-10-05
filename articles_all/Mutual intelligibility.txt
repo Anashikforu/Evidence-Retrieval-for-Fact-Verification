@@ -1,0 +1,14 @@
+'''Mutual intelligibility''' is where the speakers of one language can understand another language because they are alike. This is sometimes (but not always) used to decide whether they are different Language|languages or different Dialect|dialects.
+
+There are noticeable differences in accent, vocabulary, and Orthography|spelling between British English|British and American English|General American English, but speakers can largely understand each other without serious problems.  These dialects are therefore '''mutually intelligible'''.
+
+Sometimes, even different languages can be mutually intelligible.Hindi and Urdu are called different languages, but speakers of both languages can largely understand each other if they are using everyday language. This is because the two languages used to be dialects of Hindustani language|Hindustani, the official language of British India until India became Independence|independent. Since the two languages are so alike, they are sometimes called together as Hindi-Urdu.
+
+Also, dialects of a certain language can sometimes be mutually unintelligible. Chinese, for example, has hundreds of different dialects, and many Native speaker|native speakers of those dialects cannot understand each other without knowing the other's dialect. For example, the local dialects of Beijing, Shanghai, and Hong Kong are Mandarin Chinese|Mandarin, Wu Chinese|Shanghainese/Wu Chinese, and Cantonese language|Cantonese/Yue in that same order. If natives from each of these cities were to talk to each other in their native dialects, they would not understand each other. This is because they are too different from each other. This is why the governments of China and Taiwan want their citizens to speak Standard Mandarin in public so that there can be a spoken dialect of Chinese everyone can understand. While the spoken dialects are mutually unintelligible, they all use the same written code, Chinese characters, so they can understand each other if they write to each other. 
+
+These examples above show that the difference between language and dialect is often hard to define, even for Linguistics|linguists, or people who study languages as their job.
+
+When a speaker of one language can understand what a speaker of another language is saying but not the other way around, it is called '''asymmetric intelligibility'''. An example of of this is Portuguese language|Portuguese and Spanish language|Spanish. While Portuguese speakers say they can understand Spanish without major problems, Spanish speakers, on the other hand, have a very difficult time understanding Portuguese speakers. This situation is actually quite common across languages.
+
+
+Category:Language

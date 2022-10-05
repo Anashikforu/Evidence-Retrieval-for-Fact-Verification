@@ -1,0 +1,24 @@
+
+
+{{Taxobox
+| color = khaki
+| name = ''Giardia lamblia''
+| image = Giardia lamblia SEM 8698 lores.jpg
+| image_width = 200px
+| image_caption = ''Giardia'' cell, SEM
+| domain = Eukaryota
+| phylum = Metamonada
+| ordo = Diplomonadida
+| familia = Hexamitidae
+| binomial = ''Giardia lamblia''}}
+
+
+'''''Giardia lamblia''''' (also known as  ''Lamblia intestinalis'' and ''Giardia duodenalis'') is a parasite that infects the gastrointestinal tract|intestines and causes '''giardiasis''' or 'beaver fever'. ''Giardia'' affects humans, cats, dogs and birds, cows, beavers, deer, and sheep.
+
+
+
+
+
+
+
+Category:Parasites

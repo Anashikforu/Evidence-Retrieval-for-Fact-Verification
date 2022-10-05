@@ -1,0 +1,19 @@
+
+
+The '''Chinese Wikipedia''' (In Chinese language|Chinese: ) is the Chinese language|Chinese-language edition of Wikipedia. This edition was started in October 24, 2002.  The Chinese Wikipedia can show the same article in many different Writing system|scripts, in both Simplified Chinese|Simplified and Traditional Chinese|Traditional script.
+
+It is the 15th largest edition by article count.
+
+As of August 8, 2020, it had 1,135,768 articles.:zh:Special:统计信息|Special:Statistics - Retrieved July 14, 2016
+
+ Basic information 
+
+= Name origin =
+
+In the English language, "Wikipedia" is a portmanteau word made by "Wiki" (A technology that allows many people working together) and "encyclopedia". At first, "Wikipedia" did not have a Chinese name. The site was called "Zhongwen Wikipedia" (中文Wikipedia, Chinese Wikipedia). On October 21, 2003, Wikipedia's Chinese name "Weiji Baike" (维基百科/維基百科, meaning Weiji Encyclopedia) was decided by the Chinese wiki community (13 people voted). The pronunciation of "Weiji" is like the pronunciation of "Wiki". "Wei" (wikt:维|维/維) means rope that can link things, or net. "Ji" (wikt:基|基) means basic, or base. So "Weiji Baike" means "the encyclopedia on the Internet that covers human's all basic knowledge".
+
+ Autoconfirmation 
+
+Unlike other Wikipedias, users who register an account on the Chinese Wikipedia need to make at least 50 edits and have an account for more than 7 days before being autoconfirmed, which allows the user to edit semi-protected pages.:zh:Wikipedia:自动确认用户|Information about being autoconfirmed on the Chinese Wikipedia - Retrieved January 2, 2010 
+
+Category:Websites established in 2002

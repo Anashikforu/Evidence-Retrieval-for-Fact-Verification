@@ -1,0 +1,16 @@
+{{Taxobox
+| name = Olive-spotted Hummingbird
+| status = LC | status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Bird|Aves
+| ordo = Trochiliformes
+| familia = Trochilidae
+| genus = ''Leucippus (bird)|Leucippus ''
+| species = '''''L. chlorocercus'''''
+| binomial = ''Leucippus chlorocercus''
+| binomial_authority = John Gould|Gould, 1866
+| synonyms = }}
+The '''olive-spotted hummingbird''' (''Leucippus chlorocercus'') is a species of hummingbird. It is found in Brazil, Colombia, Ecuador, and Peru. Its habitat is subtropical or tropical moist shrubland.
+
+Category:Hummingbirds

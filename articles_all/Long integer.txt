@@ -1,0 +1,7 @@
+A '''long integer''' is a single item of information|data that computers can store. It can only represent whole numbers.
+
+
+
+
+Category:Integers
+Category:Computers

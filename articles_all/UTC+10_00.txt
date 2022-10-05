@@ -1,0 +1,42 @@
+
+'''UTC+10:00''' means a time zone that is 10 hours ahead of Coordinated Universal Time or UTC. UTC is the standard time zone of the world. Timezones are often named by how many hours they are different from UTC time. For example, UTC -5 (United States east coast) is 5 hours behind UTC. 
+
+The '''UTC+10''' time zone covers the following the east coast of Australia, Papua New Guinea, Micronesia, Guam, the Northern Mariana Islands and parts of Russia. The map shows the time zone. There are differences with Daylight saving time:
+
+In Australia UTC+10 is called Australian Eastern Standard Time or AEST.
+
+ As standard time (all year round) 
+  (AEST - Australian Eastern Standard Time)
+ Queensland
+ Federated States of Micronesia
+ Chuuk, Yap and surrounding area
+ Papua New Guinea
+  (Chamorro Time Zone)
+  (territory)
+  (commonwealth)
+
+ Southern Hemisphere -  as standard time (winter) 
+  (AEST—Australia|Australian Eastern Standard Time)
+ Australian Capital Territory
+ New South Wales (except Broken Hill, New South Wales|Broken Hill and Lord Howe Island)
+ Tasmania
+ Victoria (Australia)|Victoria
+
+ Northern Hemisphere -  as standard time (winter) 
+  
+ Primorsky Krai   (including Vladivostok)
+ Sakhalin Island
+ Khabarovsk Krai
+ Sakha Republic (central portion)
+
+ Northern Hemisphere -  as daylight saving time 
+ 
+ Amur Oblast 
+ Chita Oblast 
+ Sakha Republic (western portion, incl. Yakutsk) 
+
+ Other websites 
+ 
+Category:UTC offsets
+
+es:Huso horario#UTC+10:00, K

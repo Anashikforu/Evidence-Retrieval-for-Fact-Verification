@@ -1,0 +1,16 @@
+Image:Sodium hydroxide.jpg|thumb|Sodium hydroxide pellets on a glass dish
+
+'''Sodium hydroxide''' is an alkali which is also known as caustic soda. Caustic means "burning" and caustic soda takes its name from the way it can burn the skin.  It has the chemical formula of NaOH.
+
+It is a base (chemistry)|base, meaning it has a high pH. It is the most common thing used to raise the pH of solutions; for example, to neutralization|neutralize an acid.
+
+As a solid, the alkali is deliquescence|deliquescent and readily absorbs moisture and carbon dioxide from the air. It solvation|dissolves easily in water, and makes the water warm when this happens. Sodium hydroxide is used as a solution called lye to make soap.  Lye is also used to unclog drains.  Its dissolving properties and its ability to easily break surface tension are fundamental for its uses. It works in two ways. First, it combines with grease to make soap. Second, it dissolves hair (which is soluble in any basic solution).
+
+ Making sodium hydroxide 
+Sodium hydroxide can be made (with chlorine and hydrogen) using the chloralkali process. A solution of sodium chloride is electrolysis|electrolyzed and sodium hydroxide is made around the cathode, where water is Redox|reduced to hydrogen gas and hydroxide ion. The hydrogen is released and the hydroxide bonds with the sodium to make sodium hydroxide. Special care is required to prepare a solution of sodium hydroxide or NaOH in water because considerable heat is liberated by the exothermic reaction. The solution may splatter or boil.
+
+:2Na+ (from salt) + 2H2O → 2NaOH + H2 at cathode
+:2 Cl- (from salt) → Cl2 at anode
+:
+
+Category:Sodium compounds

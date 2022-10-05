@@ -1,0 +1,42 @@
+
+| image_flag                  = Flag of Los Angeles County, California.svg
+| image_seal                  = Seal of Los Angeles County, California.svg
+| nickname                    = "L.A. County"
+| image_map                   = Map of California highlighting Los Angeles County.svg
+| mapsize                     = 210px
+| map_caption                 = Location of the county in California
+| image_map1                  = Map of USA CA.svg
+| mapsize1                    = 180px
+| map_caption1                = California's location in the contiguous United States
+
+| coordinates                 = 
+| subdivision_type            = List of sovereign states|Country
+| subdivision_name            = 
+| subdivision_type1           = U.S. state|State
+| subdivision_name1           = 
+----
+| subdivision_type2           = List of regions of California|Region
+| subdivision_name2           = Southern California
+| subdivision_type3           = Metro area
+| subdivision_name3           = Greater Los Angeles
+
+| established_title           = Formed
+| established_date            = February 18, 1850
+| named_for                   = The Los Angeles, California|Los Angeles, which was named for Queen of Heaven|Our Lady, Queen of the Angels
+
+| seat_type                   = County seat
+| seat                        = Los Angeles
+| seat1_type                  = Largest city
+| seat1                       = Los Angeles
+| parts_type                  = Incorporated cities
+| parts                       = 88
+
+| government_type         = Council–manager government|Council–manager
+| governing_body          = Los Angeles County Board of Supervisors|Board of Supervisors
+| leader_title            = Los Angeles County Board of Supervisors|Board of Supervisors
+| leader_name             = 
+
+Notes
+
+
+Category:Los Angeles County, California| 

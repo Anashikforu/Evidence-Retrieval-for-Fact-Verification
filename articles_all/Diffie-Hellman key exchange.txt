@@ -1,0 +1,34 @@
+
+The '''Diffie-Hellman key exchange''' (sometimes called an '''Exponential key exchange''') is a protocol used to secretly share information with keys.
+
+ Background 
+In 1976, Whitfield Diffie and Martin Hellman invented a way for people to encrypt data and send it over an open channel. The idea was based on a concept by Ralph Merkle.
+
+Diffie and Hellman wanted to make Secure Sockets Layer|Transport Layer Security (TLS), a secure way of computers communicating, more safe to perform. For example, while you can use a password to keep a file safe, if you need to tell the password to somebody there is a risk of the password being seen by Third party|third parties. Diffie-Hellman key agreement itself is an ''Anonymity|anonymous'' (non-Authentication|''authenticated'') key-agreement protocol: people involved in the trade do not need to prove who they are, but both people need to use their secret keys to fully decrypt the data. 
+
+Basic Example
+
+# Alice and Bob agree on a public number (''10''), which is not hidden.
+# Alice chooses a private number ('''''15'''''), which she keeps secret. She adds this to the public number (''10'' + '''''15''''' = 25) and sends 25 to Bob.
+# Bob does the same, choosing a secret private number ('''''30'''''). He adds it to the public number (''10'' + '''''30''''' = 40) and sends 40 to Alice.
+# With their results swapped, Alice and Bob now add their private numbers to what they receive:
+# Alice has Bob's 40. She adds her private number: 40 + '''''15''''' = '''55'''.
+# Bob has Alice's 25. He adds his private number: 25 + '''''30''''' = '''55'''.
+
+Alice and Bob both start at the same number (''10'') and both do half of a sum, which means they both get the same result without seeing what the other person added ('''''15''''' and '''''30'''''). This is useful in cryptography because Alice and Bob do not share their private numbers, which means a third party cannot spy on the result ('''55''') unless they can find both private numbers; even if a third party knows Alice sent ''10'' + '''''15''''' = 25, they don't know the result is '''55''' unless they also know Bob sent '''''30'''''.
+
+Since only Alice and Bob know their private numbers, this is a good way of sending secure information if the numbers are very big and the calculations are difficult. Since computers can use very complicated math to encrypt things, this stops people from trying a brute force attack to guess the numbers until it works. One example of how big calculations are made this way is the original version of Diffie-Hellman, which used both multiplicative group of integers modulo n and primitive root modulo n.
+
+Risks
+While very useful, Diffie-Hellman is at risk of a man-in-the-middle attack. Alice and Bob do not need to prove who they are to swap their information, which means there is a risk that Charlie can look at the information while it is being swapped, and can even pretend to be Alice or Bob to try and figure out their keys. One way this is avoided is to use authentication, where people perform extra steps to prove who they are.
+
+Related pages
+ Public-key cryptography
+ Diffie-Hellman problem
+ MQV
+ Station-to-Station protocol
+ Internet Key Exchange protocol
+ Key-agreement protocol
+ Password-authenticated key agreement
+
+Category:Cryptography

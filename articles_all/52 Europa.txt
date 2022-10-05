@@ -1,0 +1,34 @@
+
+{{Infobox Planet   | bgcolour=#FFFFC0 |
+name=52 Europa
+| discoverer=Hermann Mayer Salomon Goldschmidt|H. Goldschmidt
+| discovered=February 04, 1858
+| image=52Eur-LB1-richfield.jpg
+| caption=Europa as seen in 24 inch telescope
+| alt_names=1948 LA
+| mp_category=Asteroid belt|Main belt
+| epoch=November 26, 2005 (Julian day|JD 2453700.5)
+| semimajor=463.911 Giga|Gm (3.101 Astronomical unit|AU)
+| perihelion=416.621 Gm (2.785 AU)
+| aphelion=511.201 Gm (3.417 AU)
+| eccentricity=0.102
+| period=1994.629 day|d (5.46 Julian year (astronomy)|a)
+| inclination=7.466degree (angle)|°
+| asc_node=128.992°
+| arg_peri=343.553°
+| mean_anomaly=70.730°
+| avg_speed=16.87 km/second|s
+| dimensions=360×315×240 km| mass=5.2±1.8×1019 kg| density=3.6±1.2 g/cubic centimetre|cm³
+| surface_grav=~0.11 m/s²
+| escape_velocity=~0.20 km/s
+| rotation=0.2347 d | spectral_type=C-type asteroid
+| abs_magnitude=6.31
+| albedo=0.058 #IRAS|1
+| single_temperature=~173 kelvin|K''max:'' 258K (-15&nbsp;°C)'''52 Europa''' is an asteroid. It has a diameter of 289&nbsp;km, and was found on February 4, 1858 by Hermann Mayer Salomon Goldschmidt|H. Goldschmidt. It is named after Europa (mythology)|Europa, one of Zeus's conquests in Greek mythology. Europa is the seventh biggest asteroid by volume and the sixth biggest by mass (after Ceres (asteroid)|Ceres, Vesta (asteroid)|Vesta, Pallas (asteroid)|Pallas, Hygiea (asteroid)|Hygiea, and Interamnia (asteroid)|Interamnia) and contains somewhat less than 2% of the mass of the entire main belt.
+
+It is a very dark carbonaceous C-type asteroid|C-type, and the fourth-biggest of these. It orbits close to the Hygiea family|Hygiea asteroid family, but is not a member. Spectroscopic studies have found evidence of olivines and pyroxenes on the surface.
+
+Lightcurve data for Europa has been very hard to interpret, so much so for a long time its period of rotation was in dispute (5 and a half, or 11 hours?) despite many observations#Zappala83|8. It has now been determined that Europa is a prograde rotator, but the exact direction in which its pole points remains unclear. The most detailed analysis indicates that it points either towards about ecliptic coordinate system|ecliptic coordinates (β, λ) = (70°, 55°) or (40°, 255°) with a 10° uncertainty #Michalowski04|2. This gives an axial tilt of about 14° or 54°, respectively.
+
+It has been found that the star CV Aquarii found in 1934, was actually an incorrect misidentification of 52 Europa
+Category:Asteroids

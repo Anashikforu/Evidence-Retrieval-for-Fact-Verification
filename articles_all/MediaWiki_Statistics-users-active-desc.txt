@@ -1,0 +1,1 @@
+registered users with at least one edit or logged action in the past 

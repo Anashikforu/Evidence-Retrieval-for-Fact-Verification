@@ -1,0 +1,24 @@
+
+
+
+A '''plastid''' is a self-reproducing organelle of plants and algae. A '''plastome''' is the DNA genome of a plastid.King R.C. Stansfield W.D. & Mulligan P.K. 2006. ''A dictionary of genetics'', 7th ed. Oxford.p341 They are like tiny machines inside cells: each makes or stores important chemicals used by the plant. 
+
+Examples of plastids are: 
+ Chloroplasts: photosynthesis; other plastids may have developed from chloroplasts. Etioplasts are chloroplasts which have not been exposed to light.
+ Chromoplasts: pigment synthesis and storage. 
+ Leucoplasts: colourless, make terpenes such as resin. Sometimes they develop into more specialized types of plastid:
+ Amyloplasts: starch storage
+ Elaioplasts: fat storage.
+ Proteinoplasts: store & modify protein.
+ Statoliths: detect gravity.
+
+Plastids in algae
+Plastids in algae and hornworts  may differ from plant plastids. In algae, the term "leucoplast" is used for all unpigmented plastids and their function differs from the leucoplasts of plants. 
+
+Glaucocystophyte|Glaucocystophytic algae contain muroplasts, which are similar to chloroplasts except that they have a cell wall, similar to that of prokaryotes. Rhodophyte|Rhodophytic algae contain rhodoplasts, which are red chloroplasts which allow the algae to photosynthesise to a depth of up to 268 metres.Wise, Robert R. 2006. The diversity of plastid form and function". ''Advances in Photosynthesis and Respiration''. '''23''', 3–26. 
+ Genetics and evolution 
+Plastids are one of the many different types of organelles in the cell. In endosymbiont theory, plastids originated as cyanobacteria. This was first suggested by Mereschkowsky in 1905. 
+
+Almost all chloroplasts are thought to derive directly or indirectly from a single Endosymbiosis|endosymbiotic event.
+
+Category:DNA

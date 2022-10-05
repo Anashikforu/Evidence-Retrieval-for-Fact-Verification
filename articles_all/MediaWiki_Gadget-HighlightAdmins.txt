@@ -1,0 +1,1 @@
+''Highlight Administrators'': Highlights the link to the talk pages of Administrators to make them easier to locate.

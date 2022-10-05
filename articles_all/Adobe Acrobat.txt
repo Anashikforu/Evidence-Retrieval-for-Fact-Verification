@@ -1,0 +1,3 @@
+'''Adobe Acrobat''' is a family of software made by Adobe|Adobe Systems. Software in the family can read and display Portable Document Format (PDF) files. Acrobat software can convert PDFs to other formats, PDF to Microsoft Word or Microsoft Excel|Excel for example. It can also combine multiple file types into a single PDF file.
+
+Category:Adobe software

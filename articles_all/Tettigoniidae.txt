@@ -1,0 +1,28 @@
+{{Taxobox
+| name = Tettigoniidae
+| image = Tettigonia viridissima AB.jpg
+| image_caption = Great green bush-cricket(''Tettigonia viridissima'')
+| image_width = 220px
+| regnum = Animalia
+| phylum = Arthropoda
+| classis = Insecta
+| ordo = Orthoptera
+| subordo = Ensifera
+| superfamilia = '''Tettigonioidea'''
+| familia = '''Tettigoniidae'''}}
+
+The family (biology)|family '''Tettigoniidae''', known in American English as '''katydids''' and in British English as '''bush-crickets''', contains more than 6,400 species. It is part of the suborder Ensifera.
+
+They are also known as '''long-horned grasshoppers''', though they are more closely related to Cricket (insect)|crickets than to grasshoppers.
+Their antenna (biology)|antennae may be longer than their own body length, those of the grasshoppers are always relatively short.
+
+ Disguise 
+Katydids may disguise themselves brilliantly. Some look exactly like dead brown leaf|leaves, complete with holes, lying still on the forest floor of the rainforests of Asia and South America. Others act like green, living leaves fluttering from a branch. They even have vein-like markings like real leaves.
+
+
+
+
+
+Other websites
+ 
+Category:Orthoptera

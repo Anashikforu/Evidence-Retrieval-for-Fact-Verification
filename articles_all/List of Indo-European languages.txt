@@ -1,0 +1,88 @@
+'''List of Indo-European languages'''
+
+This list is of Indo-European languages. These languages all sprung from a common source called Proto-Indo-European.
+
+ '''Armenian language|Armenian''
+Albanian(Albania and Kosovo)'
+ '''Baltic languages'''
+ Lithuanian language
+
+ '''Celtic languages'''
+ Goidelic languages
+ Brythonic languages
+
+ '''Germanic languages'''
+ North Germanic languages
+ Danish language|Danish
+ Norweigian language|Norwegian
+ Swedish language|Swedish
+ West Germanic languages
+ Dutch language|Dutch
+ English language|English
+ German language|German
+ Yiddish
+ East Germanic languages
+ Gothic
+
+ Greek language|'''Greek'''
+
+ Italic languages
+ Latin language|Latin
+ '''Romance languages'''
+ French language|French
+ Italian language|Italian
+ Romanian language|Romanian
+ Spanish language|Spanish
+ Portuguese language|Portuguese
+
+ '''Indo-Iranian languages'''
+ Indo-Aryan languages
+ Gujarati language|Gujarati
+ Hindi
+ Bengali language|Bengali
+ Konkani language|Konkani
+ Marathi language|Marathi
+ Nepali language|Nepali
+ Punjabi language|Punjabi
+ Sanskrit
+ Sinhala language|Sinhala
+ Dhivehi
+ Iranian languages
+ Kurdish language|Kurdish
+ Persian language|Persian
+ Pashto language|Pashto
+ Zazaki language|Zazaki
+
+ '''Slavic languages'''
+ East Slavic languages
+ Ukrainian language|Ukrainian
+ Belarusian language|Belarusian
+ Russian language|Russian
+ West Slavic languages
+ Czech-Slovak languages
+ Czech language|Czech
+ Slovak language|Slovak
+ Pannonian Rusyn
+ Lechitic languages
+ Polish language|Polish
+ Pomeranian
+ + Kashubian language|Kashubian
+ + Slovincian language|Slovincian
+ Polabian language|Polabian
+ Sorbian languages|Sorbian
+ Upper Sorbian
+ Lower Sorbian
+ South Slavic languages
+ Eastern
+ Bulgarian language|Bulgarian
+ Macedonian language|Macedonian
+ Western
+ Bosnian language|Bosnian
+ Croatian language|Croatian
+ Slovene language|Slovenian
+ Serbian language|Serbian
+ Montenegrin language|Montenegrin
+
+
+Category:Indo-European languages|
+Category:Language-related lists

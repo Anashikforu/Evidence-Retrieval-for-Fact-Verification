@@ -1,0 +1,61 @@
+
+
+
+A '''flying disc''' is a flat round object with a thick rim.  The rim make the disc easier to grip and throw, and also keeps the disc from turning over as it flies.  Detailed throwing instructions are below, but the basic goal is to throw the disc while also making the disc spin. 
+
+Also mentioned below is a flying ring, made under the brand name Aerobie. Although these designs are very different, they both use air resistance in the same way to fly.
+
+Unlike the Aerobie, flying discs are used in both Ultimate (sport)|Ultimate Frisbee and Disc Golf.  The Frisbee brand of flying disc is rarely used in official competition in either game, which is why the team sport of Ultimate Frisbee is officially called simply "Ultimate." Still, as "Kleenex" was once a word used to mean "facial tissue," "Frisbee" is still broadly used as a synonym for a flying disc.
+
+ The Aerobie 
+
+The Aerobie Superdisk is an alternative design of flying disc that, although somewhat differently shaped, still has very similar properties to the conventional disc. It has less air resistance. Because there is less resistance to motion, the Aerobie discs can fly farther than the conventional disc. The Aerobie flying ring has minimal drag and holds the Aerobie#World Records|world record for the longest flight by a human-thrown projectile. However, due to the lack of a rim, the Aerobie is less suited to angled, curved flights and air-bouncing.
+
+ Spin of the disc 
+The spin of the disc helps to keep the disc stable in flight and prevent unplanned tilting. This is because a large angular momentum stabilises the disc in the same way that it keeps a gyroscope steady, with the angular force forcing the mass of the disc away from the centre of mass, perpendicular to the axis of rotation. Any unequal force acting on a particular area of the disc is quickly redirected to be equal over the circumference of the disc.
+As the disc spins faster, it becomes more stable due to the rapidity of the equalisation of forces.
+
+ Mass of the disc 
+The force required to accelerate the disc is directly proportional to the mass of the disc. This decreases the acceleration of the disc, assuming that the force of projection is constant. Therefore, discs come in a variety of weights, although those used for Ultimate (sport)|Ultimate are mainly 175 g in mass, heavier than the majority of discs and considerably heavier than an aerobie.
+
+Flying discs (including Frisbees) can be thrown in many ways. All involve spinning the disc to give it gyroscopic stability, and acceleration|accelerating its mass to a certain velocity. Without spin, a disc will wobble and fall; without velocity, the disc will not go anywhere. Using these two guidelines, any number of throws are possible. Most discs are designed to create lift (force)|lift when thrown with the flat side up.
+
+ Techniques 
+= Right-side up =
+Right-side up throws are all similar in that they react the same way to the tilt of the disc when it is released. A disc thrown right-side up will acceleration|accelerate in the direction of the low end of the disc. A disc tilted leading-edge up will lose speed at the end of the throw and make a gentle landing; if tilted sideways (known in aeronautics terms as roll), it can curve around objects.
+
+There is a language for describing throws that curve. Both descriptions are relative to the direction the person is facing and intends to throw. This axis is marked in ''red'' in the picture.
+
+ '''Inside-out (i-o) throws''' (''green'' paths) occur when the thrower releases the disc in such a way that it initially comes towards the throwing axis (''inside-''). However, the disc is tilted with the side closest to the body highest, which causes the disc to curve away from the thrower (''-out'').
+ '''Outside-in (o-i) throws''' (''blue'' paths, sometimes also called a ''bender'') follow the opposite path. The thrower releases the disc moving away from the throwing axis (''outside-''), but with the side of the disc closest to the body lowest. This tilt causes the disc to bend back towards the thrower (''-in'').
+
+ Backhand 
+This is probably the most commonly learned throw, and also one of the most powerful. 
+ '''Grip:''' Fingers are curled under the disc's rim, and the thumb is placed on top of the disc to hold it in place. The index finger may either be on the edge of the disc (to help aim), or four fingers may be tucked underneath the rim (to aid power).
+
+
+
+This table represents the fundamental disc throws with classic technique in the foreword form, in fact exist many variations of throws and grips that make the number of pitches quite infinite. 
+
+The ''natural path'' is the trajectory the disc takes without pre-release tilt.
+
+The ''hyzer path'' is the trajectory the disc takes when the outside edge of the disc is tilted downward.
+
+The ''anhyzer path'' is the trajectory the disc takes when the outside edge of the disc is tilted upward.
+
+The ''spin'' is the rotation of the disc.
+
+Every throw can be done with the right hand or the left hand and this is shown in the ''hand'' column.
+
+RH=right hand, LH=left hand, R=the path tends to the right of the thrower, L=the path tends to the left of the thrower, 0 means that the path is quite linear.
+
+So R with RH and L with LH are outside-in (OI) paths; R with LH and L with RH are inside-out (IO) paths.
+
+In ''spin'' column numbers represent the sign of the angular momentum relative to the upside of the disc (+1=positive (counter-clockwise rotation), -1=negative (clockwise rotation)).
+
+Throws may be signed as follows: hand acronym+throw acronym+tilt acronym. For example LHBHIO is an inside out backhand throw pitched with the left hand; RHFH0 is a linear forehand throw pitched with the right hand. To have linear paths the disc must be released with a light opposite tilt than his ''natural path''.
+
+ Other websites 
+      
+Category:Toys
+Category:Sports equipment

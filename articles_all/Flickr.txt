@@ -1,0 +1,11 @@
+
+'''Flickr''' is a photo sharing website and web services suite. It was founded by Stewart Butterfield and Caterina Fake in 2002.
+Users can upload any photo to their website. The user will then be asked to release the photo under many licenses available. Some licenses allow other people to reuse it, which makes it possible for Wikimedia Commons to transfer free files from Flickr to their website.
+
+Any person that has a Yahoo! ID can register their Flickr account in a few seconds.
+
+ Service 
+Flickr provides a free service for users to share their photos online with other people. However, free users have a limit of 300 Megabyte|MB of uploads per month, 15 MB per photo and 150 MB per video.
+ Tools 
+Flickr also has a set of tools for users to upload their photos from their desktops. However, they can only be used on Microsoft Windows|Windows and Apple Macintosh|Mac computers.
+Category:Social networking

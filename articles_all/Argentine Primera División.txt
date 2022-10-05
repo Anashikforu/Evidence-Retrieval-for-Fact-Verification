@@ -1,0 +1,22 @@
+{{Infobox football league
+|name=Primera División
+|logo=
+|country=Argentina
+|confed=CONMEBOL
+|founded=1891  (Turned professional in 1931)
+|level=1
+|divisions=
+|domest_cup=Copa Argentina
+|confed_cup=Copa LibertadoresCopa Sudamericana
+|champions= C.A. River Plate|River Plate
+|season=2021
+|most successful club=C.A. River Plate|River Plate (37)
+|tv partners=
+|website=
+|teams=26
+|relegation=Primera B Nacional
+|current=2021 Argentine Primera División|2021}}
+
+'''Primera División Argentina''' (English: "Argentine First Division") is a professional Association football|football Sports league|league in Argentina. It is the top division in the country, and has a promotion and relegation system. Relegated teams drop to the Primera B Nacional. 
+
+Category:20th-century establishments in Argentina

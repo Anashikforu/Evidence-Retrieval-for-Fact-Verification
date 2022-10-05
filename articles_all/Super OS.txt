@@ -1,0 +1,30 @@
+
+
+'''Super OS''' (formerly: Super Ubuntu containing various enhancements over Ubuntu (operating system)|Ubuntu. It has the goal of remaining compatible with Ubuntu.
+
+ Features 
+Includes an easy way to run executable files and scripts.
+Multimedia support: It is prepackaged with support for MP3 files and DVD-Video|video-DVDs.
+Internet codecs: It includes an additional web browser (Opera (web browser)|Opera), Adobe Flash Player, and more communication software (aMSN and Skype).
+Additional software: It also includes, Wine (software)|Wine, the GUI for Uncomplicated Firewall, and other software installed by default.
+
+Tools and software
+= App Runner =
+''App Runner''
+
+= Live USB =
+There is also a Windows tool called ''cd2usb'' to create Ubuntu (operating system)|Ubuntu and ''Super OS'' Live USBs. The program is already included in the DVD of ''Super OS''.
+
+=RUNZ Framework=
+The ''RUNZ Framework'' 
+
+Software repository
+In addition to the official Ubuntu repositories, Super OS also includes its own repositories,
+
+ Reception and adoption 
+''Super OS'' has been received mainly with positive reviews, with softpedia saying ''"it is a distribution with super powers … due to the inclusion of applications, tools and technologies that are missing from a standard Ubuntu"''.
+
+Related pages
+List of Linux distributions#Ubuntu-based|List of Ubuntu-based distributions
+
+Category:Live CD

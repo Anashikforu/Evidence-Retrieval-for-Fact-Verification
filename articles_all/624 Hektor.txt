@@ -1,0 +1,37 @@
+
+{{Infobox Planet   | bgcolour=#C2FFFF |
+ name=624 Hektor
+ | discoverer=August Kopff
+ | discovered=February 10, 1907
+ | alt_names=1907 XM; 1948 VD
+ | mp_category=Trojan asteroid
+ | epoch=October 22, 2004 (Julian day|JD 2453300.5)
+ | semimajor=781.183 Giga|Gmetre|m (5.222 Astronomical unit|AU)
+ | perihelion=762.145 Gm (5.095 AU)
+ | aphelion=800.220 Gm (5.349 AU)
+ | eccentricity=0.024
+ | period=4358.521 day|d (11.93 Julian year (astronomy)|a)
+ | inclination=18.198degree (angle)|°
+ | asc_node=342.791°
+ | arg_peri=183.579°
+ | mean_anomaly=94.752°
+ | avg_speed=13.03 km/second|s
+ | dimensions=370 × 195 km
+ | mass=~1.4×1019 kilogram|kg
+ | density=2 ? g/cubic centimetre|cm³
+ | surface_grav=~0.067 m/s²
+ | escape_velocity=~0.13 km/s
+ | rotation=0.2884 d (6.92 hour|h)
+ | spectral_type=D-type asteroid|D
+ | magnitude = 13.79  to 15.26
+ | abs_magnitude=7.49
+ | albedo=0.025&nbsp;(geometric albedo|geometric)&nbsp;
+ | angular_size = 0.078"  to 0.048"
+ | single_temperature=~122 kelvin|K}}
+'''624 Hektor''' is the biggest of the Jupiter (planet)|Jovian Trojan asteroids. It was found in 1907 by August Kopff.
+
+Hektor is a D-type asteroid, dark and reddish in colour. It lies in Jupiter's leading Lagrangian point, L4, called the 'List of Trojan asteroids (Greek camp)|Greek' node after one of the two sides in the legendary Trojan War. Ironically, Hektor is named after the Trojan hero Hektor, and is thus one of two Trojan asteroids that is "misplaced" in the wrong camp (the other being 617 Patroclus in the List of Trojan asteroids (Trojan camp)|Trojan node).
+
+Hektor is one of the most stretched bodies of its size in the solar system, being 370 × 200&nbsp;km. It is thought that Hektor might be a contact binary (asteroid)|contact binary (two asteroids joined by gravitational attraction) like 216 Kleopatra. Hubble Space Telescope sightings of Hektor in 1993 did not show an obvious stretched shape because of a limited angular resolution.  On July 17, 2006, the Keck telescopes|Keck-10m II telescope and its Laser guide star Adaptive Optics (AO) system indicated a stretched shape for Hektor. Additionally, since this AO system provides an excellent and stable correction (angular resolution of 0.060 Arcsecond|arcsec in K band), a 15-km moon at 1000&nbsp;km from Hektor was found. The moon's provisional designation is S/2006 (624) 1.  Hektor is, so far, the only known binary Trojan asteroid in the L4 point and the first Trojan with a moon. 617 Patroclus, another big Trojan asteroid in the L5, is made of two same-sized asteroids.
+
+Category:Trojan asteroids

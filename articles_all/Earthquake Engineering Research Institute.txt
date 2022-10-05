@@ -1,0 +1,9 @@
+'''Earthquake Engineering Research Institute''' or '''EERI''' is a technical society in spreading of earthquake engineering information both in the U.S. and globally.  EERI members include researchers, geologists, geotechnical engineers, educators, government officials, and building code regulators.  Their mission, as stated in their 5-year plan published in 2006, has the following three points:
+#Advancing the science and practice of earthquake engineering.
+#Improving understanding of the impact of earthquakes on the physical, social, economic, political, and cultural environment.
+#Advocating comprehensive and realistic measures for reducing the harmful effects of earthquakes.
+
+Related pages
+United States Geological Survey
+
+Category:Earthquake engineering

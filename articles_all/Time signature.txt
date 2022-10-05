@@ -1,0 +1,22 @@
+A '''time signature''' is a set of two numbers, one on top of the other one, written right after the key signature in a piece of music. The two numbers in a time signature tell you how many of one kind of note (music)|note there are in each bar (music)|measure in the song. For example, \frac 4 4 means that there are four beats in each measure and the quarter note gets one beat.
+
+ Finding out what certain time signatures mean 
+The number in the top of the time signature tells a player how many of a certain kind of note there are in each measure. The number in the bottom of the time signature tells what kind of note is used a certain number of times in each measure. The number on the bottom of the time signature can be any exponent of 2. So, 64  could be a number that is put in the bottom of the time signature, but 65 could not be one.
+
+
+This table shows different numbers that could be the bottom of a time signature, and what they mean. Note that each note down lasts for one-half of the amount the note above it lasted. For example, one quarter note lasts one beat, and one-half note lasts one half of a beat, because one divided by two is one-half.
+
+ Time signatures that are used very often 
+
+
+
+ Symbols that are used instead of time signatures 
+The letter '''C''' has been used instead of using \frac 4 4 time.
+The symbol "Image:Mensural proportion1.gif" is called "cut time" (''alla breve'') and has been used instead of using \frac 2 2 time, where every note is cut in half. So, in "cut time", a quarter note, which usually gets one beat, gets one-half of a beat.
+
+Related pages
+Key signature
+Note (music)
+Bar (music)
+
+Category:Music theory

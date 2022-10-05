@@ -1,0 +1,12 @@
+The  ('''CERO''') is a group that rates video games in Japan. It was established in 2002 by the Computer Entertainment Supplier's Association. It does not rate games for personal computers.
+
+Ratings
+A (all ages)
+B (ages 12 and up)
+C (ages 15 and up)
+D (ages 17 and up)
+Z (ages 18 and up only)
+
+
+
+Category:Video game ratings

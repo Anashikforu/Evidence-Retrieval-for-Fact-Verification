@@ -1,0 +1,92 @@
+File:Countries by Human Development Index category (2020).png|thumb|400x400px|World map by category of Human Development Index in 2019 (published in 2020).
+|upright=1.9|alt=World map
+The '''Human Development Index''' ('''HDI''') is a number from 0 to 1 (higher is better) used to wikt:compare|compare different country|countries. It is published by United Nations Development Programme. It is used to rank countries into different groups for example developed country|developed and developing country|developing countries.
+
+The Human Development Index uses different measurements of a population:
+ Life expectancy at birth. This is used to see how healthy the people in one country are. It wikt:assume|assumes that healthier people live longer on average.
+ Literacy is used to look at how education|educated people are, for example how many adults can read and write. One third of this is the ''gross enrollment ratio'', which measures how many of children of schooling age attend school.
+ Standard of living. This is measured by Calculation|calculating the gross domestic product with the total population so that it becomes comparable.
+
+ Criticism 
+
+The Human Development Index has been criticized on a number of grounds including alleged ideological biases towards egalitarianism and so-called "Western world|Western Economic system|models of development", failure to include any ecological considerations, lack of consideration of technological development or contributions to the human civilization, focusing exclusively on national performance and ranking, lack of attention to development from a global perspective, measurement error of the underlying statistics, and on the UNDP's changes in formula which can lead to severe misclassification in the categorisation of 'low', 'medium', 'high' or 'very high' human development countries.
+
+Economist|Economists Hendrik Wolff, Howard Chong and Maximilian Auffhammer think that very often, the data which is used to construct the statictics for the HDI is wrong.. According to them, there are three sources of error in the data:
+# An error occurred when updating the data
+# Formulas used to calculate the data were changed when the data was updated
+# Thresholds which classify a country's development status changed
+They found that 11 %, 21% and 34% of countries are currently misclassified in the development bins due to the three sources of data error. The authors suggest that the United Nations should stopthe practice of classifying countries into development bins because  the cut-off values seem arbitrary, can provide incentives for strategic behavior in reporting official statistics, and have the potential to misguide politicians, investors, charity donors and the public who use the HDI at large. In 2010 the UNDP reacted to the criticism and updated the thresholds to classify nations as low, medium, and high human development countries. In a comment to ''The Economist'' in early January 2011, the Human Development Report Office responded which discusses the Wolff ''et al.'' paper. The Human Development Report Office states that they undertook a systematic revision of the methods used for the calculation of the HDI and that the new methodology directly addresses the critique by Wolff ''et al.'' in that it generates a system for continuous updating of the human development categories whenever formula or data revisions take place.
+
+The HDI uses a weighted average for the different values. This means that it can be used - to some extent - to compare countries. It cannot be used to show the problems inside a country. Also the index only takes into accounrt people of 20 years or older. This leaves out problems such as infant mortality and children who do not reach that age. 
+
+Economist Bryan Kaplan points out another problem: Things needed in everyday life are underrepresented, education is overrepresented. Unless the whole population is made of students and pupils, it is not possible to reach the maximum score for the education parameter. At the moment, a Scandinavian country is at the top of the list. This means that the HDI measures "how Scandiavian" a country is. It would also mean that the country at the top of the list has no potential for improvement, which is certainly not the case.Bryan Caplan: ''
+ 2011 data 
+The 2011 Human Development Report was released on 2 November 2011. Below is the list of the "Very High Human Development" countries:
+Note: The green arrows () mean changes in rank when compared to the new 2011 data HDI for 2010 – published in the 2011 report (p.&nbsp;131).
+
+
+
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+ 1)
+ -1)
+)
+)
+
+
+
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+
+)
+)
+)
+)
+)
+)
+)
+ 1)
+ -1)
+)
+)
+)
+ 1)
+ -1)
+)
+
+
+
+Related pages
+ Constitutional economics
+ Political economy
+
+Category:Development

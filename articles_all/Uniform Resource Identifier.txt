@@ -1,0 +1,10 @@
+In computing, a '''Uniform Resource Identifier''' is something used to name something on the Internet. URIs are similar to URLs, because they are the name of something. 
+
+Examples of URIs include:
+
+  ftp://example.org/resource.txt
+International Standard Serial Number|issn1535-3613
+mailto:somebody@someplace.com
+
+
+Category:Internet

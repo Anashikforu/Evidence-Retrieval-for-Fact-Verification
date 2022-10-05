@@ -1,0 +1,25 @@
+{{infobox television |
+ | show_name = Future Boy Conan
+ | image = 
+ | caption = 
+ | format = Adventure, drama, Science fiction genre|science fiction, romance
+ | runtime = 24 minutes
+ | creator = Hayao Miyazaki
+ | developer = 
+ | executive_producer = 
+ | starring = Noriko Ohara
+ | country = Japan
+ | network = '''Japan|JP''': NHK, Animax'''Catalonia|CT''': TV3 (Catalonia)|TV3, Super 3'''Italy|IT''': Rete 4, Cultoon
+ | first_aired = April 4, 1978
+ | last_aired = October 31, 1978
+ | num_seasons = 1
+ | num_episodes = 26
+ | imdb_id = 0077013
+ | tv_com_id = 23916
+ |}}
+ (also known as '''''Conan, The Boy in Future''''') is an anime series made by Hayao Miyazaki based on the future. It's about a boy named Conan who is born on an island and meets a girl named Lana.
+
+
+
+
+Category:Anime

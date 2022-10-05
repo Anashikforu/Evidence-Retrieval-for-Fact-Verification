@@ -1,0 +1,24 @@
+
+'''B minor''' is a minor scale based on B.  The harmonic minor raises the A to A.  Its key signature has two sharps.
+
+Its relative key|relative major is D major, and its parallel key|parallel major is B major.
+
+
+In Baroque times, people thought that B minor was the key of wikt:passive|passive wikt:suffering|suffering.The chord was famously used as the first chord in Pink Floyd's 1979 hit "Comfortably Numb". The second movement of Joaquín Rodrigo|Rodrigo's Concierto de Aranjuez, one of the most famous compositions for the classical guitar, is in B minor.
+
+It is a common key used in rock, folk, country and other guitarist-based styles because a guitar is naturally tuned so that all the open strings are notes in B minor.
+
+ Well-known Classical pieces in this key 
+ ''Violin Concerto No. 3 (Saint-Saëns) - Camille Saint-Saëns
+ ''Mass in B minor - Johann Sebastian Bach
+ ''Piano Sonata (Liszt)|Piano Sonata in B minor - Franz Liszt
+ Piano Sonata No. 3 (Chopin)|Piano Sonata No. 3 in B Minor, Op. 58 - Frédéric Chopin
+ Waltz Opus 69 No. 2 in B Minor - Frédéric Chopin
+ Violin Concerto No. 2 (Paganini)|Violin Concerto No. 2 in B Minor (La Campanella) - Niccolò Paganini
+ Symphony No. 8 (Schubert)|Symphony No. 8 in B minor - Franz Schubert
+ Symphony No. 6 "Pathétique" (Tchaikovsky)|Symphony No. 6 in B Minor, Op. 74 (Pathétique) - Pyotr Ilyich Tchaikovsky
+ E lucevan le stelle from ''Tosca'' - Giacomo Puccini
+ Cello Concerto (Dvořák)|Cello Concerto in B minor - Antonín Dvořák
+ Concerto for 4 Violins and Cello, RV 580 (Concerto No. 10 from L'estro Armonico) - Antonio Vivaldi
+
+Category:Minor scales

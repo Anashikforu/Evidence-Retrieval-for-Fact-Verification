@@ -1,0 +1,18 @@
+
+| replaced = 
+| website = 
+| sat_serv_1 = Dish Network
+| sat_chan_1 = Channel 166 (HDTV|HD/SDTV|SD)
+| sat_serv_3 = DirecTV
+| sat_chan_3 = Channel 327 (HDTV|HD/SDTV|SD) Channel 1327 (Video on demand|VOD)
+| cable_serv_1 = Available on most cable systems
+| cable_chan_1 = Varies by cable provider
+| iptv_serv_1 = Verizon FiOS
+| iptv_chan_1 = Channel 221 (SD)Channel 721 (HD)
+| iptv_serv_2 = U-verse TV
+| iptv_chan_2 = Channel 525 (SD)Channel 1525 (HD)
+| online_chan_1 = DirecTV Stream, fuboTV, Philo (company)|Philo, Sling TV, YouTube TV, Vidgo TV
+}}
+'''CMT''' ('''Country Music Television''') is an American country music cable television channel. Some of the programs on the channel include country music music videos|videos, taped concerts, movies, biographies of country music stars, game shows, and reality television|reality programs.
+
+Category:1983 establishments in the United States

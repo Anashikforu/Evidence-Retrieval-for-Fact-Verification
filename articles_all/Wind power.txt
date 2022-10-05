@@ -1,0 +1,34 @@
+
+
+'''Wind power''' is the wikt:conversion|conversion of the energy in wind into a more useful form of energy, like electricity. It is a renewable source of energy that helps to cut down on the pollution of earth's air. 
+
+Wind power capacity has expanded quickly to 336 Gigawatt|GW in June 2014, and wind energy production was about 4% of total worldwide electricity usage, and growing fast. p. 5.
+
+How it works
+Wind power stations use the wind to turn a turbine which turns a magnet inside a coil (a type of generator). The wind has kinetic energy (movement energy) which is changed into mechanical energy by the blades on the turbine. The turbine then turns a generator which creates electrical energy (voltage). The turbine is usually connected by a gearbox to help control the speed it turns the generator.
+
+Advantages
+Wind power stations have the advantage over Fossil-fuel power station|fossil fuel power stations as they do not produce any greenhouse gases such as carbon dioxide or water vapour. They also do not produce gases that helps to make acid rain such as sulphur dioxide. They also make the environment safer and less pollution is caused.
+
+ Disadvantages  
+Image:Pylon ds.jpg|thumb|172px|A transmission tower
+Wind turbines have to be carefully placed. They must be in positions where there is a constant, steady supply of wind. In fact, the wind must not become too strong or it may damage the turbine. Because wind is uncontrollable, so is the amount of power that wind turbines will produce, making them a possibly unreliable source of energy.
+Some people also consider wind turbines to be ugly and unsightly. Also, huge numbers of electricity pylons ("transmission towers") are built on land to carry the electricity to the electric company. These pylons in Area of Outstanding Natural Beauty|areas of natural beauty are a major reason for local people to object to wind farms and their consequences.
+
+Related pages
+ List of large wind farms
+
+ Gallery
+
+File:Wind turbine at Nigg.jpg|REpower 5 MW wind turbine under construction at Nigg fabrication yard on the Cromarty Firth
+File:London Array 02.jpg|The London Array under construction in 2009
+Image:Wind power plants in Xinjiang, China.jpg|Wind farm in Xinjiang, China
+File:Scrobysands04.11.2005.a.jpg|Scroby Sands wind farm from Great Yarmouth
+File:Wind turbine blade transport I-35.jpg|A wind turbine blade on Interstate 35|I-35 near Elm Mott, Texas|Elm Mott, an increasingly common sight in Texas
+Image:EnerconE70-Magedeburg 2005-Steinkopfinsel01.jpg|Erection of an Enercon E70-4 in Germany
+
+
+
+
+
+Category:Wind energy| 

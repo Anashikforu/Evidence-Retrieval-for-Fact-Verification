@@ -1,0 +1,60 @@
+
+| type         = Public
+| owner-oper   = Capital Region Airport Authority
+| city-served  = Lansing, Michigan
+| hub          = 
+| location     = DeWitt Charter Township|DeWitt Township, Clinton County, Michigan|Clinton County, Michigan, 
+| elevation-f  = 861
+| elevation-m  = 262.4
+| coordinates  = 
+| website      = | metric-elev  =
+| metric-rwy   =
+| r1-number    = 10R/28L
+| r1-length-f  = 8,506
+| r1-length-m  = 2,593
+| r1-surface   = Asphalt
+| r2-number    = 10L/28R
+| r2-length-f  = 3,601
+| r2-length-m  = 1,098
+| r2-surface   = Asphalt
+| r3-number    = 6/24
+| r3-length-f  = 5,002
+| r3-length-m  = 1,525
+| r3-surface   = Asphalt/Concrete
+| stat-year    = 2014
+| stat1-header = Total passengers
+| stat1-data   = 376,790 &nbsp;10%
+| stat2-header = Total enplanements
+| stat2-data   = 190,257 &nbsp;10%
+| stat3-header = Total&nbsp;cargo&nbsp;(metric&nbsp;tons)
+| stat3-data   = 20,818 &nbsp;4%
+| stat4-header = Aircraft operations
+| stat4-data   = 31,895 &nbsp;0.3%
+| stat5-header = Based aircraft
+| stat5-data   = 82 &nbsp;4%
+| footnotes    = Sources: Federal Aviation Administration|FAA,}}
+
+'''Capital Region International Airport''' , is a public airport in DeWitt Charter Township|DeWitt Township, Clinton County (Michigan)|Clinton County, Michigan.  The airport is northwest of Lansing, Michigan.  The airport has three runways and is 2160 acres (874.12 ha) in size.  The airport is owned and operated by the Capital Region Airport Authority.
+
+History
+The airport opened in July 1928.
+
+Airlines and destinations
+Delta Air Lines, Sun Country Airlines, and United Airlines are passenger airlines that serve Capital Region International Airport.  UPS Airlines is a cargo airline that serves the airport.
+
+The airport has domestic passenger flights to Atlanta, Chicago, Detroit, Minneapolis, and Washington, D.C.  The airport has seasonal international passenger flights to Cancún, Quintana Roo |Cancún, Mexico and Puerto Vallarta, Jalisco |Puerto Vallarta, Mexico.Sun Country Airlines. 
+A total of 376,790 passengers flew to and from Capital Region International Airport in 2014. Another 418,850 passengers flew in 2013.  Earlier, 656,703 passengers flew in 2000.  45,896,074 Pound (mass)|pounds (20,818,109&nbsp;kg) of cargo flew to and from the airport in 2014.  64,844,276 pounds (29,412,869&nbsp;kg) of cargo flew in 2000.
+Image:LAN Airline Route Map-2013 Feb-updated 2012 Aug.png |thumb|right|210px |Destinations with non-stop service from Lansing (as of February 2013)
+
+Photos
+
+Image:Lansing_Capital_Region_International_Airport_Terminal_Parking_Lot.jpg|Airport terminal and parking lot
+Image:Lansing Capital Region International Airport Terminal Drive 1.jpg|Front of airport terminal
+Image:Capital Region International Airport UPS Boeing 767-300 Cargo.jpg|UPS Airlines Boeing 767 cargo airplane
+Image:Capital Region International Airport USGS 08-Mar-2010.png|Aerial photograph ofthe airport 
+
+Related pages
+
+ Lansing, Michigan
+
+Category:20th-century establishments in Michigan

@@ -1,0 +1,28 @@
+The '''hexadecimal numeral system''', often shortened to '''"hex"''', is a numeral system made up of 16 symbols (base (mathematics)|base 16).  The standard numeral system is called decimal numeral system|decimal (base 10) and uses ten symbols: 0,1,2,3,4,5,6,7,8,9.  Hexadecimal uses the decimal numbers and six extra symbols. There are no numerical symbols that represent values greater than nine, so letters taken from the Roman alphabet|English alphabet are used, specifically A, B, C, D, E and F.  Hexadecimal A = decimal 10, and hexadecimal F = decimal 15. 
+
+Humans mostly use the decimal (base 10) system where each digit can have one of ten values between zero and ten.  This is probably because humans have ten fingers on their hands. Computers generally represent numbers in binary (base 2).  In binary, each "binary digit" is called a bit and can only have one of two values: one or zero.   Since a single bit's two possible values represents one fifth the information potentially conveyed by of decimal digit's ten possible values, binary representations of integer values can require many more (binary) bits than decimal digits.   
+
+For example, the three digit decimal value 219 requires eight bits to be represented in binary (11011011).  Humans find reading, remembering, and typing long strings of bits inconvenient. Hexadecimal allows groups of four bits to be more conveniently represented by a single "hex" digit, so the eight bit binary value 11011011 only requires two hexadecimal digits "DB." 
+
+Computer memory is organized as an array of strings of bits called bytes.   On modern computers, each byte generally contains eight bits, which can be conveniently be represented as two hexadecimal digits.   Engineers and computer scientists frequently refer to each of these four-bit values as a nibble (sometimes spelled nybble, see computer jargon).
+
+To avoid confusion with decimal, octal or other numbering systems, hexadecimal numbers are sometimes written with a "h" after or "0x" before the number. For example, 63h and 0x63 mean 63 hexadecimal. 
+
+ History 
+Unlike modern computers, many early computers had six-bit bytes.   Programmers of those systems typically used an alternate bit grouping scheme called octal numeral system|octal.  Each octal digit efficiently represents three bits, and a six-bit byte can be represented as two octal digits.  Three bits, each being on or off, can represent the eight numbers from 0 to 7: 000 = 0; 001 = 1; 010 = 2; 011 = 3; 100 = 4; 101 = 5; 110 = 6 and 111 = 7.
+
+ Hexadecimal values 
+Hexadecimal is similar to the octal numeral system (base 8) because each can be easily compared to the binary numeral system. Hexadecimal uses a four-bit binary coding. This means that each digit in hexadecimal is the same as four digits in binary. Octal uses a three-bit binary system.  
+
+In the decimal system, the first digit is the ''one's'' place, the next digit to the left is the ''ten's'' place, the next is the ''hundred's'' place, etc.  In hexadecimal, each digit can be 16 values, not 10.  This means the digits have the ''one's'' place, the ''sixteen's'' place, and the next one is the ''256's'' place. So 1h = 1 decimal, 10h = 16 decimal, and 100h = 256 in decimal.
+
+Example values of hexadecimal numbers converted into binary, octal and decimal.
+
+
+
+Related pages
+Binary numeral system
+Octal numeral system
+Decimal numeral system
+
+Category:Numbering systems

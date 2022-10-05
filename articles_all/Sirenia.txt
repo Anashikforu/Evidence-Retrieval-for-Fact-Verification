@@ -1,0 +1,15 @@
+:''For information about the Gothic metal band, see Sirenia (band)''
+
+
+'''Sirenia''' is an order of herbivorous mammals. In this order are the dugong and three species of manatee.
+
+ Taxonomy 
+ Order '''Sirenia'''
+ Family '''Dugongidae'''
+ Dugong, ''Dugong dugon''
+ extinction|†Steller's sea cow, ''Hydrodamlis gigas''
+ Family '''Manatee|Trichechidae'''
+ West Indian manatee, ''Trichechus manatus''
+ African manatee, ''Trichechus senegalensis''
+ Amazonian manatee, ''Trichechus inunguis''
+

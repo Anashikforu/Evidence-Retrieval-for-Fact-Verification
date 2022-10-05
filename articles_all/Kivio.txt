@@ -1,0 +1,16 @@
+
+
+In computing, '''Kivio''' is a free diagramming software that is part of KOffice, an office suite for KDE.
+
+ Description 
+Kivio is a flowcharting and diagramming computer program|program for the KOffice office suite, and has a user interface that looks like Microsoft Visio.
+
+Features:
+Scriptable stencils using Python (programming language)|Python. 
+Support for Dia (software)|Dia wikt:stencil|stencils.
+Plugin framework for adding more functions.
+
+ Other websites 
+
+Category:KOffice
+Category:Diagramming software

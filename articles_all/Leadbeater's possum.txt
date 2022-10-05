@@ -1,0 +1,23 @@
+{{Taxobox
+| name = Leadbeater's possum 
+| image = Leadbeater's_Possum_02_Pengo.jpg
+| image_caption = Taxidermy specimen
+| status = EN
+| trend = down
+| status_system = iucn3.1
+| status_ref =  Database entry tells why this species is listed as endangered
+| regnum = Animalia
+| classis = Mammalia
+| infraclassis = Marsupialia
+| ordo = Diprotodontia
+| familia = Petauridae
+| binomial = ''Gymnobelideus leadbeateri''
+| range_map = Leadbeater's Possum area.png}}
+
+'''Leadbeater's possum''' (''Gymnobelideus leadbeateri'') is an endangered species of Australian possum. They need food all year round, and trees with holes where they can hide during the day. They live in mixed-age wet sclerophyll forest with plenty of ''Acacia''.
+
+The possum was once thought to be extinct. It now lives only in small areas of old and mixed age Eucalyptus regnans|mountain ash forest in the central highlands of Victoria, Australia|Victoria, north-east of Melbourne. 
+
+These trees are a species of ''Eucalyptus'': they give off vapour which catches fire easily. About half this area was burnt in the disastrous Black Saturday bushfire in 2009. Large areas of the forest around Marysville, Victoria|Marysville, Narbethong, Victoria|Narbethong and Healesville, Victoria|Healesville were destroyed.  
+
+Category:Victoria, Australia

@@ -1,0 +1,28 @@
+{{Infobox Top level domain
+| name          = .sg
+| background    = #CCF
+| image         =
+| introduced    = 1988
+| type          = Country code top-level domain
+| status        = Active
+| registry      = Singapore Network Information Centre|SGNIC
+| sponsor       = Singapore Network Information Centre|SGNIC
+| intendeduse   = Entities connected with Singapore
+| actualuse     = Popular in Singapore
+| restrictions  = Singapore presence required; third-level names have various restrictions depending on which second level label they are under
+| structure     = Registrations are taken at the third level beneath generic categories, or directly at the second level; special .idn.sg category exists for internationalized domain names
+| document      = | disputepolicy = 
+| website       = |registereddomains= 190,026 |refregistereddomains=
+'''.sg''' is the country top level domain for Singapore (ccTLD). It started in 1988. It is  managed by the Singapore Network Information Centre (SGNIC). It is only for residents of Singapore. However, there are some second-level domains that have more rules when registering.
+
+ Second-level domains 
+ .com.sg - For commercial use.
+ .net.sg - Network providers.
+ .org.sg - Registered organisations of Singapore.
+ .gov.sg - Government agencies.
+ .edu.sg - Schools and education institutions.
+ .per.sg - For personal use only.
+ .idn.sg - For domain names with Chinese and Indian words in them.
+
+ Other websites 
+  

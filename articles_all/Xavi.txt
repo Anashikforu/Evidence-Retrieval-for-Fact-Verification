@@ -1,0 +1,64 @@
+{{Football player infobox
+|playername=Xavi
+|image=Xavi_Hernandez_(18090182763).jpg
+|image_size=200px
+|fullname=Xavier Hernández Creus
+|birth_date=
+|birth_place=Terrassa, Spain
+|death_date=
+|height=
+|position=Midfielder
+|currentclub=F.C. Barcelona (manager)
+|clubnumber=
+|youthyears1=
+|youthclubs1=
+|years1=1998-2015
+|clubs1=F.C. Barcelona|Barcelona
+|years2=2015-
+|clubs2=Al-Sadd S.C.|Al-Sadd
+|nationalyears1=2000-2014
+|nationalteam1=Spain national football team|Spain
+|manageryears1= 2019–2021
+|managerclubs1= Al-Sadd S.C.|Al-Sadd
+|manageryears2 = 2021–
+|managerclubs2 = F.C. Barcelona|Barcelona}}
+
+
+'''Xavier Hernández Creus''' (born 25 January 1980), known as '''Xavi''', is a Spain|Spanish manager and former footballer. He is currently the manager of FC Barcelona in La Liga.
+
+Xavi was known as one of the best midfielders of the world and as one of the best Spanish players of all time.
+
+ Club career statistics 
+
+
+
+ International career statistics 
+
+
+|-
+|2000||1||0
+|-
+|2001||1||0
+|-
+|2002||8||0
+|-
+|2003||5||0
+|-
+|2004||6||0
+|-
+|2005||11||1
+|-
+|2006||10||2
+|-
+|2007||11||2
+|-
+|2008||15||3
+|-
+|2009||14||0
+|-
+|2010||||
+|-
+!Total||82||8
+|}
+
+Category:Spanish footballers

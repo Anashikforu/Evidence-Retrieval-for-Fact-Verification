@@ -1,0 +1,13 @@
+The '''Bayer designation''' for stars uses :en:Greek_alphabet|Greek letters to assign names to stars. For example:
+
+α Canis Major(constellation)|Canis Majoris
+θ Orion (constellation)|Orionis
+ζ Reticulum|Reticuli
+
+It usually starts with the letter alpha (α) assigned to the brightest star in the constellation, then going down the :en:Greek_alphabet|Greek alphabet to assign letters for other stars (beta, gamma, delta, etc.) in order of decreasing brightness.
+
+
+
+
+
+Category:Astronomical catalogues

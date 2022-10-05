@@ -1,0 +1,15 @@
+
+The '''XOR gate''' ('''Exclusive OR''') is a logic gate that outputs 1 (true) when exactly one of its inputs is 1 (true). That means that if both of its inputs are the same, the output will be 0 (false). The XOR gate does what is called an exclusive disjunction in logic.
+
+ Symbols 
+There are three symbols for the XOR gate:
+
+
+
+
+
+
+
+Category:Logic gates
+
+sv:Disjunktion (logik)#OR-grind och XOR-grind

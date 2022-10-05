@@ -1,0 +1,4 @@
+In nuclear physics, '''beta decay''' is a type of radioactive decay where a beta particle (an electron or a positron) is made and sent away, or emitted. When it is an electron, it is called ''beta minus'', and changes a neutron into a proton. When it is a positron, it is ''beta plus'' and changes a proton into a neutron. The weak force makes Beta decay possible.
+
+
+Category:Nuclear physics

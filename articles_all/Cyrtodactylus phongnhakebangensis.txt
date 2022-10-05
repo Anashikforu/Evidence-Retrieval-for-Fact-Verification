@@ -1,0 +1,16 @@
+{{Taxobox
+| name = ''Cyrtodactylus phongnhakebangensis''
+| image = Cyrtodactylus phongnhakebangensis.jpg
+| image_caption = Cyrtodactylus phongnhakebangensis in Phong Nha-Ke Bang National Park
+| regnum = Animalia
+| phylum = Vertebrate
+| classis = Reptilia
+| ordo = Squamata
+| subordo = Lacertilia
+| familia = Gekkonidae
+| genus = ''Cyrtodactylus''
+| binomial = ''Cyrtodactylus phongnhakebangensis ''}}
+
+'''''Cyrtodactylus phongnhakebangensis''''' (Vietnamese: ''Thằn lằn Phong Nha-Kẻ Bàng'') is a type of gecko native to Phong Nha-Ke Bang National Park, Quang Binh province, Bac Trung Bo, Vietnam. It was found and described in 2002.
+
+Category:Quang Binh Province

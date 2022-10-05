@@ -1,0 +1,32 @@
+{{Infobox DMU  
+ |name = British Rail Class 129   
+ |image =    Fully scotched, but Cravens trailer E56456 is moving along nicely. - panoramio.jpg
+ |imagesize = 240px   
+ |background = #0033cc   
+ |caption =    
+ |Manufacturer =  Cravens
+ |Family = Parcels (train)|Parcels
+ |Operator = British Rail   
+ |Formation =     
+ |Built = 3
+ |LinesServed =    
+ |InService = 1955-   
+ |CarLength =  57 ft 6 in 
+ |CarWidth =   9 ft 3 in 
+ |CarHeight = 12 ft 9 in   
+ |Weight =  30 tons  
+ |Capacity =    
+ |MaxSpeed = 70 mph (112 km/h)  
+ |Gauge =    
+ |Traction =    
+ |Engine =   
+ |SafetySystem=   
+ |}} 
+
+The '''Class 129''' was a class of single-car Diesel Multiple Unit built in 1955 for British Rail. Only three were built by Cravens and were introduced in 1958. The class was built for parcels traffic like the British Rail Class 128|Class 128. One unit (55997) survived into departmental service being named 'Hydra'. The driving ends of a Class 129 car bore a visible similarity to that of the British Rail Class 105.
+
+
+
+
+
+Category:British Rail diesel multiple units|129

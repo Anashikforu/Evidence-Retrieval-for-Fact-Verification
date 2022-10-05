@@ -1,0 +1,47 @@
+
+
+'''Language families''' are groups of languages that are related to each other because they come from a common older language. The languages in such a family are similar in their vocabulary or structure.
+
+For example, French language|French and Spanish language|Spanish both come from Latin language|Latin. Latin was spoken a long time ago, and some of the people who spoke it started to speak different ways - for the word "good", one group started saying "bueno" while another group started saying "bon". Most words are said a little differently in Spanish language|Spanish and French language|French, so the two are called different languages.
+
+Most languages belong to a language family, but some languages do not. These languages are called language isolates.
+
+There also are constructed languages, such as Esperanto. Constructed languages are made for different reasons: making a 'world language', for fun, for use in fiction, etc.
+
+Major language families
+=By number of languages=
+''Ethnologue'' 22 (2019) lists these language families as "major". Each has at least 1% of all languages on Earth:
+
+#Niger-Congo languages|Niger–Congo (1,542 languages) (21.7%)
+#Austronesian languages|Austronesian (1,257 languages) (17.7%)
+#Trans–New Guinea languages|Trans–New Guinea (482 languages) (6.8%)
+#Sino-Tibetan languages|Sino-Tibetan (455 languages) (6.4%)
+#Indo-European languages|Indo-European (448 languages) (6.3%)
+#Australian Aboriginal languages|Australian ''dubious'' (381 languages) (5.4%)
+#Afro-Asiatic languages|Afro-Asiatic (377 languages) (5.3%)
+#Nilo-Saharan languages|Nilo-Saharan ''dubious'' (206 languages) (2.9%)
+#Oto-Manguean languages|Oto-Manguean (178 languages) (2.5%)
+#Austroasiatic languages|Austroasiatic (167 languages) (2.3%)
+#Kra-Dai languages|Tai–Kadai (91 languages) (1.3%)
+#Dravidian languages|Dravidian (86 languages) (1.2%)
+#Tupian languages|Tupian (76 languages) (1.1%)
+
+''Glottolog'' 4.0 (2019) lists the following as the largest families, of 8494 languages:
+
+# Atlantic–Congo languages|Atlantic–Congo (1,432 languages) 
+# Austronesian languages|Austronesian (1,275 languages) 
+# Indo-European languages|Indo-European (588 languages) 
+# Sino-Tibetan languages|Sino-Tibetan (494 languages)
+# Afro-Asiatic languages|Afro-Asiatic (373 languages)
+# Nuclear Trans–New Guinea languages|Trans–New Guinea (314 languages) 
+# Pama-Nyungan languages|Pama–Nyungan (248 languages)
+# Oto-Manguean languages|Oto-Manguean (180 languages)
+# Austroasiatic languages|Austroasiatic (159 languages)
+# Tai-Kadai languages|Tai–Kadai (94 languages)
+# Dravidian languages|Dravidian (81 languages)
+# Arawakan languages|Arawakan (78 languages)
+# Mande languages|Mande (75 languages)
+# Tupian languages|Tupian (71 languages)
+
+Category:Languages| 
+Category:Language-related lists

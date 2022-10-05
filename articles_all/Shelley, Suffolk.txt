@@ -1,0 +1,21 @@
+{{Infobox UK place 
+| official_name=         Shelley
+| country=               England
+| region=                East of England
+| os_grid_reference=     
+| latitude=              52
+| longitude=             0.95
+| post_town=             
+| postcode_area=         
+| postcode_district=     
+| dial_code=             
+| shire_county=          Suffolk
+| shire_district=        Babergh
+| hide_services=         Yes
+|static_image = All Saints Church, Shelley - geograph.org.uk - 1265626.jpg
+|static_image_caption= All Saints Church, Shelley
+| population = 50
+| population_ref = (2005) }}
+'''Shelley''' is a village and civil parish in the Babergh district, in the county of Suffolk, England. Shelley has a church called All Saints.
+
+Category:Villages in Suffolk

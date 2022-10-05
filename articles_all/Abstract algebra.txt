@@ -1,0 +1,31 @@
+'''Abstract algebra''' is a part of mathematics|math which studies algebraic structures. These include:
+ group (mathematics)|groups
+ ring (mathematics)|rings 
+ Field (mathematics)|fields 
+ Matrix (mathematics)|matrix
+ vector spaces 
+ Algebraic structure|algebras
+ Boolean algebra
+It is normal to build a theory on one kind of structure, like group theory or category theory. 
+
+The purpose of the theory of each concept is to organize the precise definition of the concept, examples of it, its substructures, the ways to relate different examples of the concept algebraically (these are called morphisms in some cases), and the concept's applications, both inside its own theory and outside in other areas of mathematics.
+
+During history, different fields of mathematics have used algebras. Algebras are about finding or specifying rules on how to calculate with certain mathematical formulas and expressions. Another algebra (which is not ''abstract'') is elementary algebra, for example. 
+
+ Examples 
+ Solving equations with many variables. This leads to Matrix (mathematics)|matrices, determinants and linear algebra.
+ Finding formulas for polynomial equations. This led to the discovery of groups, as an expression of symmetry. 
+ Quadratic and higher-degree equations and Diophantine equations - especially when Fermat's last theorem was proof|proved led to the definition of rings, and ideal (mathematics)|ideals.
+Sources
+ Allenby, R. B. J. T. (1991), Rings, Fields and Groups, Butterworth-Heinemann, ISBN 978-0-340-54440-2
+ Artin, Michael (1991), Algebra, Prentice Hall, ISBN 978-0-89871-510-1
+ Burris, Stanley N.; Sankappanavar, H. P. (1999) 1981, A Course in Universal Algebra
+ Gilbert, Jimmie; Gilbert, Linda (2005), Elements of Modern Algebra, Thomson Brooks/Cole, ISBN 978-0-534-40264-8
+ Lang, Serge (2002), Algebra, Graduate Texts in Mathematics, 211 (Revised third ed.), New York: Springer-Verlag, ISBN 978-0-387-95385-4, MR 1878556
+ Sethuraman, B. A. (1996), Rings, Fields, Vector Spaces, and Group Theory: An Introduction to Abstract Algebra via Geometric Constructibility, Berlin, New York: Springer-Verlag, ISBN 978-0-387-94848-5
+ Whitehead, C. (2002), Guide to Abstract Algebra (2nd ed.), Houndmills: Palgrave, ISBN 978-0-333-79447-0
+W. Keith Nicholson (2012) Introduction to Abstract Algebra, 4th edition, John Wiley & Sons ISBN 978-1-118-13535-8 .
+ John R. Durbin (1992) Modern Algebra : an introduction, John Wiley & Sons
+
+
+Category:Algebra

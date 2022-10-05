@@ -1,0 +1,33 @@
+{{Infobox London station
+| name = Bank & Monument 
+| image_name = Bankwbankofengland.jpg
+| caption    = Bank 
+| manager = London Underground 
+| fare_zone = 1 
+| locale = King William Street (London)|King William Street 
+| borough = City of London 
+| years1=18841898190019001991 
+| events1= Opened (#Metropolitan Inner Circle Completion Railway, 1884|MICCR)Opened (#Waterloo & City Railway, 1898|W&CR)Opened (#City & South London Railway, 1900|C&SLR)Opened (#Central London Railway, 1900|CLR)Opened (#Docklands Light Railway, 1991|DLR) 
+| platforms= 10 
+| tubeexits05= 34.295 
+| tubeexits06= 38.209 
+| tubeexits07= 41.883 
+|tubeexits08= 42.82}}
+'''Bank''' and '''Monument''' are interlinked stations, officially one station known operationally as the "Bank-Monument complex". However, separate names are used on station entrances, platforms and the tube map. The complex spans the length of King William Street (London)|King William Street in the City of London. Together they form the eighth busiest station on the network, being served by five London Underground lines and the Docklands Light Railway (DLR). 
+The two parts of the combined station take their names from the nearby Bank of England and the Monument to the Great Fire of London. The complex is in Travelcard Zone 1.
+
+ Bus connections 
+London Buses routes  8, 11, 21, 23, 25, 26, 40, 43, 76, 133, 141, 242 and 388 and night bus routes N8, N11, N21, N26, N76, N133, N550 and N551 serve the station.
+
+ Gallery 
+
+Image:Monument station look clockwise.JPG|Circle & District Line platforms at Monument looking west
+Image:Bank station Northern northbound look south.jpg|Northbound Northern Line platform at Bank 
+Image:bank.tube.station.arp.750pix.jpg|Docklands Light Railway platform at Bank 
+Image:Bank station Central roundel.JPG|Roundel on Bank Central line eastbound platform
+
+
+ Related pages 
+ List of London Underground stations
+
+Category:Docklands Light Railway stations

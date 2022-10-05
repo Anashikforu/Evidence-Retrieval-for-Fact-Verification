@@ -1,0 +1,34 @@
+{{Taxobox
+| name = Red deer 
+| status = LC
+| status_system = iucn3.1
+| image=Cervus elaphus Luc Viatour 5.jpg
+| image_width=250px
+| image_caption=Male (stag)
+| image2=Zoo-Dortmund-IMG 5549-a.jpg
+| image2_width=250px
+| image2_caption=Female (hind)
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Artiodactyla
+| subordo = Ruminantia
+| familia = Cervidae
+| subfamilia = Cervinae
+| genus = ''Cervus''
+| range_map=Range Map Cervus elaphus.png
+| range_map_width=250px
+| range_map_caption=Range of ''Cervus elaphus''
+| binomial = ''Cervus elaphus''
+| binomial_authority = Carolus Linnaeus|Linnaeus, 1758}}
+
+The '''red deer''' (''Cervus elaphus'') is one of the largest deer species. The red deer lives in most of Europe, the Caucasus Mountains region, Asia Minor and parts of western and central Asia, in Kashmir as the state animal. They can also be found in the Atlas Mountains region between Algeria and Tunisia in northwestern Africa. They are the only species of deer in Africa. Red deer have been introduced to other areas including Australia, New Zealand and Argentina. In many parts of the world the meat (venison) from red deer is widely used as a food source.
+
+
+
+
+
+
+
+Category:Deer
+Category:Mammals of Asia
+Category:Mammals of Europe

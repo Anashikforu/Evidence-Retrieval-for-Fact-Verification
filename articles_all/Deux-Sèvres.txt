@@ -1,0 +1,143 @@
+
+'''Deux-Sèvres''' is a departments of France|department in western France, in the Nouvelle-Aquitaine Regions of France|region.
+
+''Deux-Sèvres'' means literally "Two Sèvres": the Sèvre Nantaise and the Sèvre Niortaise; these are two rivers which flow through the department.
+
+History
+Deux-Sèvres is one of the 83 French departments made during the French revolution, on 4 March 1790.
+
+The new department had six districts: Melle, Niort, Saint-Maixent, Parthenay, Thouars and Châtillon (today Mauléon). The Capital city|capital (now Prefectures in France|prefecture) was Niort alternating Saint-Maixent and Parthenay but soon only Niort was the only capital.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the six districts were changed into four ''arrondissements'': Melle, Niort, Parthenay and Thouars. Thouars was changed by Bressuire in 1804.
+
+On 10 September 1926, the ''arrondissements'' of Bressuire and Melle were eliminated. On 1 June 1942, Bressuire was again an ''arrondissement''.
+
+The borders of the department were changed in 1973 when the inhabitants of the little commune of ''Puy-Saint-Bonnet'' joined the commune of Cholet in the neighbouring department of Maine-et-Loire.
+
+Geography
+Deux-Sèvres is part of the Nouvelle-Aquitaine Regions of France|region. It has an area of .
+
+The highest point of the department is ''Terrier de Saint-Martin'',  high, in the ''commune'' of Saint-Martin-du-Fouilloux, Deux-Sèvres|Saint-Martin-du-Fouilloux.
+
+The department is bordered by the departments: Maine-et-Loire, Vienne, Charente, Charente-Maritime and Vendée.
+
+
+
+The main rivers in the department are:
+  Sèvre Niortaise, that flows through the southern part of the department and ends in the Atlantic Ocean.
+  Sèvre Nantaise, that flows through the northern part of the department and is tributary of the Loire River|Loire river.
+  Thouet, that is also a tributary of the Loire.
+
+=Climate=
+The climate of Niort is an oceanic climate with template summers, '''Cfb''' (Marine West Coast Climate) in the Köppen climate classification.
+
+The average amount of precipitation for the year in Niort is .
+
+The average temperature for the year in Niort is .
+
+Administration
+The department is managed by the ''Departamental Council of the Deux-Sèvres'' in Niort. Deux-Sèvres is part of the region of Nouvelle-Aquitaine.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 17 Cantons in France|''cantons'' and 293 Communes in France|''communes'' (Municipality|municipalities) in Deux-Sèvres.
+
+
+
+
+The following is a list of the 17 Cantons of France|cantons of the Deux-Sèvres department, following the French canton reorganisation which came into effect in March 2015:
+
+# Canton of Autize-Egray|Autize-Egray (7901)
+# Canton of Bressuire|Bressuire (7902)
+# Canton of Celles-sur-Belle|Celles-sur-Belle (7903)
+# Canton of Cerizay|Cerizay (7904)
+# Canton of Frontenay-Rohan-Rohan|Frontenay-Rohan-Rohan (7905)
+# Canton of La Gâtine|La Gâtine (7906)
+# Canton of Mauléon|Mauléon (7907)
+# Canton of Melle|Melle (7908)
+# Canton of Mignon-et-Boutonne|Mignon-et-Boutonne (7909)
+# Canton of Niort-1|Niort-1 (7910)
+# Canton of Niort-2|Niort-2 (7911)
+# Canton of Niort-3|Niort-3 (7912)
+# Canton of Parthenay|Parthenay (7913)
+# Canton of La Plaine Niortaise|La Plaine Niortaise (7914)
+# Canton of Saint-Maixent-l'École|Saint-Maixent-l'École (7915)
+# Canton of Thouars|Thouars (7916)
+# Canton of Le Val de Thouet|Le Val de Thouet (7917)
+
+
+Demographics
+The inhabitants of Deux-Sèvres are known, in French language|French, as ''Deux-Sévriens'' (women: ''Deux-Sévriennes'').
+
+Deux-Sèvres has a population, in 2014, of 373,553, for a population density of  inhabitants/km2. The ''arrondissement'' of Niort, with 212,425 inhabitants, is by far the largest. The other two, Bressuire and Parthenay, have respectively 96,703 and 64,425 inhabitants.
+
+
+'''Evolution of the population in Deux-Sèvres'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:450000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:100000 start:0
+ScaleMinor = gridcolor:lightgrey increment:50000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2008 text:2008
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 326467
+ bar:1975 from:0 till: 335829
+ bar:1982 from:0 till: 342812
+ bar:1990 from:0 till: 345965
+ bar:1999 from:0 till: 344392
+ bar:2008 from:0 till: 365059
+ bar:2014 from:0 till: 373553
+
+PlotData=
+ bar:1968 at: 326467 fontsize:S text: 326,467 shift:(-13,5)
+ bar:1975 at: 335829 fontsize:S text: 335,829 shift:(-18,5)
+ bar:1982 at: 342812 fontsize:S text: 342,812 shift:(-18,5)
+ bar:1990 at: 345965 fontsize:S text: 345,965 shift:(-18,5)
+ bar:1999 at: 344392 fontsize:S text: 344,392 shift:(-18,5)
+ bar:2008 at: 365059 fontsize:S text: 365,059 shift:(-18,5)
+ bar:2014 at: 373553 fontsize:S text: 373,553 shift:(-18,5)
+
+
+
+The 10 main cities in the department are:
+
+
+
+
+Economy
+The department is still a very rural area, with a large proportion of the land of the department used for farming. Wheat and oats are the main products grown, as well as potatoes, apples, and walnuts. There are many vineyards in the north.
+
+Gallery
+
+File:Parthenay Citadel from Saint-Paul Bridge 2.jpg|Parthenay
+File:Thouars - Hotel de Ville 02.jpg|Thouars
+File:Bressuire (13).JPG|Bressuire
+File:Coulon-Eglise.jpg|Coulon, Deux-Sèvres|Coulon
+
+
+Related pages
+ Arrondissements of the Deux-Sèvres department
+ Communes of the Deux-Sèvres department
+
+Category:Departments in Nouvelle-Aquitaine

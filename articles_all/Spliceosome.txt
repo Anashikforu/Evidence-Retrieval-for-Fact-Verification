@@ -1,0 +1,5 @@
+A '''spliceosome''' is a complex of special RNA and protein subunits. Spliceosomes are amazingly complex molecular machines. They remove introns from a Transcription (genetics)|transcribed pre-mRNA segment. This process is generally referred to as RNA splicing|splicing.
+
+Each spliceosome is composed of five small Cell nucleus|nuclear RNAs, (snRNA)s, and more than 50 proteins.
+
+Category:Organelles

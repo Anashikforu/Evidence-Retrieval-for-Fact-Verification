@@ -1,0 +1,20 @@
+/
+  Action link: Last revision diff
+ 
+  @source: www.mediawiki.org/wiki/Snippets/Last_revision_action
+  @rev: 2014-08-12
+ /
+mw.hook( 'wikipage.content' ).add( function() {
+	// Not on Special pages
+	if ( mw.config.get( 'wgCanonicalSpecialPageName' ) ) {
+		return;
+	}
+	var url = mw.util.getUrl( mw.config.get( 'wgPageName' ) ) +
+		'?diff=' + mw.config.get( 'wgCurRevisionId' ),
+		$link = $( '#ca-lastdiff' ).find( 'a' );
+	if ( $link.length ) {
+		$link.attr( 'href', url );
+	} else {
+		mw.util.addPortletLink( 'p-cactions', url, 'Last', 'ca-lastdiff', 'Show most recent diff' );
+	}
+} );

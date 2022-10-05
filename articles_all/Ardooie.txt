@@ -1,0 +1,27 @@
+{{Infobox Belgium Municipality
+|name=Ardooie
+|map=ArdooieLocatie.png
+|map-legend=Location of Ardooie in West Flanders
+|arms=Blason Ardooie.svg
+|flag=Flag of Ardooie.svg
+|region=
+|community=
+|province=
+|arrondissement=Arrondissement of Tielt|Tielt
+|nis=37020
+|pyramid-date=01/01/2006
+|0-19=21.72
+|20-64=58.87
+|65=19.41
+|foreigners=0.76
+|foreigners-date=01/07/2005
+|mayor=Karlos Callens
+|majority=
+|postal-codes=8850, 8851
+|telephone-area=051
+|web=|lat_deg=50 |lat_min=58 |lon_deg=03 |lon_min=11}}
+'''Ardooie''' is a municipality in the Belgium|Belgian province of West Flanders. The municipality includes the towns of Ardooie and Koolskamp. In 2006, Ardooie had a total population of 9,147. The local people are called Ardooienaren.
+
+It is at 50° 58 North, 03° 11 East.
+
+Category:Municipalities of West Flanders

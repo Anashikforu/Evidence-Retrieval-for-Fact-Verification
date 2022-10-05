@@ -1,0 +1,29 @@
+{{Infobox UK place  
+ |country =                  England
+ |official_name =            Great Langton
+ |latitude =                 54.362630
+ |longitude =                -1.547290
+ |civil_parish =             Great Langton
+ |static_image = GreatLangtonAndRiverSwale(Bruffy)May2005.jpg
+ |static_image_caption =     Aerial view of Great Langton and the River Swale
+ |area_total_km2 =           3.04
+| population = 116
+| population_ref = (United Kingdom Census 2001|2001 Census)
+  |shire_district =           Hambleton
+ |shire_county =             North Yorkshire
+ |region =                   Yorkshire and the Humber
+ |constituency_westminster = Richmond, North Yorkshire (UK Parliament constituency)|Richmond     
+ |post_town =                NORTHALLERTON
+ |postcode_district =        DL7 
+ |postcode_area =            DL
+ |dial_code =                01609
+ |os_grid_reference =        SE295964
+ }}
+'''Great Langton''' is a small village in the England|English Counties of England|county of North Yorkshire. It is 1.2 square miles in area and 116 people live there.
+
+
+
+
+
+
+Category:Villages in North Yorkshire

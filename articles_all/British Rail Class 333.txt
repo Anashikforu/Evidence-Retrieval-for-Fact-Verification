@@ -1,0 +1,27 @@
+{{Infobox EMU
+|name = British Rail Class 333
+|image = Northern 333 002 at Ilkley.jpg
+|imagesize = 300px
+|caption = 333002 at  in February 2020
+|background = #AB273A
+|Manufacturer = Construcciones y Auxiliar de Ferrocarriles|CAF
+|Operator = Northern Trains
+|Refurbishment = 2018-2020
+|Formation = 4 cars per trainset
+|Built = 16 trainsets
+|InService = 2001 - Present
+|Weight = 147.9 tonnes|t (3 cars) 186.4 t (4 cars)
+|Capacity = 360 seats
+|MaxSpeed = 100 mph (161 km/h)
+|Gauge = 
+|Brakes = Disk
+|Voltage = 25 kV AC|25 kV Alternating current|AC Overhead lines|Overhead
+|Power = 1.4 megawatt|MW
+|coupling=Scharfenberg coupler|depots=Neville Hill TMD|multipleworking=Within Class}}
+The British Rail '''Class 333''' electric multiple units were built by Construcciones y Auxiliar de Ferrocarriles|CAF with traction equipment supplied by Siemens Transportation Systems and are based on the British Rail Class 332|Class 332 trains.
+
+
+
+
+
+Category:British Rail electric multiple units|333

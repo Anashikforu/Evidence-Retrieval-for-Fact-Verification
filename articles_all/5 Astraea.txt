@@ -1,0 +1,44 @@
+
+{{Infobox Planet   | bgcolour=#FFFFC0 |
+name=5 Astraea
+| symbol=
+| discoverer=Karl Ludwig Hencke
+| discovered=December 8, 1845
+| alt_names=1969 SE
+| mp_category=Main belt
+| epoch=November 26, 2005 (Julian day|JD 2453700.5)
+| semimajor=384.945 Giga|Gmetre|m (2.573 Astronomical unit|AU)
+| perihelion=310.688 Gm (2.077 AU)
+| aphelion=459.202 Gm (3.070 AU)
+| eccentricity=0.193
+| period=1507.676 day|d (4.13 Julian year (astronomy)|a)
+| inclination=5.369degree (angle)|°
+| asc_node=141.690°
+| arg_peri=357.530°
+| mean_anomaly=194.442°
+| avg_speed=18.39 km/second|s
+| dimensions=167×123×82 km| mass=~2.4 kilogram|kg
+| density=~2.7 g/cubic centimetre|cm³G. A. Krasinsky ''et al.'' ''Hidden Mass in the Asteroid Belt'', Icarus, Vol. 158, p. 98 (2002).
+| surface_grav=~0.023 m/s²
+| escape_velocity=~0.062 km/s
+| rotation=0.700 03 d (16.801 h)
+| spectral_type=S-type asteroid
+| magnitude = 8.7  to 12.92
+| abs_magnitude=6.85
+| albedo=0.227&nbsp;(geometric albedo|geometric)
+| angular_size = 0.15"  to 0.041"
+| single_temperature=~167 kelvin|K  ''max:'' 263 K (-10 Celsius|°C)}}
+'''5 Astraea''' (written '''Astræa''' in the early literature) is a big Asteroid belt|main belt asteroid. Its surface is very reflective (bright) and what it's made of is probably a mixture of nickel-iron with magnesium- and iron-silicates. The adjectival form of the name, although unused, would be ''Astraean'' (which also designates a genus of star corals).
+
+
+Astraea was the fifth asteroid found, on December 8, 1845 by Karl Ludwig Hencke|K. L. Hencke. It was his first of two asteroid discoveries. The second was 6 Hebe. An amateur astronomer and post office employee, Hencke was looking for 4 Vesta when he stumbled on Astraea. The King of Prussia awarded him with an annual pension of 300 US$ (1968 dollars) for the discovery.
+
+Photometry indicates prograde rotation, that the north pole points in the direction of right ascension 9 h 52 min, declination 73° with a 5° uncertainty. This gives an axial tilt of about 33°.
+
+Astrea is physically unremarkable but notable mainly because for 38&nbsp;years (after the discovery of 4 Vesta|Vesta in 1807) it had been thought that there were only four asteroids. In terms of apparent magnitude|maximum brightness, it is indeed only the ''seventeenth brightest'' main belt asteroid, being fainter than 192 Nausikaa and even, at rare near-perihelion oppositions, the highly eccentric carbonaceous 324 Bamberga.
+
+After the discovery of Astraea, thousands of other asteroids would follow. Indeed, the discovery of Astrea proved to be the starting point for the eventual demotion of the four original asteroids (which were regarded as planets at the time) to their current status, as it became apparent that these four were only the biggest of a whole new type of celestial body.
+
+There has been only one seen star|stellar occultation by Astraea (February 2, 1991).
+
+Category:Asteroids

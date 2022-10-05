@@ -1,0 +1,241 @@
+
+The '''2010 Stanley Cup playoffs''' of the National Hockey League (NHL) began on April 14, 2010, after the conclusion of the 2009–10 NHL season.
+
+ Playoff seeds 
+After the regular season, the standard of 16 teams qualified for the playoffs. The Washington Capitals were the Eastern Conference (NHL)|Eastern Conference regular season champions and the Presidents' Trophy winners with the best record at 121 points. The San Jose Sharks earned a number 1 seed in the Western Conference (NHL)|Western Conference with 113 points.
+
+= Eastern Conference =
+Image:Hhof stanley cup.jpg|right|175px|thumb|The Stanley Cup
+#Washington Capitals – Southeast Division (NHL)|Southeast Division and Eastern Conference regular season champions; Presidents' Trophy winners, 121 points
+#New Jersey Devils – Atlantic Division (NHL)|Atlantic Division champions, 103 points
+#Buffalo Sabres – Northeast Division (NHL)|Northeast Division champions, 100 points
+#Pittsburgh Penguins – 101 points 
+#Ottawa Senators – 94 points 
+#Boston Bruins – 91 points 
+#Philadelphia Flyers – 88 points (41 wins)
+#Montreal Canadiens – 88 points (39 wins)
+
+= Western Conference =
+#San Jose Sharks – Pacific Division (NHL)|Pacific Division champions and Western Conference regular season champions, 113 points
+#Chicago Blackhawks – Central Division (NHL)|Central Division champions, 112 points
+#Vancouver Canucks – Northwest Division (NHL)|Northwest Division champions, 103 points
+#Phoenix Coyotes – 107 points
+#Detroit Red Wings – 102 points
+#Los Angeles Kings – 101 points
+#Nashville Predators – 100 points
+#Colorado Avalanche – 95 points
+
+ Playoff bracket 
+
+
+
+
+
+
+
+ Conference Finals 
+= Eastern Conference Finals =
+(7) Philadelphia Flyers vs. (8) Montreal Canadiens
+{{NHLPlayoffs
+|team1=Philadelphia Flyers
+|team2=Montreal Canadiens
+|stadium1=Wachovia Center
+|stadium2=Bell Centre
+|date1=May 16
+|score1=6–0
+|won1=1
+|recap1=www.nhl.com/ice/recap.htm?id=2009030311
+|1-1-1=(Scott Hartnell 5, Ville Leino 6) Braydon Coburn 1 - ''pp'' - 03:55
+|1-2-1=(Claude Giroux (ice hockey)|Claude Giroux 7) James van Riemsdyk 2 - 00:30(Matt Carle 8) Daniel Briere 8 - 04:23(Braydon Coburn 2, Ville Leino 7) - Simon Gagné|Simon Gagne 5 - ''pp'' - 09:53
+|1-3-1=(Daniel Briere 9, Matt Carle 9) Scott Hartnell 3 - 12:13(Arron Asham 2, James van Riemsdyk 2) Claude Giroux (ice hockey)|Claude Giroux 6 - 13:26
+|goalie1-1=Michael Leighton 28 saves / 28 shots
+|goalie1-2=Jaroslav Halák|Jaroslav Halak 10 saves / 14 shotsCarey Price 9 saves / 11 shots
+|date2=May 18
+|score2=3–0
+|won2=1
+|recap2=www.nhl.com/ice/recap.htm?id=2009030312
+|2-1-1=(Claude Giroux (ice hockey)|Claude Giroux 8, Kimmo Timonen 6) Daniel Briere 9 - ''pp'' - 04:16
+|2-2-1=(Ville Leino 8, Mike Richards 13) Simon Gagné|Simon Gagne 6 - ''pp'' - 15:49
+|2-3-1=(Lukáš Krajíček|Lukas Krajicek 1, Chris Pronger 8) Ville Leino 3 - 10:24
+|goalie2-1=Michael Leighton 30 saves / 30 shots
+|goalie2-2=Jaroslav Halák|Jaroslav Halak 20 saves / 23 shots
+|date3=May 20
+|score3=5–1
+|won3=2
+|recap3=www.nhl.com/ice/recap.htm?id=2009030313
+|3-1-1=''No scoring''
+|3-1-2=(P. K. Subban 4, Roman Hamrlík|Roman Hamrlik 7) Michael Cammalleri 13 - 07:05(Maxim Lapierre 1, Dominic Moore 1) Tom Pyatt 2 - 16:52
+|3-2-2=(Tom Pyatt 2, Josh Gorges 2) Dominic Moore 4 - 11:33
+|3-3-1=08:22 - Simon Gagné|Simon Gagne 7 (Daniel Carcillo 4, Chris Pronger 9)
+|3-3-2=(Roman Hamrlík|Roman Hamrlik 8, P. K. Subban 5) Brian Gionta 8 - 02:00(P. K. Subban 6, Scott Gomez 11) Marc-André Bergeron|Marc-Andre Bergeron 2 - ''pp'' - 19:29
+|goalie3-1=Michael Leighton 33 saves / 38 shots
+|goalie3-2=Jaroslav Halák|Jaroslav Halak 25 saves / 26 shots
+|date4=May 22
+|score4=0–3
+|won4=1
+|recap4=www.nhl.com/ice/recap.htm?id=2009030314
+|4-1-1=''No scoring''
+|4-2-1=05:41 - Claude Giroux (ice hockey)|Claude Giroux 7 (Kimmo Timonen 7)14:53 - Ville Leino 4 (Chris Pronger 10)
+|4-3-1=18:47 - ''en'' - Claude Giroux (ice hockey)|Claude Giroux 8
+|goalie4-1=Michael Leighton 17 saves / 17 shots
+|goalie4-2=Jaroslav Halák|Jaroslav Halak 22 saves / 24 shots
+|date5=May 24
+|score5=4–2
+|won5=1
+|recap5=www.nhl.com/ice/recap.htm?id=2009030315
+|5-1-1=(Claude Giroux (ice hockey)|Claude Giroux 9) Mike Richards 6 - ''sh'' - 04:25
+|5-1-2=00:59 - Brian Gionta 9 (Scott Gomez 12, Roman Hamrlík|Roman Hamrlik 9)
+|5-2-1=(Matt Carle 10) Arron Asham 3 - 03:07(Mike Richards 14, Kimmo Timonen 8) Jeff Carter 3 - 04:31
+|5-3-1=(Mike Richards 15) Jeff Carter 4 - ''en'' 19:37
+|5-3-2=06:53 - Scott Gomez 2 (P. K. Subban 7, Brian Gionta 6)
+|goalie5-1=Michael Leighton 25 saves / 27 shots
+|goalie5-2=Jaroslav Halák|Jaroslav Halak 22 saves / 25 shots
+|series=Philadelphia won series 4–1 }}
+
+= Western Conference Finals =
+(1) San Jose Sharks vs. (2) Chicago Blackhawks
+{{NHLPlayoffs
+|team1=San Jose Sharks
+|team2=Chicago Blackhawks
+|stadium1=HP Pavilion at San Jose
+|stadium2=United Center
+|date1=May 16
+|score1=1–2
+|won1=2
+|recap1=www.nhl.com/ice/recap.htm?id=2009030321
+|1-1-1=(Patrick Marleau 5, Dan Boyle (ice hockey)|Dan Boyle 8) Jason Demers 1 - ''pp'' - 11:19
+|1-2-2=07:44 - Patrick Sharp 6 (Duncan Keith 6, Troy Brouwer 1)
+|1-3-2=13:15 - Dustin Byfuglien 5 (Patrick Kane 9, Jonathan Toews 15)
+|goalie1-1=Evgeni Nabokov 38 saves / 40 shots
+|goalie1-2=Antti Niemi (ice hockey)|Antti Niemi 44 saves / 45 shots
+|date2=May 18
+|score2=2–4
+|won2=2
+|recap2=www.nhl.com/ice/recap.htm?id=2009030322
+|2-1-1=''No scoring''
+|2-1-2=12:48 - Andrew Ladd 2 (Duncan Keith 7, Kris Versteeg 4)
+|2-2-1=(Joe Thornton 9, Dan Boyle (ice hockey)|Dan Boyle 9) Patrick Marleau 4 - ''pp'' - 11:08
+|2-2-2=06:59 - Dustin Byfuglien 6 (Patrick Kane 10, Jonathan Toews 16)08:29 - ''pp'' - Jonathan Toews 7 (Duncan Keith 8, Patrick Kane 11)
+|2-3-1=(Dany Heatley 10, Dan Boyle (ice hockey)|Dan Boyle 10) Patrick Marleau 5 - 15:32
+|2-3-2=06:18 - Troy Brouwer 2 (Niklas Hjalmarsson 3, Marián Hossa|Marian Hossa 9)
+|goalie2-1=Evgeni Nabokov 23 saves / 27 shots
+|goalie2-2=Antti Niemi (ice hockey)|Antti Niemi 20 saves / 22 shots
+|date3=May 21
+|score3=3–2
+|won3=2
+|ot3=1
+|recap3=www.nhl.com/ice/recap.htm?id=2009030323
+|3-1-1=''No scoring''
+|3-2-1=03:58 - ''pp'' - Patrick Marleau 6 (Joe Pavelski 7, Dan Boyle (ice hockey)|Dan Boyle 11)
+|3-2-2=(Jonathan Toews 17, Patrick Kane 12) Patrick Sharp 7 - ''pp'' - 06:59
+|3-3-1=15:37 - Patrick Marleau 7 (Dany Heatley 11, Dan Boyle (ice hockey)|Dan Boyle 12)
+|3-3-2=(Jonathan Toews 18) Dave Bolland 4 - 13:05
+|3-4-2=(Dave Bolland 5, Brian Campbell 3) Dustin Byfuglien 7 - 12:24
+|goalie3-1=Evgeni Nabokov 35 saves / 38 shots
+|goalie3-2=Antti Niemi (ice hockey)|Antti Niemi 44 saves / 46 shots
+|date4=May 23
+|score4=4–2
+|won4=2
+|recap4=www.nhl.com/ice/recap.htm?id=2009030324
+|4-1-1=11:08 - Logan Couture 4 (Devin Setoguchi 4, Douglas Murray (ice hockey)|Douglas Murray 6)
+|4-2-1=07:35 - ''sh'' - Patrick Marleau 8 (Marc-Édouard Vlasic|Marc-Edouard Vlasic 3, Joe Pavelski 8)
+|4-2-2=(Niklas Hjalmarsson 4, Kris Versteeg 5) Brent Seabrook 3 - 13:15(Ben Eager 1, Duncan Keith 9) Dave Bolland 5 - 18:38
+|4-3-2=(Patrick Kane 13, Jonathan Toews 19) Dustin Byfuglien 8 - ''pp'' - 14:05Kris Versteeg 4 - ''en'' - 19:18
+|goalie4-1=Evgeni Nabokov 23 saves / 26 shots
+|goalie4-2=Antti Niemi (ice hockey)|Antti Niemi 16 saves / 18 shots
+|series=Chicago won series 4–0 }}
+
+ Stanley Cup Finals 
+:''All times are in Eastern Time Zone (North America)|Eastern Daylight Time (UTC−4)''
+{{NHLPlayoffs
+  |team1       = Chicago Blackhawks
+  |team2       = Philadelphia Flyers
+  |stadium1    = United Center
+  |stadium2    = Wells Fargo Center (Philadelphia)|Wachovia Center
+
+  |date1       = May 29
+  |score1      = 6–5
+  |won1        = 1
+  |recap1      = www.nhl.com/ice/recap.htm?id=2009030411
+  |1-1-1       = (Marián Hossa|Marian Hossa 10, Brent Sopel 4) Troy Brouwer 3 - 07:46Dave Bolland 6 - ''sh'' - 11:50
+  |1-1-2       = 06:38 - Ville Leino 5 (Daniel Brière|Daniel Briere 10, Chris Pronger 11)16:37 - ''pp'' - Scott Hartnell 4 (Daniel Brière|Daniel Briere 11, Chris Pronger 12)19:33 - Daniel Brière|Daniel Briere 10 (Ville Leino 9, Scott Hartnell 6)
+  |1-2-1       = (Troy Brouwer 2, Niklas Hjalmarsson 5) Patrick Sharp 8 - 01:11(Tomáš Kopecký|Tomas Kopecky 2, Duncan Keith 10) Kris Versteeg 5 - 09:31(Marián Hossa|Marian Hossa 11, Niklas Hjalmarsson 6) Troy Brouwer 4 - 15:18
+  |1-2-2       = 07:20 - Blair Betts 1 (Arron Asham 3, Darroll Powe 1)18:49 - Arron Asham 4 (Daniel Brière|Daniel Briere 12, Scott Hartnell 7)
+  |1-3-1       = (Kris Versteeg 6, Dave Bolland 6) Tomáš Kopecký|Tomas Kopecky 4 - 08:25
+  |goalie1-1   = Antti Niemi (ice hockey)|Antti Niemi 27 saves / 32 shots
+  |goalie1-2   = Michael Leighton 15 saves / 20 shotsBrian Boucher 11 saves / 12 shots
+
+  |date2       = May 31
+  |score2      = 2–1
+  |won2        = 1
+  |recap2      = www.nhl.com/ice/recap.htm?id=2009030412
+  |2-1-1       = ''No scoring''
+  |2-2-1       = (Patrick Sharp 10, Duncan Keith 11) Marián Hossa|Marian Hossa 3 - 17:09(Dustin Byfuglien 3) Ben Eager 1 - 17:37
+  |2-3-2       = 05:20 - ''pp'' - Simon Gagné|Simon Gagne 8 (Mike Richards 16, Jeff Carter 2)
+  |goalie2-1   = Antti Niemi (ice hockey)|Antti Niemi 32 saves / 33 shots
+  |goalie2-2   = Michael Leighton 24 saves / 26 shots
+
+  |date3       = June 2
+  |score3      = 4–3
+  |won3        = 2
+  |ot3         = 1
+  |recap3      = www.nhl.com/ice/recap.htm?id=2009030413
+  |3-1-1       = ''No scoring''
+  |3-1-2       = (Patrick Kane 14, Braydon Coburn 3) Daniel Brière|Daniel Briere 11 - ''pp'' - 14:58
+  |3-2-1       = 02:49 - Duncan Keith 2 (Troy Brouwer 2, Marián Hossa 12)17:52 - Brent Sopel 1 (John Madden (ice hockey)|John Madden 1)
+  |3-2-2       = (Chris Pronger 13, Claude Giroux 10) Scott Hartnell 5 - ''pp'' - 09:55
+  |3-3-1       = 02:50 - Patrick Kane 8 (Jonathan Toews 20, Ben Eager 2)
+  |3-3-2       = (Claude Giroux 11 and Matt Carle 11) Ville Leino 6 - 14:58
+  |3-4-2=(Matt Carle 12 and Daniel Brière|Danny Briere 13) Claude Giroux 9 - 5:59
+  |goalie3-1   = Antti Niemi (ice hockey)|Antti Niemi 28 saves / 32 shots
+  |goalie3-2   = Michael Leighton 24 saves / 27 shots
+
+  |date4       = June 4
+  |score4      = 5–3
+  |won4        = 2
+  |recap4      = www.nhl.com/ice/recap.htm?id=2009030414
+  |4-1-1       = 18:32 - Patrick Sharp 9 (Duncan Keith 11)
+  |4-1-2       = Mike Richards 7 - ''pp'' - 04:35Matt Carle 1 - 14:48(Kimmo Timonen 9 & Scott Hartnell 9) Claude Giroux 10 - 19:23
+  |4-2-1       = ''No scoring''
+  |4-2-2       = ''No scoring''
+  |4-3-1       = 12:01 - ''pp'' - Dave Bolland 7 (Duncan Keith 12 & Patrick Kane 15)15:50 - Brian Campbell 1 (Andrew Ladd 2 & Duncan Keith 13)
+  |4-3-2       = (Daniel Brière|Danny Briere 14 & James van Riemsdyk 3) Ville Leino 7 - 06:43Jeff Carter 5 - ''en'' - 19:35
+  |goalie4-1   = Antti Niemi (ice hockey)|Antti Niemi 26 saves / 30 shots
+  |goalie4-2   = Michael Leighton 31 saves / 34 shots
+
+  |date5       = June 6
+  |score5      = 7–4
+  |won5        = 1
+  |recap5      = www.nhl.com/ice/recap.htm?id=2009030415
+  |5-1-1       = (Kris Versteeg 7, Troy Brouwer 4) Brent Seabrook 4 - ''pp'' - 12:17(Brent Sopel 5, Dustin Byfuglien 4) Dave Bolland 8 - 15:26(Brent Seabrook 7, Dustin Byfuglien 5) Kris Versteeg 6 - 18:15
+  |5-2-1       = (Andrew Ladd 3, Patrick Sharp 11) Patrick Kane 9 - 03:13(Jonathan Toews 21, Duncan Keith 14) Dustin Byfuglien 9 - ''pp'' - 17:55
+  |5-2-2       = 00:32 - Scott Hartnell 6 (Ville Leino 10, Daniel Brière|Daniel Briere 15)04:38 - Kimmo Timonen 1 (Daniel Brière|Daniel Briere 16, Ville Leino 11)
+  |5-3-1       = (Patrick Kane 16) Patrick Sharp 10 - 16:08(Kris Versteeg 8, Dave Bolland 7) Dustin Byfuglien 10 - ''en'' - 17:55
+  |5-3-2       = 06:36 - James van Riemsdyk 3 (Lukáš Krajíček|Lukas Krajicek 2, Kimmo Timonen 10)17:24 - Simon Gagné|Simon Gagne 9 (Ville Leino 12)
+  |goalie5-1   = Antti Niemi (ice hockey)|Antti Niemi 23 saves / 27 shots
+  |goalie5-2   = Michael Leighton 10 saves / 13 shotsBrian Boucher 11 saves / 14 shots
+
+  |date6       = June 9
+  |score6      = 3–4
+  |won6        = 1
+  |ot6         = 1
+  |recap6      =www.nhl.com/ice/recap.htm?id=2009030416&navid=sb:recap
+  |6-1-1       = 16:49 - ''pp'' - Dustin Byfuglien 11 (Jonathan Toews 22, Patrick Kane 17)
+  |6-1-2       = (Daniel Brière|Daniel Briere 17, Chris Pronger 14) Scott Hartnell 7 - ''pp'' - 19:33
+  |6-2-1       = 09:58 - Patrick Sharp 11 (Dave Bolland 8, Duncan Keith 15)17:43 - Andrew Ladd 3 (Niklas Hjalmarsson 7, Patrick Kane 18)
+  |6-2-2       = (Ville Leino 13, Lukáš Krajíček|Lukas Krajicek 3) Daniel Brière|Daniel Briere 12 - 08:00
+  |6-3-2       = (Ville Leino 14, Daniel Brière|Daniel Briere 18) Scott Hartnell 8 - 16:01
+  |6-4-1       = 04:06 - Patrick Kane 10 (Brian Campbell 4)
+  |goalie6-1   = Antti Niemi (ice hockey)|Antti Niemi 21 saves / 24 shots
+  |goalie6-2   = Michael Leighton 37 saves / 41 shots
+
+  |series = Chicago won series 4–2
+ }}
+
+ Statistical leaders 
+= Skaters =
+These are the top ten skaters based on points. If the list exceeds ten skaters because of a tie in points, goals will take precedence.
+
+''GP = Games played; W = Wins; L = Losses; SA = Shots against; GA = Goals against; GAA = Goals against average; SV% = Save percentage; SO = Shutouts; TOI = Time on ice (minutes:seconds)''
+
+Category:Stanley Cup playoffs

@@ -1,0 +1,97 @@
+
+The '''Province of Viterbo''' () is a Provinces of Italy|province in the Lazio region of Central Italy. Its Capital city|capital is the city of Viterbo.
+
+The province is also called ''Tuscia''.
+
+History
+The province of Viterbo was created in January of 1927 with part of the old ''Province of Rome''. In March of the same, the comune of Monte Romano.
+
+In 1928, five ''comuni'' were added:  Montalto di Castro, Monterosi, Nepi, Oriolo Romano and Tarquinia.
+
+Geography
+The province of Viterbo has an area of , making it the second largest province of the Lazio region.
+
+The province is bordered to the northwest with Tuscany (Province of Grosseto|Grosseto and Province of Siena|Siena provinces), to the northeast with Umbria (Province of Terni|Terni province), to the east with the Province of Rieti|Rieti province and to the south with Metropolitan City of Rome Capital|Rome. The Tyrrhenian Sea is to the west.
+
+
+
+The province is in the northwest of the Lazio region. Most of the territory of the province is flat or with small hills. The highest mountain in the province is Monte Cimino (.
+
+The main river in the province is the Tiber River|Tiber that forms the border between the Umbria (province of Terni) and Lazio (province of Viterbo) regions.
+
+There are several lakes; the largest is the Lake Bolsena|Bolsena lake with an area of .
+
+Administration
+
+The following shows the Comune|''comuni'' of the province with more of 9,000 people living in them (1 January 2017).
+
+
+
+The largest ''comune'' is Viterbo, with ). The ''comune'' with fewest people living in it is Tessennano with 339 inhabitants.
+
+Population
+In 2017, there are 319,008 persons living in the province, for a population density of  inhabitants/km².
+
+
+'''Evolution of the population in the Viterbo province'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:350000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2017 text:2017
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1961 from:0 till: 263862
+ bar:1971 from:0 till: 257075
+ bar:1981 from:0 till: 268448
+ bar:1991 from:0 till: 278521
+ bar:2001 from:0 till: 288783
+ bar:2011 from:0 till: 312864
+ bar:2017 from:0 till: 319008
+
+PlotData=
+ bar:1961 at: 263862 fontsize:S text: 263,862 shift:(-12,5)
+ bar:1971 at: 257075 fontsize:S text: 257,075 shift:(-18,5)
+ bar:1981 at: 268448 fontsize:S text: 268,448 shift:(-18,5)
+ bar:1991 at: 278521 fontsize:S text: 278,521 shift:(-18,5)
+ bar:2001 at: 288783 fontsize:S text: 288,783 shift:(-18,5)
+ bar:2011 at: 312864 fontsize:S text: 312,864 shift:(-18,5)
+ bar:2017 at: 319008 fontsize:S text: 319,008 shift:(-18,5)
+
+
+
+Related pages
+List of communes of the Province of Viterbo
+
+ Gallery 
+
+
+File:Vista di Civita Castellana.jpg|Civita Castellana
+File:Vetralla 001.JPG|Vetralla
+File:Tuscania 01.JPG|Tuscania
+
+
+
+Category:Provinces of Latium|Viterbo

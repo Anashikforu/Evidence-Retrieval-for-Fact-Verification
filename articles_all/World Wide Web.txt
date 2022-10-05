@@ -1,0 +1,16 @@
+
+:''"The Web" redirects here. For other uses, see Web (disambiguation)''.
+
+The '''World Wide Web''' ("'''WWW'''" or "'''The Web'''") is the part of the Internet that contains websites and webpages. It was invented in 1989 by Tim Berners-Lee at CERN, Geneva City|Geneva, Switzerland.  Sir Tim Berners-Lee created a new markup language called HTML.  Websites are composed of pages linked by hypertext links that are written in HTML.
+
+The software to see the World Wide Web is called a web browser. One also needs a connection to the Internet. 
+
+Many companies nowadays offer limited Web hosting service|website hosting allowing one to make websites that can be displayed on the World Wide Web like any other Domain name|domain (www.stuff.com) site. These sites usually make money from advertisments instead of fees.
+
+ Invention of WWW 
+While working at CERN in 1989, Sir Timothy John Berners-Lee developed the World Wide Web. He was a computer scientist from England. Tim Berners-Lee was a Professorial Fellow of Computer science|Computer Science at University of Oxford|Oxford University and a professor at Massachusetts Institute of Technology.
+
+Related pages
+Minitel
+
+Category:Internet

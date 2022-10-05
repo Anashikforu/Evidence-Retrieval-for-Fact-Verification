@@ -1,0 +1,13 @@
+In general, '''missile''' may refer to anything thrown or launched object at a target like a javelin or darts.
+
+Types of missiles
+The two main kinds of missiles are simple "rockets" and "guided missiles". A rocket is no longer controlled once it has been launched. Most guided missile are also propelled by a rocket engine but can be controlled after it has been launched. Some missiles used in anti-aircraft warfare, such as the AIM-9 Sidewinder, guide themselves with temperature. Others guide themselves by radar or are under radio control. 
+
+The V-1 flying bomb was an early cruise missile, a little airplane with a bomb, propelled by a jet engine instead of a rocket. 
+
+Related pages
+ Intercontinental ballistic missile
+ Scramjet
+ V-2 rocket
+
+Category:Rockets

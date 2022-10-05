@@ -1,0 +1,53 @@
+
+Linux can be changed, so there are many versions and distributions of Linux, each containing different software or made for different purposes. A list of distributions can be found below:
+
+ Debian-based 
+Debian is a distribution that only accepts free software. It is supported on many hardware platforms.
+
+
+
+= Knoppix-based =
+Knoppix is itself based on Debian.
+
+
+
+= Ubuntu-based =
+Ubuntu (Linux distribution)|Ubuntu is based on Debian.
+
+
+ Gentoo-based 
+Gentoo Linux|Gentoo is a distribution designed to have highly optimized and frequently updated software.
+
+
+
+ RPM-based 
+Red Hat Linux and SUSE Linux were the original major distributions that used the RPM Package Manager|RPM file format, which is today used in several package management systems. Both of these later divided into commercial and community-supported distributions.
+
+= Fedora Linux-based =
+Fedora Linux is Linux distribution by Fedora Project.
+
+
+= Red Hat Enterprise Linux-based =
+Red Hat Enterprise Linux is based on Fedora Linux.
+
+
+= Others (RPM-based) =
+
+
+ Slackware-based 
+Slackware is known as a highly customizable distribution,generally considered a distribution for expert users.
+
+
+= SLAX-Based =
+SLAX's distributions are known for be really good in branch of quality.
+
+
+
+ Others 
+The following distributions either use another packaging system, do not use any, or are simply not categorized.
+
+
+
+
+Category:Linux distributions|
+Category:Computer-related lists

@@ -1,0 +1,110 @@
+
+The '''Croatian language''' is spoken mainly throughout the countries of Croatia and Bosnia and Herzegovina and in the surrounding countries of Europe.
+'''Croatian grammar''' is the grammar of the Croatian language. The Croatian language consists of three Dialect|vernaculars (Kaikavian, Chakavian and Shtokavian).Milan Moguš, "Povijest hrvatskoga književnoga jezika", Globus, Zagreb, 1993, , p. 12 
+ 
+
+Croatian grammar books show that the codification of the language started at the beginning of the 17th century (the first grammar was written by Bartol Kašić in Latin in 1604). This means that the rules for the language were written down. From 1604 to 1836 there were 17 grammars. Most of them described the Štokavian dialect, but some were about Kajkavian. In the 19th century, more grammars based on Štokavian were written. They were "Nova ricsoslovnica illiricka", written by Šime Starčević (1812), and "Grammatik der illyrischen Sprache", written by Ignjat Alojzije Brlić (1833),.Sanda Ham, "Povijest hrvatskih gramatika", Globus, Zagreb, 2006, , p. 13 
+All grammars of the above period (1604-1836) used three accents: Acute accent|acute, Grave accent|grave and circumflex accent|circumflex, Starčević's grammar is an exception as it uses a system of four accents.
+In 19th century, Ljudevit Gaj proposed new letters from Czech language|Czech (č,ž,š,ľ,ň,ď and ǧ). The letters that were accepted were '''č''', '''ž''' and '''š''', and from Polish language|Polish, '''ć'''. For other phonemes (sounds), the digraphs that were accepted were '''ie''', '''lj''', '''nj''' and '''dž'''. Later '''dj''' or '''gj''' was changed to '''đ''' (according to proposal by Đuro Daničić).
+
+ Orthography 
+The Croatian language uses a Latin script of 30 letters and one diphthong "ie" or "ije", and "ŕ". This system is called ''gajica'' in Croatian (or Croatian alphabet|Croatian Gaj's Latin alphabet). The name came from Ljudevit Gaj.Babić, Ham, Moguš, "Hrvatski školski pravopis", Školska knjiga, Zagreb, 2008., , p. 12 For writing foreign names and words, and in some professions, the Croatian language uses letters which do not belong to ''gajica'', like "X, x (iks), Y,y (ipsilon)" and others.
+
+Croatian alphabet (Gaica) 1830.c
+
+
+Image:Latin alphabet Aa.svg|('''a''')
+Image:Latin alphabet Bb.svg|('''be''')
+Image:Latin alphabet Cc.svg|('''ce''')
+Image:Latin alphabet Čč.png|('''če''')
+Image:Latin alphabet Ćć.svg|('''će''')
+Image:Latin alphabet Dd.svg|('''de''')
+Image:Latin alphabet Dždž.png|('''dže''')
+Image:Latin alphabet Đđ.svg|('''đe''')
+Image:Latin alphabet Ee.svg|('''e''')
+Image:Latin alphabet Ff.svg|('''ef''')
+Image:Latin alphabet Gg.svg|('''ge''')
+Image:Latin alphabet Hh.svg|('''ha''')
+Image:Latin alphabet Ii.svg|('''i''')
+Image:Latin alphabet Jj.svg|('''je''')
+Image:Latin alphabet Kk.svg|('''ka''')
+Image:Latin alphabet Ll.svg|('''el''')
+Image:Latin alphabet Ljlj.png|('''elj''')
+Image:Latin alphabet Mm.svg|('''em''')
+Image:Latin alphabet Nn.svg|('''en''')
+Image:Latin alphabet Njnj.png|('''enj''')
+Image:Latin alphabet Oo.svg|('''o''')
+Image:Latin alphabet Pp.svg|('''pe''')
+Image:Latin alphabet Rr.svg|('''er''')
+Image:Latin alphabet Ss.svg|('''es''')
+Image:Latin alphabet Šš.png|('''eš''')
+Image:Latin alphabet Tt.svg|('''te''')
+Image:Latin alphabet Uu.svg|('''u''')
+Image:Latin alphabet Vv.svg|('''ve''')
+Image:Latin alphabet Zz.svg|('''ze''')
+Image:Latin alphabet Žž.png|('''že''')
+
+
+ Grammatical cases 
+In Croatian, nouns change form depending on the composition of the sentence. This is called declension. For people who are learning Croatian, declension is the most difficult part of the language to master. It is very complicated and time consuming to explain it and because of that we will use simpler techniques. However, many languages have noun and pronoun declension, including English. In English, though, only pronoun declension now remains. Let us start by explaining all of the seven Croatian grammatical cases. The technique that is most frequently used in determining grammatical cases (the same technique is used in Croatian schools when taught to children) is by asking yourself a question when you are trying to figure out which case a noun should be in. In Croatian, grammatical cases are called padeži (plural) and padež (singular). 
+ Example:
+# In this example you will be shown how to determine a noun's grammatical case by using the table below.
+# Krešimir is going to school. (Krešimir ide u školu.)
+The question you will ask yourself here is: “Where is Krešimir going?”. And the answer is that he's going to school. By looking at the table below you will see that the question 'where' is used for the Locative case.
+
+
+ Gender 
+Croatian nouns are divided into three genders: the masculine, feminine and neuter gender. To know a noun's gender is very important because it affects all the words in a sentence that are tied to the noun, such as adjectives. A gender is determined by the noun's ending (with some exceptions). This makes it easier to tell what gender a noun is without memorizing the gender of every word. See the table below.
+Nouns retain their gender in plural. For instance, even though the noun 'žene' (women) ends in -e, it is of the feminine gender.
+
+
+
+ Grammatical aspects 
+Croatian verbs have two grammatical aspects: the perfective and imperfective. The perfective aspect depicts an action that has already been finished. The imperfective aspect depicts an action that is still continuing. So, each verb in its infinitive form can be written in 2 ways: in its perfective and imperfective aspect. The table below is showing 5 verbs both in their perfective and imperfective aspects.
+
+
+
+ Grammatical tenses 
+In Croatian, there are seven grammatical tenses. They can be divided in two ways: by the time they take place in and by their complexity. Simple tenses consist of only 1 word (simple tenses are aorist, imperfect, and present tense|present) while complex tenses consist of 2 or even 3 words (complex tenses are pluperfect, perfect, first future, second future) because they also consist of auxiliary verbs. Also, some grammatical tenses cannot be formed with both grammatical aspects, they work with only one aspect.
+
+
+
+ Common phrases 
+
+ Basic and common expressions:
+
+
+
+ Colours:
+
+
+
+ Days, months & seasons
+The Croatian week starts with Monday and ends with Sunday, unlike weeks from some other countries, where Sunday is the first day and Saturday the last.
+
+ Days:
+ 
+
+
+ Months:
+ 
+
+
+ Directions
+
+
+
+ Prepositions
+
+
+
+ Numbers
+
+
+----
+
+
+ Different languages 
+
+
+Category:Languages of Europe

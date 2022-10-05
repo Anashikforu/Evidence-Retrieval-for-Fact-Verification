@@ -1,0 +1,1 @@
+Tries to detect a copy paste of text from another wikipedia

@@ -1,0 +1,97 @@
+
+'''Aluminium''' (in American and Canadian English also: '''aluminum''') is a chemical element. The symbol for aluminium is '''Al''', and its atomic number is 13. Aluminium is the most abundant metal. It is a mononuclidic element.
+History
+People have tried to produce aluminium since 1760. The first successful attempt, finished in 1824 by Danish physicist and chemist Hans Christian Ørsted. He reacted anhydrous aluminium chloride with potassium amalgam, yielding a lump of metal looking similar to tin. He presented his results and showed a sample of the new metal in 1825. In 1845, he was able to produce small pieces of the metal and described some physical properties of this metal. For many years thereafter, Wöhler was credited as personewho discovered  of aluminium.
+
+Properties
+Aluminium is a very good Electrical conductor|conductor of electricity and heat. It is light and strong. It can be hammered into sheets (malleable) or pulled out into wires (ductile). It is a highly reactivity (chemical)|reactive metal, although it is corrosion resistant.
+
+A fresh film of aluminium is a good reflector of visible light and an excellent reflector of medium and far Infrared|infrared radiation.
+
+Aluminium prevents corrosion by forming a small, thin layer of aluminium oxide on its surface. This layer protects the metal by preventing oxygen from reaching it. Corrosion can not occur without oxygen. Because of this thin layer, the reactivity of aluminium is not seen. As a powder it burns hot. Uses include fireworks displays and rocket fuel.
+
+ Occurrence and preparation 
+Pure aluminium is made from bauxite, a kind of Rock (geology)|rock that has aluminium oxide and many impurity|impurities. The bauxite is crushed and reacted with sodium hydroxide. The aluminium oxide dissolves. Then the aluminium oxide is dissolved in liquid cryolite, a rare mineral. Cryolite is normally produced artificially though. The aluminium oxide is electrolysis|electrolyzed to make aluminium and oxygen. The largest producer of aluminium is China. China produces about 31,873 thousand tonnes of aluminium.
+
+Aluminium was once considered a precious metal that was even more valuable than gold. This is no longer true because, as technology improved, it became cheaper and easier to make pure metal.
+
+=In space=
+It is the 12th most abundant of all elements. It is the 3rd most abundant among the elements that have odd atomic numbers.
+
+=On Earth=
+Overall, the Earth is about 1.59% aluminium by mass.
+
+Feldspar|Feldspars, the most common group of minerals in the Earth's crust, are Aluminosilicate|aluminosilicates. Aluminium also occurs in the minerals beryl, cryolite, garnet, spinel, and turquoise. Native aluminium has been reported in Cold seep|cold seeps in the northeastern continental slope of the South China Sea.
+
+ Compounds 
+Aluminium forms chemical compounds in the +3 oxidation state. They are generally unreactive. Aluminium chloride and aluminium oxide examples. Very rarely are compounds in the +1 or +2 oxidation state.
+
+ Uses 
+Many things are made of aluminium. Much of it is used in overhead power lines. It is also widely used in window frames and aircraft bodies. It is found at home as kitchenware, soft drink cans, and cooking foil. Aluminium is also used to coat car headlamps and compact discs. It is used in electrical transmission lines because of its light weight. It can be Deposition (aerosol physics)|deposited on the surface of glass to make Mirror|mirrors, where a thin layer of Aluminium oxide|aluminum oxide quickly forms that acts as a protective coating. Aluminum oxide is also used to make synthetic Ruby|rubies and Sapphire|sapphires for Laser|lasers. Aluminum can now be produced from clay, but the process is not economically feasible at today.
+
+Pure aluminium is very soft, so a harder metal is almost always added. The harder metal is usually copper. Copper/aluminium alloys are to make ships, because the aluminium prevents corrosion, and the copper prevents barnacles.
+
+Aluminium compounds are used in deodorants, water processing plants, food additives, and antacids. Lithium aluminium hydride is a really strong reducing agent used in organic chemistry.
+
+Aluminium sulfate is used in water treatment. It is also used as a mordant in dyeing, in pickling seeds, deodorizing of Mineral oil|mineral oils, in leather tanning, and in production of other aluminium compounds.
+
+Aluminium chloride|Anhydrous aluminium chloride is used as a Catalysis|catalyst in chemical and petrochemical industries, the dyeing industry, and in synthesis of many Inorganic compound|inorganic and Organic compound|organic compounds.
+
+Aluminium hydroxychlorides are used in purifying water, in the paper industry, and as ￼￼antiperspirants￼. Sodium aluminate is used in treating water and as an accelerator for drying of cement. 
+
+Aluminium acetate in solution is used as an astringent.
+
+Aluminium phosphate is used to make glass, ceramic, pulp and paper products, cosmetics, paints, Varnish|varnishes. Aluminium hydroxide is used as an antacid, and mordant. It is used also in water purification, the manufacture of glass and ceramics, and in the waterproofing of Textile|fabrics.
+
+Aluminium is used in Car|automobiles, Truck|trucks, Train|railway cars, marine vessels, Bicycle|bicycles, spacecraft. Aluminium is used in making Door|doors, siding, building wire, sheathing, roofing and other building materials.
+
+ Recycling 
+Since aluminium needs to be made by electrolysis, it requires a very large amount of electrical power. Recycling aluminium would be much cheaper. That's why recycling plants were opened. The cost of recycling aluminium is much less than the cost of making it from bauxite.
+
+Recycling involves melting the scrap. This is a process that only needs 5% of the energy used to produce aluminium from ore. But, 15% of the input material part is lost as dross (ash-like oxide). An aluminium stack melter makes a lot less dross, about 1%.
+
+White dross from primary aluminium production and from secondary recycling processes still contains useful amounts of aluminium that can be extracted industrially. The process produces aluminium billets, together with a very complex waste. This waste is difficult to manage. It reacts with water, releasing a mixture of gases (including, hydrogen, acetylene, and ammonia), which ignites on contact with air.
+
+Toxicity
+Aluminium is not used in the human body, although it is very common. People debate whether its use in deodorants and water treatment is healthy. Aluminium ions slow down plant growth in acidic soils. Aluminium may be a factor in Alzheimer's disease (a disease when the brain stops working and the patient is confused). But the Alzheimer's Society says overwhelming medical and scientific opinion is that studies have not convincingly demonstrated a causal relationship between aluminium and Alzheimer's disease.
+In most people, aluminium is not as toxic as heavy metals. Aluminium is classified as a non-carcinogen by United States Department of Health and Human Services. There is little proof that normal exposure to aluminium is a risk to healthy adult. There is proof of no toxicity if it is taken in amounts not greater than 40 mg/day per kg of body mass.
+
+Aluminium rarely causes vitamin D-resistant osteomalacia, erythropoietin-resistant microcytic anemia, and central nervous system changes. People with kidney insufficiency are at a risk the most. Chronic ingestion of hydrated aluminium silicates may result in aluminium binding to the things in the intestines. It also increases the removal of other metals, like iron or zinc. Really high doses (>50 g/day) can cause anemia.
+
+A small percentage of people have contact Allergy|allergies to aluminium and experience itchy red rashes, headache, muscle pain, joint pain, poor memory, insomnia, depression, asthma, irritable bowel syndrome, or other symptoms when touching products containing aluminium.
+
+Exposure to powdered aluminium or aluminium welding fumes can cause pulmonary fibrosis. Fine aluminium powder can also explode.
+
+Ways of exposure
+Food is the main source of aluminium. Drinking water has more aluminium than solid foods.
+
+Taking of Antacid|antacids, antiperspirants, Vaccine|vaccines, and cosmetics give possible ways of Exposure (toxicology)|exposure.
+
+Treatment
+In case of suspected sudden consumption of a large amount of aluminium, the only treatment is deferoxamine mesylate. It may be given to help remove aluminium from the body by chelation. But, this should be applied with caution as it not only reduce aluminium in the body, but can also reduce those of other Metal|metals such as copper or iron.
+
+Environmental effects
+High levels of aluminium occur near mining sites. Small amounts of aluminium are released to the environment at the coal-fired power plants or incinerators. Aluminium in the air is washed out by the rain or normally settles down. But, small particles of aluminium remain in the air for a long time.
+
+Acid rain is the main natural factor to move aluminium from natural sources. It is also the main reason for the effects of aluminium on the environment.
+
+In water, aluminium acts as a toxiс agent on animals that with Gill|gills like fish by causing loss of Cell membrane|plasma- and Haemolymph|hemolymph ions leading to Osmoregulation|osmoregulatory failure.
+
+Aluminium is one of the primary factors that reduce the growth of plants on acidic soils. In acid soils the concentration of toxic Al3+ Cation|cations increases and disturbs the growth and function of the root. It is generally harmless to plant growth in pH-neutral soils.
+
+Aluminium production has its own problems to the environment on each step of the production process. The major problem is the greenhouse gas. These gases are caused by the electrical consumption of the smelters and the byproducts of processing. The strongest of these gases are perfluorocarbons from the smelting process.
+
+A Spanish scientific report from 2001 claimed that the fungus ''Geotrichum candidum'' eats the aluminium in Compact disc|compact discs.
+
+Gallery
+
+
+
+
+
+
+ Related pages 
+ List of common elements
+ Periodic table
+
+Category:Aluminium| 

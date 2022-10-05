@@ -1,0 +1,61 @@
+{{Infobox City
+|official_name          = Chatham, Massachusetts
+|nickname               =
+|motto                  =
+|image_skyline          = Chatham sunrise.jpg
+|image_caption          = Sunrise over the Atlantic from the Chatham beach.
+|image_seal             =
+|image_flag             =
+|image_map              = Chatham_ma_highlight.png
+|map_caption            = Location in Barnstable County in Massachusetts
+|subdivision_type       = Country
+|subdivision_name       = United States
+|subdivision_type1      = State
+|subdivision_name1      = Massachusetts
+|subdivision_type2      = County
+|subdivision_name2      = Barnstable County, Massachusetts|Barnstable County
+|established_title      = Settled
+|established_date       = 1665
+|established_title2     = Incorporated
+|established_date2      = 1712
+|established_title3     = 
+|established_date3      = 
+|government_type        = Open town meeting
+|leader_title           = &nbsp;&nbsp;&nbsp;Manager-->
+|leader_name            =
+|leader_title1          = &nbsp;&nbsp;&nbsp;Selectmen-->
+|leader_name1           =
+|area_total_km2             = 63.2
+|area_total_sq_mi        = 24.4
+|area_land_km2              = 42.0
+|area_land_sq_mi         = 16.2
+|area_water_km2             = 21.2
+|area_water_sq_mi        = 8.2
+|population_as_of       = 2000
+|settlement_type        = New England town|Town
+|population_total       = 6625
+|population_density_km2     = 157.7
+|population_density_sq_mi = 408.4
+|elevation_m              = 14
+|elevation_ft           = 46
+|timezone               = Eastern Time Zone (North America)|Eastern
+|utc_offset             = -5
+|timezone_DST           = Eastern Time Zone (North America)|Eastern
+|utc_offset_DST         = -4
+|coordinates = 
+|website                = |postal_code_type       = ZIP code
+|postal_code            = 02633
+|area_code              = Area code 508|508 / Area code 774|774
+|footnotes              = }}'''Chatham''' is a New England town in Barnstable County, Massachusetts|Barnstable County, Massachusetts. The population was 6,625 at the 2000 census. Chatham is home to the ''Monomoy National Wildlife Refuge'', located on Monomoy, and to ''Monomoy Theatre''.
+
+Other websites
+ 
+
+
+
+
+
+
+Category:Towns in Massachusetts
+Category:1665 establishments
+Category:1660s establishments in Massachusetts

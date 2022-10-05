@@ -1,0 +1,147 @@
+
+'''Bouches-du-Rhône''' (, lit. "Mouths of the Rhône") is a departments of France|department in the south of France named after the mouth of the Rhône River. It is the department of the Provence-Alpes-Côte d'Azur Regions of France|region with more people living in it.
+
+History
+Bouches-du-Rhône is one of the original 83 departments created during the French Revolution on 4 March 1790. It was made with part of the old province of Provence and was divided in six districts: Tarascon, Apt, Aix, Marseille, Salon and Arles, with Aix as is Capital city|capital.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the six districts were changed into three ''arrondissements'': Marseille, Aix and Tarascon. The Prefectures in France|prefecture was moved from Aix to Marseille.
+
+After the Battle of Waterloo (18 June 1815), the department was occupied by the Austrian army from June 1815 to November 1818.
+
+In 1817, the subprefecture of Tarascon was moved to Arles. The ''arrondissement'' of Istres was created in 1981.
+
+Geography
+The Bouches-du-Rhône department is part of the Regions of France|region of Provence-Alpes-Côte d'Azur. It has an area of .
+
+The department is surrounded by the 3 departments in 2 regions:
+ Occitanie region
+ Gard, to the west
+ Provence-Alpes-Côte d'Azur region
+ Vaucluse to the north
+ Var (department)|Var to the east
+
+The Mediterranean Sea is to the south and there is  of coast.
+
+
+
+
+Administration
+Bouches-du-Rhône is managed by the ''Departmental Council of Bouches-du-Rhône'' in Marseille. The department is part of the Provence-Alpes-Côte d'Azur region.
+
+=Administrative divisions=
+There are 4 Arrondissements of France|''arrondissements'' (districts), 29 Cantons in France|''cantons'' and 135 Communes in France|''communes'' (Municipality|municipalities) in Bouches-du-Rhône.
+
+
+
+
+
+The following is a list of the 29 Cantons of France|cantons of the '''Bouches-du-Rhône''' department, following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Aix-en-Provence-1|Aix-en-Provence-1 (1301)
+# Canton of Aix-en-Provence-2|Aix-en-Provence-2 (1302)
+# Canton of Allauch|Allauch (1303)
+# Canton of Arles|Arles (1304)
+# Canton of Aubagne|Aubagne (1305)
+# Canton of Berre-l'Étang|Berre-l'Étang (1306)
+# Canton of Châteaurenard|Châteaurenard (1307)
+# Canton of La Ciotat|La Ciotat (1308)
+# Canton of Gardanne|Gardanne (1309)
+# Canton of Istres|Istres (1310)
+# Canton of Marignane|Marignane (1311)
+# Canton of Marseille-1|Marseille-1 (1312)
+# Canton of Marseille-2|Marseille-2 (1313)
+# Canton of Marseille-3|Marseille-3 (1314)
+# Canton of Marseille-4|Marseille-4 (1315)
+# Canton of Marseille-5|Marseille-5 (1316)
+# Canton of Marseille-6|Marseille-6 (1317)
+# Canton of Marseille-7|Marseille-7 (1318)
+# Canton of Marseille-8|Marseille-8 (1319)
+# Canton of Marseille-9|Marseille-9 (1320)
+# Canton of Marseille-10|Marseille-10 (1321)
+# Canton of Marseille-11|Marseille-11 (1322)
+# Canton of Marseille-12|Marseille-12 (1323)
+# Canton of Martigues|Martigues (1324)
+# Canton of Pélissanne|Pélissanne (1325)
+# Canton of Salon-de-Provence-1|Salon-de-Provence-1 (1326)
+# Canton of Salon-de-Provence-2|Salon-de-Provence-2 (1327)
+# Canton of Trets|Trets (1328)
+# Canton of Vitrolles|Vitrolles (1329)
+
+
+Demographics
+The inhabitants of the Bouches-du-Rhône department are known, in French language|French, as ''Buccorhodaniens'' or (women: ''Buccorhodaniennes''),
+
+Bouches-du-Rhône had a population, in 2014, of 2,006,069, for a population density of  inhabitants/km2. The ''arrondissement'' of Marseille, with 1,058,615 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Bouches-du-Rhône'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:2200000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:200000 start:0
+ScaleMinor = gridcolor:lightgrey increment:100000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2008 text:2008
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 1470271
+ bar:1975 from:0 till: 1632974
+ bar:1982 from:0 till: 1724199
+ bar:1990 from:0 till: 1759371
+ bar:1999 from:0 till: 1835719
+ bar:2008 from:0 till: 1966005
+ bar:2014 from:0 till: 2006069
+
+PlotData=
+ bar:1968 at: 1470271 fontsize:S text: 1,470,271 shift:(-12,5)
+ bar:1975 at: 1632974 fontsize:S text: 1,632,974 shift:(-25,5)
+ bar:1982 at: 1724199 fontsize:S text: 1,724,199 shift:(-25,5)
+ bar:1990 at: 1759371 fontsize:S text: 1,759,371 shift:(-25,5)
+ bar:1999 at: 1835719 fontsize:S text: 1,835,719 shift:(-25,5)
+ bar:2008 at: 1966005 fontsize:S text: 1,966,005 shift:(-25,5)
+ bar:2014 at: 2006069 fontsize:S text: 2,006,069 shift:(-25,5)
+
+
+
+The 10 ''Communes of France|communes'' with more inhabitants in the Bouches-du-Rhône department are:
+
+
+
+
+Gallery
+
+Marseille Vieux Port Night.jpg|Marseille, main city of the region.
+
+
+File:Marseille - Fort Saint-Jean 16.jpg|Fort Saint-Jean, Marseille
+File:Arena d'Arles.JPG|Arles Amphitheatre
+File:2016 Aix-en-Provence - Hôtel de ville.jpg|Aix-en-Provence City and town halls|town hall
+File:Istres - Centre ancien.jpg|Istres - historical centre
+
+
+Related pages
+ Arrondissements of the Bouches-du-Rhône department
+ Communes of the Bouches-du-Rhône department
+
+Category:Departments in Provence-Alpes-Côte d'Azur

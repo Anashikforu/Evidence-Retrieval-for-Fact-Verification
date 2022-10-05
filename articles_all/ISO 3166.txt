@@ -1,0 +1,4 @@
+'''ISO 3166''' is a standardization|standard made by the International Organization for Standardization (ISO) and it uses short codes to name all countries and some other places. People from all over the world can use the same codes; this is helpful because different languages have different names for many countries. For example, the country English language|English-speakers call ''Spain'' is called ''España'' by Spanish language|Spanish-speakers. The ISO 3166 has three codes for Spain: ES, ESP, and 724. No other country has any of these codes.
+
+
+Category:ISO 3166| 

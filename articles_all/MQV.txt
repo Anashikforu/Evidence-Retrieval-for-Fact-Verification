@@ -1,0 +1,3 @@
+'''MQV''' ('''Menezes-Qu-Vanstone''') is an authentication|authenticated Cryptosystem|protocol for Key-agreement protocol|key agreement based on the Diffie-Hellman key exchange|Diffie-Hellman scheme. MQV provides protection against an active attacker. 
+
+Category:Cryptography

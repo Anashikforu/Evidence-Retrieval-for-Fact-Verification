@@ -1,0 +1,34 @@
+
+
+A '''website''' is a set of webpages that are joined together. People look at websites with a computer of some kind, sometimes including the computer inside Mobile phone|mobile phones and televisions. The websites are kept on computers called server|web servers.
+
+ Overview 
+There is almost always a single homepage which has links to other pages that are part of that "site". Sometimes it has links to pages that are part of other "sites" as well. (Note that net jargon uses the word site, which also means a physical place in the real world, to mean a World Wide Web|web URL). A home page serves as the wikt:introduction|introduction page of a website.
+ 
+Websites can be used to advertise or sell things. They can also be used to talk to other people. A blog is a website where the location of the material is less relevant than who writes it, and which is more focused on dialogue. Very often the people who use blogs dislike the word "site" since it implies a controlled place. Sites are good for looking up information on the computer.
+
+ Types 
+There are many different types of website based on their purpose and the type of organisation they are created for.
+ Weblog ''(also known as blog)''.
+ Wiki ''(A website where anyone can edit the pages)''.
+ Content Management System ''(Software that can edit web pages through a WYSIWYG editor)''.
+ Search engine ''(A website like Google Search|Google, Bing and DuckDuckGo which you can use to search the web)''.
+ Social networking sites ''(Like Facebook, Twitter and Instagram which allows you to interact with people on the internet)''.
+ Quiz websites like Quotev, Buzzfeed, Allthetests and GoToQuiz are websites used to look at Quizzes, fan-fictions and Surveys about Television, Radio and Music and other things done in Society.
+ Video Websites like YouTube exist to look at Videos of people and things.
+ Online forum, discussion, Q&A, and community website.
+ Membership website
+ Application Websites, ''Nowadays simply known as Apps'' are Websites that are Square shaped and require more difficulty to access and usually ask you to download their App to access specific things.
+ .org websites are websites that are organisations.
+ .uk, .au and .us are types of websites that are only available in the United kingdom, Australia and the United States, but some can be used outside of these countries.
+ .io websites are usually online game websites that run on an internet thing called an IO, which has some kind of meaning, but they can be accessed like any other website through the internet.
+ There are other types of websites that aren't available to the public that end in a . followed by random letters but there are too many to list.
+
+ Access 
+Users can access any website by using a URL. This is the website address which is shown near the top of the web browser. The homepage and the rest of the site usually have the same words at the start of the URL — for instance, pages at the Simple English Wikipedia always start "
+ Appearance 
+Web sites are usually shown in HTML (Hyper Text Markup Language) but are not always written or kept that way - some use WAP and others use XML.
+
+Website builder software is usually a collection of software tools that allow the construction of websites without manual code editing.Peri Pakroo; Marcia Stewart, ''Small Business Start-Up Kit, The: A Step-by-Step Legal Guide'' (Berkeley, CA: Nolo, 2014), p. 251 Several hosted website services have website builder software built-in.
+
+Category:Websites| 

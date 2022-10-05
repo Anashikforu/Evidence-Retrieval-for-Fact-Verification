@@ -1,0 +1,8 @@
+'''Tianhe-I''' is a supercomputer made and operated in the People's Republic of China and has been active since October 29, 2009. Right now, it is the second fastest supercomputer in the world, replacing the Jaguar supercomputer. It has 98,304 GB of memory and has 2.507 FLOPS|petaflops at its wikt:peak|peak. It uses a Linux operating system. It is being used for finding energy sources and doing wikt:simulation|simulations of aircraft right now.
+
+Upgrade
+It used to have 5,010 CPUs and 2,560 GPUs
+Related pages
+Tianhe-2
+
+Category:Computers

@@ -1,0 +1,24 @@
+
+{{Taxobox
+| name = ''Segisaurus''
+| fossil_range = Lower Jurassic
+| image = Segisaurus.jpg
+| image_width = 300px
+| image_caption = Reconstruction of ''Segisaurus halli'', skull is based on ''Coelophysis''
+| regnum = Animalia
+| classis = Sauropsida
+| superordo = Dinosauria
+| ordo = Saurischia
+| subordo = Theropoda
+| infraordo = Ceratosauria
+| familia = Coelophysidae
+| genus = '''''Segisaurus'''''
+|binomial = ''Segisaurus halli''}}
+
+'''''Segisaurus''''' was a small dinosaur from the Triassic. It was a relative of ''Coelophysis''.
+ 
+
+
+
+
+Category:Coelophysidae

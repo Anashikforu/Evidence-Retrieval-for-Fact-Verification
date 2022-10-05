@@ -1,0 +1,35 @@
+{{Infobox DMU
+|name = British Rail Class 127 
+|image = 51625 at Bewdley.JPG
+|imagesize = 240px
+|background = #0033cc
+|caption = Class 127, no, 51625 at Bewdley on the Severn Valley Railway on 15 October 2004, whilst on display at the Railcar 50 event. This vehicle has been part-restored to its original condition, having been rebuilt as a parcels unit (numbered 55976) in 1985. This vehicle is preserved at the Midland Railway Butterley, paired with driving motor 51591, and trailer 59609.
+|Manufacturer =BR Derby
+|Family = Bed-Pan
+|yearconstruction = 1959
+|Operator = British Rail
+|Formation = 4 cars per unit
+|Built = 120 vehicles (30 sets)
+|LinesServed = 
+|InService = 1959-1989 
+|CarLength = 64 ft 0 in
+|CarWidth = 9 ft 3 in 
+|CarHeight = 12 ft 4 1/2 in
+|Weight = 40 tons
+|Capacity = 
+|MaxSpeed = 70 mph (112 km/h) 
+|Gauge = Standard gauge
+|Traction = 
+|Engine =
+|SafetySystem=
+ |}}
+
+Image:55976_at_Bewdley.JPG|thumb|right|Class 127, no. 55976 at Bewdley on 15 October 2004. This vehicle was rebuilt as a parcels unit from 51625 (seen above), with the addition of roller-shutter doors. Now preserved at the Midland Railway Butterley, it is being rebuilt back to a passenger vehicle.
+
+The British Rail '''Class 127''' diesel multiple units were built by Derby Carriage and Wagon Works|BR Derby in 1959. Thirty 4-car units were built, formed of two outer driving motor vehicles, sandwiching two intermediate trailers. The technical description of such as 4-car unit was DMBS + TSL + TS + DMBS.
+
+
+
+
+
+Category:British Rail diesel multiple units|127

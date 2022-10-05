@@ -1,0 +1,13 @@
+
+
+'''''Counter-Strike''''' is a first-person shooter video game. It was made by Valve Corporation and released on November 9, 2000. It was made for Microsoft Windows first, but it was also released for the Xbox (console)|Xbox in 2003 and for OS X and Linux in 2013. Before it became its own game, ''Counter-Strike'' was a mod for Valve's other game, ''Half-Life (video game)|Half-Life''. It is a multiplayer game where two teams, counter-terrorists and Terrorism|terrorists, fight each other and try to finish their mission, or try to stop the other team from finishing their mission. These missions include exploding a bomb, rescuing hostages, or killing the VIP on the other team. The mission changes depending on the level the teams are playing on. A team wins if they finish their mission, or if they kill all the players on the other team. Players can buy weapons and equipment at the beginning of each round with the money they get from the previous rounds. People usually play the game Online and offline|online, where they connect to a server and fight other players. ''Counter-Strike'' is also sometimes called '''''Counter-Strike 1.6''''', because there have been more games released in the series, and 1.6 was the last update for the game. There have been two sequels to the game, ''Counter-Strike: Source'' and ''Counter-Strike: Global Offensive''.
+
+
+
+
+Category:2000 video games
+Category:Shooter video games
+Category:Windows games
+Category:Xbox games
+Category:MacOS games
+Category:Linux games

@@ -1,0 +1,21 @@
+{{Taxobox
+| name = Catfish
+| fossil_range = Upper Cretaceous – Recent
+| image = Eel-tail catfish.jpg
+| image_caption = Eel-tail catfish
+| image_width = 240px
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Actinopterygii
+| superordo = Ostariophysi
+| ordo = '''Siluriformes'''}}
+
+'''Catfish''' are an Order (biology)|order of teleost fish, the '''Siluriformes'''. There are about 40 Family (biology)|families in the order.
+
+They are called catfish because their barbels look like the whiskers of a cat. They are very diverse. The heaviest is the Mekong giant catfish, up to  350&nbsp;kg (770&nbsp;lb). The longest is the wels catfish, up to 4&nbsp;m (13&nbsp;ft). There are also detrivores in the group. There are some tiny parasite|parasitic catfish called candiru. Some catfish are grown for food, in fish farms. Some catfish can be kept in aquarium|aquaria.
+
+ Special lifestyles 
+Most catfish do not harm people, but some of them can cause problems. It is said that the candiru can enter the human urethra, where they stay as parasites. In normal life they are parasites on fish gills.
+
+The Malapteruridae are a family of electric fish|electric catfish. Several species of the family can produce an electric shock of up to 350 volts using electroplaques of an electric organ.
+Category:Catfish| 

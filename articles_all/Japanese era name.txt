@@ -1,0 +1,27 @@
+The , is a traditional calendar system which began during the wikt:reign|reign of Emperor Kōtoku in the 7th century. This calendar has been in use in Japan since the beginning of the 8th century.
+
+The historical Japanese calendar system wikt:define|defines and wikt:parse|parses time in terms of wikt:ordinal number|ordinal numbers.
+
+ Usage 
+
+Each new  was usually started soon after the beginning of the reign of a new emperor. Era names were also changed due to other events.  Starting in the reign of Emperor Yōzei, the tradition of naming eras because of good omens changed.  Instead, the name of an era might be chosen to ward off something bad.
+
+The first day of the  started whenever the emperor decided. This first year continued until the next lunar new year, which is understood to be the start of the ''nengō's'' second year.
+
+To change a Japanese year to a Western or Gregorian calendar year, find the first year of the ''nengō'' (see list below). When found, subtract 1, and add the number of the Japanese year. For example, the 23rd year of the Shōwa period (''Shōwa 23'') was 1948:
+
+:::ILLUSTRATION: '''1926 − 1 = 1925''' ..., and then  '''1925 + 23 = 1948''' ... or ''Shōwa'' 23.
+
+
+
+;Timeline of Japanese era names
+
+
+
+
+ Related pages 
+ List of emperors of Japan
+ Japanese Imperial year
+ Japanese calendar
+
+Category:8th-century establishments in Japan

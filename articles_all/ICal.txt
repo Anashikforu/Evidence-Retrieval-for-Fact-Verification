@@ -1,0 +1,34 @@
+
+
+
+'''iCal''' is a personal calendar application made by Apple Inc. that runs on the macOS operating system. iCal was the first calendar application for macOS to offer support for multiple calendars and the ability to publish/subscribe calendars to WebDAV server.
+
+Originally released as a free download for Mac OS X v10.2 on September 10 2002, with the release of Mac OS X v10.3 it was bundled with the operating system as iCal 1.5.  Version 2 of iCal was released as part of Mac OS X v10.4, Version 3 with Mac OS X v10.5 and Version 4 as part of Mac OS X v10.6.
+
+Apple 
+iCal development is quite different from other Apple software because it was designed independently by a small French team working "secretly" in Paris, led by Jean-Marie Hullot, a friend of Steve Jobs. iCal's development has since been transferred to Apple US headquarters in Cupertino, California|Cupertino.
+
+Features
+It tracks events and appointments, allows multiple calendar views (such as calendars for "home", "work", and other calendars you create) to quickly identify conflicts and free time.
+It is integrated with MobileMe, so calendars can be shared and synced with other devices, such as PCs, iPhones, and iPod touch, over the Internet. You can also share calendars via the WebDAV protocol. Google now supports WebDAV for Google Calendar making iCal easily configurable with Google Sync.
+Users can subscribe to other calendars so they can keep up with friends and colleagues, and other things such as athletic schedules and television programs.
+iCal allows notification of upcoming events either on screen, by e-mail, Short message service|SMS, or Pager. There is also a third-party Dashboard (software)|Dashboard widget called  iCal integrates Apple Sync Services to sync its data with MobileMe, devices such as Personal digital assistant|PDA, iPod, iPhone or other mobile phones via iSync and third party software.
+ iCal supports the use of the iCalendar format.  It does not support the older vCalendar 1.0 format.
+=New in Version 3=
+ Setting to let iCal set auto-alarms for each event created.
+ Redesigned user interface
+ Inline event editing
+ Ability to turn off alarms for all events
+ Use a CalDAV(WebDAV) account to store and keep calendars in sync on a CalDAV server.
+ The date on the icon (computing)|icon in the Dock (computing)|Dock displays the current date all the time. (Until version 3, iCal's icon displayed July 17—the date iCal premiered in 2002 at the Macworld Expo—by default until the program was run.)
+=New in Version 4=
+ Microsoft Exchange Server 2007 support 
+ Refined user interface (particularly for multiple events management)
+=Bugs=
+It has been reported that some users of iCal who have their calendar on a CalDAV server can not view or add events to their calendar. This issue is specific to Google Calendar users.
+
+The release of Snow Leopard introduced several bugs into Snow Leopard, with regard to iCal alarms. Updates to Snow Leopard 10.6.1 and 10.6.2 have not addressed these problems.
+
+iCal supports times zones, i.e.: if the function is enabled, and the computer's time zone changes, all the events in iCal are shifted to compensate for the time zone difference. The bug is that this function also occurs when it is turned off, therefore, whenever the computer's time zone changes, all the events in iCal shift as well. As of today, there is still no fix for this bug.
+
+Category:MacOS

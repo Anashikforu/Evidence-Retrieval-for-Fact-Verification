@@ -1,0 +1,25 @@
+
+{{taxobox
+|image = Dryas drummondii6.jpg
+|image_caption = ''Dryas × suendermannii''
+|regnum = Plantae
+|unranked_divisio = Angiosperms
+|unranked_classis = Eudicots
+|unranked_ordo = Rosids
+|ordo = Rosales
+|familia = Rosaceae
+|subfamilia = Dryadoideae
+|genus = '''''Dryas'''''}}
+
+'''''Dryas''''' is a genus of flowering plants in the family (biology)|family Rosaceae.
+
+There are three species and one hybrid:
+''Dryas drummondii'' – Drummond's avens
+''Dryas integrifolia'' – Entire-leaved avens
+''Dryas octopetala'' – Mountain avens
+''Dryas × suendermannii'' – ''D. drummondii'' × ''D. octopetala''
+
+
+
+
+Category:Rosaceae

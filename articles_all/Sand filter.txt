@@ -1,0 +1,6 @@
+A '''sand filter''' is a layer of sand which is used to clean water of bacteria and other microorganisms.
+
+A layer of sand or gravel is used when sewage goes through  sewage treatment. Before sewage comes to the bacteria bed, it should already have gone thru part of the sewage treatment.A. Rushton, A.S. Ward, R.G. Holdich 1996. ''Introduction to solid-liquid filtration and separation technology''. Wiley VCH. ISBN 978-3-527-28613-3 At the bacteria bed, sewage gets exposed to (or has contact with) air, while microorganisms make some change to that sewage. The oxygen in the water kills the microbes, which are anaerobic.
+
+The name "bacteria bed" is sometimes used about this type of filter.
+

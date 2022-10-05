@@ -1,0 +1,33 @@
+{{Infobox lake
+| lake_name          = Caspian Sea
+| image_lake         = Caspian Sea from orbit.jpg
+| caption_lake       = As captured by the Moderate-Resolution Imaging Spectroradiometer|MODIS on the orbiting Terra (satellite)|Terra satellite
+| image_bathymetry   =
+| caption_bathymetry =  l
+| location           =
+| coords             = 
+| type               = Endorheic, Saline, Permanent, Natural
+| inflow             = Volga River, Ural River, Kura River, Terek River
+| outflow            = Evaporation
+| catchment          = 
+| basin_countries    = Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan
+| length             = 
+| width              = 
+| area               = 
+| depth              = 
+| max-depth          = 
+| volume             = 
+| residence_time     = 250 years
+| shore              = 
+| elevation          = 
+| frozen             =
+| islands            = :Category:Islands of the Caspian Sea|26+
+| islands_category   = Islands of the Caspian Sea
+| cities             = Baku (Azerbaijan), Rasht (Iran), Aktau (Kazakhstan), Makhachkala (Russia), Türkmenbaşy, Turkmenistan|Türkmenbaşy (Turkmenistan)
+| reference          = van der Leeden, Troise, and Todd, eds. 1990. ''The Water Encyclopedia.'' 2nd ed, Chelsea, MI: Lewis Publishers, p196}}
+
+The '''Caspian Sea''' is the largest lake on Earth by both area and volume. It has a surface area of . The Caspian has for 40 to 44% of the total lake waters of the world.
+
+The Caspian sea is an Endorheic basin|endorheic body of water. It is bordered by Russia, Azerbaijan, Iran, Turkmenistan and Kazakhstan. It has a maximum depth of about . It is called a sea because when the Ancient Rome|Romans first arrived there, they tasted the water and found it to be salty. It has a salinity of approximately 1.2%, about a third the salinity of sea water.
+
+Category:Lakes of Asia

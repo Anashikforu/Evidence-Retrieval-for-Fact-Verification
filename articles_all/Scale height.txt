@@ -1,0 +1,6 @@
+A '''scale height''' is a term for a distance over which a quantity decreases by a factor of ''e (mathematical constant)|e'' (the base of natural logarithms). The scale height is usually shown by a capital letter ''H''.
+
+
+
+Category:Atmosphere
+Category:Meteorology

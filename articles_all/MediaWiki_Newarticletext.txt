@@ -1,0 +1,10 @@
+
+|Category=Before starting this category, please be sure it has not been started before.|Help=Please check Help:Contents|the help pages that have already been started to make sure you do not start a page that is not needed.|Image=Please do not add images. Images should be uploaded to Wikimedia Commons instead.
+|MediaWiki=|Template=Please read Wikipedia:Template messages before starting a template. Also, be sure that this template has not been started before.|User=Usually, this page should be started and changed by User:
+|Image=|
+  just type in the box below. You can click the "Show preview" button to see how it looks, at any time before you save it. When you are finished, just click "Publish changes".
+
+ If you want to make test changes, please use the Wikipedia:Sandbox|sandbox.
+ If you have just started  click this link. If a page used to be here with the same name, it will be listed below here.
+ If you are bringing an article from another Wikipedia, '''you must attribute the source''' per Creative Commons Attributions/Share-Alike and/or GFDL.  Wikipedia:Transwiki Attribution|A Guidebook is available.  
+ '''Administrators:''' You may &notallrevs Import this page.

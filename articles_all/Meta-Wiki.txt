@@ -1,0 +1,10 @@
+Image:Wikimedia-logo-meta.svg|thumb|200px|The Meta-Wiki logo
+'''Meta Wiki''' (or Wikimedia Meta or simply Meta) is a wiki which holds information for all Wikimedia projects. Wikipedia has an interwiki link to Meta using m:.
+
+Other websites
+ m:|Official website
+
+
+
+
+Category:Wikimedia

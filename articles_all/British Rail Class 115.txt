@@ -1,0 +1,39 @@
+{{Infobox DMU
+|name = British Rail Class 115 
+|image = 
+|imagesize = 300px
+|background = #0033cc
+|caption = 
+|Manufacturer = Derby Carriage and Wagon Works|BR Derby 
+|Operator = British Rail
+|Formation =  4 cars per trainset 
+|Built =41
+|LinesServed = Chiltern Main Line, London to Aylesbury Line
+|InService = 1960-1998
+|CarLength = 
+|CarWidth = 
+|CarHeight = 
+|Weight = 38 tonnes
+|Capacity = 
+|MaxSpeed = 70 mph 
+|Gauge = Standard gauge|1435 mm (4 ft 8½ in)
+|Traction = 
+|Engine =BUT (Leyland Albion) of 230hp 
+|SafetySystem=
+ |}}
+
+These 41 high density sets operated the outer-suburban services from Marylebone station|Marylebone usually to destinations such as High Wycombe, Aylesbury and Banbury which are on the Chiltern Main Line and Great Central Main Line (now the London to Aylesbury Line). Sometimes, these sets used to operate 8-12 car long expresses to Nottingham Victoria in the final years of the GCML. Coincidence|Coincidentally, the 115 were under Table 115 in the British Rail timetable.
+
+Based on the basic Derby high density design, the sets are similar to British Rail Class 127|Class 127 but were internally superior as the class had larger windows, better furnishings, lighting and wall surfaces. 
+
+Some sets were also built for the Cheshire Lines Committee|CLC line between Liverpool and Manchester. These were later transferred to Marylebone. They also worked from Tyseley in the later years.
+
+The Marylebone sets, which were later transferred to Bletchley but remained on Chiltern Hills|Chiltern Line duties, were declared surplus after the introduction of British Rail class 165|Class 165s, from 1991 onwards. While at Bletchley depot the class was also used on the Gospel Oak to Barking Line, units being formed as power twins.  They were in turn replaced on this line by British Rail Class 117|class 117 power twins. 
+
+The final Class 115 working out of Marylebone was in July 1992. The Tyseley sets survived a bit longer, until February 1994.
+
+
+
+
+
+Category:British Rail diesel multiple units|115

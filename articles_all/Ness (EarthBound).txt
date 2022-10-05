@@ -1,0 +1,7 @@
+#REDIRECT EarthBound#Characters
+
+en:EarthBound#Characters
+es:Ness
+fr:Ness (personnage)
+it:Ness
+ja:ネス (MOTHER2)

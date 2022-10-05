@@ -1,0 +1,11 @@
+In cryptography, the '''Secure Hashing Algorithms''' are a group of cryptographic hash functions released by the National Institute of Standards and Technology (NIST). The algorithms take an input and produce a ''hash'' value (often shown in hexadecimal).
+ Family 
+
+ '''SHA-0:''' It was the name used for the original Secure Hashing Algorithm that was released in 1993. It was no longer used because it was not safe to use and was quickly replaced with SHA-1.
+ '''SHA-1:''' It is the first name used for the official Secure Hashing Algorithm. It was released after a weakness in SHA-0. It was made by the National Security Agency (NSA).
+ '''SHA-2:''' It is one the most popular type of SHA. There are options to set the length (by changing the digest size) of the hash to 256 or 512 bits. SHA256 and SHA512 refer to these algorithms. It was also made by the National Security Agency.
+ '''SHA-3 (Keccak)'''
+
+The Secure Hashing Algorithms, being Federal Information Processing Standard (FIPS) compliant algorithms are subject to the Cryptographic Algorithm Validation Program
+
+Category:Cryptography

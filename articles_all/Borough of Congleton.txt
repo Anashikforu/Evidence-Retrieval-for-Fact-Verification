@@ -1,0 +1,38 @@
+{{Infobox historic subdivision|
+ |Name=                Borough of Congleton
+ |HQ=                  Westfields, Sandbach
+ |Status=              Non-metropolitan district
+ |Origin=              Congleton|Congleton Municipal BoroughAlsager|Alsager Urban DistrictMiddlewich|Middlewich Urban DistrictSandbach|Sandbach Urban DistrictCongleton Rural District.
+ |Start=               1 April 1974
+ |End=                 31 March 2009
+ |Replace=             Cheshire East
+ |Map=                 ''
+ |Image=
+ |Arms=
+ |Civic=
+ |Motto=
+ |Government=
+ |Divisions=
+ |DivisionsNames=
+ |DivisionsMap=
+ |CodeName=            ONS coding system|ONS code
+ |Code=                13UC
+ }}
+The '''Borough of Congleton''' (or '''Congleton Borough''') is in Cheshire, England. The towns of Alsager, Congleton, Middlewich and Sandbach are in the Borough. It is part of the second tier of local government, the Borough will be replaced by Cheshire East in April 2009.
+
+Religion
+The percentage of people of each religion in  the borough. 
+
+People stating religion as: 
+
+Christian: 81.46%
+Muslim: 0.17%
+Buddhist: 0.12%
+Hindu: 0.11%
+Jewish: 0.06%
+Sikh: 0.04%
+Other religions: 0.16%
+No religion: 11.46%
+Religion not stated: 6.43%
+
+Category:Cheshire

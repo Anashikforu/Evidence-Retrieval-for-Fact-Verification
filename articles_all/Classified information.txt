@@ -1,0 +1,23 @@
+
+Image:NSALibertyReport.p13.jpg|thumb|A typical classified document. Page 13 of a U.S. National Security Agency report 
+'''Classified information''' is sensitive information to which access is restricted by law or regulation to particular classes of people. A formal security clearance is required to handle classified documents or access classified data. The clearance process requires a satisfactory background investigation. There are typically several levels of sensitivity, with differing clearance requirements. This sort of hierarchical system of sharing information among a group of people is almost used by every national government. The operation of assigning the level of sensitivity to data is called '''data classification'''.
+
+The purpose of classification is to protect information from being used to damage or cause danger to national security. Classification formalizes what constitutes a "state secret" and deals with different levels of protection based on the expected damage the information might cause if it reached the wrong hands.
+
+Certain non-government organizations and corporations also have their own secret information, normally referred to as trade secrets.
+
+ Classification levels 
+Although the classification systems vary from country to country, most have levels corresponding to the following British definitions (from the highest level to lowest):
+; Top Secret (TS) : The highest level of classification of material on a national level. Such material would cause "exceptionally grave damage" to national security if publicly available.
+; Secret: Such material would cause "serious damage" to national security if publicly available.
+; Confidential: Such material would cause "damage" or be "prejudicial" to national security if publicly available.
+; Restricted: Such material would cause "undesirable effects" if publicly available. Some countries do not have such a classification.
+; Unclassified: Technically not a classification level, but is used for government documents that do not have a classification listed above. Such documents can sometimes be viewed by those without security clearance.
+
+Depending on the level of classification there are different rules controlling the level of clearance needed to view such information, and how it must be stored, transmitted, and destroyed. Additionally, access is restricted on a "need to know" basis. Simply possessing a clearance does not automatically authorize the individual to view all material classified at that level or below that level. The individual must present a legitimate "need to know" in addition to the proper level of clearance.
+
+Other websites and references
+      Lerner, Brenda Wilmoth & K. Lee Lerner, eds. ''Terrorism : essential primary sources.'' Thomson Gale, 2006.  Library of Congress. Jefferson or Adams Bldg General or Area Studies Reading Rms LC Control Number: 2005024002.
+Peter Galison,  
+Category:National security
+Category:Secrecy

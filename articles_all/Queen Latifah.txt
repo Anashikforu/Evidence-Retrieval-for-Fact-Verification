@@ -1,0 +1,22 @@
+{{Infobox person
+|name            = Queen Latifah
+|image           = Queen Latifah.jpg
+|caption         = Latifah performing at the 2nd Annual BET Honors, 2009
+|birth_name      = Dana Elaine Owens
+|alias           = 
+|birth_date      = 
+|nationality     = Americans|American
+|birth_place     = Newark, New Jersey, U.S.
+|occupation      = Singer, songwriter, rapper, actress, model, producer, talk show host
+|years_active    = 1988–present
+| home town      = East Orange, New Jersey, U.S.
+|website         = 
+| module         = {{Infobox musical artist|embed=yes
+| background     = solo_singer
+|instrument      = Vocals, piano
+|genre           = Contemporary R&B|R&B, Soul music|soul, jazz, Hip hop music|hip hop, Gospel music|gospel, Dance music|dance}}
+|label           = Verve Records|Verve, A&M Records|A&M, Interscope Records|Interscope, Motown Records|Motown, PolyGram Records|PolyGram, Tommy Boy Entertainment|Tommy Boy, Warner Bros. Records|Warner Bros., Walt Disney Records|Disney}}
+
+'''Dana Elaine Owens''' (born March 18, 1970 in Newark, New Jersey), best known under the name '''Queen Latifah''' is an Americans|American, rapper singer, actress and model (person)|model. She has won a Golden Globe award, two Screen Actors Guild Awards, two Image Awards, a Grammy Award, six additional Grammy nominations, an Emmy Award nomination and an Academy Award nomination.
+
+Category:Singers from New Jersey

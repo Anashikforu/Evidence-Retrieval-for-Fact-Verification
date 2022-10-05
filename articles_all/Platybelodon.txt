@@ -1,0 +1,23 @@
+{{Taxobox
+| colour = rgb(220,220,183)
+| name = ''Platybelodon''
+| image = WPHubeiPlatybeladon.jpg
+| image_width = 250px
+| image_caption = Skeleton exhibited at Hubei province
+| fossil_range = Miocene
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Proboscidea
+| familia = †Gomphotheriidae
+| genus = †'''''Platybelodon'''''
+| genus_authority = Borissiak, 1928}}
+
+'''''Platybelodon''''' was a Gomphothere. These are extinction|extinct  large herbivores related to modern elephants. They are commonly known as  '''shovel tuskers'''. ''Platybelodon'' lived during the Miocene, about 154 million years ago in Africa, Europe, Asia and North America.
+
+Palaeobiology
+''Platybelodon'' was previously believed to have fed in the swampy areas of grassy savannas, using its teeth to shovel up aquatic and semi-aquatic vegetation. 
+
+However, wear patterns on the teeth suggest that it used its lower tusks to strip bark from trees. They may have used the sharp incisors that formed the edge of the "shovel" more like a modern-day scythe, grasping branches with its trunk and rubbing them against the lower teeth to cut it from a tree.Lambert W.D. 1992. The feeding habits of the shovel-tusked gomphotheres: evidence from tusk wear patterns. ''Paleobiology'', '''18'''(2): 132-147.
+
+category:Extinct elephants

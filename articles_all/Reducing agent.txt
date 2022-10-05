@@ -1,0 +1,18 @@
+
+
+A '''reducing agent''' is a chemical that gives away electrons to another chemical compound, the oxidizing agent. For example, zinc is a reducing agent. When it wikt:react|reacts with an oxidation|oxidizing agent, it gives up two electrons, changing its oxidation state from 0 to +2. All chemical elements have an oxidation state of 0.
+
+Examples
+Tin(II) chloride
+Zinc
+Aluminum
+Alkali metal
+Sulfur
+Hydrogen
+
+Related pages
+Oxidation
+Reduction (chemistry)|Reduction
+Oxidizing agent
+
+Category:Chemistry

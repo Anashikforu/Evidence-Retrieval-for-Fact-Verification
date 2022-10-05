@@ -1,0 +1,41 @@
+
+
+
+A '''train''' is a set of cars on a railway. The vehicles that carry freight are called ''cars'' (in the United States) or ''wagons'' (in the United Kingdom). The ones that carry passengers are often called coaches or carriages. A place where a train stops to let people get on and off is called a train station or railway station. Early trains used horse power and ran on wooden or iron tracks. These were used in the Middle Ages. The first steam trains were built in England in the early 19th century. Long before railways, "train" meant any group of vehicles or pack animals traveling in a line, as in wagon train or camel train.  
+
+The first train called the steam railway locomotive, was invented by ''Richard Trevithick'' following an idea by Samual Homfray and was helped by a welsh craftsmen at the Penydarren Iron Works in Merthyr Tydfil, Wales, UK.  
+
+The train made it's first journey on Feburary 21st, 1804.  
+
+The first full-scale working railway steam locomotive, was the 3 ft (914 mm) gauge ''Coalbrookdale Locomotive'', built by Trevithick in 1802.  
+
+Trains contain the prime mover (locomotive)|prime mover (either locomotive or motor unit) and one or more cars. The locomotive or railway engine (usually the first car of the train) pulls the cars along the track. The last car you will see on a train is called the caboose. Some trains look like a special bus that can only drive on rails. Trains are used to carry people, and also things like raw material, finished goods, cargo, and waste.  
+
+ Types of train 
+
+= Freight =
+
+
+Freight trains have freight cars (US) or goods' wagons (UK) to carry goods from one place to another. Some are Boxcar|boxcars (closed and roofed cars for cargo); others are special so they can carry special cargo. There are hopper cars for sand, coal, ore and other granulous (sand-like) materials, flatbed cars for vehicles and machinery, tank cars for liquids, container cars for containers and even bottle cars for Iron|molten iron. Almost anything which is not too large to fit under tunnels and bridges can be transported on special freight cars.
+
+= Passenger =
+
+
+
+Passenger trains have passenger cars (US) or coaches (UK) made so people can ride them from one train station to another. There are few long-distance passenger trains in the United States, but more in Europe and Asia. Most passenger cars are single-deckers: there are also double-decker passenger cars, such as the Finnish Inter-City cars.
+
+Passenger trains are usually a very comfortable way of traveling. Many trains have electrical outlets and Wi-Fi Hotspot (computers)|hotspots for computers, and a special restaurant car for dining and refreshments. There are also sleeping cars (passenger cars with beds) for long overnight voyages.
+
+High-speed rail uses special, fast passenger trains on special tracks. A few of the fast ones are maglev trains, using magnets to hover slightly off the tracks to have less friction.
+
+ Crew 
+ The '''driver''' or '''engineer''' makes sure the train works right, and speeds it up or slows it down. Every train needs a driver to make it run well.
+ The '''guard''' or '''conductor''' makes sure the train goes the right way and tells the driver if he makes a mistake.
+ Only steam trains have a ''fireman''. He makes sure the fire that powers the steam locomotive is burning properly by putting coal into the fire.
+
+ Propulsion 
+Most trains are pulled by locomotives. Before 1900, almost all were steam locomotives. As this kind of steam engine uses very much fuel for the work it does, steam began to give way to diesel locomotives and electric locomotives during the 1930s.  Today, most locomotives are diesel-electric locomotives.
+
+Sometimes a train has no separate locomotive, but the prime mover (diesel engine or electric motor) is located on the first car of the train itself, and the car has engineer's cabin. The car is called a "motor unit".   Some trains have motors in many or all of the cars. This is called a diesel multiple unit or electric multiple unit.  Usually, both ends of the train have engineer's cabins. These trains are especially popular in commuter traffic in large towns and cities. Electric trains get their power from a third rail or from overhead wires.
+
+Category:Trains| 

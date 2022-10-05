@@ -1,0 +1,34 @@
+{{Taxobox
+| status = LC 
+| status_system = IUCN3.1
+| status_ref = BirdLife International. 2012. | image = Lophophorus impejanus Zoo DU 2.jpg
+| image_caption = Himalayan monal, male
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Galliformes
+| familia = Phasianidae
+| subfamilia = Phasianinae
+| genus = ''Monal|Lophophorus''
+| binomial = ''Lophophorus impejanus''
+| range_map         = Lophophorus impejanus range map.png
+| range_map_width   = 
+| range_map_alt     = Map showing range of the Himalayan Monal
+| range_map_caption = Range of ''Lophophorus impejanus''}}
+
+The '''Himalayan monal''' (''Lophophorus impejanus''), also known as the '''Impeyan monal''' or '''pheasant''', is a bird in the pheasant family, Phasianidae.  Its discoverer, Latham, wrote in his ''General History of Birds'' (1821): "the monal inhabits India, but is not common, being brought from the hills in the northern parts of Hindustan to Calcutta, as a rarity. Lady Impey attempted, with great prospect of success, to bring some of them to England, but after living on board for two months they caught a disorder from the other poultry, and died". Available on line in 
+It is the List of national birds|national bird of Nepal, where it is known as the '''danphe''' (or Danfe), and is mentioned frequently in Nepali language|Nepali songs. In Kashmir, it is the state/regional bird of the disputed territory.
+
+ Description 
+
+The Himalayan monal is a relatively large-sized pheasant. The males of this species look quite different from the females of the species. The male Himalayan monals have bright and colorful feathers of blue, green, purple, and red. They have a white patch of feathers underneath the base of their tail, but the rest of their underside is black. The males also have a Crest (feathers)|crest (several feathers) on top of their heads. Both the male and female of the species have blue circles of skin around their eyes. The females and the young birds (:wikt:chick|chicks) have an overall brown appearance. Their feathers also have white and black strips on certain parts. The females have a white throat.
+
+The male chicks look like the females chicks until a little after a year when they begin to become more colorful. Before then you could tell the young male and females apart because of their larger size and black feathers, instead of white feathers, on the throat.
+
+Gallery
+
+File:Himalayan Monal Osaka.jpg|Female (head)
+File:Lophophorus impejanus Zoo DU 1.jpg|Male (head)
+Lophophorus impejanus MHNT.ZOO.2010.11.10.1.jpg |Museum specimen
+
+
+Category:Galliformes

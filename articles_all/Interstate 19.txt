@@ -1,0 +1,11 @@
+
+|direction_b=North
+|terminus_b= in Tucson
+|counties=Santa Cruz County, Arizona|Santa Cruz, Pima County, Arizona|Pima
+|previous_type=I
+|previous_route=17
+|next_type=AZ
+|next_route=24
+}}
+'''Interstate 19''' is an Interstate Highway in the state of Arizona in the United States. It goes from Nogales, Arizona|Nogales at the Mexico border north to Tucson, Arizona|Tucson. The route is  long.
+Category:Interstate Highways|19

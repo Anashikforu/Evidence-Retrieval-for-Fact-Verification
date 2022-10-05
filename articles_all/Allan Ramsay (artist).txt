@@ -1,0 +1,35 @@
+{{Infobox Artist
+| bgcolour      = 
+| name          = Allan Ramsay
+| image         = Allan Ramsay, Selbstportrait.jpg
+| caption       = Allan Ramsay, self-portrait, c.1737–9
+| birthname     = 
+| birthdate     = 13 October 1713
+| location      = Edinburgh, Midlothian
+| deathdate = 10 August 1784
+| deathplace    = Dover, England|Dover, Kent
+| nationality   = Scottish
+| field         = Portraiture
+| training      = London (1733-36, under Hans Huyssing, and at the St. Martin's Lane Academy); Rome (1736-9, under Francesco Solimena and Francesco Fernandi). 
+| movement      = Classicism
+| works         = 
+| patrons       = Duncan Forbes of Culloden|Duncan Forbes, Francis Egerton, 3rd Duke of Bridgewater|Duke of Bridgewater, George III of the United Kingdom|George III
+| influenced by =
+| influenced    =}}
+
+'''Allan Ramsay''' (13 October 1713 – 10 August 1784), was a Scotland|Scottish portrait-painter. Allan Ramsay was descended from the lowland Clan Ramsay.
+
+
+ 
+
+
+
+
+
+
+
+
+
+Category:1713 births
+Category:1784 deaths
+Category:Scottish painters

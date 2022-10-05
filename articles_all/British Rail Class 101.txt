@@ -1,0 +1,36 @@
+{{Infobox DMU   
+ |name = British Rail Class 101    
+ |image = 101692 at Arley.JPG   
+ |imagesize = 300px   
+ |background = #0033cc   
+ |caption =  Class 101, no. 101692 (formed of vehicles 53170 + 53253) at Arley on the Severn Valley Railway on 15 October 2004, whilst taking part in the Railcar 50 event. This unit was specially repainted in Caledonian Blue livery in 1996 by ScotRail for the launch of a new Motherwell to Cumbernauld Line. In 2000, it transferred to Manchester, where it became one of the final six in service with First North Western. It was withdrawn in October 2003, and is now preserved at the Midland Railway Butterley.  
+ |Manufacturer = BREL   
+ |Operator = British Rail   
+ |Formation = 2 cars per trainset   
+ |Built = 1956–1959    
+ |LinesServed =    
+ |InService = 1956–2003    
+ |CarLength = 17.37 m   
+ |CarWidth = 2.81 m   
+ |CarHeight = 3.77 m   
+ |Weight = 32.5 tonnes   
+ |Capacity =    
+ |MaxSpeed = 75 mph (121 km/h)    
+ |Gauge =    
+ |Traction =    
+ |Engine =    
+ |SafetySystem=   
+ |}} 
+
+Image:British Rail 960001 at Norwich.jpg|thumb|right|British Rail Class 960|Class 960 departmental unit no. British Rail Class 901|960001 at Norwich on 31 January 2004. This unit was rebuilt as an Ultrasonic Test Train in 1986, and is pictured here in Railtrack blue/lime green livery.
+Image:DerehamDMU.jpg|thumb|right|Class 101 DMU preserved in the blue-grey corporate livery at the Mid-Norfolk Railway
+
+The British Rail '''Class 101''' diesel multiple units were built by Metro-Cammell at Washwood Heath in Birmingham from 1956 to 1959, following construction of a series of British Rail Metro-Cammell|prototype units. This class proved to be the most successful and longest-lived of all BR's ''First Generation'' DMUs, with the final five units being withdrawn on 24 December 2003. The oldest set was, by then, just over 47 years old.
+
+
+
+
+
+
+Category:British Rail diesel multiple units|101
+Category:BREL locomotives

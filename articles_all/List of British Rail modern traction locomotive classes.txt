@@ -1,0 +1,72 @@
+This page lists every locomotive allocated a TOPS classification and all modern traction (e.g. diesel locomotive|diesel, electric locomotive|electric, gas turbine locomotive|gas turbine, petrol engine|petrol) stock used on the mainline network since 1948 (i.e. British Railways and post-privatisation).
+
+ Diesel locomotives 
+The British Rail locomotive and multiple unit numbering and classification#Modern traction|1955 diesel locomotive classes are given in brackets where applicable.
+
+A large number of different shunter types were purchased by British Rail and its predecessors, many of which were withdrawn prior to the introduction of TOPS. The tables below attempt to list the different types and the British Rail locomotive and multiple unit numbering and classification#Modern traction|different classifications used to describe them as clearly as possible:
+
+= Small shunters: under 300&nbsp;hp =
+Shunter classes are listed by 1955 class, which puts TOPS classes in ascending order, and generally puts 1948 and 1962 classes in ascending order. Unclassed shunters are placed at the start of the table; TOPS class 07 has been placed so its 1962 class is in the logical place.
+
+
+ Relation between TOPS, 1948, 1955 and 1962 classes, and 1948, 1957 and TOPS numbers:
+
+=Large shunters: 300 - 799hp=
+
+ Relation between TOPS, 1948, 1955 and 1962 classes, and 1948, 1957 and TOPS numbers:
+
+=Type 1 locomotives: 800 - 1000hp=
+
+ Relation between TOPS, 1948, 1955 and 1962 classes, and 1948, 1957 and TOPS numbers (unless otherwsie given):
+
+=Type 2 locomotives: 1001 - 1499hp=
+Locomotive class are listed by TOPS class. Locomotives for TOPS classes 24 and 26 have their original sub-classes shown, as each wholly comprised locomotives from a distinct 1962 class.
+
+
+ Relation between TOPS, 1948, 1955 and 1962 classes, and 1948, 1957 and TOPS numbers (unless otherwise given):
+
+=Type 3 locomotives: 1500 – 1999hp=
+
+
+ Relation between TOPS, 1955 and 1962 classes, and pre-TOPS and TOPS numbers (unless otherwise given):
+
+=Type 4 locomotives: 2000 – 2999hp=
+
+
+=Type 5 locomotives: over 3000hp=
+<!-- very dubious text which probably belongs in the article on the class
+British Rail Class 55|Class 55s (also known as ''Deltics'') had 1955 class D33/1 and 1962 class 33/3, and their 1957 numbers were D9000–D9021.some still in use in austrailia.
+-->
+
+
+
+Electric locomotives
+
+
+=DC electric locomotives=
+
+
+=AC electric locomotives=
+
+
+Miscellaneous locomotives
+
+
+=Class 99=
+When British Rail implemented the TOPS system for managing their operating stock, part of their shipping fleet was incorporated into the system as British Rail Class 99|Class 99, in order to circumvent some of the restrictions of the application software.
+
+=Builders' demonstrators=
+These were locomotives built and owned by private firms, but used by British Rail to test them.
+
+
+= Unbuilt locomotives =
+
+A number of TOPS class numbers were allocated to proposed locomotives, both diesel and electric, which for many reasons were not proceeded with.
+
+Related pages
+
+ British Rail locomotive and multiple unit numbering and classification
+ Steam locomotives of British Railways
+ British Rail coach designations
+
+Category:British railway-related lists

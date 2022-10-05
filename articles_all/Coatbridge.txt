@@ -1,0 +1,33 @@
+{{infobox UK place
+|country = Scotland
+ |official_name= Coatbridge
+ |gaelic_name= Drochaid a' Chòta
+ |scots_name= Cotbrig| population = 41,170
+| population_ref = (United Kingdom Census 2001|2001 Census)
+ |population_density= 
+ |os_grid_reference= NS730651
+ |map_type=Scotland
+ |latitude=55.8625
+ |longitude=-4.0266
+ |unitary_scotland= North Lanarkshire
+ |lieutenancy_scotland= Lanarkshire
+ |constituency_westminster= Coatbridge, Chryston and Bellshill (UK Parliament constituency)|Coatbridge, Chryston and Bellshill
+ |constituency_scottish_parliament= Coatbridge and Chryston (Scottish Parliament constituency)|Coatbridge and Chryston
+ |constituency_scottish_parliament1= Central Scotland (Scottish Parliament electoral region)|Central Scotland
+ |post_town= COATBRIDGE
+ |postcode_district = ML5
+ |postcode_area= ML
+ |dial_code= 01236
+ |edinburgh_distance=  Boxing the compass|ENE
+ |london_distance=  Boxing the compass|SSE
+ |static_image=Coatbridge coat arms.jpg
+ |static_image_caption=Coatbridge coat of arms
+ |area_total_sq_mi=6.818
+ }}
+
+'''Coatbridge''' is a town in North Lanarkshire, Scotland.
+
+Today the town is a working class town near to Glasgow, the largest city in Scotland. The town has also been described as "uniquely populated largely by people of Irish descent", meaning that there are many people from Irish people|Irish families.Sport and the Contestation of Ethnic Identity: Football and Irishness in Scotland in Journal of Ethnic and Migration Studies - Joseph M. Bradley (2006) p.15
+
+
+Category:Towns in North Lanarkshire

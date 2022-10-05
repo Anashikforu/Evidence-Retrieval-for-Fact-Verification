@@ -1,0 +1,183 @@
+
+The '''Province of Rieti''' () is a Provinces of Italy|province in the Lazio Regions of Italy|region of Central Italy. Its Capital city|capital is the city of Rieti.
+
+History
+The province of Rieti was created in January of 1927 with parts of the provinces of Rome and L'Aquila.
+
+Geography
+
+The province of Rieti has an area of , the second smallest province of the Lazio region.
+
+The province is in the northeast of the Lazio region. It borders to the west, along the Tiber River|Tiber river, with the Province of Viterbo|Viterbo province and the Metropolitan City of Rome Capital|Rome, to the north with the Umbria region (provinces of Province of Perugia|Perugia and Province of Terni|Terni), and to the east by Province of Ascoli Piceno in the Marche region, and with the provinces of Province of L'Aquila|L'Aquila and Province of Teramo|Teramo in the Abruzzo region.
+
+
+
+The territory of the province is mostly mountainous with the ''Monti Sabini'' and ''Monti Reatini'' to the north, on the border with the Umbria region; the ''Monti Terminillo'' and the ''Monti della Laga'' to the east; and the ''Monti del Cicolano'' and ''Monti della Duchessa'' to the southeast.
+
+The highest mountain in the province is Monte Gorzano (.
+
+The main rivers in the province are:
+ Tiber River|Tiber;
+ Velino, tributary of the Nera (Italy)|Nera, 90&nbsp;km long;
+ Salto, tributary of the Velino, 55&nbsp;km long;
+ Turano, tributary of the Velino, 70&nbsp;km long;
+ Corno, tributary of the Nera, 56&nbsp;km long.
+
+There are several artificial lakes; the largest is the ''Lago del Salto'' with an area of .
+
+Population
+ inhabitants/km².
+
+'''Evolution of the population in the province of Rieti'''
+
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:200000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:40000 start:0
+ScaleMinor = gridcolor:lightgrey increment:20000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2017 text:2017
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1961 from:0 till: 162405
+ bar:1971 from:0 till: 143162
+ bar:1981 from:0 till: 142794
+ bar:1991 from:0 till: 144942
+ bar:2001 from:0 till: 147410
+ bar:2011 from:0 till: 155164
+ bar:2017 from:0 till: 157429
+
+PlotData=
+ bar:1961 at: 162405 fontsize:S text: 162,405 shift:(-12,5)
+ bar:1971 at: 143162 fontsize:S text: 143,162 shift:(-18,5)
+ bar:1981 at: 142794 fontsize:S text: 142,794 shift:(-18,5)
+ bar:1991 at: 144942 fontsize:S text: 144,942 shift:(-18,5)
+ bar:2001 at: 147410 fontsize:S text: 147,410 shift:(-18,5)
+ bar:2011 at: 155164 fontsize:S text: 155,164 shift:(-18,8)
+ bar:2017 at: 157429 fontsize:S text: 157,429 shift:(-18,5)
+
+
+
+Administration
+There are 73 Municipality|municipalities (or ''Comune|comuni'') in the province; they are:
+
+
+# Accumoli
+# Amatrice
+# Antrodoco
+# Ascrea
+# Belmonte in Sabina
+# Borbona
+# Borgo Velino
+# Borgorose
+# Cantalice
+# Cantalupo in Sabina
+# Casaprota
+# Casperia
+# Castel di Tora
+# Castel Sant'Angelo
+# Castelnuovo di Farfa
+# Cittaducale
+# Cittareale
+# Collalto Sabino
+# Colle di Tora
+# Collegiove
+# Collevecchio
+# Colli sul Velino
+# Concerviano
+# Configni
+# Contigliano	
+# Cottanello
+# Fara in Sabina
+# Fiamignano
+# Forano
+# Frasso Sabino
+# Greccio
+# Labro
+# Leonessa
+# Longone Sabino
+# Magliano Sabina
+# Marcetelli
+# Micigliano
+# Mompeo
+# Montasola
+# Monte San Giovanni in Sabina
+# Montebuono
+# Monteleone Sabino
+# Montenero Sabino
+# Montopoli di Sabina
+# Morro Reatino
+# Nespolo
+# Orvinio
+# Paganico Sabino
+# Pescorocchiano
+# Petrella Salto	
+# Poggio Bustone
+# Poggio Catino
+# Poggio Mirteto
+# Poggio Moiano
+# Poggio Nativo
+# Poggio San Lorenzo
+# Posta
+# Pozzaglia Sabina
+# Rieti
+# Rivodutri
+# Rocca Sinibalda
+# Roccantica
+# Salisano
+# Scandriglia
+# Selci
+# Stimigliano
+# Tarano
+# Toffia
+# Torri in Sabina
+# Torricella in Sabina
+# Turania
+# Vacone
+# Varco Sabino
+
+
+The largest ''comune'' is Rieti, with ). The ''comune'' with fewest people living in it is Marcetelli with 89 inhabitants.
+
+=Main ''comuni''=
+The following table shows the 10 Comune|''comuni'' with more inhabitants with their population, and their area and altitude.
+
+
+
+
+
+ Gallery 
+
+
+File:Palazzo Comunale, Rieti - facciata, 2.JPG|''Palazzo Comunale'', Rieti.
+File:Amatrice - Corso.jpg|Street in Amatrice.
+File:San Michele Arcangelo (Rieti) esterno 01.jpg|Saint Michael Archangel church - Rieti.
+File:Fiume Velino - Rieti, dal ponte Romano - 2.jpg|Velino river in Rieti.
+File:Lago del Salto - vista dalla diga.jpg|''Lago del Salto'' from the dam.
+
+
+
+Related pages
+ List of communes of the Province of Rieti
+
+Category:Provinces of Latium|Rieti

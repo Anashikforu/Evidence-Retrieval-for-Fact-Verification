@@ -1,0 +1,25 @@
+{{Taxobox
+| name = Etruscan shrew
+| image = Suncus etruscus crop.jpg
+| status = LC
+| trend = unknown
+| status_system = iucn3.1
+| status_ref = Database entry includes a brief justification of why this species is of least concern
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Mammalia
+| ordo = Eulipotyphla
+| subordo = Soricomorpha
+| familia = Soricidae
+| genus = ''Suncus''
+| species = '''''S. etruscus'''''
+| binomial = ''Suncus etruscus''
+| binomial_authority = (Paolo Savi|Savi, 1822)}}
+
+The '''Etruscan shrew''' (''Suncus etruscus'') is also known as the '''Etruscan pygmy shrew''' or the '''white-toothed pygmy shrew'''. It is the smallest known mammal by mass. The Bumblebee bat has a smaller skull.   
+
+The smallest adults of this shrew weigh about 1.3 grams and are 36 Millimetre|mm (1.42 inches) long. This small mammal is 60 mm from the tip of the nose to the base of the tail; the tail is about 40 mm long. 
+
+The shrew has a lifespan of 15 months. The Etruscan shrew lives in forests and brush areas between southern Asia and southern Europe. The shrew mostly eats insects.
+
+Category:Mammals of Europe|Shrew, Etruscan

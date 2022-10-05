@@ -1,0 +1,4 @@
+'''Wikipedia does not yet have an article with this name.'''
+ To make the article, click ''' start this page'''.
+ There may be a page about this subject, with a different title. " in existing pages.
+ There might be a wikt:" in our dictionary project, the Simple English Wiktionary.

@@ -1,0 +1,6 @@
+The '''On-Line Encyclopedia of Integer Sequences''' ('''OEIS'''), also known as '''Sloane's''', is a large searchable database. It is on the World Wide Web|Web, and it contains number sequences, like the Fibonacci number|Fibonacci numbers or the Power of two|powers of two.
+
+It contains over 270,000 sequences. This makes it the largest database of its kind. Each entry contains the leading terms of the sequence, keywords, mathematical motivations, literature links. It also includes the option to generate a graph or play a Computer music|musical representation of the sequence. The database can be searched by keyword and by subsequence. For instance, it is possible to search for all sequences with both 15 and 118.
+
+Category:Mathematics
+Category:Science websites

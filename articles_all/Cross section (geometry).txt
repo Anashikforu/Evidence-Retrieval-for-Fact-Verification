@@ -1,0 +1,15 @@
+Image:Seal_mechanical_compression.png|thumb|left|150px|A 2-D cross-sectional view of a compression seal.
+Image:Cross section.png|thumb|150px|A 3-D view of a beverage-can stove with a '''cross section''' in yellow.
+A '''cross section''' is what one gets if one cuts an object into slices.
+
+In geometry the correct definition of ''cross section'' is: the intersection of a Physical body|body in 2-dimensional Space (physics)|space with a line, or of a body in 3-dimensional space with a Plane (mathematics)|plane. 
+
+A cross section, or '''section''' is also an orthographic projection of a 3-dimensional object from the position of a plane through the object. A floor plan is a section viewed from the top. 
+
+Related pages
+ Orthographic projection
+ Plans (drawings)
+
+
+
+Category:Geometry

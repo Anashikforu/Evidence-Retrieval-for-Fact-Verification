@@ -1,0 +1,16 @@
+
+
+
+
+The '''oxidation state''' (or '''oxidation number''') of an chemical element|element is used to predict what sort of chemical compounds form.
+
+For example, if you put hydrogen and oxygen together, they form H2O, and not H3O because the oxidation number of oxygen is −2, which means that we need two +1 hydrogens for the numbers to balance.
+
+You can look up the oxidation state(s) of an element on many periodic tables. They are usually between −2 and +3.
+
+Oxidation states were invented by Antoine Lavoisier to predict how oxygen reacted in chemical reactions; hence the name. Later on, we learned that Lavoisier's theory can be used to predict other reactions too, many of them have nothing to do with oxygen.
+
+In ionic compounds, oxidation states tell us about the movement of electric charge|charge within the compound. For example, chlorine has a very high electronegativity which means that it really likes electrons and sodium has a very low electronegativity which means that it really hates electrons. When sodium and chlorine are close together, sodium will give away an electron to chlorine. A change in charge has taken place; chlorine's charge has gone down which we call reduction, and sodium's charge has gone up which we call oxidation.
+
+Category:Chemical bonding
+Category:Oxides

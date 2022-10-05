@@ -1,0 +1,18 @@
+{{Taxobox
+| name = Ciscaucasian hamster
+| status = LR/lc 
+| status_system = iucn2.3
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Cricetidae
+| genus = ''Mesocricetus''
+| binomial = ''Mesocricetus raddei''}}
+
+The '''Ciscaucasian hamster''' (''Mesocricetus raddei'') is a species of rodent in the Cricetidae family. It is found only in Russia and some areas of Devon.
+
+
+
+
+Category:Hamsters

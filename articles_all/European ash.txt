@@ -1,0 +1,35 @@
+{{Taxobox
+| name = European ash
+<!--
+| status = 
+-->
+| image = EurAshLeaf.jpg
+| image_width = 240px
+| image_caption = European Ash shoot and leaf; note black bud
+| regnum = Plantae
+| divisio = flowering plant|Magnoliophyta
+| classis = dicotyledon|Magnoliopsida
+| ordo = Lamiales
+| familia = Oleaceae
+| genus = ''Fraxinus''
+| binomial = ''Fraxinus excelsior''
+| binomial_authority = Carolus Linnaeus|L.}}
+
+The '''European ash''' (''Fraxinus excelsior'') is a kind of ash tree. It is found throughout Europe and not just Scandinavia. It is a deciduous tree that grows to a height of 20–35 metres.
+
+Uses
+Ash wood is very easy to bend. It is therefore the material of choice to make Bow (weapon)|bows. Tennis rackets, and the long poles used for snooker are sometimes made from it. 
+
+=Religion=
+In Norse mythology, the tree Yggdrasil was a European ash. The tree linked all the nine worlds|world, Niflheim and Asgard, amongst others. Below the tree resides Hel as well as the Well of Urd.
+
+Gallery
+
+Fraxinus excelsior - Ardenne 1b.JPG
+File:Fraxinus excelsior MHNT.BOT.2007.40.58.jpg|Fraxinus excelsior - Museum specimen
+
+
+
+
+Category:Trees
+Category:Oleaceae

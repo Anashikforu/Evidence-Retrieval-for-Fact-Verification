@@ -1,0 +1,55 @@
+
+
+'''pH''' is a scale of acidity from 0 to 14. It tells how acidic or alkaline a substance is. 
+More acidic solutions have lower pH. More alkaline solutions have higher pH. Substances that aren't acidic or alkaline (that is, neutral solutions) usually have a pH of 7.
+Acids have a pH that is less than 7. Alkalis have a pH that is greater than 7.
+
+pH is a measure of the :en:Concentration|concentration of protons (H+) in a solution. :en:S. P. L. Sørensen|S.P.L. Sørensen introduced this concept in the year 1909. The p stands for the German language|German ''potenz'', meaning power or concentration, and the H for the hydrogen ion (H+).
+
+The most common formula for calculating pH is:
+
+:\mbox{pH} = -\log_{10} \left \mbox{H}^+ \right
+
+H+ indicates the concentration of H+ ions (also written H3O+, the equal concentration of :en:Hydronium|hydronium ions), measured in mole (unit)|moles per litre (also known as molarity).
+
+However, the correct equation is actually:
+
+:\mbox{pH} = -\log_{10} \left a_{\mathrm{H^+}} \right
+
+where a_{\mathrm{H^+}} indicates the activity of H+ ions. But, this equation in most cases provides the same value as the more common formula, so in introductory chemistry the previous equation is given as the definition of pH.
+
+Most substances have a pH in the range of 0 to 14, although ''extremely'' acidic or alkaline substances may have pH  14.
+
+Alkaline substances have, instead of hydrogen ions, a concentration of hydroxide ions (OH-).
+
+ pH indicators 
+Certain dyes change colour depending on whether they are in an acid solution or an alkaline solution . '''pH indicator''' is a chemical compound added in small amounts to a solution so the pH (acidity or basicity) of the solution can be seen. The pH indicator is a chemical detector for hydronium ions (H3O+) or hydrogen ions (H+).These are two different ways of representing hydrogen ion concentration. Normally, the indicator causes the colour of the solution to change depending on the pH.
+
+Typical indicators are :en:Phenolphthalein|phenolphthalein, :en:Methyl orange|methyl orange, :en:Methyl red|methyl red, :en:Bromothymol blue|bromothymol blue, and :en:Thymol blue|thymol blue. They each change colour at different points on the pH scale, and can be used together as a universal indicator.
+
+Another way is to use litmus paper, which is based on a natural pH indicators. The paper can tell you how strong the chemical is, whether it is a stronger acid or a stronger base (chemistry)|base.
+
+ Some common pH values 
+
+
+
+
+ Neutralization 
+Neutralization can be summed up by the chemical equation|equation:
+
+:
+(acid + Base (chemistry)|base → water)
+
+Related pages
+ Acid
+ Base (chemistry)|Base
+ Alkali
+ Titration
+ Transpiration
+
+ Notes 
+
+
+Other websites
+   
+Category:Chemistry

@@ -1,0 +1,628 @@
+var iwiki = new function (){
+ 
+// View interwiki
+ 
+var pLang, ul, lis, count, ww, displayMode = window.iwDisplayMode || 0
+ 
+this.onLoad = function(){
+ pLang = document.getElementById('p-lang')
+ if (!pLang) return
+ var h5 = pLang.getElementsByTagName('h5')0
+ addHandler(h5, 'click', iwiki.display)
+ if (typeof h5.style = "undefined") h5.style = {'cursor': 'pointer'}; else h5.style.cursor = 'pointer';
+ h5.title = 'Change how interwiki displayed'
+ if (displayMode) iwiki.display() 
+ 
+ if (mw.config.get('wgAction')'edit' || mw.config.get('wgAction')'submit')
+   iwiki.loadSync()
+}
+ 
+ 
+this.display = function(){
+ displayMode++
+ if (displayMode > 3) displayMode = 1
+ var aa, page
+ if (!ww) getDisplayedList()
+ switch (displayMode){
+ case 1: //no change
+   ww.sort(function(a,b){return a.i > b.i ? 1 : -1})
+   for(i=0; i < count; i++){
+     aa = wwi.li.firstChild
+     aa.title = ''
+     aa.innerHTML = wwi.local
+   }
+   break
+ case 2: //English names
+   ww.sort(function(a,b){return a.name > b.name ? 1 : -1})
+   for(i=0; i < count; i++){
+     aa = wwi.li.firstChild
+     aa.title = wwi.local
+     aa.innerHTML = wwi.name 
+   }
+   break
+ case 3: //actual interwiki links
+   ww.sort(function(a,b){return a.lang > b.lang ? 1 : -1})
+   for(i=0; i < count; i++){
+     aa = wwi.li.firstChild
+     page = aa.href.match(/org\/wiki\/(.)$/)1
+     page = decodeURIComponent(page)
+     aa.title = wwi.name + ': ' + page
+     aa.innerHTML = wwi.lang + ':' + page
+   }
+   break
+ }
+ for(i=1; i < count; i++)
+   ul.appendChild(wwi.li)
+}
+ 
+function getDisplayedList(){
+ ul = pLang.getElementsByTagName('ul')0 
+ lis = ul.getElementsByTagName('li')
+ count = lis.length
+ ww = new Array(count)
+ var aa, lang
+ for (var i=0; i < count; i++){
+   aa = lisi.firstChild
+   lang = aa.href.substring(7, aa.href.indexOf('.'))
+   wwi = { 
+     lang: lang,
+     local: aa.innerHTML,
+     name: iwNameslang || '- ' + aa.innerHTML,	
+     li: lisi,
+     i: i 
+   }
+ }
+}
+ 
+ 
+ 
+// Sync interwiki
+ 
+var wpTextbox1, iw, iwdiv, iwtable, queriedLink, siteLang, wasRedirect
+ 
+this.loadSync = function(){
+ mw.util.addPortletLink('p-lang', 'javascript:iwiki.sync()', '(sync)')
+}
+ 
+this.sync = function(){
+ iw = 
+ queriedLink = ''
+ wasRedirect = false
+ siteLang = mw.config.get('wgServer').substring(7, mw.config.get('wgServer').indexOf('.'))
+ wpTextbox1 = document.getElementById('wpTextbox1')
+ var i, m, ma, re, txt = wpTextbox1.value
+ //find local interwikis
+ for (i in iwNames){
+   re = new RegExp('\\\\'+i+':'+'^\\+\\\\', 'gi');   
+   if (ma = txt.match(re)){
+     if (ma.length0) continue  
+     for (var m=0; m < ma.length; m++)
+       addIW(mam.substring(2,mam.length-2), false)  //drop brackets
+   }
+ }
+ //add self
+ addIW(siteLang + ':' + mw.config.get('wgPageName').replace(/_/g, ' ')) 
+ //show
+ showDiv()
+}
+ 
+function showDiv(){
+ if (iwdiv) iwdiv.style.display = 'block'
+ else createDiv()
+ //scroll to it
+ var yy = iwdiv.offsetTop, obj = iwdiv
+ while (obj = obj.offsetParent) yy += obj.offsetTop
+ scrollTo(0, yy)
+ drawTable()
+}
+ 
+ 
+function createDiv(){
+ var div = document.createElement('div')
+ div.innerHTML =  '\
+\
+<input type=button value=Query id=iwNext onclick=iwiki.queryNext()\
+ style="background-color:#EEEEEE">\
+<input type=button value="Add All" id=appendAll onclick=iwiki.appendAll()\
+ style="background-color:#EEEEEE">\
+<input type=button value=Apply id=iwApply onclick=iwiki.apply()\
+ style="background-color:#E5EFE5">\
+<input type=button value=Cancel id=iwCancel onclick=iwiki.cancel()\
+ style="background-color:#F5E5E5">\
+'
+ wpTextbox1.parentNode.insertBefore(div, wpTextbox1.nextSibling)
+ iwdiv = div.firstChild
+ //document.getElementById('iwNext').onclick = iwiki.queryNext
+ //document.getElementById('iwApply').onclick = iwiki.apply
+ //document.getElementById('iwCancel').onclick = iwiki.cancel
+}
+ 
+function drawTable(){
+ iw.sort(function(a,b){ return (a.lnk>b.lnk)?1:-1})
+ var tb = document.createElement('tbody')
+ //draw
+ var tr, td, nocell, needAddAllButton = false, lang, prev = ''
+ for (var i=0; i<iw.length; i++){
+   tr = document.createElement('tr') 
+   lang = getLang(iwi.lnk)
+   isself = (siteLang  lang)
+   //«x» link to delete cell
+   if (iwi.local && !isself)
+     putCell('x',' ') 
+   else
+     putCell('', ' ') 
+   td.style.paddingRight = '5px'
+   //local  cell
+   if (iwi.local) {
+     if (isself) {
+       putCell (iwi.lnk)
+       td.style.color = 'gray'
+       td.style.fontSize = 'smaller'
+     }else{
+       putCell(getFullLink(iwi.lnk))
+       if (iwi.isnew) td.style.backgroundColor = '#DFFFEF'
+       if (queriedLink  iwi.lnk) { //was just queried
+          td.style.backgroundColor = '#EFEFEF'
+          td.style.fontWeight = 'bold'
+       }
+     }
+     if (lang  prev) td.style.border = '2px solid red'
+     prev = lang
+   }else //local missing
+     putCell('', '#FFEADF') 
+   //status cell
+   if (isself){  
+     putCell('', ' ')
+   }else if (!iwi.local && iwi.remote) {
+     putCell('←', ' ')
+     needAddAllButton = true
+   }else{
+     htm = '<a title=query href="javascript:iwiki.query(\'' + i + '\')"'
+     htm += (iwi.queried) ? '>v' : '>?'
+     putCell(htm+'', ' ')
+   }
+   td.style.textAlign = 'center'
+   td.style.width = '50px'
+   //remote cell
+   if (iwi.remote){
+     if (iwi.local) putCell('', '#F5F5F5');
+     else putCell (getFullLink(iwi.lnk))
+   }else if (!queriedLink || queriedLink  iwi.lnk){ //remote not needed
+     if (wasRedirect) putCell('(redirect)', ' ')
+     else putCell('', ' ')
+   }else{ //remote is absent
+     putCell('', '#FFEADF')
+   }
+   //add row
+   tb.appendChild(tr)
+ }//for
+ if (iwtable) 
+   iwtable.replaceChild(tb, iwtable.firstChild)
+ else{
+   iwtable = document.createElement('table')
+   iwtable.id = 'iwtable' 
+   iwtable.appendChild(tb)
+   iwdiv.appendChild(iwtable)
+ } 
+ document.getElementById('appendAll').style.visibility = needAddAllButton ? 'visible' : 'hidden'
+ //iwdiv.focus()
+ 
+ function putCell(htm, style){
+  td = document.createElement('td')
+  td.style.padding = '0 10px 0 10px '
+  td.innerHTML = htm
+  if (!style) 
+    td.style.border = '1px dotted gray'
+  else if (style != ' ') 
+    td.style.backgroundColor = style
+  tr.appendChild(td)
+  return
+ } 
+}
+ 
+function addIW(iwlink, isRemote){
+ if (!isRemote){ //local
+   var iwnew = {}
+   iwnew.lnk = iwlink
+   iwnew.local = true
+   //iwnew.remote = false
+   //iwnew.queried = false
+   iwiw.length = iwnew
+ }else{ //remote
+   //if (siteLang  getLang(iwlink)) return
+   var isFound = false
+   for (var i=0; i<iw.length; i++)
+     if (iwi.lnk  iwlink) { isFound = true;  break }
+   if (isFound){
+     iwi.remote = true
+   }else{
+     var iwnew = {}
+     iwnew.lnk = iwlink
+     iwnew.local = false
+     iwnew.remote = true
+     iwiw.length = iwnew
+   }   
+ }
+}
+ 
+function getLang(iwlink){ //en:Page -> en
+ return iwlink.substring(0, iwlink.indexOf(':'))
+}
+ 
+function getPage(iwlink){ // //en:Page -> Page
+ return iwlink.substring(iwlink.indexOf(':')+1)
+}
+ 
+function getFullLink(iwlink){ ////en:Page -> <a href=…
+ return '<a href="' + '   + mw.config.get('wgServer').substring(mw.config.get('wgServer').indexOf('.')) + '/wiki/' 
+   + encodeURIComponent(getPage(iwlink))  + '">' + iwlink + ''
+}
+ 
+ 
+ 
+ 
+this.append = function(i){
+ iwi.local = true
+ iwi.isnew = true
+ drawTable()
+}
+ 
+this.appendAll = function(){
+ for (var i=0; i<iw.length; i++)
+   if (!iwi.local && iwi.remote){
+      iwi.local = true
+      iwi.isnew = true
+   }
+ drawTable()
+}
+ 
+this.remove = function(i){
+ iwi.local = false
+ //iw.splice(i,1)
+ drawTable()
+}
+ 
+this.apply = function(){
+ var i, re, txt = wpTextbox1.value
+ //remove old
+ for (i in iwNames){
+   re = new RegExp('\\\\'+i+':'+'^\\+\\\\\n?', 'gi')
+   txt = txt.replace(re, '\x01') 
+ }
+ //create new
+ var iwtxt = ''
+ for (i=0; i<iw.length; i++)
+   if (iwi.local && getLang(iwi.lnk) != siteLang) 
+     iwtxt += '' + '' + iwi.lnk + '\n'
+ //append new
+ txt = txt.replace('\x01', iwtxt).replace(/\x01/g,'')
+ wpTextbox1.value = txt
+ iwdiv.style.display = 'none'
+}
+ 
+this.cancel = function(){
+ iwdiv.style.display = 'none'
+}
+ 
+this.queryNext = function(){
+ for (var i=0; i<iw.length; i++)
+   if (iwi.local && !iwi.queried && getLang(iwi.lnk) != siteLang) { 
+      iwiki.query(i)
+      break 
+   }
+} 
+ 
+this.query = function(idx){
+ document.getElementById('iwNext').style.textDecoration = 'blink'
+ queriedLink = iwidx.lnk //remember
+ queryGo('langlinks&titles='+encodeURIComponent(getPage(queriedLink)) 
+  + '&proxylang='+getLang(queriedLink),  iwiki.process )
+}
+ 
+ 
+ 
+this.process = function(q){
+ document.getElementById('iwNext').style.textDecoration = 'none'
+ //mark queried link
+ for (var i=0; i<iw.length; i++) 
+   if (queriedLink  iwi.lnk){ iwi.queried = true;  break  }
+ //clear last results
+ for (var i=0; i<iw.length; i++) { 
+   iwi.remote = false
+   if (!iwi.local) { iw.splice(i,1); i-- } //remove item
+ }
+ //add new iwikis
+ links = anyChild(q.pages).langlinks
+ if (links){
+   for (var n=0; n<links.length; n++){
+     iwlink = linksn.lang + ':' + linksn''
+     addIW(iwlink, true)
+   }
+   wasRedirect = false
+ }else if (typeof anyChild(q.pages).redirect  'string') 
+   wasRedirect = true 
+ drawTable()
+}
+ 
+ 
+ 
+function queryGo(params, func){
+ var aj = sajax_init_object()
+ aj.onreadystatechange = function() {
+   if (aj.readyState != 4) return
+   //if (aj.status  200) {
+     eval('q='+aj.responseText) 
+     func(q)
+   //} else jsMsg('Empty query result') //else func(null)
+ }
+ var url='/w/query.php?format=json&noprofile&what=' + params
+ aj.open("GET",url,true)
+ //aj.setRequestHeader('Accept','text/')
+ aj.send(null)
+}
+ 
+ 
+//interwiki codes and names, extracted from var iwNames = {
+'en':'English',
+'de':'German',
+'fr':'French',
+'pl':'Polish',
+'ja':'Japanese',
+'nl':'Dutch',
+'it':'Italian',
+'pt':'Portuguese',
+'es':'Spanish',
+'sv':'Swedish',
+'ru':'Russian',
+'zh':'Chinese',
+'fi':'Finnish',
+'no':'Norwegian (Bokmål)',
+'vo':'Volapük',
+'ro':'Romanian',
+'tr':'Turkish',
+'eo':'Esperanto',
+'ca':'Catalan',
+'sk':'Slovak',
+'cs':'Czech',
+'uk':'Ukrainian',
+'hu':'Hungarian',
+'da':'Danish',
+'id':'Indonesian',
+'he':'Hebrew',
+'lt':'Lithuanian',
+'sr':'Serbian',
+'sl':'Slovenian',
+'lmo':'Lombard',
+'bg':'Bulgarian',
+'ko':'Korean',
+'ar':'Arabic',
+'et':'Estonian',
+'te':'Telugu',
+'hr':'Croatian',
+'new':'Newar / Nepal Bhasa',
+'ceb':'Cebuano',
+'gl':'Galician',
+'th':'Thai',
+'el':'Greek',
+'nn':'Norwegian (Nynorsk)',
+'fa':'Persian',
+'vi':'Vietnamese',
+'ms':'Malay',
+'bpy':'Bishnupriya Manipuri',
+'eu':'Basque',
+'bs':'Bosnian',
+'simple':'Simple English',
+'lb':'Luxembourgish',
+'is':'Icelandic',
+'sq':'Albanian',
+'ka':'Georgian',
+'az':'Azeri',
+'br':'Breton',
+'bn':'Bengali',
+'la':'Latin',
+'io':'Ido',
+'hi':'Hindi',
+'sh':'Serbo-Croatian',
+'mr':'Marathi',
+'su':'Sundanese',
+'mk':'Macedonian',
+'nap':'Neapolitan',
+'cy':'Welsh',
+'ta':'Tamil',
+'lv':'Latvian',
+'scn':'Sicilian',
+'nds':'Low Saxon',
+'oc':'Occitan',
+'pms':'Piedmontese',
+'jv':'Javanese',
+'tl':'Tagalog',
+'ku':'Kurdish',
+'ast':'Asturian',
+'wa':'Walloon',
+'af':'Afrikaans',
+'tg':'Tajik',
+'be-x-old':'Belarusian (Tarashkevitsa)',
+'roa-tara':'Tarantino',
+'an':'Aragonese',
+'be':'Belarusian',
+'ru-sib':'Siberian/North Russian',
+'ksh':'Ripuarian',
+'ht':'Haitian',
+'cv':'Chuvash',
+'ur':'Urdu',
+'mi':'Maori',
+'sw':'Swahili',
+'vec':'Venetian',
+'uz':'Uzbek',
+'fy':'West Frisian',
+'zh-yue':'Cantonese',
+'ga':'Irish',
+'co':'Corsican',
+'qu':'Quechua',
+'kn':'Kannada',
+'gd':'Scottish Gaelic',
+'ml':'Malayalam',
+'yi':'Yiddish',
+'yo':'Yoruba',
+'nah':'Nahuatl',
+'bat-smg':'Samogitian',
+'pam':'Kapampangan',
+'tt':'Tatar',
+'ia':'Interlingua',
+'sa':'Sanskrit',
+'hsb':'Upper Sorbian',
+'hy':'Armenian',
+'li':'Limburgian',
+'als':'Alemannic',
+'map-bms':'Banyumasan',
+'am':'Amharic',
+'pag':'Pangasinan',
+'zh-min-nan':'Min Nan',
+'nrm':'Norman',
+'fo':'Faroese',
+'se':'Northern Sami',
+'nds-nl':'Dutch Low Saxon',
+'fur':'Friulian',
+'bh':'Bihari',
+'nov':'Novial',
+'war':'Waray-Waray',
+'pi':'Pali',
+'vls':'West Flemish',
+'ilo':'Ilokano',
+'sco':'Scots',
+'frp':'Franco-Provençal/Arpitan',
+'lij':'Ligurian',
+'ne':'Nepali',
+'dv':'Divehi',
+'os':'Ossetian',
+'zh-classical':'Classical Chinese',
+'diq':'Zazaki',
+'mt':'Maltese',
+'kk':'Kazakh',
+'csb':'Kashubian',
+'pdc':'Pennsylvania German',
+'lad':'Ladino',
+'fiu-vro':'Võro',
+'kw':'Cornish',
+'to':'Tongan',
+'bar':'Bavarian',
+'ps':'Pashto',
+'rm':'Romansh',
+'tk':'Turkmen',
+'ang':'Anglo-Saxon',
+'ln':'Lingala',
+'mn':'Mongolian',
+'jbo':'Lojban',
+'tpi':'Tok Pisin',
+'or':'Oriya',
+'wo':'Wolof',
+'ty':'Tahitian',
+'eml':'Emilian-Romagnol',
+'ky':'Kirghiz',
+'arc':'Assyrian Neo-Aramaic',
+'ig':'Igbo',
+'roa-rup':'Aromanian',
+'mo':'Moldovan',
+'gu':'Gujarati',
+'km':'Khmer',
+'ie':'Interlingue',
+'kab':'Kabyle',
+'ks':'Kashmiri',
+'wuu':'Wu',
+'glk':'Gilaki',
+'zea':'Zealandic',
+'mg':'Malagasy',
+'tet':'Tetum',
+'cu':'Old Church Slavonic',
+'sc':'Sardinian',
+'so':'Somali',
+'gv':'Manx',
+'kg':'Kongo',
+'udm':'Udmurt',
+'si':'Sinhalese',
+'iu':'Inuktitut',
+'pa':'Punjabi',
+'rmy':'Romani',
+'cbk-zam':'Zamboanga Chavacano',
+'na':'Nauruan',
+'haw':'Hawaiian',
+'lo':'Lao',
+'bo':'Tibetan',
+'sd':'Sindhi',
+'chr':'Cherokee',
+'ba':'Bashkir',
+'got':'Gothic',
+'om':'Oromo',
+'ee':'Ewe',
+'ti':'Tigrinya',
+'as':'Assamese',
+'sm':'Samoan',
+'ay':'Aymara',
+'ug':'Uyghur',
+'hak':'Hakka',
+'av':'Avar',
+'cdo':'Min Dong',
+'mzn':'Mazandarani',
+'ce':'Chechen',
+'bm':'Bambara',
+'nv':'Navajo',
+'pap':'Papiamentu',
+'cr':'Cree',
+'zu':'Zulu',
+'rw':'Kinyarwanda',
+'my':'Burmese',
+'tlh':'Klingon',
+'xh':'Xhosa',
+'ve':'Venda',
+'ik':'Inupiak',
+'dz':'Dzongkha',
+'pih':'Norfolk',
+'gn':'Guarani',
+'ss':'Swati',
+'ab':'Abkhazian',
+'kl':'Greenlandic',
+'kv':'Komi',
+'bug':'Buginese',
+'ak':'Akan',
+'bi':'Bislama',
+'st':'Sesotho',
+'bxr':'Buryat (Russia)',
+'tn':'Tswana',
+'xal':'Kalmyk',
+'tw':'Twi',
+'ny':'Chichewa',
+'fj':'Fijian',
+'ff':'Fula',
+'ha':'Hausa',
+'tum':'Tumbuka',
+'sn':'Shona',
+'za':'Zhuang',
+'ki':'Kikuyu',
+'sg':'Sango',
+'ii':'Sichuan Yi',
+'lg':'Luganda',
+'cho':'Choctaw',
+'lbe':'Lak',
+'rn':'Kirundi',
+'chy':'Cheyenne',
+'ts':'Tsonga',
+'mh':'Marshallese',
+'ch':'Chamorro',
+'ng':'Ndonga',
+'aa':'Afar',
+'kj':'Kuanyama',
+'ho':'Hiri Motu',
+'mus':'Muscogee',
+'kr':'Kanuri',
+'hz':'Herero',
+'tokipona':'Tokipona'
+}
+ 
+} //obj
+ 
+ 
+function anyChild(obj) {  for(var key in obj)  return objkey; return null }
+ 
+ 
+$.when($.ready,mw.loader.using('mediawiki.util')).then(iwiki.onLoad)
+//:en:User:Alex_Smotrov/iwiki.js

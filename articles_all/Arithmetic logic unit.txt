@@ -1,0 +1,13 @@
+Image:ALU symbol.svg|thumb|300px|A typical schematic symbol for an ALU: A & B are the data (registers); R is the output; F is the Operand (instruction) from the Control Unit; D is an output status
+
+In computing, an '''arithmetic logic unit''' ('''ALU''') is a digital circuit that performs arithmetic and logical operations. The ALU is a basic building block of the central processing unit (CPU) of a computer,  even the simplest microcontrollers contain one for purposes such as timing. 
+
+Now, modern microprocessors, microcontrollers and Central processing unit|CPUs have very powerful and very complex ALUs. Also, more recent Central processing unit|CPUs may contain up to more than 4 ALUs (see Superscalar|superscalar CPUs).
+
+Mathematician John von Neumann proposed the ALU concept in 1945.
+
+Related pages
+ Floating point unit|FPU
+ Execution unit
+
+Category:Microprocessor design

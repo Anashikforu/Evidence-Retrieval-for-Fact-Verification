@@ -1,0 +1,14 @@
+
+An '''exclamation mark''' ('''!''') is a punctuation mark. It is used to show strong emotion at the end of a sentence or after an interjection.
+
+Putting a space before an exclamation mark is incorrect.
+
+In coding, "!" sometimes means ''not''. In mathematics, the use of an exclamation mark can be used for the factorial function (for example, n!).
+
+Related pages
+ Ampersand
+ Punctuation
+ Question mark
+ Quotation mark
+
+Category:Punctuation

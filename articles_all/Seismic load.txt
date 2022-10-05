@@ -1,0 +1,17 @@
+
+'''Seismic load''' is one of the basic concepts of earthquake engineering which means application of an earthquake-generated agitation to a Building|building structure or its Building model|model. It happens at contact surfaces of a structure either with the ground,
+Seismic loading depends, primarily, on:
+
+ Anticipated earthquake’s parameters at the site
+ Geology|Geotechnical parameters of the site
+ Building|Building structure’s parameters
+ Characteristics of the anticipated gravity waves from tsunami (if applicable).
+
+Sometimes, seismic load exceeds ability of a structure to resist it without being broken, partially or completely. Due to their mutual interaction, seismic loading and seismic performance of a structure are intimately related.
+
+Other websites
+Notes
+
+
+
+Category:Earthquake engineering

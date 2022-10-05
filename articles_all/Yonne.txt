@@ -1,0 +1,153 @@
+
+
+'''Yonne''' is a Departments of France|department in the centre of France, in the Bourgogne-Franche-Comté Regions of France|region. The largest city in the department, and its Prefectures in France|prefecture (Capital city|capital), is Auxerre.
+
+The department is named after the Yonne (river)|Yonne river, a tributary of the Seine, that flows through the department. The Celtic|Celts name of the river was ''Ica-onna'' () and from this name come the name of the river and of the people living in the department: ''Icaunais''.
+
+History
+During the Roman Empire|Roman times, the main city in the territory of the present department was Sens, the capital of one Roman province.
+
+Yonne is one of the original 83 departments created during the French Revolution on 4 March 1790 with Auxerre as its Capital (city)|capital. It was formed from combined parts of the old provinces of ''Burgundy'', ''Champagne (historical province)|Champagne'' and ''Île-de-France''.
+
+It was divided in seven districts: Auxerre, Sens, Joigny, Saint-Fargeau, Avallon, Tonnerre and Saint-Florentin.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the seven districts were changed into five ''arrondissements'': Auxerre, Avallon, Joigny, Sens and Tonnerre. On 10 September 1926, the ''arrondissements'' of Joigny and Tonnerre were eliminated.
+
+Geography
+
+Yonne is part of the Bourgogne-Franche-Comté Regions of France|region. It has an area of  high.
+
+The department borders with five departments in four Regions of France|regions:
+ Bourgogne-Franche-Comté region
+ Côte-d'Or (east)
+ Nièvre (south)
+ Grand Est region
+ Aube (northeast)
+ Centre-Val de Loire region
+ Loiret (west)
+ Île-de-France region
+ Seine-et-Marne (northwest)
+
+
+
+The northern part of the department is formed by plains that are part of the great plain of Paris. The mountains of the ''Morvan'' and the hills of the ''Auxerrois'' (the region around the city of Auxerre) are in the southern half of the department.
+
+The main river in the department is the Yonne (river)|Yonne, a tributary of the Seine river that flows through the department from south to north. Other rivers that flow through the department are the Armançon, Loing, Ouanne (river)|Ouanne and Serein rivers.
+
+=Climate=
+The Köppen climate classification type for the climate at Auxerre is an "Oceanic climate" (also known as Maritime Temperate climate) and of the subtype "Cfb".
+
+The average temperature for the year in Auxerre is .
+
+The average amount of precipitation for the year in Auxerre is .
+
+Administration
+Yonne is managed by the ''Departmental Council of Yonne'' in Auxerre. The department is part of the Bourgogne-Franche-Comté region.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 21 Cantons in France|''cantons'' and 428 Communes in France|''communes'' (Municipality|municipalities) in Yonne.
+
+
+
+
+
+The following is a list of the 21 Cantons of France|cantons of the Yonne department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Auxerre-1|Auxerre-1 (8901)
+# Canton of Auxerre-2|Auxerre-2 (8902)
+# Canton of Auxerre-3|Auxerre-3 (8903)
+# Canton of Auxerre-4|Auxerre-4 (8904)
+# Canton of Avallon|Avallon (8905)
+# Canton of Brienon-sur-Armançon|Brienon-sur-Armançon (8906)
+# Canton of Chablis|Chablis (8907)
+# Canton of Charny|Charny (8908)
+# Canton of Cœur de Puisaye|Cœur de Puisaye (8909)
+# Canton of Gâtinais en Bourgogne|Gâtinais en Bourgogne (8910)
+# Canton of Joigny|Joigny (8911)
+# Canton of Joux-la-Ville|Joux-la-Ville (8912)
+# Canton of Migennes|Migennes (8913)
+# Canton of Pont-sur-Yonne|Pont-sur-Yonne (8914)
+# Canton of Saint-Florentin|Saint-Florentin (8915)
+# Canton of Sens-1|Sens-1 (8916)
+# Canton of Sens-2|Sens-2 (8917)
+# Canton of Thorigny-sur-Oreuse|Thorigny-sur-Oreuse (8918)
+# Canton of Tonnerrois|Tonnerrois (8919)
+# Canton of Villeneuve-sur-Yonne|Villeneuve-sur-Yonne (8920)
+# Canton of Vincelles|Vincelles (8921)
+
+
+Demographics
+The inhabitants of Yonne are known, in French language|French, as ''Icaunais'' (women: ''Icaunaises'').
+
+Yonne had a population, in 2014, of 341,814, for a population density of  inhabitants/km2. The ''arrondissement'' of Auxerre, with 179,922 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+'''Evolution of the population in Yonne'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:350000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2006 text:2006
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 283376
+ bar:1975 from:0 till: 299851
+ bar:1982 from:0 till: 311019
+ bar:1990 from:0 till: 323096
+ bar:1999 from:0 till: 333221
+ bar:2006 from:0 till: 340091
+ bar:2014 from:0 till: 341814
+
+PlotData=
+ bar:1968 at: 283376 fontsize:S text: 283,376 shift:(-13,5)
+ bar:1975 at: 299851 fontsize:S text: 299,851 shift:(-18,5)
+ bar:1982 at: 311019 fontsize:S text: 311,019 shift:(-18,5)
+ bar:1990 at: 323096 fontsize:S text: 323,096 shift:(-18,5)
+ bar:1999 at: 333221 fontsize:S text: 333,221 shift:(-18,5)
+ bar:2006 at: 340091 fontsize:S text: 340,091 shift:(-18,10)
+ bar:2014 at: 341814 fontsize:S text: 341,814 shift:(-18,10)
+
+
+
+The cities with more than 5,000 inhabitants in the department are:
+
+
+
+
+
+Gallery
+
+File:1240-Auxerre.jpg|Auxerre and the Yonne (river)|Yonne river
+File:Léglise Saint-Maurice et lYonne à Sens (2637691088).jpg|Sens on the Yonne river
+File:Avallon-Tour de l'Horloge depuis la place de la Collégiale Saint-Lazare.jpg|Avallon
+File:2012-DSC 0335-Villeneuve-sur-Yonne-Porte-de-Joigny.jpg|Villeneuve-sur-Yonne 
+
+
+Related pages
+ Arrondissements of the Yonne department
+ Communes of the Yonne department
+
+Category:Departments in Bourgogne-Franche-Comté

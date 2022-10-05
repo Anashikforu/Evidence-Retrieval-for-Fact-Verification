@@ -1,0 +1,71 @@
+{{Football player infobox
+|playername=Daniele De Rossi
+|image=De Rossi.JPG
+|image_size=150px
+|fullname=Daniele De Rossi
+|birth_date=
+|birth_place=Rome, Italy
+|death_date=
+|height=
+|position=Midfielder
+|youthyears1=1997-2000
+|youthclubs1=Ostia Mare
+|youthyears2=2000-2001
+|youthclubs2= As Roma|As Roma
+|years1=2001-2019
+|clubs1=A.S. Roma|Roma
+|years2=2019-2020
+|clubs2=Boca Juniors
+|nationalyears1=2004-2017
+|nationalteam1=Italy national football team|Italy
+|manageryears1=
+|managerclubs}}
+'''Daniele De Rossi''' (born 24 July 1983) is an Italy|Italian Retirement|retired Association football|football player. He last played for Boca Juniors and Italy national football team|Italy national team.
+
+ Club career statistics 
+
+
+|-
+|2001/02||rowspan="9"|A.S. Roma|Roma||rowspan="9"|Serie A||0||0||3||0||1||0||4||0
+|-
+|2002/03||4||2||2||0||0||0||6||2
+|-
+|2003/04||17||0||4||0||6||1||27||1
+|-
+|2004/05||30||2||5||1||2||1||37||4
+|-
+|2005/06||34||6||4||0||7||0||45||6
+|-
+|2006/07||36||2||8||2||10||2||54||6
+|-
+|2007/08||34||5||6||0||10||0||50||5
+|-
+|2008/09||33||3||2||0||7||0||42||3
+|-
+|2009/10||||||||||||||||
+188||20||34||3||43||4||265||27
+188||20||34||3||43||4||265||27
+|}
+
+ International career statistics 
+
+
+|-
+|2004||4||2
+|-
+|2005||10||0
+|-
+|2006||11||2
+|-
+|2007||6||0
+|-
+|2008||11||3
+|-
+|2009||9||1
+|-
+|2010||||
+|-
+!Total||51||8
+|}
+
+Category:Sportspeople from Rome

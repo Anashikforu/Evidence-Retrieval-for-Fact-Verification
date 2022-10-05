@@ -1,0 +1,44 @@
+
+|unit_pref  =  Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 100.5
+|area_total_sq_mi         = 
+|area_land_km2            = 98.8
+|area_land_sq_mi          = 
+|area_water_km2           = 1.7
+|area_water_sq_mi         =
+
+
+|elevation_footnotes      = 
+|elevation_m              = 168
+|elevation_ft             = 551
+|population_total         = 4312
+|population_as_of         = 2010 United States Census|2010
+|population_footnotes     = 
+|population_density_km2   = 43.6
+|population_density_sq_mi =
+
+
+|postal_code_type         = 
+|postal_code              = 
+|area_code                = 
+|website                  = 
+|footnotes                = 
+||timezone                 = North American Eastern Time Zone|Eastern (EST)
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|blank_name               = Federal Information Processing Standard|FIPS code
+|blank_info               = 36-16408
+|blank1_name              = Geographic Names Information System|GNIS feature ID
+|blank1_info              = 0978841
+}}
+'''Clinton''' is a community in Dutchess County, New York, United States.  The population was 4,312 at the 2010 census. The town is named after George Clinton (vice president)|George Clinton, an early governor of New York.
+
+
+
+
+
+Category:Towns in New York
+Category:Dutchess County, New York

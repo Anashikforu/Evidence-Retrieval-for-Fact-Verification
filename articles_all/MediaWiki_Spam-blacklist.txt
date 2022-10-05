@@ -1,0 +1,29 @@
+ # External URLs matching this list will be blocked when added to a page.
+ # This list affects only this wiki; refer also to the global blacklist.
+ # For documentation see  # 
+#
+# Syntax is as follows:
+#    Everything from a "#" character to the end of the line is a comment
+#    Every non-blank line is a regex fragment which will only match hosts inside URLs
+
+\bauscasinos\.com\.au\b
+\bcalendaryear\.net\b
+\bcomparedegreesonline\.com\b# see :m:User:COIBot/XWiki/comparedegreesonline.com
+\bfocgames.com\b
+\bmonclerstore-outlet\.com\b
+\bshort-biography\.com\b
+\bw3-translations\.de\b
+\bwikipedia-travel.blogspot.com\b
+\bwikipediatravel.weebly.com\b
+\bfacebook.com/Bidhan-Singh-Website-I3\b
+\.\w{2,4}/view/go/
+\btriviatribute\.com\b
+\bshayarish.blogspot.com\b
+\bpyarbharishayari\.com\b # see :m:User:COIBot/XWiki/pyarbharishayari.com
+\broidbazaar\.co\b
+\bfitnessrocks\.org\b
+\bexpressera.in\b
+\bbaby101.in\b
+\barrestedworld.com\b
+\bcallinolondon.com\b
+ # 

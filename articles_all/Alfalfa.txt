@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Alfalfa
+| image = 75_Medicago_sativa_L.jpg
+| image_width = 200px
+| image_caption = ''Medicago sativa''
+| regnum = Plantae
+| divisio = Flowering plant|Magnoliophyta
+| ordo = Fabales
+| familia = Fabaceae
+| subfamilia = Faboideae
+| tribus = Trifolieae
+| genus = ''Medicago''
+| binomial = ''Medicago sativa''}}
+
+'''Alfalfa''' (''Medicago sativa'') is a species of flowering plant in the family (biology)|family Fabaceae. It is also known as the '''lucerne'''. It is wikt:native|native to the Near East and central Asia. It has been introduced species|introduced to Europe, central Africa, China, North America, and South America. Alfalfa is a crop. It is used to feed livestock.
+
+ Nutritional value 
+Image:Sprouted Alfalfa.jpg|thumb|right|Sprouted alfalfa seeds
+Alfalfa is high in protein, calcium and other minerals, Vitamin B|vitamins in the B group, vitamin C, vitamin D, vitamin E, and vitamin K.
+Category:Faboideae

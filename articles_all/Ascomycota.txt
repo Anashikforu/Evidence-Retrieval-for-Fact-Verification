@@ -1,0 +1,16 @@
+{{Taxobox
+| image = Scarlet elf cap cadnant dingle.jpg
+| image_caption = ''Sarcoscypha coccinea'': shown is the ascocarp, a "fruit body"
+| regnum = Fungus|Fungi
+| subregnum = Dikarya
+| phylum = '''Ascomycota'''
+| phylum_authority = (Berk 1857) Caval.-Sm. 1998
+
+
+'''Ascomycota''' is a phylum of fungi (kingdom (biology)|kingdom Fungi). Members are commonly known as the '''sac fungi'''. They have a sac, the '''ascus''', which contains four to eight ascospores in the sexual stage.
+
+The structure defines the group and distinguishes it from other fungi. The ascus is a tube-shaped sac, which contains the sexual spores produced by meiosis and which are called ''ascospores''.
+
+It was used in genetics because it contains the results of crossing-over between chromosomes.
+
+Category:Fungi

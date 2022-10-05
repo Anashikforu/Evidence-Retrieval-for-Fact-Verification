@@ -1,0 +1,79 @@
+
+
+This page lists and links to information on the various versions of Microsoft Windows, a major computer operating system developed by Microsoft.
+
+Personal computer versions
+In this section, a client version of Windows is a version that end-users or OEMs can install on personal computers, including desktop computers, laptops and workstations.
+
+
+Server versions
+
+
+Device versions
+
+=Appliances=
+
+
+=Mobile devices=
+Mobile devices include smartphones, handheld tablet computers and personal digital assistants 
+Windows 10
+Windows 10 Mobile
+Windows 10 Mobile Enterprise
+Windows 10 IoT Mobile Enterprise
+Windows Phone
+Windows Phone 8.1
+Windows Phone 8
+Windows Phone 7.8
+Windows Phone 7.5
+Windows Phone 7
+Windows Mobile
+Windows Mobile 6.5
+Windows Mobile 6.1
+Windows Mobile 6.0
+Windows Mobile 5.0
+Windows Mobile 2003 SE
+Windows Mobile 2003
+Pocket PC 2002
+Pocket PC 2000
+
+=Embedded devices=
+Windows Embedded
+Windows Embedded 8
+Windows Embedded Automotive
+Windows Embedded Industry
+Windows XP Embedded
+Windows NT 4.0 Embedded – Abbreviated NTe, it is an edition of Windows NT 4.0 that was aimed at computer-powered major appliances, vending machines, ATMs and other devices that cannot be considered computers ''per se''. It is the same system as the standard Windows NT 4.0, but it comes packaged in a database of components and dependencies, from which a developer can choose individual components to build customized setup CDs and hard disk boot images. Windows NT 4.0 Embedded includes Service Pack 5.
+Windows Embedded Compact
+Windows Embedded#Compact|Windows Embedded Compact 2013
+Windows Embedded Compact 7
+Windows Embedded CE 6.0 (2006)
+Windows CE 5.0 (2005), with version for smart phones and PDAs sold as Windows Mobile 5.0
+Windows CE 4.2 (2004), with version for smart phones and PDAs sold as Windows Mobile 2003 SE
+Windows CE 4.1 (2003), with version for smart phones and PDAs sold as Pocket PC 2003
+Windows CE 4.0 (2002), with version for smart phones and PDAs sold as Pocket PC 2002
+Windows CE 3.0 (June 2000), with version for smart phones and PDAs sold as Pocket PC 2000
+Windows CE 2.12 (1999 August)
+Windows CE 2.11 (1998 October)
+Windows CE 2.1 (1998 July)
+Windows CE 2.0 (September 1997)
+Windows CE 1.0 (November 1996)
+
+Cancelled versions
+Windows Odyssey – a version intended to be an update to the Microsoft Windows NT 5.x codebase. The teams working on Neptune and Odyssey combined to work on Windows XP.
+Windows Mobile 7|Windows Mobile 7 or Photon - originally a successor of Windows Mobile, it had been scrapped for Windows Phone 7 with Metro UI.
+Windows Neptune (December 27, 1999) – the first planned version of Microsoft Windows NT to have a consumer edition variant, based on the Windows 2000 codebase. A version was sent out to testers but was never released.
+Cairo (operating system) (Windows NT 4.0 (February 29, 1996) – a "true object-oriented OS", planned after Windows NT 4.0.
+Windows Nashville (May 2, 1996) – also known as Windows 96
+Windows Longhorn – (August 19, 2004) – Planned to be after XP but was eventually scrapped and became Windows Vista.
+Bugs Bunny Video System (July 9, 2018) – Planned to be after 10.1 but was eventually scrapped and became Paramount Video System.
+
+Timeline
+
+
+Related pages
+History of Microsoft Windows
+List of Microsoft software codenames
+Comparison of Microsoft Windows versions
+List of Microsoft operating systems
+
+Category:Microsoft lists|Windows

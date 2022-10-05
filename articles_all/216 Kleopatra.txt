@@ -1,0 +1,38 @@
+{{Infobox Planet   | bgcolour=#FFFFC0 | name=216 Kleopatra
+ | discoverer=Johann Palisa
+ | discovered=April 10, 1880
+ | alt_names=A905 OA, A910 RA
+ | mp_category=Asteroid belt|Main belt
+ | epoch=30 January, 2005 (Julian day|JD 2453400.5)
+ | semimajor=417.796 Giga|Gmetre|m (2.793 Astronomical unit|AU)
+ | perihelion=312.544 Gm (2.089 AU)
+ | aphelion=523.049 Gm (3.496 AU)
+ | eccentricity=0.252
+ | period=1704.704 day|d (4.67 Julian year (astronomy)|a)
+ | inclination=13.136degree (angle)|°
+ | asc_node=215.672°
+ | arg_peri=179.099°
+ | mean_anomaly=55.259°
+ | avg_speed=17.82 km/second|s
+ | dimensions=217 × 94 × 81 km
+ | mass=''unknown''
+ | density=''3.5+''
+ | surface_grav=
+ | escape_velocity=
+ | rotation=5.385 hour|h
+ | spectral_type=M-type asteroid|M
+ | abs_magnitude=7.3
+ | albedo=0.116
+ | single_temperature=''unknown''}}
+
+'''216 Kleopatra''' is a Asteroid belt|Main belt asteroid found by Johann Palisa on April 10, 1880 in Pula|Pola. It is named after Cleopatra VII of Egypt|Cleopatra, the Queen of Egypt.
+
+
+
+Kleopatra is an unusual object. Its odd shape was revealed by adaptive optics on the ESO 3.6m telescope at La Silla. By bouncing radar signals off the asteroid, a team of astronomers at the Arecibo Observatory|Arecibo radio telescope in Puerto Rico were able to develop a more detailed computer model of its shape, which confirmed the dog-bone like shape. A favored explanation is that Kleopatra is a contact binary (asteroid)|contact binary: two similarly-sized asteroids that have hit and stuck together instead of breaking apart.
+
+Kleopatra is a fairly big asteroid, measuring 217 × 94 × 81&nbsp;km. It is believed to be a loosely packed metallic object, based on its radar albedo.
+
+ Other websites 
+   
+Category:Asteroids

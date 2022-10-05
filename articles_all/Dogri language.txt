@@ -1,0 +1,27 @@
+{{Infobox Language
+|name=Dogri
+|nativename=डोगरी  ڈوگرى  
+|states=India, Pakistan
+|region=Jammu, Kashmir, Himachal Pradesh, Punjab region|Punjab
+|speakers=2 million
+|familycolor=Indo-European
+|fam2=Indo-Iranian languages|Indo-Iranian
+|fam3=Indo-Aryan languages|Indo-Aryan
+|fam4=Northern Zone
+|script=Devanagari, Takri script|Takri, Arabic alphabet|Perso-Arabic script
+|iso2=doi
+|lc1=doi|ld1=Dogri (generic)
+|lc2=dgo|ld2=Dogri (specific)
+|lc3=xnr|ld3=Kangri|notice=Indic}}
+
+Dogri () is an Indo-Aryan Language.Although formerly treated as a Punjabi dialect, Dogri is now considered to be a member of the Western Pahari group of languages. 
+Speakers
+It is spoken by about two million people in Jammu Kashmir region and Pakistan, chiefly in the Jammu region of Jammu and Kashmir, but also in northern Punjab, Himachal Pradesh, other parts of Indian controlled Kashmir, and elsewhere. Dogri speakers are called Dogras, and the Dogri-speaking region is called Duggar. 
+Language profile
+Dogri is a member of the Western Pahari Group of languages. The language is referred to as Pahari (पहाड़ी ) in the PUNJAB|Pakistan's Punjab provincial region and Pakistan-administered Kashmir. Unusually for an Indo-European language, Dogri is tonal, a trait it shares with other Western Pahari languages and Punjabi, of whom it is considered as a dialect.
+
+
+
+
+Category:Punjabi language
+Category:Languages of India

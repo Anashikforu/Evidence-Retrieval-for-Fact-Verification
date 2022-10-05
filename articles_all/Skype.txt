@@ -1,0 +1,42 @@
+
+Image:Skype logo (2019–present).svg|right|250px
+'''Skype''' () is a software program that uses the Internet to make telephone calls (using a technology called Voice over Internet Protocol (VoIP). It was created in 2003 by the Sweden|Swedish and Denmark|Danish Niklas Zennström and Janus Friis, and is currently run by a company in Luxembourg called '''Skype Technologies S.A.R.L''', which since 2011 is part of Microsoft. (From 2005 to 2011, Skype was owned by eBay.)
+
+The Skype program works on computers Microsoft Windows, MacOS and Linux and is available as mobile apps for different platforms including iOS and Android (operating system)|Android. By using VoIP to make the calls, it is very cheap to call another phone. It does not cost money to call another Skype user. Every Skype user has a unique name by which other users can find and talk to. Skype also has additional features such as video calls and multiple members in a conversation. In the chat you can also find a selection with a variety of emojis available.
+
+ History of Skype 
+ September 2002: investment from  April 2003: Skype.com and Skype.net domain names registered.
+ August 2003: First public beta version released.
+ September 2005: Skype for talking is banned in South China.
+ October 2005: eBay bought Skype.
+ December 2005: videotelephony introduced.
+ April 2006: 100 million users.
+ October 2006: Skype 2.0 for Mac is released, the first full release of Skype with video for Macintosh.
+ December 2006: Skype announces a new pricing structure as of January 18, 2007, with connection fees for all SkypeOut calls March 2007: Skype 3.1 is released, adding some new features, including Skype Find and Skype Prime. Skype also released a 3.2 beta with a new feature called Send Money which allows users to send money via PayPal from one Skype user to another.
+ August 2007: Skype 3.5 for Windows released with additions such as inclusion of video content in chat, call transfer to another person or a group,
+ August 15, 2007: Skype 2.7.0.49 (beta) for Mac OS X released adding availability of contacts in the Mac Address Book to the Skype contact list, auto redial, contact groups, public chat creation, and an in-window volume slider to the call window.
+ August 16 / August 17, 2007: Skype users unable to connect to full Skype network in many countries
+ November 2007: Skype users in London who use the 020 city code lost the phone numbers that connected to their Skype accounts after December 2007.
+
+ Security 
+Skype has an encryption system for security. This system cannot be turned on or off. Skype provides an uncontrolled registration system for users. People can use the system safely without revealing their real-life identity to other users of the system, but there is no way to know that the person they communicate with is the one they say they are.
+
+ Criticism 
+ Skype clients can become supernodes. These supernodes hold together the peer-to-peer network. It can use a big quantity of Bandwidth (computing)|bandwidth. For this reason, some University|universities have banned the use of Skype.
+ Significant use of obfuscated code 
+ Keeps chatting on the computer network|network
+ Blind trust in anything else speaking Skype
+ Ability to build a parallel Skype network
+ Lack of privacy (Skype has the keys to decrypt calls or sessions)
+ Heap overflow in Skype
+ Skype makes it hard to enforce a (corporate) security policy
+ "No way to know if there is/will be a backdoor"
+ Users of Skype on Mac OS X have poor audio quality when connecting to Mac/Mobile clients
+ Bugs and delays in the Linux version
+
+ Other websites 
+   
+Category:2003 establishments
+Category:File sharing
+Category:Video chat
+Category:Telephone

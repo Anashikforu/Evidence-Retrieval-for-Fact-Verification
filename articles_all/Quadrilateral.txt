@@ -1,0 +1,31 @@
+{{Infobox Polygon
+| name        = Quadrilateral
+| image       = Six Quadrilaterals.svg
+| caption     = Some types of quadrilaterals
+| edges       = 4
+| schläfli    = {4} (for square)
+| area        = various methods, usually base time height
+| angle       = 90° (for square and rectangle)}}
+
+In Euclidean geometry|Euclidean plane geometry, a '''quadrilateral''' is a polygon with four Edge (geometry)|edges (or sides) and four Vertex (geometry)|vertices (or corners). Sometimes, the term '''quadrangle''' is used (similar to the term "triangle"), while other times, the term '''tetragon''' is used (similar to pentagon, 5-sided polygon, and hexagon, 6-sided polygon). A quadrilateral with vertices A, B, C, D is sometimes written as \square ABCD.
+
+The origin of the word quadrilateral is the two Latin words ''quadri'', a variant of four, and ''latus'', meaning "side".
+
+Quadrilaterals can be either complex polygon|complex, also called crossed (self-intersecting), or simple polygon|simple (not self-intersecting). Simple quadrilaterals are either convex polygon|convex or concave polygon|concave.
+
+All the sides of a quadrilateral are straight, and the Internal and external angle|interior angles of a quadrilateral add up to 360°.
+
+:\angle A+\angle B+\angle C+\angle D=360^{\circ}.
+
+This is a special case of the ''n''-gon interior angle sum formula: (''n'' − 2) × 180°.
+
+All non-self-crossing quadrilaterals tessellation|tile the plane, by repeated rotation around the midpoints of their edges.
+
+There are 6 special kinds of quadrilaterals; square, rectangle, rhombus, parallelogram, kite (geometry)|kite, and trapezoid. Technically, squares, rectangles, and rhombuses are types of parallelograms.
+
+ Related pages 
+
+ Cube
+ Cuboid
+
+Category:Polygons|4

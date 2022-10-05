@@ -1,0 +1,10 @@
+Image:Square_200x200.png|right|frame|The square shown above is 200 pixels by 200 pixels. To determine a monitor's PPI, measure the width and height, in inches, of the square as displayed on a given monitor. Dividing 200 by the measured width or height gives the monitor's horizontal or vertical PPI, respectively, at the current screen resolution.
+'''Pixels per inch''' ('''PPI''') or '''pixel density''' is a measurement of the display resolution|resolution of a computer display, related to the size of the display in inches and the total number of pixels in the horizontal and vertical directions. This measurement is often referred to as dots per inch, though that measurement more accurately refers to the resolution of a computer printer. PPI may also be used to describe the resolution of an image scanner or digital camera; in this context, it is synonymous with samples per inch.
+
+Other websites
+ 
+
+
+Category:Display technology
+
+cs:PPI

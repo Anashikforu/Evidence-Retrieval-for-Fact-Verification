@@ -1,0 +1,31 @@
+{{Infobox DMU
+|name = British Rail Class 110 
+|image = BR Class 110 3-car.jpg
+|imagesize = 300px
+|background = #0033cc
+|caption = 
+|Manufacturer = Birmingham Railway Carriage and Wagon Company|BRC&W
+|Operator = British Rail
+|Formation = Two and three car 
+|Built = 
+|LinesServed = 
+|InService = 1961-
+|CarLength = 57 ft 6 in (17.53 m)
+|CarWidth = 9 ft 3 in (2.81 m)
+|CarHeight = 3.88 m 
+|Weight = 33.5 tonnes 
+|Capacity = 
+|MaxSpeed = 70 mph (112 km/h) 
+|Gauge = 
+|Traction = 
+|Engine =Rolls-Royce, 180 bhp 
+|SafetySystem=
+ |}}
+
+The '''Class 110''' DMUs were built by the Birmingham Railway Carriage and Wagon Company in conjunction with the Drewry Car Co. to operate services on the former Lancashire and Yorkshire Railway|Lancashire and Yorkshire main line, and spent their entire careers based around this same area. This earned them the name of the River Calder|'Calder Valley' sets.  They were an updated version of the British Rail Class 104|Class 104, with a revised cab design and raised bodyside window frames.
+
+
+
+
+
+Category:British Rail diesel multiple units|110

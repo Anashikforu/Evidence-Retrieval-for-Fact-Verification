@@ -1,0 +1,12 @@
+
+'''Shear stress''' is a stress (physics)|stress state where the stress is parallel to the surface of the material, as opposed to Tensile stress|normal stress when the stress is :en:Perpendicular|perpendicular to the surface. 
+
+Shear stress is relevant to themotion (physics)| motion of fluids upon surfaces, which result in the generation of shear stress.
+Also constructions in soil can fail due to shear; e.g., the weight of an earth-filled dam may cause the subsoil to collapse, like a small landslide.
+
+Related pages
+ Scissors work by shear stress
+
+Category:Materials science
+
+

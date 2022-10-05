@@ -1,0 +1,18 @@
+'''Machida Station'''(町田駅,まちだえき) is a Railway station of East Japan Railway Company|JR East and Odakyu Electric Railway in Machida, Tokyo|Machida, Tokyo, Japan.
+
+ Neighbor 
+;JR East
+:Yokohama Line
+::Rapid
+:::Nagatsuda Station|Nagatsuda - '''Machida''' - Sagamihara Station|Sagamihara
+::Local
+:::Naruse Station|Naruse - '''Machida''' - Kobuchi Station|Kobuchi
+;Odakyu Electric Railway
+:Odakyu Odawara Line|Odawara Line
+::Rapid Express,Express
+:::Shin-Yurigaoka Station|Shin-Yurigaoka - '''Machida''' - Sagami-Ōno Station|Sagami-Ōno
+::Semi Express,Section Semi Express,Local
+:::Tamagawagakuen-mae Station|Tamagawagakuen-mae - '''Machida''' - Sagami-Ōno Station|Sagami-Ōno
+
+Category:Railway stations in Tokyo
+

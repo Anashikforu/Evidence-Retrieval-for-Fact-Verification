@@ -1,0 +1,10 @@
+There are currently 211 '''FIFA''' members, each one with a different country code.
+
+
+FIFA, IOC and ISO differences
+
+Although most FIFA codes are the same as the List of IOC country codes|International Olympic Committee country codes at the Olympic Games, there are still some changes between them:
+
+
+
+Category:Country codes

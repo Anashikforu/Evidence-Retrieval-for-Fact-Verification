@@ -1,0 +1,30 @@
+
+{{Taxobox 
+| name = ''Toxoplasma gondii''
+| image = Toxoplasma gondii tachy.jpg
+| image_width = 200px
+| image_caption = ''T. gondii'' tachyzoites
+| regnum = Protista
+| phylum = Apicomplexa
+| classis = Conoidasida
+| subclassis = Coccidiasina
+| ordo = Eucoccidiorida
+| familia = Sarcocystidae
+| genus = '''''Toxoplasma'''''
+| binomial = ''Toxoplasma gondii''}}
+
+'''''Toxoplasma gondii''''' is a protozoan parasite that can infect almost all warm-blooded animals, including humans.Weiss, Louis M. & Kami Kim, eds. 2011. ''Toxoplasma gondii: the model Apicomplexan: perspectives and methods''. Academic Press/Elsevier, London, p49.Dubey J.P. 2010. ''Toxoplasmosis of animals and humans. 2nd ed, CRC Press. 
+
+In humans, it is one of the most common parasites.
+
+Although mild, flu-like symptoms occasionally occur during the first few weeks, infection with ''T. gondii'' generally produces no symptoms in healthy human adults. But in infants, HIV/AIDS patients, and others with Immune system|weakened immunity, infection can cause serious and occasionally fatal illness ('''toxoplasmosis''').p77
+
+Infection in humans and other warm-blooded animals can occur
+# by eating raw or undercooked meat containing ''T. gondii'' tissue cysts.Tissue cyst = group of cells with a hard shell around them 
+# by drinking water or eating anything contaminated with oocysts.Oocyst: a hardy, thick-walled spore able to survive for long periods outside a host. The zygote develops within the spore, which acts to protect it during transfer to new hosts. This method is found in some Apicomplexa. in the faeces of an infected animal.
+# from a blood transfusion or organ transplant
+# or by transmission from mother to foetus across the placenta.
+
+The parasite can only Sexual reproduction|sexually reproduce in the intestines of members of the Felidae|cat family (felids). Felids are therefore the Host (biology)|definitive hosts of ''T. gondii'', with all other hosts defined as 'intermediate hosts'.
+
+Category:Parasites

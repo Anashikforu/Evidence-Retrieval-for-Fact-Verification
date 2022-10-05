@@ -1,0 +1,7 @@
+
+
+A '''polypeptide''' is a string or linear chain of amino acids linked together. Amino acids are the basic building blocks of proteins.
+
+Polypeptides are made when mRNA is translation (genetics)|translated, a process involving ribosomes, tRNA and amino acids.
+
+category:Biochemistry

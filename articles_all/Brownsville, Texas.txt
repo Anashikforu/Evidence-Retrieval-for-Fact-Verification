@@ -1,0 +1,59 @@
+
+| unit_pref                       = Imperial
+| area_footnotes                  = 
+| area_magnitude                  =
+| area_total_km2                  = 219.805
+| area_total_sq_mi                = 84.867
+| area_land_km2                   = 211.157
+| area_land_sq_mi                 = 81.528
+| area_water_km2                  = 8.648
+| area_water_sq_mi                = 3.339
+| area_water_percent              = 4
+| area_urban_km2                  =
+| area_urban_sq_mi                =
+| area_metro_km2                  = 905.76
+| area_metro_sq_mi                = 370.58
+| area_blank1_title               = Combined statistical area|CSA
+| area_blank1_sq_mi               =
+| elevation_m                     = 10
+| elevation_ft                    = 33
+| population_total                = 175,023 (US: List of United States cities by population|131st)
+| population_as_of                = 2010 United States Census|2010
+| population_footnotes            =
+| population_density_km2          = auto
+| population_density_sq_mi        =
+| population_est                  = 189,592
+| pop_est_as_of                   = 2018
+| pop_est_footnotes               = 
+| population_urban                = 217,585 (US: List of United States urban areas|145th)
+| population_urban_footnotes      = 
+| population_density_urban_sq_mi  = 2,668.8
+| population_metro                = 420,392 (US: List of Metropolitan Statistical Areas|126th)
+| population_density_metro_sq_mi  = 1602.2
+| population_blank1_title         = Combined statistical area|CSA
+| population_blank1               = 444,059 (US: List of Combined Statistical Areas|93rd)
+| population_blank2_title         = Combined statistical area|CSA density
+| population_blank2               =
+| population_demonym              = Brownsvillian
+| postal_code_type                = ZIP Codes
+| postal_code                     = 78520, 78521, 78522, 78523, 78526
+| area_code                       = Area code 956|956
+| website                         = 
+| footnotes                       = α. ^   Area, city density, metro population/density and CSA population/density as of the 2017 estimate.
+β.   Urban population/density as of the 2010 Census.
+| leader_title2                   = Texas's 34th congressional district|U.S. Congress
+| leader_name2                    = Filemon Vela Jr. (Democratic Party (United States)|D)
+| timezone                        = North American Central Time Zone|CST
+| utc_offset                      = -6
+| timezone_DST                    = North American Central Time Zone|CDT
+| utc_offset_DST                  = -5
+| blank_name                     = Federal Information Processing Standard|FIPS code
+| blank_info                     = 48-10768
+| blank1_name                    = Geographic Names Information System|GNIS feature ID
+| blank1_info                    = 1372749
+| blank2_name                    = Airport
+| blank2_info                    = Brownsville/South Padre Island International Airport KBRO (BRO)
+}}
+'''Brownsville''' is a city in the southern tip of Texas. As of 2005, 167,493 people lived there.
+
+Category:County seats in Texas

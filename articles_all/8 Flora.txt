@@ -1,0 +1,49 @@
+file:8 Flora VLT (2021), deconvolved.pdf|thumb|left|Flora
+{{Infobox Planet   | bgcolour=#FFFFC0
+| name=8 Flora
+| symbol= 
+| discoverer=John Russell Hind|J.R. Hind
+| discovered=October 18, 1847
+| alt_names=''none''
+| mp_category=Asteroid belt|Main belt (Flora family)
+| epoch=November 26, 2005 (Julian day|JD 2453700.5)
+| semimajor=329.422 Giga|Gmetre|m (2.202 Astronomical unit|AU)
+| perihelion=277.995 Gm (1.858 AU)
+| aphelion=380.850 Gm (2.546 AU)
+| image=Moon and Asteroids 1 to 10.svg
+| caption=Size comparison: the first 10 asteroids profiled against Earth's Moon. Flora is third from the right.
+| eccentricity=0.1561
+| period=1193.549 day|d (3.27 Julian year (astronomy)|a)
+| inclination=5.886degree (angle)|°
+| asc_node=111.011°
+| arg_peri=285.128°
+| mean_anomaly=156.401°
+| avg_speed=19.95&nbsp;km/second|s
+| dimensions=145×145×120&nbsp;km
+| mass=~3.6×1018 kilogram|kg
+| density=~2.7&nbsp;g/cubic centimetre|cm³
+| surface_grav=~0.045&nbsp;m/s²
+| escape_velocity=~0.081&nbsp;km/s
+| rotation=0.5363 d (12.87 h)
+| spectral_type=S-type asteroid
+| magnitude = 7.9 to 11.6
+| abs_magnitude=6.49
+| albedo=0.243&nbsp;(geometric albedo|geometric)
+| angular_size = 0.21"  to 0.053"
+| single_temperature=~180 kelvin|K''max:'' 276&nbsp;K (+3 celsius|°C)}}
+'''8 Flora''' is a big, bright, Asteroid belt|main belt asteroid. It is the closest ''big'' asteroid: no asteroid closer to the Sun has a diameter above 25&nbsp;kilometres or two-elevenths that of Flora itself, and not until the tiny 149 Medusa was found was a single asteroid orbiting at a closer mean distance known.Binsel, Richard P.; Gehrels, Tom and Matthews, Mildred Shapley (editors); ''Asteroids II''; published 1989 by University of Arizona Press; pp. 1038-1040.  It is the seventh brightest asteroid with a mean Opposition (astronomy)|opposition apparent magnitude|magnitude of +8.7. Flora can reach a magnitude of +7.9 at a favorable opposition near perihelion, such as will occur in mid November 2007.
+
+ Discovery and naming 
+Flora was found by John Russell Hind|J. R. Hind on October 18, 1847. It was his second asteroid discovery after 7 Iris.
+
+The name Flora was proposed by John Herschel, from Flora (goddess)|Flora, the Roman mythology|Latin goddess of flowers and gardens, wife of Zephyrus (the personnification of the West wind), mother of Spring, and whose Greek equivalent is Chloris (who has her own asteroid, 410 Chloris).
+
+ Characteristics 
+Flora is the parent body of the Flora family of asteroids, and by far the biggest member, having about 80% of the total mass of this family. But Flora was almost certainly disrupted by the impact(s) that formed the family, and is probably an aggregate of most of the pieces.
+
+Flora's spectrum indicates that its surface is made of a mixture of silicate rock (including pyroxene and olivine) and nickel-iron metal. Flora, and the whole Flora family generally, are good candidates for being the parent bodies of the L chondrite meteorites. This meteorite type comprises about 38% of all meteorites impacting the Earth.
+
+ Notable facts 
+During an observation on March 25, 1917, 8 Flora was mistaken for the star TU Leonis, which led to that star's classification as a cataclysmic variable star|U Geminorum cataclysmic variable star. This mistake was uncovered only in 1995.
+
+Category:Asteroids

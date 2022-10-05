@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Ornithopod
+| fossil_range = Lower Jurassic – Upper Cretaceous
+| image = Ornithopods_jconway.jpg
+| image_width = 230px
+| image_caption = Ornithopod dinosaurs. Far left: ''Camptosaurus''left: ''Iguanodon'', centre: ''Shantungosaurus''centre foreground: ''Dryosaurus'', right: ''Corythosaurus'', far right: ''Tenontosaurus''.
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Reptile|Sauropsida
+| superordo = Dinosauria
+| ordo = Ornithischia
+| subordo = Cerapoda
+| infraordo = '''Ornithopoda'''
+| infraordo_authority = Othniel Charles Marsh|Marsh, 1881}}
+
+
+An '''ornithopod''' is the infraorder of Ornithischia|bird-hipped dinosaur, started out as small, bipedal running grazers, and grew in size and numbers until they became one of the most successful groups of herbivores in the Cretaceous world. Their major evolutionary advantage was the progressive development of a wikt:chew|chewing apparatus that became the most sophisticated ever developed by a reptile. They had beaks, multiple teeth rows, cheek pouches and true chewing. Efficient chewing means faster digestion, as the material is broken into smaller pieces.
+
+They reached their apex in the hadrosaur|duck-bills, before they were wiped out by the Cretaceous–Tertiary extinction event with all other non-aves|avian dinosaurs. Members are known from all seven continents, although the Antarctic remains are unnamed, and they are generally rare in the Southern Hemisphere. They are the sister group to the horned dinosaurs (Ceratopsia) and the hard-headed dinosaurs (Pachycephalosauria).
+
+Description
+Ornithopoda means "bird feet", from the Greek language|Greek. It refers to their three-toed feet (though many early forms had four toes). They had no armour, a horny beak, and various other features. Some ornithopods and cerapoda|cerapods had thin cartilage|cartilaginous plates along the outside of the ribs. In some cases, these plates mineralized and so were fossilized. The function of these plates is unknown.
+
+ Life-style and adaptations 
+The ornithopods became one of the most successful groups of herbivores in the Cretaceous world, and dominated the landscape. They started out as small, bipedal running browsers, and grew in size and numbers. ''Hypsilophodon'' from the Lower Cretaceous of the Isle of Wight, England, is a typical example. As they grew in size, they could move on four legs but still kept the habit of standing up on their hind legs when needed to reach food or perhaps to defend themselves or to run.
+
+Their success is a perhaps surprising, as they had little obvious Defence against predators|defence against theropod carnivores. They could run, and had the usual defences of a herd animal.Brett-Surman M.K. 1997. ''The complete dinosaur''. (ed Farlow J.O & Brett-Surman M.K.) Indiana University Press, Bloomington IN. 'Ornithopods', p330. They had horny beaks and some cartilage rib plates. Iguanadonts, however, could protect themselves. They were very robust (heavy and strong), and armed with a dagger-like thumb.
+
+
+The early ornithopods were only about 1&nbsp;metre (3&nbsp;feet) long, but probably very fast. They had a stiff tail, like the theropoda|theropods, to help them balance as they ran on their hind legs. Later ornithopods became more adapted to grazing on all fours; their vertebral column|spines curved, and came to resemble the spines of modern ground-feeders like the bison. As they became more adapted to eating while bent over, they became semi-quadrupedal; still running on two legs, and comfortable reaching up into trees; but spending most of their time walking or grazing while on all fours.
+
+Later ornithopods became larger, but never reached the huge size of the long-necked, long-tailed sauropods which they largely replaced. The largest, like ''Shantungosaurus'', were as heavy as medium sized sauropods, but never grew much beyond 15&nbsp;metres (50&nbsp;feet).
+
+Classification
+'''Infraorder Ornithopoda'''
+ Family Camptosauridae
+ Family Dryosauridae
+ Family Hypsilophodontidae
+ Family Iguanodontidae
+ Family Rhabdodontidae
+ Family Hadrosauridae
+
+Category:Ornithopods| 

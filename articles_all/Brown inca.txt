@@ -1,0 +1,15 @@
+{{Taxobox
+| name = Brown inca
+| image = Brown Inca (Coeligena wilsoni).jpg
+| status = LC | status_system = IUCN3.1
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Trochiliformes
+| familia = Trochilidae
+| genus = ''Coeligena''
+| binomial = ''Coeligena wilsoni''}}
+
+
+The '''brown inca''' (''Coeligena wilsoni''), is a species of hummingbird. It is found in Colombia and Ecuador. Unlike most hummingbirds, the brown inca are not brightly colored. Instead they are plain brown with a white patch on the shoulder and an iridescence|iridescent purple throat if seen in the best light.
+
+Category:Hummingbirds

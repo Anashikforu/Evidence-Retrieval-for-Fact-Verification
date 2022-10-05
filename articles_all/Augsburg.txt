@@ -1,0 +1,35 @@
+
+
+|type = Stadt
+|image_flag = Flag of Augsburg.svg
+|image_coa = Augsburg wappen.svg
+|coordinates = 
+|image_plan =
+|state = Bavaria
+|region = Swabia (Bavaria)|Swabia
+|district = Kreisfreie Stadt
+|elevation = 494
+|area = 146.84
+<!--
+|population = 300000
+|Stand = 2015-12-31
+filled via Gemeindeschlüssel -->
+|pop_metro = 885000
+|postal_code = 86150–86199
+|area_code = 0821
+|licence = A
+|Gemeindeschlüssel = 09 7 61 000
+|mayor = Eva Weber|leader_term       = 2020&ndash;26
+|Bürgermeistertitel = Oberbürgermeisterin
+|party = CSU
+|website = 
+}}
+'''Augsburg''' (,) is a city in the South of Germany, in the state of Bavaria. It has about 272,000 inhabitants and a university. It was founded in the Ancient Rome|Roman age. In the time of Renaissance (after the Middle Ages) a family of bankers, the Fuggers, became very rich and powerful in Augsburg.
+
+The Protestant Augsburg Confession was made in 1530.
+
+In 1555, a peace agreement called The Peace of Augsburg between Catholics and Protestants was signed in Augsburg.
+
+Augsburg has a humid continental climate (''Dfb'' in the Köppen climate classification).
+
+Category:Augsburg| 

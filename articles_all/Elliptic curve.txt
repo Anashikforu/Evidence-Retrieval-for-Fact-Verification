@@ -1,0 +1,8 @@
+An '''elliptic curve''' is a plane curve of Degree (mathematics)|degree 3 that can be described using the following formula:
+
+y^2=x^3+ax+b,
+
+where a and b are Integer|integers.
+
+
+Category:Geometry

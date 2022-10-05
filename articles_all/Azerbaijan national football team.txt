@@ -1,0 +1,79 @@
+{{Infobox national football team
+| Name           = Azerbaijan
+| Nickname       = 
+| Badge          = 
+| Badge_size     = 200px
+| Association    = Association of Football Federations of Azerbaijan|AFFA
+| Confederation  = UEFA (Europe)
+| Coach          = 
+
+| Captain        = Maksim Medvedev
+| Most caps      = Rashad Sadygov (111)
+| Top scorer     = Gurban Gurbanov (14)
+| FIFA Trigramme = AZE
+| FIFA Rank      = 
+| FIFA max       = 73
+| FIFA max date  = July 2014
+| FIFA min       = 170
+| FIFA min date  = June 1994
+| Elo Rank       = 
+| Elo max        = 51
+| Elo max date   = 28 June 1928
+| Elo min        = 152
+| Elo min date   = 2 June 2001
+| Home Stadium   = Baku Olympic Stadium
+| pattern_la1    = _portsmouth1819h
+| pattern_b1     = _portsmouth1819home
+| pattern_ra1    = _portsmouth1819h
+| pattern_sh1    = 
+| pattern_so1    = 
+| leftarm1       = 4f00ee
+| body1          = 4f00ee
+| rightarm1      = 4f00ee
+| shorts1        = 4f00ee
+| socks1         = 4f00ee
+| pattern_la2   = _coventryc1819a
+| pattern_b2    = _coventryc1819a
+| pattern_ra2   = _coventryc1819a
+|pattern_si1=
+|pattern_so2=
+|leftarm2    = ffffff
+|body2       = ffffff
+|rightarm2   = ffffff
+|shorts2     = ffffff
+|socks2      = ffffff
+| pattern_la3 = _leyton1819h
+| pattern_b3  = _leyton1819h
+| pattern_ra3 = _leyton1819h
+| pattern_sh3   = 
+| pattern_so3   = 
+| leftarm3      = 
+| body3         = 
+| rightarm3     = 
+| shorts3       = ff0000
+| socks3        = ff0000
+| First game     =   (Gurjaani, Georgia (country)|Georgia; 17 September 1992)
+| World cup apps     = 
+| World cup first    = 
+| World cup best     =
+| Regional name      = UEFA Nations League
+| Regional cup apps  = 2
+| Regional cup first = 2018–19 UEFA Nations League|2018
+| Regional cup best  = 
+| 2ndRegional name   = 
+| 2ndRegional cup apps  = 
+| 2ndRegional cup first = 
+| 2ndRegional cup best  =
+| Largest win    = 
+(Baku, Azerbaijan; 4 September 2017)
+| Largest loss         = 
+
+'''Azerbaijan national football team''' is the national football (soccer)|football team of Azerbaijan.
+
+Most appearances
+
+
+Top scorers
+
+
+Category:Football in Azerbaijan

@@ -1,0 +1,40 @@
+{{Infobox Planet   | bgcolour=#FFFFC0 |
+| name=14 Irene
+| discoverer=John Russell Hind
+| discovered=May 19, 1851
+| alt_names=A906 QC;A913 EA;1952 TM
+| mp_category=Main belt
+| epoch=July 14, 2004 (Julian day|JD 2453200.5)
+| semimajor=386.730 1 E9 m|Gm (2.585 Astronomical unit|AU)
+| perihelion=321.602 Gm (2.150 AU)
+| aphelion=451.858 Gm (3.020 AU)
+| eccentricity=0.168
+| period=1518.176 day|d (4.16 Julian year (astronomy)|a)
+| inclination=9.106°
+| arg_peri=96.473°
+| asc_node=86.493°
+| mean_anomaly=326.489°
+| avg_speed=18.52&nbsp;km/s
+| dimensions=181.8&nbsp;km 
+| mass=6.3×1018 kg reference needed
+| density=2 ? g/cm³
+| surface_grav=0.051&nbsp;m/s²
+| escape_velocity=0.096&nbsp;km/s
+| rotation=0.6275 d
+| spectral_type=S-type asteroid 
+| magnitude = 8.84  to 12.25
+| abs_magnitude=6.30
+| albedo=0.160
+| angular_size = 0.17"  to 0.052"
+| single_temperature=~170 kelvin|K }}
+'''14 Irene''' is a very big Asteroid belt|Main belt asteroid.
+
+14 Irene was found by John Russell Hind|J. R. Hind on May 19, 1851, and named after Eirene, a personification of peace in Greek mythology. She was one of the Horae, daughter of Zeus and Themis. The name was suggested by Sir John Herschel. Hind wrote,
+:"You will readily discover that this name ... has some relation to this event (the Great Exhibition|Great Industrial Exhibition) which is now filling our metropolis London with the talent of all civilised nations, with those of Peace, the productions of Art and Science, in which all mankind must feel an interest."
+The ''Great Exhibition of the Works of Industry of All Nations'' in the Crystal Palace of Hyde Park, London|Hyde Park, London ran from May 1 until October 18, 1851.
+
+Hind suggested that the symbol for the asteroid should be "A dove carrying an olive-branch, with a star on its head",
+
+There have been four reported star|stellar occultations by Irene.
+
+Category:Asteroids

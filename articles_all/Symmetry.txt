@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+Reflectional '''Symmetry''' is a property of certain geometry|geometrical objects that appears the same when mirrored or reflection|reflected along an axis. This axis has to cross the shape through the middle of that object dividing into equal halves. 
+
+In rotational symmetry, the object is identical when it is rotated by a certain amount. 
+
+The precise notions of symmetry have various measures and operational definitions. For example, symmetry may be observed
+with respect to the passage of time;
+as a space|spatial relationship;
+through transformations such as rotation;
+through other kinds of transformations;For example, operations such as moving across a regularly patterned tile floor or rotating an eight-sided vase, or  in the way music is played. 
+as an aspect of scientific model|scientific models, language, music and even knowledge itself.See, e.g., Symmetric objects can be material, such as a person, crystal, quilt, Tile#Floor tiles|floor tiles, or molecule, or it can be an abstract structure such as a mathematical equation or a series of tones (music).
+
+ Asymmetry 
+'''Asymmetry''' is the absence of symmetry. It is best defined like that because symmetry is relatively rare, and all other objects are asymmetric.
+
+Category:Geometry

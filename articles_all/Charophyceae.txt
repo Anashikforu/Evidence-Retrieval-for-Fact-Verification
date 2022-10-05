@@ -1,0 +1,19 @@
+
+
+
+The '''Charophyceae''' are the green algae closest to plants.
+
+Their exact rank is the matter of some debate. Some botany|botanists recommend expanding the existing Plantae|plant kingdom to include charophyceans and Chlorophyta|chlorophytes.Campbell N.A. & Reece J.B.  2005.  ''Biology''. 7th ed, Cummings, San Francisco.
+
+Others classify Charophyceae as a class under division '''Charophyta''', with Chlorophyta remaining a distinct division.Guiry M.D. & Guiry G.M. 2007. AlgaeBase. World-wide electronic publication, National University of Ireland, Galway. 
+The consensus among botanists is that charophyceans are the organisms most closely related to land plants (Embryophyta|embryophytes).Delwiche C.F. 
+Many of the complex plant Trait (biology)|traits related to sexual reproduction evolved first in charophyceans. Analysis of cpDNA (chloroplast DNA) shows that characteristics of plant chloroplasts also evolved first in the charophyceans, before the Zygnematales diverged from the lineage that lead to Coleochaetales, Charales, and the land plants.Turmel M; Otis C. & Lemieux C.  2005. 
+Groups generally included within the Charophyceae are:
+Mesostigmatales
+Klebsormidiales
+Zygnematales
+Desmidiales
+Charales
+Coleochaetales
+
+Category:Algae

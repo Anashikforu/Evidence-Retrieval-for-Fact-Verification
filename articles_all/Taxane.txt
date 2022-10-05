@@ -1,0 +1,9 @@
+Image:taxol.svg|thumb|right|The chemical structure of paclitaxel.
+
+'''Taxanes''' are poisonous alkaloids produced by Yew plants.
+
+Alkaloids are natural base (chemistry)|basic chemical compounds which contain nitrogen atoms.IUPAC. Compendium of Chemical Terminology, 2nd ed. (the "Gold Book"). Compiled by A.D. McNaught and A. Wilkinson. Blackwell Scientific Publications, Oxford 1997. XML on-line corrected version: 
+Alkaloids are made by a large variety of organisms, but taxanes are produced only by plants of the genus ''Taxus''.
+
+Taxanes work mainly by disrupting the function of cell microtubules. Microtubules are essential to cell division, so taxanes are essentially mitosis|mitotic inhibition|inhibitors. This explains why taxanes have been used to produce chemotherapy drugs.Takimoto CH, Calvo E. 
+Category:Chemical compounds

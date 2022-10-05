@@ -1,0 +1,17 @@
+
+
+'''Litmus paper''' is a mixture which is made from different dyes which can be taken from lichens. It is water-soluble. It is used to tell whether a solution is an acid or an alkali.
+
+Litmus paper is put onto filter paper. The paper can then be used to give a rough indication of the pH value of a solution. Blue litmus paper will turn red, when acid is present; red litmus paper will turn blue when alkalines are present. At room temperature, this usually happens for PH values between 4.5 and 8.3.
+
+Alternatively, a solution can be prepared which works the same way, but does not need the paper.
+
+ Related pages 
+pH Indicator
+
+
+
+
+Category:Chemical compounds
+Category:Analytical chemistry
+Category:Physical chemistry

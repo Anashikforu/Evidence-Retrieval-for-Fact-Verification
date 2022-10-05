@@ -1,0 +1,13 @@
+An '''abundant number''' is a number .
+18 is also an abundant number because .  The series is in the Online Encyclopedia of Integer Sequences (Sloane) as oeis:A005101|A005101. 945 is the first odd abundant number.
+List of abundant numbers
+List of the first 90 abundant numbers:
+
+
+
+
+
+
+
+
+Category:Integer sequences

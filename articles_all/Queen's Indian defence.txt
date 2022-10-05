@@ -1,0 +1,15 @@
+The '''Queen's Indian defence''' is an important defence to 1.d4. It features a List of chess terms#F|fianchetto of Black's QB.
+
+
+:4.g3 Bb7 (4...Ba6 is also played here)
+:5.Bg2 Be7
+:6.0-0 0-0
+:7.Nc3 Ne4
+:8.Qc2 Nxc3
+:9.Qxc3
+
+
+
+
+
+Category:Chess openings

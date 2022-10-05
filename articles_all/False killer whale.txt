@@ -1,0 +1,31 @@
+{{Taxobox
+| name = False killer whale
+| image = False killer whale 890002.jpg
+| image2 = False_killer_whale_size.svg
+| image2_caption = Size comparison against an average human
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Cetacea
+| familia = Delphinidae
+| genus = '''''Pseudorca'''''
+| genus_authority = Johannes Reinhardt|Reinhardt, 1862
+| binomial = ''Pseudorca crassidens''
+| binomial_authority = (Richard Owen|Owen, 1846)
+| range_map = cetacea range map False Killer Whale.PNG
+| range_map_caption = False killer whale range}}
+
+The '''false killer whale''' (''Pseudorca crassidens'') is a cetaceans and larger members of the oceanic dolphin family (Delphinidae). The species is the only member of the ''Pseudorca'' genus.
+
+They live in temperate and tropical waters throughout the world. As its name implies, the false killer whale shares characteristics with the more widely known ''Orca'' ("killer whale"). The two species look somewhat similar and, like the orca, the false killer whale attacks and kills other cetaceans. However, the two dolphin species are not closely related.
+
+The false killer whale has not been extensively studied in the wild by scientists; much of the data about the dolphin has been got by examining stranded animals.
+
+
+
+
+
+
+
+
+Category:Oceanic dolphins
+Category:Mammals of Pakistan

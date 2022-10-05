@@ -1,0 +1,16 @@
+
+
+This is a '''list of country|countries and dependent territory|dependent territories by population'''.  The number shows how many people live in each country. Countries with the most people are at the top of the list. Countries with the fewest people are at the bottom.
+
+Also see: List of countries, List of countries by area, List of countries by population density.
+
+Sovereign states and dependencies by population
+<!--
+PLEASE READ BEFORE EDITING!
+WHEN YOU UPDATE A COUNTRY'S POPULATION - PLEASE ALSO UPDATE THE EXPRESSION NEXT TO IT (column "% of world population") WITH THE SAME NUMBER EXCLUDING COMMAS (the #expr: equation).
+-->
+Note: All dependent territories or constituent countries that are parts of sovereign states are shown in ''italics'' and not assigned a numbered rank.
+
+
+
+Category:Lists of countries|Population

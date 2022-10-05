@@ -1,0 +1,23 @@
+{{Infobox UK place  
+
+ |static_image=          
+ |static_image_caption=  
+ |official_name=             Bispham
+ |lieutenancy_england=       Lancashire
+ |region=                    North West England
+ |country=                   England
+ |latitude=                  53.852
+ |longitude=                 -3.041
+| population = 19,165
+| population_ref = United Kingdom Census 2001|2001 Census
+  |constituency_westminster=  Blackpool North and Fleetwood (UK Parliament constituency)|Blackpool North and Fleetwood
+ |unitary_england=           Blackpool Borough
+ |post_town=                 BLACKPOOL
+ |postcode_area=             FY
+ |postcode_district=         FY2
+ |dial_code=                 01253
+ |os_grid_reference=         SD309399
+ }}
+'''Bispham''' is a village roughly one-and-a-half miles north of Blackpool town centre on the The Fylde|Fylde coast in the county of Lancashire, England. 
+
+Category:Villages in Lancashire

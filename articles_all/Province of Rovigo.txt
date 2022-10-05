@@ -1,0 +1,138 @@
+
+The '''Province of Rovigo''' () is a Provinces of Italy|province in the Veneto region of Italy. Its Capital city|capital is the city of Rovigo.
+
+Geography
+The province of Rovigo has an area of  high.
+
+The province is rich in water, with the presence of the two longest rivers of Italy: the Po (river)|Po and the Adige rivers. Both flow from west to east and into the Adriatic Sea and most of the territory of the province is between these two rivers: the Adige in the north of the province and the Po in the south of it.
+
+
+
+The province of Rovigo borders to the northwest with the Province of Verona|Verona province, to the north with the Province of Padua|Padua province and the Metropolitan City of Venice, to the west with the Lombardy region (Province of Mantua|Mantua province) and to the south with the Province of Ferrara|Ferrara Emilia-Romagna region. The Adriatic Sea is to the east.
+
+
+
+Population
+ inhabitants/km².
+
+
+'''Evolution of the population in the Rovigo province'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:300000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2016 text:2016
+
+PlotData=
+ color:barra width:30 align:left
+
+  bar:1961 from:0 till: 277811
+  bar:1971 from:0 till: 251908
+  bar:1981 from:0 till: 253508
+  bar:1991 from:0 till: 248004
+  bar:2001 from:0 till: 242538
+  bar:2011 from:0 till: 242349
+  bar:2016 from:0 till: 240540
+
+PlotData=
+  bar:1961 at: 277811 fontsize:S text: 277,811 shift:(-13,5)
+  bar:1971 at: 251908 fontsize:S text: 251,908 shift:(-18,5)
+  bar:1981 at: 253508 fontsize:S text: 253,508 shift:(-18,5)
+  bar:1991 at: 248004 fontsize:S text: 248,004 shift:(-18,5)
+  bar:2001 at: 242538 fontsize:S text: 242,538 shift:(-18,5)
+  bar:2011 at: 242349 fontsize:S text: 242,349 shift:(-18,5)
+  bar:2016 at: 240540 fontsize:S text: 240,540 shift:(-18,5)
+
+
+
+ Municipalities 
+There are 50 Municipality|municipalities (or ''Comune|comuni'') in the province; they are:
+
+# Adria
+# Ariano nel Polesine
+# Arquà Polesine
+# Badia Polesine
+# Bagnolo di Po
+# Bergantino
+# Bosaro
+# Calto
+# Canaro
+# Canda
+# Castelguglielmo
+# Castelmassa
+# Castelnovo Bariano
+# Ceneselli
+# Ceregnano
+# Corbola
+# Costa di Rovigo
+# Crespino
+# Ficarolo
+# Fiesso Umbertiano
+# Frassinelle Polesine
+# Fratta Polesine
+# Gaiba
+# Gavello
+# Giacciano con Baruchella
+# Guarda Veneta
+# Lendinara
+# Loreo
+# Lusia
+# Melara
+# Occhiobello
+# Papozze
+# Pettorazza Grimani
+# Pincara
+# Polesella
+# Pontecchio Polesine
+# Porto Tolle
+# Porto Viro
+# Rosolina
+# Rovigo
+# Salara
+# San Bellino
+# San Martino di Venezze
+# Stienta
+# Taglio di Po
+# Trecenta
+# Villadose
+# Villamarzana
+# Villanova del Ghebbo
+# Villanova Marchesana
+
+
+=Largest municipalities=
+The following shows the 10 Comune|''comuni'' with the population, and the area and altitude.
+
+
+
+Gallery
+
+
+File:Aerial view of Melara Italy.jpg|Aerial view of Melara (with Po river).
+File:Adigecastagnarobadia.jpg|The Adige river near Badia Polesine.
+File:Piazza Riconoscenza, alba (Rovigo).JPG|''Piazza Riconoscenza'', Rovigo.
+File:Adria, Piazza Garibaldi - panoramio.jpg|''Piazza Garibaldi'', Adria.
+
+
+
+Category:Provinces of Veneto|Rovigo

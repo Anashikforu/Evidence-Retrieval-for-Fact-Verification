@@ -1,0 +1,23 @@
+{{Infobox Disease |
+  Name           = Wilms&#39; tumor |
+  Image          = Wilms tumor.jpg|
+  Caption        = Cut section showing two halves of an infected kidney with a Wilms' tumour. Note the prominent septa subdividing the sectioned surface and the protrusion of tumor into the renal pelvis, resembling botryoid rhabdomyosarcoma.|
+  DiseasesDB     = 8896 |
+  ICD10          = |
+  ICD9           =  |
+  ICDO           =  |
+  OMIM           = 194070 |
+  OMIM_mult      =  | 
+  MedlinePlus    = 001575 |
+  eMedicineSubj  = med |
+  eMedicineTopic = 3093 |
+  eMedicine_mult =  | 
+  MeshID         = D009396 }}
+'''Wilms' tumor''', also known as '''Nephroblastoma''', is a form of kidney cancer that occurs most often in children. It has an excellent prognosis, with 90% of patients living for more than five years after being diagnosed.
+
+ Treatment 
+In general, Wilms' tumor is curable. If the tumor is only in the kidney, it can be removed along with the whole kidney. This procedure is called a nephrectomy. During the operation, the surgeon checks if the other kidney has a tumor. If there are tumors in both kidneys, a piece of the tumor will be removed. After the surgery, the child is given some chemotherapy drugs like Dactinomycin. This drug is also known by its trade name '''Cosmegen'''.
+
+Both operation and chemotherapy is sometimes used.
+
+Category:Renal cancer

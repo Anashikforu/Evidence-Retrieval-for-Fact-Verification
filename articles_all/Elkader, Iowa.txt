@@ -1,0 +1,6 @@
+
+'''Elkader''' is a city in Iowa in the United States.
+
+ Population 
+{{Historical populations|1860|33=2019|25=1980|26=1688|27=1990|28=1510|29=2000|30=1465|31=2010|32=1273|34=1217|23=1970|title=Elkader historical population|type=USA|align=left|width=25%|state=Iowa|shading=|percentages=|source=U.S. Decennial Census
+

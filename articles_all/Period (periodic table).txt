@@ -1,0 +1,37 @@
+A '''period''' in the periodic table is any horizontal row of Chemical element|elements. 
+
+Each elements in the same period has one more proton than the one to its left.  This means its atomic number is one number higher. The elements in the same period are very metallic on the left and nonmetallic on the right. The smaller atoms are on the left and the larger ones are on the right because the atoms have more protons and electrons.
+
+The first period has 2 elements, hydrogen and helium. The second period and third period each have 8 elements. The fourth period and fifth period each have 18 elements. The sixth period and seventh period each have 32 elements. F-block elements are counted in the sixth and seventh periods. Hence, each one has 32 elements in it.
+
+ Standard periodic table 
+
+
+;Chemical Series of the Periodic Table
+
+ Alkali metals
+ Alkaline earths
+ Lanthanides
+ Actinides
+ Superactinides
+ Eka-superactinides
+ Transition metals
+ Poor metals
+ Metalloids/Metalloid|Semi metals/Metalloid|Half metals
+ Nonmetals
+ Halogens
+ Noble gases
+
+;State at standard temperature and pressure. The color of the number (atomic number) above the element symbol shows the state of the element at normal conditions.
+ those in blue are gases
+ those in green are liquids
+ those in black are solid
+
+;Radioactivity
+
+ Those with solid borders have stable isotopes (Elementary algebra|Primordial elements)
+ Those with dashed borders have only radioactive naturally occurring isotopes
+ Those with dotted borders do not occur naturally (Synthetic Elements)
+ those without borders are too radioactive to have been discovered yet.
+Category:Periodic table
+Category:Physics

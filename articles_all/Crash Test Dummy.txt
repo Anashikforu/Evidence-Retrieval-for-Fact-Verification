@@ -1,0 +1,9 @@
+
+
+A '''crash test dummy''' is a test device ( commonly wikt:abbreviated|abbreviated 'ATD') that is made to be close to the same shape, size, heaviness, wikt:proportions|proportions and wikt:articulation|articulation of the human body. They sometimes have equipment wikt:embedded|embedded in them that measures Information|data about how hard things are hitting it and how fast the ATD is moving around. ATDs have many applications but are commonly used in wikt:simulated|simulated (test) car crashes to see how safe the cars are for people when they crash.
+
+
+
+
+
+Category:Robots

@@ -1,0 +1,32 @@
+{{Infobox Planet 
+ 
+ 
+| bgcolour=#FFFFC0 
+| name=3200 Phaethon
+| image = Asteroid Phaethon 25dec2010 stack.jpg
+| caption = Asteroid (3200) Phaethon imaged on 25 Dec 2010 with the 37 cm F14 Cassegrain telescope of Winer Observatory, Sonoita (MPC 857) by Marco Langbroek.
+| discovered= 11 October 1983
+| alt_names=1983 TB
+| named_after = Phaëton
+| mp_category=Apollo asteroid
+| epoch=July 14, 2004 (Julian day|JD 2453200.5)
+ | semimajor=1.271 AU (190.189 Gm)
+ | perihelion=0.140 AU (20.922 Gm)
+ | aphelion=2.403 Astronomical unit|AU (359.456 Giga|Gm)
+ | eccentricity=0.890
+ | period=1.43 Julian year (astronomy)|a (523.586 day|d)
+ | inclination=22.169degree (angle)|°
+| mean_anomaly=200.798°
+| avg_speed=19.98 km/second|s
+ | dimensions=5.1 km
+| mass=1.4×1014 kilogram|kg}}
+
+'''3200 Phaethon''', sometimes incorrectly spelt '''Phaeton''', is an Apollo asteroid and a dead comet.
+
+It was announced on 14 October 1983 in IAUC 3878, with optical confirmation that it looks like an asteroid. It was the first asteroid to be found by a spacecraft. It measures 5.10&nbsp;km in diameter.
+
+Phaethon approaches the Sun closer than any other numbered asteroid. Its perihelion (closest approach to the Sun) is only 0.140 astronomical unit|AU – less than half Mercury (planet)|Mercury's perihelion distance. It is a Mercury-crosser asteroid|Mercury-, Venus-crosser asteroid|Venus-, Earth-crosser asteroid|Earth- and Mars-crosser asteroid|Mars-crosser. The surface temperature at perihelion could reach ~1025 K, or 1400 F. For this reason, it was named after the Greek mythology|Greek myth of Phaëton, son of the sun god Helios.
+
+Phaethon approached to 18.1&nbsp;Gm on 10 December 2007. It will draw nearer in 2017, 2050, 2060,  and closer still on 14 December 2093, passing within 0.0198&nbsp;astronomical unit|AU (3.0&nbsp; Gm).
+
+Category:Asteroids

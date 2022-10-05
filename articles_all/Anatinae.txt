@@ -1,0 +1,16 @@
+{{Taxobox
+| name = Dabbling ducks
+| temporal_range = late Miocene to present
+| image = Pacificblackduck.jpg
+| image_width = framelessupright=1.10
+| image_caption = Pacific black duck (''Anas superciliosa'')
+| regnum = Animalia
+| classis = Aves
+| ordo = Anseriformes
+| familia = Anatidae
+| subfamilia = '''Anatinae'''}}
+
+The '''Anatinae''' is a subfamily of the family Anatidae that including swans, Goose|geese and ducks.
+
+They are the '''dabbling ducks'''. They feed mainly at the surface rather than by diving. The subfamily contains only the dabbling ducks and one relative, the extinct moa-nalos, land ducks which lived on some Hawaiian islands.Johnson, Kevin P. & Sorenson, Michael D. 1999. Phylogeny and biogeography of dabbling ducks (genus Anas): a comparison of molecular and morphological evidence. ''Auk'' '''116''' (3): 792–805. 
+category:Anatidae

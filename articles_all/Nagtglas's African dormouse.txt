@@ -1,0 +1,19 @@
+
+{{Taxobox
+| name = Nagtglas's African Dormouse
+| image = 
+| status = LC | status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| genus = ''Graphiurus''
+| species = '''''G. nagtglasii'''''
+| binomial = ''Graphiurus nagtglasii''
+| binomial_authority = Jentink, 1888
+| synonyms = }}
+
+The '''Nagtglas's African dormouse''' (''Graphiurus nagtglasii'') is a species of rodent in the Gliridae family. It is found in Cameroon, Central African Republic, Ghana, Liberia, Nigeria, Sierra Leone and sometimes in Gabon. Its natural habitat is subtropical or tropical moist lowland forests. 
+
+Category:Graphiurus

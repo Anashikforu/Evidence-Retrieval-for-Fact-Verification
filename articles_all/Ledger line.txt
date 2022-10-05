@@ -1,0 +1,11 @@
+Image:Amoll.melod.ab.png|thumb|430px|'''Example:''' This A minor scale going down fits on to the staff at first, but the sixth note (Middle C) needs one ledger line.  The next note (B) is in the space below it, and the last note (A) needs two ledger lines.
+
+A '''ledger line''' is a short line used in musical notation to write note (music)|notes which would otherwise be too high or too low to put on any of the five lines on the staff (music)|staff. A short line (slightly longer than the note) is drawn parallel to the lines on the staff, and the note head is placed on that line or in the space below or above it.
+
+Notes with at least three or four ledger lines are rarely used for composing and arranging. It is easier to change the clef or use the “8va” sign (called "ottava" sign), which means the notes should be played an octave higher or lower than it is written, depending on whether the sign is above or below the staff.
+
+ Related pages 
+
+ Transposition (music)
+
+Category:Musical notation

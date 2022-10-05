@@ -1,0 +1,14 @@
+{{Taxobox
+| name = Greenish puffleg
+| image =Greenish_Puffleg_(Haplophaedia_aureliae).jpg
+| status = LC | status_system = IUCN3.1
+| regnum = Animalia
+| classis = Aves
+| ordo = Trochiliformes
+| familia = Trochilidae
+| genus = ''Haplophaedia''
+| binomial = ''Haplophaedia aureliae''}}
+
+The '''greenish puffleg''' (''Haplophaedia aureliae'') is a species of hummingbird. It is found in Colombia, Ecuador, and Panama. Its habitats are subtropical or tropical moist montanes and fairly degraded former forests.
+
+Category:Hummingbirds

@@ -1,0 +1,25 @@
+{{infobox UK place 
+|country= Scotland
+|official_name= Blackburn (Aberdeenshire)
+|scots_name=
+|gaelic_name= 
+|population= 1,386
+|population_ref = (2001).(2,540 Mid-2008 Estimate)
+| os_grid_reference= NJ826127
+ |map_type=Scotland
+ |latitude=57.205283
+ |longitude=-2.288903
+ |unitary_scotland= Aberdeenshire
+ |lieutenancy_scotland= 
+ |constituency_westminster= 
+ |constituency_scottish_parliament= 
+ |post_town= ABERDEEN
+ |postcode_district = AB21
+|postcode_area= AB
+ |dial_code= 01224 79
+ }}
+'''Blackburn''' is a rapidly growing commuter town in Aberdeenshire just northwest of Aberdeen, Scotland. It has an industrial estate.
+
+
+
+Category:Towns in Aberdeenshire

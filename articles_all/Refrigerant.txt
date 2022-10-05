@@ -1,0 +1,11 @@
+
+A '''refrigerant''' is a chemical substance that is found in an air conditioner, a refrigerator, and in other refrigeration equipment. Refrigerants are chosen for the ease of converting them from liquid to vapor or vice versa, depending on their temperature and pressure. Most refrigerants in their liquid state will evaporate very fast if at atmospheric pressure. 
+
+In refrigeration equipment, a refrigerant vapor is compressed by a compressor. Compression makes it hot. It enters a condenser, where it condenses into a liquid.  The refrigerant then passes through a part called a metering device, or an expansion device (there are several types of this part) where the pressure is reduced to a point where the liquid begins to boil. At this point, the refrigerant is very cold and it enters an evaporator, where it absorbs heat from the air passing over it. By the time the refrigerant leaves the evaporator, it is all a vapor again, and it goes back to the compressor where the cycle begins again. This is called the refrigeration cycle. This is one example of the use of a refrigerant, as in a residential air conditioning system.
+
+Related pages
+Freon, an old class of refrigerants
+
+
+
+Category:Chemicals

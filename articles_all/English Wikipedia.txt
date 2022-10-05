@@ -1,0 +1,17 @@
+
+The '''English Wikipedia''' is the English language edition of the Wikipedia online encyclopedia. English is the first language in which Wikipedia was written. It was started on 15 January 2001. It is the largest encyclopedia in the world, and list of Wikipedias|the largest version of Wikipedia since April 2019.about 10 percent more than the Cebuano Wikipedia.  See :m:List of Wikipedias. It has more than 6,085,700 articles as of May 2020.
+The Simple English Wikipedia is a variation in which most of the articles use only basic English vocabulary (Main Page|simplewiki).  There is also the Old English|Old English (Ænglisc/Anglo-Saxon) Wikipedia (:ang:Hēafodtramet|angwiki). It has a newsletter called The Signpost.
+
+Wikipedias in other languages have imitated some of its technical and organizational features.
+
+As the English Wikipedia is very popular, there can be many people editing the wiki in one minute. This made the :en:Special:RecentChanges|Special:RecentChanges less effective for understanding changes. Instead, editors can select and watch for changes in particular articles, using the "watchlist" feature of MediaWiki. Some also use special software to detect and fix vandalism.
+
+Some people think that the English Language Wikipedia shows wikt:bias|bias and unfairness.Simon Waldman, 
+
+In 2012, the logo of the English Wikipedia like most Wikipedias was slightly changed. However, some Wikipedias, like the Simple English Wikipedia, still kept the old logo.
+
+Related pages
+ Wikipedia administrators
+ Simple English Wikipedia
+
+Category:Websites established in 2001

@@ -1,0 +1,130 @@
+
+The '''Province of Latina''' () is a Provinces of Italy|province in the Lazio Regions of Italy|region of Central Italy. Its Capital city|capital is the city of Latina, Lazio|Latina.
+
+History
+The province of Latina was created in December of 1934 with the name of '''Littoria'''.
+
+Geography
+
+The province of Latina has an area of , the smallest province of the Lazio region.
+
+The province is in the southwest of the Lazio region. It borders to the north with the Province of Frosinone|Frosinone province, to the northwest and west with the Metropolitan City of Rome Capital|Metropolitan City of Rome, to the southeast with the Campania region (Province of Caserta|Caserta), and to the south with the Tyrrhenian Sea (Mediterranean Sea).
+
+
+
+The highest mountain in the province is ''Monte Petrella'' (.
+
+Population
+In 2017, there are 574,891 persons living in the province, for a population density of  inhabitants/km².
+
+'''Evolution of the population in the province of Latina'''
+
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:600000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2017 text:2017
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1961 from:0 till: 319056
+ bar:1971 from:0 till: 376238
+ bar:1981 from:0 till: 434086
+ bar:1991 from:0 till: 476282
+ bar:2001 from:0 till: 491230
+ bar:2011 from:0 till: 544732
+ bar:2017 from:0 till: 574891
+
+PlotData=
+ bar:1961 at: 319056 fontsize:S text: 319,056 shift:(-12,5)
+ bar:1971 at: 376238 fontsize:S text: 376,238 shift:(-18,5)
+ bar:1981 at: 434086 fontsize:S text: 434,086 shift:(-18,5)
+ bar:1991 at: 476282 fontsize:S text: 476,282 shift:(-18,10)
+ bar:2001 at: 491230 fontsize:S text: 491,230 shift:(-18,5)
+ bar:2011 at: 544732 fontsize:S text: 544,732 shift:(-18,8)
+ bar:2017 at: 574891 fontsize:S text: 574,891 shift:(-18,5)
+
+
+
+Administration
+There are 33 Municipality|municipalities (or ''Comune|comuni'') in the province; they are:
+
+
+# Aprilia
+# Bassiano
+# Campodimele
+# Castelforte
+# Cisterna di Latina
+# Cori
+# Fondi
+# Formia
+# Gaeta
+# Itri
+# Latina
+# Lenola
+# Maenza
+# Minturno
+# Monte San Biagio
+# Norma
+# Pontinia
+# Ponza
+# Priverno
+# Prossedi
+# Rocca Massima
+# Roccagorga
+# Roccasecca dei Volsci
+# Sabaudia
+# San Felice Circeo
+# Santi Cosma e Damiano
+# Sermoneta
+# Sezze
+# Sonnino
+# Sperlonga
+# Spigno Saturnia
+# Terracina
+# Ventotene
+
+
+The largest ''comune'' is Latina, Lazio|Latina, with ). The ''comune'' with fewest people living in it is Campodimele with 622 inhabitants.
+
+=Main ''comuni''=
+The following table shows the 10 Comune|''comuni'' with more inhabitants with their population, and their area and altitude.
+
+
+
+
+
+ Gallery 
+
+File:Sanmarcolatina.jpg|Mark the Evangelist|Saint Mark cathedral, Latina, Lazio|Latina.
+File:CastelloFondi.jpg|Castle of Fondi.
+File:Formia, chiesa della Madonna del Carmine - Esterno.jpg|Madonna del Carmine church - Formia.
+File:Formia e i monti Aurunci visti dal porto.JPG|Formia and the Aurunci mountains.
+File:Gaeta, piazza Cavallo e porta Domnica.jpg|''Piazza Cavallo'' in Gaeta.
+
+
+Related pages
+ List of communes of the Province of Latina
+
+Category:Provinces of Latium|Latina

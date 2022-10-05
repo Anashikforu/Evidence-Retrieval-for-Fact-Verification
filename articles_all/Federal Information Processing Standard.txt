@@ -1,0 +1,11 @@
+'''Federal Information Processing Standards''' ('''FIPS''') are Standardization|standards made by the United States Federal government for non-military government agencies and by government contractors to use, and they are announced to the public.
+
+Many FIPS standards are modified versions of standards used in the wider community (American National Standards Institute|ANSI, Institute of Electrical and Electronics Engineers|IEEE, International Organization for Standardization|ISO, etc.) 
+
+ Standard Publications 
+Some FIPS standards were originally developed by the U.S. government. For instance, standards for encoding data (e.g. country codes), but more significantly some encryption standards, such as the Data Encryption Standard (
+ Other websites 
+   
+
+
+Category:Standards

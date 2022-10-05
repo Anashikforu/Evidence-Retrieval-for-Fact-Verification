@@ -1,0 +1,7 @@
+In cryptography, a '''trusted third party (TTP)''' is an entity which makes interactions between two parties easy. Both parties must trust the third party; they use this trust to secure their own interactions.
+
+'''TTP'''s are commonly used by cryptosystems.
+
+Category:Cryptography
+
+

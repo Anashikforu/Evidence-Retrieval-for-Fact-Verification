@@ -1,0 +1,32 @@
+
+| imagesize                       = 
+| image_caption                   = 
+| image_seal                      = City of Salem city seal.png
+| image_flag                      =
+| image_map                       = Essex County Massachusetts incorporated and unincorporated areas Salem highlighted.svg
+| mapsize                         = 260px
+| map_caption                     = Location in Essex County, Massachusetts
+| pushpin_map                     = USA
+| pushpin_map_caption             = Location in the United States
+| subdivision_type                = Country
+| subdivision_type1               = State
+| area_magnitude                  = 
+| subdivision_name1               = 
+| subdivision_type2               = County
+| subdivision_name2               = Essex County, Massachusetts|Essex
+| established_title               = Settled
+| established_date                = 1626
+| established_title2              = Incorporated
+| established_date2               = 1629
+| established_title3              = City
+| established_date3               = 1836
+| government_type                 = Mayor-council city
+| leader_title                    = Mayor
+| leader_name                     = Kim Driscoll (Democratic Party (United States)|D)
+| leader_title1                   = &nbsp;&nbsp;&nbsp;Selectmen-->
+| leader_name1                    = 
+| area_footnotes                  = 
+}}
+'''Salem''' is a city in Essex County, Massachusetts|Essex County, in Massachusetts. It was home of the Salem Witch Trials of 1692.
+
+Category:County seats in Massachusetts

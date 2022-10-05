@@ -1,0 +1,39 @@
+A '''real-time operating system''' ('''RTOS'''; commonly pronounced as "are-toss") is a Computer multitasking|multitasking operating system designed for real-time computing|real-time applications. Such applications include embedded systems, industrial robots, scientific research equipment and others.
+
+An RTOS simplifies the creation of a real-time computing|real-time applications, but does not guarantee the final result will be real-time; this requires good Computer program|development of the software.
+
+Real-time operating systems use specialized Scheduling (computing)|scheduling algorithms in order to provide the real-time computing|real-time Computer program|applications. An RTOS can respond more quickly and/or Predictability|predictably to an Event-driven programming|event than other operating systems.
+
+The main features of an RTOS are minimal interrupt latency and a minimal thread switching latency.
+
+The basic two designs for RTOS are:
+
+ Event-driven (priority Scheduling (computing)|scheduling) designs: switch tasks only when an event of higher priority needs service, called Preemption (computing)|pre-emptive priority.
+ Time-sharing designs: switch tasks on a clock interrupt, and on events, called Round-robin scheduling|round robin.
+
+ Examples 
+These are the best known, most widely used real-time operating systems. See List of real-time operating systems for a full list. Also, see List of operating systems for all types of operating systems.
+<!-- Please do not add any more RTOS examples.
+  Instead, add any and all entries to List of real-time operating systems.
+  They do not need to be notable to be mentioned there.  Nor do they need their own article to be listed.
+-->
+ Windows CE
+ QNX
+ RTLinux
+ VxWorks
+ TRON Project|TRON
+
+ Related pages 
+ Operating system
+ BIOS
+ Rate-monotonic scheduling
+ Adaptive Partition Scheduler
+ Earliest deadline first scheduling
+
+ Other websites 
+
+ 
+
+
+
+Category:Computer science

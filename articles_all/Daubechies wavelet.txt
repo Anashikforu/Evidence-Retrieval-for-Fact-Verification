@@ -1,0 +1,49 @@
+
+
+
+'''Daubechies wavelets''' are a family of orthogonal wavelets named after Belgian physicist and mathematician Ingrid Daubechies. They are used in discrete wavelet transform.
+
+ Definition 
+Scale function coefficients (low pass filter in quadrature mirror filter|orthogonal filter banks) must satisfy following conditions (N is length of filter).
+
+; Normalization
+:  \sum_{n=0}^{N-1} h_0n = \sqrt{2} or  \sum_{n=0}^{N-1} h_0n = 2 (then coefficients must be divided by factor of \sqrt{2})
+which implies
+:  \sum_{n=0}^{N-1} (h_0n)^2 = 1 or  \sum_{n=0}^{N-1} (h_0n)^2 = 2 (then coefficients must be divided by factor of \sqrt{2})
+
+; Orthogonality
+: \sum_{n=0}^{N-1} h_0n h_0n-2k = 0 for k \not= 0
+ 
+; Vanishing moments
+: \sum_{n=0}^{N-1} (-1)^n h_0n n^m = 0 for 0 \leq m 
+
+There is more than one solution (except case of N=2). However, it is necessary to distinguish between low pass and high pass filter.
+
+Wavelets are denoted like D''x'', where ''x'' is either number of coefficients (N) or number of vanishing moments (N/2). First case of notation (number of coefficients) is more recent and more frequented (e.g. D8 is wavelet with 8 coefficients).
+
+ Example 
+MATLAB code for enumeration of wavelet with 4 coefficients (denoted as D4).
+
+t = solve(
+	'h0h0 + h1h1 + h2h2 + h3h3 = 1',           % normalization
+	'h2h0 + h3h1 = 0',                           % orthogonality
+	'+(0^0)h0 -(1^0)h1 +(2^0)h2 -(3^0)h3 = 0', % zero
+	'+(0^1)h0 -(1^1)h1 +(2^1)h2 -(3^1)h3 = 0'  % and first vanishing moments
+);
+
+
+Solutions (low pass filters only):
+{| class="wikitable"
+ ! h0 !! h1 !! h2 !! h3
+ |-
+ | -0.129409522551260 || 0.224143868042014 || 0.836516303737808 ||  0.482962913144534
+ |-
+ |  0.482962913144534 || 0.836516303737808 || 0.224143868042014 || -0.129409522551260
+ |}
+
+Related pages 
+ Wavelet transform
+ Quadrature mirror filter
+
+Category:Mathematics
+Category:Computer science

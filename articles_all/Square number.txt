@@ -1,0 +1,144 @@
+A '''square number''', sometimes also called a '''perfect square''', is the result of an integer multiplication|multiplied by itself. 1, 4, 9, 16 and 25 are the first five square (algebra)|square numbers.
+In a formula, the square of a number&nbsp;''n'' is denoted  (exponentiation), usually pronounced as "''n'' squared".  The name square number comes from the name of the shape; see #Properties|below.
+
+Square numbers are Negative number|non-negative. Another way of saying that a (non-negative) number is a square number, is that its square root is again an integer. For example, &nbsp;=&nbsp;3, so 9 is a square number.
+
+ Examples 
+The squares  smaller than 702 are:
+
+
+:02 =0
+:12 = 1
+:22 = 4
+:32 = 9
+:42 = 16
+:52 = 25
+:62 = 36
+:72 = 49
+:82 = 64
+:92 = 81
+
+
+
+:102 =100
+:112 = 121
+:122 = 144
+:132 = 169
+:142 = 196
+:152 = 225
+:162 = 256
+:172 = 289
+:182 = 324
+:192 = 361
+
+
+
+:202 = 400
+:212 = 441
+:222 = 484
+:232 = 529
+:242 = 576
+:252 = 625
+:262 = 676
+:272 = 729
+:282 = 784
+:292 = 841
+
+
+
+:302 = 900
+:312 = 961
+:322 = 1024
+:332 = 1089
+:342 = 1156
+:352 = 1225
+:362 = 1296
+:372 = 1369
+:382 = 1444
+:392 = 1521
+
+
+ 
+:402 = 1600 
+:412 = 1681 
+:422 = 1764
+:432 = 1849
+:442 = 1936
+:452 = 2025
+:462 = 2116
+:472 = 2209
+:482 = 2304
+:492 = 2401
+
+
+ 
+:502 = 2500
+:512 = 2601 
+:522 = 2704
+:532 = 2809
+:542 = 2916
+:552 = 3025
+:562 = 3136
+:572 = 3249
+:582 = 3364
+:592 = 3481
+
+
+ 
+:602 = 3600
+:612 = 3721 
+:622 = 3844
+:632 = 3969
+:642 = 4096
+:652 = 4225
+:662 = 4356
+:672 = 4489
+:682 = 4624
+:692 = 4761
+
+
+There are infinitely many square numbers, as there are infinitely many natural numbers.
+
+Properties
+The number&nbsp;''m'' is a square number if and only if one can compose a Square (geometry)|square of ''m'' equal (lesser) squares:
+
+A square with side length ''n'' has area .
+
+The expression for the ''n''th square number is ''n''2. This is also equal to the sum of the first ''n'' odd numbers as can be seen in the above pictures, where a square results from the previous one by adding an odd number of points (shown in magenta).  The formula follows:
+:n^2 = \sum_{k=1}^n(2k-1).
+So for example, .
+
+A square number can end only with digits 0, 1, 4, 6, 9, or 25 in base&nbsp;10, as follows:
+#If the last digit of a number is 0, its square ends in an even number of 0s (so at least 00) and the Numerical digit|digits preceding the ending 0s must also form a square.  
+#If the last digit of a number is 1 or 9, its square ends in 1 and the number formed by its preceding digits must be divisible by four.
+#If the last digit of a number is 2 or 8, its square ends in 4 and the preceding digit must be even.
+#If the last digit of a number is 3 or 7, its square ends in 9 and the number formed by its preceding digits must be divisible by four.
+#If the last digit of a number is 4 or 6, its square ends in 6 and the preceding digit must be '''odd'''.
+#If the last digit of a number is 5, its square ends in 25 and the preceding digits must be 0, 2, 06, or 56.
+
+A square number cannot be a perfect number.
+
+All fourth powers, sixth powers, eighth powers and so on are perfect squares.
+
+Special cases
+ If the number is of the form ''m''5 where ''m'' represents the preceding digits, its square is ''n''25 where  which makes the square equal to 4225.
+ If the number is of the form ''m''0 where ''m'' represents the preceding digits, its square is ''n''00 where . For example the square of 70 is 4900.
+ If the number has two digits and is of the form 5''m'' where ''m'' represents the units digit, its square is ''AABB'' where . Example: To calculate the square of 57, 25&nbsp;+&nbsp;7&nbsp;=&nbsp;32 and 72&nbsp;=&nbsp;49, which means 572&nbsp;=&nbsp;3249.
+
+Odd and even square numbers
+
+Squares of even numbers are even (and in fact divisible by 4), since .
+
+Squares of odd numbers are odd, since .
+
+It follows that square roots of even square numbers are even, and square roots of odd square numbers are odd.
+
+As all even square numbers are divisible by 4, the even numbers of the form  are not square numbers.
+
+As all odd square numbers are of the form  are not square numbers.
+
+Squares of odd numbers are of the form  is an even number.
+
+Notes
+
+Category:Integer sequences

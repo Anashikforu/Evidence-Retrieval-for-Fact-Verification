@@ -1,0 +1,25 @@
+
+
+{{Infobox UK place | 
+  |country =                 England
+  |official_name=            Godshill
+  |civil_parish=             Godshill
+  |latitude =                50.63327
+  |longitude =               -1.25466
+  |population=              
+  |unitary_england=       Isle of Wight
+  |map_type =                Isle of Wight
+  |lieutenancy_england=   Isle of Wight
+  |region =                  South East England 
+  |constituency_westminster=  Isle of Wight (UK Parliament constituency)|Isle of Wight
+  |post_town=                VENTNOR
+  |postcode_district=        PO38
+  |postcode_area=            PO  
+  |dial_code=      01983             
+  |os_grid_reference=       
+  | static_image = Thatched cottages in Godshill.JPG
+  | static_image_caption = Thatched cottages in Godshill.}}
+Image:Godshill Church c1910 - Project Gutenberg eText 17296.jpg|left|thumb|Godshill Church, circa 1910.
+'''Godshill''' is a village and civil parish and "The Taverners".
+
+Category:Villages on the Isle of Wight

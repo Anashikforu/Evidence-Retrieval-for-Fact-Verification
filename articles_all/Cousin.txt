@@ -1,0 +1,15 @@
+A '''cousin''' is a term in  genealogy. It is not a direct ancestor or descendant, but is a relative who ''shares a common ancestor''. The word 'cousin' is often used to mean a person's first cousin  the child of someone's aunt or uncle.
+
+Image:CousinTree.svg|thumb|600px|center|A family tree showing how each person is related to the orange person.
+
+Cousin relationships can have degree and removal (e.g. a second cousin once removed is a cousin with a degree of two and a removal of one).
+ The family line of the cousin with smallest number of generations to the most recent common ancestor is used to determine the degree (if they are the same use either one). The number of generations from the parrents to the common ancestor (number of generations minus one) is the degree.
+ When the cousins are separated by a different number of generations from the most recent common ancestor, the cousin relationship is "removed". The difference between the number of generations for each cousin is the removal.
+
+
+
+
+Other websites
+
+
+Category:Family

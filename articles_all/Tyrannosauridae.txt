@@ -1,0 +1,20 @@
+
+'''Tyrannosauridae''' is a taxonomic family of Theropoda|theropods. These dinosaurs from the Upper Cretaceous have been found only in North America and Asia. They lived in the later part of the period, 88 to 65 million years ago.
+
+ Classification 
+ '''Family Tyrannosauridae'''
+'''Subfamily Albertosaurinae'''
+''Albertosaurus''
+''Gorgosaurus''
+'''Subfamily Tyrannosaurinae'''
+''Alioramus''
+''Daspletosaurus''
+''Nanotyrannus''
+'''Subfamily Tarbosaurinae'''
+''Alioramus''?
+''Alectrosaurus''?
+''Tarbosaurus''
+''Tarbosaurus''
+''Tyrannosaurus''
+
+Category:Tyrannosaurids|

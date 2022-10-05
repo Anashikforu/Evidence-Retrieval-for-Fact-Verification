@@ -1,0 +1,29 @@
+
+'''''' is a number. It is the base of Logarithm|natural logarithm and is about 2.71828..
+
+The number  has great importance in mathematics, and Transcendental number|transcendental (it is not a root of any non-zero polynomial with rational coefficients).
+
+The number .
+
+ was discovered in 1683 by the Swiss mathematician Jacob Bernoulli, while he was studying compound interest. truncated to 20 decimal|decimal places is:
+
+:2.71828 18284 59045 23536...
+
+ Alternate definitions of  
+
+There are many different ways to define , was trying to solve the problem:
+
+: \lim_{n\to\infty} \left(1+\frac{1}{n}\right)^n.
+
+In other words, there is a number that the expression \left(1+\tfrac{1}{n}\right)^n approaches as ''n'' becomes larger. This number is .
+
+Another definition is to find the solution of the following formula:
+
+:2+\cfrac{2}{2+\cfrac{3}{3+\cfrac{4}{4+\cfrac{5}{5+\cfrac{6}{\ddots\,}}}}}
+
+ Related pages 
+
+ Imaginary unit
+ Pi
+
+Category:Mathematical constants

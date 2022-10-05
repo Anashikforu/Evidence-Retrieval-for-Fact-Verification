@@ -1,0 +1,18 @@
+
+
+
+| latest_preview_version = 9.0 Beta
+| latest_preview_date = 
+| marketing_target = Commerce|Commercial market (server (computing)|servers, mainframe computer|mainframes, supercomputers, workstations)
+| kernel_type = Linux kernel|Linux
+| working_state = Current
+| supported_platforms = x86-64; ARM64; IBM Z; IBM Power Systems
+| updatemodel = Software Updater
+| package_manager = 
+
+'''Red Hat Enterprise Linux''' ('''RHEL''') is a Linux distribution developed by Red Hat for the commerce|commercial market. Red Hat Enterprise Linux is released in server versions for x86-64, Power ISA, ARM64, and IBM Z and a desktop version for x86-64. All of Red Hat's official support and training, together with the Red Hat Certification Program, focuses on the Red Hat Enterprise Linux platform.
+
+ Related pages 
+ Red Hat
+
+Category:X86-64 Linux distributions

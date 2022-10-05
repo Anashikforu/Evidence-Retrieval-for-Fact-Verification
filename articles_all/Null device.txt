@@ -1,0 +1,3 @@
+In some operating systems, the '''null device''' is a device file that ignores anything written to it but returns that the write worked. This device is called /dev/null on Unix and Unix-like systems, NUL: or NUL on CP/M and DOS (internally \DEV\NUL), nul on newer Windows systems (internally \Device\Null on Windows NT), NIL: on Amiga systems, In IBM DOS/360, OS/360 (MFT, MVT), OS/390 and z/OS operating systems, such files would be assigned in job control language|JCL to DD DUMMY.
+
+Category:Unix

@@ -1,0 +1,24 @@
+{{taxobox 
+| regnum = Animalia
+| phylum = Cnidaria
+| classis = Anthozoa
+| fossil_range = late Ediacaran to present
+| image = Scheibenanemonen (Actinodiscus spec).jpg
+| image_caption = Stony corals
+| image_width = 250px
+| authority = Christian Gottfried Ehrenberg|Ehrenberg, 1834
+| display orders = 
+| subclassis = Ceriantharia  Hexacorallia  Octocorallia}}
+
+
+
+'''Anthozoa''' are a Class (biology)|class in the phylum Cnidaria. It includes the sea anemones and the corals. It is a monophyletic clade, one of two in the Cnidaria. The other is the Medusozoa.Daly M. ''et al'' 2007. The phylum Cnidaria: a review of phylogenetic patterns and diversity 300 years after Linnaeus. ''Zootaxa'', '''1668''': 127–182, Wellington.   
+The class does not have a Medusa (animal)|medusa larval stage in its development, unlike the rest of the phylum. Like all Cnidaria, their food-catching and defense are done by nematocysts, which are extremely effective stinging cells. Over 6,100 species have been described.estimates of species numbers differ between authorities.
+
+There are three subclasses:
+
+Ceriantharia: the tube-dwelling anemones or cerianthids
+Hexacorallia: 4,300 species of colony (biology)|colonial polyps, usually with 6-fold symmetry. This includes all of the stony corals, which are vital for coral reef formation, and all sea anemones, and zoanthids. 
+Octocorallia: 3,000 species of colonial polyps with 8-fold symmetry. It includes the blue coral, soft corals, sea pens, and gorgonians (sea fans and sea whips).
+
+Category:Cnidarians

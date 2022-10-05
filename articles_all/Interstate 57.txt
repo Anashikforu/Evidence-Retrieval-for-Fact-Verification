@@ -1,0 +1,11 @@
+
+|direction_b=North
+|terminus_b= in Chicago|Chicago, IL
+|states=Missouri, Illinois
+|counties='''MO:''' Scott County, Missouri|Scott, Mississippi County, Missouri|Mississippi
+'''IL:''' Alexander County, Illinois|Alexander, Pulaski County, Illinois|Pulaski, Union County, Illinois|Union, Johnson County, Illinois|Johnson, Williamson County, Illinois|Williamson, Franklin County, Illinois|Franklin, Jefferson County, Illinois|Jefferson, Marion County, Illinois|Marion, Fayette County, Illinois|Fayette, Clay County, Illinois|Clay, Effingham County, Illinois|Effingham, Shelby County, Illinois|Shelby, Cumberland County, Illinois|Cumberland, Coles County, Illinois|Coles, Douglas County, Illinois|Douglas, Champaign County, Illinois|Champaign, Ford County, Illinois|Ford, Iroquois County, Illinois|Iroquois, Kankakee County, Illinois|Kankakee, Will County, Illinois|Will, Cook County, Illinois|Cook
+|browse=
+}}
+'''Interstate 57''' is an Interstate Highway in the United States. It goes from Miner, Missouri north to Chicago, Illinois. The route is  long.
+
+Category:Interstate Highways|57

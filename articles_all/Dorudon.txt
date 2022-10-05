@@ -1,0 +1,20 @@
+
+{{Taxobox
+| name = ''Dorudon''
+| fossil_range = late Eocene
+| image = Dorudon atrox Senckenberg.jpg
+| image_width = 250px
+| image_caption = ''Dorudon atrox'', Senckenberg Museum
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Cetacea
+| subordo = Archaeoceti
+| familia = Basilosauridae
+| genus = '''''Dorudon'''''
+| genus_authority = Gibbes, 1845}}
+
+'''''Dorudon''''' ("spear-tooth") was a genus of ancient cetacean. It lived alongside ''Basilosaurus'', 41 to 33 million years ago, in the Eocene.
+
+They were about five meters (16&nbsp;ft) long and were most likely carnivorous, feeding on small fish and molluscs. ''Dorudon'' lived in warm seas around the world., Fossils have been found along the former shorelines of the Tethys Sea in present-day Western Sahara, Egypt, Pakistan, the United States, and New Zealand. Most finds have been in Egypt.
+

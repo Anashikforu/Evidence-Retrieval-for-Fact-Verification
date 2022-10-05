@@ -1,0 +1,27 @@
+
+
+|population_total         = 32,213
+|population_density_km2   = 563.3
+|population_density_sq_mi = 1458.9
+|timezone                 = Mountain Time Zone|Mountain (MST)
+|utc_offset               = -7
+|timezone_DST             = MDT
+|utc_offset_DST           = -6
+|coordinates = 
+|elevation_m              = 1301
+|elevation_ft             = 4268
+|postal_code_type         = ZIP code
+|postal_code              = 88101 88102
+|area_code                = Area code 505|505, Area code 575|575
+|website                  = |blank_name               = Federal Information Processing Standard|FIPS code
+|blank_info               = 35-16420
+|blank1_name              = Geographic Names Information System|GNIS feature ID
+|blank1_info              = 0915815
+}}
+'''Clovis''' is a city in and the county seat of Curry County, New Mexico. In 2007, 32,213 people lived there.
+
+ Related pages 
+Clovis culture
+Clovis point
+
+Category:20th-century establishments in New Mexico

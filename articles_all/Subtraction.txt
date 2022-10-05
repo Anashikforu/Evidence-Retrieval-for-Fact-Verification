@@ -1,0 +1,14 @@
+'''Subtraction''' is the arithmetic operation for finding the wikt:difference|difference between two numbers, though it can also be generalized to other mathematical objects such as Vector|vectors and Matrix (mathematics)|matrices. For example, the expression 7 - 4 = 3 can be read as "seven minus four equals three," "seven take away four leaves three," or "four from seven leaves three."
+
+If the minuend is less than the subtrahend, the difference will be a negative number. For example, 17 - 25 = -8 . This can be read as "Seventeen minus twenty-five equals negative eight."  
+
+Subtraction is how cash registers determine the change (money)|change a buyer receives, when the buyer pays with more money than the purchase cost. 
+
+Related pages 
+ Addition
+ Division (mathematics)
+ Multiplication
+ Negative number
+ Order of operations
+
+Category:Arithmetics

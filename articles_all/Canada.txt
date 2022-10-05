@@ -1,0 +1,186 @@
+{{Infobox country
+| conventional_long_name = Canada
+| image_flag = Flag of Canada (Pantone).svg
+| alt_flag = A vertical triband design (red, white, red) with a red maple leaf in the center.
+| image_coat = 
+|symbol_type=Arms of Canada|Coat of arms
+| alt_coat = At the top there is a rendition of St. Edward's Crown, with the crest of a crowned gold lion standing on a twisted wreath of red and white silk and holding a maple leaf in its right paw underneath. The lion is standing on top of a helm, which is above the escutcheon, ribbon, motto and compartment. There is a supporter of either side of the escutcheon and ribbon; an English lion on the left and a Scottish unicorn on the right.
+| national_motto = ''A mari usque ad mare'' (Latin)"From Sea to Sea"
+| national_anthem = "O Canada"
+| image_map = CAN orthographic.svg
+| map_width = 220px
+| alt_map = A projection of North America with Canada highlighted in green
+| capital = Ottawa
+| coordinates = 
+| largest_city = Toronto
+| official_languages = 
+| ethnic_groups_year = 2016
+| ethnic_groups_ref = 
+| ethnic_groups = {{Collapsible list
+        | titlestyle = background:transparent;text-align:left;font-weight:normal;font-size:100%;
+        | title = List of ethnicities| 72.9% European Canadians|European | 17.7% Asian Canadians|Asian | 4.9% Indigenous peoples in Canada|Indigenous | 3.1% Black Canadians|African | 1.3% Latin American Canadians|Latin American | 0.2% Oceanian}}
+| religion_year = 2011
+| religion_ref = 
+| religion = {{Collapsible list
+        |titlestyle = background:transparent;text-align:left;font-weight:normal;font-size:100%;
+        |title = List of religions|67.2% Christianity in Canada|Christianity |23.9% Irreligion in Canada|No religion|3.2% Islam in Canada|Islam|1.5% Hinduism in Canada|Hinduism |1.4% Sikhism in Canada|Sikhism |1.1% Buddhism in Canada|Buddhism |1.0% History of the Jews in Canada|Judaism |0.6% Religion in Canada#Other religions|Other}}
+| demonym  = Canadian
+| government_type = {{nowrap|Federalism|Federal Parliamentary system|parliamentaryconstitutional monarchy
+| leader_title1 = Monarchy of Canada|Monarch
+| leader_name1 = 
+| leader_title2 = 
+| leader_name2 = Mary Simon
+| leader_title3 = Prime Minister of Canada|Prime Minister
+| leader_name3 = Justin Trudeau
+| legislature = Parliament of Canada|Parliament
+| upper_house = Senate of Canada|Senate
+| lower_house = House of Commons of Canada|House of Commons
+| sovereignty_type = History of Canada|Independence
+| sovereignty_note = from the United Kingdom
+| established_event1 = Canadian Confederation|Confederation
+| established_date1 = July 1, 1867
+| established_event2 = Statute of Westminster 1931|Statute of Westminster
+| established_date2 = December 11, 1931
+| established_event3 = Patriation
+| established_date3 = April 17, 1982
+| area_km2 = 9,984,670
+| area_label = Total area
+| area_rank = 2nd
+| area_sq_mi = 3,854,085
+| percent_water = 11.76 (as of 2015)
+| area_label2 = Total land area
+| area_data2 = 
+| population_estimate =  38,131,104 
+| population_census = 35,151,728
+| population_estimate_year = Q1 2021
+| population_census_year = 2016
+| population_estimate_rank = 37th
+| population_density_km2 = 3.92
+| population_density_sq_mi = 10.15
+| population_density_rank = 185th
+| GDP_PPP = 
+| GDP_PPP_year = 2021
+| GDP_PPP_rank = 15th
+| GDP_PPP_per_capita =  $51,713
+| GDP_PPP_per_capita_rank = 20th
+| GDP_nominal = 
+| GDP_nominal_year = 2021
+| GDP_nominal_rank = 9th
+| GDP_nominal_per_capita =  $49,222
+| GDP_nominal_per_capita_rank = 18th
+| Gini = 30.3 
+| Gini_year = 2018
+| Gini_change = decrease
+| Gini_ref = 
+| HDI = 0.929 
+| HDI_year = 2019
+| HDI_change = increase
+| HDI_ref = 
+| HDI_rank = 16th
+| currency = Canadian dollar ($)
+| currency_code = CAD
+| utc_offset = −3.5 to −8
+| utc_offset_DST = −2.5 to −7
+| date_format = &nbsp;(Anno Domini|AD)The Government of Canada and Standards Council of Canada prescribe ISO 8601 as the country's official all-numeric date format:  formats also remain in common use; see Date and time notation in Canada.
+| drives_on = right
+| calling_code = Telephone numbers in Canada|+1
+| cctld = .ca
+| royal_anthem = "God Save the Queen" 
+|today=}}
+
+'''Canada''' is a country in North America. It is to the north of the United States. Its land reaches from the Atlantic Ocean in the east to the Pacific Ocean in the west. The Arctic Ocean is to the north of Canada. Canada's land area is . It is the world's List of countries and dependencies by area|second largest country by total area, but only the fourth largest country by land area. It has the world's longest coastline (a border with water). Canada has Provinces and territories of Canada|ten provinces and three territories. Most parts of the country are cold or severely cold in the winter. Areas in the south of Canada are warm in the summer. Much of the land is covered in forest or tundra. Most of the people in Canada live in Urbanization|urban areas, near the southern border with the US. This border is the longest between any two countries in the world. The capital city|national capital is Ottawa, and the largest city is Toronto. Other large cities include Montreal, Vancouver, Calgary, Edmonton, Quebec City, Winnipeg and Hamilton, Ontario|Hamilton.
+
+The name "Canada" probably comes from the Huron-Iroquois word "kanata," meaning "village" or "settlement." In 1535, two Aboriginal youths told an explorer from France, named Jacques Cartier, about the route to kanata. They were actually referring to the village named Stadacona, which is near present-day City of Québec.
+
+Aboriginal people lived in the places that are now Canada for a long time. In 1537, the French colonial empire|French started a colony. The British Empire soon followed. The two empires fought several wars. In the late 18th century, only British North America remained with what is more or less Canada today. The country was formed from several colonies with the British North America Act on July 1, 1867. Over time, more provinces and territories became part of Canada. In 1931, Canada achieved nearly total independence with the Statute of Westminster 1931, and became sovereignty|completely independent when the Canada Act 1982 removed the last remaining ties of legal dependence with the Parliament of the United Kingdom.
+
+Canada is a federation|federal parliamentary democracy and a constitutional monarchy, with Elizabeth II|Queen Elizabeth II as its head of state. The country is officially bilingual at the federal level, meaning that Citizenship|citizens have the right to communicate with the Government of Canada|government in two languages, English or French. Immigration to Canada has made it one of the world's most ethnically diverse and Multiculturalism in Canada|multicultural nations. Its economy is List of countries by GDP (nominal)|the eleventh largest in the world, and relies mainly on natural resources and well-developed international trading|trade networks. Canada's relationship with its neighbor and biggest trading partner, the U.S., has a big impact on its economy of Canada|economy and culture of Canada|culture.
+
+Canada is a developed country and has the List of countries by GDP (nominal) per capita|tenth highest nominal per capita income globally as well as the List of countries by Human Development Index|sixteenth highest ranking in the Human Development Index. It ranks among the highest in international measurements of government transparency, civil liberties, quality of life, economic freedom, and education. Canada is a Commonwealth realm member of the Commonwealth of Nations, a member of the Organisation internationale de la Francophonie|Francophonie, and part of several major international and intergovernmental institutions or groupings including the United Nations, the NATO|North Atlantic Treaty Organization, the Group_of_Seven|G7, the G-20 major economies|G20, the North American Free Trade Agreement and the Asia-Pacific Economic Cooperation forum.
+
+ Geography 
+By total land and water area, Canada is the List of countries and outlying territories by total area|second-largest country in the world. It is only smaller than Russia. By land area alone, Canada List of countries and outlying territories by land area|ranks fourth.
+
+Canada is made up of List of Canadian provinces and territories|ten provinces and three territories. The provinces are between the 45th and 60th parallels of latitude, and the territories are to the north of the 60th parallel of latitude. Most large cities in Canada are in the southern part of the country, including Toronto, Vancouver, and Montreal. Very few people live in the northern part of Canada.
+
+Canada extends from the west coast to the Atlantic provinces. In the north, there are three territories: Yukon in the west, the Northwest Territories, and Nunavut. Four of the five Great Lakes (Superior, Huron, Erie, and Ontario) are shared between Canada and the United States (Lake Michigan is in the USA). They make up 16% of the Earth's fresh water. The Saint Lawrence Seaway joins the Great Lakes to the Atlantic Ocean, allowing vessels in the ocean to travel as far inland as Thunder Bay, Ontario|Thunder Bay in Ontario, Canada.
+
+Canada shares land and sea borders with the USA (the lower 48 states and Alaska), Greenland, and France (St. Pierre and Miquelon, a small group of islands off the southern coast off the island of Newfoundland).
+
+The geography of Canada is very different in each region. Canada's geography features high Alpine tundra|alpine areas in the west, flat grasslands and prairies in the middle, and ancient Shield (geology)|shield rocks in the east. Canada has some of the very last untouched boreal forest in the world.
+
+The Canadian Shield is a vast area of ancient Pre-Cambrian rocks lying in an arc around Hudson Bay, covering more than one third of Canada's land area. This is a unique land of lakes, bogs, swamps, trees, and rocks. It is a terrain that is very dangerous and difficult to traverse cross country because of the lakes, bogs, swamps, trees, and rocks. Canada has 60% of the world's lakes.
+
+ History 
+
+= Aboriginal peoples =
+Indigenous peoples lived in what is now Canada for thousands of years before the first Europeans arrived. The indigenous groups that live in Canada are the First Nations, the Inuit, and the Métis. The Métis are people that come from both First Nations and European families. Together, these three groups are called "Indigenous," "Aboriginal," or "First Peoples." They used to be called "Indians" by the Europeans, but this is now considered rude.
+
+Many people think the first people to live in Canada came from Siberia at least 14,000 years ago, using the Bering land bridge. The land bridge connected Asia and North America.
+
+When European people first Settler|settled in Canada, the number of Indigenous people living in Canada was between 200,000 and two million.
+
+= European colonization =
+The Vikings were the first Europeans to land in Canada, in what is now Newfoundland. The exploration was led by the Viking explorer Leif Erikson. They did not stay for a long time. In the early 16th century, Europeans started exploring Canada's eastern coast. The first of these explorers was John Cabot from England, in 1497, and later Jacques Cartier from France, in 1534. Alexander Mackenzie later reached the Pacific coast over land, where captains James Cook and George Vancouver went by sea. The Europeans also traded beaver furs to the First Nations.
+
+Some parts of Canada were settled by France. Other parts of the country were settled by Great Britain. In 1605, Port-Royal (Acadia)|Port-Royal was built in Acadia (today called Nova Scotia) by the French, led by Samuel de Champlain. In 1608, he settled in Quebec. The British took control of the French areas after a battle of the French and Indian War on the Plains of Abraham, near Quebec City|Quebec City,in 1759.
+
+After the American Revolutionary War, many people in the newly created United States wanted to stay loyal to Britain. Thousands of people came north to Canada and settled in Nova Scotia, New Brunswick, Quebec, and Ontario. They were called United Empire Loyalists. During the War of 1812, the United States tried to conquer Canada, but were defeated.
+
+= Confederation and expansion =
+On July 1, 1867, Canada was united under a federation|federal government. At first, Canada as only made up of the provinces Ontario, Quebec, New Brunswick, and Nova Scotia. Sir John A. Macdonald was the first prime minister. Manitoba, the Yukon territory, and the Northwest Territories became part of Canada in 1870. British Columbia joined in 1871, and Prince Edward Island in 1873.
+
+There were two Red River Rebellions, in 1869-70 and 1885, both led by Louis Riel. He fought for more rights for the Métis people, a mix between French and First Nations. A railroad across the country, the Canadian Pacific Railway, finished in 1885, making it easier for Canadians to move to the west. Many Europeans came to the prairies, so Alberta and Saskatchewan became provinces in 1905.
+
+= Early 20th century =
+Canadian soldiers fought in World War I for the British Empire. More Canadians died in this war than any other war. Canada became better known as a country after its success in capturing Battle of Vimy Ridge|Vimy Ridge from the Germans in France in 1917. Women were given the right to vote by the end of the war, partly because of the help they gave making weapons while the men fought in Europe. In 1931, Canada became fully Independence|independent. The government of Canada made all the decisions about Canada.
+
+ from Germany.
+
+= Modern times =
+In 1949, Newfoundland and Labrador became the 10th province of Canada. In 1956, Canadian Lester Pearson, who later became prime minister, helped end the Suez Crisis. Because of this, he won the Nobel Peace Prize. In 1965, Pearson helped change the design of Canada's flag. This design is known as the Maple Leaf today. Before that, the Flag of Canada|Red Ensign was Canada's flag. In 1982, Canada changed its constitution. The change introduced a new Canadian Charter of Rights and Freedoms. The main part of the Constitution is the 1867 British North America Act.
+
+Some French Canadians today wish to form their own country, separate from the rest of Canada. The province of Quebec held a referendum (vote) in 1980, but only about 40% wanted to separate. Another referendum was held in 1995, with almost 50% voting in favour of leaving Canada. Since then, fewer people in Quebec have wanted to leave Canada, but it is still important to Quebec politics.
+
+Today, about 25% of Canadians speak French as their first language. Many people in Canada speak both French and English. Although most French Canadians live in the province of Quebec, there are French-speaking communities and people all across Canada. For example, 40% of the people in the province of New Brunswick and 20% of those in Manitoba have a strong French background, as do some people in Ontario, mainly along its border with Quebec.
+
+In 1999, Nunavut was created as Canada's third territory, out of the eastern Northwest Territories, in an agreement with the Inuit people.
+
+ Government 
+
+Canada has a government called a constitutional monarchy. It has a monarch (meaning a king or queen is the head of that country), and is a democracy (meaning the people of that country rule it). The head of state is Elizabeth II|Queen Elizabeth II, who is officially the Queen of Canada. She appoints a Governor General to represent her in the country, however, the choice of Governor General is made by the prime minister.
+
+The Queen's powers are mostly exercised by the Governor General, currently Mary Simon. The Governor General, like the Canadian sovereign (King/Queen of Canada), is not political and remains above politics, and because of that they do not usually use their powers without the advice of the Prime Minister or other ministers.
+
+The head of government is the Prime Minister of Canada|Prime Minister. The current prime minister is Justin Trudeau, who replaced Stephen Harper in October 2015. Each province and territory has a premier to lead its government. The day-to-day operations of the government are run by the cabinet. The cabinet is usually formed from the largest party in Parliament.
+
+The Parliament of Canada passes the laws of the country. The governor general, acting on behalf of the monarch, has the right to veto a law (meaning the law cannot go into effect) but this right has not been used for some time. There are five main parties in the Canadian Parliament: the Conservative Party of Canada|Conservative Party, the New Democratic Party, the Liberal Party of Canada|Liberal Party, the ''Bloc Québécois'', and the Green Party of Canada|Green Party. In addition to the five parties with MPs in Parliament, there are fourteen other smaller parties registered with Elections Canada and several MPs who sit as Independents.
+
+= Provinces and territories =
+
+
+
+
+Below is a list of provinces and territories. They are listed by population.
+
+
+
+ Climate and its influence 
+
+Because Canada is very far north, and most people cannot survive the conditions, most Canadians live in the southern parts, where the weather is much milder. Nearly two-thirds of Canadians live less than  from the U.S. border..
+Canadians are known to play winter sports, such as ice hockey and skiing and snowboarding, as well as enjoy many summer sports and games.
+
+ Natural resources 
+
+Canada has lots of natural resources. Its large amounts of fish have been used for wikt:century|centuries for food and money. Hydroelectricity|Hydroelectric power (electricity by water) is abundant because of Canada's many rivers.
+
+ Demographics 
+Around 38 million people live in Canada. This is almost the same number as California. About 80% of the Canadian population live in the southern parts of Canada because the climate is warmer than the north of Canada.
+
+Many immigrants, who come from almost every part of the world, live in Canada. One example is the former Governor General of Canada, Michaëlle Jean, who came to Canada as a young child with her family from Haiti in 1968. Today, up to 1/5th of the population is an immigrant of Canada.
+
+ Healthcare 
+The Canadian government provides universal health care. The provinces are responsible for health insurance. Five provinces prohibit all extra-billing, while Alberta, British Columbia and Newfoundland and Labrador|Newfoundland allow it in a small number of circumstances, and Prince Edward Island and New Brunswick do not restrict it at all.
+
+In 2020 the Canadian Broadcasting Corporation reported a deterioration in the number of acute care beds available in Ontario hospitals per every 1,000 people in that province. Ontario is Canada's largest province, and is home to Canada's largest city, Toronto. The number of hospital beds available in Ontario is 1.4 per every 1,000 people. This is half the number of hospital beds available in the United States, and the same number that Mexico has.
+Category:1867 establishments in North America

@@ -1,0 +1,18 @@
+'''Diagramming software''' is a computer program that is used to produce graphical diagrams.
+
+Common Diagramming software
+Schematic (software)|Schematic
+SmartDraw
+Dia (software)|Dia
+OmniGraffle
+Microsoft Visio
+Inspiration Software|Inspiration
+ConceptDraw 7
+Graphviz
+OpenOffice.org Draw
+Kivio
+
+
+
+
+Category:Diagramming software

@@ -1,0 +1,13 @@
+'''Linux''' may refer to:
+
+ Linux kernel, an operating system kernel developed by Linus Torvalds and many others
+ Linux operating system, a collection of libraries and tools and a Linux kernel, or the family of Linux operating systems, i.e. those operating systems which contain the Linux kernel
+ Most such operating systems include the GNU libraries and tools and are also referred to as ''GNU/Linux'' systems
+ Linux distribution, a Linux operating system and a collection of applications
+ 9885 Linux, an asteroid
+
+Other uses
+
+ Linux, a washing powder from Rösch
+
+

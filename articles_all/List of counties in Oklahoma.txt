@@ -1,0 +1,315 @@
+This is a list of the seventy-seven '''county|counties in the United States|U.S. U.S. state|state of Oklahoma'''. Oklahoma is ranked 20th size and 17th in the number of counties.
+
+Alphabetical list
+
+{{Countyrow|N=40|Num=001|Name=Adair|Data2=1907|Seat=Stilwell
+|Data3=.
+|Data4=The Adair family of the Cherokee tribe
+|Area=576 |Population=21038 }}
+{{Countyrow|N=40|Num=003|Name=Alfalfa|Data2=1907|Seat=Cherokee
+|Data3=Woods County
+|Data4=William H. Murray|William H. "Alfalfa Bill" Murray (1869-1956), ninth Governor of Oklahoma
+|Area=867 |Population=6,105 }}
+{{Countyrow|N=40|Num=005|Name=Atoka|Data2=1907|Seat=Atoka
+|Data3=Choctaw lands
+|Data4=Captain Atoka, a noted Choctaw
+|Area=978 |Population=13,879 }}
+{{Countyrow|N=40|Num=007|Name=Beaver|Data2=1890|Seat=Beaver
+|Data3=Initially encompasses entire Oklahoma Panhandle|panhandle from 1890 to 1907 (as Seventh County); current geography since 1907
+|Data4=The Beaver River (Oklahoma)|Beaver River
+|Area=1814 |Population=5,857 }}
+{{Countyrow|N=40|Num=009|Name=Beckham|Data2=1907|Seat=Sayre
+|Data3=Greer County and Roger Mills County
+|Data4=J. C. W. Beckham (1869-1940), Governor of Kentucky
+ |Area=902 |Population=19799 }}
+{{Countyrow|N=40|Num=011|Name=Blaine|Data2=1890|Seat=Watonga
+|Data3=.
+|Data4=James G. Blaine (1830-1893), former Speaker of the United States House of Representatives, U.S. Senator and United States Secretary of State|Secretary of State
+|Area=929|Population=11976 }}
+{{Countyrow|N=40|Num=013|Name=Bryan|Data2=1907|Seat=Durant
+|Data3=Choctaw lands
+|Data4=William Jennings Bryan (1860-1925), former U.S. Secretary of State|Secretary of State, famous orator and three-time U.S. Presidential candidate
+|Area=909 |Population=36534 }}
+{{Countyrow|N=40|Num=015|Name=Caddo|Data2=1901|Seat=Anadarko
+|Data3=.
+|Data4=From Indian word "Kaddi" meaning ''life'' or ''chief''
+|Area=1278 |Population=30150 }}
+{{Countyrow|N=40|Num=017|Name=Canadian|Data2=1901|Seat=El Reno
+|Data3=Part of Cheyenne people|Cheyenne and Arapaho reservation
+|Data4=.
+|Area=900 |Population=87697 }}
+{{Countyrow|N=40|Num=019|Name=Carter|Data2=1907|Seat=Ardmore
+|Data3=Pickens County, Chickasaw Nation
+|Data4=A prominent early-day family
+|Area=824 |Population=45621 }}
+{{Countyrow|N=40|Num=021|Name=Cherokee|Data2=1907|Seat=Tahlequah
+|Data3=Originally settled by Cherokee Indians following the Trail of Tears
+|Data4=Cherokee Nation
+|Area=751 |Population=42521 }}
+{{Countyrow|N=40|Num=023|Name=Choctaw|Data2=1907|Seat=Hugo
+|Data3=.
+|Data4=Choctaw Nation of Indians
+|Area=774 |Population=15342 }}
+{{Countyrow|N=40|Num=025|Name=Cimarron|Data2=1907|Seat=Boise City
+|Data3=.
+|Data4=Cimarron River
+|Area=1835 |Population=3148 }}
+{{Countyrow|N=40|Num=027|Name=Cleveland|Data2=1890|Seat=Norman
+|Data3=.
+|Data4=Grover Cleveland (1837-1908), two-time President of the United States
+|Area=536 |Population=208016 }}
+{{Countyrow|N=40|Num=029|Name=Coal|Data2=1907|Seat=Coalgate
+|Data3=Tobucksy County, Choctaw Nation
+|Data4=Coal, the primary economic product of the region at the time
+|Area=518 |Population=6031 }}
+{{Countyrow|N=40|Num=031|Name=Comanche|Data2=1907|Seat=Lawton
+|Data3=Kiowa, Comanche, and Apache reservation
+|Data4=Spanish "Camino Ancho", meaning ''broad trail''
+|Area=1069 |Population=114996 }}
+{{Countyrow|N=40|Num=033|Name=Cotton|Data2=1912|Seat=Walters
+|Data3=Lands of Quapaws, Choctaws, Chickasaws, Comanche Reservation, and Big Pasture
+|Data4=The principal economic base of the county, cotton
+|Area=637 |Population=6614 }}
+{{Countyrow|N=40|Num=035|Name=Craig|Data2=1907|Seat=Vinita
+|Data3=Cherokee Nation
+|Data4=Granville Craig, a prominent Cherokee
+|Area=761 |Population=14950 }}
+{{Countyrow|N=40|Num=037|Name=Creek|Data2=1907|Seat=Sapulpa
+|Data3=.
+|Data4=Creek people|Creek tribe
+|Area=956 |Population=67367 }}
+{{Countyrow|N=40|Num=039|Name=Custer|Data2=1891|Seat=Arapaho
+|Data3=Cheyenne-Arapaho Reservation
+|Data4=George Armstrong Custer (1839-1876), a United States Army cavalry commander
+|Area=987 |Population=26142 }}
+{{Countyrow|N=40|Num=041|Name=Delaware|Data2=1907|Seat=Jay
+|Data3=.
+|Data4=Delaware District of old Cherokee Nation
+|Area=741 |Population=37077 }}
+{{Countyrow|N=40|Num=043|Name=Dewey|Data2=1892|Seat=Taloga
+|Data3=Cheyenne-Arapaho Reservation
+|Data4=Either for Admiral George Dewey (1837-1917) or derived from original name, County "D", during land run of 1892 and later changed
+|Area=1000 |Population=4743 }}
+{{Countyrow|N=40|Num=045|Name=Ellis|Data2=1907|Seat=Arnett
+|Data3=Roger Mills and Woodward counties
+|Data4=Albert H. Ellis, vice president of the Oklahoma Constitutional Convention (name could also be Abraham H. Ellis)
+|Area=1229 |Population=4075 }}
+{{Countyrow|N=40|Num=047|Name=Garfield|Data2=1893|Seat=Enid
+|Data3=Cherokee Outlet
+|Data4=James Garfield (1831-1881), President of the Unites States
+|Area=1058 |Population=57813 }}
+{{Countyrow|N=40|Num=049|Name=Garvin|Data2=1907|Seat=Pauls Valley
+|Data3=Chickasaw Nation
+|Data4=Samuel Garvin, a prominent Chickasaw Indian
+|Area=809 |Population=27210 }}
+{{Countyrow|N=40|Num=051|Name=Grady|Data2=1907|Seat=Chickasha
+|Data3=.
+|Data4=Henry W. Grady (1851-1889), editor of the ''Atlanta Constitution'' newspaper
+|Area=1101 |Population=45516 }}
+{{Countyrow|N=40|Num=053|Name=Grant|Data2=1892|Seat=Medford
+|Data3=Originally "L" county
+|Data4=Ulysses S. Grant (1822-1885), President of the United States
+|Area=1001 |Population=5144 }}
+{{Countyrow|N=40|Num=055|Name=Greer|Data2=1896|Seat=Mangum
+|Data3=Greer County, Texas|Greer County, Texas
+|Data4=John Alexander Greer, Lieutenant Governor of Texas
+|Area=639 |Population=6061 }}
+{{Countyrow|N=40|Num=057|Name=Harmon|Data2=1909|Seat=Hollis
+|Data3=Greer County
+|Data4=Judson Harmon (1846-1927), United States Attorney General|U.S. Attorney General and List of Governors of Ohio|Governors of Ohio
+|Area=538 |Population=3283 }}
+{{Countyrow|N=40|Num=059|Name=Harper|Data2=1893|Seat=Buffalo
+|Data3=.
+|Data4=Oscar G. Harper, clerk of the Oklahoma Constitutional Convention
+|Area=1039 |Population=3562 }}
+{{Countyrow|N=40|Num=061|Name=Haskell|Data2=1907|Seat=Stigler
+|Data3=.
+|Data4=Charles N. Haskell (1860-1933), first Governor of Oklahoma
+|Area=577 |Population=11792 }}
+{{Countyrow|N=40|Num=063|Name=Hughes|Data2=1907|Seat=Holdenville
+|Data3=.
+|Data4=William C. Hughes, member of the Oklahoma Constitutional Convention
+|Area=807 |Population=14154 }}
+{{Countyrow|N=40|Num=065|Name=Jackson|Data2=1907|Seat=Altus
+|Data3=Greer County
+|Data4=Either Stonewall Jackson (1824-1863), Confederate States Army|Confederate general during the American Civil War or Andrew Jackson (1767-1845), seventh President of the United States
+|Area=803 |Population=28439 }}
+{{Countyrow|N=40|Num=067|Name=Jefferson|Data2=1907|Seat=Waurika
+|Data3=Comanche County and part of Chickasaw Nation
+|Data4=Thomas Jefferson (1743-1826), third President of the United States
+|Area=759 |Population=6818 }}
+{{Countyrow|N=40|Num=069|Name=Johnston|Data2=1907|Seat=Tishomingo
+|Data3=.
+|Data4=Douglas H. Johnston, Governor of the Chickasaw Nation
+|Area=645 |Population=10513 }}
+{{Countyrow|N=40|Num=071|Name=Kay|Data2=1895|Seat=Newkirk
+|Data3=Cherokee Strip
+|Data4=Originally designated as county "K"
+|Area=919 |Population=48080 }}
+{{Countyrow|N=40|Num=073|Name=Kingfisher|Data2=1907|Seat=Kingfisher
+|Data3=Unassigned Lands
+|Data4=Either for a bird or King David Fisher, an early settler in the area
+|Area=903 |Population=13926 }}
+{{Countyrow|N=40|Num=075|Name=Kiowa|Data2=1901|Seat=Hobart
+|Data3=Kiowa-Comanche-Apache Indian Reservations
+|Data4=Kiowa Indian tribe
+|Area=1015 |Population=10227 }}
+{{Countyrow|N=40|Num=077|Name=Latimer|Data2=1907|Seat=Wilburton
+|Data3=.
+|Data4=James S. Latimer, member of the Oklahoma Constitutional Convention
+|Area=722 |Population=10692 }}
+{{Countyrow|N=40|Num=079|Name=Le Flore|Data2=1907|Seat=Poteau
+|Data3=Choctaw Nation
+|Data4=A Choctaw Indian family of French descent
+|Area=1586 |Population=48109 }}
+{{Countyrow|N=40|Num=081|Name=Lincoln|Data2=1891|Seat=Chandler
+|Data3=.
+|Data4=.
+|Area=959 |Population=32080 }}
+{{Countyrow|N=40|Num=083|Name=Logan|Data2=1891|Seat=Guthrie
+|Data3=.
+|Data4=.
+|Area=745 |Population=33924 }}
+{{Countyrow|N=40|Num=085|Name=Love|Data2=1907|Seat=Marietta
+|Data3=.
+|Data4=.
+|Area=515 |Population=8831 }}
+{{Countyrow|N=40|Num=093|Name=Major|Data2=1909|Seat=Fairview
+|Data3=.
+|Data4=.
+|Area=957 |Population=7545 }}
+{{Countyrow|N=40|Num=095|Name=Marshall|Data2=1907|Seat=Madill
+|Data3=.
+|Data4=.
+|Area=371 |Population=13184 }}
+{{Countyrow|N=40|Num=097|Name=Mayes|Data2=1907|Seat=Pryor
+|Data3=.
+|Data4=.
+|Area=656 |Population=38369 }}
+{{Countyrow|N=40|Num=087|Name=McClain|Data2=1907|Seat=Purcell
+|Data3=.
+|Data4=.
+|Area=570 |Population=27740 }}
+{{Countyrow|N=40|Num=089|Name=McCurtain|Data2=1907|Seat=Idabel
+|Data3=.
+|Data4=.
+|Area=1852 |Population=34402}}
+{{Countyrow|N=40|Num=091|Name=McIntosh|Data2=1907|Seat=Eufaula
+|Data3=.
+|Data4=.
+|Area=620 |Population=19456 }}
+{{Countyrow|N=40|Num=099|Name=Murray|Data2=1907|Seat=Sulphur
+|Data3=.
+|Data4=.
+|Area=418 |Population=12623 }}
+{{Countyrow|N=40|Num=101|Name=Muskogee|Data2=1907|Seat=Muskogee
+|Data3=.
+|Data4=.
+|Area=814 |Population=69451 }}
+{{Countyrow|N=40|Num=103|Name=Noble|Data2=1897|Seat=Perry
+|Data3=.
+|Data4=.
+|Area=732 |Population=11411 }}
+{{Countyrow|N=40|Num=105|Name=Nowata|Data2=1907|Seat=Nowata
+|Data3=.
+|Data4=.
+|Area=565 |Population=10569 }}
+{{Countyrow|N=40|Num=107|Name=Okfuskee|Data2=1907|Seat=Okemah
+|Data3=.
+|Data4=.
+|Area=625 |Population=11814 }}
+{{Countyrow|N=40|Num=109|Name=Oklahoma|Data2=1891|Seat=Oklahoma City
+|Data3=.
+|Data4=.
+|Area=709 |Population=660448 }}
+{{Countyrow|N=40|Num=111|Name=Okmulgee|Data2=1907|Seat=Okmulgee
+|Data3=.
+|Data4=.
+|Area=697 |Population=39685 }}
+{{Countyrow|N=40|Num=113|Name=Osage|Data2=1907|Seat=Pawhuska
+|Data3=.
+|Data4=.
+|Area=2251 |Population=44437 }}
+{{Countyrow|N=40|Num=115|Name=Ottawa|Data2=1907|Seat=Miami
+|Data3=.
+|Data4=.
+|Area=471 |Population=33194 }}
+{{Countyrow|N=40|Num=117|Name=Pawnee|Data2=1897|Seat=Pawnee
+|Data3=.
+|Data4=.
+|Area=570 |Population=16612 }}
+{{Countyrow|N=40|Num=119|Name=Payne|Data2=1890|Seat=Stillwater
+|Data3=.
+|Data4=.
+|Area=686 |Population=68190 }}
+{{Countyrow|N=40|Num=121|Name=Pittsburg|Data2=1907|Seat=McAlester
+|Data3=.
+|Data4=.
+|Area=1306 |Population=43953 }}
+{{Countyrow|N=40|Num=123|Name=Pontotoc|Data2=1907|Seat=Ada
+|Data3=.
+|Data4=.
+|Area=720 |Population=35143 }}
+{{Countyrow|N=40|Num=125|Name=Pottawatomie|Data2=1891|Seat=Shawnee
+|Data3=.
+|Data4=.
+|Area=788 |Population=65521 }}
+{{Countyrow|N=40|Num=127|Name=Pushmataha|Data2=1907|Seat=Antlers
+|Data3=.
+|Data4=.
+|Area=1397 |Population=11167 }}
+{{Countyrow|N=40|Num=129|Name=Roger Mills|Data2=1895|Seat=Cheyenne
+|Data3=.
+|Data4=.
+|Area=1142 |Population=3436 }}
+{{Countyrow|N=40|Num=131|Name=Rogers|Data2=1907|Seat=Claremore
+|Data3=.
+|Data4=.
+|Area=675 |Population=70641 }}
+{{Countyrow|N=40|Num=133|Name=Seminole|Data2=1907|Seat=Wewoka
+|Data3=.
+|Data4=.
+|Area=632 |Population=24864 }}
+{{Countyrow|N=40|Num=135|Name=Sequoyah|Data2=1907|Seat=Sallisaw
+|Data3=.
+|Data4=.
+|Area=674 |Population=38972 }}
+{{Countyrow|N=40|Num=137|Name=Stephens|Data2=1907|Seat=Duncan
+|Data3=.
+|Data4=.
+|Area=877 |Population=42182 }}
+{{Countyrow|N=40|Num=139|Name=Texas|Data2=1907|Seat=Guymon
+|Data3=.
+|Data4=.
+|Area=2037 |Population=20107 }}
+{{Countyrow|N=40|Num=141|Name=Tillman|Data2=1907|Seat=Frederick
+|Data3=.
+|Data4=.
+|Area=872 |Population=9287 }}
+{{Countyrow|N=40|Num=143|Name=Tulsa|Data2=1907|Seat=Tulsa
+|Data3=.
+|Data4=''Tulsey Town'', an old Creek people|Creek settlement in Alabama
+|Area=570 |Population=563299 }}
+{{Countyrow|N=40|Num=145|Name=Wagoner|Data2=1907|Seat=Wagoner
+|Data3=.
+|Data4=.
+|Area=563 |Population=57491 }}
+{{Countyrow|N=40|Num=147|Name=Washington|Data2=1907|Seat=Bartlesville
+|Data3=.
+|Data4=.
+|Area=417 |Population=48996 }}
+{{Countyrow|N=40|Num=149|Name=Washita|Data2=1897|Seat=Cordell
+|Data3=.
+|Data4=.
+|Area=1004 |Population=11508 }}
+{{Countyrow|N=40|Num=151|Name=Woods|Data2=1893|Seat=Alva
+|Data3=.
+|Data4=.
+|Area=1287 |Population=9089 }}
+{{Countyrow|N=40|Num=153|Name=Woodward|Data2=1907|Seat=Woodward
+|Data3=.
+|Data4=.
+|Area=1242 |Population=18486 }}
+|}
+
+Category:Oklahoma-related lists

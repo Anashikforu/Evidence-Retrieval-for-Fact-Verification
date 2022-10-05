@@ -1,0 +1,1 @@
+''Watchlist notifier'': Alerts you when a page on your watch list is changed.

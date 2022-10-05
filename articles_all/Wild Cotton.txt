@@ -1,0 +1,6 @@
+'''Wild Cotton''' can be one of two species of plants:
+ ''Apocynum cannabinum''
+ ''Asclepias syriaca''
+
+
+

@@ -1,0 +1,42 @@
+{{Infobox national football team
+| Name               = Faroe Islands
+| Badge              = Faroebadge.tif
+| FIFA Trigramme     = FRO
+| Nickname           = ''Landsliðið'' (The National Team)
+| Association        = Faroe Islands Football Association|Fótbóltssamband Føroya
+| Confederation      = UEFA (Europe)
+| Coach              = Håkan Ericson
+| Most caps          = Fróði Benjaminsen (94)
+| Top scorer         = Rógvi Jacobsen (10)
+| Home Stadium       = Tórsvøllur
+| FIFA Rank          = 
+| FIFA max           = 74
+| FIFA max date      = July 2015, October 2016
+| FIFA min           = 198
+| FIFA min date      = September 2008
+| Elo Rank           = 
+| Elo max            = 136
+| Elo max date       = March 2018
+| Elo min            = 173
+| Elo min date       = 4 June 2008, 10 September 2008
+| Captain = Hallur Hansson
+|pattern_la1=_fro18h|pattern_b1=_fro18h|pattern_ra1=_fro18h|pattern_sh1=_fro18a|pattern_so1=
+|leftarm1=FFFFFF|body1=FFFFFF|rightarm1=FFFFFF|shorts1=ffffff|socks1=FFFFFF
+|pattern_la2=_fro18a|pattern_b2=_fro18a|pattern_ra2=_fro18a|pattern_sh2=_fro18h|pattern_so2=
+|leftarm2=0033FF|body2=0033FF|rightarm2=0033FF|shorts2=0033FF|socks2=0033FF
+| First game = ''unofficial''(Akranes, Iceland; 24 August 1988)
+| Largest win = ''unofficial''(Tórshavn, Faroe Islands; 7 June 2021)
+| Largest loss = ''unofficial''
+'''Faroe Islands national football team''' is the national football (soccer)|football team of Faroe Islands.
+
+
+
+ Player records 
+
+=Most appearances=
+
+
+=Top scorers=
+
+
+Category:Faroe Islands

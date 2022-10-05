@@ -1,0 +1,86 @@
+<!-- 
+The original source of this page is at
+Updates to the "book tool" will be documented on that page. 
+Please check above page for changes on regular basis.
+Last checked: 17th Feb 2009 
+
+If you translate this page please make sure all links are working in your wiki. 
+Consider to translate the "book tool" navigation template also. 
+-->__NOTOC__
+
+
+This page gives experienced users details on the advanced functions of the Book tool.  Among other things it explains how the layout of books can be improved and how books are stored on Wikipedia.
+
+Adding articles to a book
+'''Add a particular revision to your book'''
+
+Older revisions of a page can be added to a book collection instead of the current version by using the history tab. By choosing loading the relevant older revision from the history page, the wiki page can be added to the book in the same way as before, by clicking the "Add wiki page" link in the menu on the left.  (See the Help:Books|step by step guide for more help). If an older revision has been added, this specific revision will always be used. If you add the most current version of a wiki page, always the latest revision will be used.
+
+'''Add the entire contents of a category in one click'''
+
+To add the entire contents of a category in one click first navigate to the relevant category page.  Then click the "Add category" link in the "Create a book" section of the menu on the left hand side.
+
+Saving books
+'''Format of stored book pages'''
+
+A book with the title "My book" and the subtitle "Example", with two chapters named "Foo" and "Bar", each containing three articles, with the last article having a fixed revision number would be shown using the following syntax.
+
+
+ My Book 
+= Example =
+;Foo
+:First article
+:Second article
+:Third article
+;Bar
+:Fourth article
+:Fifth article
+:Sixth article version:20
+::Books
+
+
+You can also create books without the use of the input box and Special:Books page.  The wiki syntax to use is:
+
+
+
+'''Location of books'''
+
+Books can either be saved in the user's namespace User:Name/Books/Bookname or as a community book at Wikipedia:Books/Bookname.  All books are grouped into the :Category:Wikipedia books.
+
+Loading books
+Each wiki page that is a member of the category :Category:Wikipedia books can be loaded by clicking the "Load book" link on the left hand menu on the  page.
+
+Improving the book layout
+Some wiki-markup can lead to problems in the generation of PDF documents as part of the book feature.  This mainly applies to templates, which will be displayed differently in the PDF version compared to how they look in the online version of an article.  This can be fixed by either substituting the current template or removing the template from the content that cause problems in the PDF.  As a rule of thumb, all content (especially templates) that is not useful for an offline version of the document, should be excluded from the print version.
+
+There are four ways to resolve issues caused by templates:
+
+'''1) Exclude templates'''
+
+A template can be excluded from content by adding it to the :Category:Exclude in print.  
+Note: Many templates use other templates to function.  Therefore groups/types of templates can be excluded by adding the commonly used template to this category.
+
+'''2) Exclude certain specific content'''
+
+By using Template:Hide in print, certain specific content, such as a few words or an image, can be excluded from printing.
+
+Example: This content will be printed.  This content will be printed.
+
+'''3) Include certain specific content only in print versions'''
+The Template:Only in print can be used to insert content that shall only be visible in offline versions.
+
+Example: Print this and display it in the browser.  This is visible in the browser and in print as well.
+
+
+'''4) Substitute templates'''
+
+You can create a print version of a template under the name "'''Print'''TEMPLATENAME" with TEMPLATENAME being the name of the original template.
+
+Multi-wiki books
+Using the extension it is 
+Related pages
+ Help:Books for a step by step guide to creating a wiki book
+ The Help:Books/Frequently Asked Questions|Book FAQ
+ Feedback - for reporting and tracking of bugs
+
+Category:Wikipedia book tool

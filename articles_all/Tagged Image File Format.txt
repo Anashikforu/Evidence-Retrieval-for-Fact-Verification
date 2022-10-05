@@ -1,0 +1,3 @@
+
+'''Tagged Image File Format''' (also known as '''TIFF''') is a container format for storing raster graphics|images, including photographs and line art. It is now under the control of Adobe. Originally created by the company AldusVersions 4 and 5 of the TIFF specification included the sentence "This memorandum has been prepared jointly by Aldus and Microsoft in conjunction with leading scanner and printer manufacturers"; there was a TIFF co-marketing and developer support effort with Microsoft during this time, though Microsoft was not a technical contributor to the specification. Version 6 (1992) of the TIFF specification dropped the Microsoft reference. 
+Category:Adobe Inc.

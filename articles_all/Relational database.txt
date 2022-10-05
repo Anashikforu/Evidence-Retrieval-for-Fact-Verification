@@ -1,0 +1,12 @@
+Image:Emp Tables (Database).PNG|thumb|An image showing the relationship between the two tables, as indicated by the arrow
+A '''relational database''' is a way of storing information (''data''). The database matches data by using identical information that is found within the data set. The resulting groups of data are organized and are much easier for many people to understand.
+
+For example, a database has all information about real-estate sales in a town. This information can be grouped by year, or by sale price, or by buyer's last name and so on. Such a grouping uses the relational model (a technical term for this is logical schema|schema). Hence, such a database is called a "relational database."
+
+The software used to do this grouping is called a relational database management system (RDBMS). The term "relational database" often refers to this type of software.
+
+Relational databases are currently the main way in which companies store information like financial records, medical records, personal information and manufacturing and logistical data.
+
+The term ''relational database'' was originally defined by and is attributed to E.F. Codd|Edgar Codd at IBM Almaden Research Center in 1970.
+
+Two dimensional table is a natural way to represent data to a user. A table must be set up in a way that no information about the relations among data elements is lost.

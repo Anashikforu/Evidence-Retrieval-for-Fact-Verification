@@ -1,0 +1,78 @@
+
+
+A '''circle''' is a round, 2D|two-dimensional shape. All point (geometry)|points on the edge of the circle are at the same distance from the center. 
+
+The radius of a circle is a line from the center of the circle to a point on the side. Mathematicians use the letter r for the length of a circle's radius. The wikt:centre|center of a circle is the point in the very middle. It is often written as :).
+
+The diameter (meaning "all the way across") of a circle is a straight line that goes from one side to the opposite and right through the center of the circle. Mathematicians use the letter d for the length of this line. The diameter of a circle is equal to twice its radius (d equals 2 times r):
+
+:
+d = 2r
+
+
+The circumference (meaning "all the way around") of a circle is the line that goes around the center of the circle. Mathematicians use the letter C for the length of this line.
+
+The number ''Pi|π'' (written as the Greek language|Greek letter ''pi'') is a very useful number. It is the length of the circumference divided by the length of the diameter (\pi equals C divided by d). As a Fraction (mathematics)|fraction the number \pi is equal to about 22/7 or 355/113 (which is closer) and as a number it is about 3.1415926535.
+
+
+
+The area, A, inside a circle is equal to the radius multiplied by itself, then multiplied by \pi (A equals \pi times r times r).
+
+:A = \pi r^2 
+
+Calculating π
+'''\pi''' can be measured by drawing a circle, then measuring its diameter (''d'') and circumference (''C''). This is because the circumference of a circle is always equal to \pi times its diameter.
+
+:\pi = \frac{C}{d}
+
+'''\pi''' can also be calculated by only using mathematical methods. Most methods used for calculating the value of \pi have desirable mathematical properties. However, they are hard to understand without knowing trigonometry and calculus. However, some methods are quite simple, such as this form of the Gottfried Leibniz|Gregory-Leibniz series:
+
+: \pi = \frac{4}{1}-\frac{4}{3}+\frac{4}{5}-\frac{4}{7}+\frac{4}{9}-\frac{4}{11}\,\ldots 
+
+While that series is easy to write and calculate, it is not easy to see why it equals \pi. A much easier way to approach is to draw an imaginary circle of radius '''r''' centered at the origin. Then any point (x,y) whose distance '''d''' from the origin is less than '''r''', calculated by the Pythagorean theorem, will be inside the circle:
+
+: d = \sqrt{x^2+y^2}
+
+Finding a set of points inside the circle allows the circle's area '''A''' to be estimated, for example, by using integer coordinates for a big '''r'''. Since the area '''A''' of a circle is \pi times the radius squared, \pi can be approximated by using the following formula:
+
+: \pi = \frac{A}{r^2} 
+
+ Calculating the area, circumference, diameter and radius of a circle 
+
+= Area =
+Using its radius: A = \pi r^2
+
+Using its diameter: A=\frac{\pi d^2}{4}
+
+Using its circumference: A=\frac{C^2}{4\pi}
+
+= Circumference =
+Using its diameter: C = \pi d
+
+Using its radius: C = 2\pi r
+
+Using its area: C = 2\sqrt{\pi A}
+
+= Diameter =
+Using its radius: d = 2r
+
+Using its circumference: d=\frac{C}{\pi}
+
+Using its area: d=2\sqrt\frac{A}{\pi}
+
+= Radius =
+Using its diameter: r=\frac{d}{2}
+
+Using its circumference: r=\frac{C}{2\pi}
+
+Using its area: r=\sqrt\frac{A}{\pi}
+
+Related pages
+ Semicircle
+ Sphere
+ Squaring the circle
+Pi
+Pi (letter)
+ Tau
+
+Category:Conic sections

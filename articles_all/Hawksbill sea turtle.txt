@@ -1,0 +1,36 @@
+{{Taxobox
+| name = Hawksbill sea turtle
+| status = CR
+| status_system = iucn2.3
+| status_ref =
+| image_caption = ''Eretmochelys imbricata'' 
+| image = Hawksbill Turtle.jpg
+| image_width = 240px
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Reptile|Reptilia
+| ordo = Testudines
+| familia = Cheloniidae
+| genus = '''''Eretmochelys'''''
+| binomial = ''Eretmochelys imbricata''
+| binomial_authority = Carolus Linnaeus|Linnaeus, 1766
+| range_map = Hawksbill_turtle_range_map.png
+| range_map_width = 240px
+| range_map_caption = Range of the Hawksbill turtle}}
+
+The '''hawksbill sea turtle''' or '''hawksbill turtle''' (''Eretmochelys imbricata'') is an endangered species of turtle. 
+
+It is mostly seen in shallow lagoons and coral reefs where its food is. It is smaller than the Australia|Australian flatback turtle: it is usually a little more than two feet long. It usually weighs about 150 pounds. It has the most pointed beak among sea turtles, which is how it gets its name. The hawksbill gets food from inside coral reefs, eating sponges, shrimp, squid, and other invertebrates. The hawksbill pointy beak helps the turtle get food out of the tiny cracks and holes in which it searches.
+
+Though they are sometimes seen in American waters, hawksbill turtles almost always nest in the warmer climate|climates that run along the equator. Because people use the shell to make jewelry and other things, the hawksbill turtle is endangered.
+
+
+
+
+
+
+
+
+category:Turtles
+Category:Marine reptiles
+Category:Critically endangered species

@@ -1,0 +1,6 @@
+A '''countdown''' is a series of numbers getting lower in value towards 0|zero. Usually something will happen when the counter finishes.
+
+
+
+
+Category:Time

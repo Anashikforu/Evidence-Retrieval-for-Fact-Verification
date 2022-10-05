@@ -1,0 +1,36 @@
+{{Infobox government agency
+|agency_name     = United States Department of Agriculture
+|logo            = USDA_logo.svg
+|logo_width      = 140px
+|logo_caption    = Logo of the U.S. Department of Agriculture
+|picture         = Flag of the United States Department of Agriculture.svgborder
+|picture_caption = Flag of the U.S. Department of Agriculture
+|seal            = Seal of the United States Department of Agriculture.svg
+|seal_width      = 140px
+|seal_caption    = Seal of the U.S. Department of Agriculture
+|formed          = Cabinet status: February 15, 1889
+|preceding1      = Agricultural Division
+|dissolved       =
+|superseding     =
+|jurisdiction    = Federal government of the United States|U.S. federal government
+|headquarters    = Jamie L. Whitten Building1301 Independence Avenue (Washington D.C.)|Independence Avenue, S.W., Washington, D.C.
+|coordinates     = 
+|employees       = 105,778 (June 2007)
+|budget          = United States dollar|US$151 billion (2017)
+|chief1_name     = Tom Vilsack
+|chief1_position = United States Secretary of Agriculture|Secretary 
+|chief2_name     = Jewel H. Bronaugh
+|chief2_position = United States Deputy Secretary of Agriculture|Deputy Secretary
+|parent_agency   =
+|website         = 
+|footnotes       =
+|chief3_name=|chief3_position=|chief4_name=|chief4_position=|chief5_name=|chief5_position=|chief6_name=|chief6_position=|chief7_name=|chief7_position=|chief8_name=|chief8_position=|chief9_name=|chief9_position=|parent_department=}}
+The '''United States Department of Agriculture''' (also called the '''Agriculture Department''', or '''USDA''') is a United States federal executive departments|United States Federal Executive Department (or ''United States Cabinet|Cabinet Department''). Its purpose is to develop and execute policy on farming, agriculture, and food. 
+
+
+
+
+
+
+Category:United States Department of Agriculture|United States Department of Agriculture
+Category:1889 establishments in the United States

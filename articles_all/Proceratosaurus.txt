@@ -1,0 +1,22 @@
+
+{{Taxobox
+| name = '''''Proceratosaurus'''''
+| image = Proceratosaurus skull.png
+| status = fossil
+| fossil_range = Middle Jurassic
+| regnum = Animalia
+| classis = Reptile|Sauropsida
+| superordo = Dinosauria
+| ordo = Saurischia
+| subordo = Theropoda
+| infraordo = Coelurosauria
+| superfamilia = Tyrannosauroidea
+| familia = Proceratosauridae
+| genus = '''''Proceratosaurus'''''}}
+
+'''''Proceratosaurus''''' was a small dinosaur from the Middle Jurassic, about 165 million years ago. It was found in Gloucestershire, England, in 1910. It was a  carnivore|carnivorous theropod.
+
+''Proceratosaurus'' was first believed to be an early ancestor of ''Ceratosaurus'', but it was actually an ancestor of the coelurosaurs. Thus, it was an early ancestor of ''Tyrannosaurus'' and its relatives in the Upper Cretaceous.Holtz, Thomas 1998. A new phylogeny of the carnivorous dinosaurs. ''Gaia'' '''15''': 5–61.Oldest T. rex relative identified". BBC News. 2009. 
+The animal in life was about 3m long and weighed up to 60kg.
+
+Category:Coelurosaurs

@@ -1,0 +1,28 @@
+An '''N-type semiconductor''' is a impurity mixed semiconductor material used in electronics. 
+
+The pentavalent impure atoms like phosphorus, arsenic, antimony, bismuth or some other chemical element are used to produce n-type semiconductors. These impure atoms are called donor impurities because they give free electron|electrons to a semiconductor. The doping increases the number of charge carriers in the material for Electrical conductivity|conduction (read more: 
+Introduction
+Semiconductor materials like silicon and germanium have four electrons in their outer shell. The outer shell of electrons is called the valence shell. The four electrons are used by the semiconductor atom in forming bonds with its neighboring atoms. This leaves a low number of electrons available for conduction. 
+
+Pentavalent elements are those elements which have five electrons in their outer shell. To make the n-type semiconductor, pentavalent impurities like phosphorus or arsenic are added. Four of the impurities' electrons form bonds with the surrounding silicon atoms. This leaves one electron free. The resulting material has a large number of free electrons. Since electrons are negative charge carriers, the resultant material is called an n-type (or negative type) semiconductor. The pentavalent impurity that is added is called a 'dopant' and the process of addition is called 'doping'.
+
+Manufacture
+N-type semiconductors are manufactured by doping pure semiconductor material. The amount of impurity added is very small compared to the amount of semiconductor. The way this new semiconductor works is changed by controlling the quantity of the dopant.
+
+ Properties 
+
+# n-type semiconductors are not the pure semiconductors. They are extrinsic semiconductors.
+# To get n-type semiconductor, pentavalent atoms like Arsenic (As), Phosphorus (P) are doped in an intrinsic semiconductor like Si, Ge etc.
+# Majority carriers in n-type semiconductors are free electrons. That means concentration of free electrons in n-type semiconductor is greater than the concentration of holes.
+# n-type semiconductors can be converted into intrinsic or pure semiconductor by increasing its temperature to a high value.
+
+ Examples 
+Arsenic doped Silicon, Phosphorus doped Silicon, Arsenic doped Germanium, Phosphorus doped Germanium etc. are the examples of n-type semiconductor.
+
+Related pages
+ Semiconductor
+P-type semiconductor|P-type Semiconductor
+
+Other websites
+ 
+Category:Electronic components

@@ -1,0 +1,37 @@
+{{Infobox Planet   | bgcolour=#FFFFC0 | name=85 Io
+ | discoverer=Christian Heinrich Friedrich Peters|C. H. F. Peters
+ | discovered=September 19, 1865
+ | alt_names=A899 LA; A899 UA
+ | mp_category=Main belt
+ | epoch=March 6, 2006 (Julian day|JD 2453800.5)
+ | semimajor=396.837 Giga|Gmetre|m (2.652 Astronomical unit|AU)
+ | perihelion=320.334 Gm (2.141 AU)
+ | aphelion=473.341 Gm (3.164 AU)
+ | eccentricity=0.193
+ | period=1578.081 day|d (4.32 Julian year (astronomy)|a)
+ | inclination=11.967degree (angle)|°
+ | asc_node=203.440°
+ | arg_peri=122.293°
+ | mean_anomaly=206.947°
+ | avg_speed=18.12 km/second|s
+ | dimensions=180×160×160 km | mass=~3.4×1018 ''(estimate)''
+ | density=~1.4 g/cubic centimetre|cm³ ''(estimate)''#Krasinsky|5
+ | surface_grav=~0.028 m/s² ''(estimate)''
+ | escape_velocity=~0.07 km/s ''(estimate)''
+ | rotation=0.2864 d (6.875 hour|h)  | spectral_type=C-type asteroid
+ | abs_magnitude=7.61
+ | albedo=0.067  | single_temperature=~172 kelvin|K''max:'' 272K (-2° celsius|C)}}
+
+'''85 Io''' is a big, dark Asteroid belt|Main belt asteroid of the C-type asteroid|C spectral class. It is probably a primitive body made of carbonates. Like 70 Panopaea it orbits within the Eunomia family|Eunomia asteroid family but it is not related to the shattered parent body.
+
+Io is a Prograde and retrograde motion|retrograde rotator, with its pole pointing towards one of ecliptic coordinate system|ecliptic coordinates (β, λ) = (-45°, 105°) or (-15°, 295°) with a 10° uncertainty#Torppa2003|1. This gives an axial tilt of about 125° or 115°, respectively. Its shape is quite Sphere|spherical.
+
+It was found by Christian Heinrich Friedrich Peters|C. H. F. Peters on September 19, 1865 and named after Io (mythology)|Io, a lover of Zeus in Greek mythology.
+
+A diameter of 178 kilometres was measured from an occultation of a star on December 10, 1995 #Erikson99|4.
+
+Io (moon)|Io is also the name of the volcanic Satellite (natural)|moon of Jupiter (planet)|Jupiter. With a two-digit number and a two-letter name, 85 Io has the shortest designation of all minor planets.
+
+ Other websites 
+ 
+Category:Asteroids

@@ -1,0 +1,20 @@
+When dealing with money, '''denomination''' is the value of the individual currency. 
+
+For example a one US dollar|dollar bill, a 100 US dollar|dollar bill, a penny and a Quarter#Money|quarter are all different denominations of money. A one US dollar|dollar bill and a one US dollar|dollar coin are the same denomination as they are the same value.
+
+Monetary union
+When countries form a monetary union, redenomination may be required and the conversion ratio is often not a nice even number, or even less than 1.
+
+
+Decimalisation
+When countries that had a "Pound (currency)|pound (£) - shilling|shilling (s) - penny|pence (d)" (£sd) currency system converted to a system which had pounds (£) and pennies (p) or dollars ($) and cents (¢) it was called decimalisation. In the £sd system, £1 = 20s and 1s = 12d, so £1 = 240d. However in the new systems £1 = 100p or $1 = 100¢ or 100c - a base 10|decimal-based system, hence the word "decimalised".
+
+
+
+Related pages
+ Inflation
+
+
+
+
+Category:Currency

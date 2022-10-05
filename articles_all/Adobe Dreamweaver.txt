@@ -1,0 +1,32 @@
+
+'''Dreamweaver''' is a computer program that is used to make web pages. It was created by Macromedia. Macromedia is now owned by Adobe Systems. It can be used on either Microsoft Windows|Windows computers or Apple Macintosh|Macintosh computers. It can be used to make Cascading Style Sheets|CSS, JavaScript, and other web technologies.
+
+ Syntax highlighting 
+Version 6 of Dreamweaver allows syntax highlighting for the following languages out of the box:
+
+ ActionScript
+ Active Server Pages (ASP)
+ ASP.NET
+ C Sharp (programming language)|C#
+ Cascading Style Sheets (CSS)
+ ColdFusion
+ EDML
+ Extensible HyperText Markup Language (XHTML)
+ Extensible Markup Language (XML)
+ Extensible Stylesheet Language Transformations (XSLT)
+ Java (programming language)|Java
+ JavaScript
+ JavaServer Pages (JSP)
+ PHP: Hypertext Preprocessor (PHP)
+ Visual Basic (VB)
+ VBScript|Visual Basic Script Edition (VBScript)
+ Wireless Markup Language (WML)
+
+ Other websites 
+  
+
+
+
+
+
+Category:Adobe software

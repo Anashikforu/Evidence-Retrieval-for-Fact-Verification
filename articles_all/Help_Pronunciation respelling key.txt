@@ -1,0 +1,39 @@
+This is an English '''pronunciation respelling key''' that may be used in Wikipedia articles. By using a simpler spelling of words, it helps readers of articles to learn how to pronunciation|pronounce (say) words that they are not familiar with.
+
+If you have come here because a respelled pronunciation was used in an article, look at the tables below to find out how to pronounce the word.
+
+The method is simple to understand because it does not use any special symbols except the schwa ("ə"), which represents the "''uh''" sound. Another way of showing how to pronounce words is to use the International Phonetic Alphabet (IPA). The IPA can be used to show the sounds in a word very accurately, without ambiguity, but it uses many special symbols that are not required in the 'respelling' approach.
+
+Consonants
+Consonant sounds should be pronounced as shown below: 
+
+
+
+Vowels
+Vowel sounds should be pronounced as shown below:
+
+
+
+Optional sounds
+When a certain sound is pronounced by some speakers but not by others, the sound is put inside parentheses (round brackets). It is correct to say the word either with or without the sound. For example, the respelled pronunciation of the word ''truism'' is "''TROO-i-z(ə)m''". It can either be pronounced "''TROO-i-zəm''" or "''TROO-i-zm''".
+
+Syllables and stress
+A syllable is the smallest block of sound that a person can make when he or she speaks. Words can have one or more syllables. For example, ''cat'' is a one-syllable word, ''tortoise'' (pronounced ''TAW-tis'') has two syllables, and ''dinosaur'' (pronounced ''DYE-nə-saw'') has three syllables. In this system of respelled pronunciation, the syllables in a word are separated by hyphens ("-").
+
+When a word has more than one syllable, some syllables are usually given more emphasis than others when the word is spoken. In linguistics, this emphasis is called "stress". The stress in a word is shown by writing the syllable in SMALL CAPITAL LETTERS.Wikipedia editors can create small capital letters like this: "THIS SENTENCE IS IN SMALL CAPITAL LETTERS".
+
+In a long word with many syllables, different types of stress are often given to different syllables. Linguists can tell the difference between heavier "primary stress" and lighter "secondary stress". To keep things simple, this respelled pronunciation system does not show the difference between these two types of stress. Readers can usually work out for themselves where the primary and secondary stresses should be.
+
+
+
+See also
+Help:Pronunciation
+International Phonetic Alphabet
+IPA chart for English
+ &ndash; a template that can be used to indicate respelled pronunciation
+
+Notes
+
+
+Category:Help
+Category:Pronunciation

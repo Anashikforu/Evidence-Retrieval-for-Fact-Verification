@@ -1,0 +1,44 @@
+
+
+|subdivision_type1=Counties of Romania|County
+|subdivision_name1=
+|subdivision_type2=Metropolitan Areas in Romania|Metropolitan area
+|subdivision_name2=Cluj-Napoca metropolitan area
+|subdivision_type3=Subdivisions of Romania|Status
+|subdivision_name3=
+|settlement_type = Municipiu|City
+|leader_title=Mayor
+|leader_name=Emil Boc
+|leader_party=National Liberal Party (Romania)|PNL
+|leader_title1 = Deputy Mayor
+|leader_name1 = Gheorghe Șurubaru (PNL)
+|leader_title2 = Deputy Mayor
+|leader_name2 = Anna Horváth (Democratic Union of Hungarians in Romania|UDMR)
+|established_title=Founded
+|established_date=1213 (first official record as ''Clus'')
+|area_total_km2=179.5
+|area_total_sq_mi=69.3
+|area_metro_km2=1537.5
+|elevation_m = 340
+|population_as_of = 2011
+|population_total = 324,576
+|population_footnotes = 
+|population_density_km2 =1808
+|pop_est_as_of = 2016
+|population_est = 321,687
+|pop_est_footnotes = 
+|population_metro=411,379
+|coordinates = 
+|postal_code_type=List of postal codes in Romania|Postal Code
+|postal_code=400xyz1
+|area_code=Romania telephone area codes|+40 x642
+|blank_name=Romanian car number plates|Car Plates
+|blank_info=CJ-N3
+|footnotes=1x, y, and z are digits that indicate the street, part of the street, or even the building of the address2x is a digit indicating the operator: 2 for the former national operator, Romtelecom, and 3 for the other ground telephone networks3used just on the plates of vehicles that operate only within the city limits (such as trolley buses, trams, utility vehicles, All-terrain vehicle|ATVs, etc.)
+|website=
+|image_caption = From left: St. Michael's Church, Cluj-Napoca|St. Michael's Church • Romanian National Opera, Cluj-Napoca|Romanian National Opera • Cluj-Napoca Tailors' Bastion|Tailors' Bastion • Mihai Viteazul Square • Cluj Arena}}
+'''Cluj-Napoca''' (pronunciation in Romanian language|Romanian: ), until 1974 ''Cluj'', is the third biggest city in Romania, and is the capital city of Cluj County, in the north-western part of Transylvania. Bucharest is about 330 kilometers away from Cluj-Napoca. About 330,000 people live in the city. It also has some famous university|universities and a rich history as the capital city of Transylvania.
+
+In the west of Cluj-Napoca is the Hoia-Baciu Forest. There is a bicycle park and other sport activities like paintball, airsoft or archery.
+
+Category:Transylvania

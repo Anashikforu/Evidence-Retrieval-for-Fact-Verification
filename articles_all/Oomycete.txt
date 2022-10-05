@@ -1,0 +1,24 @@
+{{Taxobox
+| name = Oomycetes
+| image = Water mold.JPG
+| image_width = 250px
+| regnum = Protista
+| phylum = Heterokontophyta
+| classis = '''Oomycetes'''}}
+
+The '''Oomycota''' are a class (biology)|class in a huge phylum of eukaryotic microorganisms called the Heterokonts. '''Oomycetes''' are a distinct Phylogeny|phylogenetic lineage of fungus-like microorganisms.
+
+They are not actually fungi, though some have filaments as fungi do. Like fungi, they are Saprophyte|saprophytic and pathogenic. also like fungi, oomycetes rarely have septa,Septum: a wall which divides one cell from another. and if they do, they are scarce.Kortekamp A. (2005). Growth, occurrence and development of septa in ''Plasmopara viticola'' and other members of the Peronosporaceae using light- and epifluorescence-microscopy. ''Mycological research'' '''109''' (Pt 5): 640–648. 
+They are microscopic organisms that reproduce both sexually and asexually. Oomycetes are some of the most prolific pathogens of plants, causing devastating diseases such as potato blight and sudden oak death.
+
+They are often referred to as '''water moulds''' (or moulds), although the water-loving nature which led to that name is not true of most species, which are terrestrial pathogens.
+
+ Reproduction 
+
+
+Most oomycetes produce two types of spores. The main dispersing spores are asexual, self-mobile spores called zoospores. These do chemotaxis (movement toward, for example, a food source) in surface water. A few oomycetes produce asexual spores that are distributed by wind. Oomycetes also produce sexual spores, called oospores. These are translucent, double-walled, spherical structures which can survive adverse conditions.
+
+ Notes 
+
+
+Category:Protista

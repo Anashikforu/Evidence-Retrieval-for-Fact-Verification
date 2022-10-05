@@ -1,0 +1,20 @@
+
+
+An '''ellipse''' from Greek language|Greek ἔλλειψις ''elleipsis'', a "falling short" is a shape that looks like an oval or a flattened circle. 
+
+In geometry, an '''ellipse''' is a plane (mathematics)|plane curve which results from the intersection of a cone by a plane (mathematics)|plane in a way that produces a closed curve.  
+
+Circles are special cases of ellipses, obtained when the cutting plane is perpendicular to the cone's axis.  An ellipse is also the Locus (mathematics)|locus of all points of the plane whose distances to two fixed points add to the same constant.
+
+Image:Elipse.svg|thumb|right|150px|An ellipse and its properties.
+Image:locating_the_foci_of_an_ellipse.svg|thumb|150px|The foci (purple crosses) are at intersects of the major axis (red) and a circle (cyan) of radius equal to the semi-major axis (blue), centred on an end of the minor axis (grey)
+A circle has one center, called a focus, but an ellipse has two foci. 
+
+An ellipse is simply all points on a graph that the sum of the distances from 2 points are the same. For example, an ellipse can be made by putting two pins into cardboard and a circle of string around those two, then putting a pencil in the loop and pulling as far as possible without breaking the string in all directions. The orbits of the planets are ellipses, with the sun at one focus and nothing at the other.  
+
+The equation of an ellipse is :\frac{(x-h)^{2}}{a^{2}} + \frac{(y-k)^{2}}{b^{2}} = 1   
+where the center of the ellipse is (h,k). 2A is the length from each end of the longer skinnier side.  2b is the length of the 2 ends of the short side.  A²-B²=C² for c is the length between the foci and the center.
+
+Other websites
+    
+Category:Conic sections

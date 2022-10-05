@@ -1,0 +1,21 @@
+{{Taxobox
+| name = ''Euterpe'' 
+| image = Açaizeiro no palácio.JPG
+| regnum = Plantae
+| divisio = Flowering plant|Magnoliophyta
+| classis = Liliopsida
+| ordo = Arecales
+| familia = Arecaceae
+| genus = ''Euterpe (plant)|Euterpe''
+| binomial = ''Euterpe oleracea''}}
+
+The '''Açaí palm''' ('''Assai palm''') is a type of palm tree|palm tree. There are seven different types of  Açaí palms.
+The palms are mainly used for two things: First, salads called palmitos (heart of palm) can be made from the leaves; for this, the tree needs to be cut down. Secondly, the fruits can be made into a fruit juice that is said to be very healthy.
+
+Images
+
+Image:Açai no Mercado do Ver-o-peso.jpg|The fruits on a market, in Belem
+Image:Açaí.jpg|A typical serving of açaí juice
+
+
+Category:Fruits

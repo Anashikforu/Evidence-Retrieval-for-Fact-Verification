@@ -1,0 +1,42 @@
+{{Infobox national football team
+| Name           = Solomon Islands
+| Badge          = 
+| Nickname       = Bonitos
+| Association    = Solomon Islands Football Federation
+| Confederation  = Oceania Football Confederation|OFC (Oceania)
+| Coach          =  Wim Rijsbergen
+| Most caps      = Henry Fa'arodo (61)
+| Top scorer     = Commins Menapi (34)
+| Home Stadium   = Lawson Tama Stadium
+| FIFA Trigramme = SOL
+| FIFA Rank      = 
+| FIFA max       = 120
+| FIFA max date  = October 2007, April 2008
+| FIFA min       = 200
+| FIFA min date  = January–March 2016
+| Elo Rank       = 
+| Elo max        = 94
+| Elo max date   = September 2004
+| Elo min        = 171
+| Elo min date   = 7 November 2016
+| pattern_la1      =
+| pattern_b1       = _amberbow
+| pattern_ra1      =
+| leftarm1         = 003300
+| body1            = 003300
+| rightarm1        = 003300
+| shorts1          = 003399
+| socks1           = FFFFFF
+| pattern_la2=_solomon islands1516a|pattern_b2=_solomon islands1516a|pattern_ra2=_solomon islands1516a
+| leftarm2=|body2=|rightarm2=|shorts2=009900|socks2=009900
+| First game     =  (Suva, Fiji; 30 August 1963)
+| Largest win =  (Papeete, Tahiti; 21 August 1995)
+| Largest loss   =   (Suva, Fiji; 6 September 1963)
+| Regional name      = OFC Nations Cup
+| Regional cup apps  = 5
+| Regional cup first = 1980 OFC Nations Cup|1980
+| Regional cup best  = Runners-up, 2004 OFC Nations Cup|2004
+|abolished=}}
+'''Solomon Islands national football team''' is the national football (soccer)|football team of Solomon Islands.
+
+Category:Solomon Islands|National football team

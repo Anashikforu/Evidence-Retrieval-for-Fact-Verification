@@ -1,0 +1,38 @@
+The '''Stanford Prison Experiment''' (SPE) was a psychology experiment to see the effects of becoming a prisoner or a prison guard on human behaviour and psychology.Zimbardo, P. G., Haney, C., Banks, W. C., & Jaffe, D. (1971). ''The Stanford prison experiment''. Zimbardo, Incorporated. 
+The Stanford Prison Experiment is used in many introductory psychology textbooks to show the impact of power and authority on human behaviour. The experiment is controversial for a few reasons: :en:Demand_characteristics|demand characteristics, which causes the participants to behave in the way they think the researcher wants them to behave. There are other ethical issues with the SPE, and Zimbardo has been criticised for interpreting the results to fit his previous expectations. 
+
+Psychological themes
+The experiment also had certain problems:
+Prisoners were anonymous; they were referred to by a number
+Rules were very important; they were also an important means to guide behaviour
+Cognitive dissonance
+Peer pressure
+
+ Methods 
+Zimbardo and his colleagues made an advert in the Palo Alto City newspaper for a study of the psychological effects of prison life on college students. The participants were to be paid 15$ a day. They did psychological tests and interviews to make sure that the participants were psychologically healthy, with no history of crime or drug abuse or any medical disabilities. The 24 participants were randomly assigned to either be a ‘guard’ or a ‘prisoner’ based on a coin flip.  
+
+They made the fake prison in the basement of the Stanford Psychology Department building. There was a closet which they called ‘the hole’, which served as solitary confinement. There were no windows or clocks, which meant the 'prisoners' had time-altering experiences. Three 'prisoners' were in each of the three cells (offices). 
+
+The ‘prisoners’ were arrested and held in the detention cells of the Palo Alto Police Department, then escorted to the ‘Stanford County Jail’. Upon arrival, they were stripped naked, deloused, and given a uniform. The uniform was a dress with no underclothes, a chain around their ankle, stocking caps to mimic a prisoner’s shaved head, and they were each assigned a prison number which became their new 'name'. The 'guards' had a uniform of khaki, a baton, reflective sunglasses (to make them more anonymous), and a whistle around their neck.
+
+The 'guards' worked on eight hour shifts, with three 'guards' working at any one time. The 'prisoners' had to perform 'counts' several times a day and night, where they had to call their prison number out loud, to enforce the feeling of authority from the guards. The experiment was intended to run for two weeks, but after 6 days had to be abandoned because the guards became more abusive towards the prisoners.
+
+ Criticism and response 
+
+= Demand characteristics =
+The SPE has been criticised for having strong :en:Demand_characteristics|demand characteristics, which is where participants act the way they think the researchers want them to act. In an experiment to test the extent of the demand characteristics in the SPE, Banauzzi and Mohavedi asked 150 students to predict the results of the SPE, and 89.9% predicted that the 'guards' would act in an oppressive, hostile nature towards the 'prisoners'. So, the participants in the experiment could also have predicted how they were supposed to act, and act in this way, to please the researchers. 
+
+
+
+In his book, :en:The_Lucifer_Effect|The Lucifer Effect, Zimbardo explained that he told the participants how they were supposed to behave:We can create boredom. We can create a sense of frustration. We can create fear in them, to some degree. We can create a notion of the arbitrariness that governs their lives, which are totally controlled by us, by the system, by you, me.…They’ll have no privacy at all, there will be constant surveillance—nothing they do will go unobserved. They will have no freedom of action. They will be able to do nothing and say nothing that we don’t permit. We’re going to take away their individuality in various ways.…In general, what all this should create in them is a sense of powerlessness. We have total power in the situation. They have none.
+
+Peter Gray publicly stated why he hasn’t included the SPE in his introductory psychology textbooks, explaining that by remaining silent when the guards abused the prisoners, Zimbardo was approving of their methods of intimidation. And the guards who were less assertive were instructed to be ‘tougher’- For example, Warden Jaffe (one of Zimbardo’s student research associates) said to one of the ‘nicer’ guards,“The guards have to know that every guard has to be what we call a ‘tough guard.’ The success of this experiment rides on the behavior of the guards to make it seem as realistic as possible” (pp. 65)There was direct instruction to behave more assertively, and approval of the behaviour of the 'tough guards'. 
+
+= Situationist interpretation of results =
+About a third of the guards became :en:Sadistic_personality_disorder|sadistic, Authoritarianism|authoritarian guards. 2/3 of the 11 guards acted in a humane way, which critics argue goes against Zimbardo's interpretation of the results that good people can turn evil in the right environment.
+
+Movies about the events
+There has been a lot of interest for the events in the media. At least the following movies were made:
+A German movie (''Das Experiment''/''The Experiment''), of 2001; based on a book by Mario Giordano
+A US movie of 2010 (also called ''The Experiment'')
+

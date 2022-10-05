@@ -1,0 +1,52 @@
+
+
+'''Potassium permanganate''' is an inorganic chemical compound. Its chemical formula is potassium|Kmanganese|Mnoxygen|O4. It contains potassium and permanganate ions. The manganese is in the +7 oxidation state. It is also known as '''permanganate of potash''' and '''Condy's crystals'''. Potassium permanganate is a strong oxidizing agent, which means it has a tendency to take electrons from other chemicals. It dissolves in water to give purple solutions. If it is evaporation|evaporated, it makes purple-black shiny crystals. It has a sweet taste and is odorless.
+
+History
+In 1659, a German chemist, Johann Rudolf Glauber, melted a mixture of the mineral pyrolusite and potassium carbonate to obtain a material that made a green solution (potassium manganate) when dissolved in water. It slowly changed colour to violet ('''potassium permanganate''') and then finally red. This report is the first description of the production of potassium permanganate.
+
+Just under 200 years later a Londoner named Henry Bollmann Condy was a chemist. He had an interest in disinfectants and made some things like ''ozonised water''. He found that when he melted pyrolusite with sodium hydroxide and dissolved it in water, it made a solution that had good disinfectant properties. He patented this solution, and sold it as ''Condy's Fluid''. The problem was that the solution was not very stable. This was fixed by using potassium hydroxide rather than sodium hydroxide. This gave a more stable material. It also was able to be dried to the just as good potassium permanganate powder. This powder was called ''Condy’s crystals'' or ''Condy’s powder''. Potassium permanganate was easy to make so Condy tried to stop other people from making it and selling it themselves.
+
+Early photographers used it in flash powder.
+
+Uses
+=Chemical applications=
+Potassium permanganate is used as an oxidizing agent. It also is used in disinfectants and in deodorizers. It can be used to make many different kinds of chemicals. In waste water treatment, it is used to get rid of hydrogen sulfide, a stinky toxic gas. In analytical chemistry, an accurate concentration of KMnO4 is sometimes used to see how much of a certain reducing agent is in the titration. In a related way, it is used as a reagent for wood pulp. Mixing potassium permanganate and formaldehyde makes a mild tear gas.
+
+=As an oxidant in organic synthesis=
+Dilute solutions of KMnO4 convert alkenes into diols (glycols). This behaviour is also used as a qualitative analysis|qualitative chemical test|test for the presence of double or triple bonds in a molecule, since the reaction makes the permanganate solution colorless. It is sometimes referred to as Baeyer's reagent.
+
+Concentrated solutions oxidize a methyl group on an aromatic ring, e.g. toluene to benzoic acid.
+
+KMnO4 oxidizes pseudoephedrine hydrochloride to produce methcathinone, a Schedule I drug in the United States. Consequently, the Drug Enforcement Administration|DEA has restricted its use and sale by classifying it as a List I controlled precursor. Potassium permanganate is listed as a Table I precursor under the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances.
+
+=Acids and Potassium Permanganate=
+Concentrated sulfuric acid reacts with potassium permanganate to give manganese(VII) oxide, which can be explosive. . This reaction also makes ozone. The ozone can ignite paper soaked in alcohol. This reaction is very dangerous.
+
+:6 KMnO4 + 9 H2SO4 → 6 MnSO4 + 3 K2SO4 + 9 H2O + 5 O3
+
+Concentrated HCl makes chlorine.
+
+:2 KMnO4 + 16 HCl → 2 MnCl2 + 2 KCl + 8 H2O + 5 Cl2
+
+The Mn-containing products from redox reactions depend on the pH. Acidic solutions of permanganate are reduction (chemistry)|reduced to the faintly pink Mn2+ ion, as in manganese(II) chloride. In pH|neutral solution, permanganate is reduced to brown manganese(IV) oxide, where Mn is in a +4 oxidation state. Manganese(IV) oxide is the stuff that stains skin when potassium permanganate is put on it. Potassium permanganate spontaneously reduces in an base (chemistry)|basic solution to green-coloured potassium manganate, where manganese is in the +6 oxidation state.
+
+=Biomedical uses=
+ Dilute solutions are used as a treatment for canker sores (ulcers) (0.25%), disinfectant for the hands (about 1%) and treatment for mild pompholyx dermatitis or fungal infections of the hands or feet.
+ A dilute solution of acidified potassium permanganate is used in histology to bleach melanin which obscures tissue detail.
+ Potassium permanganate can be used to differentiate amyloid AA from other types of amyloid pathologically deposited in body tissues. Incubation of fixed tissue with potassium permanganate will prevent amyloid AA from staining with congo red whereas other types of amyloid are unaffected.
+
+=Miscellaneous uses=
+
+ Solutions of KMnO4 have been used together with 80% hydrogen peroxide to propel a rocket. In this use, it was called Z-Stoff. This propellant is still used in torpedoes.
+ A dilute (10&nbsp;mg/l) of potassium permanganate can be used to eliminate snails from plants prior to placing them in a fresh-water aquarium.
+ High-grade potassium permanganate can be found at swimming pool|pool supply stores and is used in rural areas to remove iron and hydrogen sulfide (rotten egg smell) from water well|well water.
+ KMnO4 is often included in survival kits along with either glycerine or a glucose tablet for making fire. The glucose tablet can be ground up, mixed with the potassium permanganate and it will burn if rubbed. It can also be mixed with anti-freeze from a vehicle to make fire. Doing this can be dangerous and should be done carefully by dipping some paper into the anti-freeze and then adding a small amount of potassium permanganate. It can also Sterile|sterilize water and wounds so it is useful in a survival kit.
+ KMnO4 is employed to treat some parasitic diseases of fish, in treatment of drinking water, as well as an antidote in phosphorus poisoning. In Africa, it has been used as a disinfectant for vegetables such as lettuce.
+
+Hazards
+Solid potassium permanganate is a strong oxidizer and in general it should be kept separated from reducing agents. Some reactions need a bit of water. For example, powdered potassium permanganate and powdered sugar will ignite (but not explode) a few seconds after a drop of water is added. Dilute solutions of KMnO4 are not dangerous. KMnO4 forms dangerous products when mixed with concentrated acids.
+
+Potassium permanganate stains skin and clothing and should be handled with care. Clothing stains may be washed away using acetic acid. Skin stains disappear within 48 hours.
+
+Category:Manganese compounds

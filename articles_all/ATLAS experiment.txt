@@ -1,0 +1,6 @@
+Image:CERN Atlas Caverne.jpg|thumb|ATLAS experiment detector under construction in October 2004 in its experimental pit; the current status of construction can be seen on the CERN website. Note the people in the background, for comparison.
+'''ATLAS''' ('''A''' '''T'''oroidal '''L'''HC '''A'''pparatu'''S''') is the biggest experiment at the Large Hadron Collider (LHC).
+
+It is one of the seven particle detector experiments (A Large Ion Collider Experiment|ALICE, ATLAS, Compact Muon Solenoid|CMS, TOTEM, LHCb, and LHCf) wikt:built|built at the LHC.  LHC is a new particle accelerator at the European Organization for Nuclear Research (CERN) in Switzerland. ATLAS is 46&nbsp;metres long and 25&nbsp;metres in diameter, weighing about 7,000&nbsp;tonnes. The project is led by Fabiola Gianotti. The project has 2,000 scientists and engineers at 165 institutions in 35 countries. --> ATLAS studies highly massive elementary particle|particles which could not be studied using earlier lower-energy accelerators. ATLAS may start new theory|theories of particle physics beyond the Standard Model.
+
+Category:Nuclear physics

@@ -1,0 +1,33 @@
+
+
+
+
+
+
+Here is a basic key to the symbols of the International Phonetic Alphabet (IPA). Several rare IPA symbols are not included. These IPA symbols are found in the International Phonetic Alphabet|main IPA article.
+ 
+
+Main symbols
+<!-- PLEASE READ BEFORE ADDING EXAMPLES OR LANGUAGES TO THE KEY
+This key is intended for newbies to the IPA and should therefore be kept as short and sweet as possible. Descriptions should be brief, without technical terms like "back vowel" or "labial" or "fricative"; and examples should be from familiar languages that are ''well described phonetically''.
+-->
+
+
+
+
+ Marks added to letters 
+Several marks can be added above, below, before or after letters. The complete list is shown at .
+
+
+ Computer input using on-screen keyboard 
+Online IPA keyboard utilities are available.
+
+    
+
+For iOS there are free IPA keyboard layouts, e.g. 
+ Related pages 
+Diphthong|IPA charts for diphthongs in various languages
+
+ Other websites 
+
+Category:International Phonetic Alphabet help

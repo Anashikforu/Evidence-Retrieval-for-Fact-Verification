@@ -1,0 +1,68 @@
+A '''BitTorrent client''' is a software|program that downloads files using the BitTorrent (protocol)|BitTorrent protocol.
+
+The first client, known as BitTorrent (software)|BitTorrent, was created by Bram Cohen in the summer of 2002. Most of the other clients are based in part on BitTorrent. Programs that use BitTorrent protocol are:
+
+ABC (BitTorrent client)|ABC
+Acquisition
+Anatomic P2P 	
+Arctic Torrent
+aria2 	
+Azureus 	
+BiglyBT
+BitComet
+BitFlu
+BitLet 
+BitLord 	 	
+BitPump 	
+BitTornado 	
+BitTorrent 5 / Mainline 		
+BitTorrent 6 	
+BitSpirit 	
+Bits on Wheels 	
+BitTyrant 	
+Blizzard Downloader 	
+Blog Torrent 	
+BTPD 	
+BTSharp (library) 	
+burst!
+CTorrent 
+Deluge 	
+FlashGet
+Folx 
+freeloader 	
+G3 Torrent 	
+Gnome BitTorrent 	
+Halite 	
+KTorrent 	
+MLDonkey 	
+MonoTorrent (client library) 	
+MooPolice 	
+Opera (web browser)|Opera 	
+QTorrent 	
+Qbittorrent 	
+rTorrent 	
+Rufus 	
+Shareaza 	
+sharktorrent 	
+SymTorrent 	
+Torrent Swapper 	
+TorrentVolve 	
+Transmission 
+Turbo Torrent 	
+TorrentSpy Rufus 	
+µTorrent 	
+XTorrent 
+ZipTorrent
+
+Related pages
+ Comparison of file sharing applications
+ BitTorrent
+ BitTorrent tracker
+ Comparison of BitTorrent clients
+
+
+
+
+
+Category:Software
+Category:Computer-related lists

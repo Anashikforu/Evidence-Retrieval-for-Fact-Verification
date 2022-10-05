@@ -1,0 +1,14 @@
+//  _________________________________________________________________________________________
+// |                                                                                         |
+// |                    = WARNING: GLOBAL GADGET FILE =                                  |
+// |                  Changes to this page affect many users.                                |
+// | Please discuss changes on the talk page or on Simple Talk before editing.               |
+// |_________________________________________________________________________________________|
+//
+// Imported from Wikipedia:FAQ/Main Page as of April 1, 2008
+
+if ( mw.config.get( 'wgIsMainPage' ) = true ) {
+  $( document ).ready( function () {
+    $( '#searchInput' ).focus();
+  });
+}

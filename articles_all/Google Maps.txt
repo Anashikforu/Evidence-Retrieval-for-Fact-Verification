@@ -1,0 +1,14 @@
+
+'''Google Maps''' is a mapping website from Google, and also the name for the technology that it works on.  It provides satellite (artificial)|satellite pictures and road maps for anywhere in the world.
+
+Google Maps also shows the locations of many wikt:place|places and businesses (called point of interest|points of interest). It can provide street addresses, phone numbers, and URLs to their websites. It can generate directions between different places using many ways of transport, such as by car, bike, public transport, and even by airplane|air, and show traffic traffic congestion. Maps can be embedded on other websites via the Google Maps Application programming interface. It has a feature called Google Street View, which provides photos of streets in some places so one can see what it is like if they were standing in that area of the Earth in real life.
+
+Google Maps was started on February 8, 2005, and uses JavaScript, XML and Ajax (programming)|AJAX. Its website works in almost any web browser or through mobile applications on platforms like iOS and Android (operating system)|Android. Google has a "Local Guides" program where anybody can write reviews and upload photos or videos of places, as well as make changes to the maps (such as adding new places or removing closed places). This is much like how a person can contribute to Google Translate or to Wikipedia and other Wikimedia Foundation websites.
+
+Related pages
+Google Earth
+Google Maps (application)
+
+Other websites
+
+Category:Google|Maps

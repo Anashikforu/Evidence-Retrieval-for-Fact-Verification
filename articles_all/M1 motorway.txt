@@ -1,0 +1,488 @@
+
+
+
+The '''M1 motorway''' is an important controlled-access highway|motorway in England. It joins London and Leeds. It was the second motorway to be built in the UK, after the Preston bypass (which later formed part of the M6 motorway|M6). It was the first UK motorway to be built that joined two cities, London and Birmingham.
+
+ Location 
+The motorway is 193 miles (310 kilometres|km) long. It was built in four phases. Some of the motorway was opened in 1959. Other sections opened between 1965 and 1968. Two extensions were opened in 1977 and 1999.
+
+The motorway is part of the unsigned European route E13.
+
+ History 
+The first section of the motorway opened between Junction 5 (Watford) and Junction 18 (Rugby, Warwickshire|Rugby). It opened on 2 November 1959. This included two of the motorway's spurs, the M10 motorway|M10 at Junction 7, and the M45 motorway|M45 at Junction 17. It followed near to the A5 road|A5.
+
+In 1965, an extension from Junction 18 towards Yorkshire was built. The motorway takes a more northerly route through the East Midlands. It passes near Leicester, Loughborough and Nottingham to Sheffield . Here the M18 splits from the M1 at Junction 32.
+
+In 1972 an extension of the M1 was opened into central Leeds. It was called the Leeds South Eastern Motorway. It meets the Leeds South Western Motorway (M621 motorway|M621) at Junction 43.
+
+The first motorway service station was built on the M1 in 1959. It is currently operated by RoadChef.
+
+Junctions
+{| style="margin-left:1em; margin-bottom:1em; color:black; font-size:95%;" class="wikitable"
+|-  style="background:#0080d0; text-align:center; color:white; font-size:120%;"
+| colspan="6" | '''M1 motorway junctions'''
+|-
+!scope=col|mile
+!scope=col|km
+!scope=col abbr="Southbound"|Southbound exits (B carriageway)
+!scope=col|Junction
+!scope=col abbr="Northbound"|Northbound exits (A carriageway)
+!scope=col|Coordinates
+|- style="text-align:center;"
+|7.0
+|11.3
+| North Circular (West), Brent Cross, Wembley, Hanger Lane, (A406 road|A406 West)
+| J1''Southern terminus''
+| ''Start of motorway''
+| 
+|- style="text-align:center;"
+|9.19.2
+|14.6  14.8
+| Central London (City of London|The City), Holloway, London|HollowayNorth Circular (A406)(E) A1 road (Great Britain)|A1
+| J2
+|  No access
+| 
+|- style="text-align:center;"
+|12.0
+|19.3
+|''London Gateway services''
+|''Services''
+|''London Gateway services''
+| 
+|- style="text-align:center;"
+|13.213.5
+|21.3  21.8
+| Harrow, London|Harrow, Edgware A41 road|A41 (A406 road|A406 North)
+| J4
+|  No access
+| 
+|- style="text-align:center;"
+|17.117.5
+|27.5  28.1
+| Harrow, London|Harrow, Aylesbury A41 road|A41Watford A4008 road|A4008
+| J5
+| Aylesbury, Watford, M25 (West) A41
+| 
+|- style="text-align:center;"
+|19.720.0
+|31.7  32.2
+| North Watford A405 road|A405
+| J6
+| St Albans, Harlow, M25 (East) A405
+| 
+|- style="text-align:center;"
+|20.420.8
+|32.9  33.5
+| Heathrow Airport, Gatwick Airport, M40 motorway|M40, M4 motorway|M4, M3 motorway (Great Britain)|M3
+Stansted Airport, Dartford, M11 motorway|M11, M20 motorway|M20
+| J6a''M25 interchange''
+|  No access
+| 
+|- style="text-align:center;"
+|22.522.7
+|36.2  36.6
+| St Albans, Hatfield, Hertfordshire|Hatfield A414 road|A414
+| J7
+|  No access
+| 
+|- style="text-align:center;"
+|23.523.8
+|37.8  38.3
+| Hemel Hempstead
+| J8
+| Hemel Hempstead A414
+| 
+|- style="text-align:center;"
+|27.928.3
+|44.9  45.6
+| Redbourn A5183 road|A5183
+| J9
+| Dunstable, Redbourn A5183 road|A5183
+| 
+|- style="text-align:center;"
+|30.330.6
+|48.8  49.2
+| Luton Airport A1081 road|A1081
+| J10
+| Luton (S) & London Luton Airport|Airport A1081
+| 
+|- style="text-align:center;"
+|33.734.0
+|54.3  54.7
+| Luton (Centre), Dunstable A505 road|A505
+| J11
+| Luton (Centre), Dunstable A505
+| 
+|- style="text-align:center;"
+|
+|
+|Dunstable (North), Aylesbury A5 road|A5, A505 road|A505, A5505 road|A5505
+|J11A
+|Dunstable (North), Aylesbury A5, A505, A5505
+| 
+|- style="text-align:center;"
+|38.9
+|62.6
+|''Toddington services''
+|''Services''
+|''Toddington services''
+| 
+|- style="text-align:center;"
+|38.538.9
+|62.0  62.6
+| Flitwick A5120 road|A5120
+| J12
+| Flitwick A5120 
+| 
+|- style="text-align:center;"
+|45.245.4
+|72.7  73.1
+| Bedford A421 road|A421Woburn, Ampthill A507 road|A507
+| J13
+| Bedford, Milton Keynes (South) A421
+| 
+|- style="text-align:center;"
+|49.750.2
+|80.0  80.8
+| Milton Keynes, Newport Pagnell A509 road|A509
+| J14
+| Milton Keynes, Newport Pagnell A509
+| 
+|- style="text-align:center;"
+|53.7
+|86.5
+|''Newport Pagnell services''
+|''Services''
+|''Newport Pagnell services''
+| 
+|- style="text-align:center;"
+|61.862.3
+|99.4  100.2
+| Northampton, Wellingborough A45 road|A45
+| J15
+| Northampton, Wellingborough A45
+| 
+|- style="text-align:center;"
+|64.364.9
+|103.5  104.5
+| Northampton, Oxford A43 road|A43 (M40 motorway|M40)''Northampton services''
+| J15a''Services''
+| Northampton, Oxford A43 (M40) ''Northampton Services''
+| 
+|- style="text-align:center;"
+|67.968.3
+|109.2  109.9
+| Northampton A4500
+| J16
+| Daventry A45
+| 
+|- style="text-align:center;"
+|75.1
+|120.8
+|''Watford Gap service station|Watford Gap services''
+|''Services''
+|''Watford Gap services''
+| 
+|- style="text-align:center;"
+|76.676.9
+|123.3  123.8
+|  No access
+| J17
+| Coventry (S) M45 motorway|M45
+| 
+|- style="text-align:center;"
+|78.578.9
+|126.3  126.9
+| Daventry, Daventry International Rail Freight Terminal|DIRFT A428 road|A428
+| J18
+| Hinckley A5 road (Great Britain)|A5 Rugby, Warwickshire|Rugby A428Daventry International Rail Freight Terminal|DIRFT
+| 
+|- style="text-align:center;"
+|82.382.7
+|132.4  133.1
+| Felixstowe, Corby, Kettering A14 road (England)|A14
+| J19''M6/A14 interchange''
+| The North West  Coventry, Birmingham M6 motorway|M6
+| 
+|- style="text-align:center;"
+|85.586.1
+|137.6 138.5
+| Lutterworth A4303 road|A4303Rugby, Warwickshire|Rugby (A426 road|A426)
+| J20
+| Lutterworth A4303Market Harborough A4304 road|A4304
+| 
+|- style="text-align:center;"
+|96.196.6
+|154.6  155.4
+| Coventry, Birmingham M69 motorway|M69 (M6 motorway|M6)Leicester A5460 road|A5460
+| J21
+| Coventry M69Leicester A5460
+| 
+|- style="text-align:center;"
+|97.7
+|157.2
+|''Leicester Forest East services''
+|''Services''
+|''Leicester Forest East services''
+| 
+|- style="text-align:center;"
+|99.399.5
+|159.8  160.1
+| No access
+| J21a
+| Leicester (N), Newark-on-Trent|Newark A46 road|A46
+| 
+|- style="text-align:center;"
+|104.3104.7
+|167.8  168.5
+| Leicester A50 road|A50, Coalville A511 road|A511
+| J22
+| Ashby-de-la-Zouch|Ashby, Coalville A511
+| 
+
+|- style="text-align:center;"
+|108.8109.2
+|175.1  175.8
+| Loughborough, Shepshed A512 road|A512
+| J23
+| Loughborough, Shepshed A512
+| 
+|- style="text-align:center;"
+|113.4113.6
+|182.5  182.8
+| The SOUTH WEST, Tamworth, Staffordshire|Tamworth, Birmingham, A42 road (England)|A42 (M42 motorway|M42)
+| J23a  ''Services''
+| East Midlands Airport|East Midlands  A453 road|A453''Donington Park services''
+| 
+|- style="text-align:center;"
+|114.9115.4
+|184.9  185.7
+| Nottingham, East Midlands  A453 ''Donington Park services''
+| J24
+| Stoke-on-Trent|Stoke A50Derby (A6 road (England)|A6)Nottingham (S) A453
+| 
+|- style="text-align:center;"
+|115.8116.2
+| 186.3  187.0
+| Stoke A50Derby (A6)
+| J24a
+|  No access
+| 
+|- style="text-align:center;"
+|120.0120.5
+|193.2  193.9
+| Nottingham, Derby A52 road|A52
+| J25
+| Derby, Nottingham A52
+| 
+|- style="text-align:center;"
+|124.1
+|199.8
+|''Trowell Motorway Services|Trowell services''
+|''Services''
+|''Trowell services''
+| 
+|- style="text-align:center;"
+|126.0126.6
+|202.8  203.7
+| Nottingham  A610 road|A610
+| J26
+| Ripley, Derbyshire|Ripley, Nottingham A610
+| 
+|- style="text-align:center;"
+|131.5132.0
+| 211.7  212.4
+| Heanor, Hucknall A608 road|A608
+| J27
+| Mansfield A608
+| 
+|- style="text-align:center;"
+|135.0135.5
+|217.2  218.0
+| Derby A38 road|A38Matlock, Derbyshire|Matlock (A roads in Zone 6 of the Great Britain numbering scheme|A615)
+| J28
+| Mansfield A38Matlock (A615)
+| 
+|- style="text-align:center;"
+|138.3
+|222.5
+|''Tibshelf services''
+|''Services''
+|''Tibshelf services''
+| 
+|- style="text-align:center;"
+|141.7142.3
+| 228.1  229.0
+| Mansfield A617 road|A617Matlock (A632 road|A632)
+| J29
+| Chesterfield A617
+| 
+|- style="text-align:center;"
+|
+|
+| Markham Vale A6192 road|A6192Bolsover (A632 road|A632)
+| J29a
+| Markham Vale A6192Bolsover (A632)
+| 
+|- style="text-align:center;"
+|148.4148.8
+|238.9  239.5
+| Chesterfield (A619 road|A619) Newark A616 road|A616
+| J30
+| Sheffield (S) A6135 road|A6135Worksop (A619)
+| 
+|- style="text-align:center;"
+|151.3
+|243.5
+|''Woodall services''
+|''Services''
+|''Woodall services''
+| 
+|- style="text-align:center;"
+|153.8154.2
+|247.5  248.2
+| Worksop A57 road|A57
+| J31
+| Sheffield (SE), Rotherham (S) A57
+| 
+|- style="text-align:center;"
+|156.3156.6
+|251.6  252.1
+| The NORTH, Doncaster, Kingston upon Hull|Hull M18 motorway (Great Britain)|M18
+| J32''M18 interchange''
+| The NORTH, Doncaster, Hull, Rotherham (E) M18
+| 
+|- style="text-align:center;"
+|158.8159.2
+|255.6  256.2
+| Sheffield (C), Rotherham (C) A630 road|A630
+| J33
+| Sheffield (C), Rotherham (C) A630
+| 
+|- style="text-align:center;"
+|161.5161.7
+|259.9  260.3
+| Sheffield (E), Rotherham (C), Meadowhall Shopping Centre|Meadowhall A6109:
+| J34
+| Sheffield (E), Rotherham (C), Meadowhall A6178 road|A6178:
+| 
+|- style="text-align:center;"
+|164.9165.4
+|265.4  266.2
+| Rotherham (N) A629 road|A629
+| J35
+| Rotherham (N) A629
+| 
+|- style="text-align:center;"
+|166.7166.9
+|268.2 268.6
+|  No access
+| J35a
+| Manchester A616 road|A616
+| 
+|- style="text-align:center;"
+|168.0168.5
+|270.3  271.2
+| Sheffield (N), Barnsley A61 road|A61
+| J36
+| Barnsley (S) A61
+| 
+|- style="text-align:center;"
+|172.1172.6
+|276.9  277.8
+| Barnsley, Manchester A628 road|A628
+| J37
+| Manchester, Barnsley A628
+| 
+|- style="text-align:center;"
+|176.4176.9
+|283.9 284.7
+| Huddersfield A637 road|A637
+| J38
+| Huddersfield A637
+| 
+|- style="text-align:center;"
+|178.5
+|287.2
+|''Woolley Edge services''
+|''Services''
+|''Woolley Edge services''
+| 
+|- style="text-align:center;"
+|179.9180.4
+|289.5  290.4
+| Denby Dale A636 road|A636
+| J39
+| Wakefield A636
+| 
+|- style="text-align:center;"
+|182.6183.0
+|293.8  294.5
+| Wakefield, Dewsbury A638 road|A638
+| J40
+| Dewsbury, Wakefield A638
+| 
+|- style="text-align:center;"
+|185.1185.6
+|297.9  298.7
+| Wakefield, Morley, West Yorkshire|Morley A650 road|A650
+| J41
+| Wakefield A650
+| 
+|- style="text-align:center;"
+|186.5187.0
+| 300.1  301.0
+| Hull, Pontefract, Manchester, Bradford M62 motorway|M62
+| J42''M62 interchange''
+| Manchester, Bradford, Leeds/Bradford Airport|Leeds/Bradford Hull M62
+| 
+|- style="text-align:center;"
+|188.4189.0
+|303.2  304.1
+|  No access
+| J43
+| Leeds M621 motorway|M621
+| 
+|- style="text-align:center;"
+|189.4189.9
+|304.8  305.6
+| Leeds A639 road|A639(M621)
+| J44
+| Leeds (S) A639
+| 
+|- style="text-align:center;"
+|190.8191.2
+| 307.1  307.7
+| Leeds A63 road|A63
+| J45
+| Leeds (SE) A63
+| 
+|- style="text-align:center;"
+|193.7194.0
+|311.7  312.2
+| Leeds (E) A6120 road|A6120
+| J46
+| Leeds (E), Leeds/Bradford  A6120Selby A63
+| 
+|- style="text-align:center;"
+|196.6197.0
+| 316.4  317.1
+| Castleford A656 road|A656Garforth A642 road|A642
+| J47
+| Garforth A642The SOUTH A1(M) motorway|(A1(M))
+| 
+|- style="text-align:center;"
+|197.7
+|318.1
+| ''Start of motorway''
+| A1(M), J43''Northern terminus''
+| The NORTH, Wetherby A1(M) motorway|A1(M)York (A64 road|A64)
+| 
+|-
+|colspan=6|'''Notes'''
+Data from Driver location signs|driver location signs/distance marker posts are used to provide distance and carriageway identification information. Where a junction spans several hundred metres and the data is available, both the start and finish values for the junction are shown. Coordinate data from ACME Mapper.
+|-
+
+
+
+Category:Motorways in England

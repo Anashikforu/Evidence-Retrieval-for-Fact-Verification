@@ -1,0 +1,47 @@
+
+{{Infobox WS
+ |name=Arabic abjad
+ |type=Abjad
+ |languages=Arabic language|Arabic, Persian language|Persian, Balochi language|Baloch, Urdu, Kurdish language|Kurdish, Pashto language|Pashto, Sindhi language|Sindhi, Malay language|Malay and others
+ |time=400 CE to the present
+ |fam1=Proto-Canaanite alphabet|Proto-Canaanite
+ |fam2=Phoenician alphabet|Phoenician
+ |fam3=Aramaic alphabet|Aramaic
+ |fam4=Nabatean alphabet|Nabataean or Syriac alphabet|Syriac
+ |unicode= |iso15924=Arab (#160)
+ |sample=Arabic Text.svg
+ |image_size=200px
+ }}
+
+The '''Arabic alphabet''' is an abjad that is used to write several languages of the Middle East such as Arabic language|Arabic, Persian language|Persian, Pashto language|Pashto and Urdu. The script is the third most widely used script in the world, after the Latin script|Latin and Chinese characters|Chinese scripts.
+
+ Overview 
+The script is written from right to left. When it is used to write the Arabic language, the script has 28 different characters. Usually only Consonant|consonants are written in an abjad. Vowel|Vowels are omitted most of the time. The Arabic script is a cursive script. This means that letters of a word are joined together, both in handwriting and in print. Each letter can have up to four different forms. Which of the forms is used depends on the letters before and after it. There is no different form for uppercase letters and lowercase letters. 
+
+There are two basic modern variants of the Arabic script. One is called Naskh script|Naskh, it is the one commonly used for printing. The most common script in everyday life is called Kufic script|Kufic, after the city Kufa, in Iraq, where it was developed. There are several variants of both scripts.
+
+ Numbers 
+The alphabet can also be used to write numbers, which was common in the Middle Ages. They are less used today and usually replaced by Latin-alphabet (''Arabic'') numbers. 
+
+When the alphabet is used to write numbers, '''' = 1000.  That is sometimes used to produce chronograms in which specific letters, interpreted as Numeral system|numerals, stand for a particular date when they are rearranged.
+
+ Sort order 
+For Dictionary|dictionaries, it is necessary to put the letters into a predetermined sequence, which is usually called sort order, or alphabetical order. The Arabic script has two sort orders: The one, ''abjid'', derives from the position of the letters in the Phoenician alphabet. The other, ''hijā,'' sorts letters by similarity of shape.
+
+ History 
+As Islam spread throughout the Middle East, North Africa, and Asia, Arabic spread along with it. Islam requires its followers to learn Arabic because it states that Gabriel (Jibril) spoke the words of Allah to Muhammad in Arabic. The language is used for Muslim rituals such as prayer and the reciting of Quranic verses. As Arabic spread, the Qur'an|Quran's script also spread. It replaced the Pahlavi writing system as Islam conquered Persia.
+
+Another alphabet, the Uighur alphabet, was based on the shapes of Arabic letters. However, the Uighur alphabet always has vowel letters, unlike in Arabic.
+
+After the fall of the Ottoman Empire during the World War I|First World War, use of the Arabic language and alphabet, became less common in the Muslim world. The Turkic states and other Muslim-majority states controlled by the Soviet Union did not favour Arabic script. In 1928, Turkey passed a law that banned the use of the Arabic alphabet for writing Turkish language|Turkish, which is now written with the Latin alphabet. 
+
+Around the same time, the Soviet Union created a Latin alphabet for the Central Asia|Central Asian states that it occupied: Azerbaijan, Kazakhstan, Turkmenistan, Uzbekistan, Kyrgyzstan, and Tajikistan. The decision to replace the Arabic alphabet was amdre to  remove religious influence in Central Asia and to modernise the region. For a time, Soviet leaders, including Vladimir Lenin, believed the Latin alphabet was the "world alphabet" because it was the writing system of most developed countries. However, the Soviet Union then required the Central Asian states to write only in the Cyrillic alphabet|Cyrillic script. That was to influence local cultures  and languages to become more like those of Russia. 
+
+Although the Soviet Union fell, none of the Central Asian nations returned to using the Arabic alphabet. They either kept using Cyrillic, like Kazakhstan and Kyrgyzstan, or adopted a new Latin alphabet, like Azerbaijan. Only Tajikistan is considering switching back to using the Arabic alphabet. Tajik language|Tajik was once a dialect of Persian language|Persian.
+
+In Southeast Asia, Malaysia, Indonesia, Singapore, and Brunei have all adoptedfor Malay language|Malay the Latin alphabet, which is called ''Rumi'' in Malay. The British Empire|British and Dutch Republic|Dutch colonialists introduced the Latin alphabet. The Arabic alphabet (''Jawi'' in Malay) is still used in Malaysia but much less than Rumi. Brunei is the only Southeast Asian country in which both the Latin and Arabic alphabets are co-official.
+
+Related pages
+History of the alphabet
+
+Category:Arabic language|Alphabet

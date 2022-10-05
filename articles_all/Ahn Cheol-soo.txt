@@ -1,0 +1,71 @@
+{{Infobox politician
+| name            = Ahn Cheol-soo
+| native_name     = 
+| native_name_lang = ko
+| image           = 안철수 의원의 깜짝 방문2.jpg
+| caption         = 
+| office1         = Chairman of the People's Party (South Korea)|People's Party
+| term_start1     = 2 February 2016
+| term_end1       = 29 June 2016
+| alongside1      = Chun Jung-bae 
+| predecessor1    = ''Position established''
+| successor1      = Park Jie-won 
+| office2         = Member of the National Assembly of South Korea|National Assembly
+| constituency2   = Seoul Nowon District|Nowon C
+| term_start2     = 25 April 2013
+| term_end2       = 15 April 2017
+| predecessor2    = Roh Hoe-chan
+| successor2      = TBD
+| office3         = Chairman of the New Politics Alliance for Democracy
+| term_start3     = 26 March 2014
+| term_end3       = 31 July 2014
+| alongside3      = Kim Han-gil
+| predecessor3    = ''Position established''
+| successor3      = Moon Jae-in
+| birth_date      = 
+| birth_place     = Miryang, South Gyeongsang Province, South Korea
+| nationality     = South Korean
+
+| known_for       = V3 (antivirus software)
+| alma_mater      = Seoul National UniversityUniversity of Pennsylvania
+| employer        = 
+| occupation      = PhysicianProfessorSoftware entrepreneur
+–present
+| party           = People's Party (South Korea)|People's Party (2016–present)
+| otherparty      = Independent (politician)|Independent (2013–14; 2015–16)New Politics Alliance for Democracy|NPAD (2014–15)
+| title           = 
+| boards          = 
+| spouse          = Kim Mi-kyung
+| children        = 1 daughter
+| signature       = Ahn Cheol-Soo signature.svg
+| website         =
+|allegiance       = 
+|branch           =  Republic of Korea Navy
+|serviceyears     = 1992–1994
+|rank             = ''
+| footnotes       = 
+{{Infobox Korean name
+ | hangul         = 안철수
+ | hanja          = 安哲秀
+ | rr             = An Cheol-su
+ | mr             = An Ch'ŏlsu
+ }}
+
+'''Ahn Cheol-soo''' (born February 26, 1962) is a Korean people|Korean businessman, Medical doctor|doctor and professor. He is famous as the developer of the computer anti-virus software program, V3. He is the founder and CEO of the Ahn Lab. He is now a professor at Seoul National University.
+
+Ahn was the People's Party (South Korea)|People's Party nominee for the South Korean presidential election, 2017|presidential election in 2017. He was most recently a founding co-leader of the People's Party alongside Chun Jung-bae.
+
+ Personal History 
+Ahn Chul-soo was born in Pusan in 1962. He graduated from the medical school of Seoul National University. He went on to do graduate work in medical science at Seoul National University. He received a master's degree in medical school and he holds a doctorate in medicine.
+
+During the course, he found a computer virus, one of the first viruses, called the Brain, on his floppy diskette. He started to analyze and develop the Antivirus software|vaccine software program. He also uploaded the program, and wrote about it in the magazine ''Microsoft'', a technical magazine which covers computer programs. He upgraded the vaccine program and introduced the V2, V2 Plus to the public with adding the function which can cure the LBC and Jerusalem viruses. He finally introduced the V3 program, now a very important software program for Korean computer users.
+
+He has been a chief of the Dankook University medical school. However, he decided to become a doctor of computers. He founded the Ahn Lab, a special venture business for developing computer vaccine programs. He also received an Executive MBA course in University of Pennsylvania, Wharton school. He completed the venture business course in Stanford University.
+
+  Awards 
+Bronze Tower Industrial Award by Ministry of Knowledge Economy Korea
+Young Engineer Award by National Academy of Engineering of Korea (NAEK)
+Voted as ASIA STAR 25 by ''Business Week''
+Voted as Leader of Korea 18 by World Economic Forum (WEF)
+
+Category:Computer scientists

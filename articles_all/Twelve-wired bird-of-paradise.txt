@@ -1,0 +1,22 @@
+{{Taxobox
+| name = Twelve-wired bird-of-paradise
+| status =  | status_system = IUCN3.1
+| image = BxZ Seleucidis melanoleuca 00a.jpg
+| image_width = 225px
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Passeriformes
+| familia = Paradisaeidae
+| genus = '''''Seleucidis'''''
+| genus_authority = René-Primevère Lesson|Lesson, 1835
+| binomial = ''Seleucidis melanoleucus''}}
+ 
+The '''twelve-wired bird-of-paradise''' (''Seleucidis melanoleucus'') is a medium-sized bird-of-paradise about 33cm-long. The male has a red Iris (anatomy)|iris, black shoulders and  wings, a long black Beak|bill and rich yellow Feather|plumes along its sides and stomach.  From the rear of these plumes come twelve blackish, wire-like filaments, which bend back near their bases to sweep forward over the birds hindquarters.  
+
+The female is a brown bird with black-barred buffy underparts. Its feet are strong, large-clawed and pink in color.
+
+It is the only species in the monotypic genus ''Seleucidis''. The male displays on an exposed vertical perch with its breast-shield flared. They eat fruits and arthropods.
+
+The bird is found in lowland forests, New Guinea and Salawati Island of Irian Jaya. 
+
+Category:Birds of Oceania

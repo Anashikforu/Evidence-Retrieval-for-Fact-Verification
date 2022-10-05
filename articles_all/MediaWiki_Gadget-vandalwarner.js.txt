@@ -1,0 +1,172 @@
+/ Vandal Warner, version 0.2.0
+
+Created and maintained by User:Huji, modified by User:Hoo man
+Based on Whackamole, a script written by User:Pilotguy /
+
+var WarnVandalList, WarnVandalSig;
+var WarnVandalItems = ;
+var WarnVandalCustomItems = ;
+
+		WarnVandalItems.push( 'uw-test1', 1, 'Test edit', 'Testedit1' );
+		WarnVandalItems.push( 'uw-test2', 1, 'Testing', 'Testedit2' );
+		WarnVandalItems.push( 'uw-test3', 1, 'Testing', 'Testedit3' );
+		WarnVandalItems.push( 'uw-test4', 1, 'Test edit - Last warning', 'Testedit4' );
+		WarnVandalItems.push( 'uw-test4im', 1, 'Only Warning', 'Testedit4im' );
+		WarnVandalItems.push( 'uw-vandalism1', 1, 'Vandalism', 'Vandalism1' );
+		WarnVandalItems.push( 'uw-vandalism2', 1, 'Vandalism', 'Vandalism2' );
+		WarnVandalItems.push( 'uw-vandalism3', 1, 'Vandalism', 'Vandalism3' );
+		WarnVandalItems.push( 'uw-vandalism4', 1, 'Vandalism', 'Vandalism4' );
+		WarnVandalItems.push( 'uw-vandalism4im', 1, 'Vandalism', 'Vandalism4im' );
+		WarnVandalItems.push( 'uw-create1', 1, 'Article creation notice', 'create1' );
+		WarnVandalItems.push( 'uw-create2', 1, 'Article creation notice', 'create2' );
+		WarnVandalItems.push( 'uw-create3', 1, 'Article creation notice', 'create3' );
+		WarnVandalItems.push( 'uw-create4', 1, 'Article creation notice', 'create4' );
+		WarnVandalItems.push( 'uw-delete1', 1, 'Removing of contents', 'remove1' );
+		WarnVandalItems.push( 'uw-delete2', 1, 'Removing of contents', 'remove2' );
+		WarnVandalItems.push( 'uw-delete3', 1, 'Removing of contents', 'remove3' );
+		WarnVandalItems.push( 'uw-mos1', 1, 'WP:MOS|MOS', 'mos1' );
+		WarnVandalItems.push( 'uw-mos2', 1, 'Removing of contents', 'mos2' );
+		WarnVandalItems.push( 'uw-mos3', 1, 'Removing of contents', 'mos3' );
+		WarnVandalItems.push( 'uw-npov1', 1, 'No neutral point of view', 'NPOV1' );
+		WarnVandalItems.push( 'uw-npov2', 1, 'No neutral point of view', 'NPOV2' );
+		WarnVandalItems.push( 'uw-npov3', 1, 'No neutral point of view', 'NPOV3' );
+		WarnVandalItems.push( 'uw-npov4', 1, 'No neutral point of view', 'NPOV4' );
+		WarnVandalItems.push( 'uw-npov4im', 1, 'No neutral point of view', 'NPOV4im' );
+		WarnVandalItems.push( 'uw-copyright1', 1, 'Copyright violation', 'copyvio1' );
+		WarnVandalItems.push( 'uw-copyright2', 1, 'Copyright violation', 'copyvio2' );
+		WarnVandalItems.push( 'uw-spam1', 1, 'Spamlinks', 'spam1' );
+		WarnVandalItems.push( 'uw-advert1', 1, 'Advertisement', 'adds1' );
+		WarnVandalItems.push( 'uw-advert2', 1, 'Advertisement', 'adds2' );
+		WarnVandalItems.push( 'uw-npa1', 1, 'No personal attacks', 'NPA1' );
+		WarnVandalItems.push( 'uw-npa2', 1, 'No personal attacks', 'NPA2' );
+		WarnVandalItems.push( 'uw-npa3', 1, 'No personal attacks', 'NPA3' );
+		WarnVandalItems.push( 'uw-npa4', 1, 'No personal attacks', 'NPA4' );
+		WarnVandalItems.push( 'uw-npa4im', 1, 'No personal attacks', 'NPA4im' );
+		WarnVandalItems.push( 'uw-attack', 1, 'Attacks', 'attack' );
+		WarnVandalItems.push( 'uw-disruption', 1, 'Disruptive edits', 'disruption' );
+		WarnVandalItems.push( 'uw-qd', 1, 'Removing QD tags', 'Remove QD' );
+		WarnVandalItems.push( 'uw-userpage', 1, 'User/talk page against policy', 'UP/UTP' );
+		WarnVandalItems.push( 'Cyberbully warning', 1, 'Cyberbully warning', 'cyberbullying' );
+		WarnVandalItems.push( 'uw-badcat', 1, 'Adding bad cats', 'badcat' );
+		WarnVandalItems.push( 'uw-bite', 1, 'Biting newcomers', 'Bite' );
+		WarnVandalItems.push( 'uw-encopypaste', 1, 'Copying and pasting', 'en c&p' );
+		WarnVandalItems.push( 'uw-selfrevert', 1, 'Selfrevert', 'Selfrevert' );
+		WarnVandalItems.push( 'uw-simple', 1, 'Not simple language', 'Not Simple' );
+		WarnVandalItems.push( 'uw-spellcheck', 1, 'Bad spelling', 'Spelling' );
+		WarnVandalItems.push( 'uw-tilde', 1, 'Not signing posts', 'Not Signing' );
+		WarnVandalItems.push( 'uw-upload', 1, 'Uploading images is not allowed', 'Uploads' );
+		WarnVandalItems.push( 'uw-articlesign', 1, 'Please do not sign articles', 'articlesing' );
+		WarnVandalItems.push( 'Uw-block1', 2, 'Blocked', 'Blocked 1 (IP)' );
+		WarnVandalItems.push( 'Uw-block2', 2, 'Blocked', 'Blocked 2 (User)' );
+		WarnVandalItems.push( 'Uw-block3', 2, 'Blocked Indef', 'Indef Blocked' );
+		WarnVandalItems.push( 'UsernameBlocked', 2, 'UsernameBlocked', 'Username blocked' );
+		WarnVandalItems.push( 'UsernameHardBlocked', 2, 'Hard blocked', 'Username hard blocked' );
+		WarnVandalItems.push( 'Checkuserblock', 2, 'Checkuserblock', 'Checkuserblock IP' );
+		WarnVandalItems.push( 'Checkuserblock-account', 2, 'Checkuserblock-account', 'Checkuserblock-account' );
+		WarnVandalItems.push( 'openproxy', 2, 'open proxy', 'open proxy' );
+		WarnVandalItems.push( 'Welcome', 0, 'Welcome to Wikipedia', 'Welcome 1' );
+		WarnVandalItems.push( 'WelcomeG', 0, 'Welcome to Wikipedia', 'Welcome 2' );
+		WarnVandalItems.push( 'Welcome-iw', 0, 'Welcome to Wikipedia', 'Welcome iw' );
+		WarnVandalItems.push( 'Welcome-en', 0, 'Welcome to Wikipedia', 'Welcome en' );
+		WarnVandalItems.push( 'Anon', 0, 'Welcome to Wikipedia', 'IP Welcome' );
+
+function WarnVandal (message, param, summary) {
+   var tbox = document.getElementById('wpTextbox1');
+   var a = "" + (window.getSelection ? window.getSelection()
+     : document.getSelection ? document.getSelection()
+        : document.selection.createRange().text);
+   if (param != "") {
+     a = prompt ("Article name?\n(Empty+OK for a generic message.)\n(Cancel now aborts.)", a);
+     if (a  null) return;
+     if (a != null && a != "") {
+       message = message.replace(/\|/,"|"+a);
+       summary += " in " + a + "";
+     } else {
+       message = param;
+     }
+   }
+   if (WarnVandalSig  undefined) {
+     WarnVandalSig = " ~~" + "~~\n";
+   }
+   document.getElementById('wpTextbox1').value += message + WarnVandalSig;
+   document.getElementById('wpSummary').value = summary;
+   document.getElementById('wpMinoredit').checked=false;
+   document.getElementById('wpWatchthis').checked=false;
+   document.getElementById('wpTextbox1').focus();
+   if (document.getElementById('wpTextbox1').scrollTop || true) {
+     document.getElementById('wpTextbox1').scrollTop = 
+       document.getElementById('wpTextbox1').scrollHeight;
+   }
+}
+ 
+window.WarnVandal_addlilink=function(tabs, url, name, id, title, key){
+   var na = document.createElement('a');
+   na.href = url;
+   na.appendChild(document.createTextNode(name));
+   var li = document.createElement('li');
+   if(id) li.id = id;
+   li.appendChild(na);
+   WarnVandalList.appendChild(li);
+   if(id) {
+     if(key && title) taid = key, title;
+     else if(key)     taid = key;
+     else if(title)   taid = '', title;
+   }
+   return li;
+}
+ 
+window.WarnVandal_addToolboxLink=function(url, name, id){
+   var tb = document.getElementById('p-tb').getElementsByTagName('ul')0;
+   WarnVandal_addlilink(tb, url, name, id);
+}
+ 
+$(document).ready( function () {
+  if ((mw.config.get('wgAction')  'edit' || mw.config.get('wgAction')  'submit') && mw.config.get('wgCanonicalNamespace') = 'User_talk') {
+    var link_div = document.createElement('div');
+	if(mw.config.get('skin') = 'vector') {
+		link_div.className = 'body';
+	}else{
+	    link_div.className = 'pBody';
+	}
+	WarnVandalList = document.createElement('ul');
+    link_div.appendChild(WarnVandalList);
+    var div = document.createElement('div');
+    div.setAttribute('id', 'p-vandalwarner');
+    var heading = document.createElement('h5');
+    heading.appendChild(document.createTextNode('Vandal Warner'));
+    div.appendChild(heading);
+    div.appendChild(link_div);
+
+    if (WarnVandalCustomItems.length > 0){
+      for (i=0; i<WarnVandalCustomItems.length; i++) {
+        itm = WarnVandalCustomItemsi;
+        WarnVandal_addToolboxLink('javascript:WarnVandal ("{'+'{subst:'+itm0+'|}}", ' +
+          (itm1 ? '"{'+'{subst:'+itm0+'}}"' : '""') + ', ' +
+          '"'+itm2+'"); void(0);', itm3, '');
+      }
+    } else {
+      for (i=0; i<WarnVandalItems.length; i++) {
+        itm = WarnVandalItemsi;
+        WarnVandal_addToolboxLink('javascript:WarnVandal ("{'+'{subst:'+itm0+'|}}", ' +
+          (itm1 ? '"{'+'{subst:'+itm0+'}}"' : '""') + ', ' +
+          '"'+itm2+'"); void(0);', itm3, '');
+      }
+    }
+	if(mw.config.get('skin') = 'vector') {
+		var panel = document.getElementById('mw-panel');
+		var tb = document.getElementById('p-tb');
+		if (tb.parentNode = panel) {
+			panel.insertBefore(div, tb);
+		}
+		div.className = 'portal';
+	}else{
+		div.className = 'portlet';
+		var side_col = document.getElementById('column-one');
+		var node = document.getElementById('p-tb');
+		
+		if(node.parentNode = side_col) {
+			side_col.insertBefore(div, node);
+		}
+	}
+  }
+});

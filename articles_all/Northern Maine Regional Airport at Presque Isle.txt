@@ -1,0 +1,30 @@
+Location of the Airport in Maine
+| type         = Public
+| owner        = City of Presque Isle
+| operator     =
+| city-served  = Presque Isle, Maine
+| location     =
+| elevation-f  = 534
+| elevation-m  = 163
+| coordinates  = 
+| website      =
+| r1-number    = 1/19
+| r1-length-f  = 7,439
+| r1-length-m  = 2,267
+| r1-surface   = Asphalt
+| r2-number    = 10/28
+| r2-length-f  = 5,994
+| r2-length-m  = 1,827
+| r2-surface   = Asphalt
+| stat-year    = 2007
+| stat1-header = Aircraft operations
+| stat1-data   = 4,684
+| stat2-header = Based aircraft
+| stat2-data   = 22
+| footnotes    = Sources: airport website}}
+
+'''Northern Maine Regional Airport''' (Airport Code '''KPQI''') is a public airport in the city of Presque Isle, Maine.
+
+It was used as an Air Force Base called ''Presque Isle Air Force Base''. The base closed in 1961.
+
+US Airways Express flies between here and Boston, Massachusetts.

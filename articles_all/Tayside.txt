@@ -1,0 +1,5 @@
+{{Infobox historic subdivision
+|Name=Tayside|Government=Tayside Regional Council|PopulationLast=|PopulationLastYear=|DensityFirst=|DensityFirstYear=|DensitySecond=|DensitySecondYear=|DensityThird=|DensityThirdYear=|DensityLast=|DensityLastYear=|Status=|government_type=Local government areas of Scotland 1973 to 1996|Regional council|PopulationThird=|Arms=|arms_caption=|Civic=|civic_caption=|Motto=|HQ=Tayside House, Dundee|CodeName=|Code=|Divisions=Districts|DivisionsNames=Angus, Scotland|Angus, Dundee, Perth and Kinross|Perth & Kinross|DivisionsMap=|PopulationThirdYear=|PopulationSecondYear=1991|subdivision_type=Local government areas of Scotland 1973 to 1996#Regions and islands areas|Region|AreaFirstYear=|AltName=Taobh Tatha|Image=|image_caption=|arms_image=|arms_link=|flag_image=|flag_link=|Map=
+|PopulationFirst=397,055
+The region was created in 1974. It was removed in 1995 because local government in Scotland was made simpler.
+

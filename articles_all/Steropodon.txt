@@ -1,0 +1,16 @@
+
+{{Taxobox
+| name = ''Steropodon''
+| image = Steropodon_BW.jpg
+|fossil_range = Lower Cretaceous
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Mammalia
+| ordo = Monotreme|Monotremata
+| familia = Steropodontidae
+| genus = '''''Steropodon'''''
+| binomial = ''Steropodon galmani''}}
+
+'''''Steropodon galmanii''''' was a prehistoric species of monotreme, or a egg-laying mammal, that lived during the Mesozoic, in the Lower Cretaceous period. It is the second-earliest known relative of the platypus: the earlist is called ''Teinolophos''.
+
+Category:Monotremes

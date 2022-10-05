@@ -1,0 +1,21 @@
+{{Taxobox
+| name = ʻAlalā
+| image =Corvus hawaiiensis FWS.jpg
+| status = EW
+| status_system = iucn3.1
+| regnum = Animalia
+| classis = Aves
+| ordo = Passeriformes
+| familia = Corvidae
+| genus = ''Crow|Corvus''
+| binomial = ''Corvus hawaiiensis''}}
+
+The '''Alalā''' or '''Hawaiian crow''' (''Corvus hawaiiensis'') is a species of bird in the crow family. The bird was found only in the western and southeastern parts of the island of Hawaiʻi before becoming completely extinct in the wild. There are two breeding facilities operated by the San Diego Zoo.
+
+
+
+
+
+
+
+Category:Corvids

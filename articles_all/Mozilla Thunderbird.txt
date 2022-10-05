@@ -1,0 +1,4 @@
+
+'''Mozilla Thunderbird''' is a free software|free cross-platform e-mail client developed by the Mozilla Foundation.
+
+Category:Mozilla

@@ -1,0 +1,13 @@
+Your '''watchlist''' is a list which is used for Help:Tracking changes|tracking changes to pages you have chosen to follow. It is similar to the "" in the top right corner of any page, if you have an account.
+
+Before you see anything here, you must add some pages to your watchlist. Do this by going to a page which interests you, and clicking the '''"" tab'''. Sometimes, the "watch" tab may have a picture of a star on it, instead of the word "Watch".
+
+A watchlist is very useful if the wiki where you are is busy, because the "Special:RecentChanges|New Changes" list changes very quickly. On a small wiki, you can normally see all of the changes being made, on the "recent changes" page. But you can still watch pages and see changes to subjects that interest you.
+
+Normally people watch pages related to their interests, their job, or "WP:GA|good" and "WP:VGA|very good" pages. If you make a big :wikt:edit|edit to a page, you might choose to watch the page to see if anyone changes what you wrote. There is a "" box to click on the edit screen for this purpose.  
+
+When looking at your watchlist, some page names appear in bold ('''like this'''). If an entry on your watchlist looks like this, it means you've not looked at the page since it was changed. It is similar to a "read/unread" page :wikt:icon|icon in an email :wikt:inbox|inbox. The " uses bold to show changes to pages on your watchlist.
+
+See also Help:Tracking changes.
+
+Category:Help|Watchlist

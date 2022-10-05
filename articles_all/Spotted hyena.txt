@@ -1,0 +1,34 @@
+{{Taxobox
+| name = Spotted hyena
+| fossil_range = late Pliocene – Recent
+| status = LC | status_system = IUCN3.1
+| status_ref =
+| trend = unknown
+| image = Crocuta crocuta Amboseli NP (cropped).jpg
+| image_width = 300 px
+| image_caption = Spotted hyena in Amboseli National Park, Kenya
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Carnivora
+| familia = Hyaenidae
+| genus = '''''Crocuta'''''
+| binomial = ''Crocuta crocuta''
+| range_map = Spotted Hyaena area.png
+| range_map_caption = Spotted hyena range}}
+
+The '''spotted hyena''' (''Crocuta crocuta'') is a species of hyena (or "hyaena" in British English). They are often called the '''laughing hyena'''. They are found almost everywhere in Sub-Saharan Africa. There are between 27,000 and 47,000 individuals, though their population is wikt:decline|getting smaller in the wild. This is because of habitat loss and poaching|illegal hunting. They lived in Europe for at least a million years until the end of the Pleistocene.
+
+The spotted hyena is the largest member of the Hyaenidae. They are the most social Carnivora animals, with various group sizes. Hyenas are pack hunters. Their behaviors are still not well understand. However, their social system is not wikt:cooperate|cooperative but wikt:compete|competitive. Females take care of their own cubs only, and males are not interested in helping females with their cubs. Females are larger than males and they can control them. The females are the only mammalian species not to have a vaginal opening.Glikman S.E. ''et al'' 2006. Mammalian sexual differentiation: lessons from the spotted hyena. ''Trends Endocrinol Metab'' '''17''':349–356. 
+The spotted hyena is a successful scavenger as well as hunter They can eat skin, bone and other animal waste. Spotted hyenas hunt with a family group of about two to five other hyenas. The family lives in large communities (called "clans") which may have up to 80 individuals.Kruuk, Hans 1972. ''The spotted hyena: a study of predation and social behaviour''. University of California Press, p7.
+
+They  run around herds of animals and choose one to attack. After they have selected their prey, they  chase them for a long time. They can run at speeds up to 60&nbsp;km/h. Humans have known spotted hyenas for a long time. In the Upper Paleolithic, humans made paintings of hyenas in caves. Spotted hyenas have a negative reputation in Western culture and Folklore|African folklore. In African folklore, spotted hyenas are described as ugly and scared animals. In Western culture, they are seen as wikt:greedy|greedy, stupid, wikt:foolish|foolish, powerful and a dangerous animal.
+
+ Books 
+
+
+
+
+
+
+Category:Hyaenas

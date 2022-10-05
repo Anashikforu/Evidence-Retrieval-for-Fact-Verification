@@ -1,0 +1,27 @@
+
+'''KDE''' is a community that produces free software, including a desktop environment called KDE Plasma for operating systems based on Linux or UNIX. This replaces the console, which is simply a black screen with text on it. KDE Plasma is a popular piece of software for users of Linux and UNIX.
+
+Plasma runs on top of the X Window System, which runs on top of any UNIX-like operating systems like Linux and Apple Macintosh|Mac OS X. 
+Since KDE SC 4.0, many KDE programs also runs on Microsoft Windows.
+
+ KDE releases 
+The following table lists when each version of KDE was released.
+
+
+
+ Applications 
+
+There are several major computer program|applications for KDE. These include:
+
+ Amarok (software)|Amarok - Music player
+ K3b - compact disc|CD burner
+ Kate (text editor)|Kate - Text editor
+ KDevelop - A program for making software
+ Konsole - Terminal emulator
+ Kontact - Personal information manager that has an e-mail client, a news client, a feed aggregator, To-do lists and more.
+ Kopete - Instant messaging client
+ Konqueror - File manager and web browser
+ KOffice - Office suite
+Dolphin (file manager)|Dolphin - File manager
+
+Category:KDE| 

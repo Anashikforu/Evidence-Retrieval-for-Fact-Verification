@@ -1,0 +1,146 @@
+
+
+'''Ain''' is a Departments of France|department in the east of France, in the Auvergne-Rhône-Alpes Regions of France|region. It is named after the river Ain (river)|Ain. Its Prefectures in France|prefecture is Bourg-en-Bresse.
+
+History
+Ain is one of the original 83 departments created during the French Revolution on 4 March 1790 with Bourg-en-Bresse as is Capital city|capital. It was formed with four former provinces: Bresse, Bugey, Dombes, Pays de Gex and part of the province of Franc-Lyonnais.
+
+It was divided in nine districts: Pont-de-Vaux, Bourg, Nantua, Gex, Belley, Saint-Rambert, Montluel, Trévoux and Châtillon-les-Dombes.
+
+The department was called ''départment of Bresse'' but in 1791 was changed to its present name: ''départment de l'Ain''.
+
+In 1798, Gex was separated from Ain for the creation of the old department of Léman.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the nine districts were changed into four ''arrondissements'': Bourg, Belley, Nantua and Trévoux.
+
+The department of Léman was eliminated in 1814 and Gex was again part of the department of Ain. In 1815, some ''communes'' of Gex are passed to Switzerland and the ''arrondissement'' of Gex is created.
+
+On 10 September 1926, the ''arrondissements'' of Gex and Trévoux were eliminated but in 1933 Gex was made again an ''arrondissement''.
+
+Geography
+
+Ain is part of the Auvergne-Rhône-Alpes Regions of France|region. It has an area of .
+
+The department borders with Switzerland and 6 other departments in 2 Regions of France|regions:
+ Auvergne-Rhône-Alpes region
+ Haute-Savoie (east)
+ Savoie (southeast)
+ Isère (south)
+ Rhône (department)|Rhône (southwest)
+ Bourgogne-Franche-Comté region
+ Jura (department)|Jura (north)
+ Saône-et-Loire (northwest)
+
+
+
+Administration
+Ain is managed by the ''Departmental Council of Ain'' in Bourg-en-Bresse. The department is part of the Auvergne-Rhône-Alpes region.
+
+=Administrative divisions=
+There are 4 Arrondissements of France|''arrondissements'' (districts), 23 Cantons in France|''cantons'' and 410 Communes in France|''communes'' (Municipality|municipalities) in Ain.
+
+
+
+
+
+The following is a list of the 23 Cantons of France|cantons of the Ain department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Ambérieu-en-Bugey|Ambérieu-en-Bugey (0101)
+# Canton of Attignat|Attignat (0102)
+# Canton of Bellegarde-sur-Valserine|Bellegarde-sur-Valserine (0103)
+# Canton of Belley|Belley (0104)
+# Canton of Bourg-en-Bresse-1|Bourg-en-Bresse-1 (0105)
+# Canton of Bourg-en-Bresse-2|Bourg-en-Bresse-2 (0106)
+# Canton of Ceyzériat|Ceyzériat (0107)
+# Canton of Châtillon-sur-Chalaronne|Châtillon-sur-Chalaronne (0108)
+# Canton of Gex|Gex (0109)
+# Canton of Hauteville-Lompnes|Hauteville-Lompnes (0110)
+# Canton of Lagnieu|Lagnieu (0111)
+# Canton of Meximieux|Meximieux (0112)
+# Canton of Miribel|Miribel (0113)
+# Canton of Nantua|Nantua (0114)
+# Canton of Oyonnax|Oyonnax (0115)
+# Canton of Pont-d'Ain|Pont-d'Ain (0116)
+# Canton of Replonges|Replonges (0117)
+# Canton of Saint-Étienne-du-Bois|Saint-Étienne-du-Bois (0118)
+# Canton of Saint-Genis-Pouilly|Saint-Genis-Pouilly (0119)
+# Canton of Thoiry|Thoiry (0120)
+# Canton of Trévoux|Trévoux (0121)
+# Canton of Villars-les-Dombes|Villars-les-Dombes (0122)
+# Canton of Vonnas|Vonnas (0123)
+
+
+Demographics
+There is not an official demonym for the inhabitants of the Ain department; people are named after the regions:
+ Bresse - Bressans
+ Bugey - Bugistes
+ Revermont - Revermontois
+ Dombes - Dombistes
+ Pays de Gex - Gessiens
+
+Ain had a population, in 2014, of 626,127, for a population density of  inhabitants/km2. The ''arrondissement'' of Bourg-en-Bresse, with 354,177 inhabitants, is the ''arrondissement'' with more inhabitants.
+
+
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+ImageSize  = width:400 height:373
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:700000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+BarData=
+  bar:1968 text:1968
+  bar:1975 text:1975
+  bar:1982 text:1982
+  bar:1990 text:1990
+  bar:1999 text:1999
+  bar:2008 text:2008
+  bar:2014 text:2014
+PlotData=
+  color:barra width:30 align:left
+  bar:1968 from:0 till: 339262
+  bar:1975 from:0 till: 376477
+  bar:1982 from:0 till: 418516
+  bar:1990 from:0 till: 471019
+  bar:1999 from:0 till: 515270
+  bar:2008 from:0 till: 581355
+  bar:2014 from:0 till: 626127
+PlotData=
+ bar:1968 at: 339262 fontsize:S text: 339,262 shift:(-12,5)
+ bar:1975 at: 376477 fontsize:S text: 376,477 shift:(-18,5)
+ bar:1982 at: 418516 fontsize:S text: 418,516 shift:(-18,5)
+ bar:1990 at: 471019 fontsize:S text: 471,019 shift:(-18,5)
+ bar:1999 at: 515270 fontsize:S text: 515,270 shift:(-18,5)
+ bar:2008 at: 581355 fontsize:S text: 581,355 shift:(-18,5)
+ bar:2014 at: 626127 fontsize:S text: 626,127 shift:(-18,8)
+
+
+
+The ''Communes of France|communes'' in the department with more than 8,000 inhabitants are:
+
+
+
+
+Gallery
+
+File:Bleu de Gex.jpg|Bleu de Gex cheese
+File:200606 - Eglise de Brou - arrière 1.JPG|Church of Brou (Bourg-en-Bresse)
+File:Préfecture de l'Ain.JPG|Prefecture (view from the parc)
+File:Lac de Nantua et Nantua (Ain).JPG|Lake of Nantua
+File:Le Reculet top.jpg|The summit of Le Reculet peak
+
+
+Related pages
+ Arrondissements of the Ain department
+ Communes of the Ain department
+
+Category:Departments in Auvergne-Rhône-Alpes

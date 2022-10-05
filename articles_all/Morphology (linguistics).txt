@@ -1,0 +1,52 @@
+'''Morphology''' is part of linguistics. It looks at the way words are put together using small pieces called '''morphemes'''.  A morpheme is the smallest part of a word that has meaning.  Different languages have different morphemes and have different rules for how morphemes are combined.
+
+ Free and bound morphemes 
+Words are the smallest pieces of a sentence. Some words only have one morpheme. For example the English language|English words ''thank,'' ''dog,'' and ''slow'' are all words made up of only one morpheme. A morpheme that can stand alone as a word is called a ''free morpheme''.
+Words can also be made up of more than one morpheme.  English speakers know that one can add the plural(more than one) morpheme, ''-s,'' to the end of ''dog,'' and create the word ''dogs''.  The new word combines the meanings of the two morphemes, so the meaning of the new word, ''dogs'' is ''more than one dog.''  ''Dog'' is a free morpheme, but the plural morpheme ''-s'' is not. It must attach to a word (no native English speaker would use ''-s'' as a stand alone word).  Morphemes which must be attached to a word are called ''bound morphemes''.  Morphemes attached to the front of a word are called ''prefixes''. Those attached to the end are called ''suffixes''. Some morphemes can attach in the middle of a word and are called ''infixes''. (example?)
+
+ Inflectional and derivational morphemes 
+There are two types of bound morphemes: derivational and inflectional. Inflectional morphemes give a listener or reader information about how the word is used in a sentence.  English does not have a lot of inflectional morphemes. An example of an inflectional morpheme in English is the ''-ed'' suffix for verbs.  This morpheme at the end of a verb lets the speaker know that the action happened in the past.  Another example is the ''-s'' suffix for nouns to show that there is more than one of the noun.
+
+Derivational morphemes change the Parts of speech|part of speech or somehow change the basic meaning of the word they attach to.  Most bound morphemes in English are derivational.
+
+ Examples 
+''English Word: "unthankful"''
+
+Morphemes:
+
+
+''English Word: "songwriter"''
+
+Morphemes:
+
+
+''English Word: "modernized"''
+
+Morphemes:
+
+
+ Sources 
+
+<!-- This list of sources was in the original article, but I didnt use them.  I didn't feel right getting rid of them, so I have left them in here as hidden text if anyone else wants to use them to improve this article in the future.
+
+:(Abbreviations: CUP = Cambridge: Cambridge University Press; UP = University Press)
+
+ Anderson, Stephen R. (1992). ''A-Morphous Morphology''. Cambridge: CUP.
+ Aronoff, Mark (1993). ''Morphology by Itself''. Cambridge, MA: MIT Press.
+ Beard, Robert (1995). ''Lexeme-Morpheme Base Morphology''. Albany, N.Y.: State University of New York Press. ISBN 0-7914-2471-5.
+ Bauer, Laurie. (2003). ''Introducing linguistic morphology'' (2nd ed.). Washington, D.C.: Georgetown University Press. ISBN 0-87840-343-4.
+ Bauer, Laurie. (2004). ''A glossary of morphology''. Washington, D.C.: Georgetown UP.
+ Bubenik, Vit. (1999). ''An introduction to the study of morphology''. LINCON coursebooks in linguistics, 07. Muenchen: LINCOM Europa. ISBN 3-89586-570-2.
+Foley, William A. (1998) " Haspelmath, Martin. (2002). ''Understanding morphology''. London: Arnold (co-published by Oxford University Press). ISBN 0-340-76025-7 (hb); ISBN 0-340-76026-5 (pbk).
+ Katamba, Francis. (1993). ''Morphology''. Modern linguistics series. New York: St. Martin's Press. ISBN 0-312-10101-5 (hb). ISBN 0-312-10356-5 (pbk).
+ Matthews, Peter. (1991). ''Morphology'' (2nd ed.). CUP. ISBN 0-521-41043-6 (hb). ISBN 0-521-42256-6 (pbk).
+ Mel'čuk, Igor A. (1993-2000). ''Cours de morphologie générale'', vol. 1-5. Montreal: Presses de l'Université de Montréal.
+ Mel'čuk, Igor A. (2006). ''Aspects of the theory of morphology''. Berlin: Mouton.
+ Scalise, Sergio (1983). ''Generative Morphology'', Dordrecht, Foris.
+ Singh, Rajendra and Stanley Starosta (eds). (2003). ''Explorations in Seamless Morphology''. SAGE Publications. ISBN 0-7619-9594-3 (hb).
+ Spencer, Andrew. (1991). ''Morphological theory: an introduction to word structure in generative grammar''. No. 2 in Blackwell textbooks in linguistics. Oxford: Blackwell. ISBN 0-631-16143-0 (hb); ISBN 0-631-16144-9 (pb)
+ Spencer, Andrew, & Zwicky, Arnold M. (Eds.) (1998). ''The handbook of morphology''. Blackwell handbooks in linguistics. Oxford: Blackwell. ISBN 0-631-18544-5.
+ Stump, Gregory T. (2001). ''Inflectional morphology: a theory of paradigm structure''. No. 93 in Cambridge studies in linguistics. CUP. ISBN 0-521-78047-0 (hb).
+ van Valin, Robert D., and LaPolla, Randy. 1997. ''Syntax : Structure, Meaning And Function''. CUP -->
+
+Category:Grammar

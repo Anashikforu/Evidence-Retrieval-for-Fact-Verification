@@ -1,0 +1,7 @@
+'''Condensed matter physics''' is a branch of physics which talks about matter that has its molecules packed together very closely. This usually means it deals with solids (solid matter).
+
+
+
+
+Category:Matter
+Category:Basic physics ideas

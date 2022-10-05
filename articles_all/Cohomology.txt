@@ -1,0 +1,6 @@
+'''Cohomology''' is something in higher math which is sometimes used to solve certain math problems.
+
+
+Category:Algebra
+
+ru:Гомология (топология)#Когомологии

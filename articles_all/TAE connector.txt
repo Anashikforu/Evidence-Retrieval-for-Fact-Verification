@@ -1,0 +1,14 @@
+
+
+'''TAE''' (Telekommunikations-Anschluss-Einheit) is the Germany|German standard for telephone plugs and sockets.
+
+Image:TAE-Stecker-F.jpg|thumb|right|150px|TAE plug
+
+The standard covers two TAE types: ''F''&nbsp;("Fernsprechgerät": for telephones) and ''N''&nbsp;("Nebengerät": for other devices such as answering machines and modems).
+
+Pin-out
+
+
+
+
+Category:Electrical connectors

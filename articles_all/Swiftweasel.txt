@@ -1,0 +1,10 @@
+Image:Iceweasel.png|thumb|250px|Swiftweasl logo
+'''Swiftweasel''' is a free software|free and fully open source build of Mozilla Firefox.
+
+Other websites
+    
+
+
+
+Category:Web browsers
+Category:Mozilla

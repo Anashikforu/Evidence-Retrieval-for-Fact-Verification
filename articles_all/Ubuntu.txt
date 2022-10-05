@@ -1,0 +1,66 @@
+
+
+
+
+'''Ubuntu''' is a free software|free operating system that uses the Linux kernel. The word "ubuntu" is an African word meaning "humanity to others".
+
+It is one of the most popular Linux distributions and it is based on Debian Linux computer operating system. The goal with Ubuntu is to make it easy to use and install onto a computer. Ubuntu can be used on all types of personal computers (and even devices such as robots) including in Microsoft Windows 10|Windows 10.
+A new release of Ubuntu is released every six months, with long-term support (long-term support|LTS) releases every two years. The latest release is Ubuntu 20.10|20.10 ("Groovy Gorilla"), while the most recent long-term support release (what most users may want to choose) is List of Ubuntu releases#Ubuntu 20.04 LTS (Focal Fossa)|20.04 LTS ("Focal Fossa"), which is supported until 2025.
+
+Started in 2004, Ubuntu has been developed by Canonical Ltd., a company owned by a rich South African man named Mark Shuttleworth.
+
+ Packages and software support 
+
+
+
+Ubuntu splits all software into four different categories to show differences in license|licensing and the amount of support available. They are:
+
+
+
+Free software here includes only software that meets the Ubuntu licensing requirements,
+
+Non-free software is usually unsupported (Multiverse), but some exceptions (Restricted) are given for very important non-free software. Supported non-free software include device drivers that are needed to run Ubuntu on current hardware. The level of support in the Restricted category is less than that of Main, since the developers may not be able to get to the source code. It is wanted that Main and Restricted should contain all the software needed for a general-use Linux system.
+
+Besides the official repository|repositories is ''Ubuntu Backports'', which is an officially known project to backport newer software from later releases of Ubuntu. The repository is not comprehensive (meaning that it has parts missing from it); it is mostly made up of user-requested packages, which are accepted if they meet quality guidelines.
+
+ Releases 
+Two new releases of Ubuntu are released each year, normally in April and October.
+
+The number of the Ubuntu release is 'X.YY', with 'X' being the year of release (minus 2000) and 'Y' being the month of release. For example, Ubuntu 4.10 was released in October (the tenth month of the year), 2004. The name of the release (for example, Breezy Badger) is an adjective (a describing word) followed by the name of an animal.
+
+''LTS indicates Long Term Support.''
+
+Very old (i.e. 32-bit i386) processors have been supported up to Ubuntu 18.04, but users "will not be allowed to upgrade to Ubuntu 18.10 as dropping support for that architecture is being evaluated".
+
+ Package 
+Ubuntu's official software package repositoryArchLinux.org, 
+ Variants 
+
+Ubuntu is available in many different variants, e.g. because there are several options for which desktop environment to use.
+
+The official sister distributions which are fully supported by Canonical are:
+
+ Ubuntu Kylin, an official derivative aimed at the Chinese market
+ Kubuntu, a desktop distribution using KDE rather than GNOME
+ Ubuntu Server Edition, which is mainly used on servers to provide services. This version only comes with a interface|command line interface, but a interface|graphical user interface can be installed.
+ Xubuntu, a "lightweight" distribution based on the Xfce desktop environment instead of GNOME, designed to run better on low-specification computers
+ Lubuntu, a desktop using the LXDE desktop environment
+ Ubuntu Budgie, a desktop using the Budgie desktop environment
+ Ubuntu MATE, a desktop using the MATE desktop environment
+ Ubuntu Studio, a multimedia-creation form of Ubuntu
+ Edubuntu, a distribution designed for classrooms using Unity
+<!--
+Derivatives that are recognized but not supported by Canonical are:
+ Mythbuntu, a multimedia platform based on MythTV
+ Ubuntu Gnome, a desktop using the GNOME desktop environment, obsolete as of Ubuntu 17.10
+ Lubuntu Next, a desktop using the LXQT desktop environment
+-->
+
+
+ Related pages 
+ GNU/Linux
+ Debian
+ GNOME
+ List of Linux distributions
+
+Category:Debian-based Linux distributions

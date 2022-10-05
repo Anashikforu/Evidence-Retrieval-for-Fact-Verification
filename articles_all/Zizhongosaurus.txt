@@ -1,0 +1,24 @@
+
+{{Taxobox
+| name = ''Zizhongosaurus''
+| fossil_range = Lower Jurassic
+| image = 
+| image_width=240px
+| regnum = Animalia
+| classis = Sauropsida
+| superordo = Dinosauria
+| ordo = Saurischia
+| subordo = Sauropodomorpha
+| infraordo = Sauropoda
+| familia = Vulcanodontidae
+| genus = '''''Zizhongosaurus'''''}}
+
+'''''Zizhongosaurus''''' was a very large plant-eating dinosaur. It was a large sauropod, related to ''Camarasaurus''.
+
+ Other websites 
+ 
+
+
+
+
+Category:Sauropods

@@ -1,0 +1,21 @@
+
+
+{{Taxobox
+| name = Magellan goose
+| status = 
+| image = Chloephaga picta.jpg
+| image_width = 200px
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = bird|Aves
+| ordo = Anseriformes
+| familia = Anatidae
+| binomial = ''Chloephaga picta''
+| subdivision_ranks = Subspecies
+| subdivision = 
+ ''C. p. picta'' (Lesser Magellan Goose)
+ ''C. p. leucoptera'' (Greater Magellan Goose)}}
+
+
+The '''Magellan goose''' (''Chloephaga picta picta'') or '''upland goose''' is a bird of ''Anatidae'' Family (biology)|family. It is most commonly found in the southern part of South America, Tierra del Fuego. The Upland goose is a subspecies of ''Chloephaga picta leucoptera''.
+Category:Geese

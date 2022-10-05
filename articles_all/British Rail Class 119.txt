@@ -1,0 +1,30 @@
+{{Infobox DMU
+|name = British Rail Class 119 
+|image = W51073.JPG|imagesize = 240px
+|background = #0033cc
+|caption = Class 119 DMU No. W51073 in BR Blue livery at Wirksworth Station on the Ecclesbourne Valley Railway.
+|Manufacturer = Gloucester Railway Carriage & Wagon Co. Ltd 
+|Operator = British Rail
+|Formation = DMBC/TSB/DMSL 
+|Built =1958
+|LinesServed = 
+|InService = 1958-1990s
+|CarLength = 64 ft 6 in 
+|CarWidth = 9 ft 3 in 
+|CarHeight = 12 ft 8 1/4 in 
+|Weight = 37 tons 10 cwt 
+|Capacity = 
+|MaxSpeed = 70 mph (112 km/h)
+|Gauge = Standard
+|Traction = Mechanical
+|Engine =BUT (AEC) of 150 hp 
+|SafetySystem=
+ |}}
+
+The British Rail '''Class 119''' DMUs were used on the Western Region of British Railways|Western Region and on services in the Midlands that used units that were based at Tyseley Depot. Soon after they were introduced, many of the DMUs were moved to Cardiff. This was so that they could serve the intermediate stations on outer suburban services from London Paddington to Oxford. These were as 7-car sets, with the addition of Hawksworth composites adapted to run as DMU trailers.
+
+
+
+
+
+Category:British Rail diesel multiple units|119

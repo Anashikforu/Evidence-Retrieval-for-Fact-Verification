@@ -1,0 +1,11 @@
+
+
+The '''queen''' in chess is piece which stands next to the King at the start of the game. It can move any number of unoccupied squares diagonally, vertically, and horizontally. When recording games it is shortened to Q.
+
+ The queen's movement 
+The queen moves like a bishop (chess)|bishop and rook (chess)|rook both. Although both players start with one queen each. A player may List of chess terms#P|promote a pawn to a piece, usually a queen, when the pawn reaches the last line of the opponent team.
+
+ History of the queen in chess 
+The History of chess|IndoArabic game lasted for nearly a thousand years until the end of the 15th century. In it, the piece next to the Shah was the Firzān or Visier, who was a counsellor. This piece had a movement even more limited than the king: it moved just one square at a time, on the diagonal. Not surprising, then, that when the move changed into its modern form, the Italians called the new game ''schacci alla rabioso'' (~furious chess).Murray H.J.R. 1913. ''The history of chess''. Oxford. p225 reprint 
+
+Category:Chess pieces

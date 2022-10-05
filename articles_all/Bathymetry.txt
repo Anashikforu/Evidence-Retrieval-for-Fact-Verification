@@ -1,0 +1,12 @@
+
+
+'''Bathymetry''' is the study of the underwater terrain of lakes or ocean floors. It is the same as topography, except that it looks at the underwater topography. It is a field of oceanography. The name comes from Greek language|Greek  (''metron''), meaning "measure".
+Originally, bathymetry involved the measurement of ocean depth through depth sounding|sounding. Early techniques used heavy rope or cable lowered over a ship's side. This method measures the depth of the water at a single location each time. It was not a very accurate method. The data used to make bathymetric maps today usually comes from an echosounder (sonar). This device is attached to the bottom or the side of a boat.{{citation
+  | last = Olsen
+  | first = R. C.
+  | author-link =
+  | title = Remote Sensing from Air and Space
+  | publisher = SPIE
+  | year = 2007
+  | isbn = 978-0-8194-6235-0}}
+

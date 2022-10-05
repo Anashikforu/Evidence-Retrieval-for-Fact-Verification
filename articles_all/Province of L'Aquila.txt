@@ -1,0 +1,203 @@
+
+The '''province of L'Aquila''' () is a Provinces of Italy|province in the Abruzzo region of Southern Italy. Its Capital city|capital is the city of L'Aquila.
+
+It is the largest province of the region but the one with fewest people living in it; it is a landlocked province, that is, surrounded by other provinces by all sides.
+
+Geography
+
+L'Aquila is the largest province in the Abruzzo region with almost half of the area of the region; it has area of . The province is bordered to the north with Tuscany, to the northeast by the province of Teramo, to the east by the Province of Pescara|Pescara and Province of Chieti provinces, to the south and southeast with the Molise region (province of Isernia), and to the west and southwest by the Lazio region (province of Frosinone, Metropolitan City of Rome Capital|Rome and province of Rieti).
+
+
+
+The main river in the province is the Aterno-Pescara river, known here as ''Aterno''; it starts in the ''Monti della Laga'' and flows through the province.
+
+L'Aquila is the province of the Abruzzo region with more mountains; there are three mountain ranges that go from the northwest to the southeast, and that are Parallel (geometry)|parallels to the coastline: ''Monti della Gaga'', ''Gran Sasso'' and ''Majella massif''. The highest mountain in the province is ''Monte Amaro'',( high and is the highest mountain of three provinces: Chieti, L'Aquila and Pescara of the Abruzzo.
+
+Population
+There are 301,910 persons living in the province (January 2017), for a population density of  inhabitants/km².
+
+'''Evolution of the population'''
+
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:350000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2017 text:2017
+
+PlotData=
+ color:barra width:30 align:left
+
+  bar:1961 from:0 till: 328989
+  bar:1971 from:0 till: 293066
+  bar:1981 from:0 till: 291742
+  bar:1991 from:0 till: 297838
+  bar:2001 from:0 till: 297424
+  bar:2011 from:0 till: 298343
+  bar:2017 from:0 till: 301910
+
+PlotData=
+  bar:1961 at: 328989 fontsize:S text: 328,989 shift:(-13,5)
+  bar:1971 at: 293066 fontsize:S text: 293,066 shift:(-18,5)
+  bar:1981 at: 291742 fontsize:S text: 291,742 shift:(-18,8)
+  bar:1991 at: 297838 fontsize:S text: 297,838 shift:(-18,8)
+  bar:2001 at: 297424 fontsize:S text: 297,424 shift:(-18,5)
+  bar:2011 at: 298343 fontsize:S text: 298,343 shift:(-18,10)
+  bar:2017 at: 301910 fontsize:S text: 301,910 shift:(-18,8)
+
+
+
+ Municipalities 
+There are 108 Municipality|municipalities (or ''Comune|comuni'') in the province; they are:
+
+# Acciano
+# Aielli
+# Alfedena
+# Anversa degli Abruzzi
+# Ateleta
+# Avezzano
+# Balsorano
+# Barete
+# Barisciano
+# Barrea
+# Bisegna
+# Bugnara
+# Cagnano Amiterno
+# Calascio
+# Campo di Giove
+# Campotosto
+# Canistro
+# Cansano
+# Capestrano
+# Capistrello
+# Capitignano
+# Caporciano
+# Cappadocia
+# Carapelle Calvisio
+# Carsoli
+# Castel del Monte
+# Castel di Ieri
+# Castel di Sangro
+# Castellafiume
+# Castelvecchio Calvisio
+# Castelvecchio Subequo
+# Celano
+# Cerchio
+# Civita d'Antino
+# Civitella Alfedena
+# Civitella Roveto	
+# Cocullo
+# Collarmele
+# Collelongo
+# Collepietro
+# Corfinio
+# Fagnano Alto
+# Fontecchio
+# Fossa
+# Gagliano Aterno
+# Gioia dei Marsi
+# Goriano Sicoli
+# Introdacqua
+# L'Aquila
+# Lecce nei Marsi
+# Luco dei Marsi
+# Lucoli
+# Magliano de' Marsi
+# Massa d'Albe
+# Molina Aterno
+# Montereale
+# Morino
+# Navelli
+# Ocre
+# Ofena
+# Opi
+# Oricola
+# Ortona dei Marsi
+# Ortucchio
+# Ovindoli
+# Pacentro
+# Pereto
+# Pescasseroli
+# Pescina
+# Pescocostanzo
+# Pettorano sul Gizio
+# Pizzoli	
+# Poggio Picenze
+# Prata d'Ansidonia
+# Pratola Peligna
+# Prezza
+# Raiano
+# Rivisondoli
+# Rocca di Botte
+# Rocca di Cambio
+# Rocca di Mezzo
+# Rocca Pia
+# Roccacasale
+# Roccaraso
+# San Benedetto dei Marsi
+# San Benedetto in Perillis
+# San Demetrio ne' Vestini
+# San Pio delle Camere
+# San Vincenzo Valle Roveto
+# Sant'Eusanio Forconese
+# Sante Marie
+# Santo Stefano di Sessanio
+# Scanno
+# Scontrone
+# Scoppito
+# Scurcola Marsicana
+# Secinaro
+# Sulmona
+# Tagliacozzo
+# Tione degli Abruzzi
+# Tornimparte
+# Trasacco
+# Villa Sant'Angelo
+# Villa Santa Lucia degli Abruzzi
+# Villalago
+# Villavallelonga
+# Villetta Barrea
+# Vittorito
+
+
+The largest ''comune'' is L'Aquila, with . The ''comune'' with fewest people living in it is Carapelle Calvisio with 88 inhabitants.
+
+=Main ''comuni''=
+The following table shows the 10 Comune|''comuni'' with more inhabitants with their population, and their area and altitude.
+
+
+
+
+
+Gallery
+
+File:L'Aquila, Basilica di San Bernardino 2007 by-RaBoe-1.jpg|''San Bernardino'' basilica in L'Aquila.
+File:AZ risorgimento5.jpg|''Risorgimento'' Town square|square and cathedral, Avezzano.
+File:Santo Stefano di Sessanio 2008 by-RaBoe 01.jpg|Santo Stefano di Sessanio.
+File:Pacentro 2009 06 (RaBoe).jpg|Pacentro.
+File:Aquila duomo.jpg|''Piazza del Duomo'', L'Aquila.
+
+
+Related pages
+ List of comuni of the Province of L'Aquila
+
+Category:Provinces of Abruzzo|L'Aquila

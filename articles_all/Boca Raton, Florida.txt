@@ -1,0 +1,21 @@
+
+| population_total                = 84394
+| population_density_sq_mi        = 3277.88
+| population_density_km2          = 1265.61
+| population_urban                = 
+| population_metro                = 
+| population_blank1_title         = 
+| population_blank1               = 
+| population_blank2_title         = 
+| population_blank2               = 
+| timezone                        = Eastern Time Zone|EST
+| utc_offset                      = -5
+| timezone_DST                    = Eastern Daylight Time|EDT
+| utc_offset_DST                  = -4
+| postal_code_type                = ZIP code|ZIP code(s)
+| postal_code                     = 
+'''Boca Raton''' is a city in Southern Palm Beach County, Florida|Palm Beach County, Florida. Boca Raton is has the second highest number of people in Palm Beach County. As of 2018, the city of Boca Raton had nearly 100,000 people living within the city. The southern end of the city borders Deerfield Beach, Florida|Deerfield Beach in Broward County. The mayor of Boca Raton is Scott Singer.
+
+The main campuses of Florida Atlantic University and Everglades University are in Boca Raton. The headquarters of Office Depot is also in the city.
+
+Category:Palm Beach County, Florida

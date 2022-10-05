@@ -1,0 +1,141 @@
+
+
+'''Corrèze''' () is a departments of France|department in south-western France, named after the Corrèze (river)|Corrèze river. It is in the Nouvelle-Aquitaine Regions of France|region and its Capital city|capital is the city of Tulle.
+
+History
+Corrèze is one of the 83 French departments made during the French revolution, on 4 March 1790. It was created from parts of the old province of Limousin (the ''Bas Limousin'').
+
+The new department had four districts: Uzerche, Ussel, Tulle and Brive. The Capital city|capital (now Prefectures in France|prefecture) was Tulle.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the four districts were changed into three ''arrondissements'': Tulle, Brive and Ussel.
+
+On 10 September 1926, the ''arrondissement'' of Ussel was eliminated but, on 6 December 1943, it became again an ''arrondissement''.
+
+Geography
+Corrèze is part of the Nouvelle-Aquitaine Regions of France|region; it is to the west of the Massif Central. It has an area of .
+
+The department is surrounded by 6 departments in 3 Regions of France|regions:
+ Nouvelle-Aquitaine region
+ Creuse department
+ Dordogne department
+ Haute-Vienne department
+ Occitanie region
+ Lot (department)|Lot department
+ Auvergne-Rhône-Alpes region
+ Cantal department
+ Puy-de-Dôme department
+
+
+
+
+Administration
+The department is managed by the ''Departmental Council of the Corrèze'' in Tulle. Corrèze is part of the region of Nouvelle-Aquitaine.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 19 Cantons in France|''cantons'' and 283 Communes in France|''communes'' (Municipality|municipalities) in Corrèze.
+
+
+
+
+
+The following is a list of the 19 Cantons of France|cantons of the '''Corrèze''' department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+# Canton of Allassac|Allassac (1901)
+# Canton of Argentat|Argentat (1902)
+# Canton of Brive-la-Gaillarde-1|Brive-la-Gaillarde-1 (1903)
+# Canton of Brive-la-Gaillarde-2|Brive-la-Gaillarde-2 (1904)
+# Canton of Brive-la-Gaillarde-3|Brive-la-Gaillarde-3 (1905)
+# Canton of Brive-la-Gaillarde-4|Brive-la-Gaillarde-4 (1906)
+# Canton of Égletons|Égletons (1907)
+# Canton of Haute-Dordogne|Haute-Dordogne (1908)
+# Canton of Malemort-sur-Corrèze|Malemort-sur-Corrèze (1909)
+# Canton of Midi Corrézien|Midi Corrézien (1910)
+# Canton of Naves|Naves (1911)
+# Canton of Plateau de Millevaches|Plateau de Millevaches (1912)
+# Canton of Saint-Pantaléon-de-Larche|Saint-Pantaléon-de-Larche (1913)
+# Canton of Sainte-Fortunade|Sainte-Fortunade (1914)
+# Canton of Seilhac-Monédières|Seilhac-Monédières (1915)
+# Canton of Tulle|Tulle (1916)
+# Canton of Ussel|Ussel (1917)
+# Canton of Uzerche|Uzerche (1918)
+# Canton of L'Yssandonnais|L'Yssandonnais (1919)
+
+
+Demographics
+The inhabitants of Corrèze are known, in French language|French, as ''Corréziens'' (women: ''Corréziennes'').
+
+Corrèze has a population, in 2014, of 241,340, for a population density of  inhabitants/km2. The ''arrondissement'' of Brive-la-Gaillarde, with 130,034 inhabitants, is by far the largest. The other two, Tulle and Ussel, have respectively 78,408 and 32,898 inhabitants.
+
+
+'''Evolution of the population in Corrèze'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:300000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2008 text:2008
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 242798
+ bar:1975 from:0 till: 237926
+ bar:1982 from:0 till: 237858
+ bar:1990 from:0 till: 240363
+ bar:1999 from:0 till: 241448
+ bar:2008 from:0 till: 242896
+ bar:2014 from:0 till: 241340
+
+PlotData=
+ bar:1968 at: 242798 fontsize:S text: 242,798 shift:(-13,5)
+ bar:1975 at: 237926 fontsize:S text: 237,926 shift:(-18,5)
+ bar:1982 at: 237858 fontsize:S text: 237,858 shift:(-18,5)
+ bar:1990 at: 240363 fontsize:S text: 240,363 shift:(-18,5)
+ bar:1999 at: 241448 fontsize:S text: 241,448 shift:(-18,5)
+ bar:2008 at: 242896 fontsize:S text: 242,896 shift:(-18,5)
+ bar:2014 at: 241340 fontsize:S text: 241,340 shift:(-18,5)
+
+
+
+The city with more people living in it is Brive-la-Gaillarde (46,961) and not the Capital city|capitalː Tulle (14,325).
+
+The main cities in the department are:
+
+
+
+
+Gallery
+
+
+Tulle 2207.jpg|Tulle
+Uzerche, Église Saint-Pierre-PM 18517.jpg|Uzerche
+Argentat, July 2009.jpg|Argentat
+Beaulieu-sur-Dordogne Limousin France 2010 Kapel des Pénitents 4.jpg|Beaulieu-sur-Dordogne
+Collonges-la-Rouge rue.JPG|Collonges-la-Rouge
+
+
+
+Related pages
+ Arrondissements of the Corrèze department
+ Communes of the Corrèze department
+
+Category:Departments in Nouvelle-Aquitaine

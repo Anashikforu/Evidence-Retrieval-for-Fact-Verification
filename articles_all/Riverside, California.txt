@@ -1,0 +1,81 @@
+
+|image_flag          = Flag of Riverside, California.svg
+|image_seal          = 
+|image_shield = Seal of Riverside, California.png
+|nickname            = 
+|motto               = City of Arts & Innovation
+|image_map           = Riverside County California Incorporated and Unincorporated areas Riverside Highlighted.svg
+|map_caption         = Location of Riverside County within the State of California
+|image_map1          = 
+|mapsize1            = 
+|map_caption1        = 
+| pushpin_map = USA California#USA#North America
+| pushpin_map_caption = Location in California, United States & North America
+|pushpin_relief           = yes
+
+|coordinates         = 
+|subdivision_type    = List of sovereign states|Country
+|subdivision_name    = 
+|subdivision_type1   = U.S. state|State
+|subdivision_name1   = 
+|subdivision_type2   = List of counties in California|County
+|subdivision_name2   =  Riverside County, California|Riverside
+
+|established_title2  = Municipal corporation|Incorporated
+|established_date2   = 
+|established_title3  = Charter city|Chartered
+|established_date3   = 
+
+|government_type     = Council-manager government|Council-manager
+|leader_title        = City council
+|leader_name         = List of mayors of Riverside, California|Mayor Rusty BaileyMike GardnerAndy MelendrezMichael SoubirousCharles E. Conder Jr.Chris Mac ArthurJim PerrySteve Adams
+|leader_title1       = City manager
+|leader_name1        = John Russo (Fired)
+
+| unit_pref          = Imperial
+| area_footnotes     = 
+| area_total_sq_mi   = 81.54
+| area_total_km2     = 211.18
+| area_land_sq_mi    = 81.23
+| area_land_km2      = 210.38
+| area_water_sq_mi   = 0.31
+| area_water_km2     = 0.80
+| area_water_percent = 0.37
+
+|elevation_footnotes = 
+|elevation_ft        = 827
+|elevation_m         = 252
+
+|population_as_of    = 2010 United States Census|2010
+|population_footnotes = 
+|population_total    = 303871
+|pop_est_as_of            = 2016
+|pop_est_footnotes        = 
+|population_est           = 324722
+|population_rank     = Riverside County, California|1st in Riverside CountyList of largest California cities by population|12th in CaliforniaList of United States cities by population|59th in the United States
+|population_density_sq_mi = 3997.66
+|population_demonym  = 
+|timezone            = Pacific Time Zone|Pacific
+|utc_offset          = &minus;8
+|timezone_DST        = Pacific Daylight Time|PDT
+|utc_offset_DST      = &minus;7
+
+|postal_code_type    = ZIP codes
+|postal_code         = 92501–92509, 92513–92519, 92521–92522
+|area_code_type      = North American Numbering Plan|Area code
+|area_code           = Area code 951|951
+|blank_name          = Federal Information Processing Standard|FIPS code
+|blank_info          = 
+|blank1_name         = Geographic Names Information System|GNIS feature IDs
+|blank1_info         = 
+|website             = 
+|population_density_km2 = 1543.50
+}}
+'''Riverside''' is a city in California. It is the county seat of Riverside County, California|Riverside County. The city, which got its name from being close to the Santa Ana River, is the first place in California in which people sold a lot of citrus fruit. In 2008, about 311,575 people lived in Riverside.
+Because houses cost less money in Riverside than most cities in Southern California, people have been slowly moving there. This makes traffic bad as people from Riverside drive to work in Orange County, California|Orange County and Los Angeles, California|Los Angeles.
+
+Riverside has a few schools, including La Sierra University, California Baptist College, and the University of California-Riverside. The city also has Riverside Municipal Museum, the California Museum of Photography, and the California Citrus State Historic Park. In 1873, the Parent Washington Navel Orange Tree was planted in Riverside, and it is one of two original orange trees in California. The historic Mission Inn is another popular place.
+
+Riverside is part of the Greater Los Angeles Area.
+
+Category:Cities in California

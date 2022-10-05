@@ -1,0 +1,6 @@
+Image:Canon 85mm prime.jpg|300px|thumb|right|Compact 85mm Canon prime lens with a maximum aperture of f-number|f/1.8
+Image:lens aperture side.jpg|300px|thumb|right|This Nikon 35mm wide-angle lens is a small, light-weight and "fast" prime lens with a maximum aperture of f-number|f/2
+A '''prime lens''' is a camera lens|lens which has a fixed "zoom" or focal length. It is easier to make fixed focal lenses than to include them in a variable focus lens. Therefore, fixed focal lenses usually have a larger opening, known as an aperture, than comparable variable focus lenses. They are usually also of a higher optical quality.
+
+
+Category:Camera lenses

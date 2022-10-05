@@ -1,0 +1,19 @@
+
+
+{{Taxobox
+| name = ''Acanthomyops murphii''
+| image = 
+| status_system = IUCN2.3
+| status = VU 
+| status_ref = 
+| regnum = Animalia
+| phylum = Arthropoda
+| classis = Insecta
+| ordo = Hymenoptera
+| familia = Ant|Formicidae
+| genus = ''Acanthomyops''
+| binomial = ''Acanthomyops murphii''}}
+
+'''''Acanthomyops murphii''''' is a species of ant in the family Formicidae. It is Endemism|endemic to the United States.
+
+Category:Ants

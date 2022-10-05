@@ -1,0 +1,58 @@
+
+|founder = John Bidwell
+|government_type          = Council–manager government
+|leader_title1            = City council
+|leader_name1             = Mayor  Mark Sorensen  Vice Mayor Reanette Fillmer  Andrew Coolidge  Randall Stone  Karl Ory  Ann Schwab  Mark Sorensen
+|leader_title2            = City Manager
+|leader_name2             = Mark Orme
+|leader_title4            = California State Legislature|State Legislators
+|leader_name4             = California's 4th State Senate district|Sen. 
+
+|total_type               = City (California)|City
+|unit_pref                = Imperial
+| area_footnotes          = 
+| area_total_sq_mi        = 33.45
+| area_land_sq_mi         = 33.28
+| area_water_sq_mi        = 0.17
+| area_total_km2          = 86.63
+| area_land_km2           = 86.19
+| area_water_km2          = 0.45
+| area_water_percent      = 0.52
+|area_metro_sq_mi         = 
+|area_metro_km2           = 
+|elevation_footnotes      = 
+|elevation_ft             = 197
+|elevation_m              = 60
+
+|population_as_of         = 2010 United States Census|2010
+|population_footnotes     = 
+|population_total         = 86187
+|pop_est_as_of            = 2016
+|pop_est_footnotes        = 
+|population_est           = 91567
+|population_density_sq_mi = 2751.74
+|population_metro         = 221,117
+|population_demonym       = Chicoan
+
+|timezone                 = Pacific Time Zone|Pacific
+|utc_offset               = &minus;8
+|timezone_DST             = Pacific Daylight Time|PDT
+|utc_offset_DST           = &minus;7
+|postal_code_type         = ZIP codes
+|postal_code              = 95926–95929, 95973, 95976
+|area_code_type           = North American Numbering Plan|Area code
+|area_code                = Area code 530|530
+|blank_name               = Federal Information Processing Standard|FIPS code
+|blank_info               = 
+|blank2_name              = Geographic Names Information System|GNIS feature IDs
+|blank2_info              = 
+|website                  = 
+|population_density_km2 = 1062.44
+}}
+'''Chico''' is a big city in the Central Valley of the United States|American U.S. state|state of California. It is in the northern part of the state. Chico is in the Sacramento Valley close to the foothills of the Sierra Nevada (US)|Sierra Nevada mountain range. The city has a population of 79,091. People first started living in Chico in 1843. The city was :wikt:found|founded in 1860 and started to government|govern itself in 1872.
+
+ Sister cities 
+ – Tamsui, Taipei, Taiwan 1985
+ – Pascagoula, Mississippi (U.S.) 2005
+
+Category:1860s establishments in California

@@ -1,0 +1,27 @@
+
+'''Desalination''' means any process that removes the excess sodium chloride|salt and other minerals from water in order to obtain fresh water suitable for animal consumption or irrigation. Most desalination is by distillation. Some is by reverse osmosis or other methods.
+
+The main purpose is to make water for people to use. The salt is usually carried away as brine but in some places the solid salt is extracted. 
+
+Desalination  of brackish water is done in the United States in order to meet treaty obligations for river water entering Mexico. Several Middle Eastern countries have energy reserves so great that they use desalinated water for agriculture. Saudi Arabia's desalination plants account for about 24% of total world capacity. The world's largest desalination plant is the ''Jebel Ali'' Desalination Plant (Phase 2) in United Arab Emirates|UAE. It uses multi-stage flash distillation, dual-purpose and it is capable of producing 300 million cubic meters of water per year.
+Methods
+#Distillation 
+##Multi-stage flash distillation|Multi-stage flash (MSF)
+##Multiple-effect evaporator|Multiple-effect (MED|ME)
+##Vapor-compression evaporation|Vapor compression (VC)
+##Evaporation/condensation
+#Membrane processes
+##Electrodialysis reversal (EDR)
+##Reverse osmosis (RO)
+##Nanofiltration (NF)
+##Forward osmosis (FO)
+##Membrane distillation (MD)
+#Freezing|Cold (freezing)
+#Geothermal desalination|thermal
+#Solar humidification 
+#Methane hydrate crystallisation
+#High grade water recycling
+
+The traditional process used in these operations is vacuum distillation — essentially the boiling of water at less than atmospheric pressure, and thus a much lower temperature than normal. Due to the reduced temperature, energy is saved.
+
+Category:Water

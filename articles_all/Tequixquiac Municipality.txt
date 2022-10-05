@@ -1,0 +1,44 @@
+{{Infobox settlement
+| name = Tequixquiac
+| official_name = Tequixquiac
+| settlement_type = Municipalities of Mexico State|Municipality
+| subdivision_type = Country
+| subdivision_name = Mexico
+| subdivision_type1 = States of Mexico|State
+| subdivision_name1 = State of Mexico
+| image_flag = Bandera de Tequixquiac.jpg
+| image_shield = Glifo azteca de Tequixquiac.png
+| image_map = Mexico Estado de Mexico Tequixquiac location map.svg
+| map_caption =
+| mapsize=
+| population_as_of=2005
+| population(city)_total=22,080
+| population(municipality)_total=33,080
+| population_note=
+| population_density_km2=auto 
+| area_total_km2= 
+| leader_title = Municipal&nbsp;president
+| leader_name = Salvador Raúl Vásquez Valencia
+| leader_party =
+| subdivision_type2 = Municipal&nbsp;seat
+| subdivision_name2 = Santiago Tequixquiac
+| subdivision_type3 = 
+| subdivision_name3 = 
+| timezone = Central Standard Time|CST
+| utc_offset = -6
+| timezone_DST = Central Daylight Time|CDT
+| utc_offset_DST = -5
+| coordinates_display = title
+| latd =19 | latm =36 | lats =35 | latNS = N 
+| longd =99 | longm=03 | longs=36 | longEW =W
+| website=
+| footnotes=}}
+
+'''Tequixquiac''' is a municipality in the state of México in Mexico. About 30,000 people live there.
+
+
+
+
+
+
+Category:Municipalities of Mexico (state)

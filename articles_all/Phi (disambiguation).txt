@@ -1,0 +1,7 @@
+'''Phi''' could mean:
+
+The letter Phi (letter)|phi
+The golden ratio
+Euler's totient function
+ A statistical measure of association reported with the chi-square test
+

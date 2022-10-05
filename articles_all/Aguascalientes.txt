@@ -1,0 +1,34 @@
+
+| unit_pref                       = Metric
+| area_footnotes                  = 
+| area_total_km2                  = 5617.80
+| area_land_km2                   = 
+| area_water_km2                  = 
+| area_water_percent              = 
+| area_note                       = List of Mexican states by area|Ranked 29th
+| elevation_m                     = 
+| elevation_max_footnotes         = 
+| elevation_max_m                 = 3050
+| elevation_max_ft                = 
+| elevation_min_m                 = 
+| elevation_min_ft                = 
+| population_footnotes            = 
+| population_total                = 1,312,544
+| population_as_of                = 2015
+| population_density_km2          = auto
+| population_density_rank         = List of Mexican states by population density|4th
+| population_demonym              = Hidrocálido (a)
+| population_note                 = 
+| population_rank                 = List of Mexican states by population|27th
+| timezone1                       = Central Time Zone|CST
+| utc_offset1                     = −6
+| timezone1_DST                   = Central Daylight Time|CDT
+| utc_offset1_DST                 = −5
+| postal_code_type                = Postal codes in Mexico|Postal code
+| postal_code                     = 20
+| area_code_type                  = Area code
+| area_code                       = 
+
+'''Aguascalientes''' is a states of Mexico|state in Mexico that is in the center of the country. Its state capital is the Aguascalientes, Aguascalientes|city of Aguascalientes. The state's name means "hot waters" in Spanish language|Spanish. People gave it this name because there are many hot springs in the area. The adjective for Aguascalientes is ''hidrocálido'', because ''hidro'' means water and ''cálido'' means hot.
+
+Category:States of Mexico

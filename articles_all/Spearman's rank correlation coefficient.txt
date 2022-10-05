@@ -1,0 +1,25 @@
+In mathematics and statistics, '''Spearman's rank correlation coefficient''' is a measure of correlation, named after its maker, Charles Spearman. It is written in short as the Greek letter ''rho'' (\rho) or sometimes as r_s. It is a number that shows how closely two sets of Information|data are linked. It only can be used for data which can be put in order, such as highest to lowest.
+
+The general formula for r_s is \rho=1-\cfrac {6\sum d^2}{n(n^2-1)}.
+
+For example, if you have data for how expensive different computers are, and data for how fast the computers are, you could see if they are linked, and how closely they are linked, using r_s.
+
+ Working it out 
+= Step one =
+To work out r_s you first have to ''rank'' each piece of data. We are going to use the example from the intro of computers and their speed.
+
+So, the computer with the lowest price would be rank '''1'''. The one higher than that would have '''2'''. Then, it goes up until it is all ranked. You have to do this to both sets of data.
+
+
+
+These numbers are used in exactly the same way as normal ranks.
+
+Related pages
+Correlation
+
+ Notes and references 
+
+
+
+Category:Statistics
+Category:Mathematics

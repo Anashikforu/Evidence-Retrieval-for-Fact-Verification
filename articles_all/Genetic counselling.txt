@@ -1,0 +1,31 @@
+'''Genetic counselling''', or ''counseling'', is the process by which clients are advised about genetic disorders. Genetic disorders, by definition, can be passed on in heredity. Example: many descendents of Queen Victoria carried one or both alleles for haemophilia. It was a hereditary disease in European royal families.
+
+Clients with a disorder may be interested in the probability of developing or transmitting a genetic disorder to their children. They may ask what the options are to prevent, avoid or improve it.
+
+Genetic counsellors
+Facilities and rules vary in different countries. In the United States the National Society of Genetic Counselors defines genetic counselling as: "The process of helping people understand and adapt to the medical, psychological and familial implications of genetic contributions to disease".  Interpretation of family and medical histories to assess the chance of disease occurrence or recurrence.
+ Education about inheritance, testing, management, prevention, resources and research.
+ Counselling to promote informed choices and adaptation to the risk or condition. 
+
+A genetic counsellor is an expert with a Master of Science degree in genetic counseling. In the United States they are certified by the American Board of Genetic Counseling.NSGC 
+Reasons and results
+Families may choose to attend counselling or undergo prenatal testing for a number of reasons.Macdonald F. 2008. Practice of prenatal diagnosis in the UK. ''Clin Risk'' '''14'''(6):218-221.
+ Family history of inherited disease.
+ Molecular test for a single gene disorder
+ Increased maternal age (>35 years)
+ Abnormal Triple test|serum screening results or ultrasound findings
+
+ The future 
+Within about ten years, the cost of complete genome sequence analysis|analysis will have come down so far that individual people will be able to have their own genome analysed. In fact there are claims that the day has already arrived.
+
+Pacific Biosciences stated they may not release their second-generation machine capable of a US$1,000 genome until 2013. Complete Genomics demonstrated in a peer-reviewed paper that was published online in ''Science'' in Nov. 2009 that it could sequence a human genome for a consumables cost of approximately US$1700.Drmanac R, Sparks AB, Callow MJ ''et al.'' 2010. Human genome sequencing using unchained base reads on self-assembling DNA nanoarrays. ''Science'' '''327'''(5961), 78-81 The accuracy and completeness of these systems is a critical issue.
+
+It is obvious that the demand for genetic counselling will increase hugely once accurate and complete genome analyses are widely available. The problem then will be to interpret what the analysis shows. At present there are many genes whose functions are not yet known, and many alleles whose effect is not known.
+
+= Practical consequences =
+Already it is possible to identify the sex of a foetus in the womb, and to identify some of the most common disorders. This may, depending on legal and religious constraints, influence abortion of the foetus in some cases. In some cases, the effects of a defect can be anticipated and prevented or cured. These issues do not affect most people today, but as genomic analysis advances, genetic counselling will become of much greater significance.
+
+ Related pages 
+Gene therapy
+
+Category:Society

@@ -1,0 +1,17 @@
+The '''Streamlined System for the Romanization of Bulgarian''' is a system of transliteration of the Bulgarian language|Bulgarian alphabet created by Lyubomir Ivanov in the Institute of Mathematics and Informatics at the Bulgarian Academy of Sciences in 1995,L.L. Ivanov, wikisource:Toponymic Guidelines for Antarctica|Toponymic Guidelines for Antarctica, Antarctic Place-names Commission of Bulgaria, Sofia, 1995.
+
+
+Invertibility
+The system is not invertible, for '''А''', '''Ж''', '''Й''', '''Ц''', '''Ш''', '''Щ''', '''Ю''', '''Я''' are transliterated in the same way as are '''Ъ''', '''ЗХ''', '''Ь''', '''ТС''', '''СХ''', '''ШТ''', '''ЙУ''', '''ЙА''' respectively.  An auxiliary, invertible variant of the system without the '''ИЯ'''-exception rule is proposed by L. Ivanov, D. Skordev and D. Dobrev to be used in those special cases when the exact retrieval of Bulgarian words from their Romanized forms is a priority, with Cyrillic letters and combinations of letters 
+'''Ъ''', '''Ь''', '''ЗХ''', '''ЙА''', '''ЙУ''', '''СХ''', '''ТС''', '''ТШ''', '''ТЩ''', '''ШТ''', '''ШЦ''' transliterated as ''`A'', ''`Y'', ''Z|H'', ''Y|A'', ''Y|U'', ''S|H'', ''T|S'', ''T|SH'', ''T|SHT'', ''SH|T'', ''SH|TS'' respectively.L. Ivanov, D. Skordev and D. Dobrev.  
+Comparison with other systems
+The Streamlined System is based on an English language|English-oriented transliteration, taking advantage of the global ''lingua franca'' role of English.  A similar shift towards English-oriented transliteration is observed in the case of other Cyrillic alphabets such as Russian language|Russian
+The Streamlined System is similar to the old 1952 BGN/PCGN System for the Romanization of Bulgarian, which had been official in the USA and the United Kingdom until 2013.  The latter however transliterates the Cyrillic letters '''Х''', '''Ь''' and '''Ъ''' as ''KH'', ''’'' (apostrophe) and ''Ŭ'', while the former uses ''H'', ''Y'' and ''A'' instead.USBGN, 
+Another similar system not adopted for official use in Bulgaria is that of A. Danchev, M. Holman, E. Dimova and M. Savova, which transliterates the Cyrillic letters '''У''' and '''Ъ''' by ''OU'' and ''U'' respectively, while the Streamlined System uses ''U'' and ''A'' for this purpose.  Furthermore, the latter system transliterates the digraphs АЙ•ай, ЕЙ•ей, ОЙ•ой and УЙ•уй by AI•ai, EI•ei, OI•oi and OUI•oui instead of AY•ay, EY•ey, OY•oy and UY•uy respectively.A. Danchev, M. Holman, E. Dimova, M. Savova. ''An English Dictionary of Bulgarian Names: Spelling and Pronunciation''. Sofia, Nauka i Izkustvo Publishers, 1989. 288 pp.
+
+Related pages
+ Transliteration
+ Bulgarian language
+ Cyrillic alphabet
+
+Category:Romanization|Bulgarian

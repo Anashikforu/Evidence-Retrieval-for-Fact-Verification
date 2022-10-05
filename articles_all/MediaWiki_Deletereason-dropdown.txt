@@ -1,0 +1,45 @@
+General
+ WP:QD#G1|QD G1: Page did not make any sense; complete nonsense
+ WP:QD#G2|QD G2: Test page. Please use the Wikipedia:Sandbox|sandbox
+ WP:QD#G3|QD G3: WP:VANDALISM|Vandalism
+ WP:QD#G4|QD G4: Recreation of a deleted page with the same or similar content
+ WP:QD#G6|QD G6: Non-controversial or regular cleanup
+ WP:QD#G7|QD G7: Author wanted deletion or blanked the page
+ WP:QD#G8|QD G8: Main page was deleted or does not exist
+ WP:QD#G10|QD G10: Attack page or negative unsourced :WP:BLP|biography
+ WP:QD#G11|QD G11: Wikipedia:Spam|Advertising
+ WP:QD#G12|QD G12: Wikipedia:Copyrights|Copyright violation
+
+|=
+Articles
+ WP:QD#A1|QD A1: The page has little or no meaning
+ WP:QD#A2|QD A2: The page has no content
+ WP:QD#A3|QD A3: Complex article from another Wikipedia, little sign of simplification/conversion
+ WP:QD#A4|QD A4: The page is about a person, group, company, product or website, and does not claim Wikipedia:notability|notability
+ WP:QD#A5|QD A5: The page is not written in English
+ WP:QD#A6|QD A6: The page is a fake or a hoax
+|User|User talk=
+User pages
+ WP:QD#U1|QD U1: User page or subpage where user asks for deletion
+ WP:QD#U2|QD U2: Non-existent users. User pages of users who don't exist or are not registered
+|Talk|=
+Talk pages
+ WP:QD#G6|QD G6: Talk on talk page not related to main page
+ WP:QD#G8|QD G8: Main page was deleted or does not exist
+|Template=
+Templates
+ WP:QD#T2|QD T2: Deprecated template
+|Category=
+Categories
+ WP:QD#C1|QD C1: Empty category
+ WP:QD#C2|QD C2: Renamed category
+ WP:QD#C3|QD C3: Category contains articles from only one template
+}}
+Redirects
+ WP:QD#R1|QD R1: Redirect to a non-existent page
+ WP:QD#R2|QD R2: Bad redirect between main namespace and User: or User talk:
+ WP:QD#R3|QD R3: Redirect with an uncommon typo
+Other
+ Wikipedia:Requests for deletion/Requests/
+ :Category:Move to Wiktionary|Moved to Wiktionary
+ Old userpage of an indefinitely blocked user

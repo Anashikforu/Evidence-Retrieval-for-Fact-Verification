@@ -1,0 +1,23 @@
+
+{{taxobox
+|image = Arabidopsis thaliana.jpg
+|image_width = 250px
+|regnum = Plantae
+|unranked_divisio = Angiosperms
+|unranked_classis = Eudicots
+|unranked_ordo = Rosids
+|ordo = Brassicales
+|familia = Brassicaceae
+|genus = '''''Arabidopsis'''''
+|binomial = ''Arabidopsis thaliana''
+|binomial_authority = (Carolus Linnaeus|L.) Heynh
+|range_map = Arabidopsis thaliana distribution.svg}}
+
+'''''Arabidopsis thaliana''''' is a small flowering plant native to Europe, Asia, and northwestern Africa. It is widely used as a model organism in plant genetics. Arabidopsis is a member of the mustard (''Brassicaceae'') family, which includes cultivated species such as cabbage and radish. 
+
+It was the first plant genome to be DNA sequencing|sequenced, completed in 2000 by the Arabidopsis Genome Initiative. 
+
+Much work has been done to find out what its 27,000 genes and 35,000 proteins do.
+''Arabidopsis'' is a popular tool for understanding the molecular biology of many plant Trait (biology)|traits, including flower development and phototropism|light sensing.
+
+Category:Model organisms

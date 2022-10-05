@@ -1,0 +1,42 @@
+In music theory, the '''major scale''' or Ionian mode|Ionian scale is one of the diatonic scale|diatonic Scale (music)|scales. It is made up of seven separate Note (music)|notes, plus an eighth which is the same as the first an octave higher. In solfege these notes correspond to the syllables "Do, Re, Mi, Fa, Sol, La, Ti/Si, Do". The simplest major scale to Musical notation#Modern musical notation|write or play on the piano is C major, the only major scale not to require Sharp (music)|sharps or Flat (music)|flats, using only the white keys on the piano Musical keyboard|keyboard:
+
+
+
+Image:C Major scale (up and down).svg|510px|The C major scale.
+
+Shape
+Image:C major scale.png|thumb|Pattern of whole and half steps
+A major scale is a set of steps in the order "Whole:Whole:Half:Whole:Whole:Whole:Half" (tone, tone, semitone, tone, tone, tone, semitone). Western scales do not skip any line or space on the Staff (music)|staff, and they do not repeat any note (music)|note  with a different Accidental (music)|accidental. This means that the key signature of the scale will feature just sharps ''or'' just flats.
+
+=Names of scale degrees=
+
+1st – Tonic (music)|Tonic- key note
+2nd – Supertonic
+3rd – Mediant
+4th – Subdominant
+5th – Dominant (music)|Dominant
+6th – Submediant
+7th – Leading Tone
+8th – Tonic (music)|Tonic ( or Octave)
+
+= The circle of fifths =
+The Circle of fifths|Circle of Fifths was first described in 1728 by Johann David Heinichen in his book ''Der General-bass''. It has been used ever since as a way to show the relations between scales.
+
+Image:Circle of fifths deluxe 4.svg|400px|Circle of fifths
+
+The numbers inside the circle show the number of sharps or flats in the key signature, with the sharp keys going clockwise, and the flat keys counterclockwise from C major (which has no sharps or flats.) The circle depends on enharmonic relationships in the circle, which is six sharps or flats for the major keys of F major or B  major).
+
+ Harmonic properties 
+The major scale is used more often than the minor scale in Western music because of its unique harmonic properties. For example, the major third is much stronger in the Harmonic series (music)|harmonic series (it is the 5th, 10th and 20th harmonic – see below) than the minor third (the 19th harmonic).
+
+Related pages
+Minor scale
+Enharmonic
+Equal temperament
+Just intonation
+Lydian mode
+Major and minor
+Music theory
+Tetrachord
+
+Category:Major scales| 

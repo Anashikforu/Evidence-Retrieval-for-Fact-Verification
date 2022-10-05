@@ -1,0 +1,27 @@
+A '''lock''' is a part of a navigable waterway system that makes a water "channel" deep enough for vessels to use.  The lock controls pool depths, for example in a lock and dam system across a waterway. 
+
+The lock is a place where boats that travel up or down a river or canal can be moved to the next higher or lower level.  Locks are built in places where the level of the water in the river or canal suddenly changes.  This may be because of a waterfall there, or because a dam or a weir has been built, or because some other thing is in the way.  The lock is like a big chamber with gates at each end.  They have lock gears which empty or fill the chamber with water.  Locks help a river to be more easily navigation|navigable (easier for boats to travel up and down), or for canals to be built across country that is not level.
+How a lock works
+
+If a boat that is travelling downstream (in the same direction that the water is flowing) arrives at a lock, this is what happens:
+ The boat waits until the lock is full of water.  If a boat going the other way has just come out of the lock, the water level will be right and the gates will be open.  This will save time.
+ The entrance gates (if shut) are opened and the boat sails in.
+ The entrance gates are closed.
+ A valve is opened, and water flows out of the chamber so that the boat goes down.
+ When the water is at the level of the next bit of river, the exit gates are opened and the boat sails out.
+
+If a boat that is travelling upstream (in the opposite direction to the water flow), the opposite happens:
+ The boat waits until the water level is low.  If a boat going the other way has just come out of the lock, the water level will be right and the gates will be open.
+ The entrance gates (if shut) are opened and the boat sails in.
+ The entrance gates are closed.
+ A valve is opened, and water pours in to the chamber so that the boat goes up.
+ When the water is at the level of the next bit of river, the exit gates are opened and the boat sails out.
+
+The whole process of going through a lock may take about 15 to 20 minutes, depending on whether the boat has to wait.  Some locks can take several boats at once, and the first one to enter may have to wait until other boats arrive.
+
+Image:Canal-sequence.jpg|thumb|left|700px|Operation of a canal lock1-3. Boat enters 'empty' lock4. Bottom gates are closed, bottom paddles closed, top paddles opened, lock starts to fill5. Lock is filling with water, lifting boat to the higher level
+
+
+
+Category:Waterways
+Category:Gates

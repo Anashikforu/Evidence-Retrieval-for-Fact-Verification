@@ -1,0 +1,9 @@
+'''Cumulative voting''' is a system for doing an election. There are a certain number of choices. This is a process sometimes known as proportional voting. Each voter has a certain number of points he or she can spread over the choices. That way it is possible to choose more than one option, and to weigh the choices. Usually, this applies when there is more than one position being elected at the same time.  For example, it can be used to elect more than one member of a governing board. In cumulative voting, if five positions are to be elected, a voter could cast one vote for each of five different candidates, or the voter could give all five of his votes to one candidate, or two votes to one candidate and three votes to a different candidate. '''Bullet voting''' is giving all of the votes to one candidate.
+
+Cumulative voting is used to elect representatives in many company|companies. Cumulative voting allow shareholders to vote proportionately to the number of shares they hold. This allows a shareholder with 100 shares to cast the equivalent of 100 votes toward any single issue. 
+
+It is also used to elect some governments. Switzerland and Germany use it for some elections. 
+
+It will lead to a proportional representation.
+
+Category:Voting

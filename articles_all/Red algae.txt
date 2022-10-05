@@ -1,0 +1,22 @@
+{{Taxobox
+| name = Red algae 
+| color = 
+| image = Laurencia.jpg
+| image_width = 240px
+| domain = Eukaryota
+| unranked_phylum = Archaeplastida
+| phylum = '''Rhodophyta'''}}
+
+'''Red algae''' are members of the phylum '''Rhodophyta'''. This is a large group of aquatic algae with about 6000 species. The red algae have reddish phycobilin pigments—phycoerythrin and phycocyanin. 
+
+The red algae form a distinct group. They have eukaryotic cells without flagella and centrioles. Their chloroplasts  lack external endoplasmic reticulum. These chloroplasts have unstacked (stroma) thylakoids. Phycobiliproteins are accessory pigments, which give them their red color. What these pigments do is the same as what chlorophyll does: absorb sunlight as energy, which is then used to fuel the building of organic compounds.
+
+Red algae store sugars as a type of starch  outside their plastids. 
+
+Most red algae are also multicellular, macroscopic, marine, and reproduce sexually. The red algal life history is typically an alternation of generations that may have three generations rather than two.
+
+Chloroplasts evolved following an endosymbiosis|endosymbiotic event between an ancestral, photosynthetic cyanobacterium and an early eukarytoic phagocyte|phagotroph.
+
+Most species grow near tropical and subtropical shores below the low-tide mark. A few are found in fresh water. Red algae is used to make the food ''Nori''.
+
+Category:Algae

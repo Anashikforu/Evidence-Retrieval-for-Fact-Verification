@@ -1,0 +1,40 @@
+
+|area_total_km2           = 4.07
+|area_total_sq_mi         = 1.57
+|area_land_sq_mi          = 1.45
+|area_water_sq_mi         = 0.12
+|area_water_percent       = 7.64
+|area_urban_sq_mi         = 
+|area_metro_sq_mi         = 
+|population_footnotes     = 
+|population_as_of         = 2010 United States Census|2010
+|population_est           = 2261
+|pop_est_as_of            = 2012
+|population_note          = 
+|population_total         = 2304
+|population_density_km2   = 613.5
+|population_density_sq_mi = 1589.0
+|population_metro         = 
+|population_density_metro_km2     = 
+|population_density_metro_sq_mi   = 
+|population_urban                 = 
+|timezone                 = North American Eastern Time Zone|EST
+|utc_offset               = -5
+|timezone_DST             = North American Eastern Time Zone|EDT
+|utc_offset_DST           = -4
+|coordinates              = 
+|elevation_m              = 153
+|elevation_ft             = 502
+|postal_code_type         = ZIP code
+|postal_code              = 47040
+|website                  = 
+|area_code                = Area code 812|812
+|blank_name               = Federal Information Processing Standard|FIPS code
+|blank_info               = 18-64674
+|blank1_name              = Geographic Names Information System|GNIS feature ID
+|blank1_info              = 0449718
+|footnotes                = 
+}}
+'''Rising Sun''' is a city in Indiana in the United States. The population was 2,304 at the 2010 census. The city is the county seat of Ohio County.
+
+Category:County seats in Indiana

@@ -1,0 +1,11 @@
+In math, the top part of a Fraction (mathematics)|fraction is called the '''numerator'''. If the line part of the fraction is flat, the numerator is on top. If the line part of the fraction is at a slant, the numerator is on the left.  The lower part is called the denominator of the fraction. For example:
+: In  the numerator is "3".
+: In  the numerator is "76".
+: In  the numerator is "(15+6)".
+: In (''a'' + ''b'') / 6''c'', the numerator is "(''a'' + ''b'')".
+
+The numerator can be any real number, including zero. A '''proper fraction''' is where the top number is smaller than the bottom number. If the numerator is larger than the denominator, then it is called an '''improper fraction'''.
+
+
+
+Category:Arithmetics

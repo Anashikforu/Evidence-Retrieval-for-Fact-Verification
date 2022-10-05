@@ -1,0 +1,21 @@
+{{Taxobox
+| name = Peppered moth
+| status = NE
+| status_system = IUCN3.1
+| image = Biston.betularia.7200.jpg
+| image_caption = ''Biston betularia betularia'' morpha ''typica''
+| image_width = 240px
+| regnum = Animalia
+| phylum = Arthropoda
+| classis = Insecta
+| ordo = Lepidoptera
+| familia = Geometer moth|Geometridae
+| genus = ''Biston (moth)|Biston''
+| binomial = ''Biston betularia''
+| binomial_authority = Carolus Linnaeus|Linnaeus, Systema Naturae|1758}}
+
+The '''peppered moth''' (''Biston betularia'') is a species of nocturnal|night-flying moth. They are often used by educators as an example of natural selection: see peppered moth evolution.
+
+The caterpillars of the peppered moth mimic the form and also the colour of the twig they rest on. The caterpillars can sense the twig’s colour with their skin and match their body colour to the background to protect themselves from predators.
+
+Category:Geometridae

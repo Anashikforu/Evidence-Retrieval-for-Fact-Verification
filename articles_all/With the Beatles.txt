@@ -1,0 +1,13 @@
+
+
+| length     = 
+| label      = Parlophone
+| producer   = George Martin
+| prev_title = Please Please Me
+| prev_year  = 1963
+| next_title = A Hard Day's Night (album)|A Hard Day's Night
+| next_year  = 1964
+| misc       = 
+
+
+Category:Pop albums

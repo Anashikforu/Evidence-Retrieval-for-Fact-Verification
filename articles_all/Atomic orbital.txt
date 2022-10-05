@@ -1,0 +1,15 @@
+
+
+'''Atomic orbitals''' are the places surrounding the Nucleus (physics)|nucleus of an atom where the electrons are most likely to be at any given time. It is a Function (mathematics)|mathematical function that describes the wave-like behavior of either one electron or a pair of electrons in an atom.
+
+The word 'orbital' is used because it was thought that electrons behaved Bohr model|similarly to the solar system, where the nucleus is like the sun and the electrons orbit like the planets. 
+
+The number of atomic orbitals in an chemical element|element is defined by the Periodic table period|period the element is in. Electrons move between orbitals depending on how fast they are moving and how many other electrons there are.
+
+In atomic theory and quantum mechanics, an atomic orbital is a quantum number. Each such orbital can be occupied by one or two electrons. The way orbitals are arranged is related to the electron configurations of atoms. They were derived from descriptions provided by early spectroscopists of certain alkali metal Spectral line|spectroscopic lines as being '''s'''harp, '''p'''rincipal, '''d'''iffuse, and '''f'''undamental.
+
+Related pages
+Electron cloud
+Molecular orbital
+
+Category:Quantum chemistry

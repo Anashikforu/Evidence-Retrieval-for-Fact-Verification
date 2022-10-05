@@ -1,0 +1,3 @@
+
+'''Cheerios''' is a popular brand of cereal. It is manufactured by General Mills.
+Category:Breakfast cereals

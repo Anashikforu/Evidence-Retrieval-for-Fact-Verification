@@ -1,0 +1,31 @@
+// Makes all links to redirects into green
+// :en:User:Dschwen/highlightredirects.js
+
+// Don't load on edit or special pages & don't load twice
+if (mw.config.get('wgAction') ! 'edit' && mw.config.get('wgCanonicalNamespace') ! 'Special')
+{
+var highlightRedirects = {
+ 
+ tab_redirects : null,
+
+ run : function()
+ {
+  mw.util.addCSS('a.mw-redirect { color:green} a.mw-redirect:visited { color:darkgreen}');
+ },
+
+ install : function()
+ {
+  with(highlightRedirects)
+  {
+   mw.util.addPortletLink('p-cactions', 'javascript:highlightRedirects.run();', 'redirects') ||
+   mw.util.addPortletLink('views', 'javascript:highlightRedirects.run();', 'redirects');
+  }
+ }
+
+};
+
+//
+// Hook up installation function
+//
+$(highlightRedirects.install);
+}

@@ -1,0 +1,139 @@
+
+'''Ariège''' () is a Departments of France|department in the Regions of France|region of Occitanie in southern France; it is named after the Ariège (river)|Ariège river that flows through the department.
+
+Its Capital city|capital is the city of Foix but the city with the largest population is Pamiers.
+
+History
+The department was inhabited in Pre-history|prehistoric times, as evidenced by the presence of caves with cave paintings and dolmens. In historical times it was inhabited by Basque people|Basque people; they settled on the northern side of the Pyrenees and in the valleys below. In 415 it became part of the kingdom of the Visigoths, until their defeat at the hands of the king of the Franks in 507.
+
+Ariège was created in 1790 during the French Revolution, when the whole of France was divided into departments, replacing the old provinces. Ariège was created combining the County|countiesIn this case, "county" () means "land under a count (the United Kingdom|British earl)". of Foix (Languedoc) and Couserans (Gascogne).
+
+Geography
+Ariège is part of the Occitanie region and has an area of .
+
+The department is surrounded by the French departments of Haute-Garonne to the west and north, Aude to the east, and Pyrénées-Orientales in the southeast, as well as Spain (Lleida) and Andorra in the south.
+
+
+
+Administration
+The department is managed by the ''Departamental Council of the Ariège'' in Foix. Ariège is part of the region of Occitanie.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 13 Cantons in France|''cantons'' and 332 Communes in France|''communes'' (Municipality|municipalities) in Ariège.
+
+
+
+
+
+
+Foix vieille ville.JPG|The "old city", Foix
+Cathédrale Saint-Antonin de Pamiers (09).JPG|Cathedral of Saint-Antonin at Pamiers
+Saint-Girons (Ariège) - Église Saint-Girons - 20070625.jpg|''St Girons' Church'' by the Salat river
+
+
+The following is a list of the 13 Cantons of France|cantons of the '''Ariège''' department (with their INSEE codes), following the French canton reorganisation which came into effect in March 2015:
+
+# Canton of Haute-Ariège|Haute-Ariège (0901)
+# Canton of Arize-Lèze|Arize-Lèze (0902)
+# Canton of Couserans Est|Couserans Est (0903)
+# Canton of Couserans Ouest|Couserans Ouest (0904)
+# Canton of Foix|Foix (0905)
+# Canton of Mirepoix|Mirepoix (0906)
+# Canton of Pamiers-1|Pamiers-1 (0907)
+# Canton of Pamiers-2|Pamiers-2 (0908)
+# Canton of Pays d'Olmes|Pays d'Olmes (0909)
+# Canton of Portes d'Ariège|Portes d'Ariège (0910)
+# Canton of Portes du Couserans|Portes du Couserans (0911)
+# Canton of Sabarthès|Sabarthès (0912)
+# Canton of Val d'Ariège|Val d'Ariège (0913)
+
+
+Demographics
+The inhabitants of Ariège are known, in French language|French, as ''ariègeois'' (women: ''ariègeoises'').
+
+Ariège has a population, in 2014, of 152,574, for a population density of  inhabitants/km2. The ''arrondissement'' of Pamiers, with 73,702 inhabitants, is by far the one with more inhabitants. The other two, Foix and Saint-Girons, have respectively 51,473 and 27,399 inhabitants.
+
+
+'''Evolution of the population in Ariège'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:180000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:20000 start:0
+ScaleMinor = gridcolor:lightgrey increment:10000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2008 text:2008
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 138478
+ bar:1975 from:0 till: 137857
+ bar:1982 from:0 till: 135725
+ bar:1990 from:0 till: 136455
+ bar:1999 from:0 till: 137205
+ bar:2008 from:0 till: 150201
+ bar:2014 from:0 till: 152574
+
+PlotData=
+ bar:1968 at: 138478 fontsize:S text: 138,478 shift:(-13,5)
+ bar:1975 at: 137857 fontsize:S text: 137,857 shift:(-18,5)
+ bar:1982 at: 135725 fontsize:S text: 135,725 shift:(-18,5)
+ bar:1990 at: 136455 fontsize:S text: 136,455 shift:(-18,5)
+ bar:1999 at: 137205 fontsize:S text: 137,205 shift:(-18,5)
+ bar:2008 at: 150201 fontsize:S text: 150,201 shift:(-22,5)
+ bar:2014 at: 152574 fontsize:S text: 152,574 shift:(-22,5)
+
+
+
+About 25% of the population lives in the four ''communes'' with 6,000 or more inhabitants.
+
+The 10 most important cities in the department are:
+
+
+
+ Economy 
+Agriculture is an important activity in Ariege. Only a small part of its territory is used by farmers; only , 27% of its total area, are used for agriculture in the Ariege.
+
+The Ariège plain is the most Fertility|fertile area of the department; here farmers grow maize, wheat, sunflower and other crops. The other natural regions are not good for agriculture and are covered with forests or are used for pastures for sheep, cattle and horses.
+ 
+In the Ax valleys, the mining of talc is the most typical activity. This industry is supplemented by tourism for Winter Sports|winter sports.
+
+Hydroelectricity|Hydroelectric production is about one-fifth of the production in the Pyrenees. The hydroelectric plant at Aston, Ariège|Aston has the largest annual production capacity in the Pyrenees.
+
+Gallery
+
+File:Cathédrale Saint-Lizier - Saint-Lizier 01.jpeg|Cathedral of Saint-Lizier.
+File:MaisonDesConsuls.jpg|Covered shopfronts at Mirepoix, Ariège|Mirepoix.
+File:Valier.JPG|Mont Valier seen from the road to Port d'Aula in the Haut Couserans.
+File:Nickel de Vives.jpg|A Mérens horse
+File:Chateau Lagarde 020.jpg|The Château de Lagarde.
+File:Saint-Lizier - Cloître de la cathédrale - 20110308 (1).jpg|The cloister in the Saint-Lizier Cathedral.
+File:Massif de Tabe 280.jpg|The Massif of Tabe.
+
+
+Related pages
+ Arrondissements of the Ariège department
+ Communes of the Ariège department
+
+Notes
+
+
+Category:Departments in Occitanie

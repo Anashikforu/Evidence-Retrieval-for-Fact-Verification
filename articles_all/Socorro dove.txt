@@ -1,0 +1,22 @@
+{{Taxobox
+| image = Zenaida graysoni 1.jpg
+| image_width = 240px
+| image_caption = Socorro dove  collecting nesting material Netherlands
+| name = Socorro dove
+| status = EW
+| status_system = iucn3.1
+| regnum = Animalia
+| classis = Aves
+| subclassis = Neornithes
+| ordo = Columbiformes
+| familia = Columbidae
+| subfamilia = Leptotilinae
+| genus = ''Zenaida doves|Zenaida''
+| binomial = ''Zenaida  graysoni''
+| binomial_authority = George Newbold Lawrence|Lawrence 1871}}
+
+The '''Socorro dove''' (''Zenaida graysoni'') is a dove that was Endemism|endemic to Socorro Island on the west coast of Mexico. The last bird was seen there in 1972. For this reason, International Union for the Conservation of Nature|IUCN has classified the species as extinct in the wild. In captivity, there are not more than about 200 and probably fewer than 100 purebred birds. Because of this, a reintroduction program is being prepared.BLI (2004), Schmechel (2006)
+
+It is a close relative of the mourning dove|mourning and eared doves.Johnson & Clayton (2000) It was at one time considered a subspecies of the mourning dove.
+
+Category:Doves

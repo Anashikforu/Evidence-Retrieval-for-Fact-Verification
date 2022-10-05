@@ -1,0 +1,29 @@
+
+The fastest way to find information in MediaWiki is to look it up directly. On the left-hand side of your screen there is a '''". 
+
+
+Put your keyword in the searchbox.
+ '''''' - (or ''Enter'' on keyboard) will take you to the article, if it exists.
+ '''''' - will search the text of all pages on the wiki (with some wikt:restriction|restrictions, see below).
+
+
+If you clicked “” and the page you were looking for did not exist, you will be showed a list of articles that matched your search wikt:criteria|criteria (or a message that no matches were found).
+
+ How it works 
+Here's how the search works:
+ Only the article content is searched - the page title doesn't matter.
+ The article content is searched in its raw (wikitext) form - i.e., it searches the text that appears in the edit box when you click “”, not the rendered page. This means that content coming from an included template will not be picked up, but the target of piped links will be.
+ Even if you have a phrase in quotes, the search looks for each word individually.  e.g., if you enter "World War 2" it will return pages that contain "world" and "war" and "2".
+ The search is not case-sensitive, so "MediaWiki", "mediawiki" and "MEDIAWIKI" all give the same result.
+
+ Restricting the search 
+If you click the “” button without filling in anything, you will be taken to “Special:Search” which gives you extra searching options (also available from any search results list)
+
+You may find it useful to restrict a search to pages within a particular Help:Namespaces|namespace e.g., only search within the  pages. Tick the namespaces you want for the search. 
+
+By default only the Help:Namespaces|namespaces specified in your Help:Preferences|settings will be searched.  Logged-in users can change their settings to specify the namespaces they want to search by default. This can be done by selecting and deselecting boxes in the ”search” section of user settings.
+
+__NOTOC__
+
+
+Category:Help|Searching

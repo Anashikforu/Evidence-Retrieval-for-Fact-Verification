@@ -1,0 +1,4 @@
+Image:Magnetron2.jpg|thumb|right|225px|Magnetron  with section removed (magnet is not shown)
+
+The '''cavity magnetron''' is a high-powered vacuum tube that makes microwaves using the interaction of a stream of electrons with a magnetic field. Electrons pass by holes (cavities), and the resonance creates microwaves, like blowing air on a flute creates sound (sound waves) of a certain pitch. The 'resonant' cavity magnetron type of the earlier magnetron tube was invented by John Randall and Harry Boot in 1940. and ships used to find submarines. At present, cavity magnetrons are commonly used in microwave ovens and in various radar applications.Ma, L. "
+Category:Wave physics

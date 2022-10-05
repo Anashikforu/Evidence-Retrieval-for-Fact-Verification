@@ -1,0 +1,19 @@
+
+{{Taxobox
+| name = Jentink's Dormouse
+| image = 
+| status = DD | status_system = IUCN3.1
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| genus = ''Graphiurus''
+| species = '''''G. crassicaudatus'''''
+| binomial = ''Graphiurus crassicaudatus''
+| binomial_authority = (Jentink, 1888)
+| synonyms = }}
+
+'''Jentink's dormouse''' (''Graphiurus crassicaudatus'') is a species of rodent in the Gliridae family. It is found in Cameroon, Ivory Coast, Ghana, Liberia, Nigeria, Togo. It is also sometimes found in Benin, Equatorial Guinea and Sierra Leone. Its natural habitat is subtropical or tropical moisture|moist lowland forests. 
+
+Category:Graphiurus

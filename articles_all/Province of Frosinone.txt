@@ -1,0 +1,191 @@
+
+The '''Province of Frosinone''' () is a Provinces of Italy|province in the Lazio Regions of Italy|region of Central Italy. Its Capital city|capital is the city of Frosinone.
+
+History
+The province of Frosinone was created in December of 1926 with Territory|territories of the Lazio and Campania Regions of Italy|regions.
+
+Geography
+
+The province of Frosinone has an area of , the third largest province of the Lazio region.
+
+The province is in the southeast of the Lazio region. It borders to the north with the Abruzzo region (Province of L'Aquila|L'Aquila province), to the northwest and west with the Metropolitan City of Rome Capital|Metropolitan City of Rome, to the east by the Molise region (Province of Isernia|Isernia province), to the southeast with the Campania region (Province of Caserta|Caserta), and to the south with the Province of Latina|Latina province.
+
+
+
+The highest mountain in the province is ''Monte Meta'' or, simply, ''La Meta'' (; it is on the border with the Province of L'Aquila|L'Aquila province.
+
+The main rivers in the province are the Liri,  long.
+
+Population
+There are 493,067 persons living in the province in 2017, for a population density of  inhabitants/km².
+
+'''Evolution of the population in the province of Frosinone'''
+
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:550000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2017 text:2017
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1961 from:0 till: 438254
+ bar:1971 from:0 till: 422630
+ bar:1981 from:0 till: 460395
+ bar:1991 from:0 till: 479559
+ bar:2001 from:0 till: 484566
+ bar:2011 from:0 till: 492661
+ bar:2017 from:0 till: 493067
+
+PlotData=
+ bar:1961 at: 438254 fontsize:S text: 438,254 shift:(-12,5)
+ bar:1971 at: 422630 fontsize:S text: 422,630 shift:(-18,5)
+ bar:1981 at: 460395 fontsize:S text: 460,395 shift:(-18,5)
+ bar:1991 at: 479559 fontsize:S text: 479,559 shift:(-18,10)
+ bar:2001 at: 484566 fontsize:S text: 484,566 shift:(-18,5)
+ bar:2011 at: 492661 fontsize:S text: 492,661 shift:(-18,8)
+ bar:2017 at: 493067 fontsize:S text: 493,067 shift:(-18,5)
+
+
+
+Administration
+
+There are 91 Municipality|municipalities (or ''Comune|comuni'') in the province; they are:
+
+
+# Acquafondata
+# Acuto
+# Alatri
+# Alvito
+# Amaseno
+# Anagni
+# Aquino
+# Arce
+# Arnara
+# Arpino
+# Atina
+# Ausonia
+# Belmonte Castello
+# Boville Ernica
+# Broccostella
+# Campoli Appennino
+# Casalattico
+# Casalvieri
+# Cassino
+# Castelliri
+# Castelnuovo Parano
+# Castro dei Volsci
+# Castrocielo
+# Ceccano
+# Ceprano
+# Cervaro
+# Colfelice
+# Colle San Magno
+# Collepardo
+# Coreno Ausonio
+# Esperia
+# Falvaterra
+# Ferentino
+# Filettino
+# Fiuggi
+# Fontana Liri
+# Fontechiari
+# Frosinone
+# Fumone
+# Gallinaro
+# Giuliano di Roma
+# Guarcino
+# Isola del Liri
+# Monte San Giovanni Campano
+# Morolo
+# Paliano
+# Pastena
+# Patrica
+# Pescosolido
+# Picinisco
+# Pico
+# Piedimonte San Germano
+# Piglio
+# Pignataro Interamna
+# Pofi
+# Pontecorvo
+# Posta Fibreno
+# Ripi
+# Rocca d'Arce
+# Roccasecca
+# San Biagio Saracinisco
+# San Donato Val di Comino
+# San Giorgio a Liri
+# San Giovanni Incarico
+# San Vittore del Lazio
+# Sant'Ambrogio sul Garigliano
+# Sant'Andrea del Garigliano
+# Sant'Apollinare
+# Sant'Elia Fiumerapido
+# Santopadre
+# Serrone
+# Settefrati
+# Sgurgola
+# Sora
+# Strangolagalli
+# Supino
+# Terelle
+# Torre Cajetani
+# Torrice
+# Trevi nel Lazio
+# Trivigliano
+# Vallecorsa
+# Vallemaio
+# Vallerotonda
+# Veroli
+# Vicalvi
+# Vico nel Lazio
+# Villa Latina
+# Villa Santa Lucia
+# Villa Santo Stefano
+# Viticuso
+
+
+The largest ''comune'' is Veroli, with ). The ''comune'' with fewest people living in it is Acquafondata with 263 inhabitants.
+
+=Main ''comuni''=
+The following table shows the 10 Comune|''comuni'' with more inhabitants with their population, and their area and altitude.
+
+
+
+
+
+ Gallery 
+
+File:CattedraleFrosinone.jpg|Frosinone cathedral.
+File:Monte Cassino Opactwo 1.JPG|''Monte Cassino'' Abbey.
+File:Arce - Fontana monumentale.JPG|Fountain in Umberto I Town square|Square - Arce, Lazio|Arce.
+File:Palazzo di Bonifacio VIII ad Anagni (FR).jpg|''Palazzo di Bonifacio VIII'', Anagni.
+File:La Valle di Canneto.JPG|The ''Canneto'' valley.
+
+
+Related pages
+ List of communes of the Province of Frosinone
+
+Category:Provinces of Latium|Frosinone

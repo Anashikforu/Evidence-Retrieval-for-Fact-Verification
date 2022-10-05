@@ -1,0 +1,15 @@
+{{Infobox terrorist attack
+|title      = 2004 Madrid train bombings
+|location   = Madrid, Spain
+|target     = Cercanías Madrid|Madrid Commuter Train System
+|date       = 11 March 2004
+|time-begin = 07:30
+|time-end   = 08:00
+|timezone   = UTC+01:00
+|type       = Mass murder; terrorism; backpack bombs
+|fatalities = 191
+|injuries   = 2050|perpetrator = al-QaedaThe 11 March 2004 '''Madrid train bombings''' (also known as '''3/11''' and in Spanish language|Spanish as '''11-M''') were a series of coordinated bombings against the Cercanías (commuter train) system of Madrid in Spain. It happened on the morning of 11 March 2004, three days before Spain's 2004 Spanish general election|general elections). The attack killed 191 people and wounded 1,800. The official investigation by the Spanish Judiciary determined the attacks were directed by an Islamist al-Qaeda-inspired terrorist cell, although no direct al-Qaeda participation (only "inspiration") has been established.
+
+These bombings were Spain's worst terrorist attack.
+
+Category:Murder in 2004

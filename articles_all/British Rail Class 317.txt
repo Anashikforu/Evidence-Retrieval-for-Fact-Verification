@@ -1,0 +1,33 @@
+{{Infobox EMU
+|name = British Rail Class 317
+|image =  NXEA 317506 Liverpool Street AB1.JPG
+|imagesize = 300px
+|caption= Class 317 at Liverpool Street station|London Liverpool Street
+|background = #4870B5
+|Manufacturer = BREL|BREL York
+|Operator = Greater Anglia
+|Family = 
+|Formation = 4 cars per trainset
+|Built = 72 trainsets
+|yearconstruction =1981 - 1986
+|InService = 1981 - Current
+|Refurbishment = 1999 - 2000 Railcare Wolverton
+|Weight = 137.3 tonnes|t (317/1, 317/2, 317/7) 138.18 t (317/6 only)
+|CarLength = 19.83 m
+|CarWidth = 3.70 m
+|CarHeight = 2.82 m
+|MaxSpeed = 100 mph (160 km/h)
+|Power = 746 kW
+|Gauge = Standard gauge|1,435 mm
+|Voltage = 25 kV Alternating current|AC Overhead lines|Overhead
+|numberscrapped=13 sets.}}
+Image:317305 at Cambridge.jpg|thumb|right|Class 317/1, no. 317305 at Cambridge on 23rd May 2003. This unit was one of several loaned by West Anglia Great Northern|WAGN to LTS Rail from 1996-1999, which involved the red stripe of the Network SouthEast|NSE livery being repainted green. This unit is now numbered 317505 and operated by Greater Anglia.
+The '''British Rail Class 317''' electric multiple units were built by BREL at York Works in two batches, from 1981-82 and 1985-87.  They were the first of several classes of British Rail EMU to be based on the all-steel British Rail Mark 3|Mark 3 bodyshell, departing from the British Rail Class 445|"PEP"-aluminium design which had spawned the earlier British Rail Class 313|Class 313 to British Rail Class 315|Class 315. The Mark 3 bodyshell was also the basis of British Rail Class 318|Class 318, British Rail Class 455|Class 455, and the diesel "sprinters" pioneered by the British Rail Class 150|Class 150.
+
+
+
+
+
+
+Category:British Rail electric multiple units|317
+Category:BREL products|317

@@ -1,0 +1,1 @@
+A "large" new article is created, but does not contain any wiki markup.

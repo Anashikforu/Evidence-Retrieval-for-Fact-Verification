@@ -1,0 +1,23 @@
+
+{{Taxobox
+| name = ''Balaenoptera omurai''
+| image = Skull of Omura's whale.JPG
+| image_caption = Skull of Omura's whale
+| regnum = Animalia
+| classis = Mammalia
+| subclassis = Eutheria
+| ordo = Cetacea
+| subordo = Mysticeti
+| familia = Balaenoptiidae
+| genus = ''Balaenoptera''
+| binomial = ''Balaenoptera omurai''
+| binomial_authority = Wada ''et al.'', 2003}}
+
+'''''Balaenoptera omurai''''' is a species of whale. Little is known about it. It is called the '''dwarf fin whale''', the '''little fin whale''', or '''Omura's whale'''. It gets up to 11. 5 meters (about 38 feet) long. It lives in the Indo-Pacific.
+
+''Balaenoptera omurai'' is one of the Bryde's whales, a group of closely related and similar whales.
+
+
+
+
+Category:Baleen whales

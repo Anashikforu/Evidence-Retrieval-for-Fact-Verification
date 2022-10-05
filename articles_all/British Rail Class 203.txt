@@ -1,0 +1,31 @@
+{{Infobox DMU
+|name = British Rail Class 203 
+|image = 
+|imagesize = 300px
+|background = #0033cc
+|caption = 55993
+|Manufacturer =
+|Operator = British Rail
+|Formation = unknown 
+|Built =7
+|LinesServed = 
+|InService = 1958–
+|CarLength = 
+|CarWidth = 
+|CarHeight = 
+|Weight = 
+|Capacity = 
+|MaxSpeed = unknown 
+|Gauge = 
+|Traction = 
+|Engine = English Electric 4-cylinder type 4SRKT Mark II of  at 850 rpm 
+|SafetySystem=
+ |}}
+The '''Class 203''' was the final version of the Hastings narrow-bodied diesel multiple unit train. It was originally  classified 6B. They were delivered in 1958. Their unit numbers were 1031–1037. They differed from British Rail Class 202|class 202 by having a buffet car.
+
+
+
+
+
+
+Category:British Rail diesel multiple units|203

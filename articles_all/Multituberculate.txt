@@ -1,0 +1,31 @@
+{{Taxobox
+| name = Multituberculates
+| fossil_range = early Jurassicend Eocene ~200 to ~34 million years ago
+| image = Ptilodus skull BW.jpg
+| image_width= 250px
+| image_caption = Skull of ''Ptilodus''
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| subclassis=Allotheria
+| ordo = '''†Multituberculata'''
+| ordo_authority = Edward Drinker Cope|Cope, 1884
+| subdivision_ranks = Order (biology)|Suborders
+| subdivision =
+ †Cimolodonta
+ †Plagiaulacida}}
+
+The '''multituberculates''' were a group of rodent-like mammals which survived for about 166 million years – the longest fossil history of any mammal line.
+
+They were eventually outcompeted by rodents, becoming extinct during the late Eocene.Krause, David W. 1986. Competitive exclusion and taxonomic displacement in the fossil record: the case of rodents and multituberculates in North America. ''Contributions to Geology'' (Special Paper 3): 95–117. 
+
+At least 200 species are known, ranging from mouse-sized to beaver-sized. These species occupied many  ecological niches, ranging from burrow-dwelling to squirrel-like tree-dwelling. 
+
+Multituberculates are usually placed outside both the two main groups of living mammals, the Theria (Eutheria|placentals and marsupials), and Monotremata|monotremes. Some cladistics|cladistic analyses put them closer to Theria than to monotremes.Benton, Michael J. 2004. ''Vertebrate palaeontology''. 
+ Biology 
+The multituberculates had a head anatomy similar to rodents. They had cheek-teeth separated from the chisel-like front teeth by a wide tooth-less gap (called the ''diastema''). Each cheek-tooth displayed several rows of small cusps (or tubercles, hence the name) which worked against similar rows in the teeth of the jaw. It was an efficient chopping device.
+
+Most small multituberculates would have eaten seeds and Nut (fruit)|nuts, supplemented with insects, worms, and fruit.
+
+The structure of the pelvis in the Multituberculata suggests that they gave birth to tiny helpless young, similar to modern marsupials.Kielan-Jaworowska, Zofia, Richard L. Cifelli, and Zhe-Xi Luo 2005. ''Mammals from the Age of Dinosaurs: origins, evolution, and structure''. 
+Category:Fossils

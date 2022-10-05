@@ -1,0 +1,284 @@
+
+A
+ Adobe
+ Acrobat
+ Algorithm
+ Advanced Micro Devices|AMD
+ Android (operating system)|Android
+ Application programming interface|API
+ Apple Inc.|Apple
+ Application
+ Analog
+
+B
+
+ Booting|Boot
+ Binary number|binary
+ BIOS
+ bitcoin
+ byte
+bot
+ Botnet
+ Web browser|Browser
+
+ C 
+ C programming language
+ Cable
+ Cache memory
+ Captcha
+ Connection
+ Control
+ Cookie
+C++
+Computer
+
+D
+ Information|data
+ database
+datalake
+ Debian
+ decompress
+ desktop
+ dialer
+ digital
+ wikt:document|document
+ disk operating system (redirect (or disambig) from DOS)
+ download
+
+E
+ ENIAC Electronic Numerical Integrator and Calculator
+ electricity
+ E-mail|email
+ E-mail attachment|email attachment
+ Encarta encyclopedia
+ Epiphany web browser
+ End User License Agreement (redirect from EULA)
+ Explorer
+ ext2 filesystem type
+ ext3 filesystem type
+
+F
+ File allocation table (disambiguation from FAT or fat)
+ FAT16 filesystem
+ FAT32 filesystem
+ Computer file|file
+ file types|file types by ending
+ File sharing|filesharing
+ filesystem
+ firewall
+ folder
+ footnotes
+ format
+ FreeBSD
+ freeware
+ FTP
+ Facebook
+ ((Function))
+
+G
+ gigabyte (redir from gb)
+ Gimp
+ Gmail
+ GNOME|Gnome
+ Google
+ GNU
+ GnuPG
+ Graphics Processing Unit|GPU
+ Google Home|Google Nest
+
+H
+ hacker
+ hard disk (redirects from hard drive, hard disk drive, hard disk)
+ computer hardware|hardware
+ Hash_function
+ High-Definition Multimedia Interface|HDMI
+ home page
+ HTML
+ HTTP
+ HTTP_Cookie
+
+I
+ Intel
+ Icons
+ Input device
+ Internet
+
+J
+
+ MarA jio
+ Joo
+ Jio
+
+ Java programming language|Java
+ JavaScript
+ J#
+
+K
+ KDE
+ linux kernel|kernel
+ Keyboard (computer)|keyboard
+ Key (computer)|key
+ keyword (computer)|keyword
+
+L
+ laptop
+ license|licensing examples for computer software
+ link
+ Linux
+ Lavasoft
+ live cd|Live CD
+ LibreOffice
+
+M
+ Apple Macintosh|Macintosh
+ Mac OS
+ Mac OS X
+ Malware
+Mainframe computer|Mainframe Computer 
+ Mandrake Linux
+ Martus
+ md5
+ computer media|media
+ megabyte (redir or disamb from mb)
+ Microsoft
+ modify
+ computer monitor|monitor
+ Motherboard
+ computer mouse|mouse
+ Mozilla|Mozilla web browser
+ Mozilla Firefox|Mozilla Firefox web browser
+ Modem
+ MP3|mp4
+ MPEG-4|mpeg-4
+
+N
+ NTFS filesystem type
+ Netscape
+ Netscape Navigator|Netscape Navigator web browser
+ computer network|network
+ NNTP
+ non-commercial
+ notebook computer
+ NVIDIA|Nvidia
+
+O
+ ogg file format for multimedia
+ OpenOffice.org
+ Open Site
+ open source
+ Opera (browser)|Opera web browser
+ operating system
+ list of operating systems|operating systems, a list
+
+P
+ webpage|page
+ Perl
+ personal computer (PC)
+ Petabyte
+ pdf or more likely PDF
+ peer to peer|peer to peer, P2P
+ PGP
+ PHP
+ proprietary
+ piracy
+ pirate
+ plug-in
+ Python
+ pop up|poppop up|up
+ computer printer|printer
+ computer privacy|privacy
+ computer program|program
+ computer program release|program release
+ Python_(programming_language)|Python
+ Print|PRINT
+
+Q
+ QNX
+ QuickBasic
+ QuickTime.
+ QWERTY
+
+R
+ Random_access_memory(redirect from RAM)
+ ReactOS
+ Read-only_memory(Redirect from ROM)
+ RedHat
+ Reiser FS filesystem type
+ root on computer|root
+ RSA
+ Recycle Bin
+ Reboot
+
+
+S
+ :en:Scan|scan
+ search engine
+ wikt:security|security
+ server
+ shared source
+ shareware
+ software
+ spam
+ spamming
+ Spreadsheet
+ spyware
+ super computer
+ super user
+ browse|surfing the internet
+ Suse
+ SDK
+ Solid-state drive|SSD
+ system
+ :en:Synergy#Computers|synergy (synergistic)
+
+T
+ computer training|training for computers
+ Trojan horse (computing)|Trojan horse
+ Terabyte (TB)
+ Tablet computer|Tablet
+
+U
+ Ubuntu
+ undo
+ UNIX
+ update
+ upload
+ User (computing)|user
+ USB
+
+V
+ version
+ virtual community
+ Visual studio|Visual Studio
+ Visual Basic
+ computer virus|virus
+ Vulnerability32✓
+ VPN
+
+W
+ Microsoft Windows|Windows
+ Wine (software)
+Wi-Fi
+
+X
+ Xinelund|Xine
+ XML
+ x86|x86, x32(processor)
+ x64|x86-64, x64(processor architecture)
+
+Y
+ Yahoo!
+ Yottabyte|Yotabyte
+
+Z
+ ZIP (file format)|Z (file format)
+Zoom in - Zoom out
+ZIP (file format)|ZIP
+Zettabyte|Zettabyte(ZB)
+
+ Other websites 
+ 
+
+Category:Computing
+Category:Computer-related lists
+Category:Glossaries|Computers

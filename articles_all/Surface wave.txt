@@ -1,0 +1,38 @@
+
+
+
+In physics, a '''surface wave''' can refer to a mechanical wave that propagates along the interface between differing media, usually two fluids with different densities.  A surface wave can also be an electromagnetic wave guided by a refractive index gradient.  For radio waves, a '''ground wave''' is a surface wave that propagates close to the surface of the Earth.
+
+Related pages
+= Waves =
+ Ocean surface waves, internal waves and Crest (physics)|crests, Dispersion (water waves)|dispersion, and freak waves
+ List of wave topics
+
+= People =
+Arnold Sommerfeld – published the mathematical treatise on the ''zenneck wave''
+
+Other articles, further reading, and references
+= Other websites =
+ Eric W. Weisstein, ''et al.'', "'' "'' Brett Ketter, "'' David Reiss, "'' Gary L. Peterson, "''
+=Standards and doctrines=
+ "'' "'' "''Surface wave''", MIL-STD-188
+ "''
+=Books=
+ Waldron, Richard Arthur, "''Theory of guided electromagnetic waves''". London, New York, Van Nostrand Reinhold, 1970.  LCCN 69019848 //r86
+ Weiner, Melvin M., "''Monopole antennas''" New York, Marcel Dekker, 2003. 
+ Budden, K. G., "''The wave-guide mode theory of wave propagation''". London, Logos Press; Englewood Cliffs, N.J., Prentice-Hall, c1961. LCCN 62002870 /L
+
+=Journals and papers=
+;Wait
+ Wait, J. R., "''Lateral Waves and the Pioneering Research of the Late Kenneth A Norton''".
+ Wait, J. R., and D. A. Hill, "''Excitation of the HF surface wave by vertical and horizontal apertures''". Radio Science, 14, 1979, pp 767–780.
+ Wait, J. R., and D. A. Hill, "''Excitation of the Zenneck surface by a vertical aperture''", Radio Science, 13, 1978, pp.&nbsp;967–977.
+ Wait, J. R., "''A note on surface waves and ground waves''", IEEE Transactions on Antennas and Propagation, Nov 1965. Vol. 13, Issue 6, pg 996- 997 ISSN 0096-1973
+ Wait, J. R., "''The ancient and modern history of EM ground-wave propagation''". IEEE Antennas Propagat. Mag., vol. 40, pp.&nbsp;7–24, Oct. 1998.
+ Wait, J. R., "''Appendix C: On the theory of ground wave propagation over a slightly roughned curved earth''", ''Electromagnetic Probing in Geophysics''. Boulder, CO., Golem, 1971, pp.&nbsp;37–381.
+ Wait, J. R., "''Electromagnetic surface waves''", ''Advances in Radio Research'', 1, New York, Academic Press, 1964, pp.&nbsp;157–219.
+
+=Other media=
+  L.A. Ostrovsky (ed.), "''Laboratory modeling and theoretical studies of surface wave modulation by a moving sphere''", Environmental Technology Laboratory, U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, Oceanic and Atmospheric Research Laboratories, 2002. OCLC 50325097
+
+Category:Mechanics

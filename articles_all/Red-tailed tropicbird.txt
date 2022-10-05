@@ -1,0 +1,24 @@
+{{Taxobox
+| name = Red-tailed tropicbird
+| status = LC | status_system = IUCN3.1
+| status_ref = 
+| image = Red-tailed Tropicbird3.jpg
+| image_caption = 
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = bird|Aves
+| ordo = Phaethontiformes
+| familia = tropicbird|Phaethontidae
+| genus = ''tropicbird|Phaethon''
+| binomial = ''Phaethon rubricauda''}}
+
+The '''red-tailed tropicbird''' (''Phaethon rubricauda'') is a seabird that nests across the Indian Ocean|Indian and Pacific Oceans. It is the rarest of the tropicbirds, but is  widespread and not considered wikt:threaten|threatened. It nests in colonies on oceanic islands.
+
+ Sources 
+
+
+
+
+
+
+Category:Seabirds

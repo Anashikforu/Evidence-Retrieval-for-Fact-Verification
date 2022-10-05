@@ -1,0 +1,22 @@
+{{Taxobox
+| name = ''Diprotodon''
+| fossil_range = Pleistocene
+| image = Diprotodon_australis_skull.JPG
+| image_width = 250px
+| image_caption = 
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Mammalia
+| infraclassis = Marsupialia
+| ordo = Diprotodontia
+| subordo = Vombatiformes
+| familia = Diprotodontidae
+| genus = ''Diprotodon''
+| genus_authority = Richard Owen|Owen, 1838}}
+
+'''Diprotodon''' was the largest marsupial that ever lived. it existed from about 1.6 million years ago until extinction some 46,000 years ago. So it lived through most of the Pleistocene|Pleistocene epoch.
+
+Diprotodon looked like a Rhinoceros|rhino without a horn. Its feet turned inwards like a wombat’s, giving it a pigeon-toed appearance. It had strong claws on the front feet, so it may have been able to dig up roots to eat. Footprints of its hairy feet have been found, so we know it had fur like a horse rather than being bald like a rhino. Diprotodon is found in sites all over Australia, but not in Tasmania. 
+
+Female skeletons have been found with babies located where the mother's pouch would have been..
+Category:Marsupials of Australia

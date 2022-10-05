@@ -1,0 +1,51 @@
+'''Electronic commerce''' more well known as '''e-commerce''' consists of the buying or selling of Product (consumer goods)|products via electronic means such as the internet or other electronic services. This type of trade has been growing rapidly because of the expansion of the Internet.
+
+The need for electronic commerce emerged from the need to use computers more efficiently in banks and corporations. With the increasing competition, there was a need amongst organizations to increase customer satisfaction and information exchange. Electronic commerce started with the introduction of electronic funds transfer (EFT) by banks.  Over time many variants of EFTs within banks were introduced like debit cards, credit cards, and direct deposits.
+
+Types of E-commerce
+There are 5 common types of E-commerce:
+
+# Consumer to business E-commerce# Business to business E-commerce
+# Business to consumer E-commerce also called online shopping
+# Consumer to consumer E-commerce
+# Intra organizational E-commerce
+#Business to Administration (B2A)
+
+Advantages of E-commerce
+ It can help increase Profit|profits; it can increase sales and decrease Cost|costs.
+ It can help organizations do business 7 days a week and 24&nbsp;hours a day.
+ It can help organizations have customers all around the world and not be limited to a specific region.
+ It helps organizations bring a higher return on advertisements if managed properly.
+ It helps organizations identify new Supply|suppliers, partners, and customers.
+ It increases flexibility and ease of shopping for the customer.
+ The customers can buy straight from their homes.
+ It can help in low operational costs.
+ It can provide personalized products and customer customization.
+ Shoppers are given a broader range of products to choose from online.
+
+ Disadvantages of E-commerce 
+ The buyer cannot touch or feel the product online.
+ The customer has to wait for the delivery of their product.
+ Perishable goods bought online can get spoiled during delivery.
+ It is difficult to know when an online site is safe to use.
+ If it is an international purchase (i.e. an imported good), the product may be Taxation|taxed when it arrives at customs. 
+Sometimes the review can be created manually to lure the customer to buy the product with the wrong intention of selling. 
+
+E-commerce involves buying and selling of products and services by businesses and consumers through an electronic medium. Broadly, e-commerce is classified into four categories: business to business or B2B (Cisco), business to consumer or B2C (Amazon), consumer to consumer or C2C (eBay), and Business-to-Government (B2G). 
+
+ Bangladesh 
+
+Business-to-business e-commerce involves agreements between 2 businesses. Distribution management, inventory management, channel management, supplier management and payment management are some of the areas in which B2B applications are widely used. In Bangladesh, bgmea.com.bd, bizbangladesh.com are examples of B2B platforms.
+
+B2C commerce involves e-commerce between businesses and consumers. This form of e-commerce involves the purchase of books or any form of consumer goods. It also includes the purchase of software, e-books, games, songs as well as e-banking. ajkerdeal.com, bdbazar.com, daraz.com, bajna.com are some examples of B2C. Advantages of B2C platforms to companies are reduced operating costs, bigger outreach, globalisation, customer convenience and knowledge management. Consumer-to-consumer e-commerce involves transactions between individual consumers. For instance, online auction, peer-to-peer system for money or file exchange can be classified as forms of C2C e-commerce. In Bangladesh bikroy.com, clickbd.com are examples of C2C platforms. 
+
+B2G is usually used for licensing process, public purchasing and other government operations. B2G e-commerce is rather insignificant when compared to the other three forms. However, B2G can be one of the driving forces for running the public sector known as e-governance.
+
+A wide range of Technology|technologies is used in e-commerce that includes electronic data interchange (EDI), electronic mail (e-mail), electronic funds transfer (EFT). In the case of Electronic Data Interchange (EDI), there needs to be an agreement between trading partners. EDI is a standard method for exchanging business data. E-mail and fax are also forms of EDI. In Bangladesh small, medium, and big enterprises have taken up e-business platforms. When compared to developed countries, developing countries have a higher potential for improving the business structure and raise productivity by using e-commerce as a medium. M-Commerce (Mobile Commerce) and F-Commerce (Facebook Commerce) are very popular in today's e-business world. Over the years, the number of online transactions has been on the rise. According to BTRC officials, the number of internet subscribers in Bangladesh had crossed 80 million in 2017. At present, there are approximately 2,000 e-commerce sites and 50,000 Facebook-based outlets delivering almost 30,000 products a day. Currently, 80 per cent of the online sales are taking place in Dhaka, Chittagong|Chattogram and Gazipur District|Gazipur.
+
+Over the last few years, internet connections have improved and the number of people who have access to the web has increased thus making way for the e-commerce business to flourish. In 2016, $50 million was invested in the e-commerce sector in Bangladesh. Out of which $10 million was from Foreign Direct Investment. In 2017, the B2C e-commerce business market measure equaled USD 110-115 million (around BDT 9.0 billion) compared to BDT 1335.71 billion made by the retail market. The outreach of the e-commerce business market exceeded Tk 17.0 billion in 2017 from Tk 4.0 billion in 2016, as revealed from the findings by the e-Commerce Association of Bangladesh (e-CAB). The market measure for e-commerce is expected to equal Tk 70 billion by 2021.
+
+Before 2013, the government had placed restrictions on the purchase and sale of goods and online services through international credit cards (export.gov, 2017). In the first three quarters of 2016, the e-commerce industry achieved 67 per cent growth whereas, the country's e-commerce transaction reached BDT 3.59 (Xinhua, 2016).
+
+Although the e-commerce sector has grown over the years, there remain many obstacles. Some of the key challenges are net neutrality, high-speed net, parcel delivery logistics and assurance of quality products. Foreign players also pose competition and risk to local start-ups. The sector suffers from a lack of logistics and a sound transportation system that restricts e-commerce trading to expand. The transportation system affects the delivery of products. Challenges also persist in the logistics sector. A large chunk of almost 65 per cent of the operations of the e-commerce companies takes place in the capital and Chattogram. The e-commerce companies fail to reach all parts of the country, including of course the rural areas, due to poor infrastructure and inability to access remote areas for lack of adequate transport facilities.
+

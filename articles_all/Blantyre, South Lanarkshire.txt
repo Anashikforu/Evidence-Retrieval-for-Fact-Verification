@@ -1,0 +1,30 @@
+{{infobox UK place|
+|country = Scotland
+ |official_name= Blantyre
+ |gaelic_name=    Baile an t-Saoir
+ |population=
+ |population_density=
+ |os_grid_reference= NS685575
+ |latitude= 55.793365
+ |longitude=-4.096859
+ |unitary_scotland= South Lanarkshire
+ |lieutenancy_scotland= Lanarkshire
+ |constituency_westminster=
+ |constituency_scottish_parliament=
+ |constituency_scottish_parliament1=
+ |post_town=
+ |postcode_district =
+ |postcode_area=
+ |dial_code=
+ |edinburgh_distance=
+ |london_distance=
+ |static_image=
+ |static_image_caption=
+ |area_total_sq_mi=
+ }}
+'''Blantyre''' () is a burgh in South Lanarkshire, Scotland with a population of about 17,000.
+
+
+
+
+Category:Towns in South Lanarkshire

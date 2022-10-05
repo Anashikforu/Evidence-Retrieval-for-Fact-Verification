@@ -1,0 +1,7 @@
+
+
+'''Secure your account:'''
+ Think about logging in on the  If your password only contains letters or numbers, please consider changing it (in your Special:Preferences|preferences after you log in).
+ To avoid becoming a victim of phishing, always make sure you are viewing //simple.wikipedia.org/w/index.php?title=Special:UserLogin Wikipedia's login page when logging in. Wikipedia will never ask for any information other than your username, password and e-mail address.
+ Do not give out your password to anyone.
+ If your account is taken over, it may be Wikipedia:Blocks and bans|blocked unless you can show you are its owner.

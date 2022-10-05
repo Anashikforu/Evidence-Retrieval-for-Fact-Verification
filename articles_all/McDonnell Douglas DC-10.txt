@@ -1,0 +1,17 @@
+
+The '''McDonnell Douglas DC-10''' is an United States|American trijet|three-engine medium- to long-range widebody airliner, with two engines mounted on underwing pylons and a third engine at the base of the vertical stabilizer. The model was a successor to the company's Douglas DC-8|DC-8 for long-range operations, and competed in the same markets as the Airbus A300, Boeing 747, and Lockheed L-1011|Lockheed L-1011 Tristar, which has a similar layout to the DC-10.
+
+Production of the DC-10 ended in December 1988 with 386 delivered to airlines and 60 to the United States Air Force|U.S. Air Force as air-to-air refueling Tanker (aircraft)|tankers, designated the KC-10 Extender.  The DC-10 was succeeded by the related McDonnell Douglas MD-11 which entered service in 1990.
+
+ Development 
+
+Douglas Aircraft began design studies based on its CX-HLS design. In 1966, American Airlines offered a specification to manufacturers for a widebody aircraft smaller than the Boeing 747 but capable of flying similar long-range routes from airports with shorter runways. The DC-10 became McDonnell Douglas's first commercial airliner after the merger between McDonnell Aircraft Corporation and Douglas Aircraft Company in 1967.  The DC-10 was first ordered by launch customers American Airlines with 25 orders, and United Airlines with 30 orders and 30 options in 1968.  The DC-10, a series 10 model, made its first flight on August 29, 1970.  Following a flight test program with 929 flights covering 1,551 hours, the DC-10 was awarded a type certificate from the FAA on July 29, 1971  It entered commercial service with American Airlines on August 5, 1971 on a round trip flight between Los Angeles and Chicago. United Airlines began DC-10 service on August 16, 1971.6 The DC-10's similarity to the L-1011 in terms of passenger capacity and launch in the same timeframe resulted in a head to head sales competition which affected profitability of the aircraft.
+
+ Accidents and Problems 
+The DC-10 had design flaws and had a poor safety record in its early years.  But later, the design flaws were improved, and the DC-10 became much safer.  The following accidents are some of those which have occurred since 1972.
+
+ June 12, 1972 - American Airlines flight 96, bound from Detroit to Buffalo, New York|Buffalo and then to LaGuardia Airport, experienced an explosive decompression in flight.  The cause was a poorly-designed rear cargo door.  The crew managed to land the plane safely back in Detroit.
+ March 3, 1974 - Turkish Airlines flight 981, bound from Paris to London and carrying 346 passengers and crew, crashed nine minutes after takeoff, killing everyone onboard.  The cause was the same as that of American flight 96. 
+ May 25, 1979 - American Airlines American Airlines Flight 191|flight 191 crashed during takeoff near O'Hare International Airport while bound for Los Angeles.  All 271 people on board and 2 on the ground were killed; this remains the worst plane crash in America.  Engine No. 1 separated from the plane while on takeoff roll.  The cause of the crash was due to a maintenance error and a design flaw with the engine's pylon.  All DC-10s worldwide were grounded until modifications were made.
+
+Category:Civil aircraft

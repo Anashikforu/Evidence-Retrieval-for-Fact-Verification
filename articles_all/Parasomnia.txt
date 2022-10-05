@@ -1,0 +1,11 @@
+'''Parasomias''' are sleep disorders that interrupt sleep. They can be broadly classified:
+Problems with arousal (NREM sleep): Sleepwalking and night terrors (Pavor nocturnus)
+Problems associated with REM sleep: Nightmares, sleep paralysis
+Other problems, including for example hallucinations, or eating disorders.
+
+
+
+
+
+Category:Sleep disorders
+Category:Psychology

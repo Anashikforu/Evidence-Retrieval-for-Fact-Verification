@@ -1,0 +1,145 @@
+ 
+'''Loir-et-Cher''' is a Departments of France|department in the centre of France in the Centre-Val de Loire Regions of France|region. It is named after the Loir and the Cher (river)|Cher, two rivers that flow through the department.
+
+Its Prefectures in France|prefecture is Blois and there are two Prefectures in France|subprefectures at Romorantin-Lanthenay and Vendôme.
+
+History
+The department is one of the 83 French departments made during the French revolution, on 4 March 1790. The department was created from part of the former province of Orléanais together with small parts of other provinces.
+
+The new department had six districts: Blois, Vendôme, Romorantin, Mondoubleau, Mer and Saint-Aignan. The Capital city|capital (now Prefectures in France|prefecture) was Blois.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the six districts were changed into three ''arrondissements'': Blois, Romorantin and Vendôme.
+
+After the Battle of Waterloo (18 June 1815), the department was occupied by the Prussian army from June 1815 to November 1818.
+
+On 10 September 1926, the ''arrondissement'' of Romorantin was eliminated but in 1943 it was made again an ''arrondissement''. In 1961, Romorantin was merged with Lanthenay and the name, of the ''commune'' and of the ''arrondissement'', was changed to Romorantin-Lanthenay.
+
+Geography
+Loir-et-Cher is part of the Centre-Val de Loire Regions of France|region. It has an area of .
+
+The highest point of the department is in the ''Bois des Vallèes'' ( above sea level.
+
+The department is bordered by the 6 departments in 2 regions:
+ Centre-Val de Loire region
+ Eure-et-Loir
+ Loiret
+ Cher (department)|Cher
+ Indre (department)|Indre
+ Indre-et-Loire
+ Pays de la Loire region
+ Sarthe
+
+
+
+The main rivers are:
+ Loire River|Loire, that flows through the centre of the department. The city of Blois is along this river.
+ Loir, a left tributary of the Sarthe (river)|Sarthe; it flows through the northern part of the department.
+ Cher (river)|Cher, that flows through the southern part of the department. It is a left tributary of the Loire.
+ Sauldre, a right tributary of the Cher river.
+
+= Climate =
+The Köppen climate classification type for the climate at Vendôme is an "Oceanic climate" (also known as Marine West Coast Climate) and of the subtype '''Cfb'''.
+
+The average amount of precipitation for the year in Vendôme is .
+
+The average temperature for the year in Vendôme is .
+
+Administration
+The department is managed by the ''Departmental Council of the Loir-et-Cher'' in Blois. Loir-et-Cher is part of the region of Centre-Val de Loire.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 15 Cantons in France|''cantons'' and 276 Communes in France|''communes'' (Municipality|municipalities) in Loir-et-Cher.
+
+
+
+
+
+The following is a list of the 13 Cantons of France|cantons of the Loir-et-Cher department, following the French canton reorganisation which came into effect in March 2015:
+
+# Canton of La Beauce|La Beauce (4101)
+# Canton of Blois-1|Blois-1 (4102)
+# Canton of Blois-2|Blois-2 (4103)
+# Canton of Blois-3|Blois-3 (4104)
+# Canton of Chambord|Chambord (4105)
+# Canton of Montoire-sur-le-Loir|Montoire-sur-le-Loir (4106)
+# Canton of Montrichard|Montrichard (4107)
+# Canton of Onzain|Onzain (4108)
+# Canton of Le Perche|Le Perche (4109)
+# Canton of Romorantin-Lanthenay|Romorantin-Lanthenay (4110)
+# Canton of Saint-Aignan|Saint-Aignan (4111)
+# Canton of Selles-sur-Cher|Selles-sur-Cher (4112)
+# Canton of La Sologne|La Sologne (4113)
+# Canton of Vendôme|Vendôme (4114)
+# Canton of Vineuil|Vineuil (4115)
+
+
+Demographics
+The inhabitants of Loir-et-Cher are known, in French language|French, as ''Loir-et-Chériens'' (women: ''Loir-et-Chériennes'').
+
+Loir-et-Cher has a population, in 2014, of 333,567, for a population density of  inhabitants/km2. The ''arrondissement'' of Blois, with 173,125 inhabitants, is by far the largest.
+
+
+'''Evolution of the population in Loir-et-Cher'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:350000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2006 text:2006
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 267896
+ bar:1975 from:0 till: 283686
+ bar:1982 from:0 till: 296220
+ bar:1990 from:0 till: 305937
+ bar:1999 from:0 till: 314968
+ bar:2006 from:0 till: 325183
+ bar:2014 from:0 till: 333567
+
+PlotData=
+ bar:1968 at: 267896 fontsize:S text: 267,896 shift:(-13,5)
+ bar:1975 at: 283686 fontsize:S text: 283,686 shift:(-18,5)
+ bar:1982 at: 296220 fontsize:S text: 296,220 shift:(-18,5)
+ bar:1990 at: 305937 fontsize:S text: 305,937 shift:(-18,5)
+ bar:1999 at: 314968 fontsize:S text: 314,968 shift:(-18,5)
+ bar:2006 at: 325183 fontsize:S text: 325,183 shift:(-18,5)
+ bar:2014 at: 333567 fontsize:S text: 333,567 shift:(-18,5)
+
+
+
+The main cities in the department are:
+
+
+
+
+Gallery
+
+File:Blois Église Saint-Nicolas.jpg|''Saint-Nicolas'' church,Blois.
+File:Vendôme (Loir-et-Cher).jpg|Vendôme.
+File:Arrière du Château de Chambord (41).JPG|''Château'' of Chambord, Loir-et-Cher|Chambord.
+File:ChaumontRundgang05.jpg|Interior of the ''Château'' of Chaumont-sur-Loire.
+File:Troussay01.jpg|''Château de Troussay'', in Cheverny.
+
+
+Category:Departments in Centre-Val de Loire

@@ -1,0 +1,18 @@
+ #
+# Lines here will be added to the global robots.txt
+# Removing AfDs people get annoyed when "you were deleted" is on the first page of their search #results 
+Disallow: /wiki/Wikipedia:Requests_for_deletion/
+Disallow: /wiki/Wikipedia%3ARequests_for_deletion/
+Disallow: /wiki/Wikipedia_talk:Requests_for_deletion/
+Disallow: /wiki/Wikipedia_talk%3ARequests_for_deletion/
+#
+#and the list of pages that are noindexed
+Disallow: /wiki/Category:Noindexed_pages
+Disallow: /wiki/Category%3ANoindexed_pages
+#
+#more
+Disallow: /wiki/Wikipedia:Requests_for_checkuser
+Disallow: /wiki/Wikipedia%3ARequests_for_checkuser
+Disallow: /wiki/Wikipedia_talk:Requests_for_checkuser
+Disallow: /wiki/Wikipedia_talk%3ARequests_for_checkuser
+#

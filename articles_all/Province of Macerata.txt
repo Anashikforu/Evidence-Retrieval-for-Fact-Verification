@@ -1,0 +1,149 @@
+
+The '''Province of Macerata''' () is a Provinces of Italy|province in the Regions of Italy|region of Marche in Italy. Its Capital city|capital is the city of Macerata.
+
+Geography
+
+Macerata is the largest of provinces of the Marche, with an area of . The province is bordered to the east by the Adriatic Sea and to the west by the Umbria region (Province of Perugia). It is the only province of the Marche that borders with other three provinces of the same regionː the Province of Ancona|Ancona to the north,  Province of Ascoli Piceno|Ascoli Piceno to the southwest and the  Province of Fermo|Fermo to the south.
+
+
+
+The main rivers in the province areː
+Chienti,  long
+Potenza (river)|Potenza,  long.
+
+Population
+There are 318,921 persons living in the province (1 January 2017), for a population density of  inhabitants/km².
+
+'''Evolution of the population'''
+
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:360000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:40000 start:0
+ScaleMinor = gridcolor:lightgrey increment:20000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2017 text:2017
+
+PlotData=
+ color:barra width:30 align:left
+
+  bar:1961 from:0 till: 291412
+  bar:1971 from:0 till: 286155
+  bar:1981 from:0 till: 292932
+  bar:1991 from:0 till: 295481
+  bar:2001 from:0 till: 301523
+  bar:2011 from:0 till: 319607
+  bar:2017 from:0 till: 318921
+
+PlotData=
+  bar:1961 at: 291412 fontsize:S text: 291,412 shift:(-13,5)
+  bar:1971 at: 286155 fontsize:S text: 286,155 shift:(-18,8)
+  bar:1981 at: 292932 fontsize:S text: 292,932 shift:(-18,5)
+  bar:1991 at: 295481 fontsize:S text: 295,481 shift:(-18,5)
+  bar:2001 at: 301523 fontsize:S text: 301,523 shift:(-18,5)
+  bar:2011 at: 319607 fontsize:S text: 319,607 shift:(-18,8)
+  bar:2017 at: 318921 fontsize:S text: 318,921 shift:(-18,8)
+
+
+
+ Municipalities 
+There are 55 Municipality|municipalities (or ''Comune|comuni'') in the province; they are:
+
+
+# Apiro
+# Appignano
+# Belforte del Chienti
+# Bolognola
+# Caldarola
+# Camerino
+# Camporotondo di Fiastrone
+# Castelraimondo
+# Castelsantangelo sul Nera
+# Cessapalombo
+# Cingoli
+# Civitanova Marche
+# Colmurano
+# Corridonia
+# Esanatoglia
+# Fiastra
+# Fiuminata
+# Gagliole
+# Gualdo	
+# Loro Piceno
+# Macerata
+# Matelica
+# Mogliano
+# Monte Cavallo
+# Monte San Giusto
+# Monte San Martino
+# Montecassiano
+# Montecosaro
+# Montefano
+# Montelupone
+# Morrovalle
+# Muccia
+# Penna San Giovanni
+# Petriolo
+# Pieve Torina
+# Pioraco
+# Poggio San Vicino
+# Pollenza	
+# Porto Recanati
+# Potenza Picena
+# Recanati
+# Ripe San Ginesio
+# San Ginesio
+# San Severino Marche
+# Sant'Angelo in Pontano
+# Sarnano
+# Sefro
+# Serrapetrona
+# Serravalle di Chienti
+# Tolentino
+# Treia
+# Urbisaglia
+# Ussita
+# Valfornace
+# Visso
+
+
+The largest ''comune'' is San Severino Marche, with . The two ''Comune|comuni'' with fewest people living in it are Bolognola, with 137 inhabitants, and Monte Cavallo, with 133 inhabitants.
+
+=Main ''comuni''=
+The following table shows the 10 Comune|''comuni'' with more inhabitants with their population, and their area and altitude.
+
+
+
+
+
+ Gallery 
+
+File:Sferisterio Macerata.jpg|''Sferisterio'', Macerata.
+File:Civitanova Marche all'alba.JPG|Civitanova Marche.
+File:Recanati piazza palazzo Leopardi.jpg|Recanati.
+File:266TolentinoPzaDellaLiberta.JPG|''Piazza della Libertà'', Tolentino.
+File:Castle of Monte Nero San Severino Marche 01.jpg|Castle of Monte Nero, San Severino Marche.
+
+
+Related pages
+ List of comuni of the Province of Macerata
+
+Category:Provinces of Marche|Macerata

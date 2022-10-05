@@ -1,0 +1,37 @@
+The '''Basic Roman''' spelling of English language|English is a 2002 proposal for regular English spelling.L.L. Ivanov,  The basic Roman alphabet, with no additional letters or diacritics used;
+ One spelling, with no phoneme (sound) written by two or more graphemes (letters);
+ Short vowels are spelled by single letters, while long vowels and diphthongs are spelled by two-letter combinations;
+ Diphthongs are spelled by their components, and long vowels either as diphthongs or by doubling the letters of the short vowels;
+ Short vowels and consonants are spelled as in the tradition of most Romanized languages.L. Ivanov & V. Yule 
+The Basic Roman system serves no particular standard of English pronunciation. Instead, it gives one way to spell the different varieties of English. The system uses 22 Roman letters to represent the set of English phonemes considered by J.C. Wells.J.C. Wells, ''Longman Pronunciation Dictionary'', Second edition, Harlow: Pearson Education Ltd., 2000. The letters ‘j’, ‘q’, ‘w’ and ‘x’ are not used (letters ‘j’ and ‘w’ are used in an extended version of the Basic Roman spelling, see below).
+
+
+
+By way of illustration, the following reference text by V. YuleV. Yule, 
+:Once upon a time, the beautiful daughter of a great magician wanted more pearls to put among her treasures. “Look through the centre of the moon when it is blue,” said her royal mother in answer to her question. “You might find your heart’s desire.” The fair princess laughed, because she doubted these words. Instead, she used her imagination, and moved into the photography business, and took pictures of the moon in colour. “I perceive most certainly that it is almost wholly white,” she thought. She also found that she could make enough money in eight months to buy herself two lovely huge new jewels too.
+
+:Uans apon a taym, da byutiful doota av a greyt madzhishan uontid moo paalz tu put amang haa trezhaz. “Luk tru da senta av da muun huen it iz bluu,” sed haa royal mada in ansa tu haa kueschan. “Yu mayt faynd yoo haats dizaya.” Da fea prinses laaft, bikoz shi dautid diyz waadz. Insted, shi yuzd haa imadzhineyshan, and muuvd intu da fotografi biznis, and tuk pikchaz av da muun in kala. “Ay paasiyv moust saatanli dat it iz olmoust houli wayt,” shi toot. Shi olsou faund dat shi kud meyk inaf mani in eyt mants tu bay haaself tuu lavli hyudzh nyu juualz tuu.
+
+A more elaborate version of the system is the '''Extended Basic Roman''' spelling of English, which uses also the letters ‘j’ and ‘w’, and has two specific two-letter combinations for the English voiced and voiceless dental fricatives.L. Ivanov, V. Yule, 
+:Wans apon a taym, dha byutiful doota av a greyt majishan wontid moo paalz tu put amang haa trezhaz. “Luk thru dha senta av dha muun hwen it iz bluu,” sed haa royal madha in ansa tu haa kweschan. “Yu mayt faynd yoo haats dizaya.” Dha fea prinses laaft, bikoz shi dautid dhiyz waadz. Insted, shi yuzd haa imajineyshan, and muuvd intu dha fotografi biznis, and tuk pikchaz av dha muun in kala. “Ay paasiyv moust saatanli dhat it iz olmoust houli wayt,” shi thoot. Shi olsou faund dhat shi kud meyk inaf mani in eyt manths tu bay haaself tuu lavli hyuj nyu juualz tuu.
+
+Apart from respelling of English, the Basic Roman could also be used as the target spelling of a universal algorithm for the designing of superior, user-friendly Romanization systems transliterating and transcribing a variety of languages. This ‘streamlined approach’ has been successfully tested in the case of Bulgarian language, with the 1995 Romanization of Bulgarian|Streamlined System for the Romanization of Bulgarian becoming established in Bulgaria (eventually codified in a 2009 law), and adopted also by United Nations|UN in 2012,
+The Extended Basic Roman is close to one-to-one phoneme-grapheme correspondence, paving the way to a pronunciation respelling for English by means of the closely related Roman Phonetic Alphabet for English.
+
+ Roman Phonetic Alphabet for English 
+The '''Roman Phonetic Alphabet''' for English language|English is a system based on the Extended Basic Roman spelling of English. It includes two pairs of stress marks which disambiguate words which share the same spelling but have different meanings. This is to get a one-to-one phoneme (sound)–grapheme (spelling) correspondence.L. Ivanov & V. Yule, 
+
+
+Primary stress is indicated by the mark , respectively  in the case of \\.  Secondary stress is shown by  and  respectively.  Stress marks are placed before the syllables concerned.
+
+By way of illustration, the following reference text by V. Yule is given in traditional English Orthography|spelling and in Roman Phonetic Alphabet transcription (non-rhotic version):
+
+:Once upon a time, the beautiful daughter of a great magician wanted more pearls to put among her treasures.  “Look through the centre of the moon when it is blue,” said her royal mother in answer to her question.  “You might find your heart’s desire.”  The fair princess laughed, because she doubted these words.  Instead, she used her imagination, and moved into the photography business, and took pictures of the moon in colour.  “I perceive most certainly that it is almost wholly white,” she thought.  She also found that she could make enough money in eight months to buy herself two lovely huge new jewels too.
+
+:”Wans a’pon a taym, dha ’byutiful ’doota av ”a greyt ma’jishan ’wontid moo ”paalz tu put a”mang ”haa ’trezhaz.  '''“'''Luk thru dha ’senta av dha muun hwen it iz bluu,'''”''' sed ”haa ’royal ’madha in ’ansa tu ”haa ’kweschan.  '''“'''Yu mayt faynd yoo ’haats di’zaya.'''”'''  Dha fea ’prinses ’laaft, bi’koz shi ’dautid dhiyz ”waadz.  Insted, shi yuzd ”haa i,maji’neyshan, and muuvd intu dha fo’tografi biznis, and tuk ’pikchaz av dha muun in ”kala.  '''“'''Ay paa’siyv moust ”saatanli ’dhat it iz olmoust houli wayt,'''”''' shi thoot.  Shi olsou faund ’dhat shi kud meyk i”naf ”mani in eyt ”manths tu bay haa’self tuu ”lavli hyuj nyu ’juualz tuu.
+
+Related pages
+ Orthography
+ English language
+
+Category:Pronunciation

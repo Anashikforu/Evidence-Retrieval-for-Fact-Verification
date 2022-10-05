@@ -1,0 +1,5 @@
+'''Predicive failure analysis''' is a technology developed by IBM to monitor the likelihood of a hard disk failure. Today, it is part of S.M.A.R.T.
+
+
+
+Category:Computer science

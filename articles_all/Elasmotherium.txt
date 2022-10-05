@@ -1,0 +1,30 @@
+
+{{Taxobox
+| name = Elasmotherium
+| image =  Elasmotherium sibiricum skull.jpg
+| image_width = 250px 
+| image_caption = ''Elasmotherium'' skull
+| fossil_range = late Pliocene to late Pleistocene, 2.6 mya  ~50 kya
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Perissodactyla
+| familia = Rhinocerotidae
+| genus = '''''Elasmotherium'''''
+| genus_authority = Johann Fischer von Waldheim|J. Fischer, 1808}}
+
+
+'''''Elasmotherium''''' is an extinct giant rhinoceros.
+
+It lived from 2.6 million years ago (mya) to about 50,000 years ago. Fossils have been found in Europe and Asia. This giant lived and grazed on the Eurasian steppes (grasslands).
+
+ Description 
+''Elasmotherium'' was a heavily-built quadruped that walked on four hoofed legs.  Its legs were longer than those of other rhinos and were adapted for galloping, giving it a horse-like gait.
+
+It probably had a large horn on its forehead, but fossils of the horn have not been found. The teeth were tall-crowned and were covered with cement and wrinkled enamel. Its mouth at the front was a beak; there are no teeth in front of the molars.
+
+=Morphology=
+The specimens of ''E. sibiricum'' are up to  
+
+Both species were among the largest in the family Rhinocerotidae, comparable in size to the woolly mammoth and larger than the woolly rhinoceros.
+
+Category:Rhinoceroses

@@ -1,0 +1,28 @@
+The '''problem of evil''' is the question whether evil exists, and if so does it disprove the existence of God.The Stanford Encyclopedia of Philosophy 
+Responses include the argument that if there is free will, evil must necessarily exist; that humans cannot understand God; that evil is simply being without god; or that there is evil because the world is corrupted and fallen (from grace). 
+
+ Logical problem of evil 
+A version of the problem of evil, perhaps by Epicurus,Perhaps wrongly attributed to Epicurus by Lactantius, who, from his Christian perspective, regarded Epicurus as an atheist. According to Reinhold Glei, the argument of theodicy is from a source which is anti-epicurean. Reinhold F. Glei 1988. ''Et invidus et inbecillus. Das angebliche Epikurfragment bei Laktanz, De ira dei 13,20-21'', in: ''Vigiliae Christianae'' '''42''' p47-58 goes as follows:Larrimore M.J. 2001. ''The problem of evil''. Wiley-Blackwell. 
+# If a perfectly good god exists, then evil does not.
+# There is evil in the world.
+# Therefore, a perfectly good god does not exist.
+
+Another argument goes: 
+# God exists.
+# God is all-powerful, all-knowing, and perfectly good.
+# A perfectly good being would want to prevent all evils.
+# An all-knowing being knows every way in which evils can happen.
+# An all-powerful being, who knows every way in which an evil can come into existence, has the power to prevent that evil from happening.
+# A being who knows every way in which an evil can happen, who is able to prevent that evil from happening, and who wants to do so, would prevent it.
+# If there exists an all-powerful, all-knowing, and perfectly good being, then no evil exists.
+# Evil exists (logical contradiction).The Internet Encyclopedia of Philosophy. 
+Arguments such as these are about the ''logical'' problem of evil. They attempt to show that the assumed propositions lead to a logical wikt:contradiction|contradiction and cannot therefore all be correct. 
+
+A common response is that God can exist with and allow evil in order to achieve a greater good. Some philosophers accept that arguments such as "God allows evil in order to achieve the greater good of free will" are logically possible and thus solve the logical problem of evil. Since the aim is only to defeat the assertion that God and evil are ''logically incompatible'', even a highly implausible instance of God's coexistence with evil is sufficient for the purpose.The Internet Encyclopedia of Philosophy. 
+Philosophies of science have approached the problem from the angle of empiricism. For logical positivism the issue with God is the lack of any independent method of wikt:verify|verification. In their view, this makes the proposition "God exists", not true or false, but meaningless.Ayer A.J 1936 2nd ed 1946. ''Language, truth and logic''. Gollancz, London. A similar position points to the lack of any way the proposition might be falsified.Lakatos, Imre 1976. ''Proofs and refutations''. Cambridge.
+
+Related pages
+ Philosophy of religion
+ Theodicy
+
+Category:Philosophical problems

@@ -1,0 +1,22 @@
+
+{{Taxobox
+| name = Plateosaurus
+| fossil_range = Late Triassic, - Early Jurassic 215-189 Mya
+| image = Plateosaurus Skelett 2.jpg
+| image_width = 300px
+| image_caption = Mounted skeleton of ''Plateosaurus'', University of Tübingen|Eberhard-Karls-University Tübingen, Germany
+| regnum = Animalia
+| classis = Sauropsida
+| superordo = Dinosauria
+| ordo = Saurischia
+| subordo = Sauropodomorpha
+| infraordo = Prosauropoda
+| familia = Plateosauridae
+| genus = '''''Pachysauriscus'''''
+| genus_authority = Christian Erich Hermann von Meyer|Meyer, 1837}}
+
+'''''Plateosaurus''''' (meaning 'wikt:flat|flat lizard') is a plateosaurid prosauropod dinosaur genus. They lived during the Norian and Rhaetian stages of the Upper Triassic period, around 216 to 199 million years ago in what is now Europe.Weishampel D.B. ''et al'' 2004. In Weishampel D.B.; Dodson P. & Osmólska H. (eds.), ''The Dinosauria''. 2 ed, Berkeley: University of California Press, p. 524. 
+
+The ''Plateosaurus'' was the first long-necked plant eater in the Triassic. An adult ''Plateosaurus'' could weigh up to  long. They used both hands to pull leaves off trees, but since they had weak teeth, they used their sharp thumb claws to defend themselves against predators.
+
+Category:Triassic dinosaurs

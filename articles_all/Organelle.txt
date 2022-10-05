@@ -1,0 +1,34 @@
+
+
+In cell biology, an '''organelle''' is a part of a cell that does a wikt:specific|specific job.
+
+Organelles typically have their own plasma membrane round them.See 'Scope of the term' below. Most of the cell's organelles are in the cytoplasm.Alberts, Bruce et al. 2003. ''Essential cell biology'', 2nd ed. Garland Science.
+
+The name ''organelle'' comes from the idea that these structures are to cells what an Organ (anatomy)|organ is to the body.
+
+There are many types of organelles in eukaryote|eukaryotic cells. Prokaryotes were once thought not to have organelles, but some examples have now been found.
+They are not organised like eukaryote organelles, and are not bounded by plasma membranes. They are called bacterial microcompartments.
+
+ Scope of the term 
+The term is now widely used to refer to cellular structures surrounded by single or double plasma membranes.Nultsch, Allgemeine Botanik, 11. Aufl. 2001, Thieme VerlagWehner/Gehring, Zoologies, 23. Aufl. 1995, Thieme Verlag
+
+The plasma membrane is a lipid bilayer with some proteins embedded in it. It keeps the ions and molecules of the organelle from merging with the surroundings.
+
+ Origin of organelles 
+Mitochondria and chloroplasts, which have double-membranes and their own DNA, are believed to have originated from incompletely consumed or invading prokaryote|prokaryotic organisms, which were adopted as a part of the invaded cell. This idea is supported in the Endosymbiosis|endosymbiotic theory.
+
+ Eukaryotic organelles
+= Major organelles =
+
+
+= Minor organelles =
+
+
+ Prokaryotic organelles 
+Prokaryotes are not so complex as eukaryotes. They were thought  to have no internal structures enclosed by Lipid bilayer|lipid membranes.
+
+However, recent research has shown that at least some prokaryotes have Bacterial microcompartment|microcompartments such as carboxysomes. These subcellular compartments are 100–200&nbsp;nm in diameter and are enclosed by a shell of proteins.
+
+
+
+Category:Organelles| 

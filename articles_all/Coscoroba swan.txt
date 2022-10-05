@@ -1,0 +1,18 @@
+{{Taxobox
+| name = Swans
+| image = Coscoroba.swan.2.arp.750pix.jpg
+| image_width = 256px
+| image_caption = A coscoroba swan (''Coscoroba coscoroba'')
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = bird|Aves
+| ordo = Anseriformes
+| familia = Anatidae
+| subfamilia = Anserinae
+| genus = '''''Coscoroba'''''}}
+
+
+The '''coscoroba swan''' (''Coscoroba coscoroba'') is a distant relative of the true swan. Many specialists merge this genus, ''Coscoroba'', with ducks, like whistling ducks. The coscoroba swan is found in South America from southern Chile and central Argentina south to Tierra del Fuego and the Falkland Islands.
+
+Recent genetic studies have found a relationship between this species and Cape Barren goose (''Cereopsis novaehollandiae''). They are sister groups.Rodrigues B.S. ''et al'' 2014. 
+Category:Anatidae

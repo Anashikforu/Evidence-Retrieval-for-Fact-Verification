@@ -1,0 +1,32 @@
+{{Infobox EMU
+|name = British Rail Class 314
+|image = British Rail Class 314.jpg
+|imagesize = 300px
+|caption = 314207 at Gourock railway station.
+|background = #DF3B22
+|Family = 
+|Manufacturer = BREL|BREL York
+|Operator = British RailScotRail (British Rail)ScotRail (National Express)First ScotRailAbellio ScotRail
+|Formation = 3 cars per trainset
+|Built = 16 trainsets
+|InService = 1979 - 2019
+|Weight = 102.5 tonnes|t
+|CarLength = 19.80 m
+|CarWidth = 3.58 m
+|CarHeight = 2.82 m
+|Capacity = 212 seats
+|MaxSpeed = 75 mph (121 km/h)
+|Power = 656 kW
+|Gauge = Standard gauge (1,435 mm)
+|Voltage = 25 kV Alternating current|AC Overhead lines|Overhead
+|numberscrapped=15 sets.|refurbishment=2006-2007, 2009-2010, 2011-2013}}
+'''British Rail Class 314''' alternating current (AC) electric multiple units (EMU) were built by BREL at York works from 1978 to 1979. They were the second variety of British Rail's then-standard 1972 design for suburban EMUs, which eventually encompassed 755 vehicles and five Classes (Class British Rail Class 313|313/314/British Rail Class 315|315/British Rail Class 507|507/British Rail Class 508|508). Able to operate from 25 volt|kV overhead line current collection only, the fleet worked outer-suburban services on the Strathclyde Passenger Transport rail network in Central Scotland.
+
+
+
+
+
+
+
+Category:British Rail electric multiple units|314
+Category:BREL products|314

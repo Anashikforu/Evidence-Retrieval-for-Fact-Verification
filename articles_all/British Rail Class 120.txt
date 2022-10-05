@@ -1,0 +1,30 @@
+{{Infobox DMU
+|name = British Rail Class 120 
+|image = British Rail Class 120.jpg
+|imagesize = 240px
+|background = #0033cc
+|caption = 
+|Manufacturer = Swindon Works|BR Swindon Works
+|Operator = British Rail
+|Formation =   
+|Built =
+|LinesServed = 
+|InService = 1958-1989
+|CarLength = 64 ft 6 in 
+|CarWidth = 9 ft 3 in 
+|CarHeight = 12 ft 4 1/2 in
+|Weight = 36 tons 7 cwt
+|Capacity = 
+|MaxSpeed =  70 mph (112 km/h)
+|Gauge = 
+|Traction = 
+|Engine =BUT (AEC) 150 hp 
+|SafetySystem=
+ |}}
+The '''Class 120''' was a cross-country DMU. It was made up of three units. The first unit was built in 1958 at the British Rail Swindon Works.
+
+
+
+
+
+Category:British Rail diesel multiple units|120

@@ -1,0 +1,25 @@
+
+'''''Wolfenstein 3D''''' is a 1992 first person shooter computer video game. The game was created by id Software. It was released for the Personal computer|PC on May 5, 1992. It was later released for many other systems including Apple Inc|Apple computers and Nintendo's Super Nintendo Entertainment System|SNES video game console|console and Game Boy Advance Handheld game console|handheld system. ''Wolfenstein 3D'' was one of the first first person shooter games. It is said to have created much of the popularity in this type of game. The game was based on the 1980s Muse Software computer games ''Castle Wolfenstein'' and ''Beyond Castle Wolfenstein''.
+
+Story
+In ''Wolfenstein 3D'', the player controls an United States|American soldier named BJ Blazkowicz. The player is trying to get out of a building controlled by Nazism|Nazis during World War II. The player must avoid guards and dogs while looking for the way out. Food, medicine|medical supplies, ammunition and weapons can be found along the way to help the player.
+
+Gameplay
+There are four types of weapons in the game:
+ '''Knife''': this weapon is usually only used if the player does not have ammunition for his guns. It can only hurt people standing very close to the character.
+ '''Pistol''': this gun is small and weak. It is the gun the player starts with.
+ '''Machine Gun''': this is like the pistol except it shoots faster.
+ '''Chaingun''': this gun shoots very quickly.
+
+Controversy
+Because of the use of Nazi symbols and music in the game, ''Wolfenstein 3D'' was banned in Germany. This was because it broke German laws. People also complained about the player having to shoot dogs in the game.
+
+Other websites
+ 
+Category:Shooter video games
+Category:1992 video games
+Category:NEC PC-9801 games
+Category:Game Boy Advance games
+Category:Xbox games
+Category:Super Nintendo Entertainment System games
+

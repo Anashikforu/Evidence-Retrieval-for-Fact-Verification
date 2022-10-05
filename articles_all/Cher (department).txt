@@ -1,0 +1,151 @@
+ 
+'''Cher''' is a Departments of France|department in the centre of France in the Centre-Val de Loire Regions of France|region. It is named after the Cher (river)|Cher river, the most important river in the department.
+
+Its Prefectures in France|prefecture is Bourges.
+
+History
+The department is one of the 83 French departments made during the French revolution, on 4 March 1790. The department was created from part of the former province of Berry (province)|Berry.
+
+The new department had seven districts: Aubigny, Sancerre, Sancoins, Saint-Amand, Châteaumeillant, Bourges and Vierzon. The Capital city|capital (now Prefectures in France|prefecture) was Bourges.
+
+In 1800, with the creation of the Arrondissements of France|''arrondissements'' in France, the seven districts were changed into three ''arrondissements'': Bourges, Saint-Amand-Mont-Rond and Sancerre.
+
+On 10 September 1926, the ''arrondissement'' of Sancerre was eliminated. In 1984, a new ''arrondissement'' was created: Vierzon.
+
+Geography
+Cher is part of the Centre-Val de Loire Regions of France|region. It has an area of .
+
+The highest point of the department is ''Le Magnoux'' ( above sea level.
+
+The department is bordered by 6 departments in 4 regions:
+ Centre-Val de Loire region
+ Loir-et-Cher (northwest)
+ Indre (department)|Indre (west)
+ Loiret (north)
+ Nouvelle-Aquitaine region
+ Creuse (south)
+ Auvergne-Rhône-Alpes region
+ Allier (southeast)
+ Bourgogne-Franche-Comté
+ Nièvre (east)
+
+
+
+The main rivers are:
+ Cher (river)|Cher, a left tributary of the Loire River|Loire; it is  long. The department is named after this river.
+ Allier (river)|Allier, also a left tributary of the Loire; it is  long.
+ Indre River|Indre, also a left tributary of the Loire; it is  long.
+ Sauldre, a right tributary of the Cher (river)|Cher; it is  long.
+
+= Climate =
+The Köppen climate classification type for the climate at Bourges is an "Oceanic climate" (also known as Marine West Coast Climate) and of the subtype '''Cfb'''.
+
+The average amount of precipitation for the year in Bourges is .
+
+The average temperature for the year in Bourges is .
+
+Administration
+The department is managed by the ''Departmental Council of the Cher'' in Bourges. Cher is part of the region of Centre-Val de Loire.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 19 Cantons in France|''cantons'' and 290 Communes in France|''communes'' (Municipality|municipalities) in Cher.
+
+
+
+
+
+The following is a list of the 19 Cantons of France|cantons of the Cher department, following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Aubigny-sur-Nère|Aubigny-sur-Nère (1801)
+# Canton of Avord|Avord (1802)
+# Canton of Bourges-1|Bourges-1 (1803)
+# Canton of Bourges-2|Bourges-2 (1804)
+# Canton of Bourges-3|Bourges-3 (1805)
+# Canton of Bourges-4|Bourges-4 (1806)
+# Canton of Chârost|Chârost (1807)
+# Canton of Châteaumeillant|Châteaumeillant (1808)
+# Canton of Dun-sur-Auron|Dun-sur-Auron (1809)
+# Canton of La Guerche-sur-l'Aubois|La Guerche-sur-l'Aubois (1810)
+# Canton of Mehun-sur-Yèvre|Mehun-sur-Yèvre (1811)
+# Canton of Saint-Amand-Montrond|Saint-Amand-Montrond (1812)
+# Canton of Saint-Doulchard|Saint-Doulchard (1813)
+# Canton of Saint-Germain-du-Puy|Saint-Germain-du-Puy (1814)
+# Canton of Saint-Martin-d'Auxigny|Saint-Martin-d'Auxigny (1815)
+# Canton of Sancerre|Sancerre (1816)
+# Canton of Trouy|Trouy (1817)
+# Canton of Vierzon-1|Vierzon-1 (1818)
+# Canton of Vierzon-2|Vierzon-2 (1819)
+
+
+Demographics
+The inhabitants of Cher are known, in French language|French, as ''Chériens'' (women: ''Chériennes'') or ''Berrichons'' (women: ''Berrichonnes'').
+
+Cher has a population, in 2014, of 310,270, for a population density of  inhabitants/km2. The ''arrondissement'' of Bourges, with 173,889 inhabitants, is by far the largest.
+
+
+'''Evolution of the population in Cher'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:350000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2006 text:2006
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 304601
+ bar:1975 from:0 till: 316350
+ bar:1982 from:0 till: 320174
+ bar:1990 from:0 till: 321559
+ bar:1999 from:0 till: 314428
+ bar:2006 from:0 till: 314676
+ bar:2014 from:0 till: 310270
+
+PlotData=
+ bar:1968 at: 304601 fontsize:S text: 304,601 shift:(-13,5)
+ bar:1975 at: 316350 fontsize:S text: 316,350 shift:(-18,5)
+ bar:1982 at: 320174 fontsize:S text: 320,174 shift:(-18,5)
+ bar:1990 at: 321559 fontsize:S text: 321,559 shift:(-18,5)
+ bar:1999 at: 314428 fontsize:S text: 314,428 shift:(-18,5)
+ bar:2006 at: 314676 fontsize:S text: 314,676 shift:(-18,10)
+ bar:2014 at: 310270 fontsize:S text: 310,270 shift:(-18,10)
+
+
+
+The main cities in the department are:
+
+
+
+
+Gallery
+
+File:Bourges - 002 - Low Res.jpg|The ''Saint-Etienne'' cathedral in Bourges.
+File:BourgesMaisons.JPG|Houses in Bourges.
+File:Jacques Coeur Palace main tower.JPG|Bourges.
+File:Apremont sur Allier.jpg|Apremont-sur-Allier.
+File:Noirlac abbey facade east.jpg|Bruère-Allichamps|Noirlac Abbey.
+File:Meillant 01 2009.jpg|''Château'' de Meillant.
+
+
+Category:Departments in Centre-Val de Loire

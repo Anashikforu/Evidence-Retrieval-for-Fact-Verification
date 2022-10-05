@@ -1,0 +1,44 @@
+{{Infobox Planet   | bgcolour=#FFFFC0 |
+name=87 Sylvia
+| discoverer=Norman Robert Pogson
+| image = ESO_-_87_Sylvia_(by).jpg
+| caption = Image showing the positions of Remus and Romulus around 87 Sylvia on 9 different nights. The small image shows the potato form of 87 Sylvia.
+| discovered=May 16, 1866
+| alt_names=A909 GA
+| mp_category=Main belt (Cybele asteroid|Cybele)
+| epoch=July 14, 2004 (Julian day|JD 2453200.5)
+| semimajor=522.137 Giga|Gmetre|m (3.490 Astronomical unit|AU)
+| perihelion=480.594 Gm (3.213 AU)
+| aphelion=563.679 Gm (3.768 AU)
+| eccentricity=0.080
+| period=2381.697 day|d (6.52 Julian year (astronomy)|a)
+| inclination=10.855degree (angle)|°
+| asc_node=73.342°
+| arg_peri=266.195°
+| mean_anomaly=352.763°
+| avg_speed=15.94 km/second|s
+| dimensions= 385×265×230 ± 10 km| mass=1.478±0.006×1019 kilogram|kg
+| density=1.2 ± 0.1 g/cubic centimetre|cm³
+| surface_grav=0.027 m/s²
+| escape_velocity=0.10 km/s
+| rotation=0.2160 d (5.183642 hour|h)| spectral_type=X-type asteroid|X| abs_magnitude=6.94
+| albedo=0.0435| single_temperature=~151 kelvin|K''max:'' 223 K (-52°celsius|C)}}
+'''87 Sylvia''' is one of the biggest main-belt asteroids. It is a member of the Cybele asteroid|Cybele group. It is beyond the middle of the belt. Sylvia is famous for being the first asteroid known to have more than one Satellite (natural)|moon.
+
+ Discovery and naming 
+Sylvia was found by Norman Robert Pogson|N. R. Pogson on May 16, 1866 from Chennai|Madras (Chennai), India.Pogson, N. R. (1866), ''
+ Physical characteristics 
+Sylvia is very dark in color and probably made of primitive. The discovery of its moons made possible an accurate measurement of the asteroid's mass and density. Its density is very low (around 1.2 times the density of water), indicating that the asteroid has a lot of empty spaces; From 25% to as much as 60% of it may be empty space, depending on the details of what it's made of. However, the mineralogy of the X-type asteroids is not known well enough to force this further. Either way, this suggests a loose rubble pile (an asteroid that has been broken up in a collision and pulled back together by gravity) structure. Sylvia is also a fairly fast rotator, turning about its axis every 5.18 hours (giving an equatorial rotation speed of about 230&nbsp;km/h or 145&nbsp;mph). The short axis is the rotation axis. Direct images indicate that Sylvia's pole points towards ecliptic coordinate system|ecliptic coordinates (β, λ) = (+62.6°, 72.4°) with only a 0.5° uncertainty, which gives it an axial tilt of around 29.1°. Sylvia's shape is very stretched.
+
+ Moons 
+Sylvia is orbited by two small Satellite (natural)|moons. They have been named Romulus and Remus (the formal names are (87) Sylvia I Romulus and (87) Sylvia II Remus, respectively), after the children of the mythological Rhea Silvia.
+
+Romulus (moon)|Romulus, the first moon, was found on February 18, 2001 from the Keck telescope|Keck II telescope by Michael E. Brown and Jean-Luc Margot. It is about 18 kilometre|km in diameter and orbits at a distance of 1356±5&nbsp;km, taking 3.6496±0.0007 days (87.59 h) to complete an orbit of Sylvia.
+
+Remus (moon)|Remus, the second moon, was found over three years later on August 9, 2004 by Franck Marchis of UC Berkeley, and Pascal Descamps, Daniel Hestroffer, and Jérôme Berthier of the Observatoire de Paris, France. It is 7±2&nbsp;km in diameter and orbits at a distance of 706±5&nbsp;km, taking 1.3788±0.0007 days (33.09 h) to complete an orbit of Sylvia.
+
+It is thought likely that both Sylvia and its moons are rubble piles from a past asteroid collision Other, smaller moons formed in a similar way may also be found.
+
+From the surface of Sylvia, Romulus and Remus would appear about the same size. Romulus, the farthest moon, would be about 0.89° across, a bit bigger than the closer but smaller Remus, which would be about 0.78° across. Because Sylvia is far from spherical, these values may vary by a little more than 10%, depending on where the observer is on Sylvia's surface. Since the two asteroid moons appear to orbit (as best we can tell) in the same plane, they would Occultation|occult each other once every 2.2 days. When the season is right, twice during Sylvia's 6.52 year orbital period, they would eclipse the Sun, which, at 0.15° across, is much smaller than when seen from Earth (0.53°). From Remus, the closer moon, Sylvia appears very big, about 30°×18° across, while its view of Romulus varies between 1.59 and 0.50° across. From Romulus, Sylvia measures 16°×10° across, while Remus varies between 0.62° and 0.19°.
+
+Category:Asteroids

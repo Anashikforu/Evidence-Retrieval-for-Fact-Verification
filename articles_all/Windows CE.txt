@@ -1,0 +1,10 @@
+
+'''Windows CE''' (also known officially as '''Windows Embedded Compact''' post version 6.0,
+The Zune portable media player, as well as the Windows Mobile and Windows Phone|Windows Phone 7 smartphone platforms are based on Windows CE.
+
+Version 8, or Windows Embedded Compact 2013, released in June 2013 is the only still supported version (until October 10, 2023).
+
+ Versions 
+
+
+Category:Microsoft operating systems

@@ -1,0 +1,27 @@
+{{Taxobox
+| colour = lightblue
+| name = ''Megalania''
+| fossil_range = Late Pleistocene
+| image = Varanus priscus Melbourne Museum.jpg
+| image_width = 250px
+| image_caption = ''Megalania'' skeletal reconstruction on Melbourne Museum steps
+| regnum = Animalia
+| classis = Sauropsida
+| ordo = Squamata
+| familia = Varanidae
+| genus = ''Varanus''
+| binomial = ''Varanus priscus''
+| binomial_authority = Owen 1859}}
+
+'''''Megalania''''' (''Varanus prisca'') was a giant monitor lizard that lived in southern Australia. It was part of a species of Australian megafauna|megafauna that lived during the Pleistocene, and appears to have disappeared around 40,000 years ago. The first Indigenous Australians|Aboriginal settlers of Australia may have encountered living ''Megalania''.
+
+''Megalania'' is the Terrestrial animal|land-based lizard known to have existed. Judging from its size, ''Megalania'' would have fed mostly upon medium- to large-sized animals, including any of the giant marsupials like ''Diprotodon'' .
+
+Size
+
+
+Ralph Molnar in 2004 determined a range of possible sizes for ''Megalania''. He did this by scaling up from dorsal vertebrae, after he determined a relationship between dorsal vertebrae length and total body length. If it had a long thin tail like the Lace monitor (''Varanus varius''), then it would have reached a length of  as the maximum.
+
+This is twice the length of their closest living relative, the Komodo dragon of eastern Indonesia.
+
+Category:Monitor lizards

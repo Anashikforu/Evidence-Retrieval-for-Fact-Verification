@@ -1,0 +1,6 @@
+
+A '''Digital Signal Controller''' (DSC) can be thought of as a hybrid of microcontrollers and digital signal processor|DSP processors.  
+
+
+Category:Technology
+Category:Computer science

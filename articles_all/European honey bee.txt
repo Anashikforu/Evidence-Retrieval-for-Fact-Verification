@@ -1,0 +1,30 @@
+{{Taxobox
+| name = Western honey bee (''Apis mellifera'')
+| image = Apis mellifera Tanzania.jpg
+| image_caption = Honey bee foraging on Oil palm|African Oil Palm flowers
+| regnum = Animalia
+| phylum = Arthropoda
+| classis = Insecta
+| ordo = Hymenoptera
+| subordo = Apocrita
+| superfamilia = Apoidea
+| familia = Apidae
+| subfamilia = Apinae
+| tribus = Apini
+| genus = ''Apis (genus)|Apis''
+| binomial = ''Apis mellifera''
+| binomial_authority = Carolus Linnaeus|Linnaeus, 1758}}
+
+The '''European honey bee''' or '''western honey bee''' (''Apis mellifera'') is the main species of honey bee. The genus ''Apis'' is Latin for "bee", and mellifera comes from Greek melli- meaning "honey" and ferre "to bear". So, the science|scientific name means "honey-bearing bee". In 1758 Carolus Linnaeus named the bees as ''Apis mellifera''. However, he later found out that bees do not bear honey, but they actually bear nectar. Because of this, he tried to change it to ''Apis mellifica'' ("honey-making bee") later.
+
+Workers do a waggle dance in the beehive to tell the others where they have found nectar; Karl von Frisch discovered this.
+
+ Other websites 
+
+
+
+
+
+
+
+Category:Bees

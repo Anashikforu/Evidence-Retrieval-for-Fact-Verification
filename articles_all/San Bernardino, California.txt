@@ -1,0 +1,61 @@
+
+|named_for                = Bernardino of Siena
+|government_type          = Mayor–council government|Strong-Mayor
+|leader_title             = Mayor
+|leader_name              = R. Carey Davis (Republican Party (United States)|R)
+|leader_title1            = City council
+|leader_name1             = Virginia MarquezBenito J. BarriosJohn ValdiviaFred ShorettBessine L. RichardJames Mulvihill
+|total_type               = City
+|unit_pref                = Imperial
+| area_footnotes          = 
+| area_total_km2          = 160.45
+| area_total_sq_mi        = 61.95
+| area_land_km2           = 159.33
+| area_land_sq_mi         = 61.52
+| area_water_km2          = 1.13
+| area_water_sq_mi        = 0.43
+| area_water_percent      = 0.74
+|elevation_footnotes      = 
+|elevation_m              = 321
+
+|elevation_ft             = 1053
+|population_total         = 209924
+|population_as_of         = 2010 United States Census|2010
+|population_footnotes     = 
+|population_density_km2 = 1357.21
+|population_density_sq_mi = 3515.17
+|population_est           = 216239
+|pop_est_as_of            = 2016
+|pop_est_footnotes        = 
+|population_metro         = 4,224,851
+|population_density_metro_sq_mi   = 
+|population_rank          = San Bernardino County, California|1st in San Bernardino CountyList of largest California cities by population|17th in CaliforniaList of United States cities by population|100th in the United States
+|postal_code_type         = ZIP codes
+|postal_code              = 92401–92408, 92410–92415, 92418, 92420, 92423, 92424, 92427
+|area_code                = Area code 909|909
+|area_code_type           = North American Numbering Plan|Area code
+|website                  = 
+|pushpin_label            = San Bernardino
+|leader_title2            = City manager
+|leader_name2             = Allen J. Parker
+|leader_title3            = Treasurer
+|leader_name3            = David C. Kennedy
+|leader_title4            = City attorney
+|leader_name4             = Gary Saenz
+
+|timezone                 = Pacific Time Zone|Pacific
+|utc_offset               = −8
+|timezone_DST             = PDT
+|utc_offset_DST           = −7
+|blank_name               = Federal Information Processing Standards|FIPS code
+|blank_info               = 
+|blank1_name              = Geographic Names Information System|GNIS feature IDs
+|blank1_info              = 
+}}
+'''San Bernardino''' is a city in San Bernardino County, California.  It is one of the main cities in Southern California's Inland Empire (California)|Inland Empire region east of Los Angeles. It has a population of 209,924.
+
+San Bernardino has a hot-summer Mediterranean climate (''Csa'' in the Koeppen climate classification).
+
+On 2 December 2015, 2015 San Bernardino shooting|14 people were killed in a mass shooting.
+
+Category:San Bernardino, California| 

@@ -1,0 +1,14 @@
+
+'''Amplitude Modulation''', usually shortened to '''AM''', is a simple way to send a radio signal. The signal can travel long distances, and appear in faraway places, because of the earth's Kennelly-Heaviside layer|ionosphere. 
+
+Amplitude is the height of a wave. A wiktionary:carrier wave|carrier wave is wiktionary:modulate|modulated (changed) by adding audio. The combined signal is wiktionary:transmit|transmitted over a frequency. AM signals can be received by a crystal-powered crystal radio|radio set, that needs no battery|batteries or electrical wiktionary:power source|power source. Many early radios were homemade, and used wiktionary:earphone|earphones.
+
+AM signals are mostly sent out on wiktionary:medium wave|medium wave and wiktionary:shortwave|shortwave frequency|frequencies. They do not carry high fidelity sound, but the sound is good enough to hear most things. Analog signals can fade in and out, or have :wikt:interference|interference from wiktionary:power line|power lines and power stations. Sunspot activity can also weaken signals.
+
+In the early years of Commerce|commercial broadcasting in the 1920s, medium wave AM (from 540 to 1600 wiktionary:kilocycle|kilocycles) was the only kind of radio widely used. Radio programs were much like today's Television programme|television programs, including news, sports, drama, music, comedy, and other entertainment.
+
+Later Frequency modulation|Frequency Modulation (FM) radio was developed. It had better wiktionary:fidelity|fidelity, but the signals could not travel as far, so AM was still important. After television became common in the 1950s, AM became a major :wikt:format|format for popular music. As FM became common in the 1970s, AM stations featured more news, and talk shows.
+
+Shortwave radio signals (from 3000 to 30,000 kilocycles) can travel around the world, and are used by country|countries to send programs to distant places. These programs feature news about the country, examples of their native culture and history, and sometimes wiktionary:foreign language|foreign language lessons.
+
+Category:Radio technology

@@ -1,0 +1,21 @@
+<!--
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at Template:Infobox Planet.
+-->
+
+'''Adrastea''' or ''''''.
+Adrastea was the first moon to be found from images taken by an interplanetary spacecraft, rather than through telescopic photography.
+
+ Physical characteristics 
+Adrastea is non-Sphere|spherical and measures 20x16x14 km³ across. What Adrastea is made of and the mass of Adrastea are not known, but assuming that its mean density is like that of Amalthea (~0.86 g/cm³) its mass can be estimated at ~2×1015 kg. Amalthea's density implies that moon is composed of water ice with a porosity of 10-15%, and Adrastea may be similar.
+
+No surface details of Adrastea are known, due to the low resolution of available images.
+
+
+ Orbit 
+Adrastea is the smallest and second closest member of the closer moons to Jupiter. It orbits Jupiter (planet)|Jupiter at ~129,000&nbsp;km (1.806 Jupiter radii) within the planet's Rings of Jupiter#Main Ring|Main Ring. The orbital eccentricity of ~0.0015 and inclination of ~ 0.03° relative to the equator of Jupiter (planet)|Jupiter are very small.
+
+ Exploration 
+Adrastea was found in ''Voyager program|Voyager 1 and 2'' images, but appeared only as a dot. The Galileo spacecraft|''Galileo'' spacecraft was able to see its shape, but the images remain poor.
+
+Category:Jupiter's moons

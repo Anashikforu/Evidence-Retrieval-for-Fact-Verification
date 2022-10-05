@@ -1,0 +1,19 @@
+__NOEDITSECTION____NOTOC__
+
+
+ Image:Stop x nuvola.svg|left|50px
+'''This IP address has been WIkipedia:Blocks and bans|blocked from changing Simple English Wikipedia.'''You were blocked by '''$1''' (''$2'') for the following reason:
+'''$3'''
+The block ''$4''.
+
+
+'''You are not blocked from reading pages, only from changing or creating them.'''
+If you have just clicked a red link, you were blocked from creating a new page as no article on that topic exists yet.
+
+
+If you think you were not blocked fairly, you can add {&#123;unblock|global block - ''reason goes here''&#125;} to the bottom of Special:Mytalk|your talk page, replacing ''reason goes here'' with why you think your block is not fair.
+
+Additionally, you may appeal the WP:GB|global block at m:Steward requests/Global|Steward requests/Global.
+
+
+

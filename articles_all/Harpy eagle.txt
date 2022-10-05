@@ -1,0 +1,25 @@
+{{Taxobox
+| name = Harpy eagle
+| image = Harpia harpyja 001 800.jpg
+| image_width = 250px
+| status = NT
+| status_system = iucn3.1
+| regnum = Animalia
+| classis = bird|Aves
+| ordo = Accipitriformes 
+| familia = Accipitridae
+| genus = '''''Harpia'''''
+| genus_authority = Louis Jean Pierre Vieillot|Vieillot, 1816
+| binomial = ''Harpia harpyja''
+| binomial_authority = (Carl Linnaeus|Linnaeus, 1758)
+| range_map = Harpy Eagle Range.svg
+| range_map_width = 200px
+| range_map_caption = The harpy eagle is rare throughout its range, which extends from Mexico to Argentina.}}
+
+The '''harpy eagle''' (''Harpia harpyja'') is one of the largest eagles and most powerful Bird of prey|birds of prey in the world. It is a magnificent meat-eater that lives in Central America|Central and South American rainforests. It is colored black and white.
+
+This large eagle makes whistling and clicking calls. It is an endangered species because of the fragmentation and destruction of its habitat through logging, and also because of hunting.
+
+The harpy eagle mostly eats large mammals, including monkeys and sloths. It eats howler monkeys, pygmy sloths, capybaras (the largest rodent in the world), foxes, capuchin monkeys, and some birds. Its talons reach to 5 inches, more than 2 times the length of a grizzly bear's claw.
+
+category:Accipitriformes

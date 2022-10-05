@@ -1,0 +1,17 @@
+{{Taxobox
+| name = Turkish hamster
+| image =
+| status = NT | status_system = IUCN3.1
+| status_ref =  Database entry includes a brief justification of why this species is of near threatened
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Rodentia
+| superfamilia = Muroidea
+| familia = Cricetidae
+| subfamilia = Cricetinae
+| genus = ''Mesocricetus''
+| binomial = ''Mesocricetus brandti''}}
+
+The '''Turkish hamster''' (''Mesocricetus brandti'') is a species of hamster closely related to the Syrian hamster. It is used as a laboratory animal in scientific research, but is not widely available on the pet market.
+
+category:Hamsters

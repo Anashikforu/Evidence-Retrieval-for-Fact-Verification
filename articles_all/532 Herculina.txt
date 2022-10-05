@@ -1,0 +1,41 @@
+
+{{Infobox Planet   | bgcolour=#FFFFC0 | name=532 Herculina
+ | discoverer=Max Wolf
+ | discovered=April 20, 1904
+ | alt_names=1904 NY
+ | mp_category=Asteroid belt|Main belt
+ | epoch=22 November 2003 (Julian day|JD 2452600.5)
+ | semimajor=2.7719820 Astronomical unit|AU
+ | perihelion=2.29 AU
+ | aphelion=3.26 AU
+ | eccentricity=0.1777919
+ | period=4.62 Julian year (astronomy)|a
+ | inclination=16.30843degree (angle)|°
+ | asc_node=107.65510°
+ | arg_peri=76.86717°
+ | mean_anomaly=142.15781°
+ | avg_speed=''unknown''
+ | dimensions=225 km
+ | mass=~2.29×1019Kilogram|Kg  | density=~4 g/cubic centimetre|cm³
+ | surface_grav=''unknown''
+ | escape_velocity=''unknown''
+ | rotation=9.404951 hour|h
+ | spectral_type=S-type asteroid|S
+ | magnitude = 8.82  to 11.99
+ | abs_magnitude=5.81
+ | albedo=0.16
+ | angular_size = 0.228"  to 0.073"
+ | single_temperature=''unknown''}}
+
+'''532 Herculina''' ''(herr'-kew-lye'-nə,'' ) is a very big asteroid, with a diameter of around 225&nbsp;km.
+
+ Discovery 
+It was found on April 20th, 1904, by Max Wolf in Heidelberg, and initially catalogued as 1904 NY.''Provisional elements of the minor planet 1904 NY''. J. C. Hammond, Astronomical Journal, vol. 24, iss. 564, p. 105-105 (1904) 
+ Physical characteristics 
+Herculina is one of the twenty or so biggest members of the main asteroid belt.
+
+It has often been noted for its complex lightcurves, which made finding its shape and rotation somewhat hard. A set of 1982 speckle inferometry observations led to a simple preliminary model of Herculina as a three-axis object, perhaps 260 by 220 by 215&nbsp;km. 1985 analysis of this data concluded there was a nonspherical shape with one bright spot, whilst a 1987 photometric astrometry study concluded the object was spherical with two dark spots (and rotated around a completely different pole), which was in turn negated by a 1988 thermal study which showed the object could not be spherical. By the late 1980s, the generally accepted model was a three-axis object with major albedo or topographical features.
+Recent (2002) modelling of Photometry (astronomy)|photometric data shows that Herculina is not spherical, but a blocky shape not unlike a battered cuboid - or, as the analysis described it, it "resembles a toaster". This analysis indicates the presence of many big craters, similar to 253 Mathilde, but no major changes in albedo. The approximate ratios of the axes were suggested as 1:1.1:1.3, broadly consistent with earlier models if a bit more stretched.
+ Moons 
+Following anomalous sightings during an occultation of the star SAO 1220774 in 1978, Herculina became the first asteroid to be "confirmed" to have an asteroid Satellite (natural)|moon, with the parent asteroid estimated at a 216&nbsp;km diameter and a moon of about 45&nbsp;km orbiting at a distance of around 1,000&nbsp;km.''Satellite of Minor Planet 532 Herculina Discovered During Occultation''. David W. Dunham, The Minor Planet Bulletin, Volume 6, p.13-14 (December 1978) 
+Category:Asteroids

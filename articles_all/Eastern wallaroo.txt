@@ -1,0 +1,23 @@
+{{Taxobox
+| name = Eastern wallaroo
+| image = Macropus robustus2.jpg
+| image_caption = Eastern wallaroo
+| status = LR/lc
+| status_system = iucn2.3
+| status_ref =
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Mammalia
+| infraclassis = Marsupialia
+| ordo = Diprotodontia
+| familia = Macropodidae
+| genus = ''Macropus''
+| binomial = ''Macropus robustus''
+| binomial_authority = John Gould, 1841}}
+
+The '''eastern wallaroo''' (''Macropus robustus'') sometimes called the, '''common wallaroo''', the '''red wallaroo''', or just '''wallaroo''' lives on the sides of the Great Dividing Range. This runs for more than 3,000 kilometre|km along the eastern and south-eastern coast of Australia. There are four subspecies of Eastern Wallaroo: 
+ the eastern wallaroo found across Australia
+ the euro, also widespread.
+ one found only on Barrow Island, Western Australia|Barrow Island, ''Macropus robustus isabellinus''.
+ one found only in the Kimberley area of Western Australia.
+

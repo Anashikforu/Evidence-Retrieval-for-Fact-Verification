@@ -1,0 +1,4 @@
+
+'''Tube sound''' (or '''Vacuum tube|valve sound''') is the sound produced by a vacuum tube-based audio amplifier.  All amplifiers distort to some degree; some audiophiles prefer the sound produced by tube amplifiers.  The reasons for the difference in sound between tube and Solid state (electronics)|solid state electronic devices is a continuing debate among audiophiles.
+
+Category:Audio technology

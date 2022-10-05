@@ -1,0 +1,23 @@
+In grammar, '''case''' declension|changes what a noun, adjective or pronoun does in a sentence. It is a set of forms which depend on the syntax (how the words go together). Case is an example of inflection, which is often an affix, a part of a word that is added to other words, that signals a grammatical relationship. Long ago, Old English used several cases, but Modern English uses only two cases for nouns.McArthur, Tom (ed) 1992. ''The Oxford companion to the English language. Oxford University Press''.p197
+
+ History of case 
+In the Romance languages (Spanish, French, Portuguese, etc.), which originally came from Latin, nouns pack several ideas into one word:
+Gender: nouns must be masculine (''Latin'': ends in -us), feminine (ends in -a) or neutral (ends in -um). Also, adjectives must agree with the nouns by changing their endings. English is one of the few European languages that does not usually have gender in nouns.
+Case: Nominative case|nominative (Subject (grammar)|''subject''), vocative (''direct speech),'' Accusative case|accusative (Object (grammar)|''object''), Genitive case|genitive (''of'' the noun), Dative case|dative (''to'' or ''for'' the noun), ablative (''by, with'', or ''from'' the noun).
+The Locative case|locative (''at'' the noun) is a rare case form for some specific nouns.
+
+In many languages like Latin, German langauge|German, Russian language|Russian, Spanish (language)|Spanish, Korean language|Korean and Japanese language|Japanese, a noun's case changes the end of a word depending on the noun's role in the sentence. Nouns change their endings to show that they are doing something, that something is done to them, that they just happen to be there during the action, or that they own something.
+
+Therefore, word order in those languages is less important than in English, which often has word order change a sentence's meaning.
+
+ Modern English 
+In English, case is not used much. Instead, word order and auxiliary verbs (helpers) are more important.
+:"The most important grammatical development in English was the establishment of a fixed pattern of word-order to express the relationship between clause elements".Crystal, David 1995. ''The Cambridge encyclopedia of the English language''. Cambridge University Press.p44
+
+English has these cases for nouns and pronouns: ''common case'' and ''genitive'' (possessive).p202 Each may take a plural:
+Nouns: ''Girl''; ''girls''; ''girl's''; ''girls'''. The last three cannot be distinguished in speech (except by the context).
+Pronouns: ''This is '''your''' hat''; ''this hat is '''yours'''''. A few pronouns have three cases and four forms: '''''I''''' (subject), '''''me''''' (object), '''''my''''' (genitive before noun), '''''mine''''' (independent genitive).
+
+English adjectives unchanged: ''red hat'', ''red hats''.
+
+Category:Grammar

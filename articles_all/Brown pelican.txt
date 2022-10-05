@@ -1,0 +1,25 @@
+{{Taxobox
+| name =Brown pelican
+| status = LC
+| status_system = iucn3.1
+| image = Brown_Pelican21K.jpg
+| image_width = 250px
+| image_caption = Brown pelican
+| regnum = Animalia
+| classis = bird|Aves
+| ordo = Pelecaniformes
+| familia = Pelecanidae
+| genus = ''Pelecanus''
+| binomial = ''Pelecanus occidentalis''
+| binomial_authority = Carolus Linnaeus|Linnaeus, 1766}}
+
+The '''brown pelican''' (''Pelecanus occidentalis'') is a large bird that lives along the coasts of the Atlantic Ocean|Atlantic, Pacific Ocean, and Gulf of Mexico in North America|North and South America.
+
+Brown pelicans are carnivores (meat-eaters) and hunt during the day (they are diurnal). They eat mostly fish and some amphibians and crustaceans.
+
+
+
+
+category:Birds of North America
+category:Birds of South America
+Category:Pelecaniformes

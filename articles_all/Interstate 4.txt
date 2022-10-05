@@ -1,0 +1,12 @@
+
+|direction_b = East
+|terminus_b =  in Daytona Beach
+|counties = Hillsborough County, Florida|Hillsborough, Polk County, Florida|Polk, Osceola County, Florida|Osceola, Orange County, Florida|Orange, Seminole County, Florida|Seminole, Volusia County, Florida|Volusia
+|previous_type = SR
+|previous_route = 3
+|next_type = SR
+|next_route = 4
+|browse = 
+'''Interstate 4''' is a  FDOT Geographic information system|GIS data Interstate Highway in state of Florida. It runs from Interstate 75 in Tampa, Florida|Tampa to Interstate 95 in Daytona Beach, Florida|Daytona Beach. It also travels through Orlando, Florida|Orlando.
+
+Category:Interstate Highways|04

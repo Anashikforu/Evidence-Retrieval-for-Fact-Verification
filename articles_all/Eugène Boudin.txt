@@ -1,0 +1,33 @@
+Image:Boudin.jpeg|thumb|Eugène Boudin, c.1890s
+
+'''Eugène Boudin''' (12 July 1824 – 8 August 1898) was a French people|French painter of landscapes and seascapes. He was one of the first landscape painters to paint outdoors, rather than in a studio. He was a great influence on the French Impressionism|Impressionists.
+
+Boudin was born in Honfleur, France, and was the son of a sailor. In 1835 his father opened a small shop in Le Havre where Boudin worked with him, selling stationery and making picture frames. Boudin met many artists who put their paintings for sale in the shop. In his early twenties, Boudin went to Paris to study painting. He returned often to paint the seashores around his home. 
+
+In 1856 Boudin met Claude Monet who spent several months working with Boudin in his studio. The two remained lifelong friends. Monet later said that Boudin had been a major influence on him, teaching him to paint outdoors. Camille Corot who was one of the greatest influences on Monet and the other Impressionism|Impressionists, gazed at Boudin's work and said "You are the master of the sky." 
+
+The Eugene Boudin Prize is an award given by the Société Nationale des Beaux-Arts of France.
+
+{{multiple image
+ | align     = center
+ | direction = horizontal 
+ | header_align = center
+ | header    = Paintings by Boudin 
+ | image1    = Boudin Trouville1864.jpg
+ | width1    = 248
+ | alt1      = 
+ | caption1  =  ''Trouville''. (1864) 
+ | image2    = Eugène Boudin Cotenord.jpg 
+ | width2    = 272
+ | alt2      = 
+ | caption2  = ''Rivage de Pontrieux, Côtes-d'Armor|Cotes-du-Nord''. (1874) 
+ }}
+
+Related pages 
+ Claude Monet 
+ Impressionism
+
+
+Category:1824 births
+Category:1898 deaths
+Category:French painters

@@ -1,0 +1,16 @@
+The '''End-Triassic extinction event''' marks the boundary between the Triassic and Jurassic periods, 208 million years ago.Some sources  give a date 201.4 mya.  However, many of the Extinction|extinctions occurred before then in the Upper Triassic.
+ 
+Overall, this was one of the major extinction events of the Phanerozoic eon. It profoundly affected life on land and in the Ocean|oceans. At least half of the species now known to have been living on Earth at that time went extinct. 
+
+A whole Class (biology)|class (conodonts: extinct chordates);
+The event emptied many ecological niches, and allowed the dinosaurs to assume the dominant roles in the Jurassic period. This event happened in less than 10,000 years, and occurred just before Pangaea started to break apart. 
+
+Scientist|Scientists have suggested several explanations for this event, but all have unanswered challenges:L.H. Tanner, S.G. Lucas & M.G. Chapman 2004. Assessing the record and causes of late Triassic extinctions. ''Earth-Science Reviews'' '''65''', 1-2, 103-139.  Asteroid impact: no known impact crater has been dated to coincide with the Triassic–Jurassic boundary.
+ Gradual climate change or sea-level fluctuations during the Upper Triassic. Sea level was low at the end of the Triassic, and the climate on Pangaea was arid. However, this does not explain the suddenness of the extinctions. 
+ Massive Volcanic eruption|volcanic eruptions would release carbon dioxide, which would cause intense global warming, or sulfur dioxide and aerosols, which would cause severe cooling. The flood basalts of the Central Atlantic Magmatic Province (CAMP) occurred at the Triassic-Jurassic boundary.
+
+ Recent evidence 
+A recent paper in PNAS shows fairly clearly that mass volcanism was involved. It was probably the primary cause of the extinction. Mercury is present in volcanic rocks found at the end-Triassic boundary.Percival L.M.E. et al 2017. Mercury evidence for pulsed volcanism during the Triassic mass extinction. ''Proceedings of the National Academy of Sciences'', online publication 
+Mercury is emitted in gaseous form during volcanism, and deposited in sediments. The paper says "Such episodic volcanism likely perturbed the global environment over a long time and strongly delayed ecological recovery".
+
+Category:Mesozoic

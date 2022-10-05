@@ -1,0 +1,37 @@
+
+
+
+The '''Real Time Streaming Protocol''' ('''RTSP'''), developed by the Internet Engineering Task Force|IETF and created in 1998 as RFC 2326, is a communications protocol|protocol for use in streaming media systems, which allows a client to remotely control a streaming media server, issuing VCR-like commands such as "play" and "pause", and allowing time-based access to files on a server.
+
+The sending of streaming data itself is '''not''' part of the RTSP protocol. Most RTSP servers use the standards-based Real-time Transport Protocol|RTP as the transport protocol for the actual audio/video data. The RTSP server from RealNetworks also features RealNetworks' proprietary RDT stream transport|RDT as the transport protocol.
+
+Clients
+ GStreamer
+ Media Player Classic
+  MPlayer
+ QuickTime
+  RealPlayer
+ Skype
+ VLC media player
+ Winamp
+ Windows Media Player
+ Xine
+ MythTV via Freebox
+ 
+Server software
+ QuickTime Streaming Server: Apple's closed-source streaming server that ships with Mac OS X Server
+ Darwin Streaming Server: Open-sourced version of Quicktime Streaming Server maintained by Apple
+ Pvserver|pvServer: Formerly called PacketVideo Streaming Server, this is Alcatel-Lucent's streaming server product.
+ Helix (project)|Helix DNA Server: RealNetworks' streaming server. Comes in both open-source and proprietary flavors.
+ Live555: Open source C++ server and client libraries used in well known clients like VLC and mplayer.
+ VideoLAN: Open source media player and streaming server
+ Windows Media Services: Microsoft's streaming server included with Windows Server.
+ VX30: Streaming video server and embedded JAVA client from Maui X-Stream.
+
+Related pages
+ Real-time Transport Protocol (RTP)
+ Fusion RTSP solution for embedded systems, e.g. IPTV, internet TV and mobile internet devices.
+
+Other websites
+  
+Category:Application layer protocols

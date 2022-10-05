@@ -1,0 +1,6 @@
+An '''ion channel''' is a pore-forming protein that helps to establish and control the small voltage gradient across the plasma membrane of all living cell (biology)|cells (see resting potential) by allowing the flow of ions down their electrochemical gradient. They are present in the cell membrane|membranes that surround all cell (biology)|biological cells.
+
+An ion channel is an integral membrane protein or more typically an assembly of several proteins.
+
+The 2003 Nobel Prize in Chemistry was awarded to Peter Agre and Roderick MacKinnon for their discovery of ion channels.
+Category:Biochemistry

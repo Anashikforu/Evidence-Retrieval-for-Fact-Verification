@@ -1,0 +1,40 @@
+{{Infobox company
+    | name            = CBS Corporation
+    | logo            = CBS Corporation logo.svg
+    | logo_caption    = 
+    | image           = 
+    | image_caption   = 
+    | former type     = 
+    | type            = Public company|Public
+    | traded_as       = Class A S&P 500|S&P 500 Component (CBS)
+    | industry        = Mass media
+    | genre           = 
+    | predecessor     = 
+    | successor       = ViacomCBS
+    | foundation      = May 3, 1971 (as Viacom (original)|Viacom International (Viacom Productions))  (as CBS Corporation)
+    | defunct         = December 4, 2019
+    | location_city   = CBS Building, Manhattan, New York City
+    | location_country= United States
+    | locations       = 
+    | area_served     = United States
+    | products        = Television, radio, publishing, broadcasting, movies and online services
+    | key_people      = Sumner Redstone
+    | production      = 
+    | services        = 
+    | revenue =  US$ 15.284&nbsp;billion (2013)  | owner           = 
+    | num_employees   = 20,915 (2011)
+    | parent          = National Amusements| National Amusements, Inc. (79%)
+    | divisions       = 
+    | subsid          =  
+    | homepage        = 
+    | footnotes       = 
+    | intl            = 
+    | bodystyle       = 
+    }}
+'''CBS Corporation''' was an American mass media corporation focused on broadcasting, publishing, and television production. Until 2005, the company was known as Viacom (1971-2005)|Viacom. A new company, keeping the Viacom name, was spin-off|spun off from CBS.
+
+In 2019, CBS Corporation and Viacom were merger|merged together. This created ViacomCBS, a combination of the two companies. The merger was finished on December 4, 2019.
+
+Notes
+
+

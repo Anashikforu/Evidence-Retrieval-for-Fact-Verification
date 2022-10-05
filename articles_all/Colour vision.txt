@@ -1,0 +1,25 @@
+'''Colour vision''' is the capacity of an organism to distinguish objects based on the wavelengths (or frequency|frequencies) of the light they Reflection|reflect, emit, or Transmission|transmit. Colour is a quality made by the visual brain and ''not a property of objects''.
+
+A 'red' apple does not emit red light. Rather, it simply absorbs all the frequency#Frequency of waves|frequencies of visible light shining on it except for a group of frequencies that are reflected.
+
+It is these frequencies which are ''Perception|perceived'' as red.
+
+Mechanism
+ such as red, orange, yellow, green, cyan, blue, and violet are in this range. These spectral colors do not refer to a single wavelength, but rather to a set of wavelengths: red, 625–740&nbsp;nm; orange, 590–625&nbsp;nm; yellow, 565–590&nbsp;nm; green, 500–565&nbsp;nm; cyan, 485–500&nbsp;nm; blue, 450–485&nbsp;nm; violet, 380–450&nbsp;nm.
+
+The nervous system derives colour by comparing the responses to light from the several types of Cone cell|cone photoreceptors in the eye. These cone photoreceptors are sensitive to different portions of the vision|visible spectrum.
+
+For humans, the visible spectrum ranges approximately from 380 to 740&nbsp;nm, and there are normally three types of cones. The visible range and number of cone types differ between species.
+
+With colour, vision gets better (more information) about the things the eye sees.Kreft S and Kreft M 2007. Physicochemical and physiological basis of dichromatic color. ''Naturwissenschaften'' '''94''', 935-939. 
+Types of colour vision
+Colour vision is not an all-or-none state. Many groups of animals can distinguish colour, but in different ways. In mammals, for instance, some groups have no colour vision, and some are dichromats. The dichromats have two kinds of cones, and cannot see ultraviolet, red and orange light. 
+
+It is thought that the mammals which survived though the Jurassic period were small nocturnal or burrowing animals with little need to see colour.The decay of unused features is discussed in vestigial organ. Everything has a cost: either it uses up energy or its structure occupies space that might be used differently. Later, after the extinction of the dinosaurs, many lines adapted to be more active in the daytime. Most developed a form of colour vision, which is much more useful in the daytime.Jacobs G.H. 1993. The distribution and nature of colour vision among the mammals. ''Biol Rev Cambs Philos Soc''. 68 (3) 413471. 
+Many insects have colour vision in the ultraviolet range, which humans do not. That is why pollination#Honey guides|honey guides on flowers are so noticeable in ultraviolet light photographs.
+
+Related pages
+ Evolution of colour vision
+ Opsin
+
+fr:Vision#Vision des couleurs

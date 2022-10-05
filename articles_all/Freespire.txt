@@ -1,0 +1,11 @@
+
+
+'''Freespire''' is a Linux distribution made with parts from Ubuntu. It was made to make using free software easy, while giving the choice to use non-free (not open source) parts. These parts might be computer program|programs, Driver (computer)|drivers, or codecs. Linspire, a Product (consumer goods)|commercial Linux distribution, is made from Freespire.
+
+Related pages
+List of Linux distributions
+
+
+
+
+Category:Linux distributions

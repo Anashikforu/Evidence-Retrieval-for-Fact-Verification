@@ -1,0 +1,30 @@
+{{Infobox Language
+|name=Lao
+|nativename=)
+|familycolor=Kradai
+|states=Laos, Thailand
+|speakers=5,225,552 (2006), roughly 20 million if Isan speakers are included.
+|fam1=Kradai languages|Kradai
+|fam2=Tai languages|Tai
+|fam3=Southwestern Tai languages|Southwestern
+|fam4=East Central Tai languages|East Central
+|fam5=Lao-Phutai languages|Lao-Phutai
+|nation=Laos
+|iso1=lo|iso2=lao|iso3=lao|}}
+
+'''Lao''' or '''Laotian''' is a language and is the official language of Laos. Lao, like the other languages of Laos, is written in an abugida|abugida writing system. The languages has variations, but the Vientiane dialect is considered the standard written form of Lao.E K Brown; Sarah Ogilvie, ''Concise Encyclopedia of Languages of the World'' (Amsterdam, Netherlands; Boston, MA: Elsevier, 2009), p. 639
+
+Lao and Thai are both Tai languages and are very similar to each other. In fact, speakers of northern Thai dialects and Lao claim that they can largely understand each other, making the dialects Mutual intelligibility|mutually intelligible.
+
+ History 
+Lao is one of the Tai languages, spoken in what is now northern Vietnam and southern China. Mongols|Mongol invaders and wikt:expansion|expansion in China pushed the Tai people south towards India. Their language was influenced by other languages in the region like the Mon-Khmer language|Mon-Khmer and the Austronesian languages. The written form of Lao originally came from the Pali language in India. The Writing system|script form was brought to the region by Buddhism|Buddhists about two thousand years ago.
+
+Vocabulary
+Lao has mainly native Lao words. Because of Buddhism, however, it has been influenced by other languages that contributed mostly religious terms. Lao has influenced Khmer language|Khmer and Thai language|Thai  and Wikt:vice versa|vice versa.  The writing has many foreign loanwords, very similar to how Latin and Greek language|Greek have influenced other European languages. 
+
+For wikt:polite|politeness, pronouns (and more formal pronouns) are used, as well as ending statements with ແດ່ (dè ). The following are formal register examples.
+ ) ''Thank you very much.''
+ ) ''I cannot.''
+ ) ''Open the door, please.''
+
+Category:Languages of Asia

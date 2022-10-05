@@ -1,0 +1,20 @@
+
+A '''Sonnet''' (sonetto in Italian) is a type of poem. It is 14 lines long and is written in rhyme.
+The sonnet first appeared in Italy during the Middle Ages and was widely used during the Renaissance. The first poet known for his sonnets is Giacomo da Lentini
+Later English poets like John Donne, John Milton, William Wordsworth, Percy Bysshe Shelley, and John Keats wrote sonnets that are still admired and studied today. In United States Henry Wadsworth Longfellow and Emma Lazarus wrote sonnets. 
+
+The rigid rhyme scheme of the sonnet went out of fashion during the twentieth century, but a few modern poets still write them sometimes. Edna St. Vincent Millay was one modern poet writing in English who often worked in the sonnet form. Modern poets have often changed the traditional rhythms and rhyme patterns of the sonnet, sometimes radically.
+
+In a traditional "English literature|English" or "Shakespearean" sonnet, the first twelve lines are divided into three groups ("stanzas") of four lines each, called "quatrains". The last two lines usually rhyme, and make up a "rhymed couplet" that concludes the poem by summing up the story told in the previous quatrains. In the traditional "Italian literature|Italian" or "Petrarchan" sonnet, the poem divides into a group of eight lines ("octave") followed by a group of six lines ("sestet").
+
+The letters of the alphabet are used to show the pattern of rhyme, or "rhyme scheme," in the 14 lines in a sonnet. The rhyme scheme 
+
+''a-b-a-b, c-d-c-d, e-f-e-f, g-g''
+
+is the typical pattern of an "English" sonnet. The rhyme scheme
+
+''a-b-b-a, a-b-b-a, c-d-e-c-d-e''
+
+is typical of an "Italian" sonnet. However, the rhymes of the sestet in an Italian sonnet can vary widely: cdcdcd, cddcdd, etc. The scheme abba abba cde edc is very rarely, but its ending sequence cde edc was probably the source for Robert Browning's stanza abccba. It was used in the poem ''Meeting at night''. Another pattern is Spenserian sonnet, invented by Edmund Spenser. It runs a-b-a-b, b-c-b-c, c-d-c-d, e-e.
+Sonnets can be linked together into a crown of sonnets. In such a sequence, the last line of the first sonnet repeats as the first line of the second one, and sometimes these lines make up another sonnet. Slovenian poet France Prešeren is best remembered for his ''Wreath of Sonnets'', an example of a crown of sonnets.
+Category:Poetry forms

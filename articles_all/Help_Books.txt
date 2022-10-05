@@ -1,0 +1,64 @@
+<!-- 
+The original source of this page is at
+Updates to the "book tool" will be documented on that page. 
+Please check above page for changes on regular basis.
+Last checked: 17th Feb 2009 
+
+If you translate this page please make sure all links are working in your wiki. 
+Consider to translate the "book tool" navigation template also. 
+-->
+
+This page shows you how to create a book from Wikipedia articles in three steps.  Books can be created in PDF form or ordered for printing on the PediaPress website.
+
+Step by Step guide
+
+
+
+ Step 1 - Creating the book from a collection of articles 
+
+
+The book collection menu, "create a book", is on the left of the browser screen. 
+
+It contains two links: "Add page to book" and "Books help". 
+
+By clicking on the "Add page to book" link, the current page being viewed is added to the collection. 
+To add more pages you must navigate to the next page and click "Add page to book" again.  
+You can also add all pages in a category with one click.  
+The number of pages in the book is shown in the menu on the left and updated automatically.
+
+ Step 2 - Book title 
+
+Once all desired pages have been added, click the "Show book" button to review your book.  At this time you can add an optional title to your book, and can also change the order of wiki pages in the book (see details of how to do this in the Advanced Functions section).
+
+ Step 3 - Download or order a printed copy of your book 
+
+A finished book can be downloaded or ordered as a bound book.  You can download a book in PDF or OpenDocument format (viewable using OpenOffice.org software), by clicking the "Download" button (see Fig 3).  To order as a bound book click the "Order book from PediaPress" button.  Further information on printed books can be found in /Frequently Asked Questions|FAQ.
+
+Advanced Functions
+'''Changing the order of wiki pages'''
+
+To change the order of wiki pages in your book simply move pages in the list entitled "Your Book".  To do so, hover over a page title to move, click and drag it to a new location.  Release the mouse button to finish moving a page to its new location.  You can also automatically sort the book into alphabetical order.
+
+'''Saving and sharing your book with others'''
+
+To save your book you must have a registered account on Wikipedia (see Wikipedia:Why create an account?|Why create an account? for details on how to create an account). You can save your book on the "Book" page which can be reached by clicking the "Show book" link in the menu on the left hand side.  In the "Save and share your book" section choose one of the location options and then provide a title for the book collection.  It will then be saved by clicking the "Save book" button.
+
+'''Further information'''
+
+Further information on the books feature is at /for experts|for experts page.  This page explains how the presentation of books can be changed and how to process saved books at a later date.
+
+Printed books from PediaPress
+By clicking the "Order book from PediaPress" button, your collection of wiki articles can be printed as a bound book. You will be forwarded to the website of PediaPress, a service that prints books based on wiki content.  Further information about the printed books, including the cost and format can be found on the /Frequently Asked Questions|FAQ page.
+
+In 2007 the foundation:Main Page|Wikimedia Foundation and PediaPress agreed upon a long term partnership aimed to improve the availability of Wikipedia and other wiki based project content, in the form of high quality print products or text documents in the OpenDocument format.
+
+Related pages
+ /for experts|Help for experts - details about the advanced/expert functions of the Book tool.
+ /Frequently Asked Questions|FAQ about the Book tool.
+ Feedback - for reporting and tracking of bugs
+ foundation:Press_releases/Wikis_Go_Printable|Wikis Go Printable - Wikimedia Foundation press release, 13 December 2007
+ commons:Category:PediaPress|Examples of PediaPress books on commons:Main Page|Wikimedia Commons
+ mw:Extension:Collection|Technical documentation of the Collection extension.
+
+
+Category:Wikipedia book tool

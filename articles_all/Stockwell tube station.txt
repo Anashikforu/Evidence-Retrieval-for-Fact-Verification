@@ -1,0 +1,17 @@
+{{Infobox London station
+| name = Stockwell  
+| image_name = Stockwell station building.JPG
+| manager = London Underground 
+| fare_zone = 2 
+| locale = Stockwell 
+| borough = London Borough of Lambeth 
+| years1 =1890| years2 =1900| years3 =1971 
+| events1 = Opened (C&SLR, as terminus)| events2 = Became through station| events3 = Opened (Victoria Line) 
+| platforms=4 
+| tubeexits05 = 6.924 
+| tubeexits07 = 7.995}}
+'''Stockwell tube station''' is a London Underground station in Stockwell, in the London Borough of Lambeth.  It is situated between Clapham North tube station|Clapham North and Oval tube station|Oval on the Northern line, and between Vauxhall station|Vauxhall and Brixton tube station|Brixton on the Victoria Line. It is also the only station on the Morden tube station|Morden branch of the Northern line which has an interchange with another London Underground|Underground line. It is in Travelcard Zone 2.
+
+Stockwell station is served by bus routes: 2, 50, 88, 155, 196, 333, 345, P5, N2 and N155.
+
+Category:London Travelcard zone 2

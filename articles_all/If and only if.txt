@@ -1,0 +1,24 @@
+
+
+
+
+
+In logic and mathematics, '''if and only if''' (sometimes abbreviated as '''iff''') is a logical operator denoting a logical biconditional (often symbolized by \leftrightarrow 
+
+In general, given two statement A and B, the statement "A if and only if B" is true precisely when both A and B are true or both A and B are false.
+
+An "if and only if" statement is also called a ''necessary and sufficient condition''. For example:
+
+"Madison will eat the fruit if and only if it is an apple" is equivalent to saying that "Madison will eat the fruit if the fruit is an apple, and will eat no other fruit".
+
+This makes it clear that Madison will eat all and only those fruits that are apples. She will not leave any apple uneaten, and she will not eat any other type of fruit. That a given fruit is an apple is both a ''necessary'' and a ''sufficient'' condition for Madison to eat the fruit.
+
+Note that the truth table shown is also equivalent to the XNOR gate.
+
+ Related pages 
+
+ Equality (mathematics)
+ Implication (logic)
+ Propositional logic
+
+Category:Logical connectives

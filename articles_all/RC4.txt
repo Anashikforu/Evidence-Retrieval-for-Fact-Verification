@@ -1,0 +1,36 @@
+In cryptography, '''RC4''' (also known as '''ARC4''' or '''ARCFOUR''' meaning Alleged RC4, see below) is one of the most common software stream ciphers. It is used in popular protocols like Secure Sockets Layer (SSL) (to protect Internet traffic) and Wired Equivalent Privacy|WEP (to secure wireless networks).
+
+RC4 is known for being simple and quick, but attacks are likely to happen when the start of the output keystream is not removed, or one keystream is used twice; some ways of using RC4 can turn into very insecure cryptosystems such as Wired Equivalent Privacy|WEP.
+
+RC4 was created by Ron Rivest of RSA Security in 1987. While its official name is "Rivest Cipher 4", the RC abbreviation is also known to stand for "Ron's Code"
+RC4 was first created as a trade secret, but in September 1994 a description of it was posted to the Cypherpunks mailing list. It was soon posted on the sci.crypt newsgroup, and from there to many websites on the Internet.  The code was confirmed to be genuine(not fake) as its output matched that of proprietary software using licensed RC4.  Because the algorithm is known, it is no longer a trade secret. The name "RC4" is trademarked, however. RC4 is often referred to as "ARCFOUR" or "ARC4" (meaning '''A'''lleged '''RC4''', because RSA Security|RSA has never officially released the algorithm), to avoid possible trademark problems. It has become part of some commonly used Cryptographic protocol|encryption protocols and standards, including Wired Equivalent Privacy|WEP and Wi-Fi Protected Access|WPA for wireless cards and Transport Layer Security|TLS.
+
+The two main reasons which helped its use over such a big range of applications are its speed and simplicity. Uses of RC4 in both software and hardware are extremely easy to develop.
+
+The RC4 encryption algorithm is started with a different Key size|key length, usually between 40 and 256 bits, using the ''key schedule|key-scheduling'' algorithm (KSA). Once this has been completed, the stream of encryption|encrypted bits is created using the ''pseudo-random generation algorithm'' (PRGA).
+
+RC4 fails the standards set by Cryptanalysis|cryptographers for a secure cipher in many ways, and is not recommended for use in new applications as there are a lot of methods of attacking RC4. Dropping the first kilobyte of data from the keystream can improve the security somewhat.
+
+RC4-based cryptosystems
+ Wired Equivalent Privacy|WEP
+ Wi-Fi Protected Access|WPA
+ BitTorrent protocol encryption
+ MPPE|Microsoft Point-to-Point Encryption
+ Secure Sockets Layer (optionally)
+ Secure Shell (optionally)
+ Remote Desktop Client (RDC over RDP)
+ Kerberos (protocol)|Kerberos (optionally)
+ Simple Authentication and Security Layer|SASL Mechanism Digest-MD5 (optionally)
+ Gpcode.AK, an early June 2008 computer virus for Microsoft Windows, which takes documents hostage for ransom by obscuring them with RC4 and RSA-1024 encryption
+
+Where a cryptosystem is marked with "(optionally)", RC4 is one of several ciphers the system can be set to use.
+
+Related pages
+ Advanced Encryption Standard
+ Data Encryption Standard (DES)
+ DES-X
+ eSTREAM - An evaluation of new stream ciphers being conducted by the EU.
+ Tiny Encryption Algorithm|TEA, XTEA|Block TEA also known as XTEA|eXtended TEA and XXTEA|Corrected Block TEA - A family of block ciphers that, like RC4, are designed to be very simple to implement.
+ Triple DES (TDES)
+
+Category:Cryptography

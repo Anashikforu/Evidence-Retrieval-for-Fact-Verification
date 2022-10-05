@@ -1,0 +1,159 @@
+
+'''Loire''' () is a France|French Departments of France|department in the east-central part of France in the Auvergne-Rhône-Alpes Regions of France|region and named after the Loire River|Loire river. Its Prefectures in France|prefecture is the city of Saint-Étienne.
+
+History
+Rhône-et-Loire was one French departments made during the French revolution, on 4 March 1790. The department was divided in two departments in 1793: Rhône and Loire. The department of Loire had three districts: Montbrison, Roanne and Saint-Étienne. The Capital city|capital was Feurs but in 1795 the capital was moved to Montbrison, Loire|Montbrison.
+
+With the creation of the ''arrondissements'', the three districts became three ''arrondissements'': Montbrison, Roanne and Saint-Étienne.
+
+After the Battle of Waterloo in 1815, the department was occupied by troops from Austria from June 1815 to November 1818.
+
+The capital was moved from Montbrison to Saint-Étienne in 1855.
+
+Geography
+Loire is part of the Auvergne-Rhône-Alpes Regions of France|region, in east-central France, with an area of  wide.
+
+The department borders with 7 other departments in 2 regions:
+ Bourgogne-Franche-Comté region
+ Saône-et-Loire (north)
+ Auvergne-Rhône-Alpes region
+ Rhône (department)|Rhône (east)
+ Isère (southeast)
+ Ardèche (southeast)
+ Haute-Loire (south)
+ Puy-de-Dôme (west)
+ Allier (northwest)
+
+
+
+The department is in eastern Massif Central and there are several Mountain range|mountain chains; some of the chains and mountains are:
+ '''Monts du Forez''', to the west of the department. Here is the highest mountain of the department: ''Pierre-sur-Haute'' ( high,; and is on the border with the Puy-de-Dôme department.
+ '''Monts de la Madeleine''', to the north of the ''Monts du Forez'' and form the limit between the Loire and the Allier departments.
+ '''Monts du Lyonnais''' form the eastern limit of the Loire department.
+ '''Pilat''', a short chain that is in the Loire department but borders with other 4 departments: Rhône (department)|Rhône, Isère, Ardèche and Haute-Loire.
+
+The main rivers of Loire are:
+ Loire River|Loire, that gives its name to the department and flows through the department from southwest to northeast for a distance of .
+ Rhône, in the southeast of the department.
+
+=Climate=
+The climate of the Loire department, in the city of Andrézieux-Bouthéon (near Saint-Étienne and where is the Saint-Étienne-Loire Airport), is an oceanic climate, '''Cfb''' (Marine West Coast Climate) in the Köppen climate classification.
+
+The average temperature for the year in Andrézieux-Bouthéon, at an altitude of .
+
+The average amount of precipitation for the year in Andrézieux-Bouthéon is .
+
+Administration
+Loire is part of the region of Auvergne-Rhône-Alpes. The department is managed by the ''Departamental Council of the Loire'' in Saint-Étienne.
+
+=Administrative divisions=
+There are 3 Arrondissements of France|''arrondissements'' (districts), 21 Cantons in France|''cantons'' and 326 Communes in France|''communes'' (Municipality|municipalities) in Loire.
+
+
+
+
+
+The following is a list of the 21 Cantons of France|cantons of the Loire department (with their INSEE codes), in France, following the French canton reorganisation which came into effect in March 2015:
+
+
+# Canton of Andrézieux-Bouthéon|Andrézieux-Bouthéon (4201)
+# Canton of Boën-sur-Lignon|Boën-sur-Lignon (4202)
+# Canton of Charlieu|Charlieu (4203)
+# Canton of Le Coteau|Le Coteau (4204)
+# Canton of Feurs|Feurs (4205)
+# Canton of Firminy|Firminy (4206)
+# Canton of Montbrison|Montbrison (4207)
+# Canton of Le Pilat|Le Pilat (4208)
+# Canton of Renaison|Renaison (4209)
+# Canton of Rive-de-Gier|Rive-de-Gier (4210)
+# Canton of Roanne-1|Roanne-1 (4211)
+# Canton of Roanne-2|Roanne-2 (4212)
+# Canton of Saint-Chamond|Saint-Chamond (4213)
+# Canton of Saint-Étienne-1|Saint-Étienne-1 (4214)
+# Canton of Saint-Étienne-2|Saint-Étienne-2 (4215)
+# Canton of Saint-Étienne-3|Saint-Étienne-3 (4216)
+# Canton of Saint-Étienne-4|Saint-Étienne-4 (4217)
+# Canton of Saint-Étienne-5|Saint-Étienne-5 (4218)
+# Canton of Saint-Étienne-6|Saint-Étienne-6 (4219)
+# Canton of Saint-Just-Saint-Rambert|Saint-Just-Saint-Rambert (4220)
+# Canton of Sorbiers|Sorbiers (4221)
+
+
+Demographics
+The inhabitants of Loire are known, in French language|French, as ''Ligériens'' (women: ''Ligériennes''). ''Ligérien'' comes from ''Liger'', the Latin name of the Loire river.
+
+Loire has a population, in 2014, of 757,305, for a population density of  inhabitants/km2. The ''arrondissement'' of Saint-Étienne, with 411,402 inhabitants, is by far the largest. The other two, Montbrison and Roanne, have respectively 188,635 and 157,268 inhabitants.
+
+The city with more people living in it is the Capital city|capital, Saint-Étienne (170,761 inhabitants). The subprefectures of Roanne and Montbrison, Loire|Montbrison have, respectively, 35,200 and 15,689 inhabitants.
+
+
+'''Evolution of the population in Loire'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:850000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2008 text:2008
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 722443
+ bar:1975 from:0 till: 742396
+ bar:1982 from:0 till: 739521
+ bar:1990 from:0 till: 746288
+ bar:1999 from:0 till: 728524
+ bar:2008 from:0 till: 742076
+ bar:2014 from:0 till: 757305
+
+PlotData=
+ bar:1968 at: 722443 fontsize:S text: 722,443 shift:(-12,5)
+ bar:1975 at: 742396 fontsize:S text: 742,396 shift:(-18,5)
+ bar:1982 at: 739521 fontsize:S text: 739,521 shift:(-18,5)
+ bar:1990 at: 746288 fontsize:S text: 746,288 shift:(-18,5)
+ bar:1999 at: 728524 fontsize:S text: 728,524 shift:(-18,5)
+ bar:2008 at: 742076 fontsize:S text: 742,076 shift:(-18,5)
+ bar:2014 at: 757305 fontsize:S text: 757,305 shift:(-18,5)
+
+
+
+The most important cities in the department are:
+
+
+
+
+Gallery
+
+
+File:Tour de la Droguerie1.jpg|Saint-Étienne.
+File:Chateau La Roche St Priest.jpg|''Château de La Roche'', Saint-Priest-la-Roche.
+File:Chateau de Grangent.jpg|''Château de Grangent'', Saint-Just-Saint-Rambert.
+File:Champdieu prieure.jpg|Church of Champdieu.
+File:Ste Croix en Jarez-1a Façade Sud.jpg|Sainte-Croix-en-Jarez.
+
+
+
+Related pages
+ Arrondissements of the Loire department
+ Communes of the Loire department
+
+Category:Departments in Auvergne-Rhône-Alpes

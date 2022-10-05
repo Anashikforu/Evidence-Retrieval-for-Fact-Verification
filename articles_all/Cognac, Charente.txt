@@ -1,0 +1,112 @@
+
+'''Cognac''' is a Communes of France|commune in southwestern France in the Charente Departments of France|department, Nouvelle-Aquitaine Regions of France|region, of which it is a Prefectures in France|subprefecture.
+
+Geography
+The city of Cognac is along the Charente (river)|Charente river, mainly on its left side, between the City|cities of Angoulême, Prefectures in France|prefecture of the Charente department, and Saintes, Charente-Maritime|Saintes, a Prefectures in France|subprefecture in the Charente-Maritime department.
+
+It has an area of .
+
+Cognac is at about  to the east of the Atlantic Ocean|Atlantic coast.
+
+
+
+
+
+
+
+
+
+The city of Angoulême is surrounded by the ''communes'':
+
+
+
+Population
+The inhabitants of this city are known, in French language|French, as ''Cognaçais'' (women: ''Cognaçaises'').
+
+With a population of 18,717, inhabitants/km2.
+
+
+'''Evolution of the population in Cognac'''
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:25000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:5000 start:0
+ScaleMinor = gridcolor:lightgrey increment:2500 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2006 text:2006
+ bar:2011 text:2011
+ bar:2014 text:2014
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1968 from:0 till: 22062
+ bar:1975 from:0 till: 22237
+ bar:1982 from:0 till: 20660
+ bar:1990 from:0 till: 19528
+ bar:1999 from:0 till: 19534
+ bar:2006 from:0 till: 19409
+ bar:2011 from:0 till: 18611
+ bar:2014 from:0 till: 18717
+
+PlotData=
+ bar:1968 at: 22062 fontsize:S text: 22,062 shift:(-12,5)
+ bar:1975 at: 22237 fontsize:S text: 22,237 shift:(-15,5)
+ bar:1982 at: 20660 fontsize:S text: 20,660 shift:(-15,5)
+ bar:1990 at: 19528 fontsize:S text: 19,528 shift:(-15,5)
+ bar:1999 at: 19534 fontsize:S text: 19,534 shift:(-15,5)
+ bar:2006 at: 19409 fontsize:S text: 19,409 shift:(-15,5)
+ bar:2011 at: 18611 fontsize:S text: 18,611 shift:(-15,5)
+ bar:2014 at: 18717 fontsize:S text: 18,717 shift:(-15,5)
+
+
+
+ Administration 
+Cognac is a Prefectures in France|subprefecture of the Charente department, the capital of the ''arrondissement'' of Arrondissement of Cognac|Cognac and the administrative centre () of two cantons:
+ Canton of Cognac-1|Cognac-1, with 16,721 inhabitants (2014).
+ Canton of Cognac-2|Cognac-2, with 17,693 inhabitants (2014).
+
+It is part of the Communes of France|intercommunality ''Grand Cognac'' ().
+
+= Twinned and partner towns =
+Cognac is Twin town|twinned with:
+
+ Königswinter, Germany
+ Perth, Scotland|Perth, Scotland, UK
+ Denison, Texas|Denison, Texas, USA
+ Valdepeñas, Spain
+ Tovuz, Azerbaijan|Tovuz, Azerbaijan
+
+ Gallery 
+
+
+File:Quais de Charente à Cognac - panoramio.jpg|The Charente (river)|Charente river in Cognac.
+File:La place François Ier à Cognac - panoramio.jpg|''François Ier'' Town square|square.
+File:Cognac sous-préfecture.JPG|Subprefecture of Cognac.
+File:CognacMairie.JPG|Cognac city hall.
+File:Cognac église St Jacques.JPG|''Saint-Jacques'' church.
+
+
+
+Related pages
+ Arrondissement of Cognac
+ Communes of the Charente department
+
+Category:Communes in Charente

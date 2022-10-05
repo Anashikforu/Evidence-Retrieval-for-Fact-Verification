@@ -1,0 +1,21 @@
+{{Taxobox
+| name = Siberian roe deer
+| status = LC
+| status_system = IUCN3.1
+| image = Paozikun530.jpg
+| image_width = Siberian roe deer
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Artiodactyla
+| familia = Cervidae
+| subfamilia = Odocoileinae
+| genus = ''Capreolus''
+| binomial = ''Capreolus pygargus''}}
+
+The '''Siberian roe deer''' or '''eastern roe deer''' (''Capreolus pygargus'') is a species of roe deer found in northeastern Asia. In addition to Siberia and Mongolia, it is found in Kazakhstan, the Tian Shan Mountains, Eastern Tibet, the Korean peninsula, and northeastern China. 
+
+
+
+
+category:Deer
+category:Mammals of Asia

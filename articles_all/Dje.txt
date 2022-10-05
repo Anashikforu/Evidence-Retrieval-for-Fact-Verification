@@ -1,0 +1,9 @@
+{{Cyrillic alphabet|
+Heading=Cyrillic letter Djeh|
+Image=|
+uuc=0402|ulc=0452}}
+'''Djeh''', or '''Djerv''' (Ђ, ђ) is the sixth letter of the Serbian Cyrillic alphabet, used in the Serbian language to represent the sound for need to tell , a voiced alveolo-palatal affricate|palatalisation, similar to the English sound of letter "j" . It was created on model Cyrillic letter '''Tshe|ћ''' by Vuk Karadžić.
+
+
+
+Category:Serbian language

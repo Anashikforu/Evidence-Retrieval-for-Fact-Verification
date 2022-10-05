@@ -1,0 +1,9 @@
+
+
+'''Logical equality''' is a logical operation. It corresponds to Equality (mathematics)|equality (=) in Boolean algebra and If and only if|biconditional (written \leftrightarrow) in logic. It takes two inputs. It returns true if both inputs are true or if both inputs are false. Otherwise (when they are different), it returns false.
+
+ Related pages 
+
+ Implication (logic)
+
+Category:Logic

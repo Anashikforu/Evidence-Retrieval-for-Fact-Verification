@@ -1,0 +1,26 @@
+'''Plasma''' is a 4th state of matter. 
+Image:Plasma-lamp 2.jpg|thumb|right|A plasma lamp, showing some of the more complex things a plasma can do. The colors come from the gas in the lamp. Each type of gas makes a different color
+
+
+Plasma is created by adding energy to a gas so that some of its electrons leave its atoms. This is called ionization. It results in negatively charged electrons, and positively charged ions. Unlike the other states of matter, the charged particles in a plasma will react strongly to electric and magnetic fields (i.e. electromagnetic fields). If a plasma loses heat, the ions will re-form into a gas, emitting the energy which had caused them to ionize.
+
+Over 99% of the matter in the Observable universe|visible universe is believed to be plasma. When the atoms in a gas are broken up, the pieces are called electrons and ions. Because they have an electric charge, they are pulled together or pushed apart by Electricity|electric fields and magnetic fields. This makes a plasma act differently than a gas. For example, magnetic fields can be used to hold a plasma, but not to hold a gas. Plasma is a better Electrical conductor|conductor of electricity than copper.
+
+Plasma is usually very hot, because it takes very high temperatures to break the bonds between electrons and the nuclei of the atoms. Sometimes plasmas can have very high pressure, like in stars. Stars (including the Sun) are mostly made of plasma. Plasmas can also have very low pressure, like in outer space.
+
+On Earth, lightning makes plasma. Artificial (man-made) uses of plasma include fluorescent lightbulbs, neon signs, and plasma displays used for television or computer screens, as well as plasma lamps and globes which are a popular children's toy and room decoration. Scientists are experimenting with plasma to make a new kind of nuclear power, called nuclear fusion|fusion, which would be much better and safer than Nuclear fission|ordinary nuclear power, and would produce much less radioactivity|radioactive waste.
+
+ Related pages 
+Gas
+Liquid
+Solid
+Bose–Einstein condensate|Bose-Einstein condensate
+Matter
+Plasma window
+
+ Other helpful websites 
+   Introduction to Plasma Physics:    
+
+
+Category:States of matter
+Category:Astrophysics

@@ -1,0 +1,18 @@
+{{Taxobox
+| name = Australian giant cuttlefish 
+| image = GiantCuttlefish6.jpg
+| image_width = 250px
+| regnum = Animalia
+| phylum = Mollusca
+| classis = Cephalopoda
+| ordo = Sepiida
+| familia = Sepiidae
+| genus = ''Sepia (genus)|Sepia''
+| binomial = ''Sepia apama''
+| binomial_authority = John Edward Gray|Gray, 1849}}
+
+The '''Australian giant cuttlefish''' (''Sepia apama'') is the biggest species of cuttlefish.
+
+It grows up to  pounds in weight. Australian Giant Cuttlefish live in the southern coast of Australia, from Brisbane in Queensland to Shark Bay in Western Australia. It lives in rocky reefs, seagrass beds, and sand or mud seafloor to a depth of 100 meters. Indo-Pacific bottlenose dolphins have been seen to eat them.
+
+Category:Cephalopods

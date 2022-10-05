@@ -1,0 +1,17 @@
+{{Taxobox
+| name = Crinkle-collared manucode
+| status =  | status_system = IUCN3.1
+| image = Manucodia chalybata by Bowdler Sharpe.jpg
+| image_width = 225px
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Passeriformes
+| familia = Paradisaeidae
+| genus = ''Manucodia''
+| binomial = ''Manucodia chalybatus''}}
+
+The '''crinkle-collared manucode''' (''Manucodia chalybatus'') is a medium-sized Birds of Paradise|bird of paradise, that grows up to 36cm long. It looks glossy greenish blue, black and purple with long tail, red Iris (anatomy)|iris and iridescence|iridescent green breast feathers. 
+
+This species looks a little like the Jobi manucode in appearance. It is found in lowlands and hill forests in mainland New Guinea and Misool Island of West Papua (province)|West Papua. They eat mainly of fruits and figs.
+
+Category:Birds of Oceania

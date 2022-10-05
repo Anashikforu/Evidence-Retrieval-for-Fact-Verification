@@ -1,0 +1,22 @@
+{{Taxobox
+| name = Martial eagle
+| status = NT
+| status_system = IUCN3.1
+| image =Polemaetus bellicosus Martial Eagle.JPG
+| image_width = 250px
+| regnum = Animalia
+| classis = Bird|Aves
+| ordo = Accipitriformes
+| familia = Accipitridae
+| genus = '''''Polemaetus'''''
+| binomial = ''Polemaetus bellicosus''
+| range_map = Polemaetus bellicosus distribution map.png
+| range_map_width = 300px
+| range_map_caption = Where the Martial Eagle lives}}
+
+The '''martial eagle''' (''Polemaetus bellicosus'') is a bird of prey. It lives in Africa and is the biggest eagle in Africa, 76 to 96&nbsp;cm (30–38&nbsp;in) long, and its wingspan is 188–260&nbsp;cm (6.2–8.5&nbsp;ft) long. Because of its size, it hunts large prey, including birds as large as flamingos and mammals as large as young impala.
+
+
+
+
+Category:Accipitriformes

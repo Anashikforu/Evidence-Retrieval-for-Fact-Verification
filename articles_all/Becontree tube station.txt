@@ -1,0 +1,15 @@
+{{Infobox London station
+| name = Becontree 
+| image_name = Becontree tube station westbound platform 2005-12-10.jpg
+| manager = London Underground 
+| fare_zone = 5 
+| locale = Becontree 
+| borough = London Borough of Barking and Dagenham|London Borough ofBarking and Dagenham 
+| years1 =19261932 
+| events1 =opened as ''Gale Street''enlarged and renamed 
+| platforms=2 
+| tubeexits04= 2.082 
+| tubeexits07=2.315 }}
+'''Becontree Station''' is a London Underground station on the District Line, in Becontree. The station is in Travelcard Zone 5|Zone 5.
+
+Category:Transport in the London Borough of Barking and Dagenham

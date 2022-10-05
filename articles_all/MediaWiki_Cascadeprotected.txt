@@ -1,0 +1,33 @@
+
+|Talk=talk page
+|Category talk=talk page
+|Help talk=talk page
+|Portal talk=talk page
+|Template talk=talk page
+|Wikipedia talk=talk page
+|MediaWiki talk=talk page
+|User=user page
+|User talk=user's talk page
+|page}} is currently Wikipedia:Protection policy|protected from changing''' because it is transcluded in the following  protected with the "Wikipedia:Protection policy#Cascading protection|cascading" option:
+$2||Main Page|
+Image:Info non-talk.png|Info
+Due to internal issues, the main page is temporarily unavailable. Other pages are unaffected, and the main page will return shortly. <!-- In the meantime, you may view one of the backups linked below.
+$2 --> |'''This 
+|Talk=talk page
+|Category talk=talk page
+|Help talk=talk page
+|Portal talk=talk page
+|Template talk=talk page
+|Wikipedia talk=talk page
+|MediaWiki talk=talk page
+|User=user page
+|User talk=user's talk page
+|page}} has been Wikipedia:Protection policy|protected to prevent creation.'''
+For possible reasons, see the Wikipedia:Deletion policy#Quick deletion|quick deletion policy, or Wikipedia:Requests for deletion|requests for deletion.
+Specific information may be found by viewing the ''' activity logs for this page''' or by asking the Wikipedia:Administrator|administrator who deleted the page.
+If you got to  this page by following a link from another page, you can help Wikipedia by removing Special:Whatlinkshere/|inbound links.
+The protection has been turned on by the following page(s), where more information may be found:
+
+$2
+}}
+}}

@@ -1,0 +1,25 @@
+{{Taxobox
+| name = Mammoth
+| fossil_range = Pliocene to Holocene: 5 mya  4,500 years ago
+| image = ColumbianMammoth_CollegeOfEasternUtah.jpg
+| image_width = 250px
+| image_caption = Mount of a Columbian mammoth
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Proboscidea
+| familia = Elephantidae
+| genus = '''''Mammuthus'''''
+| genus_authority = Joshua Brookes|Brookes, 1828}}
+
+'''Mammoths''' were hairy elephants of the genus ''Mammuthus''. They lived in Europe until 4,500 years ago, and were adaptation|adapted to cold climate. They were killed off by hunters and climate change.
+
+They lived in the Pliocene and Pleistocene epochs. In the Pleistocene, northern Europe was covered with ice and tundra. There were a series of ice ages, which allowed the mammoths to spread across the land.
+
+Mammoths were hunted by early humans, who used spears, and cut them up with hand axes. Their frozen flesh has been analysed for its DNA sequence.
+
+Related pages
+ Mastodon
+ Elephant
+
+Category:Megafauna

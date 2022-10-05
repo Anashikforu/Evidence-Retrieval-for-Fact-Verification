@@ -1,0 +1,11 @@
+
+'''Arrast-Larrebieu''' is a Commune in France|commune of the Pyrénées-Atlantiques ''departments of France|département'' in the southwestern part of France. It is in the Provinces of France|former province of Soule. It is mostly agricultural.
+
+ Population 
+
+{{DemogFR | 1793=216 | 1800=212 | 1806=154 | 1821=191 | 1831=176 | 1836=200 | 1841=323 | 1846=308 | 1851=292 | 1856=261 | 1861=247 | 1866=283 | 1872=235 | 1876=265 | 1881=275 | 1886=259 | 1891=252 | 1896=246 | 1901=263 | 1906=251 | 1911=258 | 1921=242 | 1926=225 | 1931=215 | 1936=201 | 1946=203 | 1954=198 | 1962=173 | 1968=144 | 1975=128 | 1982=131 | 1990=123 | 1999=105 | date1 = 2006 |pop1 = 93 |date2=2009 |pop2=102
+ | sansdoublescomptes=1962 }}
+
+
+
+Category:Communes in Pyrénées-Atlantiques|Arrast-Larrebieu

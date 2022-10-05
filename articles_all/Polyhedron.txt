@@ -1,0 +1,18 @@
+
+
+A '''polyhedron''' (one polyhedron, many ''polyhedra'', or ''polyhedrons'') is a geometry|geometrical shape. It is a 3D shape with flat faces, and straight edges. Each face is a polygon surrounded by edges. Usually it is defined by the number of faces, or edges. 
+
+Two types of polyhedron are Convex set|convex and concave. The line connecting any two points of a convex polyhedron is inside the polyhedron. The line connecting two points of a concave polyhedron may go outside the polyhedron. 
+
+Mathematicians do not agree on what makes a polyhedron. They do agree that there are five Platonic solids, which are regular polyhedra. On a regular polyhedron, all faces are the same and all vertices are the same.
+
+ Naming 
+Usually, polyhedra are named by the number of faces they have. The first polyhedra are the tetrahedron, which is made of four triangles, pentahedron (five faces, can look like a four-sided pyramid), hexahedron (six faces, a cube if it is regular), heptahedron (seven faces) and octahedron (eight faces). Prism (geometry)|Prisms, Pyramid (geometry)|pyramids and other shapes can also be named according to how many faces they have.
+
+ Other websites 
+
+                 
+
+
+
+Category:Polyhedra| 

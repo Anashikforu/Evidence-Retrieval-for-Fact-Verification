@@ -1,0 +1,40 @@
+{{Infobox OS version
+ |name = OS X v10.7 "Lion"
+ |family = OS X
+ |logo = OS X Lion.png
+|logo_size = 100px
+ |screenshot = 
+ |caption = 
+ |developer = Apple Inc.
+ |website =  |source_model = Closed source (with open source components)
+ |license = Apple Public Source License|APSL and Apple Software license agreement|EULA
+ |kernel_type = Hybrid kernel|Hybrid
+ |updatemodel = Apple Software Update
+ |supported_platforms = x86-64
+ |first_release_date = 
+ |first_release_url =  |preview_version =
+ |preview_date =
+ |preview_url =
+ |release_version = 10.7.5 Build 11G63
+ |release_date = 
+ |release_url =  |preceded_by = Mac OS X Snow Leopard|Mac OS X v10.6 "Snow Leopard"
+ |succeeded_by = OS X Mountain Lion|OS X v10.8 "Mountain Lion"
+ |support_status = Unsupported as of September 2014
+ |other_articles =
+ |date = November 2010}}
+'''Mac OS X Lion''' is an operating system. It is the eighth major release of Apple Inc.|Apple's Mac OS X software line. It is made for Apple Macintosh|Macintosh desktops, laptops, and servers. It was released on 20th July 2011 via the Mac App Store.
+
+Lion was unveiled to the public at Apple's "Stevenote|Back to the Mac" event on October 20, 2010. It brings developments from iOS (Apple)|iOS (Apple's mobile operating system for the iPhone, iPod Touch, and iPad), such as the App Store (iOS)|App Store, to the Mac. 
+New or changed features
+Some new features were announced at the "Back to the Mac" keynote, however more features are expected to be revealed closer to the release date.
+
+ '''Mac App Store''' — An application store similar to the iOS App Store (iOS)|App Store. It will be made available to Macs running Mac OS X Snow Leopard|Mac OS 10.6 "Snow Leopard" on January 6, 2011. Like in iOS, it will provide many ways for shoppers to discover apps, one-click installation, and one-click updates of all or selected installed applications.
+ '''Launchpad (Mac OS X)|Launchpad''' — An application launcher that presents an SpringBoard|iOS-like icon grid of installed applications. Multiple pages and grouping apps in folders will be supported.
+ '''Full-screen apps''' — Native, system-wide support for full-screen applications.
+ '''Mission Control''' — Overview of running applications, putting together other Mac OS features including Exposé (Mac OS X)|Exposé, Spaces (software)|Spaces, Dashboard (software)|Dashboard, and full-screen apps.
+ '''Multi-touch|Multi-touch gestures''' — Similar to iOS, gestures performed using a multi-touch input device (e.g. Magic Mouse, Magic Trackpad) will allow the user to scroll, swipe to different pages, and enter Mission Control.
+ '''Auto save''' — Documents automatically save, so users will not have to save their work.
+ '''Apps resume when launched''' — Applications resume in the same state when reopened.
+ '''Autohiding Scrollbars''' — Scrollbars appear in the content area of the window and autohide when not scrolling (similar to iOS (Apple)|iOS). '''Removal of "Aqua" UI''' — The "Aqua" look used in OS X since 2000 (first used in "iMovie 2") was replaced with a flatter, grey look.
+
+Category:MacOS

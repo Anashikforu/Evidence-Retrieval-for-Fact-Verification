@@ -1,0 +1,146 @@
+<!-- 
+The original source of this page is at
+Updates to the "book tool" will be documented on that page. 
+Please check above page for changes on regular basis.
+Last checked: 17th Feb 2009 
+
+If you translate this page please make sure all links are working in your wiki. 
+Consider to translate the "book tool" navigation template also. 
+-->&nbsp;
+
+ Questions regarding printed books 
+
+= How do I order a book? =
+
+
+
+
+
+
+
+&nbsp;1) Click on Special:Book|„Order Book"
+&nbsp;2) Book gets loaded by PediaPress
+&nbsp;3) Choose country, get price
+
+
+
+
+
+
+
+&nbsp;4) View preview
+&nbsp;5) Add to cart
+&nbsp;6) Enter shipping and billing information
+
+
+
+Printed books can be ordered with PediaPress.
+
+Simply click "Order book from PediaPress" on the Special:Book page. This uploads your book to the PediaPress website. 
+After choosing the destination country an approximate number of pages of a printed book and the price are shown. Title, subtitle and editor can be set or changed. There is a preview which shows how your selected articles (only the first N pages) will look like in a printed book.  Note: The typeset of printed books differs from the one in downloadable PDFs. A book can be ordered by adding it to the cart and following the checkout procedure.
+
+ Notes 
+ available payment methods are: MasterCard, Visa and PayPal 
+ books are printed within 2-3 business days
+ shipping takes another 2-10 days
+
+= How are books manufactured? =
+
+PediaPress uses the TeX typesetting system to generate a digital prepress repro. Books are either in the UK or the USA. Books produced by this technique look just like conventional paperback books. 
+
+Book specification:
+ Content
+ Table of contents
+ The selected articles
+ Licensing information 
+ Index 
+ Paper size: A5 (approx. 5.8 in × 8.3 in)
+ Images are printed greyscaled using the highest available resolution
+ Books can contain 50-800 pages
+
+There is an 
+= How much do printed books cost? =
+
+
+:'''!!! Note these information vary for each country and may change from time to time or even fluctuate daily with currencies. !!!'''
+
+Pricing for printed books depends on the number of included pages (compare table).
+Shipping costs depend on the shipping destination.
+The Wikimedia Foundation receives 10% of the gross total for each book sold.
+
+:Hint: Larger books are cheaper if judged by cost per page.
+
+To get a detailed quote simply upload your book to PediaPress and select your country and currency.
+
+= Which shipping options are available? =
+Books are shipped using a standard shipping option to most countries in the world. Delivery time varies 2-10 work days depending on the destination.
+
+= What is PediaPress? = 
+pediapress.com is an online service which offers customized printed books from wiki content.  The web-to-print service works on all MediaWikis which have deployed the open sourced mw:Extension:Collection|Collection Extension. The company actively supports the MediaWiki community and established a long-term partnership with the Wikimedia Foundation
+ Questions regarding the PDF-Export 
+
+= Why are articles displayed differently than in the browser? =
+Books have no scroll bars, a browser does. Content needs to be split up on several pages. To get an acceptable typesetting result some page elements need to be displayed differently. This may result in some unexpected layouts especially for tables and parts of wiki articles that use HTML instead of wiki-markup.
+
+= Can the appearance be improved ? =
+
+Yes at Help:Books/for experts|Help for Experts some possibilities are mentioned.
+
+ Questions regarding the OpenDocument Text Export 
+
+= What is OpenDocument Text? =
+The OpenDocument format (ODF) is an XML based file format originally created and implemented by the OpenOffice.org office suite. It is a free and open OASIS standard aimed to replace the proprietary Microsoft Word file format.
+
+Storing books in this format is useful if one wants to modify the books. This options allows to generate arbitrarily styled books with additional content. Teachers may find this useful.
+
+= Which software is required to open this file? = 
+
+OpenOffice.org|OpenOffice, Koffice or others.
+There also is an 
+ General questions regarding the book tool 
+
+= Where do I find stored books ? =
+
+All stored books are members of :Category:Wikipedia books. 
+Since this category is growing rapidly, there will soon be a Wikipedia:Books|bookshelf which allows to explore the list of compiled and shared books.
+
+= How do the exports comply with license requirements? =
+
+ PDF export 
+ link to each article and its version
+ all contributors are mentioned
+ images are linked to their image page on the wiki
+:Warning: Authors and licenses of images are not part of the PDF. So these PDFs can not be distributed without further manipulation if they contain images.
+ inclusion of the GFDL (English)
+
+ In printed books 
+ URL of each article and its version
+ all contributors are mentioned
+ URL of each image
+ all contributors of an image are mentioned
+ license name of the image is mentioned
+ inclusion of the GFDL (English)
+
+= Can I use the book tool with my MediaWiki ? =
+Yes, the book tool is based on the The MediaWiki component mw:Extension:Collection|Collection extension works out of the box with most Mediawikis and the PediaPress service.
+
+ Which known limitations exist? 
+
+= Limited Skin-Support =
+The tool currently only works with Monobook- and Modern-Skin. There is a simple workaround: Switch to Monobook when creating books.
+
+= Limitation of the book size =
+Currently books can not contain more than 500 articles. Please keep in mind that generation of large PDFs can take a long time and results in a high load of the servers. Dividing article collections into multiple books might be a solution. Printed books currently support no more than 800 pages (not articles!). 
+
+:Rule of thumb: On average a printed articles occupies 4 pages in a printed book. Of course this varies with the type and length of the articles.
+
+= Infoboxes and large tables =
+Wikipedia:Infobox|Infoboxes are not floated in the PDF or in printed books. Therefore they do not look as nicely as they do when displayed in the browser. Sheets of paper and pages in PDFs have a fixed size. This leads to some necessary typesetting compromises which partitially result in a suboptimal and unexpected view.
+
+= CSS & HTML =
+CSS and HTML used in the wiki markup are only partially evaluated when generating PDFs. Templates can be adjusted for print to avoid some of the problems.
+
+ Where to report bugs and give general feedback? 
+Bugs, feature requests and questions are best reported at the Help:Books/Feedback|Feedback-page.
+
+Category:Wikipedia book tool

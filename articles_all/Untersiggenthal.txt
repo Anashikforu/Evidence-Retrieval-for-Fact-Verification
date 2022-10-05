@@ -1,0 +1,29 @@
+{{Infobox Swiss town
+ | subject_name		= Untersiggenthal
+ | municipality_name	= Untersiggenthal
+ | municipality_type	= municipality
+ | imagepath_coa	= Wappen Untersiggenthal AG.svg|pixel_coa=
+ | map			= 
+ | languages		= German
+ | canton		= Aargau
+ | iso-code-region 	= CH-AG
+ | district		= Baden (district)|Baden
+ | lat_d=47|lat_m=30|lat_NS=N|long_d=8|long_m=15|long_EW=E
+ | postal_code		= 5417
+ | municipality_code	= 4044
+ | area			= 8.36
+ | elevation		= 375|elevation_description= 
+ | population		= 6298|populationof = December 2005 | popofyear = 2005
+ | website		= www.untersiggenthal.ch
+ | mayor		= |mayor_asof=|mayor_party=
+ | mayor_title	= |list_of_mayors	= 
+ | places		= 
+ | demonym		= 
+ | neighboring_municipalities= Brugg, Gebenstorf, Obersiggenthal, Turgi, Villigen, Würenlingen
+ | twintowns		= 
+|image_photo=Untersiggenthal 2728.jpg|image_caption=Overlooking Untersiggenthal}}
+
+'''Untersiggenthal''' is a municipality of the district of Baden (district)|Baden in the Cantons of Switzerland|canton of Aargau in Switzerland.
+
+
+Category:Municipalities of Aargau

@@ -1,0 +1,12 @@
+{{Infobox London station| name = Bounds Green | image_name =Bounds Green stn building.jpg | manager = London Underground | fare_zone = 3 | fare_zone_1 = 4 | locale = Bounds Green | borough = London Borough of Haringey | years1=1932 | events1=Opened (Piccadilly Line) | platforms= 2 
+ 
+| tubeexits07=  5.498 
+| tubeexits08=  5.780 
+| tubeexits09=  5.554
+| interchange   = Bowes Park railway station|Bowes Park | interchange_note = 
+
+'''Bounds Green tube station''' is a London Underground station. It is at the junction of Bounds Green Road and Brownlow Road, in North London|North London.
+
+The station is on the Piccadilly Line, between Wood Green tube station|Wood Green and Arnos Grove tube station|Arnos Grove stations. It is on the boundary between Travelcard Zone 3 and Travelcard Zone 4|Zone 4.
+
+Category:1930s establishments in England

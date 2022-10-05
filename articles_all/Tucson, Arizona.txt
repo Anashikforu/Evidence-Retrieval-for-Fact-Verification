@@ -1,0 +1,37 @@
+
+
+| area_total_km2                  = 623.65
+| area_total_sq_mi                = 240.79
+| area_land_km2                   = 622.83
+| area_land_sq_mi                 = 240.48
+| area_water_km2                  = 0.82
+| area_water_sq_mi                = 0.32
+| elevation_ft                    = 2389
+| elevation_m                     = 728
+| population_total                = 542629
+| population_as_of                = 2020 United States census|2020
+| population_footnotes            = 
+| population_rank                 = List of United States cities by population|33rd in the United StatesList of municipalities in Arizona|2nd in Arizona
+| population_density_sq_mi        = 2256.44
+| population_density_km2          = 871.23
+| population_metro_footnotes      = 
+| population_metro                = 1043433 (List of metropolitan statistical areas|53rd)
+| population_demonym              = Tucsonian, Tucsonan
+| timezone                        = Mountain Standard Time Zone|MST (no Daylight saving time|DST)
+| utc_offset                      = -07:00
+| postal_code_type                = ZIP Codes
+| postal_code                     = 85701-85775
+| area_code                       = Area code 520|520
+| area_code_type                  = North American Numbering Plan|Area code
+| coordinates                     = 
+| blank_name                      = Federal Information Processing Standard|FIPS code
+| blank_info                      = 04-77000
+| blank1_name                     = Geographic Names Information System|GNIS feature ID
+| blank1_info                     = 43534
+| website                         = 
+| footnotes                       = 1 Urban = 2010 Census
+| unit_pref                       = Imperial
+| area_footnotes                  =
+}}
+'''Tucson''' is a city in Arizona, United States. It is the seat of Pima County. It is 118 miles (188&nbsp;kilometer|km) southeast of Phoenix, Arizona|Phoenix and 60 miles (98&nbsp;km) north of the Mexico|Mexican border. It is where the shooting of senator Gabrielle Giffords took place. Arizona has many deserts. It is visited by many people to escape cold weather. Tucson has a population of 531,641 as of 2015 and is the second populated city in Arizona behind Phoenix. The city has a mean elevation of 2,400 feet. The climate of Tucson is a arid desert climate with very hot summers and mild winters. The monsoon occurs in mid June and ends around late September in the Tucson area.
+

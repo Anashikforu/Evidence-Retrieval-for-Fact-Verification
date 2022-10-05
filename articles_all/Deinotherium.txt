@@ -1,0 +1,24 @@
+
+{{Taxobox
+| colour = rgb(220,220,183)
+| name = ''Deinotherium''
+| fossil_range = Miocene|Middle Miocene  Pleistocene|Early Pleistocene
+| image = Dinotherium.jpg
+| image_width = 250px
+| image_caption = Illustration of ''Deinotherium''
+| regnum = Animalia
+| phylum = Chordate|Chordata
+| classis = Mammalia
+| ordo = Proboscidea
+| subordo = †Deinotheriidae|Deinotheroidea
+| familia = †Deinotheriidae
+| genus = extinction|†'''''Deinotherium'''''
+| genus_authority = Johann Jakob Kaup|Kaup, 1829}}
+
+'''''Deinotherium''''' was a large proboscidean related to modern elephants. Their downward curving tusks are notable. They are known from the middle miocene to the early pliocene. 
+
+There were several species of ''Deinotherium'' that inhabited parts of Africa, Asia and Europe. The ''Deinotherium'' was larger than today’s elephants.
+
+The way ''Deinotherium'' used its curious tusks has been much debated. It may have rooted in soil for underground plant parts like roots and tubers, pulled down branches to snap them and reach leaves, or stripped soft bark from tree trunks.Harris, J.M. 1976. Evolution of feeding mechanisms in the family Deinotheriidae (Mammalia: Proboscidea). ''Zool. J. Linn. Soc''. '''56''': 331-362 Deinotherium fossils have been uncovered at several of the African sites where remains of prehistoric hominid relatives of modern humans have also been found.
+
+Category:Extinct elephants

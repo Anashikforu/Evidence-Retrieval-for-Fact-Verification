@@ -1,0 +1,42 @@
+
+Simple example cladogram.&nbsp;&nbsp;&nbsp; Warm-bloodedness evolved somewhere in thesynapsid–mammal transition.&nbsp;'''?'''&nbsp; Warm-bloodedness must also have evolved at one of these points – an example of convergent evolution.
+
+= Living tetrapods =
+
+There are three main groups of living ("crown group") tetrapods. Each group also includes many extinct groups:
+
+;Amphibian|Amphibia : frogs and toads, salamander|newts and salamanders, and caecilians
+;Sauropsida : birds and modern reptiles
+;Synapsida : mammals
+
+Snakes and other legless reptiles are tetrapods because they are evolved from ancestors who had four limbs. This is also true for caecilians and aquatic mammals.
+
+ Classification 
+Image:Pederpes22small.jpg|thumb|200px|''Pederpes finneyae''
+Image:Lyddekerina1db.jpg|thumb|200px|''Lyddekerina huxleyi''
+
+A partial taxonomy of the tetrapods:
+ Phylum Chordata
+ Class '''Sarcopterygii'''
+ '''Subclass Tetrapodomorpha'''
+ ''Eusthenopteron''
+ ''Panderichthys''
+ ''Tiktaalik''
+ Superclass '''Tetrapoda'''
+ ''Pederpes''
+ ''Whatcheeria''
+ Class Amphibian|Amphibia  
+ (Subclass Labyrinthodontia)
+ Subclass Lepospondyli
+ Subclass Temnospondyli
+ Subclass Lissamphibia  frogs, salamanders
+ Class '''Amniote|Amniota'''
+ Class Sauropsida  Reptiles
+ Class bird|Aves  Birds
+ Class Synapsida  Mammal-like reptiles
+ Class Mammalia  Mammals
+
+ Related pages 
+Tetrapodomorpha: a cladistic account of the group
+
+Category:Tetrapods| 

@@ -1,0 +1,20 @@
+{{Taxobox
+| name = Carnation family
+| image = Red campion close 700.jpg
+| image_width = 240px
+| image_caption = Red Campion, ''Silene dioica''
+| regnum = Plantae
+| divisio = Magnoliophyta
+| classis = Magnoliopsida
+| ordo = Caryophyllales
+| familia = '''Caryophyllaceae'''
+| familia_authority = Antoine Laurent de Jussieu|Juss.
+| subdivision_ranks = Genera}}
+
+
+The '''Caryophyllaceae''', commonly called the '''pink family''' or '''carnation family''', is a family of flowering plants. The species are dicotyledons included in the order Caryophyllales. It is a large family, with 88 genera and some 2,000 species.
+
+
+
+
+category:Caryophyllaceae| 

@@ -1,0 +1,10 @@
+
+In probability theory and statistics, the '''chi-square distribution''' (also '''chi-squared''' or '''\chi^2&nbsp; distribution''') is one of the most widely used theory|theoretical probability distributions. Chi-square distribution with \nu degrees of freedom is written as \chi^2(\nu).
+
+Chi-square distribution is primarily used in statistical significance tests and Confidence interval|confidence intervals. It is useful, because it is relatively easy to show that certain probability distributions come close to it, under certain conditions. One of these conditions is that the null hypothesis must be true. Another one is that the different random variables (or observations) must be independent of each other.
+
+ Related pages 
+
+ Chi-squared test
+
+Category:Probability distributions

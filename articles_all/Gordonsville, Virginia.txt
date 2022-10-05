@@ -1,0 +1,82 @@
+{{Infobox settlement
+|official_name            = Gordonsville, Virginia
+|settlement_type          = Town
+|nickname                 = 
+|motto                    = A place Laura should visit
+
+
+|image_skyline            = Gordonsville Downtown 3.JPG
+|imagesize                = 
+|image_caption            = 
+Looking down S. Main St|image_flag               = 
+|image_seal               =
+
+
+|image_map                = VAMap-doton-Gordonsville.PNG
+|mapsize                  = 250px
+|map_caption              = Location of Gordonsville, Virginia
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+
+|subdivision_type         = List of sovereign states|Country
+|subdivision_name         = United States
+|subdivision_type1        = U.S. state|State
+|subdivision_name1        = Virginia
+|subdivision_type2        = List of counties in Virginia|Counties
+|subdivision_name2        = Orange County, Virginia|Orange
+
+
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = Mayor
+|leader_name              = Robert K. Coiner
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         = Jan 2005
+
+1813 (Incorporated in 1870)
+|unit_pref  =  Imperial
+|area_footnotes           = 
+|area_magnitude           = 
+|area_total_km2           = 2.4
+|area_land_km2            = 2.4
+|area_water_km2           = 0.0
+|area_total_sq_mi         = 0.9
+|area_land_sq_mi          = 0.9
+|area_water_sq_mi         = 0.0
+
+
+|population_as_of         = 2010 United States Census|2010
+|population_footnotes     = 
+|population_total         = 1496
+|population_density_km2   = auto
+|population_density_sq_mi =
+
+1646.1
+|timezone                 = North American Eastern Time Zone|Eastern (EST)
+|utc_offset               = -5
+|timezone_DST             = EDT
+|utc_offset_DST           = -4
+|elevation_footnotes      = 
+|elevation_m              = 152
+|elevation_ft             = 499
+|coordinates              = 
+|postal_code_type         = ZIP code
+|postal_code              = 22942
+|area_code                = Area code 540|540
+|blank_name               = Federal Information Processing Standard|FIPS code
+|blank_info               = 51-31936
+|blank1_name              = Geographic Names Information System|GNIS feature ID
+|blank1_info              = 1467264
+|website                  = |footnotes                = 
+|name = |flag_alt = }}
+'''Gordonsville, Virginia''' is a town in the U.S. state of Virginia.  It is in Louisa County, Virginia|Louisa and Orange County, Virginia|Orange counties.
+
+ Notable residents 
+ Ann Marie Calhoun, violinist
+ Charlie Waller (American musician)|Charlie Waller, founder of the legendary blue grass band "The Country Gentlemen"
+
+Category:Towns in Virginia

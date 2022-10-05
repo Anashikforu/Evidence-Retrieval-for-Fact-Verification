@@ -1,0 +1,18 @@
+if( typeof document.addEventListener != "undefined" ) {
+ document.addEventListener("beforeload", blockBannerLoader, true);
+}
+
+function blockBannerLoader(e) {
+ if (!e) var e = window.event;
+ var el = e.target;
+ if( !el ) return;
+ var elType = el.nodeName.toUpperCase();
+
+ if (elType && elType = 'SCRIPT' ) {
+  var src = el.src;
+  if( !src ) return;
+  if( src.indexOf( "Special:BannerLoader" ) != -1 || src.indexOf( "Special:BannerListLoader" ) != -1 ) {
+   e.preventDefault();
+  }
+ }
+}

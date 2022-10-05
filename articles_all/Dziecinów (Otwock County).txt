@@ -1,0 +1,26 @@
+{{Infobox Settlement
+| name = Dziecinów
+| settlement_type = Village
+| total_type = &nbsp;
+| image_flag = 
+| image_shield = 
+| image_map = 
+| subdivision_type = Countries of the world|Country
+| subdivision_name = 
+| subdivision_type1 = Voivodeships of Poland|Voivodeship
+| subdivision_name1 = Masovian Voivodeship|Masovian
+| subdivision_type2 = Powiat|County
+| subdivision_name2 = Otwock County|Otwock
+| subdivision_type3 = Gmina
+| subdivision_name3 = Gmina Sobienie-Jeziory
+| coordinates_type = type:city
+|coordinates = 
+| pushpin_map = Poland
+| elevation_m = 94
+| population_total = 704
+| website ='''Dziecinów'''  is a Voivodeships of Poland|voivodeship village in Poland, Masovian Voivodeship|Masovia. It has approximately 704 population|inhabitants and an area of 6 kilometre|km2.
+
+
+
+
+Category:Villages in Poland

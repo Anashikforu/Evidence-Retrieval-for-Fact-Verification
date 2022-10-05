@@ -1,0 +1,20 @@
+{{Taxobox 
+| name = Peking Man
+| fossil_range = Pleistocene
+| image =
+| image_caption = Bust of Peking Man on permanent display at Zhoukoudian
+| regnum = Animalia
+| subphylum = Vertebrata
+| classis = Mammalia
+| ordo = Primates
+| familia = Hominidae
+| genus = ''Homo (genus)|Homo''
+| species = ''Homo erectus|H. erectus''}}
+
+'''Peking Man''' (currently ''Homo erectus pekinensis'') is an example of ''Homo erectus''. The remains were first found between in 1923 and 1937 during excavations at Zhoukoudian near Beijing, in China. 
+
+In 2009 the finds were dated from roughly 750,000 years ago,
+
+The original fossils disappeared in 1941, but casts and descriptions remain. They show that this subspecies looked similar to modern humans and Neanderthals, and used stone tools. Most likely fire was used, and it is currently unknown if interbreeding was between ''Homo erectus'' and ''Homo sapiens,'' and if this is an ancestor or member of the Denisovan peoples of East Asia. No religious or symbolic findings are yet associated with this subspecies.
+
+Category:Hominins

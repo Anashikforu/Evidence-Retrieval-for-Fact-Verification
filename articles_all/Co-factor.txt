@@ -1,0 +1,12 @@
+A '''co-factor''' (or cofactor) is a chemical compound which is not a protein, but is attached to a protein. The compound is needed for the protein's biological activity. In most cases, the protein will be an enzyme, and the cofactor will help the enzyme work. If so, the cofactors are also called coenzymes.Abercrombie M. ''et al'' 1990. ''The Penguin dictionary of biology''. London: Penguin, p126. 
+
+Cofactors which are complex organic molecules are often called coenzymes. If connected by a covalent bond they are a ''prosthetic group''. But if they are just temporarily connected then the cofactor is a ''cosubstrate''.
+
+Some enzymes need several cofactors. Organic cofactors are often vitamins, or made from vitamins. Metallic ions are often cofactors, but many cofactors have both inorganic and organic parts. 
+
+
+
+
+
+
+Category:Enzymes

@@ -1,0 +1,83 @@
+{{Infobox Constellation
+| name = Capricornus
+| abbreviation = Cap
+| genitive = Capricorni
+| pronounce =  
+| symbolism = the Sea Goat
+| RA = 21
+| dec= −20
+| family = Zodiac
+| quadrant = SQ4
+| areatotal = 414
+| arearank = 40th
+| numbermainstars = 9, 13
+| numberbfstars = 49
+| numberstarsplanets = 3
+| numberbrightstars = 1
+| numbernearbystars = 3
+| brighteststarname = Delta Capricorni|δ Cap (Deneb Algedi)
+| starmagnitude = 2.85
+| neareststarname = LP 816-60
+| stardistancely = 17.91
+| stardistancepc = 5.49
+| numbermessierobjects = 1
+| meteorshowers = Alpha CapricornidsChi CapricornidsSigma CapricornidsTau CapricornidsCapricorniden-Sagittariids
+| bordering = Aquarius (constellation)|AquariusAquila (constellation)|AquilaSagittarius (constellation)|SagittariusMicroscopiumPiscis Austrinus
+| latmax = 60th parallel north|60
+| latmin = South Pole|90
+| month = September
+| notes=}}
+
+'''Capricornus''' is one of the constellations of the zodiac. It is often called '''Capricorn''', especially when referring to the corresponding Capricorn (astrology)|astrological sign. Its name is Latin for "horned male goat" or "goat Horn (anatomy)|horn", and it is commonly represented in the form of a sea-goat: a mythical creature that is half goat, half fish. Its symbol is Image:Capricorn.svg|20px (Unicode ♑).
+
+Capricornus is one of the 88 modern constellations, and was also one of the 48 constellations listed by the 2nd century astronomer Ptolemy. Under its modern boundaries it is bordered by Aquila (constellation)|Aquila, Sagittarius (constellation)|Sagittarius, Microscopium, Piscis Austrinus and Aquarius (constellation)|Aquarius. The constellation is in an area of sky called the Sea (astronomy)|Sea or Water, consisting of many water-related constellations such as Aquarius, Pisces and Eridanus.
+
+Notable features
+Image:CapricornusCC.jpg|thumb|left|256px|The constellation Capricornus as it can be seen with the naked eye. Capricornus is the second faintest constellation in the zodiac after Cancer (constellation)|Cancer. Its brighter stars are on a triangle whose corners are Alpha Capricorni|α2 Capricorni (also known as Giedi), Delta Capricorni|δ Capricorni (Deneb Algiedi), and Omega Capricorni|ω Capricorni.
+
+=Deep sky objects=
+Capricorn has several galaxies and clusters. Messier 30 is a globular cluster that is one degree south of the galaxy group NGC 7103. The constellation also harbors the wide spiral galaxy NGC 6907.
+
+=Named stars=
+
+
+History
+Despite it being very faint, Capricornus has one of the oldest mythological associations. It has consistently been represented as a mythological hybrid|cross of a goat and a fish since the Middle Bronze Age. The earliest picture of Capricornus is on a cylinder-seal dating c. 21st century BCE,.Master's Thesis of Peeter Espak, 2006 page 104 "
+Because of the precession of the equinoxes the December solstice no longer takes place while the sun is in the constellation Capricornus. The astrological sign called Capricorn now begins with the solstice. The sun's most southerly position is now called the Tropic of Capricorn. This term also applies to the line on earth where the sun is directly overhead at noon on that solstice.
+
+The planet Neptune was discovered in this constellation by German astronomer Johann Gottfried Galle|Johann Galle, near Deneb Algedi (δ Capricorni) on September 23, 1846, which is reasonable as Capricornus can be seen best at 4:00am in September.
+
+In Chinese astronomy, constellation Capricornus is in ''Black Tortoise (Chinese constellation)|The Black Tortoise of the North'' (北方玄武, ''Běi Fāng Xuán Wǔ'').
+
+Mythology
+Capricorn the sea goat was a goat that decided to take over the world. The gods of Greece looked down upon that and sent there wrath and killed him with one of Zeus thunderbolts. Then they hung him in the sky to humiliate him.
+
+=Astrology=
+
+
+As of 2002, the Sun appears in the constellation Capricornus from January 19 to February 15. In tropical astrology, the Sun is considered to be in the sign Capricornus (astrology)|Capricorn from December 22 to January 19, and in sidereal astrology, from January 15 to February 15.
+
+Image:Capricornus constellation map visualization.PNG|thumb|300px|right|Diagram of an alternative way to connect the stars of the Capricornus constellation.
+
+Visualizations
+
+Ptolemy's method of connecting the stars of Capricornus has been influential.
+H. A. Rey has suggested an alternative way to join the stars, which graphically shows a goat. The goat's head is formed by the triangle of stars Iota Capricorni|ι Cap, Theta Capricorni|θ Cap, and Zeta Capricorni|ζ Cap.  The goat's horn sticks out with stars Gamma Capricorni|γ Cap and Delta Capricorni|δ Cap.  Star δ Cap, at the tip of the horn, is of the third magnitude. The goat's tail consists of stars Beta Capricorni|β Cap and Alpha Capricorni|α2 Cap: star β Cap being of the third magnitude. The goat's hind foot consists of stars Psi Capricorni|ψ Cap and Omega Capricorni|ω Cap.  Both of these stars are of the fourth magnitude.
+
+Capricornus as the name
+USS Capricornus (AKA-57) is once of United States navy ship.
+
+Citations
+
+
+Related pages
+IC 1337
+Capricornus (Chinese star)
+
+ Other websites 
+
+
+
+
+Category:Constellations
+Category:Constellations listed by Ptolemy

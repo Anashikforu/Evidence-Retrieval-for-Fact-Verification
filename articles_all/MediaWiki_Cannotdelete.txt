@@ -1,0 +1,2 @@
+Could not delete the page or file specified.
+It may have already been Special:Log/delete|deleted by someone else.

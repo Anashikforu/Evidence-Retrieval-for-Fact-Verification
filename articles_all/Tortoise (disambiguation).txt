@@ -1,0 +1,17 @@
+'''Tortoise''' may mean:
+
+ Tortoise, a large land-dwelling reptile protected by a shell
+ TortoiseCVS, a GUI integrated Concurrent_Versions_System|CVS client for the Microsoft Windows platform
+ TortoiseHg, a GUI integrated Mercurial_(software)|Mercurial client for the Microsoft Windows platform
+ TortoiseSVN, a GUI integrated Subversion_(software)|Subversion client for the Microsoft Windows platform
+ TortoiseGIT, a GUI integrated Git_(software)|GIT client for the Microsoft Windows platform
+ Tortoise (band), a US post-rock band formed in 1990
+ Tortoise (tank), a British heavy assault gun
+ Tortoise formation, a defensive formation employed in ancient and mediaeval warfare
+ Tortoise, a derogatory name for the Ford Taurus automobile
+ Tortoise, a popular brand of Railroad switch|Turnout Motor for Model railway|Model Railways
+ Tortoises, a 1921 short volume of poetry by D H Lawrence containing poems later collected in Birds, Beasts and Flowers (1923). 
+
+ Also see 
+Hare (disambiguation), for ''Tortoise and Hare'' stories
+

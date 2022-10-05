@@ -1,0 +1,5 @@
+//
+
+includePage('MediaWiki:Gadget-HotCat.js');
+
+//

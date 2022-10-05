@@ -1,0 +1,29 @@
+
+
+
+'''''Sauerbraten''''' (also known as ''Cube 2'' or ''Sauer'', German language|German for ''“Sauerbraten|sour roast”'') is a cross-platform, ''Quake (video game)|Quake''-like, first-person shooter computer game that runs on Microsoft Windows, Linux, FreeBSD and Mac OS X using OpenGL and Simple DirectMedia Layer|SDL. The game features single-player and multiplayer game play and contains an in-game level editor, its main feature. The game engine is free software|free and open source software, under the Zlib License,
+
+The game started as a redesign to the original Cube (computer game)|Cube Engine, and its first release was made on May 6, 2004. The game gets updated quite regularly.
+
+Technology
+
+''Sauerbraten'' was made out of the game Cube, but is much more advanced and a player can create new levels. ''Sauerbraten'' was not made to look very good, but to allow easy map making within the game without making a big download. ''Sauerbraten CTF Edition'' is less than 350 megabytes.  The game ''Crysis'' is around 3,000 megabytes.
+
+= Map editing =
+
+Image:Sauer editing-1-.jpg|thumb|100px|An example of cube subdivision
+Maps are made out of cubes, which can be made longer or shorter and can be reshaped. These cubes can be mapped out easily, using the in-game editor. This means that both map-makers and players can make very big, detailed maps very quickly. This is not like other games such as ''Quake (video game)|Quake'', where you need a lot of effort and bugfixing work to even get the map to work.
+
+This simplicity in editing has resulted in a lot of maps released by players and developers. They are available on the ''Quadropolis'' forums.
+
+= Gameplay =
+
+The game has singleplayer and multiplayer modes. Multiplayer can be with LAN and Internet connection. Online game types are deathmatch, Last man standing (gaming)|last man standing,"Capture" (where teams fight for control of parts on the map), Quake (video game)|Quake-style Capture the Flag, also instant-shot games (Instagib, Insta-clan-arena, insta-capture) as well as online multiplayer map editing, which is one of ''Sauerbraten'''s most interesting and popular features. In single player modes the computer controls monsters against you.
+
+ Media 
+
+The game has been shown in a Burger King Television advertisement|television commercial,
+
+The CTF edition was given a long review by Phoronix, a website focused on Linux and software reviews, a website providing news related to free and open source software.
+
+Category:Windows games

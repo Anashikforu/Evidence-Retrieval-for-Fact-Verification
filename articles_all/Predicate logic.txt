@@ -1,0 +1,28 @@
+
+In logic and philosophy, '''predicate logic''' is a system of mathematical logic. It uses predicates to express the state of certain things, which are "incomplete Proposition|propositions" with a placeholder for objects or subjects that must be inserted in order to obtain a valid proposition. 
+
+Predicate logic is different from propositional logic, in part because it has the concept of ''Logical quantifier|quantifiers''. A quantifier is used in conjunction with a variable (say ''x'') in order to talk about a general instance of x, and in doing so, this allows predicate logic to make statements about quantity.
+
+The best-known quantifiers are the ''existential quantifier'', represented by ∃, and the ''universal quantifier'', represented by ∀.
+
+In the notation of predicate logic, quantifiers directly precede (and thus introduce) variable names, which are then followed by other quantifiers or mathematical expressions, where the said variables are found. For example. one can use the expression \exists x \forall y Lyx to mean "there is a person ''x'' such that for all persons ''y'', y likes x" ("everyone is liked by someone.").
+
+ Examples 
+\exist c\ (\text{Cat}(c) \and \text{isBlack}(c) \and \exist d\ (\text{Dog}(d) \and \text{likes}(c,d)))
+
+can be read as: "There is at least one cat which is black, and which likes (one or more) dogs."
+
+\neg\forall c\ (\text{Cat}(c) \to \forall d\ (\text{Dog}(d) \to \neg\text{likes}(c,d)))
+
+can be read as: "It is not true that every cat doesn't like any dog."
+
+\neg\exist c\ (\text{Cat}(c) \and \text{Dog}(c))
+
+can be read as: "There does not exist a cat which is also a dog."
+
+ Related pages 
+ First order logic
+ Fuzzy logic
+ Rule of inference
+
+Category:Mathematics

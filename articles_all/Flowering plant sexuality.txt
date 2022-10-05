@@ -1,0 +1,38 @@
+
+ (''Ilex aquifolium'') is dioecious.
+Top right: male flower enlarged, stamens with pollen and reduced, sterile Carpel|stigma;
+Main: shoot with female flowers;
+Lower: female flower enlarged, with stigma and reduced, sterile stamens with no pollen
+
+'''Flowering plant sexuality''' describes some of the technical terms for common arrangements of flowers.Molnar S. 2004. 
+ Flowers 
+Terms for the sexuality of individual flowers:
+ '''Perfect''' flowers have both male (androecium) and female (gynoecium) reproductive structures. They include stamens and an Ovary (botany)|ovary. Flowers that contain both androecium and gynoecium are called hermaphrodite|hermaphroditic. Examples of plants with perfect or bisexual flowers include the lily, rose, and most plants with large showy flowers. A '''complete''' flower is a perfect flower with petals and sepals.
+ '''Unisexual''': Reproductive structure that is either functionally male or functionally female. In angiosperms this condition is also called '''imperfect''', or '''incomplete'''.
+
+ Individual plants 
+
+
+Many plants have complete flowers with both male and female parts, others only have male or female parts, and still other plants have flowers on the same plant that are a mix of male and female flowers.
+
+Some plants even have mixes that include all three types of flowers, where some flowers are only male, some are only female and some are both male and female.
+
+A distinction needs to be made between arrangements in single plants versus the larger plant population.
+
+Some plants also undergo what is called '''sex-switching''', like '':en:Arisaema_triphyllum|Arisaema triphyllum'' which express sexual differences at different stages of growth. In some arums smaller plants produce all or mostly male flowers and as plants grow larger over the years the male flowers are replaced by more female flowers on the same plant. ''Arisaema triphyllum'' thus covers a multitude of sexual conditions in its lifetime; from nonsexual juvenile plants to young plants that are all male, as plants grow larger they have a mix of both male and female flowers, to large plants that have mostly female flowers.Ewing J.W. & Klein R.M. 1982. Sex expression in Jack-in-the-Pulpit. ''Bulletin of the Torrey Botanical Club'' 109 (1): 47-50. doi:10.2307/2484467
+
+Other plant populations have plants that produce more male flowers early in the year and as plants bloom later in the growing season they produce more female flowers. In plants like '':en:Thalictrum_dioicum|Thalictrum dioicum'' all the plants in the species are either male or female.
+
+Specific terms are used to describe the sexual expression of individual plants within a population.
+ '''Hermaphrodite''', a plant that has only bisexual reproductive units (flowers, conifer cones, or functionally equivalent structures). In angiosperm terminology a synonym is '''monoclinous''' from the Greek language|Greek "one bed".
+ '''Monoecious''', an individual that has both male and female reproductive units (flowers, conifer cones, or functionally equivalent structures) on the same plant; from Greek for "one household". Individuals bearing separate flowers of both sexes at the same time are called simultaneously or synchronously monoecious. Individuals that bear flowers of one sex at one time are called consecutively monoecious; plants may first have single sexed flowers and then later have flowers of the other sex. '''Protoandrous''' describes individuals that function first as males and then change to females; '''protogynous''' describes individuals that function first as females and then change to males.
+ '''Dioecious''' refers to a plant population having separate male and female plants. That is, no individual plant of the population produces both microgametophytes (pollen) and megagametophytes (ovules); individual plants are either male or female. From Greek for "two households". Individual plants are not called dioecious; they are either gynoecious (female plants) or androecious (male plants).
+ '''Androecious''', plants producing male flowers only, produce pollen but no seeds, the male plants of a dioecious population.
+ '''Gynoecious''', plants producing female flowers only, produces seeds but no pollen, the female of a dioecious population. In some plant populations, all individuals are gynoecious with non sexual reproduction used to produce the next generation.
+ '''Polygamy''', plants with male, female, and perfect (hermaphrodite) flowers on the same plant.
+ '''Trimonoecious''' (polygamous) - male, female, and hermaphrodite floral morphs all appear on the same plant.
+
+ Related pages 
+ Alternation of generations
+
+Category:Biological reproduction

@@ -1,0 +1,39 @@
+
+{{Infobox UK place
+ | official_name =            City of Ripon
+ | country =                  England
+ | region =                   Yorkshire and the Humber
+ | static_image =             Fountains Abbey, Ripon.jpg
+ | static_image_caption =     Fountains Abbey at Ripon
+ | static_image_2 =           Ripon COA.png
+ | static_image_2_width = 100px
+ | static_image_2_caption =   Arms of Ripon City Council
+ | area_footnotes =
+ | area_total_sq_mi =
+ | area_total_km2 =
+ | population =               15,922
+ | population_ref =           (United Kingdom Census 2001|2001 census)
+ | population_density =
+ | os_grid_reference =        SE312714
+ | latitude =                 54.13796
+ | longitude =                -1.52365
+ | label_position =           bottom
+ | scale =
+ | post_town =                RIPON
+ | postcode_area =            HG
+ | postcode_district =        HG4
+ | dial_code =                01765
+ | constituency_westminster = Skipton and Ripon (UK Parliament constituency)|Skipton & Ripon
+ | civil_parish =             Ripon
+ 
+ | london_distance =          
+ | shire_district =           Harrogate (borough)|Harrogate
+ | shire_county =             North Yorkshire
+ | website =                   }}
+'''Ripon''' is a small cathedral city status in the United Kingdom|city in North Yorkshire, England. In the 2001 UK census|census Ripon had a population of 15,922. In England only Wells, Ely, Cambridgeshire|Ely and the City of London are smaller.
+
+Ripon was one of the boroughs reformed by the Municipal Corporations Act 1835. It stayed a borough in the West Riding of Yorkshire until 1974. Under the Local Government Act 1972 it became a parish in the borough of Harrogate (borough)|Harrogate, North Yorkshire. Because it is an urban (town) parish Ripon can call its parish council Ripon City Council, the chairman of its parish council is called the City Mayor.
+
+Other websites
+        
+Category:Cities in England

@@ -1,0 +1,13 @@
+
+
+'''Flock''' is a web browser based on Mozilla Firefox. Flock is also the name of the company making the browser.
+
+Awards
+Upon leaving beta, Flock has won a number of awards:
+
+''Webby Award'' in social networking, 2008
+''SXSW'' community Award, 2008 
+''Open Web Award'' for Applications and Widgets, 2007 
+
+| publisher = PC World (magazine)|PC World | accessdate = 2008-06-17 | archive-date = 2008-06-11 | archive-url = 
+Category:Mozilla

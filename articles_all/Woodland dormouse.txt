@@ -1,0 +1,18 @@
+
+{{Taxobox
+| name = Woodland dormouse
+| image = Graphiurus murinus Plzen zoo 02.2011.jpg
+| status = LC | status_system = IUCN3.1
+| regnum = Animalia
+| classis = Mammalia
+| ordo = Rodentia
+| familia = Gliridae
+| genus = ''Graphiurus''
+| binomial = ''Graphiurus murinus''
+| binomial_authority = (Anselme Gaëtan Desmarest|Desmarest, 1822)
+| synonyms = }}
+
+The '''woodland dormouse''' (''Graphiurus murinus'') is a species of rodent in the Gliridae family. It is Endemism|endemic to (lives only in) South Africa.  It is also known as the ''African dwarf dormouse'', the ''African pygmy dormouse'' or the ''Micro squirrel''.A complete guide to the African Pygmy Dormouse 
+Its natural habitats are subtropical or tropical moist montanes and rivers.
+
+Category:Graphiurus

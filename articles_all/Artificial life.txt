@@ -1,0 +1,4 @@
+
+'''Artificial life''' (commonly '''Alife''' or '''alife''') is a field of study which examines systems related to life, its processes, and its evolution. This is done with simulations using computer models, robotics, and biochemistry.  The term "artificial life" is often used to specifically refer to soft alife.John Johnston, (2008) "The Allure of Machinic Life: Cybernetics, Artificial Life, and the New AI", MIT Press
+
+Category:Scientific modeling

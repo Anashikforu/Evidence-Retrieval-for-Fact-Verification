@@ -1,0 +1,80 @@
+Image:Absolute value.svg|thumb|360px|The graph of the absolute value Function (mathematics)|function for Real number|real numbers.
+In mathematics, the '''absolute value''' of a real number x, written as  or \text{abs}(x), is the value of x when the Sign (mathematics)|sign is dropped (or x without its sign). =0 
+
+For example, the absolute value of 3 is 3, and the absolute value of −3 is also 3 (\left\vert x \right\vert = \left\vert -x \right\vert). The absolute value of a real number may be thought of as its distance from zero. It can be Definition|defined as follows:
+: 
+\begin{cases}
+\ \ \ x &\mbox{if}\ \ x \geq 0\\
+-x &\mbox{if}\ \ x < 0\\
+\end{cases}
+
+
+Because a distance is always positive, the absolute value of a number is always positive.
+
+Similarly, the absolute value of a complex number may be thought of as its distance from the origin.
+
+It is Definition|defined by the equation 
+:
+\left\vert a+bi \right\vert = \sqrt{x^2+y^2} 
+ Properties of the absolute value 
+= Real numbers =
+For any real number 
+x , the '''absolute value''' of 
+x  is denoted by  (a vertical bar on each side of the quantity), and is Definition|defined asMendelson, 
+: 
+\begin{cases}
+\ \ \ x &\mbox{if}\ \ x \geq 0\\
+-x &\mbox{if}\ \ x < 0\\
+\end{cases}
+
+
+
+
+The absolute value of 
+x  is always either positive number|positive or zero, but never negative number|negative. From an analytic geometry point of view, the absolute value of a real number is that number's distance from zero along the Number line|real number line. The absolute value of the Subtraction|difference of two Real number|real numbers is the distance between them.
+
+In calculus, the absolute value Function (mathematics)|function is Differential equation|differentiable except at Zero|0. It is Continuous function|continuous everywhere.
+
+In linear algebra, the Norm (mathematics)|norm of a vector is defined similarly as the distance from the tip of the vector to the origin. This is similar to the way the absolute value of a complex number is defined.
+
+The square root notation without Sign (mathematics)|sign represents the ''Positive number|positive'' square root. So, it follows that:
+
+:\left\vert a \right\vert = \sqrt{a^2}
+
+which is another definition of absolute value., p.&nbsp;A5
+
+The absolute value has the following four main properties:
+
+:
+
+Other important properties of the absolute value include:
+
+:
+
+Two other useful properties related to inequalities are:
+:\left\vert a \right\vert \le b \Leftrightarrow -b \le a \le b 
+:\left\vert a \right\vert \ge b \Leftrightarrow a \le -b \mbox{ or } b \le a 
+
+
+
+These relations may be used to solve inequalities involving absolute values. For example:
+
+\left\vert x-3 \right\vert \le 9 \Longleftrightarrow -9 \le x-3 \le 9 \Longleftrightarrow -6 \le x \le 12 
+
+File:Complex number.svg|thumb|Diagram showing \left\vert z \right\vert, the absolute value of 
+z .
+
+= Complex numbers =
+For a complex number z=a+bi, where 
+a  is the Real number|real part of 
+z  and 
+b  is the imaginary number|imaginary part of 
+z ,
+:
+\left\vert z \right\vert = \left\vert a+bi \right\vert = \sqrt{x^2+y^2} 
+
+ Related pages 
+
+ Magnitude (mathematics)
+
+__NOTOC__

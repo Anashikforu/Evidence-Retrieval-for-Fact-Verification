@@ -1,0 +1,24 @@
+
+Image:Gray722.png|thumb|280px|The visual system includes the eyes, the connecting pathways through to the visual cortex and other parts of the brain. The illustration shows the mammalian system.
+
+The '''visual system''' is the part of the nervous system which allows organisms to visual perception|see.
+It interprets the information from visible light to build a representation of the world surrounding the body. The visual system has the complex task of (re)constructing a three dimensional world from a two dimensional projection of that world. The psychological manifestation of visual information is known as visual perception.
+
+Introduction
+This article mostly describes the visual system of mammals, although other "higher" animals have similar visual systems. In this case, the visual system consists of:
+
+ The eye, especially the retina
+ The optic nerve
+ The optic chiasma
+ The optic tract
+ The lateral geniculate nucleus
+ The optic tectum (superior colliculus)
+ The optic radiation
+ The visual cortex
+ The visual association cortex
+
+Different species are able to see different parts of the light spectrum; for example, bees can see into the ultraviolet,J Bellingham, SE Wilkie, AG Morris, JK Bowmaker and DM Hunt (1997), "Characterisation of the ultraviolet-sensitive opsin gene in the honey bee, Apis mellifera", ''European Journal of Biochemistry'', Vol '''243''', 775-781
+ while pit vipers can accurately target prey with their infrared imaging sensors.	     AB Safer and MS Grace (2004),   "Infrared imaging in vipers: differential responses of crotaline and viperine snakes to paired thermal targets". ''Behav Brain Res.'' '''154'''(1):55-61. 2004 Sep 23. ''
+
+
+Category:Vision

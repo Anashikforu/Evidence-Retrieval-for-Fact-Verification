@@ -1,0 +1,30 @@
+{{infobox UK place
+ |country =Scotland
+ |official_name= Hamilton
+ |gaelic_name= Hamaltan
+ |scots_name= Hamiltoun
+| population = 48,546
+| population_ref =  (2001 census)
+  |os_grid_reference= NS712557
+ |latitude=55.77742
+ |longitude=-4.05505
+ |unitary_scotland= South Lanarkshire
+ |lieutenancy_scotland= Lanarkshire
+ |constituency_westminster= Lanark and Hamilton East
+ |constituency_westminster1= Rutherglen and Hamilton West (UK Parliament constituency)|Rutherglen and Hamilton West
+ |constituency_scottish_parliament= Hamilton South (Scottish Parliament constituency)|Hamilton South
+ |constituency_scottish_parliament1=Hamilton North and Bellshill (Scottish Parliament constituency)|Hamilton North and Bellshill
+ |constituency_scottish_parliament2=Central Scotland (Scottish Parliament electoral region)|Central Scotland
+ |post_town= HAMILTON
+|postcode_district = ML3
+ |postcode_area= ML
+ |dial_code= 01698
+ |static_image=
+ |static_image_caption=
+ |london_distance=
+ |edinburgh_distance=
+ }}
+
+'''Hamilton''' () is a town in South Lanarkshire, Scotland. It is the where the council headquarters for South Lanarkshire are situated.
+
+Category:Towns in South Lanarkshire

@@ -1,0 +1,51 @@
+{{taxobox
+| name = Stegosauria
+| fossil_range = Middle Jurassic &ndash; Lower Cretaceous, 176&ndash;100 mya
+| image = Stegosaurus 01.jpg
+| image_caption = Fossil skeleton of a ''Stegosaurus'', National Museum of Natural History
+| regnum = Animalia
+| classis = Sauropsida
+| superordo = Dinosauria
+| ordo = Ornithischia
+| subordo = Thyreophora
+| infraordo = '''Stegosauria'''
+| parent_authority = Othniel Charles Marsh|Marsh, 1877
+| authority = Marsh, 1880}}
+
+
+The '''Stegosaurs''' were a group of dinosaurs in the suborder Thyreophora. They have small heads, peg-like teeth and vertical bony plates and spines on their back and tail. They flourished from the Upper Jurassic to the Lower Cretaceous. 
+
+ Classification 
+The '''Stegosauria''' was originally named as an order by Othniel Charles Marsh|O.C. Marsh in 1877.Marsh O.C. 1877. New order of extinct Reptilia (Stegosauria) from the Jurassic of the Rocky Mountains. ''American Journal of Science'', '''14'''(ser.3):513-514. Now it is treated as an infraorder or suborder (or simply a clade) within '''Thyreophora''', the armoured dinosaurs. It includes the families '''Huayangosauridae''' and '''Stegosauridae'''.
+
+The '''Huayangosauridae''' were an early family of stegosaurs which lived during the Middle Jurassic. They were smaller than later stegosaurs and had shorter and higher skulls. Currently, the only confirmed genus included is the type genus ''Huayangosaurus'' of China. The poorly-known remains of ''Regnosaurus'' from England, however, indicate it too could be a member. Its lower jaw is very similar to the former. 
+
+The vast majority of stegosaurs being to the '''Stegosauridae''', found in the later part of the Jurassic and the early Cretaceous. It includes the well-known ''Stegosaurus''. The family is widespread, with members across the Northern Hemisphere and Africa.
+
+'''Suborder Thyreophora'''
+
+'''Infraorder Stegosauria'''
+ '''Family Huayangosauridae'''
+ ''Huayangosaurus'' (Sichuan, China)
+?''Regnosaurus'' (Sussex, England)
+ '''Family Stegosauridae'''
+ ''Adratiklit'' – (Morocco)
+ ''Chialingosaurus'' – (Sichuan, China)
+ ''Chungkingosaurus'' – (Chongqing, China)
+ ''Dacentrurus'' – (England, France & Spain)
+ ''Hesperosaurus'' – (Wyoming, USA)
+ ''Miragaia (dinosaur)|Miragaia'' – (Portugal) 
+ ''Monkonosaurus'' – (Tibet, China)
+ ''Paranthodon'' – (South Africa)
+ ''Wuerhosaurus'' – (Xinjiang, Western China)
+ ''Kentrosaurus'' – (Tanzania, Africa)
+ ''Lexovisaurus''  – (England & France)
+ ''Stegosaurus'' – (Wyoming, USA)
+ ''Tuojiangosaurus'' – (Sichuan, China)
+ ?''Craterosaurus'' – (Bedfordshire, England)
+''Jiangjunosaurus'' – (Xinjiang, Western China)
+
+ '''Uncertain placement''' (''incertae sedis'')
+ ''Gigantspinosaurus'' – (Sichuan, China)
+
+Category:Stegosaurs| 

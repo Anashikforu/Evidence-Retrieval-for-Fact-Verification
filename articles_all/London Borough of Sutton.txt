@@ -1,0 +1,25 @@
+{{ Infobox London Borough | 
+   name               = London Borough of Sutton |
+   short_name         = Sutton |
+   imagename          = Image:LondonSutton.png |
+   status             = London Boroughs|London borough | 
+   area_rank          = 310th |
+   area_km2           = 43.85|
+   ons_code           = 00BF | 
+   adminhq            = Sutton |
+   ethnicity          = 89.2% White4.7% British Asian|South Asian2.6% British African-Caribbean community|African-Caribbean |
+   url                =    leadership         = Leader & Cabinet |
+   mayor              = Cllr. Myfanwy Wallace |
+   mps                = Tom Brake  Paul Burstow |
+   gla_constituency   = Croydon and Sutton |
+   gla_member         = Andrew Pelling
+ }}
+
+The '''London Borough of Sutton''' is a London Boroughs|London borough in south west London.
+
+
+
+
+
+
+Category:London Borough of Sutton| 

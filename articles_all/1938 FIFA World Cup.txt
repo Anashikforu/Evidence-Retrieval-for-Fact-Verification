@@ -1,0 +1,293 @@
+
+The '''1938 FIFA World Cup''' was a association football|football sporting event that was held in France in 1938. Italy won the trophy after beating Hungary in the final.
+
+ Participants 
+= Asia =
+ Indonesia national football team|Dutch East Indies (INH) • Template:Dutch East Indies Squad 1938 World Cup|Squad
+
+= Europe =
+ Belgium national football team|Belgium (BEL) • Template:Belgium Squad 1938 World Cup|Squad
+ Czechoslovakia national football team|Czechoslovakia (TCH) • Template:Czechoslovakia Squad 1938 World Cup|Squad
+ France national football team|France (FRA) • Template:France Squad 1938 World Cup|Squad
+ Germany national football team|Germany (GER) • Template:Germany Squad 1938 World Cup|Squad
+ Hungary national football team|Hungary (HUN) • Template:Hungary Squad 1938 World Cup|Squad
+ Italy national football team|Italy (ITA) • Template:Italy Squad 1938 World Cup|Squad
+ Netherlands national football team|Netherlands (NED) • Template:Netherlands Squad 1938 World Cup|Squad
+ Norway national football team|Norway (NOR) • Template:Norway Squad 1938 World Cup|Squad
+ Poland national football team|Poland (POL) • Template:Poland Squad 1938 World Cup|Squad
+ Romania national football team|Romania (ROU) • Template:Romania Squad 1938 World Cup|Squad
+ Sweden national football team|Sweden (SWE) • Template:Sweden Squad 1938 World Cup|Squad
+ Switzerland national football team|Switzerland (SUI) • Template:Switzerland Squad 1938 World Cup|Squad
+
+= North and Central America =
+ Cuba national football team|Cuba (CUB) • Template:Cuba Squad 1938 World Cup|Squad
+
+= South America =
+ Brazil national football team|Brazil (BRA) • Template:Brazil Squad 1938 World Cup|Squad
+
+ Results 
+{{Round16
+
+
+|5 June – Marseille|'''|1
+|5 June – Paris (Olympique)|'''|1
+|5 June – Strasbourg|''')|'''6'''||5
+|5 June – Le Havre|'''|0
+|5 June – Reims|''''''|'''6'''||0
+|4 June – Paris (Princes)(replayed 9 June)|''''''|1 (2)
+|5 June – Lyon|'''|-
+|5 June – Toulouse(replayed 9 June)|'''|3 (1)
+
+|12 June – Paris (Olympique)|'''|1
+|12 June – Bordeaux(replayed 14 June)|''''''|'''1 (2)'''||1 (1)
+|12 June – Lille|''''''|'''2'''||0
+|12 June – Antibes|'''|0
+
+|16 June – Marseille|''''''|'''2'''||1
+|16 June – Rome|''''''|'''5'''||1
+
+|19 June – Paris (Olympique)|''''''|'''4'''||2
+
+|19 June – Bordeaux|''''''|'''4'''||2
+|RD1=First Round|widescore=true}}
+
+= First round =
+{{football box
+|date = 4 June 1938
+|time = 17:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 1–1
+|aet = yes
+|report = |team2 = 
+|goals1 = André Abegglen|Abegglen 
+|goals2 = Josef Gauchel|Gauchel 
+|stadium = Parc des Princes, Paris
+|attendance = 27,152
+|referee = John Langenus (Belgian Football Association|Belgium) }}
+----
+{{football box
+|date = 5 June 1938
+|time = 17:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 6–0
+|report = |team2 = 
+|goals1 = Vilmos Kohut|Kohut 
+|goals2 =
+|stadium = Stade Auguste Delaune|Vélodrome Municipal, Reims
+|attendance = 9,000
+|referee = Roger Conrié (French Football Federation|France) }}
+----
+{{football box
+|date = 5 June 1938
+|time = 
+|team1 = 
+|score = w/oSweden were awarded a walkover as Austria were unable to compete because of the Anschluss|Austrian Anschluss in March 1938.
+|report = 
+|team2 = 
+|goals1 = 
+|goals2 = 
+|stadium = Stade Gerland, Lyon
+|attendance = 
+|referee = }}
+----
+{{football box
+|date = 5 June 1938
+|time = 17:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 3–3 (Overtime (association football)|a.e.t.)
+|report = |team2 = 
+|goals1 = Héctor Socorro|Socorro 
+|goals2 = Silviu Bindea|Bindea 
+|stadium = Stadium de Toulouse|Stade Chapou, Toulouse
+|attendance = 7,000
+|referee = Giuseppe Scarpi (Italian Football Federation|Italy) }}
+----
+{{football box
+|date = 5 June 1938
+|time = 17:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 3–1
+|report = |team2 = 
+|goals1 = Émile Veinante|Veinante 
+|goals2 = Henri Isemborghs|Isemborghs 
+|stadium = Stade Olympique Yves-du-Manoir|Stade Olympique de Colombes, Paris
+|attendance = 30,454
+|referee = Hans Wuthrich|Hans Wüthrich (Swiss Football Association|Switzerland) }}
+----
+{{football box
+|date = 5 June 1938
+|time = 17:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 2–1 (Overtime (association football)|a.e.t.)
+|report = |team2 = 
+|goals1 = Pietro Ferraris|Ferraris 
+|goals2 = Arne Brustad|Brustad 
+|stadium = Stade Vélodrome, Marseille
+|attendance = 19,000
+|referee = Alois Beranek (German Football Association|Germany)Actually from Austria, but finally representing the German Football Association because of the Anschluss. }}
+----
+{{football box
+|date = 5 June 1938
+|time = 17:30 (Western European Summer Time|WEST)
+|team1 = 
+|score = Poland v Brazil (1938)|6–5 (Overtime (sports)#Association football|a.e.t.)
+|report = |team2 = 
+|goals1 = Leônidas da Silva|Leônidas 
+|goals2 = Friedrich Scherfke|Scherfke 
+|stadium = Stade de la Meinau, Strasbourg
+|attendance = 13,452
+|referee = Ivan Eklind (Swedish Football Association|Sweden) }}
+----
+{{football box
+|date = 5 June 1938
+|time = 18:30 (Western European Summer Time|WEST)
+|team1 = 
+|score = 3–0 (Overtime (sports)#Association football|a.e.t.)
+|report = |team2 = 
+|goals1 = Josef Košťálek|Košťálek RSSSF credits this goal as coming in the 111th minute.
+|stadium = Stade Jules Deschaseaux|Stade municipal, Le Havre
+|attendance = 11,000
+|referee = Lucien Leclerq (French Football Federation|France) }}
+
+ Replays 
+{{football box
+|date = 9 June 1938
+|time = 18:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 2–4
+|report = |team2 = 
+|goals1 = Wilhelm Hahnemann|Hahnemann 
+|goals2 = Eugen Walaschek|Walaschek 
+|stadium = Parc des Princes, Paris
+|attendance = 20,025
+|referee = Ivan Eklind (Swedish Football Association|Sweden) }}
+----
+{{football box
+|date = 9 June 1938
+|time = 18:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 2–1
+|report = |team2 = 
+|goals1 = Héctor Socorro|Socorro 
+|goals2 = Ștefan Dobay|Dobay 
+|stadium = Stadium de Toulouse|Stade Chapou, Toulouse
+|attendance = 8,000
+|referee = Alfred Birlem (German Football Association|Germany) }}
+----
+
+= Quarter-finals =
+{{football box
+|date = 12 June 1938
+|time = 17:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 0–2
+|report = |team2 = 
+|goals2 = György Sárosi|Sárosi RSSSF credits this goal as coming in the 90th minute.
+|stadium = Stade Victor Boucquey, Lille
+|attendance = 15,000
+|referee = Rinaldo Barlassina (Italian Football Federation|Italy) }}
+----
+{{football box
+|date = 12 June 1938
+|time = 17:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 8–0
+|report = |team2 = 
+|goals1 = Harry Andersson|H. Andersson RSSSF credits this goal as coming in the 89th minute.
+|stadium = Stade du Fort Carré, Antibes
+|attendance = 7,000
+|referee = Augustin Krist (Czechoslovak Football Association|Czechoslovakia) }}
+----
+{{football box
+|date = 12 June 1938
+|time = 17:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 1–3
+|report = |team2 = 
+|goals1 = Oscar Heisserer|Heisserer 
+|goals2 = Gino Colaussi|Colaussi 
+|stadium = Stade Olympique Yves-du-Manoir|Stade Olympique de Colombes, Paris
+|attendance = 58,455
+|referee = Louis Baert (Belgian Football Association|Belgium) }}
+----
+{{football box
+|date = 12 June 1938
+|time = 17:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = Battle of Bordeaux (1938 FIFA World Cup)|1–1 (Overtime (association football)|a.e.t.)
+|report = |team2 = 
+|goals1 = Leônidas da Silva|Leônidas 
+|goals2 = Oldřich Nejedlý|Nejedlý 
+|stadium = Stade Chaban-Delmas|Parc Lescure, Bordeaux
+|attendance = 22,021
+|referee = Pál von Hertzka (Hungarian Football Federation|Hungary) }}
+----
+
+ Replay 
+{{football box
+|date = 14 June 1938
+|time = 18:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 2–1
+|report = |team2 = 
+|goals1 = Leônidas da Silva|Leônidas 
+|goals2 = Vlastimil Kopecký|Kopecký 
+|stadium = Stade Chaban-Delmas|Parc Lescure, Bordeaux
+|attendance = 18,141
+|referee = Georges Capdeville (French Football Federation|France) }}
+
+= Semi-finals =
+{{football box
+|date = 16 June 1938
+|time = 18:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 5–1
+|report = |team2 = 
+|goals1 = Sven Jacobsson|Jacobsson 
+|goals2 = Arne Nyberg|Nyberg 
+|stadium = Parc des Princes, Paris
+|attendance = 20,000
+|referee = Lucien Leclerq (French Football Federation|France) }}
+----
+{{football box
+|date = 16 June 1938
+|time = 18:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 2–1
+|report = |team2 = 
+|goals1 = Gino Colaussi|Colaussi 
+|goals2 = Romeu Pellicciari|Romeu 
+|stadium = Stade Vélodrome, Marseille
+|attendance = 33,000
+|referee = Hans Wuthrich|Hans Wüthrich (Swiss Football Association|Switzerland) }}
+
+= Match for third place =
+{{football box
+|date = 19 June 1938
+|time = 17:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 2–4
+|report = |team2 = 
+|goals1 = Sven Jonasson|Jonasson 
+|goals2 = Romeu Pellicciari|Romeu 
+|stadium = Stade Chaban-Delmas|Parc Lescure, Bordeaux
+|attendance = 12,000
+|referee = John Langenus (Belgian Football Association|Belgium) }}
+
+= Final =
+
+{{football box
+|date = 19 June 1938
+|time = 17:00 (Western European Summer Time|WEST)
+|team1 = 
+|score = 2–4
+|report = |team2 = 
+|goals1 = Pál Titkos|Titkos 
+|goals2 = Gino Colaussi|Colaussi RSSSF credits the goal in the 82nd minute as coming in the 85th minute.
+|stadium = Stade Olympique Yves-du-Manoir|Stade Olympique de Colombes, Paris
+|attendance = 45,000
+|referee = Georges Capdeville (French Football Federation|France) }}
+
+Italy national football team|Italy won the championship.
+
+Category:Football in France

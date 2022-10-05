@@ -1,0 +1,29 @@
+{{Taxobox
+| name = Setzer's mouse-tailed dormouse
+| image = 
+| status = EN
+| status_system = iucn2.3
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Rodentia
+| subordo = Sciuromorpha
+| familia = Gliridae
+| subfamilia = Leithiinae
+| genus = ''Myomimus''
+| binomial = ''Myomimus setzeri''
+| binomial_authority = Rossolimo, 1976
+| synonyms = }}
+
+The '''Setzer's mouse-tailed dormouse''' (''Myomimus setzeri'') is a species of dormouse in the Gliridae family. It is Endemism|endemic to Iran. 
+
+ Source 
+ Baillie J. 1996.  
+ Other websites 
+ 
+
+
+
+
+
+Category:Myomimus

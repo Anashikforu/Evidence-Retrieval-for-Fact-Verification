@@ -1,0 +1,26 @@
+{{Infobox French commune
+|name                   = Lignières
+|commune status         = Communes of France|Commune
+|image                  = Lignières village.jpg
+|image coat of arms     = Blason Lignières.svg
+|region                 = Grand Est
+|department             = Aube
+|arrondissement         = Troyes
+|canton                 = Les Riceys
+|INSEE                  = 10196
+|postal code            = 10130
+|mayor                  = Jean-Claude Thomas
+|term                   = 2014-2020
+|intercommunality       = Communauté de communes du Chaourçois et du Val d'Armance|Chaourçois et Val d'Armance
+|coordinates            = 
+|elevation m            = 224
+|elevation min m        =
+|elevation max m        =
+|area km2               = 25.79
+|population             = 
+|population date        = 
+|population footnotes   = 
+|demonym                = Daubiers, Daubières}}
+'''Lignières''' is a Commune in France|commune of the Aube ''departments of France|département'' in the north-central part of France.
+
+Category:Communes in Aube|Lignières, Aube

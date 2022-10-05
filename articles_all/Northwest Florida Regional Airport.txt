@@ -1,0 +1,36 @@
+Location of the Airport in Florida
+| type         = Public / Military
+| owner-oper   = United States Air Force
+| city-served  = Fort Walton Beach, Destin, Florida|Destin
+| location     = Valparaiso, Florida|Valparaiso, Florida
+| hub          =
+| elevation-f  = 87
+| elevation-m  = 27
+| coordinates  = 
+| website      = | r1-number    = 12/30
+| r1-length-f  = 12,005
+| r1-length-m  = 3,659
+| r1-surface   = Asphalt
+| r2-number    = 1/19
+| r2-length-f  = 10,012
+| r2-length-m  = 3,052
+| r2-surface   = Asphalt
+| stat-year    = 2006
+| stat1-header = Aircraft operations
+| stat1-data   = 126,060
+| footnotes    = Source: Federal Aviation Administration, effective 2008-07-31.
+}}
+'''Northwest Florida Regional Airport''' (airport code '''KVPS''') serves the city of Fort Walton Beach, Florida.
+
+The following Airlines serve Northwest Florida Regional Airport: American Airlines
+ Continental Airlines
+ Delta Air Lines|Delta Airlines
+ US Airways
+ Vision Airlines
+ Facilities and aircraft 
+
+Northwest Florida Regional Airport and Eglin Air Force Base share two runways: 12/30 with a 12,005 x 300&nbsp;ft (3,659 x 91&nbsp;m) asphalt/concrete surface and 1/19 with a 10,012 x 300&nbsp;ft (3,052 x 91&nbsp;m) asphalt pavement. For the 12-month period ending March 31, 2006, the airport had 126,060 aircraft operations, an average of 345 per day: 71% military aviation|military, 19% airline|scheduled commercial, 8% general aviation and 2% air taxi.
+
+The airport has a 110,000 sq. ft. airport terminal|airport passenger terminal building. It has three second-level gates with passenger jet ways and three ground-level commuter gates with regional jet boarding bridges
+
+Category:Airports in Florida

@@ -1,0 +1,22 @@
+
+{{Taxobox
+| name = ''Mamenchisaurus''
+| image = File:Mamenchisaurus in Japan.jpg
+| image_width = 230px
+|fossil_range=Upper JurassicLower Cretaceous 161–114.4 mya
+| regnum = Animalia
+| classis = Sauropsida
+| superordo = Dinosauria
+| ordo = Saurischia
+| subordo = Sauropodomorpha
+| infraordo = Sauropoda
+| familia = Mamenchisauridae
+| genus = '''''Mamenchisaurus'''''}}
+
+'''''Mamenchisaurus''''' was a long-necked, plant-eating sauropod dinosaur.Sues, Hans-Dieter (1997). "Sauropods". In James Orville Farlow; M.K. Brett-Surman (eds) ''The Complete Dinosaur''. Bloomington: Indiana University Press. pp. 274. ISBN 0-253-33349-0 It had one of the longest necks of any known dinosaur. ''Mamenchisaurus'' was first discovered in 1952 on the construction site of the Yitang Highway in Sichuan Province of China. There are a number of species.Upchurch, Paul; Barrett, Paul M.; Dodson, Peter 2004. "Sauropoda" in ''The Dinosauria''. Weishampel, David B., Dodson, Peter., Osmólska, Halszka. (2nd ed). Berkeley, Calif.: University of California Press. ISBN 978-0-520-94143-4
+
+Its neck was about 46 feet (14 m). It had 19 vertebrae in its neck, more than any other known dinosaur. ''Mamenchisaurus'' was about 70 to 80 feet (21 to 25 m) long and weighed roughly 12 tons (11 tonnes). 
+
+Its hind legs were longer than the front legs; these hind legs were similar to the legs of ''Diplodocus''. Its skull however, was box-shaped, unlike ''Diplodocus''' elongated snout.
+
+Category:Sauropods

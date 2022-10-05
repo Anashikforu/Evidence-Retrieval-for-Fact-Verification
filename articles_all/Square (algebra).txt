@@ -1,0 +1,16 @@
+
+
+In mathematics, a '''square''' of a number means the result of multiplying the number by itself. For example, the square of 6 is 6×6 = 36.
+
+It is named this because squaring a number gives the area of a square.
+
+Squaring a number can also be written as 62 = 36. Squaring is the same as Exponentiation|raising to the power of 2.
+
+Many of the units of area are squares. For example, a ''square meter'' means the area equal to the area of a rectangle which is one meter tall and one meter wide.
+
+Related pages
+ Square number
+
+
+
+Category:Algebra

@@ -1,0 +1,33 @@
+{{Infobox DMU 
+ |name = British Rail Class 128    
+ |image = British Rail Class 128 train 55993.jpg   
+ |imagesize = 240px   
+ |background = #0033cc   
+ |caption = 55993 at Peterborough in the Late 1980s in Post Office Red Livery. Gangways have been removed.
+ |Manufacturer =British United Traction   
+|Family = Parcels (train)|Parcels
+ |Operator = British Rail   
+ |Formation = 
+ |Built =10  
+ |LinesServed =    
+ |InService = 1959-1991   
+ |CarLength = 64 ft 6 in (19.69m)
+ |CarWidth = 9 ft 3 in (2.83m)
+ |CarHeight = 
+ |Weight =  40-41 tonnes  
+ |Capacity =    
+ |MaxSpeed =  70 mph (112 km/h) 
+ |Gauge =     
+ |Traction =    
+ |Engine =  Two Leyland 230 hp 
+ |SafetySystem=   
+ |}} 
+'''British Rail Class 128''' was a class of diesel multiple unit, built for British Rail. Introduced in 1959, ten of the class were built by British United Traction, each with two 230 hp Leyland engines. The class was built specifically for parcels, and did not feature any passenger accommodation; fitted out with parcel racks and bike storages at each end. The last members of the class were withdrawn in 1991, and none were preserved.
+
+Other websites
+
+
+
+
+
+Category:British Rail diesel multiple units|128

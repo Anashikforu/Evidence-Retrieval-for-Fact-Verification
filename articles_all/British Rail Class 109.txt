@@ -1,0 +1,31 @@
+{{Infobox DMU
+|name = British Rail Class 109 
+|image = BR Class 109 Llangollen.jpg
+|imagesize = 240px
+|background = #0033cc
+|caption = Preserved unit 50416+56171.
+|Manufacturer = Wickham & Co
+|Operator = British Rail
+|Formation = 2 cars per trainset
+|Built = 1957
+|LinesServed = 
+|InService = 1957-
+|CarLength = 57 ft 0 in
+|CarWidth = 8 ft 3 in
+|CarHeight = 12 ft 4 1/2 in
+|Weight = 37 tons 10 cwt
+|Capacity = 
+|MaxSpeed = 70 mph (112 km/h) 
+|Gauge = 
+|Traction = 
+|Engine =
+|SafetySystem=
+ |}}
+The British Rail '''Class 109''' is a class of 2-car diesel multiple units built in 1957 by Wickham & Co.  Five two-car units were built featuring an unusual body design.
+
+
+
+
+
+Category:British Rail diesel multiple units|109
+The units soon became non-standard and two were sold back to the manufacturer who exported them to Trinidad and Tobago.  Another unit was converted into departmental service, and survived in BR ownership until the early 1980s.

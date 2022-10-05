@@ -1,0 +1,14 @@
+
+
+'''Patrolling''' is the term used to describe when multiple users are reviewing alterations to the wiki in order to verify that they comply with the wiki rules.  This is performed in order to quickly undo undesirable edits, link spam, copyright violations and vandalism.
+
+After reviewing a change, people can mark changes as having been "patrolled" or "approved", which allows other people to skip that change and review another change.  This allows people (those who can see it) to coordinate their patrolling activity, such that edits gets checked over once, but with less wasted effort (different people checking the same edit)
+
+The two patrolling mechanisms are:
+ Help:Patrolled edits|Patrolled edits
+ Help:Patrolled pages|Patrolled pages
+
+Related pages
+
+
+Category:Help|

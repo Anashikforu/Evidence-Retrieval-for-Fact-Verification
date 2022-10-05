@@ -1,0 +1,21 @@
+{{Infobox Football club
+|clubname=Al Sadd SC
+|current=
+|fullname=Al Sadd Sports Club  ( Arabic : نادي السد الرياضي )
+|nickname=''Al Zaeem'' (The Boss) ''Al Dheeb'' (The Wolf) ''Al Alami'' (The World Class)
+|founded=
+|ground=Jassim Bin Hamad StadiumDoha, Qatar
+|capacity=15,000
+|chairman=Mohammed bin Hamad bin Khalifa Al Thani|Mohammed bin Hamad Al Thani
+|manager=Hussein Amotta
+|captain=
+|league=Qatar Stars League
+|season=2014–15 Qatar Stars League|2014–15
+|position=Qatar Stars League, '''2nd'''
+|pattern_la1 = _cska home 1011|pattern_b1 = _alsadd1112h|pattern_ra1 = pattern_sh1|type_b1 = PNG|leftarm1 = FFFFFF|body1 = FFFFFF|rightarm1 = FFFFFF|shorts1 = FFFFFF|socks1 = FFFFFF|pattern_la2 = _cska home 1011|pattern_b2 = _alsadd1112a|type_b2 = PNG|leftarm2 = 353535|body2 = 353535|rightarm2 = 353535|shorts2 = 353535|socks2 = 353535|website = '''Al-Sadd S.C.''' is a Association football|football club which plays in Qatar.
+
+
+
+
+Category:Qatari football clubs
+Category:Sport in Doha

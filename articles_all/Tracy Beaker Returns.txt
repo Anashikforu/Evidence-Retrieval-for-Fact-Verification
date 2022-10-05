@@ -1,0 +1,26 @@
+
+{{Infobox television
+ | show_name          = Tracy Beaker Returns
+ | image              = 
+ | caption            = 
+ | genre              = Children's television series|Children's Drama (genre)|Drama
+ | creator            = Jacqueline Wilson, and Tracy Beaker Productions Ltd
+ | starring           = List of Tracy Beaker series characters|Current Cast
+ | country            = United Kingdom
+ | num_episodes       = 39
+ | list_episodes      = List of Tracy Beaker Returns episodes
+ | executive_producer = Josephine Ward
+ | producer           = Gina Cronk
+ | runtime            = 28 minutes
+ | distributor        = BBC Worldwide
+ | network            = CBBC Channel|CBBC  
+ | picture_format     = 576i 
+1080i
+ | first_aired        = 
+ | last_aired         = 
+ | preceded_by        = ''The Story of Tracy Beaker (TV series)|The Story of Tracy Beaker''
+| followed_by = ''The Dumping Ground''
+| num_series         = 3
+ }}
+'''''Tracy Beaker Returns''''' was a United Kingdom|British television series for children starring Dani Harmer. It was first broadcast on 8 January 2010, on CBBC and BBC HD. It won the BAFTA award. It was replaced by a new series called ''The Dumping Ground'' in 2013.
+

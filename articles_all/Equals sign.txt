@@ -1,0 +1,23 @@
+The '''equal sign''', '''equals sign''', or "'''='''" is a mathematical symbol used to indicate equality (mathematics)|equality. It looks like two parallel (geometry)|parallel horizontal lines. The equals sign is placed between the things stated to be exactly equal or the same. Computers display the equals sign with the Unicode or ASCII character 003D (in hexadecimal).
+
+ Similar symbols 
+The symbol used to say when items are '''not equal''' is "≠" (slashed equal sign). 
+
+There are several symbols that can be used to say items are "approximation|approximately the same," "similar to" or "about equal." Some of these symbols include:
+
+ "≈" (two tildes or Wave|wavy lines, often used for "approximately equal")
+ "⩰" (two tildes above two lines)
+ "≅" (one tilde above two lines, often used in modular arithmetic to state a congruence relation)
+ "≃" (one tilde above one line)
+ "~" (one wavy line, often used for Relation (mathematics)|mathematical relations)
+ "≐" (two lines with a dot above them, often used for "is defined as")
+ "≡" (three lines, often used for equivalence)
+
+Each of these symbols has w:List_of_mathematical_symbols#Symbols_based_on_equality|more than one possible meaning, and are all used to state that two things are about equal (or equivalent in some way).
+
+ Related pages 
+
+ Equality (mathematics)
+ List of mathematical symbols
+
+Category:Mathematical notation

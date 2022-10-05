@@ -1,0 +1,94 @@
+
+The '''province of Ravenna''' () is a Provinces of Italy|province in the Emilia-Romagna region in Northeast Italy, on the Adriatic Sea. Its Capital city|capital is the city of Ravenna.
+
+History
+The province was created in 1859.
+
+Geography
+
+The province of Ravenna is in the eastern part of the Emilia-Romagna region along the Adriatic Sea.
+
+It has an area of  southeast of Bologna, the capital of the region.
+
+The province borders the province of Ferrara to the north, the Metropolitan City of Bologna to the west, the province of Florence in Tuscany to the southwest and the province of Forlì-Cesena to the south.
+
+
+
+The highest point in the province is ''Monte Macchia dei Cani'' ( high.
+
+The main rivers in the province are:
+ Reno (river)|Reno - 211&nbsp;km
+ Lamone (river)|Lamone - 90&nbsp;km
+ Senio - 92&nbsp;km
+ Uniti - 12&nbsp;km
+ Montone (river)|Montone - 140&nbsp;km
+ Bidente-Ronco - 135&nbsp;km
+ Bevano - 33&nbsp;km
+ Savio (river)|Savio - 126&nbsp;km
+
+=Climate=
+The area in ''Punta Marina Terme'' (part of the Ravenna Commune on the coast), at an altitude of about , is characterized by a climate with relatively high temperatures and precipitation throughout the year. The Köppen climate classification type for the climate at Punta Marina Terme is a "Humid Subtropical Climate" and of the subtype "'''Cfa'''".
+
+The average amount of precipitation for the year in Punta Marina Terme is . There is an average of 71.0 days of precipitation, with the most precipitation days in November with 7.4 days and the least precipitation days in July with 4.4 days.
+
+The average temperature for the year in Punta Marina Terme is .
+
+Population
+There are 391,414 persons living in the province (January 2017), for a population density of  inhabitants/km².
+
+'''Evolution of the population in the province'''
+
+
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:500 height:373
+PlotArea = left:50 bottom:30 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:450000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1961 text:1961
+ bar:1971 text:1971
+ bar:1981 text:1981
+ bar:1991 text:1991
+ bar:2001 text:2001
+ bar:2011 text:2011
+ bar:2017 text:2017
+
+PlotData=
+ color:barra width:30 align:left
+
+  bar:1961 from:0 till: 329559
+  bar:1971 from:0 till: 351876
+  bar:1981 from:0 till: 358654
+  bar:1991 from:0 till: 350454
+  bar:2001 from:0 till: 347847
+  bar:2011 from:0 till: 384761
+  bar:2017 from:0 till: 391414
+
+PlotData=
+  bar:1961 at: 329559 fontsize:S text: 329,559 shift:(-13,5)
+  bar:1971 at: 351876 fontsize:S text: 351,876 shift:(-18,5)
+  bar:1981 at: 358654 fontsize:S text: 358,654 shift:(-18,5)
+  bar:1991 at: 350454 fontsize:S text: 350,454 shift:(-18,5)
+  bar:2001 at: 347847 fontsize:S text: 347,847 shift:(-18,5)
+  bar:2011 at: 384761 fontsize:S text: 384,761 shift:(-18,3)
+  bar:2017 at: 391414 fontsize:S text: 391,414 shift:(-18,5)
+
+
+
+Administration
+The following table shows the 18 Comune|''comuni'' with the population, and the area and altitude.
+
+
+
+Category:Provinces of Emilia-Romagna|Ravenna

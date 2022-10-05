@@ -1,0 +1,33 @@
+{{Infobox DMU
+|name = British Rail Class 100 
+|image =BR_Class_100.jpg
+|imagesize = 300px
+|background = #0033cc
+|caption = Class 100, no. 56301 at County School Station on the Mid-Norfolk Railway on 17th December 2001. This unit was the first heritage DMU vehicle to enter preservation.
+|Manufacturer = BREL
+|Operator = British Rail
+|Formation = 1 cars per trainset
+|Built = 1956-1958 
+|LinesServed = 
+|InService = 1956-1988
+|CarLength = 
+|CarWidth = 9 ft 3 in
+|CarHeight = 12 ft 8 1/2in 
+|Weight = 38 tons 5 cwt
+|Capacity = 
+|MaxSpeed = 70 mph (112 km/h)
+|Gauge = 
+|Traction = 
+|Engine = 
+|SafetySystem=
+ |}}
+
+The British Rail '''Class 100''' diesel multiple units were built by Gloucester Railway Carriage & Wagon Company Limited from 1956 to 1958, designed and built in collaboration with the Transport Sales Dept. of TI Group|T.I. (Group Services) Ltd. 
+
+
+
+
+
+
+Category:British Rail diesel multiple units|100
+Category:BREL locomotives

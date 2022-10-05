@@ -1,0 +1,48 @@
+
+The '''Ruy Lopez''', also called the ''Spanish Opening'', is an ancient chess List of chess openings|opening. It is named after the Spanish priest Ruy López de Segura. He may have invented the opening. These are the opening moves:
+
+1. e4 e5
+2. Nf3 Nc6
+3. Bb5
+
+The Ruy Lopez is one of the most common and well liked openings, with many ways to play it. It has always been popular in master chess. White's idea is to try and undermine Black's center by attacking the Knight with his Bishop. However, White will not be able to capture the pawn immediately:
+
+3.... a6
+4.Bxc6 dxc6
+5.Nxe5 Qd4 recovers the pawn.
+
+For this reason White usually plays a longer-term strategy, starting with
+
+3.... a6
+4. Ba4 Nf6
+5. 0-0
+Here Black has two main options. They can either open the game with 5... Nxe4 or keep the game closed and more positional with 5... Be7. These openings are called the Open Ruy Lopez and the Closed Ruy Lopez respectively. 
+
+ Closed Variation 
+The closed variation of the Ruy Lopez comes after these moves:
+
+# e4 e5
+# Nf3 Nc6
+# Bb5 Nf6
+# 0-0 Be7
+
+This line will typically lead to a closed :en:Pawn_structure|pawn structure. White's thematic idea will be to break open the center with d4 while Black will try to prevent or minimize the damage from this idea. Play typically continues:
+
+ 5. Re1 defending the pawn on e4
+ 5... b5 kicking the Bishop back even father and preventing White from capturing on c6 followed by capturing on e5
+ 6. Bb3 0-0
+ 7. c3
+
+This is the main move for White however White can also play 7. h3 or 7. a4. These moves are played in order to avoid the infamous Marshal Variation. 
+
+
+
+
+
+
+ECO code: C60–C99. ECO is the ''Encyclopaedia of chess openings''.
+
+
+
+Category:Chess openings
+

@@ -1,0 +1,5 @@
+'''Bern''' can mean:
+ Bern (canton), the Swiss canton
+ Bern (district), a district in the canton
+ Bern (city), the capital city of the canton
+

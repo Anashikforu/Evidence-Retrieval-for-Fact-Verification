@@ -1,0 +1,45 @@
+{{Infobox Scientist |name              =Friedrich Hund
+ |box_width         =
+ |image             =Hund, Friedrich 1920er Göttingen.jpg
+ |image_width       =
+ |caption           =Friedrich Hund, Göttingen (~&nbsp;1925)
+ |birth_date        =4 February 1896
+ |birth_place       =Karlsruhe
+ |death_date        =31 March 1997 (aged 101)
+ |death_place       =Göttingen
+ |residence         =
+ |citizenship       =
+ |nationality       =Germany|German
+ |ethnicity         =
+ |field             =physics
+ |work_institutions =
+ |alma_mater        =
+ |doctoral_advisor  =
+ |doctoral_students =
+ |known_for         =
+ |author_abbrev_bot =
+ |author_abbrev_zoo =
+ |influences        =
+ |influenced        =
+ |prizes            =
+ |footnotes         =
+ |signature         = }}
+
+'''Friedrich Hund''' (4 February 1896  31 March 1997) was a Germany|German physicist from Karlsruhe known for his work on atoms and molecules. He worked at the Universities of  Rostock, University of Leipzig|Leipzig, University of Jena|Jena, University of Frankfurt am Main|Frankfurt am Main, University of Göttingen|Göttingen and was a member of the International Academy of Quantum Molecular Science.
+
+He had published more than 250 papers and essays and made contributions to Quantum mechanics|quantum theory about the structure of the atom and the structure of molecular spectra. The Hund's rule was named after him and in 1926 he discovered the later so-called quantum tunneling|tunneling effect.
+
+His life
+
+Hund worked with well known physicists as Erwin Schrödinger|Schrödinger, Paul Dirac|Dirac, Werner Heisenberg|Heisenberg,  Max Born, and Walter Bothe. At that time, he was Born's assistant, working with quantum mechanics.
+
+After his studies of mathematics, physics, and geography in Marburg and Göttingen, he worked as a private lecturer in theoretical physics at Göttingen  in 1925, professor at Rostock in 1927, Leipzig in 1929, Jena in 1946, Frankfurt/Main in 1951 and from 1957 again in Göttingen. Additionally he stayed in Copenhagen (1926) with Niels Bohr and lectured on the atom at Harvard University, Cambridge, Massachusetts in 1928.
+
+On the occasion of his 100th birthday, the book: Friedrich Hund: Geschichte der physikalischen Begriffe history of physics terms (Heidelberg, Berlin, Oxford), Spektrum, Akademie Verlag 1996,  was published. A review was also written by Werner Kutzelnigg.
+
+Friedrich Hund became an honorary citizen of Jena, and a street in Jena was named after him. Since June 2004, a part of the new building of the Physics Department was given the Friedrich-Hund-Platz 1 address. The same name was chosen for the Institute for Theoretical Physics at the University of Göttingen.
+
+Hunds cases
+The '''Hund's cases''', which are particular regimes in molecular angular momentum coupling, and the '''list of Hund's rules|Hund's rules''', which govern electron configurations, are important in spectroscopy and quantum chemistry. In chemistry, the first of Hund's rules is especially important and is often referred to as simply Hund's rule of maximum multiplicity|Hund's rule.
+
+Category:People from Karlsruhe

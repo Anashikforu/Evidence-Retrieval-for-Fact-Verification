@@ -1,0 +1,16 @@
+
+Image:Action potential.svg|thumb|300px|Approximate plot of a typical action potential
+
+A '''nerve impulse''' is the way nerve cells (neurons) communicate with one another. Nerve impulses are mostly electricity|electrical signals along the dendrites to produce a nerve impulse or '''action potential'''.
+The action potential is the result of Ion|ions moving in and out of the cell.Eastern Kentucky University: 
+Image:Neuron.svg|thumb|left|Axons of neurons are wrapped by several myelin sheaths, which shield the axon from extracellular fluid.  There are short gaps between the myelin sheaths known as nodes of Ranvier where the axon is directly exposed to the surrounding extracellular fluid.
+
+
+ Special faster connections 
+
+
+Faster '''electrical synapses''' are used in escape reflexes, the retina of vertebrates, and the heart. They are faster because they do not need the slow diffusion of neurotransmitters across the synaptic gap. Therefore, electrical synapses are used whenever fast response and coordination of timing are crucial. 
+
+These synapses connect the presynaptic and postsynaptic cells directly together.  Thus, presynaptic action potential directly stimulates the postsynaptic cell.
+
+Category:Physiology

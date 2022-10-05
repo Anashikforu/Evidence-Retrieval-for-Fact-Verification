@@ -1,0 +1,32 @@
+{{Infobox Constellation|
+name = Hercules |
+abbreviation = Her
+genitive = Herculis |
+pronounce =  |
+symbolism = Heracles |
+RA =  |
+dec=  |
+family = Hercules Family|Hercules |
+quadrant = NQ3 |
+areatotal = 1225 |
+arearank = 5th |
+numbermainstars = 14, 22 |
+numberbfstars = 106 |
+numberstarsplanets = 15 |
+numberbrightstars = 2 |
+numbernearbystars = 9 |
+brighteststarname = Beta Herculis|β Her (Kornephoros)|
+starmagnitude = 2.78 |
+neareststarname = Gliese 661 |
+stardistancely = 20.62 |
+stardistancepc = 6.32 |
+numbermessierobjects = 2 | 
+meteorshowers = Tau Herculids |
+bordering = Draco (constellation)|DracoBoötesCorona BorealisSerpens|Serpens CaputOphiuchusAquila (constellation)|AquilaSagittaVulpeculaLyra|
+latmax = North Pole|90 |
+latmin = 50th parallel south|50 |
+month = July |
+notes=}}
+'''Hercules''' is a constellation in the northern part of the sky. It represents the mythological Hercules of Greek mythology. It was one of the 48 constellations listed by an astronomer known as Ptolemy around the year 150 Common Era|CE. It is now one of the 88 modern constellations on the International Astronomical Union's list.
+
+Category:Constellations listed by Ptolemy

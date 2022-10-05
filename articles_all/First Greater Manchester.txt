@@ -1,0 +1,32 @@
+{{Infobox Bus transit
+|name            = First Greater Manchester
+|image           = First Greater Manchester.jpg
+|image_size      = 250
+|image_caption   = Wright Eclipse Gemini bodied Volvo B9TLin October 2012
+|company_slogan  = 
+|parent          = FirstGroup
+|founded         = 1996
+|headquarters    = Oldham
+|locale          = North West England
+|service_area    = Greater Manchester (some services overlap into other counties)
+|service_type    = Bus services
+|hubs            = ManchesterMetropolitan Borough of Bolton|BoltonMetropolitan Borough of Bury|BuryMetropolitan Borough of Oldham|OldhamMetropolitan Borough of Rochdale|RochdaleCity of Salford|Salford
+|stations        =
+|depots          = 5
+|lounge          =
+|fleet           = 673 (March 2013)
+|ridership       =
+|fuel_type       =
+|operator        =
+|ceo             =
+|website         = '''First Greater Manchester'''
+Sources
+
+
+Other websites
+
+
+
+Category:British transport companies
+Category:Greater Manchester
+Category:1996 establishments in England

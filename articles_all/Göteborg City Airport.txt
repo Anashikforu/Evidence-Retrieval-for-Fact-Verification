@@ -1,0 +1,39 @@
+Location of airport in Västra Götaland
+|type         = Public
+|owner        =
+|operator     = Cityflygplatsen i  Göteborg AB
+|city-served  =
+|location     = Gothenburg
+|elevation-f  = 59
+|elevation-m  = 18
+|coordinates  = 
+|website      = |metric-elev  = Y
+|metric-rwy   = Y
+|r1-number    = 01/19
+|r1-length-f  = 6,868
+|r1-length-m  = 2,039
+|r1-surface   = Asphalt
+|r2-number    = 04/22
+|r2-length-f  = 2,934
+|r2-length-m  = 871
+|r2-surface   = Asphalt
+|stat-year    = 2009
+|stat1-header = Passengers total
+|stat1-data   = 728,890
+|stat2-header = International passengers
+|stat2-data   = 728,396
+|stat3-header = Domestic passengers
+|stat3-data   = 494
+|stat4-header = Landings total
+|stat4-data   = 30,297
+|footnotes    = Source: Swedish Aeronautical Information Publication|AIP at European Organisation for the Safety of Air Navigation|EUROCONTROL}}
+'''Gothenburg City Airport''' or '''Göteborg City Airport'''  is an airport on Hisingen above Gothenburg, Sweden. It was opened in 1940. It is the eighth biggest airport in Sweden, after Luleå Airport.
+
+Sources
+
+
+
+
+
+Category:Airports in Sweden
+Category:Buildings and structures in Gothenburg

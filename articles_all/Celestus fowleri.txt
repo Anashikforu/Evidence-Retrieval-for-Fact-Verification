@@ -1,0 +1,22 @@
+
+{{Taxobox
+| name = Celestus fowleri
+| status = DD 
+| status_system = IUCN2.3
+| status_ref = 
+| regnum = Animalia
+| phylum = Chordata
+| classis = Reptilia
+| ordo = Squamata
+| familia = Anguidae
+| genus = ''Celestus''
+| species = ''C. fowleri''
+| binomial = ''Celestus fowleri''
+| binomial_authority = Schwartz, 1971
+| synonyms = }}
+'''''Celestus fowleri''''' is a kind of lizard in the Anguidae family. It only lives in Jamaica.
+
+Sources
+
+
+Category:Anguids

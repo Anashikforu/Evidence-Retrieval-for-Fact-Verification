@@ -1,0 +1,19 @@
+'''UTC+08:00''' is the timezone for:
+ Brunei
+ China
+ Republic of China
+ Hong Kong
+ Indonesia (central areas)
+ Macau
+ Malaysia
+ Mongolia
+ Philippines
+ Singapore
+ Australian time zones|Western Australia - Australian Western Standard Time (AWST)
+
+
+
+Category:UTC offsets
+
+cs:Časové pásmo#UTC+8 H, AWST (Australian Western Standard Time)
+es:Huso horario#UTC+08:00, H

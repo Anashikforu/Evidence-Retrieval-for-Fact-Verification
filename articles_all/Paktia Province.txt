@@ -1,0 +1,28 @@
+{{Geobox|Province
+|country = Afghanistan
+|country_flag = true
+|name = Paktia
+|native_name = پکتیا 
+|image = Paktia in Afghanistan.svg
+|image_caption = Landscape in Paktia Province
+|map = Afghanistan-Paktia.png
+|map_caption = Map of Afghanistan with Paktia highlighted
+|capital = Gardez, Afghanistan|Gardez
+|capital_lat_d = 33.6
+|capital_long_d = 69.5
+|coordinates_region = AF
+|population_as_of = 2002
+|population = 415,000
+|population_note =|area = 6432
+|population_density = 
+|timezone = UTC+4:30
+|free_type = Languages of Afghanistan|languages
+|free = Pashto language|Pashto}}
+
+'''Paktia''' ( - Paktyā) is a province under Afghanistan. Its capital (city) is Gardez, Afghanistan|Gardez.  There are about 1.3 million people who live in the Province.  Most of the people are Pashtun people|Pashtun.
+
+Districts
+Paktia is made up of 14 districts|district (District Centers are given in parentheses):
+
+
+Category:Provinces of Afghanistan

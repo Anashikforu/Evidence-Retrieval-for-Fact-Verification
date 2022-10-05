@@ -1,0 +1,2 @@
+A '''keylogger''' is a piece of software or computer hardware which records keystrokes on a computer.EN 
+Category:Malware

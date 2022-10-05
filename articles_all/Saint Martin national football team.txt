@@ -1,0 +1,27 @@
+{{Infobox national football team
+| Name               = Saint Martin
+| Nickname           = Saint Swallows
+| Association        = Football Committee of Saint Martin
+| Sub-confederation  = Caribbean Football Union|CFU (Caribbean)
+| Confederation      = CONCACAF  (North America, Central America, West Indies|Caribbean)
+| Coach              = Jeffrey Wesley
+| Most caps          = Henri Emile
+| Top scorer         = 
+| Home Stadium       = Stade Alberic Richards
+| FIFA Trigramme     = SMN
+| FIFA Rank          = 
+| Elo Rank           = 
+| Elo max            = 162
+| Elo max date       = May 1990
+| Elo min            = 208
+| Elo min date       = September 2012
+| pattern_la1=_bluelower|pattern_b1=_bluestripes|pattern_ra1=_bluelower|
+|leftarm1=FFFF00|body1=FFFF00|rightarm1=FFFF00|shorts1=0000FF|socks1=FFFFFF|
+|pattern_la2=|pattern_b2=|pattern_ra2=|
+|leftarm2=FFFFFF|body2=FFFFFF|rightarm2=FFFFFF|shorts2=FFFFFF|socks2=FFFFFF|
+| First game         =  (Antigua and Barbuda; November 1, 1994) |
+| Largest win        = (Collectivity of Saint Martin; July 3, 2010) |
+| Largest loss       = (Kingston, Jamaica|Kingston, Jamaica; November 24, 2004) | 
+|Badge=|Badge_size=115}}
+'''Saint Martin national football team''' is the national football (soccer)|football team of the Collectivity of Saint Martin.
+

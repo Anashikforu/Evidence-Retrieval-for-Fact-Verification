@@ -1,0 +1,44 @@
+{{Infobox Constellation|
+name = Libra |
+abbreviation = Lib |
+genitive = Librae |
+symbology = the Weighing scale|Scale|
+RA = 15 |
+dec= −15 |
+areatotal = 538 |
+arearank = 29th |
+numbermainstars = 4, 6 |
+numberbfstars = 46 |
+numberstarsplanets = 3 |
+numberbrightstars = 2 |
+numbernearbystars = 2 |
+brighteststarname = Zubeneschamali (β Lib) |
+starmagnitude = 2.6 |
+neareststarname = HD 131977 |
+stardistance = 19.3 |
+numbermessierobjects = 0 |
+meteorshowers =May Librids |
+bordering =Serpens|Serpens CaputVirgo (constellation)|VirgoHydra (constellation)|HydraCentaurus (constellation)|Centaurus (corner)Lupus (constellation)|LupusScorpiusOphiuchus |
+latmax = 65 |
+latmin = 90 |
+month = June |
+notes=}}
+
+'''Libra''' (, symbol  to the east. It once represented the claws of Scorpius.
+
+ Some features 
+The '''brightest''' stars in Libra form a rectangle:
+
+ Alpha Librae|α Librae, Zubenelgenubi ("southern claw"), a visual binary;
+ Beta Librae|β Librae, Zubeneschamali ("northern claw");
+ Gamma Librae|γ Librae, Zubenelakrab ("scorpion's claw");
+ Sigma Librae|σ Librae, Brachium an eclipsing variable.
+
+α and β Librae are the scales' balance beam, and γ and σ are the weighing pans.
+
+σ Librae was formerly known as γ Scorpii even though it is well inside the boundaries of Libra. It was not renamed as σ Librae until 1851 (by Benjamin A. Gould).
+
+
+
+Category:Constellations
+Category:Constellations listed by Ptolemy

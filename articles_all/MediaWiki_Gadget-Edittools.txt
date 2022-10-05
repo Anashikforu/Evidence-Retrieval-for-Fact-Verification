@@ -1,0 +1,1 @@
+''Edittools'' - Show the special characters toolbar on edit screens.

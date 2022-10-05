@@ -1,0 +1,23 @@
+{{Taxobox
+| name = Equisetum
+| image =Equisetum_telmateia_stem.jpg
+| image_width = 240px
+| image_caption = Vegetative stem of ''Equisetum telmateia'' with a whorl (at each node) of branches and dark-tipped leaves
+| regnum = Plantae
+| divisio = Pteridophyta
+| classis = '''Equisetopsida'''
+| ordo = '''Equisetales'''
+| familia = '''Equisetaceae'''
+| genus = '''''Equisetum'''''}}
+
+The '''horsetails''' are a Class (biology)|class in the Pteridophyta (ferns). They were one of the most important plant groups in the Palaeozoic era.  For over 100 million years they were diverse, and dominated the understorey of late Paleozoic forests.  They are seen in the coal measures of the Carboniferous period, and some were trees reaching up 30 metres.Pryer K.M. ''et al'' 2004. Phylogeny and evolution of ferns (monilophytes) with a focus on the early leptosporangiate divergences. ''American Journal of Botany'' '''91''': 1582-1598 (available 
+ ''Equisetum'' 
+
+'''''Equisetum''''' is the only living genus of horsetails. The name ''Equisetum'' comes from the Latin (''equus'' = horse; and ''seta'' = bristle).Other names include '''candock''' (applied to branching species only), and '''scouring-rush''' (applied to the unbranched or sparsely branched species). The latter name refers to the plants' Juncaceae|rush-like appearance; the stems are coated with abrasive silica, which made them useful for cleaning ("scouring") cooking pots in the past. The genus includes 15 species.
+Horsetails are Indigenous (ecology)|native on all continents except Australasia and Antarctica. They are perennial plants, either herbaceous, they die back in winter (most temperate species) or they are evergreen (some tropical species, and the temperate species ''Equisetum hyemale, E. scirpoides, E. variegatum'' and ''E. ramosissimum''). They mostly grow 0.2-1.5 m tall, though ''E. telmateia'' can exceptionally reach 2.5 m, and the tropical Americas|American species ''E. giganteum'' 5 m, and ''E. myriochaetum'' 8 m.
+
+In these plants the Leaf|leaves are very small, in whorls joined together to make sheaths around the Plant stem|stem. The stems are green and photosynthesis|photosynthetic, also distinctive in being hollow, jointed and ridged, usually with 6-40 ridges. There may or may not be whorls of branches at the nodes; when present, these branches are identical to the main stem except smaller.
+
+A superficially similar flowering plant (''Hippuris'', "mare's tail", in the family Plantaginaceae), unrelated to the genus ''Equisetum'', is occasionally misidentified as a horsetail.
+
+frr:Equisetales

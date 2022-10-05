@@ -1,0 +1,31 @@
+A '''user interface''' allows a user to interact with a machine. User interfaces mainly provide two things:
+Information|input: The user can change things; he or she can change how the machine works, or give more information to the machine.
+Output: After the user has given some input, the machine will do something, and then provide some output
+
+
+Many machines can be very dangerous. A machine should have a user interface that can be handled easily, even if the person operating the machine has panicked. The user interface should therefore be intuitive, and simple to use. An example of such a user interface is that of the kill switch. A kill switch must shut off the machine at all costs — the idea is to avoid injury or harm to people. This is very different from shutting off the machine at the end of the shift work|shift, or when it is no longer needed.
+
+According to EN ISO 13850, the kill switch has to be red on a yellow background.  
+
+The colors used to mark different states are close to those used by signals used on the road.
+
+
+
+
+There may be additional symbols, for example:
+
+
+In many cases, such symbols are better, because some people are color blindness|color blind. They need to be explained, like warnings, though.
+
+User interfaces are composed of one or more layers including a human-machine interface (HMI) using physical input devices such as keyboards, mice, and game pads as well as output hardware such as computer monitors, speakers, and printers. User Interface (UI) Design focuses on anticipating what users might need to do and ensuring that the interface has elements that are easy to access, understand, and use to facilitate those actions. UI brings together concepts from interaction design, visual design, and information architecture. 
+
+UI design is closely linked to user experience (UX) design. Both are crucial for the success of a digital product, and both terms are often used interchangeably. However, they’re not the same thing. UI design is the process of creating interfaces with a focus on the surface, the looks, and style, while UX design covers the entire experience a user has with a website or app.
+
+ Gallery 
+
+File:Ice3 leitstand.jpg|User interface of a modern InterCityExpress|ICE train
+File:P8-führerstand2.jpg|User interface of a steam engine
+File:WirelessToiletControlPanel.jpg|Operating panel of a Japanese toilet
+File:Not-Aus Betätiger.jpg|Kill switch
+
+

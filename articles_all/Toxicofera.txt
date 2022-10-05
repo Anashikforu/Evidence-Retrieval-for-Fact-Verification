@@ -1,0 +1,21 @@
+
+
+'''Toxicofera''' (Greek or Latin for "those who carry toxins"), is a Hypothesis|hypothetical clade of living Squamata (lizards and snakes). It includes about 4600 living species. This is all Poison|venomous reptile species, plus related non-venomous species.
+
+
+The clade was identified when research showed that the evolution of venom was very ancient, and that it might have occurred only once.
+
+
+Pyron R.A; Burbrink F.T. and Wiens J.J. 2013. A phylogeny and revised classification of Squamata, including 4161 species of lizards and snakes. ''BMC evolutionary biology'' '''13''', (1) 93.Wiens, John J. ''et al'' 2012. Resolving the phylogeny of lizards and snakes (Squamata) with extensive sampling of genes and species. ''Biology letters'' '''8''', (6) 1043-1046.
+
+ Cladistics 
+The Toxicofera combines the following groups from traditional taxonomy|classification:
+
+ Suborder Serpentes (snakes)
+ Suborder Iguania (iguanas, agamid lizards, chameleons, etc.)
+ Infraorder Anguimorpha, consisting of:
+ Family Varanidae (monitor lizards)
+ Family Anguidae (alligator lizards, glass lizards, etc.)
+ Family Helodermatidae (Gila monster and Mexican beaded lizard)
+
+category:scaled reptiles

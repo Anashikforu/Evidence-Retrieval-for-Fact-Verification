@@ -1,0 +1,24 @@
+{{Taxobox
+| name = Steller's sea cow
+| status = EX
+| status_system = iucn3.1
+| extinct = 1768
+| image =
+| image_width = 250px
+| regnum = Animalia
+| phylum = Chordata
+| classis = Mammalia
+| ordo = Sirenia
+| familia = Dugongidae
+| subfamilia = †'''Hydrodamalinae'''
+| genus = †'''''Hydrodamalis'''''
+| binomial = ''Hydrodamalis gigas''}}
+
+'''Steller's sea cow''' (''Hydrodamalis gigas'') is an extinct aquatic mammal.
+
+It is a member of the order (biology)|order Sirenia, which today consists of dugongs and manatees. Discovered in 1741, Steller's sea cow weighed about 10 tonnes. It fed on kelp, and lived in shallow waters around the Bering Sea. Hunted relentlessly for their meat, they died out 27 years after their discovery. The reduction in the kelp supply may also have contributed to their extinction.
+
+
+
+
+Category:Sirenia

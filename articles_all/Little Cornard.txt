@@ -1,0 +1,23 @@
+{{Infobox UK place 
+| static_image=  Little Cornard All Saints church - geograph.org.uk - 1916631.jpg
+| static_image_caption=  All Saints Church
+| official_name=         Little Cornard
+| country=               England
+| region=                East of England
+| os_grid_reference=     
+| latitude=              52.018
+| longitude=             0.769
+| post_town=             SUDBURY
+| postcode_area=         CO
+| postcode_district=     CO10
+| dial_code=             01787
+| civil_parish=  Little Cornard
+| shire_county=          Suffolk
+| shire_district=        Babergh
+| hide_services=      
+| population = 305
+| population_ref = ''(2001)''
+ }}
+'''Little Cornard''' is a village and civil parish in Babergh, Suffolk, England. In 2001, there were 305 people living in Little Cornard.
+
+Category:Settlements in Babergh

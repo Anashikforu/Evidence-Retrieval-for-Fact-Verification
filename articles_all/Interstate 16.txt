@@ -1,0 +1,13 @@
+
+
+|direction_b=East
+|terminus_b=Montgomery Street in Savannah
+|counties=Bibb County, Georgia|Bibb, Twiggs County, Georgia|Twiggs, Bleckley County, Georgia|Bleckley, Laurens County, Georgia|Laurens, Treutlen County, Georgia|Treutlen, Emanuel County, Georgia|Emanuel, Candler County, Georgia|Candler, Bulloch County, Georgia|Bulloch, Bryan County, Georgia|Bryan, Effingham County, Georgia|Effingham, Chatham County, Georgia|Chatham
+|previous_type=SR
+|previous_route=15
+|next_type=SR
+|next_route=16
+|browse=
+}}
+'''Interstate 16''' is an Interstate Highway in the state of Georgia (U.S. state)|Georgia in the United States. It goes from Macon, Georgia|Macon east to Savannah, Georgia|Savannah. The route is  long.
+

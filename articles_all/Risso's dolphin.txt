@@ -1,0 +1,23 @@
+{{Taxobox
+| name = Risso's dolphin
+| image = risso's dolphin.jpg
+| image2 = Risso's dolphin size.svg
+| image2_caption = Size difference between a Risso's dolphin and a person.
+| regnum = Animalia
+| classis = Mammalia
+| subclassis = Eutheria
+| ordo = Cetacea
+| subordo = Odontoceti
+| familia = Delphinidae
+| genus = '''''Grampus'''''
+| binomial = ''Grampus griseus''
+| binomial_authority = (Georges Cuvier|G. Cuvier, 1812)}}
+
+The '''Risso's dolphin''' (''Grampus griseus'') is the only species of dolphin in the genus ''Grampus''.
+
+
+
+
+Category:Oceanic dolphins
+
+

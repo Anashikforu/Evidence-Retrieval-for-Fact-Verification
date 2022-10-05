@@ -1,0 +1,62 @@
+
+{{Infobox F1 season
+| year        = 2011
+| image       = 
+| champion    =  Sebastian Vettel
+| second      =  Jenson Button
+| third       =   Mark Webber
+| previous    = 2010
+| next        = 2012
+|constructor=
+The '''2011 Formula One season''' will be the 62nd Fédération Internationale de l'Automobile|FIA Formula One season. The FIA announced they would consider adding a thirteenth team to the grid . but the Bahrain Grand Prix was cancelled due to the high amount of protesters. Bahrain was briefly put back on the schedule before being cancelled again by the organizers of the race.
+
+ Teams and drivers 
+The new Concorde Agreement signed on 1 August 2009 continues the terms of the 1998 agreement. It will run until 31 December 2012.
+
+
+
+= Notes =
+ Two teams will use the '''Lotus''' name in 2011.
+ Before the season started, Robert Kubica was set to be one of the drivers for Renault. Renault announced that Nick Heidfeld will replace Kubica starting at the test in Barcelona.
+ Lotus Racing is entered under the '''Team Lotus''' name. The legal use of the name ''Lotus'' and ''Team Lotus'' is under dispute. Team Lotus was an F1 team, based in England, that raced from 1954 to 1994.
+
+ Race schedule 
+The FIA released the race schedule for the 2011 world championship. A new race, the Indian Grand Prix, had been added. However, the Bahrain Grand Prix was called off due to the political unrest in the country.
+
+
+ Subject to circuit approval
+
+ Changes 
+ A new race, the Indian Grand Prix, has been added to the schedule.
+ Pirelli will be the only Tire|tyre.
+ The F-duct, used in 2010, has been banned.
+ Shortened shark fins. The shark fin, the raised engine cover that connected to the rear wing has been banned. The height and length of the engine cover has been limited.
+ KERS, or Kinetic Energy Recovery Systems will be used again. It was not banned in 2010, but all the teams agreed to not use it. To encourage teams to install and use KERS, the minimum weight of the car has been increased from 620 kilograms (1,367 pounds) to 640 kilograms (1,411 pounds).
+ The 107% rule will return to qualifying. The 107% rule is used for the first qualifying session (Q1). The rule will be used to keep cars that are too slow out of the race. Any car that cannot set a qualifying time within 107% of the fastest car will not be allowed to enter the race. The rule does not apply to Q2 and Q3.
+:An example: The fastest car in Q1 sets a time of 1 minute and 40 seconds (or 100 seconds). The 107% time will be 1 minute and 47 seconds (or 107 seconds). A slower car sets a time of 1 minute and 45 seconds. It will be allowed to race. Another car sets a time of 1 minute and 48 seconds (or 108 seconds). This car will not be allowed to race.
+:Under some special conditions, the race stewards may allow a practice time to count for the 107% rule.
+ Starting with the European Grand Prix, the FIA will no longer allow teams to change the engine mapping parameter after the qualifying session.
+Starting with the British Grand Prix, the FIA will no longer allow teams to flow constant exhaust gas when off throttle. Several teams had directed the exhaust gas to exit under the car. They then changed the engine to continue flow a large amount of gas through the exhaust when the driver let off the throttle in the corners. This gave the car better aerodynamics.
+
+ Results and standings 
+= Race results =
+
+
+ Scoring system 
+
+
+= Drivers standings =
+
+Pole position in '''Bold'''.
+Fastest lap in ''Italics''.
+ Driver did not finish the Grand Prix. Driver was classified (ranked) because they finished over 90% of the race.
+
+
+= Constructors standings =
+
+Pole position in '''Bold'''.
+Fastest lap in ''Italics''.
+ Car did not finish the Grand Prix. Car was classified (ranked) because it finished over 90% of the race distance.
+
+
+Category:2011 in sports

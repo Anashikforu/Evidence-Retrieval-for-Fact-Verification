@@ -1,0 +1,6 @@
+'''The tragedy of the commons''' was an article published by Garrett Hardin in the journal ''Science (journal)|Science'' in 1968.Hardin, Garrett 1968. 
+The idea was not Hardin's, but a person named William Forster Lloyd who wrote about it in 1833. In those days herders often grazed cows on common land. Lloyd pointed out that each cow added benefit to its owner but damaged the land overall for all herders by overgrazing.
+
+The tragedy of the commons is often used in modern debates on ecology. It is also a topic in game theory.
+
+Category:Property

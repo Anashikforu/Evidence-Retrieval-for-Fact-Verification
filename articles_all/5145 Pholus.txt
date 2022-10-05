@@ -1,0 +1,38 @@
+{{Infobox Planet   | bgcolour=#FFFFC0 |
+ name=5145 Pholus
+ | discoverer=Spacewatch (David L. Rabinowitz)
+ | discovered=January 9, 1992
+ | alt_names=1992 AD
+ | mp_category=Centaur (planetoid)|Centaur, Asteroid
+ |orbit_ref = 
+ | epoch=November 30, 2008 (Julian day|JD 2454800.5)
+ | semimajor=3045.2 Giga|Gm(20.356 Astronomical unit|AU)
+ | perihelion=1305.9 Gm(8.730 AU)
+ | aphelion=4784.1 Gm(31.98 AU)
+ | eccentricity=0.5711
+ | period=33547.41 day|d(91.85 Julian year (astronomy)|yr)
+ | inclination=24.65degree (angle)|°
+ | asc_node=119.44°
+ | arg_peri=354.92°
+ | mean_anomaly=67.49°
+ | avg_speed=6.01 km/second|s
+ | dimensions=185±16 km 
+ | mass=~6.6 kilogram|kg
+ | density=2.0? g/cubic centimetre|cm³ (assumed)
+ | surface_grav=~0.052 m/s²
+ | escape_velocity=~0.098 km/s
+ | rotation=9.98 hours
+ | spectral_type= (red) B-V=1.19; V-R=0.78 
+ | abs_magnitude=7.0
+ | albedo=0.046±0.02
+ | single_temperature=~62 kelvin|K}}
+'''5145 Pholus''' is a Centaur (planetoid)|Centaur (minor planetoid) of the solar system running in a stretched orbit, with a perihelion (closest approach to the Sun) less than  Saturn (planet)|Saturn's and aphelion (farthest approach from the Sun) farther than Neptune (planet)|Neptune's. Close approaches of the object are not common: it has not come within one astronomical unit (about 150 million km) of a planet since 764 BC, and will not again until 5290. Astronomers think that Pholus started out as a Kuiper belt object.
+
+It was found by David L. Rabinowitz, then of the University of Arizona's Spacewatch Project, and named after Pholus, the brother of the mythological Chiron, after which 2060 Chiron was named to follow the tradition of naming this class of outer planet crossing objects after Centaurs.
+
+Pholus was the second Centaur (planetoid)|Centaur type asteroid to be found and was quickly found to be very red in color. Because it's very red, it is sometimes called "Big Red". Astronomers think the color is because of organic compounds on its surface.
+
+Unlike the first Centaur, 2060 Chiron, Pholus has shown no signs of cometary activity.
+
+Astronomers think that Pholus' diameter is about 185±16&nbsp;km.
+Category:Asteroids

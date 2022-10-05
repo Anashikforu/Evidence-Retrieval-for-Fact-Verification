@@ -1,0 +1,25 @@
+An '''ideal gas''' is a gas with particular characteristics. 
+ The particles have no volume
+ All collisions between particles are elastic collisions and lose no kinetic energy
+ The particles neither electromagnetic|attract each other nor repel
+ They have random movement
+
+Ideal gases are hypothetical which means that they do not exist in their true form.
+
+Equation
+The Ideal gas law that relates the volume, pressure, temperature and number of particles in an ideal gas is:
+
+PV=nRT
+
+Where: 
+ n = number of mole (unit)|moles of gas
+ T = temperature in Kelvin|Kelvin (K)
+ R = 8.314 joule|J⋅K−1⋅mole (unit)|mol−1, which is the gas constant|universal gas constant
+ V = volume in Litre|Litres (L)
+ P = pressure in Pascal (unit)|Pascals (Pa)
+
+
+
+
+Category:Chemistry
+Category:Gases

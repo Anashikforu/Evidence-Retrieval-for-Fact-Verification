@@ -1,0 +1,34 @@
+{{Infobox EMU
+ |name = British Rail Class 466
+ |image = Maidstone West Station 04.JPG
+ |imagesize = 300px
+ |caption =  466006 at Maidstone West railway station|Maidstone West operating on the Medway Valley Line.
+ |background = #012545
+ |Manufacturer = Metro Cammell
+ |Family = Networker (train)|Networker
+ |Operator = Southeastern
+ |Formation = 2 cars per trainset
+ |Built = 43 trainsets
+ |InService = 1993 – Current
+ |Weight =  Total – 72.4 tonnes
+ |CarLength =  DMOS -68ft 6 1/2in (20.89m)
+DTSO – 68ft 6 1/2in (20.89m)
+ |CarWidth = 9ft 3in (2.81m)
+ |CarHeight = 12ft 4 1/2in (3.77m)
+ |Capacity = 
+ |MaxSpeed = 75mph 121&nbsp;km/k
+ |Power = 804hp (600kW)
+ |Gauge = 
+ |Voltage = 750V dc third rail
+ }}
+
+
+The '''Class 466''' 750V direct current|DC third rail electric multiple unit (EMU) is a suburban EMU, which operates with British Rail Class 465|Class 465 EMUs in southeast London and Kent on the Southeastern (train operating company)|Southeastern network. It is a member of the Networker (train)|Networker family of trains.
+
+
+
+
+
+
+Category:British Rail electric multiple units|466
+Category:BREL products|466

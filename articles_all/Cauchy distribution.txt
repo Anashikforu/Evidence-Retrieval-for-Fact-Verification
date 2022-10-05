@@ -1,0 +1,13 @@
+In mathematics, the '''Cauchy-Lorentz distribution''' (after Augustin-Louis Cauchy and Hendrik Lorentz) is a continuous probability distribution with two parameters: a location parameter and a scale parameter. As a probability distribution, it is usually called a ''Cauchy distribution''. Physicists know it as a ''Lorentz distribution''. 
+
+When the location parameter is 0 and the scale parameter is 1, the probability density function of the Cauchy distribution reduces to f(x)= 1/\pi (x^2+1). This is called the '''standard Cauchy distribution'''. 
+
+The Cauchy distribution is used in spectroscopy to describe the spectral lines found there, and to describe resonance. 
+
+Due to this, estimating the mean value may not converge to any single value with more data (law of large numbers) unlike a normal distribution; due to a higher chance of getting extreme values (the tails of a frequency plot). 
+
+ Related pages 
+
+ Student's t-distribution
+
+Category:Probability distributions
